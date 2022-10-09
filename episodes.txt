@@ -1,0 +1,34 @@
+01::    #01- David McFadzen
+02::    #08- Michael Lynch
+03::    #11- Kevin Kelly
+04:: #12, #39, #58: Zoltan Istvan
+05::    #18- Hugh Gusterson
+06::    #29- Mark Perlin
+07::    #32- Ed Finn
+08::    #35- Jordan Rudess
+09::    #37- Martin Ford
+10::    #38- Ismail Ali
+11::    #42- Sharon Weinberger
+12::    #43- Michio Kaku
+13::    #50 Tim Draper
+14::    #52- Erik Davis
+15::    #53, #75, #88, #95- Chris Niebauer
+16::    #54- William B. Irvine
+17::    #57- Robert Spalding
+18::    #60- Yasmine Mohammed
+19::    #62- John McAfee
+20::    #66- William Davidow
+21::    #68- Peter Voss
+22::    #71- Cyrus A. Parsa
+23::    #72, #82, #97- David McFadzen, Fritz Herold
+24::    #76- James Lindsay
+25::    #77, 98- Giulio Prisco
+26::    #78- Rana el Kaliouby
+27::    #79- Brad Templeton
+28::    #85, #89- Peter Ludlow
+29::    #86, #96- Rizwan Virk
+30::    #87, #91- Jason Reza Jordan
+31::    #90- Pedro Domingos
+32::    #93- Adam Drissi
+33::    #94- Nell Watson
+34::    #99- Justin E. Lane
