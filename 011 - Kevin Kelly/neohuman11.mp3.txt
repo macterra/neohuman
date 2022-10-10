@@ -1,0 +1,534 @@
+The way I put this is at Vanity Trump's privacy.
+Hello, and welcome to the 11th episode of Neohuman Podcast.
+I'm Agha Bahari, at Agologist on Twitter and Instagram, and you can follow the show on
+liveonlimbo.com, iTunes, and soon on YouTube.
+With me today is Kevin Kelly. Kevin is a founding executive editor of Wired Magazine and a former
+editor publisher of the Whole Earth Review. Welcome to Neohuman Podcast, Kevin.
+It's my pleasure to be here.
+Let's start with a little bit of your background, the works you've done, and what you're working
+on now these days.
+It's a long story. I'm a pretty old guy. Let me just start from the current. I just finished
+a book called The Inevitable, which is about the next 20 to 30 years, primarily in the
+digital technology space. I kind of outline what I think are going to be the inevitable
+changes, such as things as artificial intelligence and virtual reality, which are coming whether
+we want them or not.
+My take on these is that we should embrace these fully as a way to steer them and manage
+them. We can't prohibit them. We can't stop them. We can only put our arms around, immerse
+ourselves fully in them, and with use, try and steer them.
+What inspired you to write this book now? I was actually going to ask you about the book,
+but what tools do you use to see into the future, and what are the 12 technological forces
+that you think will shape our future? Let's begin with why you saw the necessity to write
+this book now at this time.
+The origins of the book, truthfully, started on my blog, where I began writing what seemed
+to me to be very obvious things that I think were difficult for other people to see, and
+an example would be the fact that the Internet is the world's largest copy machine. Anything
+that touches the Internet is going to be copied, no matter what it is. If it can be copied,
+it will be copied when it touches it, and yet people were trying to stop the copying,
+and so my understanding, my realization was that you can't stop the copying. Copying is
+just an inherent, inevitable part of the Internet, and anyone who's trying to prohibit copying
+or outlaw it or prevent it with copy protection stuff is just working against the grain, and
+what you want to do is you want to work with the grain. You want to work with the fact
+that the copies are going to be promiscuous, and they're going to be ubiquitous, and you
+have to kind of understand that, and you have to embrace the idea that the copies are ubiquitous.
+It also means that they become worthless, too, and so you have to therefore have an
+economy, your own business, based on some things that can't be copied, and those become
+the valuable. That's the kind of insight that I was writing about on my blog, and there
+are others, and I just felt that it would really be beneficial for people to kind of
+understand this, that we would, as a society as a whole, benefit from accepting these technologies,
+and even, individually, if you were in business, you would also benefit. The origins of the
+book was trying to convey some basic notions of how technology works like that.
+Mm-hmm. What are the 12 technological forces, in your opinion?
+Yeah. In the book, I kind of gather these forces and give them a verb. They're actually
+technically a gerund. They're a constant motion. It ends ING, so there's screening, filtering,
+accessing, cognifying, things like that. I don't think we have time in this podcast
+to go through all 12 of them, and they're kind of larger umbrellas for other, they're
+not just 12 trends. There's 12 categories that I put these trends into, and they're
+somewhat arbitrary in the sense that they're a convenient way to organize things, but they're
+not really distinct trends. In fact, there's a great interdependency of them. Sharing is
+one of them. To share and to interact, interacting is another. Each of those encourage and empower
+the other. There's a deep interdependence of these forces, and so they're not even really
+that distinct. The things I cover, though, I cover artificial
+intelligence, and I cover what's coming in, the increase in interaction and interacting
+in virtual reality, and I cover tracking, which is the quantified self and the surveillance
+that we're going to be enduring. I would say the same thing about tracking, as I would
+say it by copying, which is that the Internet wants to track stuff. If you're touching the
+Internet, you're going to be tracked. If you're going into VR, we'll be tracked to an extent
+that has not been possible before. Everything that you do in VR will be tracked.
+We can't stop tracking. People who are thinking that we're going to make laws or whatever
+to stop tracking are wrong. We're going to have more tracking. The thing to do is to
+work with tracking and to make the tracking work for us, make it civil, make it domesticated,
+make it symmetrical. There's many things that we have to do, but we're not going to stop
+the fact that 50 years from now, 30 years, whatever, most of our lives are going to be
+tracked in some capacity. How do we make that livable? How do we make that work? How do
+we steer that? How do we make that kind of tracking? It's going to be tracked, but what
+kind of tracking is not inevitable? That's the kinds of things that I cover.
+Excellent. You mentioned to adapt the change and change with it in a way. What comes to
+mind is that general public has always made the argument for privacy, that all these technologies
+are intruding our privacy, and that government is making an argument. We saw a very good
+example with Apple versus FBI case, the argument for security. How do you think these two will
+come maybe to some sort of a mutual understanding with the tech side of things and grow with
+it in the upcoming future? I don't think they come to a common understanding. I think this
+tension will be with us forever. One of the important things to understand is that there's
+a really, there's a big linkage between two dimensions. The one dimension is this sort
+of, we may call it the privacy. On one end of this dimension on this axis is privacy.
+On the other one would be transparency. In one sense, you are sharing information about
+yourself and that would be transparent. The other one is you share nothing. At the extreme
+end, you are the Unabomber, Ted Konzinski, living in a shack somewhere off the grid.
+You have no friends. You communicate with nobody. You're a loner. You're a hermit. Nobody
+knows anything about you. At the other end, you have somebody who is living in everything
+about them is their sharing, their thoughts, their oversharing, whatever it is. That's
+one dimension. But there's another axis that's actually linked to that. That linkage is personalization.
+At one end, you, at the extreme end, everything about you is personalized. Everything, you
+get customized, everything. Your clothes are customized. Your food is customized. Your
+medical attention is all personalized just to you. At the other end of that axis is generic.
+Nothing is personalized. You just get, you're just a number. You're treated just like an
+average person. Everything is, average is generic. Here, the thing is, the thing is,
+those two axis, the transparency and the personalization are linked so that the only way that you can
+get something personalized is that you have to reveal something about yourself. I want
+my friends to treat me as individual, and therefore, I have to open up and reveal myself
+to my friends. The only way that a company can give you some kind of personalized service
+is if they know something about you. Those two things are linked so that if we want to
+have maximum personalization, we have to have maximum transparency. If we don't want any
+kind of transparency, then the price is going to be, you can be treated as generic number,
+not as an individual. The surprise has, and so there's a little slider that you can go
+back and forth. I think we should have that choice. Here's the thing, and technology gives
+us those kind of choices. Whenever the surprise has been in the last 10 years, is that when
+people are given the choice to push the slider, they are pushing it to the personalized transparent
+side. The way I put this is that vanity trumps privacy. People would much, in other words,
+are saying, treat me as an individual, personalized. I am unique. I am special. I'm not a number.
+The cost of that is being transparent and then people say, fine. The other end of like,
+I don't want anybody to know anything about me and just treat me as a number. Not so many
+people are there. As we go into the future, the demands and the requirements of personalization
+will require and encourage people to be transparent.
+Do you think there will be aspect of, because Internet is coming out of the machines into
+the world that we call the real world as we are experiencing, right? With virtual reality
+and augmented reality. Do you think there will be aspect of it that will be an equivalent
+of deep web and dark net that people can do many different things, a lot of them illegal
+and at the same time stay anonymous?
+Yeah. I think anonymity has to remain as an option, but it should be discouraged as much
+as possible. You should keep it to the smallest amount. I liken it to a rare earth element
+if you have the periodic table of all the elements. There are some elements that are
+required by our cells biologically, so cadmium, arsenic. These are elements that we require
+trace amounts that are necessary, almost like vitamins, that are necessary to have our cells
+working. While they are necessary in very low amounts, in any significant amount, they're
+toxic. The same thing with anonymity. We have to allow that as a possibility for the very
+rare political persecution whistleblowers, but you want to keep it down to an absolute
+minimum. If you have a lot of rare earth metals in your body, you die. If you have a lot of
+anonymity on your website or your firm, you die. It's toxic. The uses of it are very,
+very rare, are very special. We have to have that option, but to use it on a daily basis
+is toxic. If you look at all the places where there's trolling, harassment, all this kind
+of stuff, it all comes from places where people are anonymous or pseudo-anonymous because
+it brings out the worst in people. We do need to have an option, but it should be really
+kept and worked hard to keep it to the exception, to the rare earth element level of 0.00%.
+It should be low. If there's a lot of anonymity, it's going to be toxic.
+Even without being anonymous, I think the best example would be the Microsoft bot that they
+put on Twitter and in 24 hours, it became into a monster basically.
+That's because Twitter is often anonymous. It has nothing to do with the bot. It has
+to do with the fact that Twitter allows anonymous accounts. It's the anonymity of Twitter that
+caused it, not the bots. You don't see actually what happened in China. China did the same
+thing. They had a bot that was programming, but because China requires you to have your
+identity, a verified identity, there wasn't that same problem.
+You're suggesting a system that has to verify your identity and it has to be a singular
+identity because now it's not. I can be something in this world and I can be a completely different
+person in let's say second life, but the world of second life is becoming more and more real.
+Will there be VR companies or places that you can go to as anonymous? Yes, but I can
+tell you right now that a lot of those places will be like 4chan. They won't be a very pleasant
+place to be. That's all I can say. They won't be a pleasant place to be. There's also pseudo
+anonymity, which is where you have a consistent, you don't have your real name, but you have
+a consistent identity that can be linked back if needed with some effort. Boar people try
+out different identities that can be linked back. Again, I think that we have to have
+that option, but if it reaches any sizable degree, it becomes toxic.
+To control those elements, essentially we need to regulate them again. What's the elements?
+You give a very good example that if you go to a virtual reality company and want to sign
+up with them, you definitely need to have an identity, but for that virtual reality
+company to be required to collect your identity, they need to be regulated by a bigger body
+of governance. I would imagine. No, I'm saying that. There's no government
+entity that requires Facebook to try and verify your identity. They're doing it for business
+reasons, is what I'm saying. Facebook, even now, requires that you be a real person. There's
+no government regulation to that. That's their decision. The same thing with the VR. It's
+I'm saying good business practice is going to dictate. If you want to have a place that
+people are going to be comfortable with, you are going to require identities. I think there
+will be, over time, just like Facebook's biggest asset, I believe, is their verified
+identity. Other companies will either try to recreate that or many have many ride on
+top of Facebook's verified identity. That becomes an extremely valuable thing because
+they realize that if they want to have a place that people are comfortable with, they can't
+have high anonymity. It's just toxic.
+Well, you would agree that there will be alternative words. Let's say alternative social medias
+that are based on anonymity and encryption. Because one side of it is that people like
+Edward Snowden are warning us that government is monitoring you and using your information
+for bad. Therefore, these are the tools that you have to say anonymous, to say encrypted
+and all of that. But at the same time, you're making a very good point that more anonymity
+will create more shadowy places that wrong kind of characters can.
+Yeah, encryption should not be confused with anonymity. A lot of the information that, say,
+flows back and forth between my computer and Facebook can be encrypted. Don't confuse encryption
+with anonymity. Those are two different things. They have some overlap in some cases, but
+they can be completely separate. My credit cards are encrypted, but they're
+not anonymous. First of all, we do want encryption everywhere. We're only talking about anonymity
+here, which is not the same as encryption. So don't confuse those two things.
+What do you think about Bitcoin? I think Bitcoin is really interesting. The thing about Bitcoin,
+of course, is that it's only one of a hundred different cryptocurrencies. The thing about
+the cryptocurrencies is that you can kind of engineer them in any way. Bitcoin happens
+to have anonymity engineered into that, but it doesn't have to be. You can have a version
+of a cryptocurrency that is not anonymous. I think that the anonymity of Bitcoins is
+completely distracting to its really fundamental breakthrough, which is the blockchain. So the
+blockchain is the real core thing. The anonymity is actually harmful to it in the long term,
+but the blockchain is the really brilliant technological innovation, which is a kind
+of a distributed accounting system. It's distributed trust. It's a way of distributing trust.
+I think actually in the long term that many governments will actually mandate blockchain
+technology without the anonymity in order to make a completely accountable economy where
+every single transaction is accounted for. Do you think the advancement of modern technology,
+it's been advancing quite crazily after the turn of the century, it will essentially and
+ultimately forces all the other aspects of society, economical, political, everything
+to change with it. So we need a new political system. We need a new economic system.
+Yeah, I think it's, you cannot use distributed peer to peer open source technology and not
+have it affect your politics eventually.
+You dropped out of college, if I'm correct, and backpacked around Asia taking photographs.
+Would you talk a little about the experience and also the experience of learning from life
+versus academic institutions?
+Yeah, I mean, I was sort of grew, came to age in the kind of the arrow of the hippies
+and I read the whole earth catalog, which said that you should invent your life. And
+I took that to heart. I was in high school, I kind of was an overachiever. I doubled up
+in math and science every year. And the problem with college, at least when I was there, my
+first year, it was grade 13, it was more the same sitting in a classroom and I just, you
+know, if they had had things like a gap year, or internships or something, but I needed
+to do something at that point. And the only alternative I had was basically to do it myself.
+So I dropped out and went to Asia as a photographer, which was a passion of mine at that point.
+And by the way, this was at a time when very few people had cameras. I tried to describe
+this to my kids where a family would have a little brownie camera and they would have
+a roll of film in it and they would get it developed. It would have like 24 exposures
+and they would get it developed and it would come back and there would be pictures of Easter,
+4th of July, and Halloween on the same roll. I remember those days.
+24 pictures for a year. Okay. So that, you know, the average family might have taken
+24 pictures in a year. And so I had a camera and I filled my backpack with 500 rolls of
+film, which was, you know, been saving up for forever to buy, almost no clothes. And
+I would take, I would shoot two rolls a day. That was 70 pictures and I would come back
+and I would tell people that I shot two rolls of film and their eyes would bug out. That
+would just be unbelievable. 70 pictures in one day. What are you shooting?
+So I was often the only person with a camera within 100 miles in different parts of Asia.
+So that's what I did and what I got from that was I experienced a whole continent basically
+that was in transformation. But when I arrived in places like Afghanistan or Nepal, I had
+arrived in a time machine. I had gotten into a time machine and I traveled back to the
+1500s. I landed there and it was in every respect, the 1500s. The, I mean, their lives
+had not changed the feudal mindset, the feudal culture. There was no metal. There was, I
+mean, every, there was no electricity. There was no TV. There was no radio. I mean, there
+was, it was 1500s. And so I had the experience of living in the past in a real way in these
+cultures. And so when I, when came out of that into, you know, the capital cities and
+back to the US, I could see with my own eyes and witness it with my own being what technology
+was doing, what progress was, the fact that the progress was real and what it was like
+to not have technology because I lived in that time when there wasn't these things.
+So I got a very good sense of the benefits of progress and technology.
+Did you go to Iran too? I'm originally from Iran. That's why I'm curious.
+I lived in Iran.
+Oh yeah, which city?
+Tehran.
+This is in 70.
+79, 79 during the Khomeini Revolution. I lived in Medan Fadosi down the carpet bazaar.
+Wow.
+Fair the, all the chanting and the demonstrations, death to Americans was happening. And I would,
+I would actually lived above a carpet shop and I would come down and hang out with the
+people. And when the cameras weren't on, they were talking to me and the newest American
+and they say, we love Americans. We just hate your government. And I thought, oh my gosh,
+I wish Americans were that sophisticated.
+So I was learning Farsi, which I've also, I was going to school learning Farsi, which
+I've mostly forgotten, but I would have probably still be in Iran if I hadn't been kicked out
+because I loved it. And I unfortunately saw very little of it because the day I arrived,
+the day I arrived in Iran, I came here from Afghanistan, there was a day that they had
+the helicopter shooting the students from the helicopters. And I was like, travel was
+really hard. You know, it was, it was anyway, so I never got to Persepolis and we got to
+Esfahan someday.
+Yeah, you were there at the very key moment.
+And yes, yeah, it was, it was, yeah, it was a bad time for Iran. It really fell.
+You know, unfortunately, it's very sad what's, what's been happening and what's still happening
+to that country.
+Yeah.
+You mentioned.
+Someday I'll return.
+Yeah. Yeah. That would be awesome.
+I'll tell you, I have a lot of fans in Iran. I'm in touch with a lot of Iranians and the
+people who are into technology and they go to Sharif University. All those people are
+big fans.
+Yeah, yeah, I know. And I occasionally get emails from them. And, and I, you know, would
+very much like to go back and visit. In fact, I was just talking to a friend of mine who
+Tyler McNeven, who was for the past six years has been, we're trying to work with the government
+to do a project. He calls Iran Iran, which he wants to run the length of Iran and make
+a film about it, just meeting the people on the way. And several times it came very close
+to giving. Actually, they started one time. They gave him permits. He started, he ran
+part of it. And then they just kind of, I don't know, something happened. And so, so
+he hasn't been able to complete it. But we were just talking just a couple of weeks ago
+about, well, maybe we'd just go back as tourists at this point.
+Yeah, it's politics against all the good ideas.
+Yeah, yeah. No, I mean, again, I loved Iran. I loved the Iranians. I just, it was just
+really great. But I haven't seen enough of it, of the country to really claim the day.
+Yeah, hopefully one day.
+Yeah.
+Speaking of politics, how do you see the politics in the US affecting the growth of technology?
+Well, you know, the rise of Trumpism is a real step backwards in that most of the jobs
+that causing the anger for people are not, they haven't been taken by China. They've
+been taken by technology. I mean, it's automation. Outsourcing is just the first step in robots.
+So whatever goes to China will go into robots. In fact, China itself, 1 million people work
+for Foxconn, which makes the iPhones, they've committed even three or four years ago to
+buy 1 million robots. So they're going to automate, China is beginning to automate their
+own work. And so these things are inevitable. Automation, AI robots are inevitable, and they're
+going to cause even more friction, conflict, as some of the tasks that we currently do,
+or many of the tasks that we currently do, whether we're manual or white color, are
+going to go to the bots. And so I think this is, I think some of the backlash is just beginning.
+There's going to be more of it. But I think my message would be that this is nothing to
+do with other countries because it's happening there too. This is about automation and we
+can't stop it. We can't prohibit it. We have to embrace it. We have to, so in the future,
+in 20 years from now, people will be paid with how well you work with an AI robot. That
+will be the skill. You're going to work with them, not against them, but understanding,
+being able to talk, to converse well, partner with AI robot is going to be the very valuable
+skill. And that's sort of what we should be teaching.
+Interesting. How would you categorize that skill? Like if you want to call someone a
+doctor or an engineer, what would be the title of that person? Or this will be around the
+fields.
+It'll be around the fields. But in fact, doctoring is one of the things that was just going
+that direction. So the Watson, which is being retrained after playing Jeopardy, is being
+trained as a diagnostic doctor. And their market is not people in Africa with a smartphone
+accessing that because you could do that and that would be better than no doctor. But it
+actually requires a certain, to get the most out of it, requires a certain amount of intelligence
+to working with the person. So it's like the patient doesn't quite know how to make the
+best use of the AI, but the doctor does. And so it's the doctor plus the AI that are going
+to be the best diagnosis. It's not just the AI itself, not the doctor by itself, it's
+the doctor plus AI.
+So doctors who learn, it's like learning how to search or learning, being a power user
+for Google. They'll be power users, AI power users who really know how the AI thinks, how
+to best optimize its knowledge and its use. And they know people too. So they're kind
+of like the interface. And so that will certainly be for several decades, that will be the,
+I think, the pattern, which is you have AI plus humans as being the world's expert.
+It's also true by the way right now in chess. When Gary Kasparov, the world chess champion
+lost to Deep Blue, the IBM Deep Blue, he complained afterwards saying, look, you know, Deep Blue
+had a record of every single chess play ever. All chess moves. He said, if I had access
+to that same database while I was playing, I would have beat Deep Blue. So he made a
+new chess league called the Freestyle Chess League. And there you could play, humans could
+play with AI database. And so now it's freestyle because you can play any, it's like kind of
+freestyle martial arts. You can play any method you want. You can play as a single, solitary
+human chess champ. You could play as an AI or you can play as what they call centaurs
+and AI plus human. And in the past couple of years, the world's best chess player on
+the planet is not an AI. It's not a human. It's a centaur. It's an AI plus human. And
+that's just showing you that that partnership is really the way that we're going to go at
+least for the first couple of decades.
+Oh, I totally agree. And that makes a lot of sense because I was going to say that access
+to database is one thing, but processing all that information to the speed that AI is.
+But yeah, that makes a lot of sense. Speaking of AI, some prominent figures in the world
+of tech expressed their concern about negative possibilities that can be caused by the rise
+of artificial intelligence. Where do you stand on pros and cons of artificial intelligence?
+Yeah, yeah. I mean, it's certainly, we have to consider that possibility. And I think
+even though I think that possibility is very, very low and very unlikely for a number of
+reasons, I think that the solution to that problem is something we should be doing anyway.
+So I endorse the solution, which is that we want to train our AIs to be, to have values,
+to be ethical and moral. And that's what's happening right now. There's Google has a
+group. They're trying to teach the ethics to the self-driving cars because you have
+to, you have to program all that kind of stuff in beforehand. So like, who, if there's an
+accident with pedestrian, who should get priorities? Should it be the passenger or the pedestrians?
+You have to actually decide that right now. And so those are ethical questions. And
+I was going to ask you about ethics and morality. Then first of all, do you think it's objective
+and how we would translate from organic analog human thought process to a digital machine
+process? Yeah, I think we humans overestimate the uniqueness or the distinctiveness. And
+that's that's the humans. And we're not that much. Most of what we can do, including our
+emotions can be programmed. And that's been the sort of never ending surprise. We keep
+being surprise, surprise, surprise, surprise. And we should realize by now that things that
+we thought only humans can do, obviously machines can do. And then once they machines
+do, we say, of course, machines can do that. That's just machine learning. Well, yeah,
+so emotions will be programmed into machines. It's not that difficult, and they'll be very
+valuable to have emotions in machines. Our animals, our pets have emotions. And so it's
+not, it's not just us. And so most of the things that animals can do, it's just kind
+of programming will program into machines. And so ethics turns out to be, it turns out
+that actually humans are not very good at ethics. We're very inconsistent. We're very
+opportunistic, we're very situationalist, relativistic. But what's going to happen as
+we try to program them into machines, we're going to realize this and actually will help
+us to become better, just like just like having children makes you a better person. We're
+going to try to teach our mind children, our technological children, ethics, we will we
+will divide we will realize and we will make ourselves better ethically, because we'll
+see the inconsistencies and we'll try to overcome them.
+Kevin has a new book coming. It's called the inevitable understanding the 12 technological
+forces that will shape our future. I think it's coming in June.
+That's right. June 7 is the pub date. It's available on Amazon for preorder right now.
+Excellent. We talked a little about future. I want to ask you about another future is
+Ray Kurzweil. I know you respect him, but you disagree with his perhaps optimism about
+the singularity. Do you think the singularity is near?
+So yeah, I've known Ray for a while and I respect him and actually I'm in total agreement
+with his optimism, except I disagree with his idea about the singularity. So I'm optimistic
+without the singularity. The singularity just to recap, I think there's two versions, at
+least two versions of it, maybe more. I would kind of reduce them right now in a kind of
+oversimplification as being a strong singularity and a weak one. The strong one is the one
+that Ray believes and it's that intelligence explosion where you make an AI and AI gets
+so smart that it can design an AI that's smarter than itself and then that AI will then design
+an AI that's smarter than itself and each time it does it, it may do it a little quicker.
+So from outside, it looks like all of a sudden once you make an AI that's smarter than humans,
+it suddenly instantly is God. It's infinite wisdom and knowledge and the first thing it
+does is it makes us immortal. It figures out how to make us immortal and once it's immortal,
+then maybe it can even bring back the dead. So therefore, all these good things happen
+once you have the first AI that's smarter than humans and so if you can live to that
+point, whatever year that is, then you'll live forever. Ray believes that and that's
+why he's taking 250 pills a day because he wants to live until that moment so that he
+can actually resurrect his father. I don't even know where to begin to say all the reasons
+why I think that's not going to happen. There's two couple things. One is he just says, well,
+we're on exponential growth of computation and therefore the singularity is near. Well,
+there's the thing. Any point on an exponential curve is near the singularity. That's the
+whole thing. I mean, it's like the singularity was near 200 years ago if we're on a singularity
+curve and it will be 200 years from now. It's always by definition the singularity is always
+near on an exponential curve. Second thing is that I think this idea that an AI will
+both either can design itself smarter or make us immortal is what I call the fallacy of
+think-ism, which is that by thinking about things, you can solve problems. So the idea
+is that if you had an AI that's really smart, it would read all the medical literature in
+the world and then cure cancer. That's not how you cure cancer. You can't cure cancer
+by thinking about it. We don't have enough information. You have to perform experiments.
+There's just so much we don't know that we're not going to get out by thinking about it,
+no matter how smart we are. We have to actually do experiments which take biological time
+and most of them fail. And no matter how smart you are, you have to spend a lot of time
+doing experiments on biological subjects like humans, which just take times. Even simulations
+aren't enough to answer those questions because you have to ground-proof assimilation. So
+this idea that AI's can do these things, including making themselves more just by thinking
+about it, is just a total fantasy. You mentioned the examination through experimentation.
+Isn't the part of the argument that the part of examination also will be done by AI and
+robotics, nanobots, for example, in our bloodstream and between our neurons. So on both sides,
+there will be machines and nanobots and AI doing the work. My thinking is that why would
+they want to do something that we can survive because they will have very different values
+based on the needs that they will have?
+So I think, as I said back, I think we can put our values into the AI's we make. I think
+the whole point of cultural evolution is that it's not necessarily Darwinian. There's every
+reason. One of the things we realize as humans in our culture is that the more species, the
+more variety diversity is a good thing for the economy, for ourselves. So we want to
+have as many different ways of thinking. And one of the things, going back to this whole
+thing of AI, and this is another point, is that we tend to think of intelligence as a
+single dimension. It's not a single dimension. Our own intelligence is a whole suite, a spectrum
+of probably about 100 different types of thinking from spatial deduction, rationalization, emotional
+intelligence. I mean, there's hundreds of them. We don't have a general purpose intelligence
+at all. If we have a very, very specific kind of collective of intelligence suited to our
+survival evolutionarily. First of all, the only way you can make this kind of intelligence
+is to have the same substrate, a biological substrate. But secondly, there's not much
+reason to make this suite, this collective of intelligences, artificially. What we want
+and what we're doing is making other kinds of thinking. So your calculator is smarter
+than you are in arithmetic, your GPS is smarter than you are in spatial navigation, Google
+is smarter than you are in total recar. And the self-driving car will drive in an inhuman
+way. That's the whole point. That's why we want it driving. We don't want it to drive
+like a human. And so what we'll be doing is making different species of thinking. They'll
+think differently. The AIs that we're going to make are going to think differently than
+humans. That's their main value, because we can get them to help us, work with us to
+solve problems that we can't. So these are going to be different species. And the AIs
+won't be able to think like us. Our thinking will be different. And there's every reason
+to work with us. This idea that the AIs need to kill us is just a crazy, insane Hollywood
+trope. It's a cliche. It doesn't make any sense at all. I can't really think of it.
+In fact, I think that would be even hard to do, even if it was your job to program this.
+I don't think you could do it.
+Isn't it interesting that humans find that scenario interesting enough?
+Yeah, right. And it's kind of the only vision of the AI future is they take over and terminate
+us. And I think it's because this is so cinematic. I mean, it's just a cheap cinematic device.
+And the idea that they would find is useful. But more importantly, it's not going to be
+that separate from us. And this is the other important thing. So that was the strong version.
+I think the weak version of the singularity is that we are making a planetary super-organism
+of something, that we are weaving ourselves 7 billion people plus 15 quintillion computers
+and smartphones together into one thing that's always on, that there is an intelligence at
+this higher level that we can't understand.
+So the whole point of the singularity is you can't see beyond it. The insight was that
+you have something that was the original idea of the singularity is that there's a horizon
+beyond which you cannot see at all. And that you can't even imagine. And I think that there's
+a soft version of that where we have a planetary intelligence that we as neurons sort of can't
+really understand. And that seems to me to be very, very likely. Again, we are then part
+of the thing. So really not this sense of us against them. It's like, no, we are them.
+It is us. We're part of it. We may not understand it when it does stuff, but that's us. And
+so I think that's a second reason. So on that kind of singularity, I'm saying, yeah, I think
+there could be this soft singularity where the future and what happens is really hard
+for us to see because we have this thing that has not existed before and it has its own
+thoughts.
+Do you have a frame for that or we just don't know?
+Yes, it's now. We've already begun. I mean, we're building it now. And I'm trying to take
+this idea seriously. It's not just the metaphor. I think, no, we really do have a machine that's
+I think the things like the flash crash in the world finance system is an example of
+kind of like a synchronized thought or something that happens globally. We're not even sure
+why it happened. And we will never know. And I think those are the kinds of things that
+we'll see more of.
+Yeah, I agree. Things are changing and changing fast at the planetary level. So a lot of the
+impossible things that we have encountered like Wikipedia are because we have a technology
+to allow a billion people to collaborate in real time. That's never happened before.
+Most of the kind of cool things are happening, social media, all these other things are due
+to the fact that we now have this technology to allow collaboration, cooperation in real
+time at the planetary scale.
+Speaking of cool things, the cover story of the May issue of Wired Magazine is about
+this mysterious unicorn startup, Magic Leap, who as stated on the cover of this month,
+Wired are on the quest to create a new kind of reality. Now you spent some time with them
+and wrote it.
+And by the way, I wrote the article.
+Yes, I was exactly going to say that you spent some time and wrote that extensive piece
+about them. Would you explain to our listeners what exactly Magic Leap is and what did they
+do and why are they so important that without a better version of even being available to
+the developers, they raise more than a billion dollars?
+Yeah, I can't explain the last one. I mean, why people have given them so much money. So
+I did get to see the current version of their technology and I saw all the other VR companies
+as well. And a lot of the demos and most of the content that was available say at the
+first of the year. And Magic Leap, there's two distinct brands, two different categories
+of virtual reality. There's the VR, which is you put on the headset, the goggles and
+you are immersed into a total world. So everything you see is this synthetically created world.
+And then there's what they call MR or AR, Mixed Reality or Augmented Reality. There's
+some transitions, MR or AR. And that is where you were kind of a transparent spectacle like
+a pair of glasses and you see your room or even outside or your office. And then the
+virtual is inserted into or on top of or within the real world that you see. So you can see
+virtual objects or you can see virtual people or you can see virtual screens.
+So MR and AR are the same thing. MR and AR are basically the same thing. And if you
+can do MR or AR, you can do VR because all you have to do is turn the lights in the room
+down and fill, not just an object, but you can fill everything in. So technically, VR
+is a subset of MR or AR, we'll call it MR. So VR is a subset of MR, meaning that again,
+if your technology can do MR really, really well, you can easily do VR too. So technically,
+MR is more difficult to do. And magically it's doing MR, which is this augmented mixed
+reality where you have a pair of visors or spectacles or glasses, which are mostly kind
+of clear. And you can see everything around you, but you have this virtual aspect to it.
+And the thing about magic leaf stuff is that it really does appear as if it's there. Now
+the it, the image is there's no pixels that you can detect. It's pretty stationary, but
+the lighting is off. And let me say this is that to really pass for that as to be really
+real, the virtual object would have to be lit with the same light that's in the room
+that you're in. And that would require another level of computation of detecting and measuring
+all the light in the room as you move around and reproducing that entire lighting onto
+the virtual object. That does not happen right now. So what that means, and there's a couple
+other glitches or things to overcome, what that means is that what you see today in the
+MR is a artificial looking, it's an artificial thing. It doesn't look real, but it looks
+really present. So its presence is absolutely real. It's like having, you know, so there's
+often there's a fantasy thing, you know, it's a baby elephant or it's a little robot thing,
+or it's Mickey Mouse or it's a person, but they don't look entirely real in that room
+because the lighting is off among other things. But their presence is absolutely real. You're
+totally convinced. And that's the same thing with VR is even in the cartoon world, you
+know that it can't really be real world, but you really feel present that presence is real.
+And so that real presence is sort of the key because what's happening with VR and MR is
+that what you're getting is we're moving from internet of information to internet of experiences.
+So the experiences are real. They're incredibly vivid. They feel you feel them rather than
+know them. And there's a huge difference there between knowing things like information and
+feeling them. And that shift is going to be very, very important. I think VR the most
+important, the most interesting things in VR are not other landscapes, not other objects,
+but other people. And I think VR is going to be the most social of all the social media
+that we have.
+Is there any audio aspect to what they do as well?
+Oh, yeah, absolutely. So there's actually 3D or, you know, by neuro or audio. So it's
+not stereo, it's beyond stereo. Because to do true 3D audio, the audio has to change
+depending on where you are as you move around the room. So it's not just that you have a
+sense of three dimensions. It's a sense that you have like four dimensions. It's X. So
+it's changing.
+Motion tracking, basically.
+Yeah, right. Motion tracking. So they have, there's bionary recording, which is a different
+way of recording things so that you actually have a full, true three-dimensional recording
+that you can actually navigate through. And that's a large part of it. And it turns out
+that actually your hands, the tactile, having hands touching, moving your whole body, having
+vibrations come back is 50% or more than 50% of the total sensation or this total illusion
+of being there. And that that is a huge part in a lot of the, some of the new arcades,
+the VR arcades. Take advantage of that by, you know, giving you a vest that you wear
+in gloves and other things where you can actually feel your whole body is there. And then that
+transportation is incredible. You really are somewhere different.
+How can someone write for Wired Magazine?
+I think the general path, and this is true not just for Wired, is with small stuff, start
+writing small things. So I think generally most of the writers who've come to Wired have
+been writing somewhere else first. So they either have a blog, they have an audience,
+or they're writing little things, probably the digital side first. They're doing little
+short things. And they are noticed and they move on to longer things that seems to be
+the general pattern.
+We've been talking to Kevin Kelly, his upcoming book, Inevitable, understanding the 12 technological
+forces that will shape our future. I'm going to ask you the final question that I ask all
+my guests. And that's, if you come across an intelligent alien from a different civilization,
+what would you say as the worst thing that humanity has done? And what would you say
+as humanity's greatest achievement?
+I think the worst thing that we've done would have to be the enslavement and the dehumanization
+of races of people who we declared were not really us. So that kind of completely artificial
+arbitrary separation. And I would say, depending on the circumstances, but the best thing we
+would have done would have been meeting an alien in another planet. I mean, that's going
+to be an achievement that would be quite remarkable. I don't think we're going to meet them on
+our own planet. I think there's just going to be a restriction for AIs not to interfere
+with us, so they're not going to reveal themselves. But I think our ability to make contact with
+another one will be our greatest achievement to that point.
