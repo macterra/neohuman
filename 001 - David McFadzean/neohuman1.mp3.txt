@@ -1,976 +1,595 @@
-I would offer, actually the World Wide Web is our greatest achievement of the technology
-that makes self-expression possible and collaboration.
-I think it's instigated a renaissance across the world, it's amazing.
-And in a sense, it's only getting started, so ask me 10 years from now and I'll say the
-successor for the web, whatever that is.
-Hello, this is Agah Bahari and I am here with the first episode of Neo Human.
-I will be talking to interesting people about interesting subjects.
-We don't have any specific subject or title or style for the podcast, whatever happens,
-it's just going to be interesting.
-That's the most important thing.
-For the first episode, right here with me, we have David McFadden, who is a lead engineer
-at Synaptic, which is a Toronto-based technology company.
-Synaptic.
-Synaptic.
-Horrible.
-I asked you the name before the show too.
-So what do you do at Synaptic and what does Synaptic do?
-Yeah, Synaptic is a startup that's about almost four years old now and we build technology
-to mainly assist neurosurgeons in difficult brain surgery.
-So we have a line of products to look at the scans from the brain and render them in 3D
-and help the surgeon plan the surgery in advance.
-And then in the OR, our software acts sort of like a GPS for surgeons, it's like Google
-Maps to show them where they are and help her along in their route.
+I would offer, actually, the World Wide Web is our greatest achievement.
+The technology that makes self-expression possible and collaboration, I think it's
+instigated a renaissance across the world. It's amazing. And in a sense, it's only getting started.
+So, ask me 10 years from now and I'll say the successor for the web, whatever that is.
+Hello, this is Agha Bahari and I am here with the first episode of Neo-Human.
+I will be talking to interesting people about interesting subjects. We don't have any specific
+subject or title or style for the podcast, whatever happens, it's just going to be interesting.
+That's the most important thing. For the first episode, right here with me,
+we have David McFadzen, who is a lead engineer at a Synaptic, which is a Toronto-based technology
+company. Synaptive. Synaptive. Horrible. I asked you the name before the show too.
+So, what do you do at Synaptive and what does Synaptive do?
+Yeah, Synaptive is a startup that's about almost four years old now and we build technology to
+mainly assist neurosurgeons in difficult brain surgeries. So, we have a line of products
+to look at the scans from the brain and render them in 3D and help the surgeon
+plan the surgery in advance. And then in the OR, our software acts sort of like a GPS for surgeons
+because it's like a Google Maps to show them where they are and help her along in their route.
 And if they get off course, they can get back on with the 3D map of the brain.
-And this is usable with robotics and with human doctors, both can use it.
-Because I remember you were saying that you have a robotic arm at the work.
-That's right.
-I'm the lead software engineer on our robotic arm project.
-It's a device positioning system that's designed to assist the surgeon.
-So it's holding the optics for the surgery, which is the lighting and the camera and a
-microscope and it's recording video.
-And the robotic arm automatically positions the optics of the cameras into ideal positions
-for the surgeon.
-They just have to make a gesture that they want it in some particular place and press
-a foot pedal and the robotic arm will move the optics into the correct position.
-That's amazing.
-How long did it take from, if you know, from the concept idea of such a thing to being
-at this level that you guys are, which I believe you're ready to be launched?
-It launched last February.
-It launched last February.
-Yeah, from concept to when it was FDA approved and actually used in our real surgery was
-less than two years.
-Oh, wow.
-That's amazing.
-And you still consider the whole company as a startup.
-Like you're not a corporation per se.
-We're in transition now since we got FDA approval last February and we're deployed now.
-We're out in the field at, I think, eight or nine different installations now, different
-hospitals around the United States.
-And it's to date in the last eight months or so since it's heard, it's been used in
-500 real surgeries.
-That's amazing.
-What do you think is, I'm an enthusiast entrepreneur, I have to say.
-Like I'm very interested in creative ideas and then implementing those ideas.
-And with computers and coding, it's never really been easier, I think, to make an idea
-from ground up with a very limited number of people.
-That's very true.
-Yeah.
-What do you think the effect of such technologies in our, because the company that you're explaining
-is a very specific company to doing very specific thing, how do you think those technologies
-will translate into a popular or mainstream consumer to be able to take advantage of that?
-For example, let's say this is just off the top of my head.
-Would there be a possibility of mixing this technology or would you see the possibility
-of mixing this technology with a very straightforward variable like the EEG variables that exist
-right now that assist you to meditate?
-I think they're also a company from Toronto, eMUSE or MUSE, I think.
-Right.
-I think we actually used MUSE at a hackathon that we did internally at Synaptiv a couple
-months ago and using the MUSE will detect brainwaves of some sort and encode them in
-a way that a software can take advantage of.
-So one of the demos was to move the robotic arm just by thinking about it.
-Wow.
-It was amazing.
-I bet.
-Yeah.
-So we're definitely looking at new consumer electronics to bring that into the OR to help
-the surgeons, stuff like the Oculus Rift or the Microsoft HoloLens to give the surgeon
-a heads up display and show them the 3D rendering of the brain as if he was living in that space.
-That's amazing.
-You would imagine this also, beside the surgery itself for training, this is a very great
-achievement the way that you don't necessarily have to experiment on even like animals for
-a lot of stuff that are going on inside there.
-When we want to test their brain pulses or anything, instead of doing it on the animal,
-it will be able to done in a virtual space in the virtual brain.
-Yeah, definitely.
-You can see this in the Microsoft promotional material for the HoloLens and the early demos
-are in the classroom where a teacher is showing the kid's solar system or whatever and the
-kids have whole lenses and the solar system is right there in the classroom with them
-and animated and interactive.
-Or games.
-Yeah.
-Yeah, it's just unbelievable.
-Another use that this kind of technology has had in past couple of years has been a military
-and they've done it for good and for evil per se even though it might be necessary evil.
-But the technology has been used to treat PTSD very seriously and they've had very successful
-results from it.
-Where do you see the future of that technology with that assistance are going and how does
-technology as a whole will play a bigger and bigger role in the army and the military industry
-complex?
-We see with the rise of drones, it has been, I dare say, almost a decade now.
-Where do you see this whole thing is going with?
-Because we are not going to stop fighting, the war is going to continue and I think the
-difference would be that we will have less casualty because technology is covering most
-of the ground that people had to do before.
-Where do you see this whole thing going with the usage of technology and its dependence
-to advance technology?
-Well, in the military particularly, I think the trend is to push more and more computational
-power down to the ranks and replacing humans with automation.
-Obviously, it's much safer for their side, but they're going to run into a pretty significant
-ethical decision probably really soon about giving autonomous drones the power to kill
-or the right to kill.
-Would you think that they will announce that they're about to do that or they'll just do
-it until they get caught?
-Looking from recent events, I think probably the latter, we'll find out about it on WikiLeaks.
-Yeah, I think so.
-It's been amazing.
-I think it's a great achievement of technology that you can go in a small room in Arizona
-and control a drone in Afghanistan and drop a bomb because of course, it's not resulting
-always in good.
-Sometimes it does and there are some people that need to be killed and that's the only
-way and I much rather a drone will kill them than a soldier on our side basically being
-put in risk to deal with a Taliban leader or whoever.
+And this is usable with robotics and with human doctors. Both can use it. Because I remember
+you were saying that you have a robotic arm at the work. That's right. I'm the lead software
+engineer on our robotic arm project. It's a device positioning system that's designed to assist the
+surgeon. So, it's holding the optics for the surgery, which is the lighting in the camera
+and a microscope. And it's recording video. And the robotic arm on MacLea positions the
+optics of the camera into ideal positions for the surgeon. We just have to make a gesture that they
+want it in some particular place and press a foot pedal. And the robotic arm will move the
+optics into the correct position. That's amazing. How long did it take
+from the concept idea of such a thing to being at this level that you guys are, which
+I believe you're ready to be launched? It launched last February actually.
+It launched last February? Yeah. From concept to when it was FDA approved and actually used in
+our real surgery was less than two years. Oh, wow. That's amazing. And you still consider the whole
+company as a startup. Like you're not a corporation per se. We're in transition now.
+Since we got FDA approval last February and we're deployed now, we're out in the field at,
+I think, eight or nine different installations now, different hospitals around the United States.
+And it's to date in the last eight months or so since it's heard. It's been used in 500 real
+surgeries. That's amazing. What do you think is, I'm an enthusiast entrepreneur, I have to say.
+Like, I'm very interested in creative ideas and then implementing those ideas and with
+computers and coding, it's never really been easier, I think, to make an idea from ground up
+with a very limited number of people. That's very true. Yeah. What do you think the effect of such
+technologies in our, because the company that you're explaining is a very specific company
+that doing very specific thing? How do you think those technologies will translate into a popular
+or mainstream consumer to be able to take advantage of that? For example, let's say this is just off
+the top of my head. Would there be a possibility of mixing this technology or would you see the
+possibility of mixing this technology with a very straightforward variable like the EEG
+variables that exist right now that assist you to meditate? I think they're also a company from
+Toronto, Emuse or Muse, I think. Right. I think we actually used Muse at a hackathon that we
+did internally at Synaptive a couple of months ago. And using Lemuse will detect brainwaves of
+some sort and encode them in a way that software can take advantage of. So one of the demos was
+to move the robotic arm just by thinking about it. Wow. It was amazing. I bet, yeah. Yeah,
+so we're definitely looking at new consumer electronics to bring that into the OR to help
+the surgeon. Stuff like the Oculus Rift or the Microsoft HoloLens to give the surgeon a heads
+up display and show them the 3D rendering of the brain as if he was living in that space.
+That's amazing. You would imagine this also beside the surgery itself for training. This is a
+very great achievement. The way that you don't necessarily have to experiment on even like
+animals for a lot of stuff that are going on inside. When we want to test their brain pulses
+or anything instead of doing it on the animal, it will be able to done in a virtual space in
+the virtual brain. Yeah, definitely. You could see this in the Microsoft proportional material
+for the HoloLens. Some of the early demos are in the classroom where a teacher is showing
+the kids a solar system or whatever and the kids have HoloLenses and the solar system is
+right there in the classroom with them and animated and interactive. Or games. Yeah. Yeah,
+it's just unbelievable. Another use that this kind of technology has had in the past couple
+years has been a military and they've done it for good and for evil and per se.
+Even though it might be necessary evil. But the technology has been used to treat PTSD very
+seriously and they've had very successful results from it. Where do you see the future
+of that technology with that assistance are going? And how does technology as a whole will play
+a bigger and bigger role in the army and in military industry complex?
+We see with the rise of drones that has been, I dare say, almost a decade now.
+Where do you see this whole thing is going? Because we are not going to stop fighting.
+The war is going to continue. And I think the difference would be that we will have less
+casualty because technology is covering most of the ground that people had to do before.
+Where do you see this whole thing going with the usage of technology and its dependence to
+advance technology? Well, in military particularly, I think the trend is to push more and more
+computational power down to the ranks and replacing humans with automation. Obviously,
+it's much safer for their side. But they're going to run into a pretty significant ethical
+decision probably really soon about giving autonomous drones the power to kill or the right to kill.
+Would you think that they will announce that they're about to do that or they'll just do it
+until they get caught? Judging from recent events, I think probably the latter.
+It will find out about it on WikiLeaks. Yeah, I think so.
+It's been amazing. I think it's a great achievement of technology that you can
+go in a small room in Arizona and control a drone in Afghanistan and drop a bomb because
+of course, it's not resulting always in good. Sometimes it does and there are some people
+that need to be killed and that's the only way. And I much rather a drone will kill them than a
+soldier on our side basically being put in risk to deal with a Taliban leader or whoever.
 But at the same time, you see how people are treating, for example, even driverless cars.
-There are already a lot of people freaked out about it.
-People are freaked out about drones, use of mainstream drones.
-You see these conspiracy theorists that have YouTube channels and iTunes podcasts and all
-of that.
-They're talking about shoot the drones down with your shotguns and all the people who
-are very concerned about these kind of thing conspiracies.
-How do you think the challenge that technologists and technology enthusiasts have who are between
-two sides, one being the politics and politicians and the other being people who are basically
-always scared of a new thing.
-That new thing has to be proven many, many times and more and more people using it for
-masses to accept the usage of that.
-How do you think it will result and will it slow the advancement down or slow it down
-or speed it up?
+There are already a lot of people freaked out about it. People are freaked out about drones
+use of mainstream drones. You see these conspiracy theorists that have
+YouTube channels and iTunes podcasts and all of that. They're talking about, shoot the drones
+down with your shotguns and all the people who are very concerned about these kind of thing
+conspiracies. How do you think the challenge that technologists and technology enthusiasts have
+who are between two sides, one being the politics and politicians and the other being
+people who are basically always scared of a new thing. That new thing has to be proven
+many, many times and more and more people using it for masses to accept the usage of that. How
+do you think it will result in? Will it slow the advancement down or slow it down or speed it up?
 I think the way it will actually play out is we'll see some significant pushback initially
 because it is a big change, but it's also fairly inevitable that this is going to happen.
-It reminds me of David Brin's Transparent Society where surveillance becomes pervasive
-and that could have actually net positive effects on society as we've already seen
-with the way the police in the US have reacted to their cameras.
-All of a sudden, police are getting caught all the time and I think it's changing the
-way they behave.
-They're becoming more ethical in their professional behavior now.
-Yeah, it's like a double-edged sword because it's become more transparent for the authorities
-to control that, but at the same time, general population also are seeing it more.
-They do believe that it's happening more.
-Once it reaches some critical threshold, I think it will just become accepted like cell
-phones have become accepted.
-There was pushback initially about those two.
-People were just walking down the street talking to themselves that looked weird, but now it's
-so calm and nobody looks twice.
-It's just accepted.
-Also virtual reality, I think, will have a lot to do with that because people would have
-the possibility to be whoever they want physically.
-Like on the game Second Life, that you can create your own avatar and live in that.
-People get married, people buy stuff.
-Sweden, I heard, has an embassy in that virtual world.
-Nike has a store.
-So I think it will begin with this is weird that people are doing because people will
-do that and film it and put it on YouTube to create a community and find like-minded
-people and it's amazing that we can do that all around the world now.
-But at the same time, you freak certain people out, the people who watch Fox News and all
-those propaganda, basically.
-Those people are not that much of a concern, I agree, but we hear also from someone like
-Elon Musk and Bill Gates and Steve Wozniak who are, I don't want to say scaring people.
-They're smarter than that.
-They're making a very valid case of dangers of artificial intelligence.
-But at the same time, I think these kind of warnings, even though necessary, it will lower
-the budget that research facilities can have to actually work on it because if public opinion
-is not behind an idea, it would be very hard to finance.
-It's like, you know, I have a very good idea for a startup, but I probably not going to
-have more than 10 users.
-Nobody's going to fund me.
-Right.
-Yeah, we saw the same thing happen with prediction markets a few years ago.
-Robin Hanson was ready to roll out a prediction market that would help with public policy.
-And one of the questions that they were interested in betting on was the chance of a terrorist
-event.
-But some senators got a hold of this information and ran a scare campaign saying it would be
-terrible to bet on these sorts of things because one side has to bet on it happening, which
-could be seen as promoting it in some sense.
-It was a silly reason anyways, but the point is that it turned public opinion and the project
-was abandoned.
+It reminds me of David Brin's Transparent Society when surveillance becomes pervasive
+and that could have actually net positive effects on society, as we've already seen with
+the way the police in the US have reacted to their cameras. All of a sudden,
+police are getting caught all the time and I think it's changing the way they behave. They're
+becoming more ethical in their professional behavior now. Yeah, it's like a double-edged sword
+because it's become more transparent for the authorities to control that, but at the same time
+a general population also are seeing it more, so they do believe that it's happening more.
+But once it reaches some critical threshold, I think it will just become accepted,
+like cell phones have become accepted. There was pushback initially about those two,
+that people were just walking down the street talking to themselves that looked weird,
+but now it's so calm, nobody looks twice. It's just accepted.
+Also, virtual reality, I think, will have a lot to do with that because people would have
+the possibility to be whoever they want physically. On the game, Second Life,
+that you can create your own avatar and live in that. People get married, people buy stuff.
+Sweden, I heard, has an embassy in that virtual world. Nike has a store.
+I think it will begin with, this is weird that people are doing because people will do that
+and film it and put it on YouTube to create a community and find like-minded people. It's
+amazing that we can do that all around the world now. At the same time, you freak certain people
+out, the people who watch Fox News and all those propaganda, basically. Those people are not that
+much of a concern, I agree, but we hear also from someone like Elon Musk and Bill Gates and Steve
+Wozniak or... I don't want to say scaring people, they're smarter than that. They're making a very
+valid case of dangers of artificial intelligence. But at the same time, I think these kind of
+warnings, even though necessary, it will lower the budget that research facilities can have to
+actually work on it because if public opinion is not behind an idea, it would be very hard to
+finance it. It's like, I have a very good idea for a startup, but I'm probably not going to have
+more than 10 users. Nobody's going to fund me. Right. Yeah, we saw the same thing happen with
+prediction markets a few years ago. Robin Hansen was ready to roll out a prediction market that
+would help with public policy. And one of the questions that they were interested in betting
+on was the chance of a terrorist event. But some senators got ahold of this information and ran
+a scare campaign saying it would be terrible to bet on these sorts of things because one side has
+to bet on it happening, which could be seen as promoting it in some sense. There was a silly
+reason anyways, but the point is that it turned public opinion and the project was abandoned.
 Do you blame that senator or you blame the people who voted that senator into Senate?
-I think they're all to blame.
-Yeah.
-One senator is one senator, has to be thousands of people at least behind him.
-And I think that's one of the greatest revelations in the United States, Donald Trump running
-for presidency because you see everybody who's behind him.
-It's a very interesting phenomenon.
-Yeah.
-It's only only one person predicted that.
-Who did?
-Who was that?
-God Adams, the creator of Dilbert.
-Really?
-Seriously.
-He said Donald Trump will run for president.
-He said that Donald Trump will continue to lead in the Republican polls long before anyone
-else even considered that possibility.
-Everyone else thought he was a joke and that he was popular initially because it was funny,
-but that's actually not the case.
-Now, what's very interesting is that they were reading the polls, not polls really,
-but how much time media is covering Donald Trump in comparison to the other people.
-It's twice as much as Hillary Clinton, the time that Trump is getting, and I think 13
-times more than Bernie Sanders.
-What Trump understands is how to manipulate media to his advantage.
-Absolutely.
-And he knows that whoever has name recognition is going to be highest in the polls.
-It's such a great transition though, because with reality shows become more popular in
-the United States.
-And the celebrity culture, I had this conversation with somebody else that I was like, celebrities
-became the idols, the greatest thing that you can be in the 21st century.
-And she was saying that, no, people were celebrities before that.
-But I was like, no, not like this, that you use, for example, Bono from YouTube for any
-humanitarian campaign that you have to get attention from people.
-That's not the cause that is getting the attention of the people.
-It's a celebrity.
-And then by the rise of that, and now you see a person who's a creator of a reality
-show and is an apprentice, Miss Universe, all those things.
-Nobody knows better than him how to manipulate the media, as he said.
-And I mean, it's appealing to most people, I think because he's not getting any money
-from big corporations and CPACs and nobody.
-Right.
-He's posing as the outsider.
-He is above corruption.
-And the thing that I think people most find appealing is he speaks his mind.
-He doesn't care what people think about what he says.
-I mean, he goes to extremes to make that point.
-Do you think he believe a lot of?
+I think they're all to blame. Yeah, because senators, one senator has to be thousands of
+people at least behind him. And I think that's one of the greatest revelations in the United
+States. Donald Trump running for presidency because you see everybody who's behind him.
+It's a very interesting phenomenon. Yeah. Yeah. Only only one person predicted that.
+Who was that? God Adams, the creator of Dilbert. Really? Seriously. He said Donald Trump will run
+for president? He said that Donald Trump will continue to lead in the Republican polls long
+before anyone else even considered that possibility. Everyone else thought he was a
+joke and that he was popular initially because it was funny. But that's actually not the case.
+No. What's very interesting is that they were reading the polls,
+not polls really, but how much time media is covering Donald Trump in comparison to
+the other people. It's twice as much as Hillary Clinton, the time that Trump is getting. And
+I think 13 times more than Bernie Sanders. What Trump understands is how to manipulate
+media to his advantage. Absolutely. And he knows that whoever has name recognition is going to be
+highest in the polls. It's such a great transition though because with reality shows become more
+popular in the United States and the celebrity culture. I had this conversation with somebody
+else that I was like celebrities became the idols. The greatest thing that you can be in the 21st
+century. And she was saying that no, people were celebrities before that. But I was like, no, not
+like this that you use, for example, Bono from YouTube for any humanitarian campaign that you
+have to get attention from people. It's not the cause that is getting the attention of the people.
+It's a celebrity. And then by the rise of that, and now you see a person who's a creator of a
+reality show. And it's an apprentice, misuniverse, all those things. Nobody knows better than him
+how to manipulate the media, as he said. And I mean, it's appealing to most people, I think,
+because he's not getting any money from big corporations and CPACs and nobody.
+Right. He's posing as the outsider. He is above corruption. And the thing that I think people
+most find appealing is he speaks his mind. He doesn't care what people think about what he says.
+I mean, he goes to extremes to make that point. Do you think he believe a lot of?
 No, I think he does that in order to get media attention.
-I think so, too.
-I think so, too.
-I'm at this point, as we had this conversation before, I'm a Bernie Sanders supporter.
-And I think it would be very good for America to have a change in that direction.
-It's a very extreme change.
-We were a capitalist, but now we are being run by a Jew, liberal, socialist.
-It would be a very good change.
-In my opinion.
-But if he drops out, I'm supporting Donald Trump because I think he does not believe
-a lot of stuff that he says.
-You cannot possibly be that blind and make it that far.
-I think in a city like New York City and Hillary Clinton, I have no interest in her.
-No, I think Hillary would just be a continuation of Obama, which turned out to be just a continuation
-of W. Bush, surprisingly, against all odds, against everyone's wishes.
-Is it really a surprise?
-Because one man in a democracy doesn't supposed to be able to change anything.
-You have to go.
-So it's a democratic system that is backstabbing itself, in my opinion, because the party's
-rhetorics against each other, and one person who's being elected as somebody who you can't
-use as a punching box, you know, punching bag, I don't think he can do much.
-Well perhaps not, but you'd expect him to push in the directions of his promises when
-he's actually gone in the other direction.
-I think the good things that he did, I'm not really sure about the healthcare system, because
-apparently it's one of those things you have to live in the US to experience, that I heard
-good things and bad things about Obamacare from different people who I respect their
-opinions.
-I think when he made it legal for same-sex marriages to become federal, I think that
-was a good thing.
-And I still think he will do more in this last year.
-I'm not an Obama fan at all.
-In the second term, in the first term when he was running, I was totally supporting John
-McCain.
-And then John McCain elected Sarah Palin as vice president, like, why would you do that?
-Like it's such a weird thing.
-That was bizarre.
-Yeah, they made a really cool movie about it, Woody Harrelson, isn't it?
-I can't remember the name.
-But it's about that era of Sarah Palin, it's based on a book with Sarah Palin's advisor
-after the campaign was over, he wrote, and it was a disaster with her.
-But again, she's one person, there are thousands of people who are supporting her.
-She's still, apparently, making the most money in the conservative charities and conservative
-fundraisers.
-I mean, who knows, it's really strange.
-You think the new government of Canada will have any effect in the social life of Americans
-in a way that this is a liberal government?
-We pulled out of Syria in the first week that, you know, he became a prime minister.
-And then we started getting refugees, even though the numbers are not comparable with
-what Europe is doing.
-And that we can talk about.
-I fully expect the Trudeau's government to be kind of an example for Americans to show
-what's possible.
-Yeah.
-Other than the ridiculous choices they have now, it's, I mean, it's sad.
-It's I don't know, me and my girlfriend, we have this conversation, she's a big supporter
-of Hillary Clinton, because she also has worked for Hillary Clinton.
-And she was very impressed with her as a boss, she's a smart person.
-She brought technology in a very involved way into State Department.
-And she's a defender of women rights.
-But then you watch a lot of different stuff that's been put together, how she has flip
-flopped from time to time.
-And then you wonder, you know, is this really the best that United States of America can
-offer as a candidate for presidency?
-Like there's nobody else.
-My favorite candidate would be Eric Schmidt of Google.
-Okay.
-Because they are obviously smarter than anybody who's running, you know, for president, politicians.
-But unfortunately, we are kind of taken hostages by lawyers, it seems like Neil deGrasse Tyson
-was also saying that you look at the Congress and Senate, the lawyer, lawyer, lawyer, businessman,
-lawyer, lawyer, businessman, where are the scientists, where are the engineers?
-In Europe.
-I mean, the Europeans don't have the same problem with their politicians, they actually
-have academics and politics.
-Which they should.
-They should.
-You'd expect.
-Yeah.
-But no, it's, it's, I mean, a lot of good news is coming from the West in the sense
-that countries with innovation, you know, the first world countries, but at the same
-time, you see a lot of nonsense is also coming out of them.
-Look at Europe, the problem that they have now with the refugee crisis and what happened
-in Germany, which I'm sure you know about in the New Year's Eve, it just kind of makes
-it worse.
-And already, I think people are completely ignoring them.
-Under the radical right, who are, they're rising very powerful in decades.
-You can say in Germany, in Greece, in France, in Finland, in Sweden, you see people who
-were national socialists and they couldn't even breathe really in a political spectrum
-in those countries.
-There, they have a lot of supporters now and the extreme right group in Germany, Pegida,
-they had a, they had a rally here in Ottawa and there are videos on YouTube that day around
-the streets and there are also people who are countering them who are anti-racism and
-all of that.
-Where do you, where do you see this whole social conflict is going?
-From what I understand, the attacks in Cologne, New Year's Eve were actually suppressed, news
-of the attacks was suppressed by the government because they were afraid it would fuel kind
-of anti-immigration sentiment on the right.
-And then the mayor.
-But as soon as the news came out, it made it much worse because now the socialist governments
-are protecting the bad actors.
-That's right.
-And that's not the side you want to be on.
-No.
-And the mayor of Cologne, the mayor basically blamed the women.
-Right.
-Yeah.
-They kept the man at the arm length only, what are you talking about?
-Like, do you flip this easily?
-Like what did it take?
+I think so, too. I think so, too. I'm at this point, as we had this conversation
+before, I'm a Bernie Sanders supporter. And I think it would be very good for America to have
+a change in that direction. It's a very extreme change. We were a capitalist, but now we are
+being run by a Jew, liberal, a socialist. It would be a very good change, in my opinion. But
+if he drops out, I'm supporting Donald Trump, because I think he does not believe a lot of
+stuff that he says. You cannot possibly be that blind and make it that far. I think in a city
+like New York City. And Hillary Clinton, I have no interest in her. No, I think Hillary would just
+be a continuation of Obama, which turned out to be just a continuation of W. Bush. Surprisingly.
+I agree. Against all odds. Everyone's wishes. Is it really a surprise? Because one man in a
+democracy doesn't supposed to be able to change anything. You have to go. So it's a democratic
+system that is backstabbing itself, in my opinion, because the parties' rhetorics against each other.
+And one person who's being elected as somebody who you can use as a punching box,
+you know, punching bag. I don't think he can do much.
+Well, perhaps not. But you'd expect him to push in the directions of his promises when he's actually
+gone in the other direction. I think the good things that he did, I'm not really sure about
+healthcare system, because apparently it's one of those things you have to live in the U.S. to
+experience. I heard good things and bad things about Obamacare from different people who I respect
+their opinions. I think when he made it legal for the same-sex marriages to become federal,
+I think that was a good thing. And I still think he will do more in this last year. I'm not an
+Obama fan at all. In the first term, when he was running, I was totally supporting John McCain.
+And then John McCain elected Sarah Palin as vice president. Why would you do that? It's such a
+weird thing. That was bizarre. Yeah, they made a really cool movie about it. Woody Harrelson,
+isn't it? I can't remember the name. But it's about that era of Sarah Palin. It's based on a book
+whose Sarah Palin's advisor after the campaign was over, he wrote, and it was a disaster with her.
+But again, she's one person. There are thousands of people who are supporting her. She's still
+apparently making the most money in the conservative charities and conservative fundraisers.
+Who knows? It's really strange. You think the new government of Canada will have any effect in
+the social life of Americans in a way that this is a liberal government. We pulled out of Syria
+in the first week that he became a prime minister. And then we started getting refugees,
+even though the numbers are not comparable with what Europe is doing. And that we can talk about.
+I fully expect the Trudeau's government to be kind of an example for Americans to show what's
+possible. Yeah. Other than the ridiculous choices they have now. I mean, it's sad. I don't know.
+Me and my girlfriend, we have this conversation. She's a big supporter of Hillary Clinton,
+because she also has worked for Hillary Clinton. And she was very impressed with her as a boss.
+She's a smart person. She brought technology in a very involved way into state department.
+And she's a defender of women rights. But then you watch a lot of different stuff that's been
+put together, how she has flip flopped from time to time. And then you wonder, you know,
+is this really the best that United States of America can offer as a candidate for presidency?
+Like there's nobody else. My favorite candidate would be Eric Schmidt of Google.
+Yeah, because they are obviously smarter than anybody who's running, you know, for president
+politicians. But unfortunately, we are kind of taken hostage by lawyers, it seems like.
+Neil deGrasse Tyson was also saying that you look at the Congress and Senate,
+the lawyer, lawyer, businessman, lawyer, lawyer, businessman. Where are the scientists? Where
+are the engineers? They're in Europe. I mean, the Europeans don't have the same problem with
+their politicians. They actually have academics and politics. Which they should. They should.
+You'd expect that. Yeah. But no, it's, it's, I mean, a lot of good news is coming from
+the West in the sense that countries with innovation, you know, the first world countries.
+But at the same time, you see a lot of nonsense is also coming out of them.
+Look at Europe, the problem that they have now with the refugee crisis.
+And what happened in Germany, which I'm sure you know about in the New Year's Eve,
+it just kind of makes it worse. And already, I think people are completely ignoring them.
+They're the radical right who are, they're rising very powerful in decades.
+You can say in Germany, in Greece, in France, in Finland, in Sweden, you see people who were
+national socialists and they, they couldn't even breathe really in a political spectrum in those
+countries. They're, they have a lot of supporters now and the extreme right group in Germany,
+in Germany, Pegida, they had a, they had a rally here in Ottawa and there are videos on
+YouTube that they were on the streets and there are also people who are countering them,
+who are anti-racism and all of that. Where do you, where do you see this whole social conflict
+is going? Well, from what I understand, the attacks in Cologne New Year's Eve were actually suppressed,
+news of the attacks were suppressed by the government because they're afraid it would
+fuel kind of anti-immigration sentiment on the right. And then the mayor, as soon as the news
+came out, it made it much worse because now the socialist governments are protecting the bad actors.
+That's right. That's not the side you want to be on. No. And the mayor of Cologne, the mayor
+basically blamed the women. The women, great. Yeah. It's like, keep, keep the man at the arm
+length. I'm like, what are you talking about? Like, do you flip this easily? Like, what did it take?
 And my understanding is that they're getting 1 million, 1 million plus refugees into Germany.
-This is not going to go away, this problem, because then they're going to push for them
-to become citizen faster so they can vote for that party.
-That's my thinking.
-They have the same thinking about abortion and people who are against it, that they don't
-care about that baby, they just care about one more Christian and one more Muslim or
-one more whatever.
-It's a number.
-And the fact that they're committing suicide, I think, in Europe for the sake of their own
-political game and agenda.
-Yeah, it looks ironic from the outside observer.
-Yeah, for sure.
-And as you're saying, Europeans, they master a lot of things much faster than Americans.
-They already, as you said, have academics and scientists and their political system
-are completely involved, but at the same time, you see the openness in the European way and
-multiculturalism in the European way that they promoted, for example, in England is
-causing a lot of problem right now.
-See all those Muslim British or British Muslims who joined the terrorist group ISIL in the
-Middle East.
-A lot of them are British.
-The guy who was born and raised in Britain, yeah, like they went to school.
-Sometimes in BBC, they're talking to people who knew them when they were a kid.
-The guy, Jihadi John, who who just got assassinated like two weeks ago, he was replaced by another
-British guy.
-And they right away find out who he was.
-And he was one of the people who are very closely related to excuse me, to the Islamic
-extremists.
-Anjum Chowdhury, I don't know if you know him, is like a preacher for extreme Islam in London
-and completely protected by the government, is getting paid by the government.
-But that guy who I had seen before in the documentaries about them, now he joined ISIL
-and he became a new Jihadi John.
-He just released the video is like very surreal.
-I think it's really interesting to see the recent backlash against these progressive
-values, the ones that are protecting the terrorists.
-In fact, there's a new term for them, the regressive left.
-That's right.
-They're the ones that are attacking Sam Harris and his colleagues for actually addressing
-the problem.
-So Glenn Greenwald and Ben Affleck, of course, and Bill Marshall, calling Sam a racist for
-saying that this is actually an issue.
-Yeah, I hope that we come to rationality and smart thinking in a way that we don't really
-have to get our facts from Ben Affleck, for example.
-Because the other side of his story, who at that occasion was Sam Harris, he's more than
-qualified to talk about any of those things.
-He has studied it, he's a philosopher and a neuroscientist, and he's been writing and
-talking about these issues for a while, for a long time.
-Since he published The End of Faith.
-Absolutely.
-And I think 9-11 was a horrible thing, but in a way, a lot of good came out of it in
-a sense that people like Sam Harris, people like Richard Dawkins, Christopher Hitchens,
-Douglas Morey, these people started targeting what the problem really, they think, is.
-And I agree with them completely.
-Do you think there would have been no God Delusion published if not for 9-11, or End
-of Faith, or Dennett's breaking the spell, or you think those were all a result of 9-11?
-I think so.
-I think so.
-Possibly, yes.
-Earlier in the podcast, you said something that triggered this odd idea.
-We were talking about elections and Trump, and in the context of Trump, you immediately
-brought up reality shows.
-And it just made me wonder, what if the elections are a reality show, and have been since, say,
-JFK debated Nixon in 1960 on TV, that was the first televised debate, what if the election
-has been a reality show ever since?
-What if?
-And the winner gets to rule the free world for four years.
-Yeah.
-It could be, I guess.
-I think everything is possible.
-But the question would be, who is producing the reality show?
-Who is okaying it?
-Maybe it's the media.
-Let's see.
-Let's follow the money.
-There's a lot of spending in elections.
-Where does that money go?
-I would imagine mostly goes to media.
-Some lobbyists, maybe, to shift the position.
-Elections are all about advertising.
-That's right.
-So advertisers.
-Yep.
-They're running the federal election reality show.
-Yeah, that's awesome.
-Well, you're right by saying that let's follow the money and see where it leads, because
-everything is basically money.
-Well, that's been Bernie Sanders' main complaint, this election cycle, isn't it, that the big
-business owns the politicians?
-I think that's absolutely true.
-The politicians are absolutely corrupt.
-It's special interests that control legislation.
-That's been proven statistically.
-Yes.
-That makes a lot of sense.
-So he offers a solution to add even more legislation to prevent this sort of thing, but that's
-might make it worse.
-That just adds more regulations to be subject to regulatory capture.
-It's just a bigger government.
+This is not going to go away, this problem, because then they're going to push for them to
+become citizen faster so they can vote for that party. Right. That's my thinking. And I have the
+same thinking about abortion and people who are against it, that they don't care about that baby.
+They just care about one more Christian and one more Muslim or one more whatever. It's a number.
+Mm-hmm. And the fact that they're committing suicide, I think, in Europe for the sake of
+their own political game and agenda. Yeah, it looks ironic from outside observer.
+Yeah, for sure. And as you're saying, Europeans, they master a lot of things much faster than
+Americans. They already, as you said, have academics and scientists and their political system
+completely involved. But they, at the same time, you see the openness in the European way and
+multiculturalism in the European way that they promoted, for example, in England is causing
+a lot of problem right now. See all those Muslim British or British Muslims who joined the terrorist
+group ISIL in the Middle East. A lot of them are British, the guy who-
+They were born and raised in Brittany.
+Yeah, like they went to school, sometimes in BBC, they're talking to people who knew them
+when they were a kid. The guy, Jihadi John, who just got assassinated like two weeks ago,
+he was replaced by another British guy. And they right away found out who he was.
+And he was one of the people who are very closely related to, excuse me, to the Islamic extremist
+Anjum Chowdhury. I don't know if you know him, he's like a preacher for extreme Islam in London
+and completely protected by the government. He's getting paid by the government.
+But that guy who I had seen before in the documentaries about them, now he joined
+ISIL and he became a new Jihadi John. He just released a video. It's like very surreal.
+It is. I think it's really interesting to see the recent backlash against these progressive
+values, the ones that are protecting the terrorists. In fact, there's a new term for them, the regressive
+left. They're the ones that are attacking Sam Harris and his colleagues for actually addressing
+the problem. So Glenn Greenwald and Ben Affleck, of course, on the Bill Marshall calling Sam a
+racist for saying that this is actually an issue. Yeah. I hope that we come to rationality and
+smart thinking in a way that we don't really have to get our facts from Ben Affleck, for example.
+Because the other side of his story, who at that occasion was Sam Harris, he's more than qualified
+to talk about any of those things. He has studied it. He's a philosopher and a neuroscientist
+and he's been writing and talking about these issues for a while, for a long time.
+Since he published the end of faith.
+Absolutely. And I think 9-11 was a horrible thing, but in a way, a lot of good came out of it in a
+sense that people like Sam Harris, people like Richard Dawkins, Christopher Hitchens, Douglas
+Morey, this people started targeting what the problem really they think is. And I agree with
+them completely. Do you think there would have been no God Delusion published, if not for 9-11?
+End of faith or then it's breaking the spell? Do you think those were all a result of 9-11?
+I think so. I think so. Possibly. Earlier in the podcast, you said something that triggered this
+odd idea. We were talking about elections in Trump and in the context of Trump,
+he immediately brought up reality shows. And it just made me wonder, what if the elections are
+a reality show and have been since, say, JFK debated Nixon in 1960 on TV. That was the first
+televised debate. What if the election has been a reality show ever since? What if?
+And when it gets through the free world for four years. Yeah. It could be, I guess. I think
+everything is possible. But the question would be, who is producing the reality show? Who's
+okaying it? Maybe it's the media. Let's see. Let's follow the money. There's a lot of spending
+on elections. Where does that money go? I would imagine mostly goes to media. Some lobbyists,
+maybe, to shift the position. Elections are all about advertising. That's right. So advertisers.
+Yeah, they're running the federal election reality show. Yeah, that's awesome. Well,
+you're right by saying that let's follow the money and see where it leads because everything
+is basically money. Well, that's been Bernie Sanders being complete this election cycle,
+isn't it? The big business owns the politicians. I think that's absolutely true. The politicians
+are absolutely corrupt. It's special interests that control legislation. That's been proven
+statistically. Yes. That makes a lot of sense. So he offers a solution to add even more
+legislation to prevent this sort of thing. But that might make it worse. That just adds more
+regulations to be that it would be subject to regulatory capture. It's just a bigger government.
 The more power the government has, the more value there is in controlling it.
-Right.
-That's absolutely true.
-Jeremy, what's his family name?
-He wrote a book, Future Money, and our friend Nicola interviewed him too, which he's talking
-about.
-Rifkin?
-Rifkin.
-Yes.
-Jeremy Rifkin.
-Thanks.
-A zero margin society.
-How do you think that kind of a society will affect this money talks in a way that, let's
-say, more and more human resources being replaced by machines.
-So you don't have to pay them salary.
-You don't have to pay for their...
-You don't have to pay...
-Is this the argument that robots are going to put everyone out of work?
-That money will have no value, basically the end of capitalism.
-That's the idea.
-There will be no money in this way.
-But is there still value in this society?
-Value is a concept?
-Will people value one thing over another?
-Will they value living in one place over another?
-Will they value seeing somebody talk or seeing some show more than another?
-You know what they were saying that in the past 20 years, apparently, a trend has begun
-that a newer generation, younger generation, they're not buying houses anymore, they rent.
-A lot of people go to college, but a lot of people don't go to college because it's a
-very big bet.
-I went to film school and I still have not paid my student loan fully.
-So you think about, because when you spend money, it's about a business, am I making
-the right investment?
-Am I going to get anything back from it?
-That just adds to it.
-It's like buying a house, it's like you have a mortgage before even you graduated.
-So more and more people are shifting, I think, towards individualism.
-And I think this is actually a time that Ayn Rand is going to get big again.
-More and more people will be interested in objectivism and think about yourself.
-But isn't staying away from mortgages and renting instead just a shift from long-term
-investment to short-term flexibility?
-I don't know.
-I'm confused about how you derive some trend towards individualism from that.
-It's not from that.
-I think it's just an observation about our social life.
-In early 90s, you would see boomboxes and a group of people gathering around it and
-walking on the street under a shoulder.
-One person has a boombox on the shoulder and like five, six other people walking with them.
-People were talking more to each other.
-You don't have to talk to anybody literally anymore.
-Yeah, I'm with you.
-I'm not saying it in the way that even if it was like old days, I'm not a fan of that
-at all.
-But I think it is more about it's less dependent on a group, which I think is a good thing
-when you have Instagram and the culture of selfie.
-For example, why is it that big, you think?
-That's a mystery to me.
-People have been a fan of it since it's crazy.
-It's one of those things that begun with being able to take a photo of yourself and see yourself
-with a phone and selfie has begun.
-It's just a no-brainer.
-But Kim Kardashian has a book of selfies.
-I don't know if you know about that.
-I did not.
-Yeah, full of selfies.
-But thanks for telling me.
-So I don't think it's a bad thing.
-I think we're dependent less on group.
-Maybe you could look at these selfie trends as kind of an artistic expression.
-I'm all for having online avatars and having many of them.
-I consider none of them are identical to me.
-They're crafted or designed by me for specific purposes and specific communities.
-I've got a social one on Facebook.
-I've got a very professional one on LinkedIn.
-And every different community I'm in, I have a different persona for that community.
-And I don't really worry about privacy very much because I only enter the data for that
-persona that I want to be associated with that persona.
-Mostly I'm not concerned about that at all.
-And I think people are freaking out about something that hasn't existed in many, many
-years.
-It's like, there was a really cool interview with Larry Ellison.
-I watched it on YouTube.
-Oracle.
-Yeah.
-And they're talking about NSA and the effect of that.
-And he's like, do you know who before NSA had all your information?
-Credit card companies.
-Right.
-And there was an article, I think MIT publication too, about how privacy has died.
-And it's a very new thing.
-And it has died already.
-How people have always favored comfort and accessibility to privacy.
-But people are making a huge deal out of it.
-And at the same time, Facebook does that.
-Google does that.
-Don't use them then.
-Right.
-Exactly.
-And if you want to keep something private, I think it's your responsibility to encrypt
-it or use secure channels.
-I agree.
-Technology is the solution.
-Absolutely.
-It's your responsibility to learn new ways to protect yourself and your information.
-I feel the same way about when they're saying Google is selling our information.
-So that's not a good thing.
-Google is not charging you for anything.
-So you can use anything and then that's their business model.
-That's the cost of using Google.
-Exactly.
-So don't use it.
-If it's too expensive, then don't.
-Don't use Doc Doc Go or whatever else, which is pretty cool.
-It's not Google.
-I guess the opponents are mistaking these companies for charities.
-The users are the product.
-They're not really hiding that fact.
-Absolutely.
-They don't charge you.
-They do charge their advertisers.
-You are the product.
-Absolutely.
-And there's nothing wrong with that, I don't think.
-That's your side of the bargain.
-That's why you get all these great utilities.
-This is where we are now.
-And I see it in a way that from the time that man has sat in the cave and decided I want
-to go outside, that's a decision that you made and everything else that can happen to
-you outside of that cave are the alternative of that decision.
-So don't leave if you don't want to deal with anything.
-It's the same thing.
-If you don't want to deal with these things, don't use internet.
-People make the same thing about aging.
-I think the age reversal, aging technology, there are a couple of organizations that were
-working on it.
-That's impossible.
-If you take this, this is like one of the stupidest thing I've ever heard.
-If you take death out of life, life has no meaning.
-I've heard that a lot.
-Yeah.
-Maybe for you.
-The meaning for me is that I want to live and not being stuck with being alive.
-But I don't want to be stuck with dying either.
-I want to have options.
-And I'm seeing it in a way that when we get to a point that we can back up our brain inside
-the machine, maybe one of me want to be backed up in the drop box of the future.
-And then I just want to commit suicide because I want to know how that feels.
-And then that version of me, my backup continues on like, oh, cool.
-I don't even remember.
-Yeah.
-That might absolutely be possible if you have uploads.
-Do you expect to see uploads within your lifetime?
-Uh, it's very hard to say.
-Like it's.
-Yeah.
-Also, you know, I guess if technology and science advance in a rate that they have been advancing
-and no major thing happens, possibly.
-But I, you don't really know, you know, I mean, it's, it's a crazy world.
-The fact that it's funny when this whole ISIL thing began, began in Iraq, um, I was telling
-my friends, this is a very good thing that it's a rock because if it was Pakistan, for
-example, they have nuclear weapon, they would have nuclear weapon.
-The game will be very different than, and now they're in Afghanistan.
-You know, and I was watching a documentary about it today by frontline.
-It's very good ISIS in Afghanistan.
-Um, and they're saying a lot of Taliban, they're leaving Taliban to join ISIS because ISIS
-pays $700 a month for each fighter.
-Apparently that's a rate and that's a lot of money.
-So they did, they joined them.
-So when, so the Taliban is working with them where it's joining ISIS.
-Now ISIS is fighting Taliban, but there are members of Taliban who've deserted Taliban
-and they're continuing to do that because ISIS pays more.
-That's the thing.
-Also, do they think they want to join the winning side?
-I would think that having a higher pay rate isn't going to help if you're on the losing
-side.
-Well, I mean, I don't know because, um, well, ISIS, at the same time, it's very hard to
-kind of imagine what would a Taliban know information wise, like it's very difficult
-to judge because it's the opposite side of the side that we are on and watching the news
-and conceiving the news for that Taliban.
-The problem as they're explaining is that we don't need ISIS because we already have
-Islamic government under Taliban.
-But then they're making the argument.
-Some of the Taliban who desert because it's just a religion filled with loopholes.
-I was like, no, it says in the Koran that, um, when there is a, um, caliphate, which
-is like, um, what the, the States Islamic state, then you have to join that like it's,
-it's an obligation for you.
-So with all these insane people around the world, if they get ahold of some serious weapon,
-they can cause a massive pause to this whole thing.
-At the same time, they might speed things up.
-You know, uh, this like Manhattan project, you know, uh, it was because of war that we
-build not we were Americans built, uh, west allies builds nuclear weapon, nuclear bomb.
-And then again, it was because of war that we went to the moon cold war.
-And then it stopped and we haven't gone back to the moon or anywhere else.
-And we are started doing it now, maybe because Chinese are getting there too.
-They said they're going to land the man on the moon 2020 or something like that, which
-is not even comparable.
-And I like the Chinese system, but I much rather speak in English and deal with the
-Chinese system.
-I think Chinese have figured out their country so well and mixed two different systems together
-so well.
-And they're so strict about it that they've been getting China to where it is now.
-But at the same time, China has became a bubble because it has a very small percentage of
-really, really rich people now.
-And then you go to central China and all those farmlands and it's just like 16th century.
-But they're the best capitalists in the world, I think.
-But again, uh, like Vietnam now, um, you can hire people much cheaper than China, for example,
-Philippines.
-So a lot of businesses are going for clothing and stuff.
-I know they go, it's, it's going to Vietnam.
-It has been going to Vietnam for years now.
-Um, but with less dependence on China, it also depends a lot on how we can improve our
-manufacturing technologies in the West, in the West.
-So 3d printing or machines running things, you know, um, I think they've, but they also
-have a brain program, right?
-Which Ben Goertzel is working with.
-Who's the other guy?
-Oh, right.
-Um, Ben Goertzel means the brain in software or?
-I know the guy who Ben Goertzel was working with, um, who's also in Ray Kurzweil's documentary,
-he's, he has a very negative perspective about artificial intelligence, Hugo, Hugo
-digress, yes, yes, and his art, artelict war, he sees a coming global violent war between
-the humans and the AIs.
-What do you think about that?
-Well, it's certainly a possibility.
-That's why, um, the machine intelligence research Institute exists.
-That's why Elon Musk and Bill Gates and the other scientists have joined in, in raising
-the issue around.
-Do you think it's going to be, um, because it's like one of the biggest concerns that
-makes sense as you explained that is there's a possibility that there will be conflict
-in that way.
-Do you think it will be between humans and machines or humans and human machine fusion?
-This third thing, because I'm thinking if, if you have, for example, um, nanobots inside
-your brain and you expand as a, you know, you evolve, right?
-You become the third thing.
-I think if there is a symbiosis between humans and AI, if every human has an AI partner or
-a bunch of them, um, then that is a path to a safe future.
-That's the best possible future, I think.
-But wouldn't it be like the problem would be if there's a single AI that's not human
+Right. That's very true. Jeremy, what's his family name? He wrote a book, Future Money,
+and our friend Nicola interviewed him too, which he's talking about.
+Is that Rivkin? Rivkin. Yes, Jeremy Rivkin. Thanks. A zero margin society.
+How do you think that kind of a society will affect this money talks? Can you describe what
+in a way that, let's say, more and more human resources being replaced by machines.
+So you don't have to pay them salary. You don't have to pay for their...
+You don't have to pay payment. Is it the argument that robots are going to put
+everyone out of work? That money will have no value. Basically, the end of capitalism.
+That's the idea. There will be no money in this way. But is there still value in this society?
+Value is a concept? Will people value one thing over another? Will they value living
+in one place over another? Will they value seeing somebody talk or seeing some show more than another?
+You know what they were saying that in the past 20 years, apparently, a trend has begun that
+a newer generation, a younger generation, they're not buying houses anymore. They rent.
+A lot of people go to college, but a lot of people don't go to college
+because it's a very big bet. I went to film school and I still have not paid my student loan fully.
+So you think about, because when you spend money, it's about a business. Am I making
+the right investment? Am I going to get anything back from it? And that just adds to it. It's like
+buying a house. It's like you have a mortgage before even you graduated. So more and more
+people are shifting, I think, towards individualism. And I think this is actually a time that Ayn Rand
+got to get big again. More and more people will be interested in objectivism and think about
+yourself. But isn't staying away from mortgages and renting instead just a shift from long-term
+investment to short-term flexibility? I don't know. I don't know. I'm confused about how you
+derive some trend towards individualism from that. It's not from that. I think it's just an
+observation about our social life that in early 90s, you would see boomboxes and a group of people
+gathering around it and walking on the street under a shoulder. One person has a boombox on
+the shoulder and five, six other people walking with them. People were talking more to each other.
+You don't have to talk to anybody literally anymore. Yeah, I'm with you. I'm not saying it
+in the way that, oh, even if it was like old days, I'm not a fan of that at all. But I think
+it is more about, it's less dependent on a group, which I think is a good thing. When you have
+Instagram and the culture of selfie, for example, why is it that big, you think?
+That's a mystery to me. That people have been a fan of it since it's crazy. It's one of those
+things that begun with being able to take a photo of yourself and see yourself with a phone and
+selfie has begun. It's just a no-brainer. Kim Kardashian has a book of selfies. I don't know
+if you know about that. I did not. Yeah, full of selfies. But thanks for telling me.
+So I don't think it's a bad thing. I think we are dependent less on group. Maybe it's a,
+maybe you could look at these selfie trends as kind of an artistic expression. I'm all for
+having online avatars and having many of them. I consider none of them are identical to me.
+They're crafted or designed by me for specific purposes in specific communities. I've got a
+social one on Facebook. I've got a very professional one on LinkedIn. And every different community
+I'm in, I have a different persona for that community. And I don't really worry about
+privacy very much because I only enter the data for that persona that I want to be associated
+with that persona. Privacy, I'm not concerned about that at all. And I think people are freaking out
+about something that hasn't existed in many, many years. It's like, there was a really cool
+interview with Larry Ellison on, I watched it on YouTube, Oracle. Yeah. And they're talking about
+NSA and the effect of that. And he's like, do you know who, before NSA had all your information,
+credit card companies? And there was an article, and I think MIT
+publication too, about how privacy has died. And it's a very new thing. And it has died already.
+How people have always favored comfort and accessibility to privacy. But people are making
+a huge deal out of it. And at the same time, like Facebook does that, Google does that,
+don't use them then. Right. Exactly. And if you want to keep something private, I think it's
+your responsibility to encrypt it or use secure channels. I agree. Technology is the solution.
+Absolutely. It's your responsibility to learn new ways to protect yourself and your information.
+Exactly. I feel the same way about when you're saying, Google is selling our information.
+So that's not a good thing. Google is not charging you for anything. So you can use anything. And
+then that's their business model. Right. That's the cost of using Google. Exactly. So don't use it.
+If it's too expensive, then don't. Yeah. Don't use, use DuckDuckGo or whatever else,
+which is pretty cool. It's not Google. I guess the opponents are mistaking these companies for
+charities. Yeah. Like you, the users are the product. They're not really hiding that fact.
+Absolutely. They don't charge you. They do charge their advertisers. You are the product.
+Absolutely. And there's nothing wrong with that, I don't think.
+That's your side of the bargain. Yeah. That's why you get all these great,
+facilities. This is where we are now, you know, and I see it in a way that
+from the time that man has sat in the cave and decided I want to go outside, that's a decision
+that you made and everything else that can happen to you outside of that cave are the
+alternative of that decision. So don't leave if you don't want to deal with anything. It's the
+same thing. If you don't want to deal with these things, don't use internet. You know, people make
+the same thing about aging. I think the age reversal aging technology that there are a couple of
+organizations that are working on it. That that's impossible. If you take this, this is like one
+of the stupidest things I've ever heard. If you take death out of life, life has no meaning.
+I've heard that a lot. Yeah. Maybe for you. The meaning for me is that I want to live and
+not being stuck with being alive. But I don't want to be stuck with dying either. I want to have
+options. You know, and I'm seeing it in a way that when we get to a point that we can back up our
+brain inside the machine, maybe one of me want to be backed up in the dropbox of a future. And
+then I just want to commit suicide because I want to know how that feels. And then that
+version of me, my backup continues. I'm like, Oh, cool. I don't even remember.
+Yeah. That's might absolutely be possible. We have uploads. Do you expect to see uploads within
+your lifetime? It's very hard to say like it's Yeah.
+Also, you know, I guess, if technology and science advance in a rate that they have been advancing,
+and no major thing happens, possibly. But you don't really know, you know, I mean,
+it's it's a crazy world. The fact that it's funny when this whole ISIL thing began began in Iraq.
+I was telling my friends, this is a very good thing that it's Iraq, because if it was Pakistan,
+for example, they have nuclear weapon, they would have nuclear weapon, the game will be
+very different than and now they're in Afghanistan. You know, and I was watching a documentary about
+it today by frontline. It's very good. ISIS in Afghanistan. And they're saying a lot of Taliban,
+they're leaving Taliban to join ISIS because ISIS pays $700 a month for each fighter. Apparently,
+that's a rate. And that's a lot of money. So they did they joined them. So when that's
+so the Taliban's working with them were no, it's joining ISIS.
+ISIS is fighting Taliban, but they're men, but they're members of Taliban who've
+deserted Taliban and they're continuing doing that because ISIS pays more.
+That's the thing. Also, do they think they want to join the winning side?
+I would think that having a higher pay rate isn't going to help if you're on the losing side.
+Well, I mean, I don't know, because well, ISIS,
+at the same time, it's very hard to kind of imagine what would a Taliban know information wise, like
+it's very difficult to judge because it's the opposite side of the side that we are on and
+watching the news and conceiving the news. For that Taliban, the problem as they're explaining
+is that we don't need ISIS because we already have Islamic government under Taliban.
+But then they're making the argument some of the Taliban who desert because it's just a religion
+filled with loopholes. It's like, no, it says in the Quran that when there is a caliphate,
+which is like the state, Islamic state, then you have to join that. It's an obligation for you.
+So with all these insane people around the world, if they get ahold of some serious weapon, they can
+cause a massive pause to this whole thing. At the same time, they might speed things up,
+like Manhattan Project. It was because of war that we build, not we Americans built,
+uh, West allies built nuclear weapon, nuclear bomb. And then again, it was because of war that
+we went to the moon. Cold war. And then it stopped and we haven't gone back to the moon or anywhere
+else. And we are started doing it now, maybe because Chinese are getting there too. They said
+they're going to land the man on the moon 2020 or something like that, which is not even comparable.
+And I like the Chinese system, but I much rather speak in English and deal with you like about
+the Chinese system. I think Chinese have figured out their country so well and mix two different
+systems together so well. And they're so strict about it that they've been getting China to where
+it is now. But at the same time, China has become a bubble because it has a very small percentage
+of really, really rich people now. And then you go to central China and all those farmlands and it's
+just like 16th century. But they're the best capitalists in the world, I think. But again,
+like Vietnam now, you can hire people much cheaper than China, for example, Philippines.
+So a lot of businesses are going for clothing and stuff. I know it's going to Vietnam. It has
+been going to Vietnam for years now. But with less dependence on China, it also depends a lot on
+how we can improve our manufacturing technologies in the West, in the West. So 3D printing or
+machines running things. I think they've, but they also have a brain program, right?
+Which Ben Goertzel is working with. Who's the other guy?
+Oh, right. Ben Goertzel, mean the brain in software? I know the guy who Ben Goertzel is working with,
+who's also in Ray Kurzweil's documentary. He has a very negative perspective about artificial
+intelligence, Hugo. Hugo Degares. Yes, yes. And his artillect war. He sees a coming global violent
+war between the humans and the AIs. What do you think about that? Well, it's certainly a possibility.
+That's why the Machine Intelligence Research Institute exists. That's why Elon Musk and Bill
+Gates and the other scientists have joined in raising the issue around. Do you think it's
+going to be, because it's like one of the biggest concerns that makes sense, as you explained. That
+is, there's a possibility that there will be conflict in that way. Do you think it will be
+between humans and machines or humans and human machine fusion? This third thing, because I'm
+thinking, if you have, for example, nanobots inside your brain and you evolve, you become the third
+thing. I think if there is a symbiosis between humans and AI, if every human has an AI partner
+or a bunch of them, then that is a path to a safe future. That's the best possible future,
+I think. But wouldn't it be like... The problem would be if there's a single AI that's not human
 and not associated with any human that is competing with us for resources and it doesn't
-necessarily have any values shared with us.
-But like that's terrifying, but at the same time, wouldn't that represent the population
-on earth right now?
-Like I'm thinking, imagine a fundamentalist Christians would have their own AI.
-It would be the projection of them.
-Or you think the AI would have the ability to think...
-I think the AI and the human together would be a new, greater entity.
-Yes, that's exactly, exactly.
-And it would, to other people or other agents, it would look like a single agent, but it's
-actually a synthesis of the...
-It's connected to the same network, basically, neural network.
-Possibly.
-Yeah.
-Do you think they have to, though?
-Like the way the Tesla machines, for example, they're communicating with each other now?
-That again can bring up the privacy issue and all of that, because like the information
-that my car has, I don't want to share it.
-But if you don't want to share it, you wouldn't be able to take advantage of the full possibility
-of that enhancement.
-So same thing with AI, don't you think?
-I always think of the same thing with open source, AI to reach its full potential, it
-has to be open source.
-Probably.
-Yeah.
-Its full potential, yeah.
-What would be the other way?
-The other way to what?
-The other way to have a functional, superior, intellectually, artificial intelligence by
-not having it open source.
-What would be the other way?
-Stay proprietary, company organization can keep it to themselves, just the way software
-companies do already.
-Well, source code is not open source.
-Right.
-You mentioned HoloLens and Oculus Rift.
-We know that 2016 is the year that virtual reality will enter mainstream market.
-At least the commercial early adopter market.
-Yeah.
-Well, it's been around for a couple of years now.
-Just the development kits.
-Yeah.
-But it's become more accessible.
-You can pre-order Oculus now.
-I think it's 599.
-Just as of now, just a couple days ago.
-Which is awesome.
-I was waiting for this version, Crescent Bay, because it has the headphones now.
-All right.
-For me, as an audio engineer and sound designer, this is amazing because this is the difference
-between black and white and color TV to me.
-When you can create virtual 360 sonic environments, which is a necessity for virtual reality worlds
-to be believable, the sound has to be there.
-It's just an amazing opportunity after years of just doing the same thing, basically.
-How do you think virtual reality will start affecting, as you said, early adapters and
-then how it's going to get into mainstream and how people will feel about it and what
-do you think people will use it for and how it's going to change everything?
-Well, for the first couple of years, at least, I think the major markets are going to be
-in entertainment, probably mostly computer games.
-The Rift is coming out packaged with the game EVE Valkyrie, a 3D space game, and the videos
-that I've seen on YouTube are mind-blowing.
-I cannot wait to try this out.
-I'm a big fan of EVE anyways.
-That's awesome.
-This is going to be really interesting, but I think almost any 3D computer game is going
-to lend itself to the Rift and the developers or the games are going to incorporate integration
-points.
-They'll support the Rift and other similar devices like the HTC.
-And then what we'll see then is the price point is going to come down due to volume
+necessarily have any values shared with us. But that's terrifying, but at the same time,
+wouldn't that represent a population on Earth right now? Like I'm thinking, imagine
+a fundamentalist Christian would have their own AI. It would be the projection of them.
+Or you think the AI would have the ability to think... I think the AI and the human together
+would be a new, greater entity. Yes, that's exactly. To other people or other agents,
+it would look like a single agent, but it's actually a synthesis of the two.
+It's connected to the same network, basically. Neural network. Possibly. Yeah. Do you think
+they have to though? The way the Tesla machines, for example, they're communicating with each other
+now, that again can bring up the privacy issue and all of that because the information that
+my car has, I don't want to share it. But if you don't want to share it, you wouldn't be able to
+take advantage of the full possibility of that enhancement. So same thing with AI. Don't you
+think if they're... I always think of the same thing with open source, AI to reach its full
+potential. It has to be open source. Probably. Yeah. It's full potential, yeah. What would be the other
+way? The other way to what? The other way to have a functional, superior intellectually,
+artificial intelligence by not having it open source. What would be the other way?
+It's a proprietary company organization can keep it to themselves just the way software companies
+do already. Most source code is not open source. Right. You mentioned HoloLens and Oculus Rift.
+We know that 2016 is the year that virtual reality will enter a mainstream market.
+At least the commercial early adopter market. Yeah. Well, it's been around for a couple of years
+now. Just the development kits. Yeah. But it's become more accessible. You can pre-order Oculus
+now. I think it's 599. Just a couple of days ago. Which is awesome. I was waiting for this
+version, Crescent Bay, because it has the headphones now. And for me, as an audio engineer
+and sound designer, this is like amazing because this is like the difference between black and
+white and color TV to me. It's when you can create virtual 360 sonic environments, which is a necessity
+for virtual reality worlds to be believable. The sound has to be there. It's just an amazing
+opportunity after years of just doing the same thing, basically. How do you think virtual
+reality will start affecting, as you said, early adopters and then how it's going to get into
+mainstream and how people will feel about it and what do you think people will use it for and how
+it's going to change everything? Well, for the first couple of years, at least, I think the
+major markets are going to be an entertainment, probably mostly computer games. The Rift is coming
+out packaged with the game Eve Valkyrie, a 3D space game, and the videos that I've seen on
+YouTube are mind-blowing. I cannot wait to try this out. I'm a big fan of Eve anyway, so...
+That's awesome. This is going to be really interesting. But I think almost any 3D computer
+game is going to lend itself to the Rift and the developers. The games are going to
+incorporate integration points. They'll support the Rift and other similar devices like the HTC.
+And then what we'll see then is the price point is going to come down due to volume,
 and the next generation is going to be just like we've seen with smartphones.
-Oh, absolutely.
-I think it's smart.
-I can't remember who said that.
-Maybe Elon Musk said it years ago that always wait for the third generation of a technology
-because by the time it gets to the third generation, it's working good enough and it's priced
-well enough for everybody to use it basically.
-It's a bit difficult to predict the next market after games, but I can see getting
-into education easily and 3D movies.
-Journalism also.
-Yeah.
-There's been a movie commissioned by Vice, Vice Media, that they made in Syria and it's
-360.
-I haven't seen it, but you can't imagine how big of a difference it makes when you're
-in the middle of that environment to really feel it and get connected to it.
-And also you take away the third, the middle man, because more and more I'm imagining when
-citizen journalists, they start arising because of blogging and because of how easy you got
-to take photos and videos and put it on YouTube and all those other websites, it will be possible
-to make a 360 video quite soon.
-I think.
-I think it already is.
-There is an iPhone app for them.
-For 360 videos?
-Oh, that's amazing.
-I know 360 cameras because one of the biggest challenge back then when they were have to
-put a couple of GoPro cameras like four or eight or 12 or something to get a 360 image.
-The thing you had to put a lot of cameras and then the image that it was giving you
-and to you needed to be stitched and the software to stitch those footage was very complex to
-work with.
-It was expensive.
-But again, like any other technology, the first generation is basically the first step
-in trial and error.
-But now there are 360 cameras that they cost maybe like 400 bucks, the price of a GoPro
-and it gives you already stitched image that you can use.
-So somebody in Syria when they're in war and doing a video of, for example, whatever, a
-rally or attack or a terrorist, a suicide bomber or something like that.
-Of course, I will watch that over a footage that is being transcribed for me by CNN.
-For example, it might be in the minority there.
-Really?
-How many people want to experience a suicide bomber?
-I don't know.
-I would imagine if I'm interested in what's going on there, I want to kind of feel it
-to maybe it just gives you perspective, I think, in my opinion.
-Yeah, I think it could definitely have a lot of value.
-Maybe for films and TVs too or treatments of I know that they're using that there was
-a video of this girl who was claustrophobic and she was so extreme that she couldn't take
-elevators.
-So they designed a game for her that was emulating her being inside the elevator and she trained
-with that and she took an elevator for first year after who knows how many years and it
-was amazing.
-So in therapy, in treatment.
-Yeah, absolutely.
-PTSD.
-They've been trying that.
-I'm looking forward to that.
-It's apparently one of the biggest products and technology in CES.
-This year was also about virtual reality, everything about virtual reality.
-So this is the year.
-As a last question before my last standard question, which I will ask everybody, but
-last question of series of question conversations that we've had.
-How do you think ethics and morality will translate for an artificial intelligence?
-Well, that's a pretty deep question.
+Oh, absolutely. I think it's smart. I can't remember who said that. Maybe Elon Musk said
+that years ago that always wait for the third generation of a technology. Because by the
+time it gets to the third generation, it's working good enough and it's priced well enough
+for everybody to use it, basically. It's a bit difficult to predict the next market
+after games, but you can see getting into education easily and 3D movies. Journalism also.
+Yeah. There's been a movie commissioned by Vice, Vice Media, that they made in Syria,
+and it's 360. I haven't seen it, but you can't imagine how big of a difference it makes when
+you're in the middle of that environment to really feel it and get connected to it. And also,
+you take away the middleman. Because more and more, I'm imagining when citizen journalists,
+they start arising because of blogging and because of how easy you got to take photos
+and videos and put it on YouTube and all those other websites. It will be possible
+to make a 360 video quite soon, I think. I think it already is. There's an iPhone app for them.
+For 360 videos? Oh, that's amazing. I knew 360 cameras because one of the biggest
+challenge back then when they were have to put a couple of GoPro cameras, like four or eight or
+12 or something, to get a 360 image, the thing you had to put a lot of cameras. And then the
+image that it was giving you needed to be stitched. And the software to stitch those
+footage is very complex to work with. It was expensive. But again, like any other technology,
+you know, the first generation is basically the first step in trial and error. But now there are
+360 cameras that they cost maybe like 400 bucks, the price of a GoPro. And it gives you a already
+stitched image that you can use. So somebody in Syria, when they're in war and doing, you know,
+a video of, for example, whatever rally or attack or a terrorist, a suicide bomber or
+something like that. Of course, I will watch that over a footage that is being transcribed
+for me by CNN, for example. It might be in the minority there. Really? How many people want
+to experience a suicide bomber? I don't know. I would imagine if I'm interested in what's going
+on there, I want to kind of feel it to maybe it just gives you perspective, I think, in my opinion.
+Yeah, I think it could definitely have a lot of value. Maybe for films and TVs too, or treatments of
+I know that they're using that. There was a video of this girl who was claustrophobic.
+And she was so extreme that she couldn't take elevators. So they designed a game for her that
+was emulating her being inside the elevator. And she trained with that and she she took an elevator
+for first year after who knows how many years and it's amazing. So in therapy and treatment.
+Yeah, absolutely. PTSD. They've they've been trying that. I'm looking forward to that. It's
+apparently one of the biggest products and technology in CES. This year was also about
+virtual reality, everything about virtual reality. So this is the year.
+As a last question before my last standard question, which I will ask everybody. But last
+question of series of question conversations that we've had. How do you think ethics and morality
+will translate for an artificial intelligence?
+Well, let's see. Pretty deep question.
 One way to look at AI is it's a system designed to make choices based on its goals and beliefs.
-An AI that's extremely smart, super intelligent, it will tend to have very accurate and sophisticated
-beliefs.
-The goals are basically beliefs about preferences, which states of the world are preferable to
-other states of the world.
-Can you even conceive what those beliefs will be?
-Well, we can conceive of hard coding beliefs in such a way that the AI will be unable to
-change its own goals, but at the same time that may very well cripple the AI in the sense
-that it won't be able to get past certain level of sophistication or intelligence if
-we cripple its ethical system.
-So presumably if it's much smarter than humans.
-Oh, absolutely.
-As it should be.
-We can't really expect to force our own morality per se on a machine that's supposed to be
-much better and bigger and the evolution of us.
-But that is exactly the project of friendly AI is to enforce our own values onto the AI.
-Our values aren't that good.
-We still lie.
-It's a problem.
-We don't.
-We're not that good ourselves.
+An AI that's extremely smart, super intelligent, will tend to have very accurate and sophisticated
+beliefs. The goals are basically beliefs about preferences, which states of the world are preferable
+to other states of the world. Can we even conceive what those beliefs will be?
+It's we can conceive of hard coding beliefs in such a way that the AI will be unable to
+change its own goals. But at the same time, that may very well cripple the AI in the sense that
+it won't be able to get past certain level of sophistication or intelligence if we
+cripple its ethical system. So presumably, if it's much smarter than humans.
+Oh, absolutely. As it should be. As it should be.
+We can't really expect to force our own morality, per se, on a machine that's supposed to be much
+better and bigger and the evolution of us. But that is exactly the project of friendly AI,
+is to enforce our own values onto the AI. But our values aren't that good. We still lie.
+There's a problem. We're not that good ourselves.
 We are not.
 We don't even know what would be good.
-I mean, like we have no rigorous way of proving that any set of values is better than any
-other set.
-It's also very confusing to, for example, it's very interesting how it comes to you
-when you talk about these kind of things with children because children have no filter and
-they just ask you whatever that comes to their mind.
-You can't tell a child that killing is wrong as a rule because then he or she will be asking
-why those people are dying then.
-Why, you know, you can tell them you just won't be very convincing.
-Exactly.
-And so you can't say it as a rule, right?
-And that's like one of the biggest parts of morality, that killing is wrong.
-This is just an example.
-How are we going to explain that to an AI?
-And that is one of the first things that we need to explain it now that we're talking
-about as we spoke about it in military, that autonomous machine, okay, killing is wrong,
-just wound people, you know, but if this guy did this, then killing is fine.
-You can't really do that, you know?
-And that's why I think a lot of these attempts because moralities are different from place
-to place.
-The morality that we have is a very different morality that, for example, people have in
-Yemen, for instance.
-And at the same time, the machine to get to its full potential, it needs to be open source.
-So like Watson or IBM, it's open source.
-So if you have a strong enough of a hardware, you would be able to have...
-Are you sure Watson's open source?
-I think so, because they were asking for programmers and programmers mainly to use Watson capability
-and do their own projects.
-But let's say an open source AI, it would be usable by some Chinese kid in his grandparent's
-basement to build whatever he wants to build with it, or a Russian hacker, or a, you know,
-or a evil person per se, evil quote unquote.
-Yes, that's absolutely true.
-Ben Goetzel has his own open source project, OpenCog, I think, and just a couple of weeks
-ago, Elon Musk and some Peter Thiel, I think, and some other courts announced that they
-were funding another open source project, OpenAI, and they were investing a...
-Peter Thiel was involved in that, so I didn't know that.
-I'm not sure, I think.
-But I think they were putting something like a billion dollars into this project, significant
-funding.
-And at the same time, they came under quite a bit of criticism saying, if you think AI
-is dangerous, why on earth would you open source it?
-And the analogy is made with nuclear arms, if you think nukes are dangerous, you certainly
-don't want to publish an easy how-to on the web, because it could easily fall into the
-wrong hands.
-So why are they doing it with AI?
-What's the explanation?
-I haven't heard their explanation.
-One possibility is that unless you start looking into these issues right away, hardware is
-going to be at a point sometime in the future that there might be an extremely quick ramp
-up time from human level to superhuman level AI, and we won't be prepared.
-So it's better to start now, even if it is dangerous.
-To slow it down, basically.
-Well, to be better prepared for when it happens.
-Even if you end up spinging it up in some ways.
-Would we know it when it happens, you think?
-It depends how it is realized.
-I think if it's a pure AI rather than, say, a human emulation where a brain is scanned
-and then emulated in the hardware to get an AI.
-If it's just a pure code AI, it could happen in a small group that's secret.
-Maybe some company wants to build an AI to do trading on the stock exchanges in order
-to make a lot of money, and it gets more and more intelligent.
-Again, there's more and more data in order to interpret the financial data coming in,
-so it builds up a belief system.
-All it wants to do is make money, and it gets very good at trading and starts buying companies.
-But doing it in a way...
-That's a great idea for a movie.
-But does it in a way that's decentralized, using lots of versions of itself, lots of
-subsidiaries that can't be traced back to the main AI, so nobody realizes that it's
-all controlled by a single mind until it owns so many resources it can take over countries?
-Would you want to take over countries?
-If it needs more resources.
-If that's its main goal is to acquire resources, financial resources, it could become tremendously
-powerful by controlling humans with its resources.
-It could have a million people working for it, they don't even know that they're all
-working for the same mind.
+I mean, we have no rigorous way of proving that any set of values is better than any other set.
+It's also very confusing to, for example, it's very interesting how it comes to you when you
+talk about these kind of things with children, because children have no filter and they just
+ask you whatever that comes to their mind. You can't tell a child that killing is wrong
+as a rule, because then he or she will be asking why those people are dying then.
+Why, you know.
+You can tell them you just won't be very convincing.
+Exactly. And you can't say it as a rule, right? And that's like one of the biggest
+parts of morality, that killing is wrong. This is just an example. How are we going to explain
+that to an AI? And that is one of the first things that we need to explain it now that
+you're talking about as we spoke about it in military, that an autonomous machine,
+okay, killing is wrong, just wound people. But if this guy did this, then killing is fine.
+You can't really do that. And that's why I think a lot of these attempts, because
+moralities are different from place to place. The morality that we have is a very different
+morality that, for example, people have in Yemen, for instance. And at the same time,
+the machine to get to its full potential, it needs to be open source. So like Watson
+or IBM, it's open source. So if you have a strong enough of a hardware, you would be able to have.
+Are you sure Watson's open source? I think so, because they were asking
+for programmers and programmers mainly to use Watson capability and do their own projects.
+But let's say an open source AI, it would be usable by some Chinese kid in his grandparents'
+basement to build whatever he wants to build with it, or a Russian hacker, or an evil person,
+per se, evil quote unquote. Yes, that's absolutely true. Ben Goertzel has his own
+open source project, OpenCog, I think. And just a couple of weeks ago, Elon Musk and some Peter
+Thiel, I think, and some other courts announced that they were funding another open source project,
+OpenAI, and they were investing a... Peter Thiel was involved in that, so I didn't know that.
+I'm not sure, I think. I would call that. But I think they were putting something like a billion
+dollars into this project, significant funding. And at the same time, they came into quite a bit
+of criticism saying, if you think AI is dangerous, why on earth would you open source it? And the
+analogy is made with nuclear arms. If you think nukes are dangerous, you certainly don't want to
+publish an easy how-to on the web, because it could easily fall into the wrong hand. So why are
+they doing it with AI? What's the explanation? I haven't heard their explanation. One possibility is
+that unless you start looking into these issues right away, hardware is going to be at a point
+sometime in the future that there might be an extremely quick ramp up time from human level
+to superhuman level AI, and we won't be prepared. So it's better to start now, even if it is dangerous.
+To slow it down, basically. Well, to be better prepared for when it happens,
+even if you end up spinning it up in some ways. Would we know it when it happens, you think?
+It depends how it is realized. I think if it's a pure AI rather than, say, a human emulation
+where a brain is scanned and then emulated in the hardware to get an AI, if it's just a pure
+code AI, it could happen in a small group that's secret. Maybe some company wants to build an AI
+to do trading on the stock exchanges in order to make a lot of money. And it gets more and more
+intelligent. It gathers more and more data in order to interpret the financial data coming in.
+And so it builds up a belief system. All it wants to do is make money. And it gets very good at trading
+and starts buying companies. But doing it in a way... That's a great idea for a movie.
+But does it in a way that's decentralized using lots of versions of itself, lots of
+subsidiaries that can't be traced back to the main AI so nobody realizes that it's all controlled by a
+single mind until it owns so many resources, it can take over countries?
+Would he want to take over countries? If it needs more resources. If that's its main goal is to
+acquire resources, financial resources, it could become tremendously powerful
+by controlling humans with its resources. Well, it could have a million people working
+for it. They don't even know that they're all working for the same mind.
 I think if the AI will be based on human morality, that's exactly what the AI would do.
-He will go after the money.
-Until it can build the hardware to make its own robots.
-Yeah.
-That's very interesting.
-I think I've always enjoyed looking at things as much as I could as a double-edged sword
-everything because they're good and bad, about literally everything, you know, with a hammer
-you can build a house so you can bash somebody's brains.
-So it really depends on how we're using it now, for what purpose we're using it.
-And I think core values of us unfortunately have been corrupted a lot, a majority of people
-because of the money-centric, money for the sake of money, materialistic money.
-Whereas I see that as a positive force.
-Yeah.
-I do.
-That people in the current system can protect their own interests better and advance their
-own interests better by serving others commercially.
-That's interesting.
-So it channels their own personal interests.
-Everyone is self-interested.
-Even those that claim not to be I think are basically deluding themselves and others.
-What they believe is...
-But the way to channel that self-interest into a net good for society is to put in a
-system where you do well by helping others, by selling them products and services, for
-example.
-That's so interesting.
-Last night we were watching a documentary called I Am.
-It's about this director named Tom Shaliak.
-He directed a whole bunch of comedies and made millions and millions of dollars.
-And then he went through this experience that he thought that he was going to die and then
-he survived that and he became very...
-Instead of making our objective profit to make it how we can help each other and help
-each other grow.
+Yeah, he will go after the money.
+Until it can build the hardware to make it some robots.
+Yeah, that's very interesting. I think I've always enjoyed looking at things as much as I could
+as a double-edged sword, everything, because they're good and bad about
+literally everything. With a hammer, you can build a house so you can bash somebody's brains.
+So it really depends on how we're using it and for what purpose we're using it. And I think
+core values of us, unfortunately, have been corrupted a lot, a majority of people,
+because of the money centric, money for the sake of money materialistic money.
+Whereas I see that as a positive force. I do that people in the current system can
+protect their own interests better and advance their own interests better
+by serving others commercially.
+Mm-hmm. That's interesting.
+So it channels their own personal interests. Everyone is self-interested.
+Even those that claim not to be, I think, are basically
+deluding themselves and others.
+Well, they believe as...
+But the way to channel that self-interest into a net good for society is to put in a system where
+you do well by helping others by selling them products and services, for example.
+That's so interesting. Last night, we were watching the documentary called I Am.
+It's about this director named Tom Shaliak. He directed a whole bunch of comedies and made
+millions and millions of dollars. And then he went through this experience that he thought
+that he's going to die, and then he survived that. And he became very, you know, instead of
+making our objective profit to make it how we can help each other and help each other grow.
 And he was talking to his father and said, why can't we do that?
-And his father said, it's a very nice utopian idea that will never ever happen.
-I think the key is everybody started within themselves that you just make yourself a better
-person and then try to get that understanding to the circle close to you and just expand
-the circle more and more.
-I think it would worth more to focus on what we can do individually than why people aren't
-doing this and this and that because people are built from individuals.
-But also, all these new technologies have given the opportunity and power to an individual
-to change the world if they have a right idea.
-Yeah.
-Technology is making people more powerful every day.
-I think it's great and it's a great time that we can live and enjoy all of these things.
-The last question literally is, if you come in contact with a species from another civilization,
-with alien per se, intelligent aliens, what would be the biggest achievement that you
-would mention to that intelligent alien that we've made and we've achieved as a race?
-And what would be the biggest mistake that we've made?
-Wow.
-Big questions.
-I would offer actually the World Wide Web is our greatest achievement.
-The technology that makes self-expression possible and collaboration.
-I think it's instigated a renaissance across the world.
-It's amazing.
-And in a sense, it's only getting started.
-So ask me 10 years from now and I'll say the successor for the web, whatever that is.
-And as for our worst mistake, I think it's the war machines that we worship as our nation
-states, that they've caused more death, destruction, and suffering than anything else in human
-history.
-And most people are blind to it, that they're proud citizens, they're proud of their nationality,
-they're patriots, and they're brainwashed into thinking that this is a good idea.
-I hope the aliens can shed some perspective on that.
-I hope they've overcome it themselves and if they've come here, I'm pretty sure they
-have destroyed themselves.
-So one more thing, I want to thank you very much for having me as your first guest.
-I'm really flattered.
-Yeah, my pleasure, man.
-And it's been a blast.
-Yeah.
-It's been excellent.
-Glad to hear.
-Thanks a lot.
-You're welcome.
-Thanks for having me.
+And his father said, it's a very nice utopian idea that will never, ever happen, you know.
+And I think the key is everybody starts within themselves that you just make yourself a better
+person and then try to get that understanding to the circle close to you and just expand the circle
+more and more. And, you know, I think it would worth more to focus on what we can do individually
+than what, why people aren't doing this and this and that, because people are, you know,
+built from individuals. But also, all these new technologies have given the opportunity
+empowered an individual to change the world if they have a right idea. Yeah, technology is making
+people more powerful every day. Exactly. I think it's great and it's a great time that we can live
+and enjoy all of these things. The last question literally is if you come in contact with a
+species from another civilization with an alien, per se, intelligent aliens,
+what would be the biggest achievement that you would mention to that intelligent alien
+that we have made and we've achieved as a race? And what would be the biggest mistake that we've
+made? Wow. That's a big question. I would offer, actually, the World Wide Web is our greatest
+achievement. The technology that makes self-expression possible in collaboration,
+I think it's instigated a renaissance across the world. It's amazing. And in a sense,
+it's only getting started. So ask me 10 years from now and I'll say the successor for the web,
+whatever that is. And as for our worst mistake, I think it's the war machines that we worship
+as our nation-states, that they've caused more death, destruction, and suffering than anything
+else in human history. And most people are blind to it, that they're proud citizens, they're
+proud of their nationality, their patriots, and they're brainwashed into thinking that
+this is a good idea. I hope the aliens can shed some perspective on that. I hope they've overcome
+it themselves. And if they've come here, I'm pretty sure they have. They haven't destroyed
+themselves. So one more thing. I want to thank you very much for having me as your first guest.
+I'm really flattered. Yeah, my pleasure, man. And it's been a blast. Yeah. It's been excellent.
+Glad to hear. Thanks a lot. Thank you.

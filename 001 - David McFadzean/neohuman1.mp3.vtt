@@ -1,2930 +1,1787 @@
 WEBVTT
 
-00:00.000 --> 00:06.920
-I would offer, actually the World Wide Web is our greatest achievement of the technology
+00:00.000 --> 00:04.400
+I would offer, actually, the World Wide Web is our greatest achievement.
 
-00:06.920 --> 00:11.480
-that makes self-expression possible and collaboration.
+00:06.080 --> 00:12.400
+The technology that makes self-expression possible and collaboration, I think it's
 
-00:11.480 --> 00:18.640
-I think it's instigated a renaissance across the world, it's amazing.
+00:13.440 --> 00:20.480
+instigated a renaissance across the world. It's amazing. And in a sense, it's only getting started.
 
-00:18.640 --> 00:23.960
-And in a sense, it's only getting started, so ask me 10 years from now and I'll say the
+00:20.480 --> 00:29.600
+So, ask me 10 years from now and I'll say the successor for the web, whatever that is.
 
-00:23.960 --> 00:35.240
-successor for the web, whatever that is.
+00:35.200 --> 00:41.200
+Hello, this is Agha Bahari and I am here with the first episode of Neo-Human.
 
-00:35.240 --> 00:41.840
-Hello, this is Agah Bahari and I am here with the first episode of Neo Human.
+00:42.240 --> 00:47.120
+I will be talking to interesting people about interesting subjects. We don't have any specific
 
-00:41.840 --> 00:45.920
-I will be talking to interesting people about interesting subjects.
+00:47.120 --> 00:53.040
+subject or title or style for the podcast, whatever happens, it's just going to be interesting.
 
-00:45.920 --> 00:51.320
-We don't have any specific subject or title or style for the podcast, whatever happens,
+00:53.040 --> 00:58.400
+That's the most important thing. For the first episode, right here with me,
 
-00:51.320 --> 00:53.360
-it's just going to be interesting.
+00:58.400 --> 01:08.400
+we have David McFadzen, who is a lead engineer at a Synaptic, which is a Toronto-based technology
 
-00:53.360 --> 00:56.600
-That's the most important thing.
+01:08.400 --> 01:14.240
+company. Synaptive. Synaptive. Horrible. I asked you the name before the show too.
 
-00:56.600 --> 01:03.840
-For the first episode, right here with me, we have David McFadden, who is a lead engineer
+01:14.240 --> 01:19.440
+So, what do you do at Synaptive and what does Synaptive do?
 
-01:03.840 --> 01:09.160
-at Synaptic, which is a Toronto-based technology company.
+01:21.200 --> 01:28.880
+Yeah, Synaptive is a startup that's about almost four years old now and we build technology to
 
-01:09.160 --> 01:10.160
-Synaptic.
+01:28.880 --> 01:34.480
+mainly assist neurosurgeons in difficult brain surgeries. So, we have a line of products
 
-01:10.160 --> 01:11.160
-Synaptic.
+01:35.280 --> 01:41.040
+to look at the scans from the brain and render them in 3D and help the surgeon
 
-01:11.160 --> 01:12.160
-Horrible.
+01:41.040 --> 01:50.880
+plan the surgery in advance. And then in the OR, our software acts sort of like a GPS for surgeons
 
-01:12.160 --> 01:15.720
-I asked you the name before the show too.
+01:50.880 --> 01:57.040
+because it's like a Google Maps to show them where they are and help her along in their route.
 
-01:15.720 --> 01:20.440
-So what do you do at Synaptic and what does Synaptic do?
-
-01:20.440 --> 01:28.200
-Yeah, Synaptic is a startup that's about almost four years old now and we build technology
-
-01:28.200 --> 01:32.880
-to mainly assist neurosurgeons in difficult brain surgery.
-
-01:32.880 --> 01:40.200
-So we have a line of products to look at the scans from the brain and render them in 3D
-
-01:40.200 --> 01:44.680
-and help the surgeon plan the surgery in advance.
-
-01:44.680 --> 01:51.960
-And then in the OR, our software acts sort of like a GPS for surgeons, it's like Google
-
-01:51.960 --> 01:58.320
-Maps to show them where they are and help her along in their route.
-
-01:58.320 --> 02:02.880
+01:58.000 --> 02:02.560
 And if they get off course, they can get back on with the 3D map of the brain.
 
-02:02.880 --> 02:08.640
-And this is usable with robotics and with human doctors, both can use it.
+02:02.560 --> 02:09.440
+And this is usable with robotics and with human doctors. Both can use it. Because I remember
 
-02:08.640 --> 02:12.880
-Because I remember you were saying that you have a robotic arm at the work.
+02:09.440 --> 02:14.640
+you were saying that you have a robotic arm at the work. That's right. I'm the lead software
 
-02:12.880 --> 02:13.880
-That's right.
+02:14.640 --> 02:21.840
+engineer on our robotic arm project. It's a device positioning system that's designed to assist the
 
-02:13.880 --> 02:17.320
-I'm the lead software engineer on our robotic arm project.
+02:21.840 --> 02:27.360
+surgeon. So, it's holding the optics for the surgery, which is the lighting in the camera
 
-02:17.320 --> 02:22.920
-It's a device positioning system that's designed to assist the surgeon.
+02:28.240 --> 02:36.000
+and a microscope. And it's recording video. And the robotic arm on MacLea positions the
 
-02:22.920 --> 02:29.000
-So it's holding the optics for the surgery, which is the lighting and the camera and a
+02:36.000 --> 02:42.000
+optics of the camera into ideal positions for the surgeon. We just have to make a gesture that they
 
-02:29.000 --> 02:33.000
-microscope and it's recording video.
+02:42.000 --> 02:48.240
+want it in some particular place and press a foot pedal. And the robotic arm will move the
 
-02:33.000 --> 02:38.980
-And the robotic arm automatically positions the optics of the cameras into ideal positions
+02:48.240 --> 02:52.560
+optics into the correct position. That's amazing. How long did it take
 
-02:38.980 --> 02:39.980
-for the surgeon.
+02:54.800 --> 03:03.040
+from the concept idea of such a thing to being at this level that you guys are, which
 
-02:39.980 --> 02:44.640
-They just have to make a gesture that they want it in some particular place and press
+03:03.040 --> 03:07.280
+I believe you're ready to be launched? It launched last February actually.
 
-02:44.640 --> 02:50.560
-a foot pedal and the robotic arm will move the optics into the correct position.
+03:07.280 --> 03:12.960
+It launched last February? Yeah. From concept to when it was FDA approved and actually used in
 
-02:50.560 --> 02:51.760
-That's amazing.
+03:12.960 --> 03:18.400
+our real surgery was less than two years. Oh, wow. That's amazing. And you still consider the whole
 
-02:51.760 --> 03:00.880
-How long did it take from, if you know, from the concept idea of such a thing to being
+03:18.400 --> 03:23.120
+company as a startup. Like you're not a corporation per se. We're in transition now.
 
-03:00.880 --> 03:06.000
-at this level that you guys are, which I believe you're ready to be launched?
+03:23.920 --> 03:28.800
+Since we got FDA approval last February and we're deployed now, we're out in the field at,
 
-03:06.000 --> 03:07.400
-It launched last February.
+03:28.800 --> 03:33.760
+I think, eight or nine different installations now, different hospitals around the United States.
 
-03:07.400 --> 03:08.400
-It launched last February.
+03:35.040 --> 03:41.920
+And it's to date in the last eight months or so since it's heard. It's been used in 500 real
 
-03:08.400 --> 03:14.040
-Yeah, from concept to when it was FDA approved and actually used in our real surgery was
+03:41.920 --> 03:51.600
+surgeries. That's amazing. What do you think is, I'm an enthusiast entrepreneur, I have to say.
 
-03:14.040 --> 03:15.360
-less than two years.
+03:52.240 --> 03:58.400
+Like, I'm very interested in creative ideas and then implementing those ideas and with
 
-03:15.360 --> 03:16.360
-Oh, wow.
+03:58.400 --> 04:03.840
+computers and coding, it's never really been easier, I think, to make an idea from ground up
 
-03:16.360 --> 03:17.360
-That's amazing.
+04:03.840 --> 04:14.480
+with a very limited number of people. That's very true. Yeah. What do you think the effect of such
 
-03:17.360 --> 03:20.080
-And you still consider the whole company as a startup.
+04:14.480 --> 04:19.600
+technologies in our, because the company that you're explaining is a very specific company
 
-03:20.080 --> 03:22.120
-Like you're not a corporation per se.
+04:19.600 --> 04:26.080
+that doing very specific thing? How do you think those technologies will translate into a popular
 
-03:22.120 --> 03:27.960
-We're in transition now since we got FDA approval last February and we're deployed now.
+04:26.080 --> 04:35.280
+or mainstream consumer to be able to take advantage of that? For example, let's say this is just off
 
-03:27.960 --> 03:31.920
-We're out in the field at, I think, eight or nine different installations now, different
+04:35.280 --> 04:40.800
+the top of my head. Would there be a possibility of mixing this technology or would you see the
 
-03:31.920 --> 03:35.440
-hospitals around the United States.
+04:40.800 --> 04:49.680
+possibility of mixing this technology with a very straightforward variable like the EEG
 
-03:35.440 --> 03:41.160
-And it's to date in the last eight months or so since it's heard, it's been used in
+04:49.680 --> 04:57.360
+variables that exist right now that assist you to meditate? I think they're also a company from
 
-03:41.160 --> 03:43.920
-500 real surgeries.
+04:57.920 --> 05:06.240
+Toronto, Emuse or Muse, I think. Right. I think we actually used Muse at a hackathon that we
 
-03:43.920 --> 03:45.320
-That's amazing.
+05:06.240 --> 05:12.320
+did internally at Synaptive a couple of months ago. And using Lemuse will detect brainwaves of
 
-03:45.320 --> 03:52.520
-What do you think is, I'm an enthusiast entrepreneur, I have to say.
+05:12.320 --> 05:17.840
+some sort and encode them in a way that software can take advantage of. So one of the demos was
 
-03:52.520 --> 03:58.120
-Like I'm very interested in creative ideas and then implementing those ideas.
+05:17.840 --> 05:25.040
+to move the robotic arm just by thinking about it. Wow. It was amazing. I bet, yeah. Yeah,
 
-03:58.120 --> 04:03.080
-And with computers and coding, it's never really been easier, I think, to make an idea
+05:25.040 --> 05:30.160
+so we're definitely looking at new consumer electronics to bring that into the OR to help
 
-04:03.080 --> 04:07.160
-from ground up with a very limited number of people.
+05:30.160 --> 05:37.120
+the surgeon. Stuff like the Oculus Rift or the Microsoft HoloLens to give the surgeon a heads
 
-04:07.160 --> 04:10.160
-That's very true.
+05:37.120 --> 05:42.800
+up display and show them the 3D rendering of the brain as if he was living in that space.
 
-04:10.160 --> 04:11.160
-Yeah.
+05:42.800 --> 05:49.680
+That's amazing. You would imagine this also beside the surgery itself for training. This is a
 
-04:11.160 --> 04:18.000
-What do you think the effect of such technologies in our, because the company that you're explaining
+05:49.680 --> 05:57.680
+very great achievement. The way that you don't necessarily have to experiment on even like
 
-04:18.000 --> 04:23.560
-is a very specific company to doing very specific thing, how do you think those technologies
+05:57.680 --> 06:03.840
+animals for a lot of stuff that are going on inside. When we want to test their brain pulses
 
-04:23.560 --> 04:29.760
-will translate into a popular or mainstream consumer to be able to take advantage of that?
+06:03.840 --> 06:09.680
+or anything instead of doing it on the animal, it will be able to done in a virtual space in
 
-04:29.760 --> 04:36.680
-For example, let's say this is just off the top of my head.
+06:09.680 --> 06:14.720
+the virtual brain. Yeah, definitely. You could see this in the Microsoft proportional material
 
-04:36.680 --> 04:41.400
-Would there be a possibility of mixing this technology or would you see the possibility
+06:14.720 --> 06:19.440
+for the HoloLens. Some of the early demos are in the classroom where a teacher is showing
 
-04:41.400 --> 04:52.800
-of mixing this technology with a very straightforward variable like the EEG variables that exist
+06:19.440 --> 06:25.680
+the kids a solar system or whatever and the kids have HoloLenses and the solar system is
 
-04:52.800 --> 04:55.240
-right now that assist you to meditate?
+06:25.680 --> 06:31.040
+right there in the classroom with them and animated and interactive. Or games. Yeah. Yeah,
 
-04:55.240 --> 05:01.200
-I think they're also a company from Toronto, eMUSE or MUSE, I think.
+06:31.040 --> 06:38.400
+it's just unbelievable. Another use that this kind of technology has had in the past couple
 
-05:01.200 --> 05:02.200
-Right.
+06:38.400 --> 06:43.680
+years has been a military and they've done it for good and for evil and per se.
 
-05:02.200 --> 05:08.640
-I think we actually used MUSE at a hackathon that we did internally at Synaptiv a couple
+06:45.840 --> 06:53.280
+Even though it might be necessary evil. But the technology has been used to treat PTSD very
 
-05:08.640 --> 05:13.720
-months ago and using the MUSE will detect brainwaves of some sort and encode them in
+06:53.280 --> 07:02.080
+seriously and they've had very successful results from it. Where do you see the future
 
-05:13.720 --> 05:16.000
-a way that a software can take advantage of.
+07:02.080 --> 07:09.920
+of that technology with that assistance are going? And how does technology as a whole will play
 
-05:16.000 --> 05:21.440
-So one of the demos was to move the robotic arm just by thinking about it.
+07:11.120 --> 07:16.240
+a bigger and bigger role in the army and in military industry complex?
 
-05:21.440 --> 05:22.440
-Wow.
+07:18.160 --> 07:23.520
+We see with the rise of drones that has been, I dare say, almost a decade now.
 
-05:22.440 --> 05:23.800
-It was amazing.
+07:26.320 --> 07:31.280
+Where do you see this whole thing is going? Because we are not going to stop fighting.
 
-05:23.800 --> 05:24.800
-I bet.
+07:31.280 --> 07:38.880
+The war is going to continue. And I think the difference would be that we will have less
 
-05:24.800 --> 05:25.800
-Yeah.
+07:38.880 --> 07:44.320
+casualty because technology is covering most of the ground that people had to do before.
 
-05:25.800 --> 05:30.280
-So we're definitely looking at new consumer electronics to bring that into the OR to help
+07:44.960 --> 07:50.160
+Where do you see this whole thing going with the usage of technology and its dependence to
 
-05:30.280 --> 05:36.840
-the surgeons, stuff like the Oculus Rift or the Microsoft HoloLens to give the surgeon
+07:50.160 --> 07:57.520
+advance technology? Well, in military particularly, I think the trend is to push more and more
 
-05:36.840 --> 05:43.120
-a heads up display and show them the 3D rendering of the brain as if he was living in that space.
+07:57.520 --> 08:04.000
+computational power down to the ranks and replacing humans with automation. Obviously,
 
-05:43.120 --> 05:44.120
-That's amazing.
+08:04.000 --> 08:10.560
+it's much safer for their side. But they're going to run into a pretty significant ethical
 
-05:44.120 --> 05:51.320
-You would imagine this also, beside the surgery itself for training, this is a very great
+08:10.560 --> 08:17.600
+decision probably really soon about giving autonomous drones the power to kill or the right to kill.
 
-05:51.320 --> 05:58.720
-achievement the way that you don't necessarily have to experiment on even like animals for
+08:19.760 --> 08:24.000
+Would you think that they will announce that they're about to do that or they'll just do it
 
-05:58.720 --> 06:01.560
-a lot of stuff that are going on inside there.
+08:24.000 --> 08:30.960
+until they get caught? Judging from recent events, I think probably the latter.
 
-06:01.560 --> 06:06.520
-When we want to test their brain pulses or anything, instead of doing it on the animal,
+08:32.160 --> 08:36.080
+It will find out about it on WikiLeaks. Yeah, I think so.
 
-06:06.520 --> 06:10.800
-it will be able to done in a virtual space in the virtual brain.
+08:38.720 --> 08:44.160
+It's been amazing. I think it's a great achievement of technology that you can
 
-06:10.800 --> 06:11.800
-Yeah, definitely.
+08:44.160 --> 08:56.400
+go in a small room in Arizona and control a drone in Afghanistan and drop a bomb because
 
-06:11.800 --> 06:16.520
-You can see this in the Microsoft promotional material for the HoloLens and the early demos
+08:58.800 --> 09:03.520
+of course, it's not resulting always in good. Sometimes it does and there are some people
 
-06:16.520 --> 06:22.040
-are in the classroom where a teacher is showing the kid's solar system or whatever and the
+09:03.520 --> 09:08.960
+that need to be killed and that's the only way. And I much rather a drone will kill them than a
 
-06:22.040 --> 06:27.000
-kids have whole lenses and the solar system is right there in the classroom with them
+09:08.960 --> 09:18.000
+soldier on our side basically being put in risk to deal with a Taliban leader or whoever.
 
-06:27.000 --> 06:29.280
-and animated and interactive.
-
-06:29.280 --> 06:30.280
-Or games.
-
-06:30.280 --> 06:31.280
-Yeah.
-
-06:31.280 --> 06:35.600
-Yeah, it's just unbelievable.
-
-06:35.600 --> 06:40.640
-Another use that this kind of technology has had in past couple of years has been a military
-
-06:40.640 --> 06:50.680
-and they've done it for good and for evil per se even though it might be necessary evil.
-
-06:50.680 --> 06:56.360
-But the technology has been used to treat PTSD very seriously and they've had very successful
-
-06:56.360 --> 07:00.400
-results from it.
-
-07:00.400 --> 07:07.920
-Where do you see the future of that technology with that assistance are going and how does
-
-07:07.920 --> 07:15.800
-technology as a whole will play a bigger and bigger role in the army and the military industry
-
-07:15.800 --> 07:18.380
-complex?
-
-07:18.380 --> 07:26.560
-We see with the rise of drones, it has been, I dare say, almost a decade now.
-
-07:26.560 --> 07:29.260
-Where do you see this whole thing is going with?
-
-07:29.260 --> 07:35.860
-Because we are not going to stop fighting, the war is going to continue and I think the
-
-07:35.860 --> 07:42.040
-difference would be that we will have less casualty because technology is covering most
-
-07:42.040 --> 07:45.200
-of the ground that people had to do before.
-
-07:45.200 --> 07:49.960
-Where do you see this whole thing going with the usage of technology and its dependence
-
-07:49.960 --> 07:51.680
-to advance technology?
-
-07:51.680 --> 07:58.800
-Well, in the military particularly, I think the trend is to push more and more computational
-
-07:58.800 --> 08:03.040
-power down to the ranks and replacing humans with automation.
-
-08:03.040 --> 08:10.000
-Obviously, it's much safer for their side, but they're going to run into a pretty significant
-
-08:10.000 --> 08:16.760
-ethical decision probably really soon about giving autonomous drones the power to kill
-
-08:16.760 --> 08:20.060
-or the right to kill.
-
-08:20.060 --> 08:23.900
-Would you think that they will announce that they're about to do that or they'll just do
-
-08:23.900 --> 08:28.320
-it until they get caught?
-
-08:28.320 --> 08:34.840
-Looking from recent events, I think probably the latter, we'll find out about it on WikiLeaks.
-
-08:34.840 --> 08:39.000
-Yeah, I think so.
-
-08:39.000 --> 08:40.280
-It's been amazing.
-
-08:40.280 --> 08:50.160
-I think it's a great achievement of technology that you can go in a small room in Arizona
-
-08:50.160 --> 09:00.180
-and control a drone in Afghanistan and drop a bomb because of course, it's not resulting
-
-09:00.180 --> 09:01.780
-always in good.
-
-09:01.780 --> 09:05.200
-Sometimes it does and there are some people that need to be killed and that's the only
-
-09:05.200 --> 09:13.320
-way and I much rather a drone will kill them than a soldier on our side basically being
-
-09:13.320 --> 09:18.280
-put in risk to deal with a Taliban leader or whoever.
-
-09:18.280 --> 09:22.760
+09:18.000 --> 09:22.560
 But at the same time, you see how people are treating, for example, even driverless cars.
 
-09:22.760 --> 09:26.000
-There are already a lot of people freaked out about it.
+09:22.560 --> 09:27.520
+There are already a lot of people freaked out about it. People are freaked out about drones
 
-09:26.000 --> 09:30.240
-People are freaked out about drones, use of mainstream drones.
+09:27.520 --> 09:33.280
+use of mainstream drones. You see these conspiracy theorists that have
 
-09:30.240 --> 09:38.840
-You see these conspiracy theorists that have YouTube channels and iTunes podcasts and all
+09:33.280 --> 09:42.160
+YouTube channels and iTunes podcasts and all of that. They're talking about, shoot the drones
 
-09:38.840 --> 09:39.840
-of that.
+09:42.160 --> 09:48.400
+down with your shotguns and all the people who are very concerned about these kind of thing
 
-09:39.840 --> 09:44.800
-They're talking about shoot the drones down with your shotguns and all the people who
+09:48.400 --> 09:58.720
+conspiracies. How do you think the challenge that technologists and technology enthusiasts have
 
-09:44.800 --> 09:51.200
-are very concerned about these kind of thing conspiracies.
+09:58.720 --> 10:04.560
+who are between two sides, one being the politics and politicians and the other being
 
-09:51.200 --> 10:00.240
-How do you think the challenge that technologists and technology enthusiasts have who are between
+10:05.760 --> 10:11.120
+people who are basically always scared of a new thing. That new thing has to be proven
 
-10:00.240 --> 10:07.240
-two sides, one being the politics and politicians and the other being people who are basically
+10:11.120 --> 10:16.480
+many, many times and more and more people using it for masses to accept the usage of that. How
 
-10:07.240 --> 10:09.720
-always scared of a new thing.
+10:16.480 --> 10:23.840
+do you think it will result in? Will it slow the advancement down or slow it down or speed it up?
 
-10:09.720 --> 10:13.760
-That new thing has to be proven many, many times and more and more people using it for
-
-10:13.760 --> 10:16.520
-masses to accept the usage of that.
-
-10:16.520 --> 10:22.960
-How do you think it will result and will it slow the advancement down or slow it down
-
-10:22.960 --> 10:25.320
-or speed it up?
-
-10:25.320 --> 10:32.640
+10:23.840 --> 10:30.880
 I think the way it will actually play out is we'll see some significant pushback initially
 
-10:32.640 --> 10:40.560
+10:32.240 --> 10:39.840
 because it is a big change, but it's also fairly inevitable that this is going to happen.
 
-10:40.560 --> 10:45.320
-It reminds me of David Brin's Transparent Society where surveillance becomes pervasive
+10:39.840 --> 10:44.800
+It reminds me of David Brin's Transparent Society when surveillance becomes pervasive
 
-10:45.320 --> 10:50.960
-and that could have actually net positive effects on society as we've already seen
+10:45.360 --> 10:51.200
+and that could have actually net positive effects on society, as we've already seen with
 
-10:50.960 --> 10:58.000
-with the way the police in the US have reacted to their cameras.
+10:51.200 --> 10:58.560
+the way the police in the US have reacted to their cameras. All of a sudden,
 
-10:58.000 --> 11:03.000
-All of a sudden, police are getting caught all the time and I think it's changing the
+10:59.760 --> 11:04.960
+police are getting caught all the time and I think it's changing the way they behave. They're
 
-11:03.000 --> 11:04.760
-way they behave.
+11:04.960 --> 11:11.120
+becoming more ethical in their professional behavior now. Yeah, it's like a double-edged sword
 
-11:04.760 --> 11:08.720
-They're becoming more ethical in their professional behavior now.
+11:11.120 --> 11:18.080
+because it's become more transparent for the authorities to control that, but at the same time
 
-11:08.720 --> 11:16.360
-Yeah, it's like a double-edged sword because it's become more transparent for the authorities
+11:18.080 --> 11:24.960
+a general population also are seeing it more, so they do believe that it's happening more.
 
-11:16.360 --> 11:22.720
-to control that, but at the same time, general population also are seeing it more.
+11:26.800 --> 11:31.040
+But once it reaches some critical threshold, I think it will just become accepted,
 
-11:22.720 --> 11:27.240
-They do believe that it's happening more.
+11:31.040 --> 11:35.520
+like cell phones have become accepted. There was pushback initially about those two,
 
-11:27.240 --> 11:31.980
-Once it reaches some critical threshold, I think it will just become accepted like cell
+11:36.720 --> 11:40.160
+that people were just walking down the street talking to themselves that looked weird,
 
-11:31.980 --> 11:33.280
-phones have become accepted.
+11:41.520 --> 11:46.160
+but now it's so calm, nobody looks twice. It's just accepted.
 
-11:33.280 --> 11:37.320
-There was pushback initially about those two.
+11:46.160 --> 11:51.760
+Also, virtual reality, I think, will have a lot to do with that because people would have
 
-11:37.320 --> 11:42.760
-People were just walking down the street talking to themselves that looked weird, but now it's
+11:52.640 --> 12:00.000
+the possibility to be whoever they want physically. On the game, Second Life,
 
-11:42.760 --> 11:45.320
-so calm and nobody looks twice.
+12:00.000 --> 12:07.600
+that you can create your own avatar and live in that. People get married, people buy stuff.
 
-11:45.320 --> 11:47.440
-It's just accepted.
+12:08.400 --> 12:13.040
+Sweden, I heard, has an embassy in that virtual world. Nike has a store.
 
-11:47.440 --> 11:52.800
-Also virtual reality, I think, will have a lot to do with that because people would have
+12:13.040 --> 12:21.680
+I think it will begin with, this is weird that people are doing because people will do that
 
-11:52.800 --> 11:57.840
-the possibility to be whoever they want physically.
+12:21.680 --> 12:26.960
+and film it and put it on YouTube to create a community and find like-minded people. It's
 
-11:57.840 --> 12:05.360
-Like on the game Second Life, that you can create your own avatar and live in that.
+12:26.960 --> 12:33.680
+amazing that we can do that all around the world now. At the same time, you freak certain people
 
-12:05.360 --> 12:08.200
-People get married, people buy stuff.
+12:33.680 --> 12:45.600
+out, the people who watch Fox News and all those propaganda, basically. Those people are not that
 
-12:08.200 --> 12:11.960
-Sweden, I heard, has an embassy in that virtual world.
+12:45.600 --> 12:52.640
+much of a concern, I agree, but we hear also from someone like Elon Musk and Bill Gates and Steve
 
-12:11.960 --> 12:15.720
-Nike has a store.
+12:52.640 --> 13:01.600
+Wozniak or... I don't want to say scaring people, they're smarter than that. They're making a very
 
-12:15.720 --> 12:21.360
-So I think it will begin with this is weird that people are doing because people will
+13:01.600 --> 13:10.640
+valid case of dangers of artificial intelligence. But at the same time, I think these kind of
 
-12:21.360 --> 12:26.240
-do that and film it and put it on YouTube to create a community and find like-minded
+13:12.960 --> 13:19.920
+warnings, even though necessary, it will lower the budget that research facilities can have to
 
-12:26.240 --> 12:31.600
-people and it's amazing that we can do that all around the world now.
+13:19.920 --> 13:26.400
+actually work on it because if public opinion is not behind an idea, it would be very hard to
 
-12:31.600 --> 12:37.520
-But at the same time, you freak certain people out, the people who watch Fox News and all
+13:26.400 --> 13:31.760
+finance it. It's like, I have a very good idea for a startup, but I'm probably not going to have
 
-12:37.520 --> 12:43.940
-those propaganda, basically.
+13:31.760 --> 13:38.160
+more than 10 users. Nobody's going to fund me. Right. Yeah, we saw the same thing happen with
 
-12:43.940 --> 12:50.440
-Those people are not that much of a concern, I agree, but we hear also from someone like
+13:38.160 --> 13:43.120
+prediction markets a few years ago. Robin Hansen was ready to roll out a prediction market that
 
-12:50.440 --> 12:59.160
-Elon Musk and Bill Gates and Steve Wozniak who are, I don't want to say scaring people.
+13:43.120 --> 13:47.680
+would help with public policy. And one of the questions that they were interested in betting
 
-12:59.160 --> 13:00.680
-They're smarter than that.
+13:47.680 --> 13:55.520
+on was the chance of a terrorist event. But some senators got ahold of this information and ran
 
-13:00.680 --> 13:07.920
-They're making a very valid case of dangers of artificial intelligence.
+13:55.520 --> 14:00.400
+a scare campaign saying it would be terrible to bet on these sorts of things because one side has
 
-13:07.920 --> 13:16.360
-But at the same time, I think these kind of warnings, even though necessary, it will lower
+14:00.400 --> 14:07.600
+to bet on it happening, which could be seen as promoting it in some sense. There was a silly
 
-13:16.360 --> 13:23.720
-the budget that research facilities can have to actually work on it because if public opinion
+14:07.600 --> 14:13.840
+reason anyways, but the point is that it turned public opinion and the project was abandoned.
 
-13:23.720 --> 13:27.000
-is not behind an idea, it would be very hard to finance.
-
-13:27.000 --> 13:31.720
-It's like, you know, I have a very good idea for a startup, but I probably not going to
-
-13:31.720 --> 13:33.000
-have more than 10 users.
-
-13:33.000 --> 13:34.760
-Nobody's going to fund me.
-
-13:34.760 --> 13:35.760
-Right.
-
-13:35.760 --> 13:40.640
-Yeah, we saw the same thing happen with prediction markets a few years ago.
-
-13:40.640 --> 13:45.680
-Robin Hanson was ready to roll out a prediction market that would help with public policy.
-
-13:45.680 --> 13:50.880
-And one of the questions that they were interested in betting on was the chance of a terrorist
-
-13:50.880 --> 13:52.360
-event.
-
-13:52.360 --> 13:56.960
-But some senators got a hold of this information and ran a scare campaign saying it would be
-
-13:56.960 --> 14:03.240
-terrible to bet on these sorts of things because one side has to bet on it happening, which
-
-14:03.240 --> 14:06.840
-could be seen as promoting it in some sense.
-
-14:06.840 --> 14:12.520
-It was a silly reason anyways, but the point is that it turned public opinion and the project
-
-14:12.520 --> 14:14.640
-was abandoned.
-
-14:14.640 --> 14:20.320
+14:14.400 --> 14:18.720
 Do you blame that senator or you blame the people who voted that senator into Senate?
 
-14:20.320 --> 14:21.880
-I think they're all to blame.
+14:18.720 --> 14:26.960
+I think they're all to blame. Yeah, because senators, one senator has to be thousands of
 
-14:21.880 --> 14:22.880
-Yeah.
+14:26.960 --> 14:33.680
+people at least behind him. And I think that's one of the greatest revelations in the United
 
-14:22.880 --> 14:30.480
-One senator is one senator, has to be thousands of people at least behind him.
+14:33.680 --> 14:39.040
+States. Donald Trump running for presidency because you see everybody who's behind him.
 
-14:30.480 --> 14:35.240
-And I think that's one of the greatest revelations in the United States, Donald Trump running
+14:39.040 --> 14:45.360
+It's a very interesting phenomenon. Yeah. Yeah. Only only one person predicted that.
 
-14:35.240 --> 14:38.880
-for presidency because you see everybody who's behind him.
+14:45.360 --> 14:51.280
+Who was that? God Adams, the creator of Dilbert. Really? Seriously. He said Donald Trump will run
 
-14:38.880 --> 14:41.520
-It's a very interesting phenomenon.
+14:51.280 --> 14:58.960
+for president? He said that Donald Trump will continue to lead in the Republican polls long
 
-14:41.520 --> 14:42.520
-Yeah.
+14:58.960 --> 15:03.280
+before anyone else even considered that possibility. Everyone else thought he was a
 
-14:42.520 --> 14:45.520
-It's only only one person predicted that.
+15:03.280 --> 15:08.400
+joke and that he was popular initially because it was funny. But that's actually not the case.
 
-14:45.520 --> 14:46.520
-Who did?
+15:08.400 --> 15:14.880
+No. What's very interesting is that they were reading the polls,
 
-14:46.520 --> 14:47.520
-Who was that?
+15:17.920 --> 15:24.720
+not polls really, but how much time media is covering Donald Trump in comparison to
 
-14:47.520 --> 14:48.520
-God Adams, the creator of Dilbert.
+15:24.720 --> 15:29.840
+the other people. It's twice as much as Hillary Clinton, the time that Trump is getting. And
 
-14:48.520 --> 14:49.520
-Really?
+15:29.840 --> 15:36.320
+I think 13 times more than Bernie Sanders. What Trump understands is how to manipulate
 
-14:49.520 --> 14:50.520
-Seriously.
+15:36.320 --> 15:41.840
+media to his advantage. Absolutely. And he knows that whoever has name recognition is going to be
 
-14:50.520 --> 14:52.680
-He said Donald Trump will run for president.
+15:41.840 --> 15:48.160
+highest in the polls. It's such a great transition though because with reality shows become more
 
-14:52.680 --> 14:59.680
-He said that Donald Trump will continue to lead in the Republican polls long before anyone
+15:48.160 --> 15:53.040
+popular in the United States and the celebrity culture. I had this conversation with somebody
 
-14:59.680 --> 15:02.560
-else even considered that possibility.
+15:53.040 --> 16:00.400
+else that I was like celebrities became the idols. The greatest thing that you can be in the 21st
 
-15:02.560 --> 15:07.120
-Everyone else thought he was a joke and that he was popular initially because it was funny,
+16:00.400 --> 16:07.040
+century. And she was saying that no, people were celebrities before that. But I was like, no, not
 
-15:07.120 --> 15:08.920
-but that's actually not the case.
+16:07.040 --> 16:13.680
+like this that you use, for example, Bono from YouTube for any humanitarian campaign that you
 
-15:08.920 --> 15:19.200
-Now, what's very interesting is that they were reading the polls, not polls really,
+16:13.680 --> 16:19.600
+have to get attention from people. It's not the cause that is getting the attention of the people.
 
-15:19.200 --> 15:25.880
-but how much time media is covering Donald Trump in comparison to the other people.
+16:19.600 --> 16:27.280
+It's a celebrity. And then by the rise of that, and now you see a person who's a creator of a
 
-15:25.880 --> 15:31.040
-It's twice as much as Hillary Clinton, the time that Trump is getting, and I think 13
+16:27.280 --> 16:36.640
+reality show. And it's an apprentice, misuniverse, all those things. Nobody knows better than him
 
-15:31.040 --> 15:33.040
-times more than Bernie Sanders.
+16:36.640 --> 16:44.320
+how to manipulate the media, as he said. And I mean, it's appealing to most people, I think,
 
-15:33.040 --> 15:38.000
-What Trump understands is how to manipulate media to his advantage.
+16:44.320 --> 16:50.000
+because he's not getting any money from big corporations and CPACs and nobody.
 
-15:38.000 --> 15:39.000
-Absolutely.
+16:50.000 --> 16:57.760
+Right. He's posing as the outsider. He is above corruption. And the thing that I think people
 
-15:39.000 --> 15:43.280
-And he knows that whoever has name recognition is going to be highest in the polls.
+16:57.760 --> 17:05.440
+most find appealing is he speaks his mind. He doesn't care what people think about what he says.
 
-15:43.280 --> 15:48.920
-It's such a great transition though, because with reality shows become more popular in
+17:05.440 --> 17:11.440
+I mean, he goes to extremes to make that point. Do you think he believe a lot of?
 
-15:48.920 --> 15:49.920
-the United States.
-
-15:49.920 --> 15:55.680
-And the celebrity culture, I had this conversation with somebody else that I was like, celebrities
-
-15:55.680 --> 16:01.080
-became the idols, the greatest thing that you can be in the 21st century.
-
-16:01.080 --> 16:05.280
-And she was saying that, no, people were celebrities before that.
-
-16:05.280 --> 16:11.680
-But I was like, no, not like this, that you use, for example, Bono from YouTube for any
-
-16:11.680 --> 16:16.160
-humanitarian campaign that you have to get attention from people.
-
-16:16.160 --> 16:19.800
-That's not the cause that is getting the attention of the people.
-
-16:19.800 --> 16:21.620
-It's a celebrity.
-
-16:21.620 --> 16:27.880
-And then by the rise of that, and now you see a person who's a creator of a reality
-
-16:27.880 --> 16:35.360
-show and is an apprentice, Miss Universe, all those things.
-
-16:35.360 --> 16:40.160
-Nobody knows better than him how to manipulate the media, as he said.
-
-16:40.160 --> 16:45.800
-And I mean, it's appealing to most people, I think because he's not getting any money
-
-16:45.800 --> 16:50.480
-from big corporations and CPACs and nobody.
-
-16:50.480 --> 16:51.480
-Right.
-
-16:51.480 --> 16:53.320
-He's posing as the outsider.
-
-16:53.320 --> 16:55.480
-He is above corruption.
-
-16:55.480 --> 17:01.560
-And the thing that I think people most find appealing is he speaks his mind.
-
-17:01.560 --> 17:05.560
-He doesn't care what people think about what he says.
-
-17:05.560 --> 17:09.720
-I mean, he goes to extremes to make that point.
-
-17:09.720 --> 17:11.560
-Do you think he believe a lot of?
-
-17:11.560 --> 17:14.720
+17:11.440 --> 17:14.720
 No, I think he does that in order to get media attention.
 
-17:14.720 --> 17:16.440
-I think so, too.
+17:14.720 --> 17:21.120
+I think so, too. I think so, too. I'm at this point, as we had this conversation
 
-17:16.440 --> 17:17.440
-I think so, too.
+17:22.320 --> 17:30.720
+before, I'm a Bernie Sanders supporter. And I think it would be very good for America to have
 
-17:17.440 --> 17:26.280
-I'm at this point, as we had this conversation before, I'm a Bernie Sanders supporter.
+17:30.720 --> 17:36.960
+a change in that direction. It's a very extreme change. We were a capitalist, but now we are
 
-17:26.280 --> 17:33.680
-And I think it would be very good for America to have a change in that direction.
+17:36.960 --> 17:45.360
+being run by a Jew, liberal, a socialist. It would be a very good change, in my opinion. But
 
-17:33.680 --> 17:35.160
-It's a very extreme change.
+17:45.360 --> 17:51.680
+if he drops out, I'm supporting Donald Trump, because I think he does not believe a lot of
 
-17:35.160 --> 17:43.360
-We were a capitalist, but now we are being run by a Jew, liberal, socialist.
+17:51.680 --> 18:01.200
+stuff that he says. You cannot possibly be that blind and make it that far. I think in a city
 
-17:43.360 --> 17:44.640
-It would be a very good change.
+18:01.200 --> 18:09.680
+like New York City. And Hillary Clinton, I have no interest in her. No, I think Hillary would just
 
-17:44.640 --> 17:45.640
-In my opinion.
+18:09.680 --> 18:15.600
+be a continuation of Obama, which turned out to be just a continuation of W. Bush. Surprisingly.
 
-17:45.640 --> 17:51.320
-But if he drops out, I'm supporting Donald Trump because I think he does not believe
+18:15.600 --> 18:21.440
+I agree. Against all odds. Everyone's wishes. Is it really a surprise? Because one man in a
 
-17:51.320 --> 17:54.700
-a lot of stuff that he says.
+18:21.440 --> 18:27.760
+democracy doesn't supposed to be able to change anything. You have to go. So it's a democratic
 
-17:54.700 --> 17:59.920
-You cannot possibly be that blind and make it that far.
+18:27.760 --> 18:36.480
+system that is backstabbing itself, in my opinion, because the parties' rhetorics against each other.
 
-17:59.920 --> 18:07.000
-I think in a city like New York City and Hillary Clinton, I have no interest in her.
+18:37.600 --> 18:45.440
+And one person who's being elected as somebody who you can use as a punching box,
 
-18:07.000 --> 18:13.200
-No, I think Hillary would just be a continuation of Obama, which turned out to be just a continuation
+18:46.720 --> 18:51.680
+you know, punching bag. I don't think he can do much.
 
-18:13.200 --> 18:19.120
-of W. Bush, surprisingly, against all odds, against everyone's wishes.
+18:51.680 --> 18:57.680
+Well, perhaps not. But you'd expect him to push in the directions of his promises when he's actually
 
-18:19.120 --> 18:20.520
-Is it really a surprise?
+18:57.680 --> 19:02.080
+gone in the other direction. I think the good things that he did, I'm not really sure about
 
-18:20.520 --> 18:25.120
-Because one man in a democracy doesn't supposed to be able to change anything.
+19:02.080 --> 19:06.720
+healthcare system, because apparently it's one of those things you have to live in the U.S. to
 
-18:25.120 --> 18:26.120
-You have to go.
+19:06.720 --> 19:12.640
+experience. I heard good things and bad things about Obamacare from different people who I respect
 
-18:26.120 --> 18:34.920
-So it's a democratic system that is backstabbing itself, in my opinion, because the party's
+19:12.640 --> 19:22.320
+their opinions. I think when he made it legal for the same-sex marriages to become federal,
 
-18:34.920 --> 18:43.880
-rhetorics against each other, and one person who's being elected as somebody who you can't
+19:22.320 --> 19:30.160
+I think that was a good thing. And I still think he will do more in this last year. I'm not an
 
-18:43.880 --> 18:53.600
-use as a punching box, you know, punching bag, I don't think he can do much.
+19:30.160 --> 19:38.320
+Obama fan at all. In the first term, when he was running, I was totally supporting John McCain.
 
-18:53.600 --> 18:58.640
-Well perhaps not, but you'd expect him to push in the directions of his promises when
+19:38.320 --> 19:46.880
+And then John McCain elected Sarah Palin as vice president. Why would you do that? It's such a
 
-18:58.640 --> 19:01.200
-he's actually gone in the other direction.
+19:46.880 --> 19:53.200
+weird thing. That was bizarre. Yeah, they made a really cool movie about it. Woody Harrelson,
 
-19:01.200 --> 19:05.760
-I think the good things that he did, I'm not really sure about the healthcare system, because
+19:53.200 --> 20:01.600
+isn't it? I can't remember the name. But it's about that era of Sarah Palin. It's based on a book
 
-19:05.760 --> 19:09.440
-apparently it's one of those things you have to live in the US to experience, that I heard
+20:01.600 --> 20:11.520
+whose Sarah Palin's advisor after the campaign was over, he wrote, and it was a disaster with her.
 
-19:09.440 --> 19:14.480
-good things and bad things about Obamacare from different people who I respect their
+20:13.040 --> 20:18.560
+But again, she's one person. There are thousands of people who are supporting her. She's still
 
-19:14.480 --> 19:16.200
-opinions.
+20:18.560 --> 20:25.200
+apparently making the most money in the conservative charities and conservative fundraisers.
 
-19:16.200 --> 19:24.200
-I think when he made it legal for same-sex marriages to become federal, I think that
+20:25.200 --> 20:32.560
+Who knows? It's really strange. You think the new government of Canada will have any effect in
 
-19:24.200 --> 19:25.440
-was a good thing.
+20:34.960 --> 20:44.720
+the social life of Americans in a way that this is a liberal government. We pulled out of Syria
 
-19:25.440 --> 19:31.160
-And I still think he will do more in this last year.
+20:44.720 --> 20:51.600
+in the first week that he became a prime minister. And then we started getting refugees,
 
-19:31.160 --> 19:32.640
-I'm not an Obama fan at all.
+20:51.600 --> 20:57.760
+even though the numbers are not comparable with what Europe is doing. And that we can talk about.
 
-19:32.640 --> 19:39.320
-In the second term, in the first term when he was running, I was totally supporting John
+20:59.200 --> 21:04.400
+I fully expect the Trudeau's government to be kind of an example for Americans to show what's
 
-19:39.320 --> 19:41.080
-McCain.
+21:04.400 --> 21:14.240
+possible. Yeah. Other than the ridiculous choices they have now. I mean, it's sad. I don't know.
 
-19:41.080 --> 19:46.320
-And then John McCain elected Sarah Palin as vice president, like, why would you do that?
+21:14.240 --> 21:18.480
+Me and my girlfriend, we have this conversation. She's a big supporter of Hillary Clinton,
 
-19:46.320 --> 19:48.000
-Like it's such a weird thing.
+21:18.480 --> 21:23.040
+because she also has worked for Hillary Clinton. And she was very impressed with her as a boss.
 
-19:48.000 --> 19:49.000
-That was bizarre.
+21:23.040 --> 21:30.880
+She's a smart person. She brought technology in a very involved way into state department.
 
-19:49.000 --> 19:53.880
-Yeah, they made a really cool movie about it, Woody Harrelson, isn't it?
+21:31.840 --> 21:37.360
+And she's a defender of women rights. But then you watch a lot of different stuff that's been
 
-19:53.880 --> 19:57.200
-I can't remember the name.
+21:37.360 --> 21:44.800
+put together, how she has flip flopped from time to time. And then you wonder, you know,
 
-19:57.200 --> 20:04.000
-But it's about that era of Sarah Palin, it's based on a book with Sarah Palin's advisor
+21:44.800 --> 21:51.920
+is this really the best that United States of America can offer as a candidate for presidency?
 
-20:04.000 --> 20:13.320
-after the campaign was over, he wrote, and it was a disaster with her.
+21:51.920 --> 21:56.000
+Like there's nobody else. My favorite candidate would be Eric Schmidt of Google.
 
-20:13.320 --> 20:18.280
-But again, she's one person, there are thousands of people who are supporting her.
+21:57.280 --> 22:05.920
+Yeah, because they are obviously smarter than anybody who's running, you know, for president
 
-20:18.280 --> 20:24.680
-She's still, apparently, making the most money in the conservative charities and conservative
+22:05.920 --> 22:12.480
+politicians. But unfortunately, we are kind of taken hostage by lawyers, it seems like.
 
-20:24.680 --> 20:25.680
-fundraisers.
+22:12.480 --> 22:17.280
+Neil deGrasse Tyson was also saying that you look at the Congress and Senate,
 
-20:25.680 --> 20:29.360
-I mean, who knows, it's really strange.
+22:17.280 --> 22:22.000
+the lawyer, lawyer, businessman, lawyer, lawyer, businessman. Where are the scientists? Where
 
-20:29.360 --> 20:38.880
-You think the new government of Canada will have any effect in the social life of Americans
+22:22.000 --> 22:29.120
+are the engineers? They're in Europe. I mean, the Europeans don't have the same problem with
 
-20:38.880 --> 20:41.800
-in a way that this is a liberal government?
+22:29.120 --> 22:35.680
+their politicians. They actually have academics and politics. Which they should. They should.
 
-20:41.800 --> 20:50.080
-We pulled out of Syria in the first week that, you know, he became a prime minister.
+22:35.680 --> 22:42.080
+You'd expect that. Yeah. But no, it's, it's, I mean, a lot of good news is coming from
 
-20:50.080 --> 20:54.640
-And then we started getting refugees, even though the numbers are not comparable with
+22:44.320 --> 22:50.560
+the West in the sense that countries with innovation, you know, the first world countries.
 
-20:54.640 --> 20:56.560
-what Europe is doing.
+22:51.760 --> 22:56.880
+But at the same time, you see a lot of nonsense is also coming out of them.
 
-20:56.560 --> 20:59.320
-And that we can talk about.
+22:56.880 --> 23:04.080
+Look at Europe, the problem that they have now with the refugee crisis.
 
-20:59.320 --> 21:04.160
-I fully expect the Trudeau's government to be kind of an example for Americans to show
+23:06.000 --> 23:10.480
+And what happened in Germany, which I'm sure you know about in the New Year's Eve,
 
-21:04.160 --> 21:05.160
-what's possible.
+23:11.440 --> 23:17.360
+it just kind of makes it worse. And already, I think people are completely ignoring them.
 
-21:05.160 --> 21:06.160
-Yeah.
+23:18.480 --> 23:24.480
+They're the radical right who are, they're rising very powerful in decades.
 
-21:06.160 --> 21:12.600
-Other than the ridiculous choices they have now, it's, I mean, it's sad.
+23:24.480 --> 23:33.920
+You can say in Germany, in Greece, in France, in Finland, in Sweden, you see people who were
 
-21:12.600 --> 21:17.240
-It's I don't know, me and my girlfriend, we have this conversation, she's a big supporter
+23:33.920 --> 23:39.760
+national socialists and they, they couldn't even breathe really in a political spectrum in those
 
-21:17.240 --> 21:21.320
-of Hillary Clinton, because she also has worked for Hillary Clinton.
+23:39.760 --> 23:45.520
+countries. They're, they have a lot of supporters now and the extreme right group in Germany,
 
-21:21.320 --> 21:25.180
-And she was very impressed with her as a boss, she's a smart person.
+23:45.520 --> 23:55.760
+in Germany, Pegida, they had a, they had a rally here in Ottawa and there are videos on
 
-21:25.180 --> 21:32.200
-She brought technology in a very involved way into State Department.
+23:55.760 --> 24:00.240
+YouTube that they were on the streets and there are also people who are countering them,
 
-21:32.200 --> 21:34.780
-And she's a defender of women rights.
+24:00.240 --> 24:06.480
+who are anti-racism and all of that. Where do you, where do you see this whole social conflict
 
-21:34.780 --> 21:40.240
-But then you watch a lot of different stuff that's been put together, how she has flip
+24:06.480 --> 24:15.840
+is going? Well, from what I understand, the attacks in Cologne New Year's Eve were actually suppressed,
 
-21:40.240 --> 21:43.080
-flopped from time to time.
+24:15.840 --> 24:19.200
+news of the attacks were suppressed by the government because they're afraid it would
 
-21:43.080 --> 21:48.360
-And then you wonder, you know, is this really the best that United States of America can
+24:19.840 --> 24:25.440
+fuel kind of anti-immigration sentiment on the right. And then the mayor, as soon as the news
 
-21:48.360 --> 21:52.160
-offer as a candidate for presidency?
+24:25.440 --> 24:31.200
+came out, it made it much worse because now the socialist governments are protecting the bad actors.
 
-21:52.160 --> 21:53.160
-Like there's nobody else.
+24:31.200 --> 24:38.400
+That's right. That's not the side you want to be on. No. And the mayor of Cologne, the mayor
 
-21:53.160 --> 21:56.640
-My favorite candidate would be Eric Schmidt of Google.
+24:38.400 --> 24:44.640
+basically blamed the women. The women, great. Yeah. It's like, keep, keep the man at the arm
 
-21:56.640 --> 21:57.640
-Okay.
+24:44.640 --> 24:50.480
+length. I'm like, what are you talking about? Like, do you flip this easily? Like, what did it take?
 
-21:57.640 --> 22:07.440
-Because they are obviously smarter than anybody who's running, you know, for president, politicians.
-
-22:07.440 --> 22:14.240
-But unfortunately, we are kind of taken hostages by lawyers, it seems like Neil deGrasse Tyson
-
-22:14.240 --> 22:19.640
-was also saying that you look at the Congress and Senate, the lawyer, lawyer, lawyer, businessman,
-
-22:19.640 --> 22:23.640
-lawyer, lawyer, businessman, where are the scientists, where are the engineers?
-
-22:23.640 --> 22:24.640
-In Europe.
-
-22:24.640 --> 22:31.280
-I mean, the Europeans don't have the same problem with their politicians, they actually
-
-22:31.280 --> 22:34.480
-have academics and politics.
-
-22:34.480 --> 22:35.480
-Which they should.
-
-22:35.480 --> 22:36.480
-They should.
-
-22:36.480 --> 22:37.480
-You'd expect.
-
-22:37.480 --> 22:38.480
-Yeah.
-
-22:38.480 --> 22:45.720
-But no, it's, it's, I mean, a lot of good news is coming from the West in the sense
-
-22:45.720 --> 22:52.560
-that countries with innovation, you know, the first world countries, but at the same
-
-22:52.560 --> 22:59.840
-time, you see a lot of nonsense is also coming out of them.
-
-22:59.840 --> 23:06.840
-Look at Europe, the problem that they have now with the refugee crisis and what happened
-
-23:06.840 --> 23:12.440
-in Germany, which I'm sure you know about in the New Year's Eve, it just kind of makes
-
-23:12.440 --> 23:13.440
-it worse.
-
-23:13.440 --> 23:18.800
-And already, I think people are completely ignoring them.
-
-23:18.800 --> 23:25.440
-Under the radical right, who are, they're rising very powerful in decades.
-
-23:25.440 --> 23:34.400
-You can say in Germany, in Greece, in France, in Finland, in Sweden, you see people who
-
-23:34.400 --> 23:40.120
-were national socialists and they couldn't even breathe really in a political spectrum
-
-23:40.120 --> 23:41.120
-in those countries.
-
-23:41.120 --> 23:47.640
-There, they have a lot of supporters now and the extreme right group in Germany, Pegida,
-
-23:47.640 --> 23:57.120
-they had a, they had a rally here in Ottawa and there are videos on YouTube that day around
-
-23:57.120 --> 24:02.000
-the streets and there are also people who are countering them who are anti-racism and
-
-24:02.000 --> 24:03.000
-all of that.
-
-24:03.000 --> 24:09.400
-Where do you, where do you see this whole social conflict is going?
-
-24:09.400 --> 24:16.120
-From what I understand, the attacks in Cologne, New Year's Eve were actually suppressed, news
-
-24:16.120 --> 24:20.520
-of the attacks was suppressed by the government because they were afraid it would fuel kind
-
-24:20.520 --> 24:23.680
-of anti-immigration sentiment on the right.
-
-24:23.680 --> 24:24.680
-And then the mayor.
-
-24:24.680 --> 24:29.280
-But as soon as the news came out, it made it much worse because now the socialist governments
-
-24:29.280 --> 24:31.480
-are protecting the bad actors.
-
-24:31.480 --> 24:32.480
-That's right.
-
-24:32.480 --> 24:34.880
-And that's not the side you want to be on.
-
-24:34.880 --> 24:35.880
-No.
-
-24:35.880 --> 24:40.880
-And the mayor of Cologne, the mayor basically blamed the women.
-
-24:40.880 --> 24:41.880
-Right.
-
-24:41.880 --> 24:42.880
-Yeah.
-
-24:42.880 --> 24:46.840
-They kept the man at the arm length only, what are you talking about?
-
-24:46.840 --> 24:49.520
-Like, do you flip this easily?
-
-24:49.520 --> 24:51.280
-Like what did it take?
-
-24:51.280 --> 24:59.920
+24:51.040 --> 24:58.160
 And my understanding is that they're getting 1 million, 1 million plus refugees into Germany.
 
-24:59.920 --> 25:03.320
-This is not going to go away, this problem, because then they're going to push for them
+24:58.160 --> 25:03.360
+This is not going to go away, this problem, because then they're going to push for them to
 
-25:03.320 --> 25:07.640
-to become citizen faster so they can vote for that party.
+25:03.360 --> 25:08.880
+become citizen faster so they can vote for that party. Right. That's my thinking. And I have the
 
-25:07.640 --> 25:08.640
-That's my thinking.
+25:08.880 --> 25:13.920
+same thinking about abortion and people who are against it, that they don't care about that baby.
 
-25:08.640 --> 25:13.040
-They have the same thinking about abortion and people who are against it, that they don't
+25:13.920 --> 25:18.800
+They just care about one more Christian and one more Muslim or one more whatever. It's a number.
 
-25:13.040 --> 25:16.680
-care about that baby, they just care about one more Christian and one more Muslim or
+25:18.800 --> 25:27.120
+Mm-hmm. And the fact that they're committing suicide, I think, in Europe for the sake of
 
-25:16.680 --> 25:18.360
-one more whatever.
+25:27.120 --> 25:35.360
+their own political game and agenda. Yeah, it looks ironic from outside observer.
 
-25:18.360 --> 25:20.840
-It's a number.
+25:35.360 --> 25:44.560
+Yeah, for sure. And as you're saying, Europeans, they master a lot of things much faster than
 
-25:20.840 --> 25:27.960
-And the fact that they're committing suicide, I think, in Europe for the sake of their own
+25:44.560 --> 25:52.400
+Americans. They already, as you said, have academics and scientists and their political system
 
-25:27.960 --> 25:30.880
-political game and agenda.
+25:53.200 --> 25:59.360
+completely involved. But they, at the same time, you see the openness in the European way and
 
-25:30.880 --> 25:35.480
-Yeah, it looks ironic from the outside observer.
+25:59.360 --> 26:05.520
+multiculturalism in the European way that they promoted, for example, in England is causing
 
-25:35.480 --> 25:37.400
-Yeah, for sure.
+26:05.520 --> 26:16.000
+a lot of problem right now. See all those Muslim British or British Muslims who joined the terrorist
 
-25:37.400 --> 25:46.880
-And as you're saying, Europeans, they master a lot of things much faster than Americans.
+26:16.000 --> 26:21.280
+group ISIL in the Middle East. A lot of them are British, the guy who-
 
-25:46.880 --> 25:53.200
-They already, as you said, have academics and scientists and their political system
+26:21.280 --> 26:23.760
+They were born and raised in Brittany.
 
-25:53.200 --> 25:59.480
-are completely involved, but at the same time, you see the openness in the European way and
+26:23.760 --> 26:29.360
+Yeah, like they went to school, sometimes in BBC, they're talking to people who knew them
 
-25:59.480 --> 26:05.120
-multiculturalism in the European way that they promoted, for example, in England is
+26:29.360 --> 26:37.200
+when they were a kid. The guy, Jihadi John, who just got assassinated like two weeks ago,
 
-26:05.120 --> 26:07.600
-causing a lot of problem right now.
+26:37.200 --> 26:42.640
+he was replaced by another British guy. And they right away found out who he was.
 
-26:07.600 --> 26:17.640
-See all those Muslim British or British Muslims who joined the terrorist group ISIL in the
+26:44.080 --> 26:55.520
+And he was one of the people who are very closely related to, excuse me, to the Islamic extremist
 
-26:17.640 --> 26:18.800
-Middle East.
+26:55.520 --> 27:00.720
+Anjum Chowdhury. I don't know if you know him, he's like a preacher for extreme Islam in London
 
-26:18.800 --> 26:20.520
-A lot of them are British.
+27:01.600 --> 27:05.600
+and completely protected by the government. He's getting paid by the government.
 
-26:20.520 --> 26:26.840
-The guy who was born and raised in Britain, yeah, like they went to school.
+27:07.520 --> 27:13.680
+But that guy who I had seen before in the documentaries about them, now he joined
 
-26:26.840 --> 26:31.280
-Sometimes in BBC, they're talking to people who knew them when they were a kid.
+27:14.640 --> 27:20.080
+ISIL and he became a new Jihadi John. He just released a video. It's like very surreal.
 
-26:31.280 --> 26:38.800
-The guy, Jihadi John, who who just got assassinated like two weeks ago, he was replaced by another
+27:20.080 --> 27:26.880
+It is. I think it's really interesting to see the recent backlash against these progressive
 
-26:38.800 --> 26:40.280
-British guy.
+27:26.880 --> 27:33.120
+values, the ones that are protecting the terrorists. In fact, there's a new term for them, the regressive
 
-26:40.280 --> 26:44.400
-And they right away find out who he was.
+27:33.120 --> 27:39.040
+left. They're the ones that are attacking Sam Harris and his colleagues for actually addressing
 
-26:44.400 --> 26:54.320
-And he was one of the people who are very closely related to excuse me, to the Islamic
+27:39.040 --> 27:46.800
+the problem. So Glenn Greenwald and Ben Affleck, of course, on the Bill Marshall calling Sam a
 
-26:54.320 --> 26:55.320
-extremists.
+27:46.800 --> 27:56.240
+racist for saying that this is actually an issue. Yeah. I hope that we come to rationality and
 
-26:55.320 --> 27:01.560
-Anjum Chowdhury, I don't know if you know him, is like a preacher for extreme Islam in London
+27:57.680 --> 28:03.600
+smart thinking in a way that we don't really have to get our facts from Ben Affleck, for example.
 
-27:01.560 --> 27:07.760
-and completely protected by the government, is getting paid by the government.
+28:05.040 --> 28:11.760
+Because the other side of his story, who at that occasion was Sam Harris, he's more than qualified
 
-27:07.760 --> 27:15.120
-But that guy who I had seen before in the documentaries about them, now he joined ISIL
+28:11.760 --> 28:19.600
+to talk about any of those things. He has studied it. He's a philosopher and a neuroscientist
 
-27:15.120 --> 27:16.840
-and he became a new Jihadi John.
+28:20.560 --> 28:27.040
+and he's been writing and talking about these issues for a while, for a long time.
 
-27:16.840 --> 27:21.560
-He just released the video is like very surreal.
+28:27.760 --> 28:29.120
+Since he published the end of faith.
 
-27:21.560 --> 27:26.920
-I think it's really interesting to see the recent backlash against these progressive
+28:29.840 --> 28:36.880
+Absolutely. And I think 9-11 was a horrible thing, but in a way, a lot of good came out of it in a
 
-27:26.920 --> 27:30.000
-values, the ones that are protecting the terrorists.
+28:36.880 --> 28:45.600
+sense that people like Sam Harris, people like Richard Dawkins, Christopher Hitchens, Douglas
 
-27:30.000 --> 27:33.560
-In fact, there's a new term for them, the regressive left.
+28:45.600 --> 28:53.040
+Morey, this people started targeting what the problem really they think is. And I agree with
 
-27:33.560 --> 27:34.560
-That's right.
+28:53.040 --> 28:58.560
+them completely. Do you think there would have been no God Delusion published, if not for 9-11?
 
-27:34.560 --> 27:39.120
-They're the ones that are attacking Sam Harris and his colleagues for actually addressing
+28:59.840 --> 29:06.240
+End of faith or then it's breaking the spell? Do you think those were all a result of 9-11?
 
-27:39.120 --> 27:40.120
-the problem.
+29:06.240 --> 29:14.800
+I think so. I think so. Possibly. Earlier in the podcast, you said something that triggered this
 
-27:40.120 --> 27:47.680
-So Glenn Greenwald and Ben Affleck, of course, and Bill Marshall, calling Sam a racist for
+29:14.800 --> 29:21.360
+odd idea. We were talking about elections in Trump and in the context of Trump,
 
-27:47.680 --> 27:50.720
-saying that this is actually an issue.
+29:21.360 --> 29:30.240
+he immediately brought up reality shows. And it just made me wonder, what if the elections are
 
-27:50.720 --> 28:00.880
-Yeah, I hope that we come to rationality and smart thinking in a way that we don't really
+29:30.240 --> 29:37.840
+a reality show and have been since, say, JFK debated Nixon in 1960 on TV. That was the first
 
-28:00.880 --> 28:05.360
-have to get our facts from Ben Affleck, for example.
+29:37.840 --> 29:45.280
+televised debate. What if the election has been a reality show ever since? What if?
 
-28:05.360 --> 28:11.240
-Because the other side of his story, who at that occasion was Sam Harris, he's more than
+29:48.880 --> 29:57.200
+And when it gets through the free world for four years. Yeah. It could be, I guess. I think
 
-28:11.240 --> 28:14.400
-qualified to talk about any of those things.
+29:57.200 --> 30:04.320
+everything is possible. But the question would be, who is producing the reality show? Who's
 
-28:14.400 --> 28:22.640
-He has studied it, he's a philosopher and a neuroscientist, and he's been writing and
+30:04.320 --> 30:15.840
+okaying it? Maybe it's the media. Let's see. Let's follow the money. There's a lot of spending
 
-28:22.640 --> 28:28.120
-talking about these issues for a while, for a long time.
+30:15.840 --> 30:28.080
+on elections. Where does that money go? I would imagine mostly goes to media. Some lobbyists,
 
-28:28.120 --> 28:30.560
-Since he published The End of Faith.
+30:28.080 --> 30:37.920
+maybe, to shift the position. Elections are all about advertising. That's right. So advertisers.
 
-28:30.560 --> 28:31.560
-Absolutely.
+30:37.920 --> 30:47.520
+Yeah, they're running the federal election reality show. Yeah, that's awesome. Well,
 
-28:31.560 --> 28:36.840
-And I think 9-11 was a horrible thing, but in a way, a lot of good came out of it in
+30:47.520 --> 30:54.880
+you're right by saying that let's follow the money and see where it leads because everything
 
-28:36.840 --> 28:45.200
-a sense that people like Sam Harris, people like Richard Dawkins, Christopher Hitchens,
+30:54.880 --> 31:01.760
+is basically money. Well, that's been Bernie Sanders being complete this election cycle,
 
-28:45.200 --> 28:51.280
-Douglas Morey, these people started targeting what the problem really, they think, is.
+31:01.760 --> 31:08.640
+isn't it? The big business owns the politicians. I think that's absolutely true. The politicians
 
-28:51.280 --> 28:54.040
-And I agree with them completely.
+31:08.640 --> 31:14.240
+are absolutely corrupt. It's special interests that control legislation. That's been proven
 
-28:54.040 --> 29:00.080
-Do you think there would have been no God Delusion published if not for 9-11, or End
+31:14.240 --> 31:25.520
+statistically. Yes. That makes a lot of sense. So he offers a solution to add even more
 
-29:00.080 --> 29:06.360
-of Faith, or Dennett's breaking the spell, or you think those were all a result of 9-11?
+31:25.520 --> 31:32.160
+legislation to prevent this sort of thing. But that might make it worse. That just adds more
 
-29:06.360 --> 29:07.880
-I think so.
+31:32.160 --> 31:38.800
+regulations to be that it would be subject to regulatory capture. It's just a bigger government.
 
-29:07.880 --> 29:08.880
-I think so.
-
-29:08.880 --> 29:09.880
-Possibly, yes.
-
-29:09.880 --> 29:17.160
-Earlier in the podcast, you said something that triggered this odd idea.
-
-29:17.160 --> 29:22.000
-We were talking about elections and Trump, and in the context of Trump, you immediately
-
-29:22.000 --> 29:25.040
-brought up reality shows.
-
-29:25.040 --> 29:33.920
-And it just made me wonder, what if the elections are a reality show, and have been since, say,
-
-29:33.920 --> 29:41.000
-JFK debated Nixon in 1960 on TV, that was the first televised debate, what if the election
-
-29:41.000 --> 29:45.080
-has been a reality show ever since?
-
-29:45.080 --> 29:46.080
-What if?
-
-29:46.080 --> 29:52.720
-And the winner gets to rule the free world for four years.
-
-29:52.720 --> 29:53.720
-Yeah.
-
-29:53.720 --> 29:56.920
-It could be, I guess.
-
-29:56.920 --> 29:59.400
-I think everything is possible.
-
-29:59.400 --> 30:04.200
-But the question would be, who is producing the reality show?
-
-30:04.200 --> 30:08.440
-Who is okaying it?
-
-30:08.440 --> 30:12.360
-Maybe it's the media.
-
-30:12.360 --> 30:13.800
-Let's see.
-
-30:13.800 --> 30:14.800
-Let's follow the money.
-
-30:14.800 --> 30:16.800
-There's a lot of spending in elections.
-
-30:16.800 --> 30:22.360
-Where does that money go?
-
-30:22.360 --> 30:27.320
-I would imagine mostly goes to media.
-
-30:27.320 --> 30:32.360
-Some lobbyists, maybe, to shift the position.
-
-30:32.360 --> 30:33.800
-Elections are all about advertising.
-
-30:33.800 --> 30:36.800
-That's right.
-
-30:36.800 --> 30:37.800
-So advertisers.
-
-30:37.800 --> 30:38.800
-Yep.
-
-30:38.800 --> 30:43.360
-They're running the federal election reality show.
-
-30:43.360 --> 30:46.600
-Yeah, that's awesome.
-
-30:46.600 --> 30:54.840
-Well, you're right by saying that let's follow the money and see where it leads, because
-
-30:54.840 --> 30:56.680
-everything is basically money.
-
-30:56.680 --> 31:03.400
-Well, that's been Bernie Sanders' main complaint, this election cycle, isn't it, that the big
-
-31:03.400 --> 31:05.560
-business owns the politicians?
-
-31:05.560 --> 31:08.000
-I think that's absolutely true.
-
-31:08.000 --> 31:09.920
-The politicians are absolutely corrupt.
-
-31:09.920 --> 31:13.400
-It's special interests that control legislation.
-
-31:13.400 --> 31:15.280
-That's been proven statistically.
-
-31:15.280 --> 31:16.280
-Yes.
-
-31:16.280 --> 31:20.720
-That makes a lot of sense.
-
-31:20.720 --> 31:30.800
-So he offers a solution to add even more legislation to prevent this sort of thing, but that's
-
-31:30.800 --> 31:31.800
-might make it worse.
-
-31:31.800 --> 31:37.440
-That just adds more regulations to be subject to regulatory capture.
-
-31:37.440 --> 31:40.000
-It's just a bigger government.
-
-31:40.000 --> 31:44.720
+31:39.760 --> 31:43.920
 The more power the government has, the more value there is in controlling it.
 
-31:44.720 --> 31:45.720
-Right.
+31:43.920 --> 31:55.920
+Right. That's very true. Jeremy, what's his family name? He wrote a book, Future Money,
 
-31:45.720 --> 31:51.040
-That's absolutely true.
+31:57.360 --> 32:02.880
+and our friend Nicola interviewed him too, which he's talking about.
 
-31:51.040 --> 31:54.440
-Jeremy, what's his family name?
+32:02.880 --> 32:09.920
+Is that Rivkin? Rivkin. Yes, Jeremy Rivkin. Thanks. A zero margin society.
 
-31:54.440 --> 32:02.560
-He wrote a book, Future Money, and our friend Nicola interviewed him too, which he's talking
+32:09.920 --> 32:19.920
+How do you think that kind of a society will affect this money talks? Can you describe what
 
-32:02.560 --> 32:03.560
-about.
+32:21.600 --> 32:30.880
+in a way that, let's say, more and more human resources being replaced by machines.
 
-32:03.560 --> 32:04.560
-Rifkin?
+32:31.600 --> 32:34.800
+So you don't have to pay them salary. You don't have to pay for their...
 
-32:04.560 --> 32:05.560
-Rifkin.
+32:34.800 --> 32:39.200
+You don't have to pay payment. Is it the argument that robots are going to put
 
-32:05.560 --> 32:06.560
-Yes.
+32:39.200 --> 32:44.800
+everyone out of work? That money will have no value. Basically, the end of capitalism.
 
-32:06.560 --> 32:07.560
-Jeremy Rifkin.
+32:46.160 --> 32:54.320
+That's the idea. There will be no money in this way. But is there still value in this society?
 
-32:07.560 --> 32:08.560
-Thanks.
+32:55.680 --> 33:01.840
+Value is a concept? Will people value one thing over another? Will they value living
 
-32:08.560 --> 32:11.800
-A zero margin society.
+33:01.840 --> 33:08.080
+in one place over another? Will they value seeing somebody talk or seeing some show more than another?
 
-32:11.800 --> 32:24.280
-How do you think that kind of a society will affect this money talks in a way that, let's
+33:08.080 --> 33:14.720
+You know what they were saying that in the past 20 years, apparently, a trend has begun that
 
-32:24.280 --> 32:31.760
-say, more and more human resources being replaced by machines.
+33:16.400 --> 33:20.960
+a newer generation, a younger generation, they're not buying houses anymore. They rent.
 
-32:31.760 --> 32:33.600
-So you don't have to pay them salary.
+33:24.320 --> 33:27.360
+A lot of people go to college, but a lot of people don't go to college
 
-32:33.600 --> 32:36.000
-You don't have to pay for their...
+33:27.360 --> 33:37.200
+because it's a very big bet. I went to film school and I still have not paid my student loan fully.
 
-32:36.000 --> 32:37.000
-You don't have to pay...
+33:38.160 --> 33:46.160
+So you think about, because when you spend money, it's about a business. Am I making
 
-32:37.000 --> 32:40.980
-Is this the argument that robots are going to put everyone out of work?
+33:46.160 --> 33:53.840
+the right investment? Am I going to get anything back from it? And that just adds to it. It's like
 
-32:40.980 --> 32:46.520
-That money will have no value, basically the end of capitalism.
+33:53.840 --> 34:01.520
+buying a house. It's like you have a mortgage before even you graduated. So more and more
 
-32:46.520 --> 32:48.080
-That's the idea.
+34:01.520 --> 34:08.800
+people are shifting, I think, towards individualism. And I think this is actually a time that Ayn Rand
 
-32:48.080 --> 32:51.080
-There will be no money in this way.
+34:08.800 --> 34:16.560
+got to get big again. More and more people will be interested in objectivism and think about
 
-32:51.080 --> 32:56.100
-But is there still value in this society?
+34:16.560 --> 34:25.280
+yourself. But isn't staying away from mortgages and renting instead just a shift from long-term
 
-32:56.100 --> 32:58.120
-Value is a concept?
+34:25.280 --> 34:36.640
+investment to short-term flexibility? I don't know. I don't know. I'm confused about how you
 
-32:58.120 --> 33:00.960
-Will people value one thing over another?
+34:36.640 --> 34:45.360
+derive some trend towards individualism from that. It's not from that. I think it's just an
 
-33:00.960 --> 33:03.200
-Will they value living in one place over another?
+34:45.360 --> 34:55.120
+observation about our social life that in early 90s, you would see boomboxes and a group of people
 
-33:03.200 --> 33:08.340
-Will they value seeing somebody talk or seeing some show more than another?
+34:55.120 --> 35:00.080
+gathering around it and walking on the street under a shoulder. One person has a boombox on
 
-33:08.340 --> 33:14.520
-You know what they were saying that in the past 20 years, apparently, a trend has begun
+35:00.080 --> 35:04.560
+the shoulder and five, six other people walking with them. People were talking more to each other.
 
-33:14.520 --> 33:24.400
-that a newer generation, younger generation, they're not buying houses anymore, they rent.
+35:04.560 --> 35:12.080
+You don't have to talk to anybody literally anymore. Yeah, I'm with you. I'm not saying it
 
-33:24.400 --> 33:29.920
-A lot of people go to college, but a lot of people don't go to college because it's a
+35:12.080 --> 35:20.160
+in the way that, oh, even if it was like old days, I'm not a fan of that at all. But I think
 
-33:29.920 --> 33:31.960
-very big bet.
+35:20.160 --> 35:30.320
+it is more about, it's less dependent on a group, which I think is a good thing. When you have
 
-33:31.960 --> 33:38.320
-I went to film school and I still have not paid my student loan fully.
+35:30.320 --> 35:35.360
+Instagram and the culture of selfie, for example, why is it that big, you think?
 
-33:38.320 --> 33:46.120
-So you think about, because when you spend money, it's about a business, am I making
+35:35.360 --> 35:49.760
+That's a mystery to me. That people have been a fan of it since it's crazy. It's one of those
 
-33:46.120 --> 33:47.120
-the right investment?
+35:49.760 --> 35:57.600
+things that begun with being able to take a photo of yourself and see yourself with a phone and
 
-33:47.120 --> 33:52.720
-Am I going to get anything back from it?
+35:57.600 --> 36:03.840
+selfie has begun. It's just a no-brainer. Kim Kardashian has a book of selfies. I don't know
 
-33:52.720 --> 33:53.720
-That just adds to it.
+36:03.840 --> 36:07.840
+if you know about that. I did not. Yeah, full of selfies. But thanks for telling me.
 
-33:53.720 --> 33:59.840
-It's like buying a house, it's like you have a mortgage before even you graduated.
+36:10.640 --> 36:15.680
+So I don't think it's a bad thing. I think we are dependent less on group. Maybe it's a,
 
-33:59.840 --> 34:05.920
-So more and more people are shifting, I think, towards individualism.
+36:15.680 --> 36:22.080
+maybe you could look at these selfie trends as kind of an artistic expression. I'm all for
 
-34:05.920 --> 34:11.320
-And I think this is actually a time that Ayn Rand is going to get big again.
+36:22.080 --> 36:29.840
+having online avatars and having many of them. I consider none of them are identical to me.
 
-34:11.320 --> 34:19.160
-More and more people will be interested in objectivism and think about yourself.
+36:29.840 --> 36:38.000
+They're crafted or designed by me for specific purposes in specific communities. I've got a
 
-34:19.160 --> 34:25.280
-But isn't staying away from mortgages and renting instead just a shift from long-term
+36:38.000 --> 36:43.280
+social one on Facebook. I've got a very professional one on LinkedIn. And every different community
 
-34:25.280 --> 34:32.240
-investment to short-term flexibility?
+36:43.280 --> 36:50.320
+I'm in, I have a different persona for that community. And I don't really worry about
 
-34:32.240 --> 34:35.240
-I don't know.
+36:50.320 --> 36:57.680
+privacy very much because I only enter the data for that persona that I want to be associated
 
-34:35.240 --> 34:40.460
-I'm confused about how you derive some trend towards individualism from that.
+36:57.680 --> 37:03.120
+with that persona. Privacy, I'm not concerned about that at all. And I think people are freaking out
 
-34:40.460 --> 34:44.520
-It's not from that.
+37:03.120 --> 37:09.600
+about something that hasn't existed in many, many years. It's like, there was a really cool
 
-34:44.520 --> 34:50.880
-I think it's just an observation about our social life.
+37:09.600 --> 37:16.960
+interview with Larry Ellison on, I watched it on YouTube, Oracle. Yeah. And they're talking about
 
-34:50.880 --> 34:56.440
-In early 90s, you would see boomboxes and a group of people gathering around it and
+37:16.960 --> 37:22.560
+NSA and the effect of that. And he's like, do you know who, before NSA had all your information,
 
-34:56.440 --> 34:58.760
-walking on the street under a shoulder.
+37:22.560 --> 37:30.000
+credit card companies? And there was an article, and I think MIT
 
-34:58.760 --> 35:02.840
-One person has a boombox on the shoulder and like five, six other people walking with them.
+37:31.120 --> 37:38.880
+publication too, about how privacy has died. And it's a very new thing. And it has died already.
 
-35:02.840 --> 35:04.800
-People were talking more to each other.
+37:38.880 --> 37:48.400
+How people have always favored comfort and accessibility to privacy. But people are making
 
-35:04.800 --> 35:07.720
-You don't have to talk to anybody literally anymore.
+37:48.400 --> 37:53.200
+a huge deal out of it. And at the same time, like Facebook does that, Google does that,
 
-35:07.720 --> 35:11.280
-Yeah, I'm with you.
+37:53.200 --> 37:59.600
+don't use them then. Right. Exactly. And if you want to keep something private, I think it's
 
-35:11.280 --> 35:17.520
-I'm not saying it in the way that even if it was like old days, I'm not a fan of that
+37:59.600 --> 38:06.880
+your responsibility to encrypt it or use secure channels. I agree. Technology is the solution.
 
-35:17.520 --> 35:18.520
-at all.
+38:06.880 --> 38:12.560
+Absolutely. It's your responsibility to learn new ways to protect yourself and your information.
 
-35:18.520 --> 35:29.840
-But I think it is more about it's less dependent on a group, which I think is a good thing
+38:12.560 --> 38:19.360
+Exactly. I feel the same way about when you're saying, Google is selling our information.
 
-35:29.840 --> 35:33.520
-when you have Instagram and the culture of selfie.
+38:20.240 --> 38:26.640
+So that's not a good thing. Google is not charging you for anything. So you can use anything. And
 
-35:33.520 --> 35:37.320
-For example, why is it that big, you think?
+38:26.640 --> 38:33.920
+then that's their business model. Right. That's the cost of using Google. Exactly. So don't use it.
 
-35:37.320 --> 35:45.160
-That's a mystery to me.
+38:33.920 --> 38:41.440
+If it's too expensive, then don't. Yeah. Don't use, use DuckDuckGo or whatever else,
 
-35:45.160 --> 35:49.320
-People have been a fan of it since it's crazy.
+38:41.440 --> 38:48.320
+which is pretty cool. It's not Google. I guess the opponents are mistaking these companies for
 
-35:49.320 --> 35:55.800
-It's one of those things that begun with being able to take a photo of yourself and see yourself
+38:48.320 --> 38:58.160
+charities. Yeah. Like you, the users are the product. They're not really hiding that fact.
 
-35:55.800 --> 35:58.680
-with a phone and selfie has begun.
+38:58.160 --> 39:03.120
+Absolutely. They don't charge you. They do charge their advertisers. You are the product.
 
-35:58.680 --> 36:01.680
-It's just a no-brainer.
+39:03.120 --> 39:06.240
+Absolutely. And there's nothing wrong with that, I don't think.
 
-36:01.680 --> 36:03.640
-But Kim Kardashian has a book of selfies.
+39:08.000 --> 39:11.280
+That's your side of the bargain. Yeah. That's why you get all these great,
 
-36:03.640 --> 36:05.040
-I don't know if you know about that.
+39:11.280 --> 39:15.760
+facilities. This is where we are now, you know, and I see it in a way that
 
-36:05.040 --> 36:06.040
-I did not.
+39:17.440 --> 39:23.920
+from the time that man has sat in the cave and decided I want to go outside, that's a decision
 
-36:06.040 --> 36:07.040
-Yeah, full of selfies.
+39:23.920 --> 39:29.360
+that you made and everything else that can happen to you outside of that cave are the
 
-36:07.040 --> 36:10.840
-But thanks for telling me.
+39:29.360 --> 39:34.720
+alternative of that decision. So don't leave if you don't want to deal with anything. It's the
 
-36:10.840 --> 36:12.280
-So I don't think it's a bad thing.
+39:34.720 --> 39:40.480
+same thing. If you don't want to deal with these things, don't use internet. You know, people make
 
-36:12.280 --> 36:15.960
-I think we're dependent less on group.
+39:40.480 --> 39:47.440
+the same thing about aging. I think the age reversal aging technology that there are a couple of
 
-36:15.960 --> 36:21.600
-Maybe you could look at these selfie trends as kind of an artistic expression.
+39:49.040 --> 39:55.520
+organizations that are working on it. That that's impossible. If you take this, this is like one
 
-36:21.600 --> 36:27.080
-I'm all for having online avatars and having many of them.
+39:55.520 --> 40:01.040
+of the stupidest things I've ever heard. If you take death out of life, life has no meaning.
 
-36:27.080 --> 36:30.120
-I consider none of them are identical to me.
+40:01.680 --> 40:08.720
+I've heard that a lot. Yeah. Maybe for you. The meaning for me is that I want to live and
 
-36:30.120 --> 36:36.160
-They're crafted or designed by me for specific purposes and specific communities.
+40:08.720 --> 40:17.680
+not being stuck with being alive. But I don't want to be stuck with dying either. I want to have
 
-36:36.160 --> 36:39.040
-I've got a social one on Facebook.
+40:17.680 --> 40:24.000
+options. You know, and I'm seeing it in a way that when we get to a point that we can back up our
 
-36:39.040 --> 36:42.040
-I've got a very professional one on LinkedIn.
+40:24.000 --> 40:31.680
+brain inside the machine, maybe one of me want to be backed up in the dropbox of a future. And
 
-36:42.040 --> 36:48.600
-And every different community I'm in, I have a different persona for that community.
+40:31.680 --> 40:36.480
+then I just want to commit suicide because I want to know how that feels. And then that
 
-36:48.600 --> 36:55.320
-And I don't really worry about privacy very much because I only enter the data for that
+40:36.480 --> 40:40.880
+version of me, my backup continues. I'm like, Oh, cool. I don't even remember.
 
-36:55.320 --> 37:00.040
-persona that I want to be associated with that persona.
+40:43.200 --> 40:52.480
+Yeah. That's might absolutely be possible. We have uploads. Do you expect to see uploads within
 
-37:00.040 --> 37:01.760
-Mostly I'm not concerned about that at all.
+40:52.480 --> 41:07.920
+your lifetime? It's very hard to say like it's Yeah.
 
-37:01.760 --> 37:06.640
-And I think people are freaking out about something that hasn't existed in many, many
+41:12.000 --> 41:18.560
+Also, you know, I guess, if technology and science advance in a rate that they have been advancing,
 
-37:06.640 --> 37:07.640
-years.
+41:18.560 --> 41:30.000
+and no major thing happens, possibly. But you don't really know, you know, I mean,
 
-37:07.640 --> 37:12.920
-It's like, there was a really cool interview with Larry Ellison.
+41:30.000 --> 41:38.560
+it's it's a crazy world. The fact that it's funny when this whole ISIL thing began began in Iraq.
 
-37:12.920 --> 37:14.680
-I watched it on YouTube.
+41:40.960 --> 41:46.880
+I was telling my friends, this is a very good thing that it's Iraq, because if it was Pakistan,
 
-37:14.680 --> 37:15.680
-Oracle.
+41:46.880 --> 41:51.440
+for example, they have nuclear weapon, they would have nuclear weapon, the game will be
 
-37:15.680 --> 37:16.680
-Yeah.
+41:51.440 --> 41:58.880
+very different than and now they're in Afghanistan. You know, and I was watching a documentary about
 
-37:16.680 --> 37:19.160
-And they're talking about NSA and the effect of that.
+41:58.880 --> 42:06.800
+it today by frontline. It's very good. ISIS in Afghanistan. And they're saying a lot of Taliban,
 
-37:19.160 --> 37:22.960
-And he's like, do you know who before NSA had all your information?
+42:06.800 --> 42:14.320
+they're leaving Taliban to join ISIS because ISIS pays $700 a month for each fighter. Apparently,
 
-37:22.960 --> 37:23.960
-Credit card companies.
+42:14.320 --> 42:20.080
+that's a rate. And that's a lot of money. So they did they joined them. So when that's
 
-37:23.960 --> 37:24.960
-Right.
+42:20.720 --> 42:24.000
+so the Taliban's working with them were no, it's joining ISIS.
 
-37:24.960 --> 37:35.760
-And there was an article, I think MIT publication too, about how privacy has died.
+42:24.720 --> 42:31.360
+ISIS is fighting Taliban, but they're men, but they're members of Taliban who've
 
-37:35.760 --> 37:37.640
-And it's a very new thing.
+42:31.360 --> 42:35.600
+deserted Taliban and they're continuing doing that because ISIS pays more.
 
-37:37.640 --> 37:39.040
-And it has died already.
+42:36.560 --> 42:40.640
+That's the thing. Also, do they think they want to join the winning side?
 
-37:39.040 --> 37:47.480
-How people have always favored comfort and accessibility to privacy.
+42:40.640 --> 42:47.520
+I would think that having a higher pay rate isn't going to help if you're on the losing side.
 
-37:47.480 --> 37:49.760
-But people are making a huge deal out of it.
+42:48.720 --> 42:52.640
+Well, I mean, I don't know, because well, ISIS,
 
-37:49.760 --> 37:52.400
-And at the same time, Facebook does that.
+42:55.040 --> 43:00.560
+at the same time, it's very hard to kind of imagine what would a Taliban know information wise, like
 
-37:52.400 --> 37:53.400
-Google does that.
+43:02.000 --> 43:10.240
+it's very difficult to judge because it's the opposite side of the side that we are on and
 
-37:53.400 --> 37:55.480
-Don't use them then.
+43:10.240 --> 43:16.880
+watching the news and conceiving the news. For that Taliban, the problem as they're explaining
 
-37:55.480 --> 37:56.480
-Right.
+43:16.880 --> 43:21.760
+is that we don't need ISIS because we already have Islamic government under Taliban.
 
-37:56.480 --> 37:57.800
-Exactly.
+43:23.440 --> 43:28.640
+But then they're making the argument some of the Taliban who desert because it's just a religion
 
-37:57.800 --> 38:01.580
-And if you want to keep something private, I think it's your responsibility to encrypt
+43:28.640 --> 43:41.520
+filled with loopholes. It's like, no, it says in the Quran that when there is a caliphate,
 
-38:01.580 --> 38:04.480
-it or use secure channels.
+43:42.800 --> 43:52.240
+which is like the state, Islamic state, then you have to join that. It's an obligation for you.
 
-38:04.480 --> 38:05.480
-I agree.
+43:52.240 --> 43:59.280
+So with all these insane people around the world, if they get ahold of some serious weapon, they can
 
-38:05.480 --> 38:06.480
-Technology is the solution.
+43:59.280 --> 44:07.040
+cause a massive pause to this whole thing. At the same time, they might speed things up,
 
-38:06.480 --> 38:07.480
-Absolutely.
+44:10.320 --> 44:19.120
+like Manhattan Project. It was because of war that we build, not we Americans built,
 
-38:07.480 --> 38:14.880
-It's your responsibility to learn new ways to protect yourself and your information.
+44:19.120 --> 44:27.680
+uh, West allies built nuclear weapon, nuclear bomb. And then again, it was because of war that
 
-38:14.880 --> 38:20.480
-I feel the same way about when they're saying Google is selling our information.
+44:27.680 --> 44:37.360
+we went to the moon. Cold war. And then it stopped and we haven't gone back to the moon or anywhere
 
-38:20.480 --> 38:22.360
-So that's not a good thing.
+44:37.360 --> 44:44.560
+else. And we are started doing it now, maybe because Chinese are getting there too. They said
 
-38:22.360 --> 38:25.000
-Google is not charging you for anything.
+44:44.560 --> 44:50.880
+they're going to land the man on the moon 2020 or something like that, which is not even comparable.
 
-38:25.000 --> 38:29.240
-So you can use anything and then that's their business model.
+44:50.880 --> 44:57.680
+And I like the Chinese system, but I much rather speak in English and deal with you like about
 
-38:29.240 --> 38:31.640
-That's the cost of using Google.
+44:57.680 --> 45:05.200
+the Chinese system. I think Chinese have figured out their country so well and mix two different
 
-38:31.640 --> 38:32.640
-Exactly.
+45:05.200 --> 45:10.880
+systems together so well. And they're so strict about it that they've been getting China to where
 
-38:32.640 --> 38:34.180
-So don't use it.
+45:10.880 --> 45:16.800
+it is now. But at the same time, China has become a bubble because it has a very small percentage
 
-38:34.180 --> 38:37.360
-If it's too expensive, then don't.
+45:16.800 --> 45:23.280
+of really, really rich people now. And then you go to central China and all those farmlands and it's
 
-38:37.360 --> 38:43.640
-Don't use Doc Doc Go or whatever else, which is pretty cool.
+45:23.280 --> 45:32.320
+just like 16th century. But they're the best capitalists in the world, I think. But again,
 
-38:43.640 --> 38:46.040
-It's not Google.
+45:32.320 --> 45:40.800
+like Vietnam now, you can hire people much cheaper than China, for example, Philippines.
 
-38:46.040 --> 38:50.480
-I guess the opponents are mistaking these companies for charities.
+45:40.800 --> 45:46.560
+So a lot of businesses are going for clothing and stuff. I know it's going to Vietnam. It has
 
-38:50.480 --> 38:56.280
-The users are the product.
+45:46.560 --> 45:56.240
+been going to Vietnam for years now. But with less dependence on China, it also depends a lot on
 
-38:56.280 --> 38:58.320
-They're not really hiding that fact.
+45:56.240 --> 46:04.560
+how we can improve our manufacturing technologies in the West, in the West. So 3D printing or
 
-38:58.320 --> 38:59.320
-Absolutely.
+46:04.560 --> 46:13.360
+machines running things. I think they've, but they also have a brain program, right?
 
-38:59.320 --> 39:00.320
-They don't charge you.
+46:14.400 --> 46:18.640
+Which Ben Goertzel is working with. Who's the other guy?
 
-39:00.320 --> 39:02.080
-They do charge their advertisers.
+46:18.640 --> 46:29.360
+Oh, right. Ben Goertzel, mean the brain in software? I know the guy who Ben Goertzel is working with,
 
-39:02.080 --> 39:03.080
-You are the product.
+46:31.200 --> 46:38.320
+who's also in Ray Kurzweil's documentary. He has a very negative perspective about artificial
 
-39:03.080 --> 39:04.080
-Absolutely.
+46:38.320 --> 46:48.880
+intelligence, Hugo. Hugo Degares. Yes, yes. And his artillect war. He sees a coming global violent
 
-39:04.080 --> 39:08.240
-And there's nothing wrong with that, I don't think.
+46:48.880 --> 46:55.200
+war between the humans and the AIs. What do you think about that? Well, it's certainly a possibility.
 
-39:08.240 --> 39:10.040
-That's your side of the bargain.
+46:55.200 --> 47:02.320
+That's why the Machine Intelligence Research Institute exists. That's why Elon Musk and Bill
 
-39:10.040 --> 39:12.340
-That's why you get all these great utilities.
+47:02.320 --> 47:10.480
+Gates and the other scientists have joined in raising the issue around. Do you think it's
 
-39:12.340 --> 39:14.720
-This is where we are now.
+47:10.480 --> 47:16.720
+going to be, because it's like one of the biggest concerns that makes sense, as you explained. That
 
-39:14.720 --> 39:22.400
-And I see it in a way that from the time that man has sat in the cave and decided I want
+47:16.720 --> 47:22.080
+is, there's a possibility that there will be conflict in that way. Do you think it will be
 
-39:22.400 --> 39:27.200
-to go outside, that's a decision that you made and everything else that can happen to
+47:22.080 --> 47:30.320
+between humans and machines or humans and human machine fusion? This third thing, because I'm
 
-39:27.200 --> 39:31.660
-you outside of that cave are the alternative of that decision.
+47:30.320 --> 47:46.480
+thinking, if you have, for example, nanobots inside your brain and you evolve, you become the third
 
-39:31.660 --> 39:34.600
-So don't leave if you don't want to deal with anything.
+47:46.480 --> 47:53.200
+thing. I think if there is a symbiosis between humans and AI, if every human has an AI partner
 
-39:34.600 --> 39:35.600
-It's the same thing.
+47:53.200 --> 48:05.440
+or a bunch of them, then that is a path to a safe future. That's the best possible future,
 
-39:35.600 --> 39:40.280
-If you don't want to deal with these things, don't use internet.
+48:05.440 --> 48:13.120
+I think. But wouldn't it be like... The problem would be if there's a single AI that's not human
 
-39:40.280 --> 39:42.400
-People make the same thing about aging.
-
-39:42.400 --> 39:50.280
-I think the age reversal, aging technology, there are a couple of organizations that were
-
-39:50.280 --> 39:53.160
-working on it.
-
-39:53.160 --> 39:54.160
-That's impossible.
-
-39:54.160 --> 39:57.420
-If you take this, this is like one of the stupidest thing I've ever heard.
-
-39:57.420 --> 40:01.760
-If you take death out of life, life has no meaning.
-
-40:01.760 --> 40:03.080
-I've heard that a lot.
-
-40:03.080 --> 40:04.080
-Yeah.
-
-40:04.080 --> 40:05.720
-Maybe for you.
-
-40:05.720 --> 40:14.480
-The meaning for me is that I want to live and not being stuck with being alive.
-
-40:14.480 --> 40:17.000
-But I don't want to be stuck with dying either.
-
-40:17.000 --> 40:19.600
-I want to have options.
-
-40:19.600 --> 40:24.840
-And I'm seeing it in a way that when we get to a point that we can back up our brain inside
-
-40:24.840 --> 40:31.720
-the machine, maybe one of me want to be backed up in the drop box of the future.
-
-40:31.720 --> 40:35.880
-And then I just want to commit suicide because I want to know how that feels.
-
-40:35.880 --> 40:39.960
-And then that version of me, my backup continues on like, oh, cool.
-
-40:39.960 --> 40:41.960
-I don't even remember.
-
-40:41.960 --> 40:42.960
-Yeah.
-
-40:42.960 --> 40:49.840
-That might absolutely be possible if you have uploads.
-
-40:49.840 --> 40:59.240
-Do you expect to see uploads within your lifetime?
-
-40:59.240 --> 41:04.360
-Uh, it's very hard to say.
-
-41:04.360 --> 41:05.360
-Like it's.
-
-41:05.360 --> 41:06.360
-Yeah.
-
-41:06.360 --> 41:19.360
-Also, you know, I guess if technology and science advance in a rate that they have been advancing
-
-41:19.360 --> 41:27.840
-and no major thing happens, possibly.
-
-41:27.840 --> 41:32.000
-But I, you don't really know, you know, I mean, it's, it's a crazy world.
-
-41:32.000 --> 41:41.920
-The fact that it's funny when this whole ISIL thing began, began in Iraq, um, I was telling
-
-41:41.920 --> 41:47.240
-my friends, this is a very good thing that it's a rock because if it was Pakistan, for
-
-41:47.240 --> 41:50.920
-example, they have nuclear weapon, they would have nuclear weapon.
-
-41:50.920 --> 41:56.600
-The game will be very different than, and now they're in Afghanistan.
-
-41:56.600 --> 42:01.080
-You know, and I was watching a documentary about it today by frontline.
-
-42:01.080 --> 42:04.000
-It's very good ISIS in Afghanistan.
-
-42:04.000 --> 42:10.160
-Um, and they're saying a lot of Taliban, they're leaving Taliban to join ISIS because ISIS
-
-42:10.160 --> 42:14.080
-pays $700 a month for each fighter.
-
-42:14.080 --> 42:17.360
-Apparently that's a rate and that's a lot of money.
-
-42:17.360 --> 42:18.800
-So they did, they joined them.
-
-42:18.800 --> 42:24.520
-So when, so the Taliban is working with them where it's joining ISIS.
-
-42:24.520 --> 42:32.800
-Now ISIS is fighting Taliban, but there are members of Taliban who've deserted Taliban
-
-42:32.800 --> 42:36.960
-and they're continuing to do that because ISIS pays more.
-
-42:36.960 --> 42:37.960
-That's the thing.
-
-42:37.960 --> 42:42.800
-Also, do they think they want to join the winning side?
-
-42:42.800 --> 42:47.200
-I would think that having a higher pay rate isn't going to help if you're on the losing
-
-42:47.200 --> 42:48.200
-side.
-
-42:48.200 --> 42:56.680
-Well, I mean, I don't know because, um, well, ISIS, at the same time, it's very hard to
-
-42:56.680 --> 43:03.280
-kind of imagine what would a Taliban know information wise, like it's very difficult
-
-43:03.280 --> 43:11.500
-to judge because it's the opposite side of the side that we are on and watching the news
-
-43:11.500 --> 43:15.080
-and conceiving the news for that Taliban.
-
-43:15.080 --> 43:19.840
-The problem as they're explaining is that we don't need ISIS because we already have
-
-43:19.840 --> 43:23.760
-Islamic government under Taliban.
-
-43:23.760 --> 43:25.520
-But then they're making the argument.
-
-43:25.520 --> 43:31.200
-Some of the Taliban who desert because it's just a religion filled with loopholes.
-
-43:31.200 --> 43:45.400
-I was like, no, it says in the Koran that, um, when there is a, um, caliphate, which
-
-43:45.400 --> 43:51.200
-is like, um, what the, the States Islamic state, then you have to join that like it's,
-
-43:51.200 --> 43:53.320
-it's an obligation for you.
-
-43:53.320 --> 43:58.960
-So with all these insane people around the world, if they get ahold of some serious weapon,
-
-43:58.960 --> 44:04.680
-they can cause a massive pause to this whole thing.
-
-44:04.680 --> 44:07.360
-At the same time, they might speed things up.
-
-44:07.360 --> 44:17.000
-You know, uh, this like Manhattan project, you know, uh, it was because of war that we
-
-44:17.000 --> 44:25.620
-build not we were Americans built, uh, west allies builds nuclear weapon, nuclear bomb.
-
-44:25.620 --> 44:34.360
-And then again, it was because of war that we went to the moon cold war.
-
-44:34.360 --> 44:38.160
-And then it stopped and we haven't gone back to the moon or anywhere else.
-
-44:38.160 --> 44:44.440
-And we are started doing it now, maybe because Chinese are getting there too.
-
-44:44.440 --> 44:48.760
-They said they're going to land the man on the moon 2020 or something like that, which
-
-44:48.760 --> 44:51.240
-is not even comparable.
-
-44:51.240 --> 44:57.880
-And I like the Chinese system, but I much rather speak in English and deal with the
-
-44:57.880 --> 44:58.880
-Chinese system.
-
-44:58.880 --> 45:06.200
-I think Chinese have figured out their country so well and mixed two different systems together
-
-45:06.200 --> 45:07.200
-so well.
-
-45:07.200 --> 45:11.920
-And they're so strict about it that they've been getting China to where it is now.
-
-45:11.920 --> 45:17.240
-But at the same time, China has became a bubble because it has a very small percentage of
-
-45:17.240 --> 45:19.540
-really, really rich people now.
-
-45:19.540 --> 45:27.040
-And then you go to central China and all those farmlands and it's just like 16th century.
-
-45:27.040 --> 45:32.080
-But they're the best capitalists in the world, I think.
-
-45:32.080 --> 45:40.120
-But again, uh, like Vietnam now, um, you can hire people much cheaper than China, for example,
-
-45:40.120 --> 45:41.120
-Philippines.
-
-45:41.120 --> 45:43.720
-So a lot of businesses are going for clothing and stuff.
-
-45:43.720 --> 45:46.440
-I know they go, it's, it's going to Vietnam.
-
-45:46.440 --> 45:49.840
-It has been going to Vietnam for years now.
-
-45:49.840 --> 45:59.080
-Um, but with less dependence on China, it also depends a lot on how we can improve our
-
-45:59.080 --> 46:03.480
-manufacturing technologies in the West, in the West.
-
-46:03.480 --> 46:12.060
-So 3d printing or machines running things, you know, um, I think they've, but they also
-
-46:12.060 --> 46:14.680
-have a brain program, right?
-
-46:14.680 --> 46:18.080
-Which Ben Goertzel is working with.
-
-46:18.080 --> 46:19.080
-Who's the other guy?
-
-46:19.080 --> 46:20.080
-Oh, right.
-
-46:20.080 --> 46:26.640
-Um, Ben Goertzel means the brain in software or?
-
-46:26.640 --> 46:33.880
-I know the guy who Ben Goertzel was working with, um, who's also in Ray Kurzweil's documentary,
-
-46:33.880 --> 46:40.360
-he's, he has a very negative perspective about artificial intelligence, Hugo, Hugo
-
-46:40.360 --> 46:49.600
-digress, yes, yes, and his art, artelict war, he sees a coming global violent war between
-
-46:49.600 --> 46:51.280
-the humans and the AIs.
-
-46:51.280 --> 46:52.640
-What do you think about that?
-
-46:52.640 --> 46:55.520
-Well, it's certainly a possibility.
-
-46:55.520 --> 47:01.080
-That's why, um, the machine intelligence research Institute exists.
-
-47:01.080 --> 47:07.780
-That's why Elon Musk and Bill Gates and the other scientists have joined in, in raising
-
-47:07.780 --> 47:09.880
-the issue around.
-
-47:09.880 --> 47:15.000
-Do you think it's going to be, um, because it's like one of the biggest concerns that
-
-47:15.000 --> 47:20.160
-makes sense as you explained that is there's a possibility that there will be conflict
-
-47:20.160 --> 47:21.160
-in that way.
-
-47:21.160 --> 47:28.720
-Do you think it will be between humans and machines or humans and human machine fusion?
-
-47:28.720 --> 47:38.760
-This third thing, because I'm thinking if, if you have, for example, um, nanobots inside
-
-47:38.760 --> 47:45.760
-your brain and you expand as a, you know, you evolve, right?
-
-47:45.760 --> 47:46.760
-You become the third thing.
-
-47:46.760 --> 47:55.400
-I think if there is a symbiosis between humans and AI, if every human has an AI partner or
-
-47:55.400 --> 48:03.760
-a bunch of them, um, then that is a path to a safe future.
-
-48:03.760 --> 48:06.880
-That's the best possible future, I think.
-
-48:06.880 --> 48:13.200
-But wouldn't it be like the problem would be if there's a single AI that's not human
-
-48:13.200 --> 48:20.760
+48:13.120 --> 48:20.640
 and not associated with any human that is competing with us for resources and it doesn't
 
-48:20.760 --> 48:26.280
-necessarily have any values shared with us.
+48:20.640 --> 48:30.800
+necessarily have any values shared with us. But that's terrifying, but at the same time,
 
-48:26.280 --> 48:35.100
-But like that's terrifying, but at the same time, wouldn't that represent the population
+48:33.040 --> 48:38.720
+wouldn't that represent a population on Earth right now? Like I'm thinking, imagine
 
-48:35.100 --> 48:37.600
-on earth right now?
+48:39.520 --> 48:46.560
+a fundamentalist Christian would have their own AI. It would be the projection of them.
 
-48:37.600 --> 48:44.880
-Like I'm thinking, imagine a fundamentalist Christians would have their own AI.
+48:46.560 --> 48:53.120
+Or you think the AI would have the ability to think... I think the AI and the human together
 
-48:44.880 --> 48:48.520
-It would be the projection of them.
+48:53.120 --> 49:04.160
+would be a new, greater entity. Yes, that's exactly. To other people or other agents,
 
-48:48.520 --> 48:51.320
-Or you think the AI would have the ability to think...
+49:04.160 --> 49:10.080
+it would look like a single agent, but it's actually a synthesis of the two.
 
-48:51.320 --> 48:56.520
-I think the AI and the human together would be a new, greater entity.
+49:10.080 --> 49:18.160
+It's connected to the same network, basically. Neural network. Possibly. Yeah. Do you think
 
-48:56.520 --> 48:59.720
-Yes, that's exactly, exactly.
+49:18.160 --> 49:22.720
+they have to though? The way the Tesla machines, for example, they're communicating with each other
 
-48:59.720 --> 49:07.880
-And it would, to other people or other agents, it would look like a single agent, but it's
+49:22.720 --> 49:32.000
+now, that again can bring up the privacy issue and all of that because the information that
 
-49:07.880 --> 49:10.280
-actually a synthesis of the...
+49:32.000 --> 49:36.000
+my car has, I don't want to share it. But if you don't want to share it, you wouldn't be able to
 
-49:10.280 --> 49:14.320
-It's connected to the same network, basically, neural network.
+49:36.000 --> 49:43.760
+take advantage of the full possibility of that enhancement. So same thing with AI. Don't you
 
-49:14.320 --> 49:15.320
-Possibly.
+49:43.760 --> 49:51.520
+think if they're... I always think of the same thing with open source, AI to reach its full
 
-49:15.320 --> 49:16.320
-Yeah.
+49:51.520 --> 49:59.920
+potential. It has to be open source. Probably. Yeah. It's full potential, yeah. What would be the other
 
-49:16.320 --> 49:19.240
-Do you think they have to, though?
+49:59.920 --> 50:09.360
+way? The other way to what? The other way to have a functional, superior intellectually,
 
-49:19.240 --> 49:26.240
-Like the way the Tesla machines, for example, they're communicating with each other now?
+50:10.000 --> 50:14.400
+artificial intelligence by not having it open source. What would be the other way?
 
-49:26.240 --> 49:31.920
-That again can bring up the privacy issue and all of that, because like the information
+50:16.320 --> 50:24.240
+It's a proprietary company organization can keep it to themselves just the way software companies
 
-49:31.920 --> 49:34.080
-that my car has, I don't want to share it.
+50:24.240 --> 50:35.360
+do already. Most source code is not open source. Right. You mentioned HoloLens and Oculus Rift.
 
-49:34.080 --> 49:40.360
-But if you don't want to share it, you wouldn't be able to take advantage of the full possibility
+50:35.360 --> 50:44.160
+We know that 2016 is the year that virtual reality will enter a mainstream market.
 
-49:40.360 --> 49:42.320
-of that enhancement.
+50:45.440 --> 50:52.960
+At least the commercial early adopter market. Yeah. Well, it's been around for a couple of years
 
-49:42.320 --> 49:45.320
-So same thing with AI, don't you think?
+50:52.960 --> 50:59.680
+now. Just the development kits. Yeah. But it's become more accessible. You can pre-order Oculus
 
-49:45.320 --> 49:52.360
-I always think of the same thing with open source, AI to reach its full potential, it
+50:59.680 --> 51:06.160
+now. I think it's 599. Just a couple of days ago. Which is awesome. I was waiting for this
 
-49:52.360 --> 49:54.520
-has to be open source.
+51:07.680 --> 51:18.000
+version, Crescent Bay, because it has the headphones now. And for me, as an audio engineer
 
-49:54.520 --> 49:56.520
-Probably.
+51:18.000 --> 51:23.600
+and sound designer, this is like amazing because this is like the difference between black and
 
-49:56.520 --> 49:58.120
-Yeah.
+51:23.600 --> 51:34.000
+white and color TV to me. It's when you can create virtual 360 sonic environments, which is a necessity
 
-49:58.120 --> 49:59.360
-Its full potential, yeah.
+51:34.000 --> 51:39.440
+for virtual reality worlds to be believable. The sound has to be there. It's just an amazing
 
-49:59.360 --> 50:00.360
-What would be the other way?
+51:39.440 --> 51:45.760
+opportunity after years of just doing the same thing, basically. How do you think virtual
 
-50:00.360 --> 50:03.480
-The other way to what?
+51:45.760 --> 51:52.880
+reality will start affecting, as you said, early adopters and then how it's going to get into
 
-50:03.480 --> 50:11.960
-The other way to have a functional, superior, intellectually, artificial intelligence by
+51:52.880 --> 51:57.680
+mainstream and how people will feel about it and what do you think people will use it for and how
 
-50:11.960 --> 50:13.680
-not having it open source.
+51:57.680 --> 52:04.880
+it's going to change everything? Well, for the first couple of years, at least, I think the
 
-50:13.680 --> 50:16.760
-What would be the other way?
+52:04.880 --> 52:11.600
+major markets are going to be an entertainment, probably mostly computer games. The Rift is coming
 
-50:16.760 --> 50:24.240
-Stay proprietary, company organization can keep it to themselves, just the way software
+52:11.600 --> 52:19.680
+out packaged with the game Eve Valkyrie, a 3D space game, and the videos that I've seen on
 
-50:24.240 --> 50:25.640
-companies do already.
+52:19.680 --> 52:25.360
+YouTube are mind-blowing. I cannot wait to try this out. I'm a big fan of Eve anyway, so...
 
-50:25.640 --> 50:29.440
-Well, source code is not open source.
+52:25.360 --> 52:32.320
+That's awesome. This is going to be really interesting. But I think almost any 3D computer
 
-50:29.440 --> 50:30.720
-Right.
+52:32.320 --> 52:37.040
+game is going to lend itself to the Rift and the developers. The games are going to
 
-50:30.720 --> 50:35.620
-You mentioned HoloLens and Oculus Rift.
+52:37.040 --> 52:44.720
+incorporate integration points. They'll support the Rift and other similar devices like the HTC.
 
-50:35.620 --> 50:44.840
-We know that 2016 is the year that virtual reality will enter mainstream market.
+52:47.280 --> 52:52.800
+And then what we'll see then is the price point is going to come down due to volume,
 
-50:44.840 --> 50:48.840
-At least the commercial early adopter market.
-
-50:48.840 --> 50:49.840
-Yeah.
-
-50:49.840 --> 50:53.720
-Well, it's been around for a couple of years now.
-
-50:53.720 --> 50:55.520
-Just the development kits.
-
-50:55.520 --> 50:56.520
-Yeah.
-
-50:56.520 --> 50:57.720
-But it's become more accessible.
-
-50:57.720 --> 51:00.160
-You can pre-order Oculus now.
-
-51:00.160 --> 51:01.160
-I think it's 599.
-
-51:01.160 --> 51:04.520
-Just as of now, just a couple days ago.
-
-51:04.520 --> 51:05.520
-Which is awesome.
-
-51:05.520 --> 51:13.720
-I was waiting for this version, Crescent Bay, because it has the headphones now.
-
-51:13.720 --> 51:15.260
-All right.
-
-51:15.260 --> 51:22.840
-For me, as an audio engineer and sound designer, this is amazing because this is the difference
-
-51:22.840 --> 51:27.000
-between black and white and color TV to me.
-
-51:27.000 --> 51:35.520
-When you can create virtual 360 sonic environments, which is a necessity for virtual reality worlds
-
-51:35.520 --> 51:38.480
-to be believable, the sound has to be there.
-
-51:38.480 --> 51:44.520
-It's just an amazing opportunity after years of just doing the same thing, basically.
-
-51:44.520 --> 51:50.120
-How do you think virtual reality will start affecting, as you said, early adapters and
-
-51:50.120 --> 51:55.680
-then how it's going to get into mainstream and how people will feel about it and what
-
-51:55.680 --> 51:59.760
-do you think people will use it for and how it's going to change everything?
-
-51:59.760 --> 52:06.320
-Well, for the first couple of years, at least, I think the major markets are going to be
-
-52:06.320 --> 52:10.520
-in entertainment, probably mostly computer games.
-
-52:10.520 --> 52:19.120
-The Rift is coming out packaged with the game EVE Valkyrie, a 3D space game, and the videos
-
-52:19.120 --> 52:21.080
-that I've seen on YouTube are mind-blowing.
-
-52:21.080 --> 52:22.760
-I cannot wait to try this out.
-
-52:22.760 --> 52:25.640
-I'm a big fan of EVE anyways.
-
-52:25.640 --> 52:26.640
-That's awesome.
-
-52:26.640 --> 52:33.080
-This is going to be really interesting, but I think almost any 3D computer game is going
-
-52:33.080 --> 52:38.880
-to lend itself to the Rift and the developers or the games are going to incorporate integration
-
-52:38.880 --> 52:39.880
-points.
-
-52:39.880 --> 52:47.640
-They'll support the Rift and other similar devices like the HTC.
-
-52:47.640 --> 52:52.800
-And then what we'll see then is the price point is going to come down due to volume
-
-52:52.800 --> 52:56.920
+52:52.800 --> 52:56.880
 and the next generation is going to be just like we've seen with smartphones.
 
-52:56.920 --> 52:58.160
-Oh, absolutely.
+52:56.880 --> 53:01.520
+Oh, absolutely. I think it's smart. I can't remember who said that. Maybe Elon Musk said
 
-52:58.160 --> 52:59.320
-I think it's smart.
+53:01.520 --> 53:08.080
+that years ago that always wait for the third generation of a technology. Because by the
 
-52:59.320 --> 53:00.760
-I can't remember who said that.
+53:08.080 --> 53:13.680
+time it gets to the third generation, it's working good enough and it's priced well enough
 
-53:00.760 --> 53:06.640
-Maybe Elon Musk said it years ago that always wait for the third generation of a technology
+53:14.720 --> 53:22.000
+for everybody to use it, basically. It's a bit difficult to predict the next market
 
-53:06.640 --> 53:13.080
-because by the time it gets to the third generation, it's working good enough and it's priced
+53:22.000 --> 53:32.720
+after games, but you can see getting into education easily and 3D movies. Journalism also.
 
-53:13.080 --> 53:17.920
-well enough for everybody to use it basically.
+53:33.600 --> 53:41.280
+Yeah. There's been a movie commissioned by Vice, Vice Media, that they made in Syria,
 
-53:17.920 --> 53:23.840
-It's a bit difficult to predict the next market after games, but I can see getting
+53:41.280 --> 53:50.000
+and it's 360. I haven't seen it, but you can't imagine how big of a difference it makes when
 
-53:23.840 --> 53:32.360
-into education easily and 3D movies.
+53:50.000 --> 53:56.720
+you're in the middle of that environment to really feel it and get connected to it. And also,
 
-53:32.360 --> 53:33.360
-Journalism also.
+53:56.720 --> 54:07.360
+you take away the middleman. Because more and more, I'm imagining when citizen journalists,
 
-53:33.360 --> 53:34.360
-Yeah.
+54:07.360 --> 54:11.680
+they start arising because of blogging and because of how easy you got to take photos
 
-53:34.360 --> 53:41.640
-There's been a movie commissioned by Vice, Vice Media, that they made in Syria and it's
+54:11.680 --> 54:18.640
+and videos and put it on YouTube and all those other websites. It will be possible
 
-53:41.640 --> 53:43.080
-360.
+54:18.640 --> 54:26.720
+to make a 360 video quite soon, I think. I think it already is. There's an iPhone app for them.
 
-53:43.080 --> 53:50.280
-I haven't seen it, but you can't imagine how big of a difference it makes when you're
+54:27.360 --> 54:33.600
+For 360 videos? Oh, that's amazing. I knew 360 cameras because one of the biggest
 
-53:50.280 --> 53:56.520
-in the middle of that environment to really feel it and get connected to it.
+54:33.600 --> 54:41.200
+challenge back then when they were have to put a couple of GoPro cameras, like four or eight or
 
-53:56.520 --> 54:05.400
-And also you take away the third, the middle man, because more and more I'm imagining when
+54:41.200 --> 54:49.040
+12 or something, to get a 360 image, the thing you had to put a lot of cameras. And then the
 
-54:05.400 --> 54:11.040
-citizen journalists, they start arising because of blogging and because of how easy you got
+54:49.040 --> 54:55.440
+image that it was giving you needed to be stitched. And the software to stitch those
 
-54:11.040 --> 54:18.640
-to take photos and videos and put it on YouTube and all those other websites, it will be possible
+54:56.800 --> 55:03.520
+footage is very complex to work with. It was expensive. But again, like any other technology,
 
-54:18.640 --> 54:23.400
-to make a 360 video quite soon.
+55:03.520 --> 55:12.400
+you know, the first generation is basically the first step in trial and error. But now there are
 
-54:23.400 --> 54:24.400
-I think.
+55:12.400 --> 55:19.120
+360 cameras that they cost maybe like 400 bucks, the price of a GoPro. And it gives you a already
 
-54:24.400 --> 54:25.400
-I think it already is.
+55:19.120 --> 55:25.920
+stitched image that you can use. So somebody in Syria, when they're in war and doing, you know,
 
-54:25.400 --> 54:27.660
-There is an iPhone app for them.
+55:25.920 --> 55:32.960
+a video of, for example, whatever rally or attack or a terrorist, a suicide bomber or
 
-54:27.660 --> 54:29.000
-For 360 videos?
+55:32.960 --> 55:37.680
+something like that. Of course, I will watch that over a footage that is being transcribed
 
-54:29.000 --> 54:30.400
-Oh, that's amazing.
+55:37.680 --> 55:44.000
+for me by CNN, for example. It might be in the minority there. Really? How many people want
 
-54:30.400 --> 54:36.560
-I know 360 cameras because one of the biggest challenge back then when they were have to
+55:44.000 --> 55:51.200
+to experience a suicide bomber? I don't know. I would imagine if I'm interested in what's going
 
-54:36.560 --> 54:45.760
-put a couple of GoPro cameras like four or eight or 12 or something to get a 360 image.
+55:51.200 --> 55:59.120
+on there, I want to kind of feel it to maybe it just gives you perspective, I think, in my opinion.
 
-54:45.760 --> 54:50.480
-The thing you had to put a lot of cameras and then the image that it was giving you
+55:59.120 --> 56:09.440
+Yeah, I think it could definitely have a lot of value. Maybe for films and TVs too, or treatments of
 
-54:50.480 --> 54:58.560
-and to you needed to be stitched and the software to stitch those footage was very complex to
+56:11.040 --> 56:17.040
+I know that they're using that. There was a video of this girl who was claustrophobic.
 
-54:58.560 --> 54:59.560
-work with.
+56:17.840 --> 56:24.960
+And she was so extreme that she couldn't take elevators. So they designed a game for her that
 
-54:59.560 --> 55:01.760
-It was expensive.
+56:24.960 --> 56:32.080
+was emulating her being inside the elevator. And she trained with that and she she took an elevator
 
-55:01.760 --> 55:09.200
-But again, like any other technology, the first generation is basically the first step
+56:32.080 --> 56:38.880
+for first year after who knows how many years and it's amazing. So in therapy and treatment.
 
-55:09.200 --> 55:11.800
-in trial and error.
+56:38.880 --> 56:46.160
+Yeah, absolutely. PTSD. They've they've been trying that. I'm looking forward to that. It's
 
-55:11.800 --> 55:17.080
-But now there are 360 cameras that they cost maybe like 400 bucks, the price of a GoPro
+56:46.160 --> 56:54.800
+apparently one of the biggest products and technology in CES. This year was also about
 
-55:17.080 --> 55:22.080
-and it gives you already stitched image that you can use.
+56:55.440 --> 56:58.960
+virtual reality, everything about virtual reality. So this is the year.
 
-55:22.080 --> 55:28.600
-So somebody in Syria when they're in war and doing a video of, for example, whatever, a
+57:02.080 --> 57:09.600
+As a last question before my last standard question, which I will ask everybody. But last
 
-55:28.600 --> 55:34.360
-rally or attack or a terrorist, a suicide bomber or something like that.
+57:09.600 --> 57:20.480
+question of series of question conversations that we've had. How do you think ethics and morality
 
-55:34.360 --> 55:39.120
-Of course, I will watch that over a footage that is being transcribed for me by CNN.
+57:21.440 --> 57:26.080
+will translate for an artificial intelligence?
 
-55:39.120 --> 55:42.440
-For example, it might be in the minority there.
+57:29.840 --> 57:32.400
+Well, let's see. Pretty deep question.
 
-55:42.440 --> 55:43.440
-Really?
-
-55:43.440 --> 55:48.160
-How many people want to experience a suicide bomber?
-
-55:48.160 --> 55:49.160
-I don't know.
-
-55:49.160 --> 55:53.840
-I would imagine if I'm interested in what's going on there, I want to kind of feel it
-
-55:53.840 --> 55:59.040
-to maybe it just gives you perspective, I think, in my opinion.
-
-55:59.040 --> 56:05.680
-Yeah, I think it could definitely have a lot of value.
-
-56:05.680 --> 56:13.880
-Maybe for films and TVs too or treatments of I know that they're using that there was
-
-56:13.880 --> 56:20.600
-a video of this girl who was claustrophobic and she was so extreme that she couldn't take
-
-56:20.600 --> 56:22.400
-elevators.
-
-56:22.400 --> 56:29.320
-So they designed a game for her that was emulating her being inside the elevator and she trained
-
-56:29.320 --> 56:36.360
-with that and she took an elevator for first year after who knows how many years and it
-
-56:36.360 --> 56:37.360
-was amazing.
-
-56:37.360 --> 56:39.120
-So in therapy, in treatment.
-
-56:39.120 --> 56:40.120
-Yeah, absolutely.
-
-56:40.120 --> 56:41.120
-PTSD.
-
-56:41.120 --> 56:44.000
-They've been trying that.
-
-56:44.000 --> 56:45.760
-I'm looking forward to that.
-
-56:45.760 --> 56:53.800
-It's apparently one of the biggest products and technology in CES.
-
-56:53.800 --> 56:58.280
-This year was also about virtual reality, everything about virtual reality.
-
-56:58.280 --> 57:02.360
-So this is the year.
-
-57:02.360 --> 57:09.280
-As a last question before my last standard question, which I will ask everybody, but
-
-57:09.280 --> 57:18.040
-last question of series of question conversations that we've had.
-
-57:18.040 --> 57:27.200
-How do you think ethics and morality will translate for an artificial intelligence?
-
-57:27.200 --> 57:34.760
-Well, that's a pretty deep question.
-
-57:34.760 --> 57:43.520
+57:32.400 --> 57:41.520
 One way to look at AI is it's a system designed to make choices based on its goals and beliefs.
 
-57:43.520 --> 57:50.760
-An AI that's extremely smart, super intelligent, it will tend to have very accurate and sophisticated
+57:43.280 --> 57:50.720
+An AI that's extremely smart, super intelligent, will tend to have very accurate and sophisticated
 
-57:50.760 --> 57:53.200
-beliefs.
+57:50.720 --> 58:01.040
+beliefs. The goals are basically beliefs about preferences, which states of the world are preferable
 
-57:53.200 --> 58:01.240
-The goals are basically beliefs about preferences, which states of the world are preferable to
+58:01.040 --> 58:05.040
+to other states of the world. Can we even conceive what those beliefs will be?
 
-58:01.240 --> 58:03.040
-other states of the world.
+58:06.320 --> 58:14.640
+It's we can conceive of hard coding beliefs in such a way that the AI will be unable to
 
-58:03.040 --> 58:06.040
-Can you even conceive what those beliefs will be?
+58:15.440 --> 58:22.400
+change its own goals. But at the same time, that may very well cripple the AI in the sense that
 
-58:06.040 --> 58:15.440
-Well, we can conceive of hard coding beliefs in such a way that the AI will be unable to
+58:22.400 --> 58:29.440
+it won't be able to get past certain level of sophistication or intelligence if we
 
-58:15.440 --> 58:22.160
-change its own goals, but at the same time that may very well cripple the AI in the sense
+58:29.440 --> 58:34.240
+cripple its ethical system. So presumably, if it's much smarter than humans.
 
-58:22.160 --> 58:28.880
-that it won't be able to get past certain level of sophistication or intelligence if
+58:34.240 --> 58:36.720
+Oh, absolutely. As it should be. As it should be.
 
-58:28.880 --> 58:31.280
-we cripple its ethical system.
+58:36.720 --> 58:45.760
+We can't really expect to force our own morality, per se, on a machine that's supposed to be much
 
-58:31.280 --> 58:34.200
-So presumably if it's much smarter than humans.
+58:45.760 --> 58:51.520
+better and bigger and the evolution of us. But that is exactly the project of friendly AI,
 
-58:34.200 --> 58:35.200
-Oh, absolutely.
+58:52.160 --> 58:58.480
+is to enforce our own values onto the AI. But our values aren't that good. We still lie.
 
-58:35.200 --> 58:36.960
-As it should be.
+58:58.480 --> 59:02.560
+There's a problem. We're not that good ourselves.
 
-58:36.960 --> 58:45.440
-We can't really expect to force our own morality per se on a machine that's supposed to be
-
-58:45.440 --> 58:48.520
-much better and bigger and the evolution of us.
-
-58:48.520 --> 58:55.840
-But that is exactly the project of friendly AI is to enforce our own values onto the AI.
-
-58:55.840 --> 58:57.640
-Our values aren't that good.
-
-58:57.640 --> 58:58.640
-We still lie.
-
-58:58.640 --> 59:00.880
-It's a problem.
-
-59:00.880 --> 59:01.880
-We don't.
-
-59:01.880 --> 59:02.880
-We're not that good ourselves.
-
-59:02.880 --> 59:03.880
+59:02.560 --> 59:03.200
 We are not.
 
-59:03.880 --> 59:07.880
+59:03.200 --> 59:06.320
 We don't even know what would be good.
 
-59:07.880 --> 59:15.260
-I mean, like we have no rigorous way of proving that any set of values is better than any
+59:07.760 --> 59:15.840
+I mean, we have no rigorous way of proving that any set of values is better than any other set.
 
-59:15.260 --> 59:16.260
-other set.
+59:15.840 --> 59:24.560
+It's also very confusing to, for example, it's very interesting how it comes to you when you
 
-59:16.260 --> 59:24.200
-It's also very confusing to, for example, it's very interesting how it comes to you
+59:24.560 --> 59:28.640
+talk about these kind of things with children, because children have no filter and they just
 
-59:24.200 --> 59:28.240
-when you talk about these kind of things with children because children have no filter and
+59:28.640 --> 59:34.960
+ask you whatever that comes to their mind. You can't tell a child that killing is wrong
 
-59:28.240 --> 59:32.800
-they just ask you whatever that comes to their mind.
+59:35.600 --> 59:41.440
+as a rule, because then he or she will be asking why those people are dying then.
 
-59:32.800 --> 59:39.500
-You can't tell a child that killing is wrong as a rule because then he or she will be asking
+59:41.440 --> 59:44.080
+Why, you know.
 
-59:39.500 --> 59:41.640
-why those people are dying then.
+59:44.080 --> 59:47.040
+You can tell them you just won't be very convincing.
 
-59:41.640 --> 59:47.200
-Why, you know, you can tell them you just won't be very convincing.
+59:47.040 --> 59:53.440
+Exactly. And you can't say it as a rule, right? And that's like one of the biggest
 
-59:47.200 --> 59:48.200
-Exactly.
+59:53.440 --> 59:59.520
+parts of morality, that killing is wrong. This is just an example. How are we going to explain
 
-59:48.200 --> 59:51.760
-And so you can't say it as a rule, right?
+59:59.520 --> 01:00:04.960
+that to an AI? And that is one of the first things that we need to explain it now that
 
-59:51.760 --> 59:56.720
-And that's like one of the biggest parts of morality, that killing is wrong.
+01:00:04.960 --> 01:00:11.760
+you're talking about as we spoke about it in military, that an autonomous machine,
 
-59:56.720 --> 59:58.320
-This is just an example.
+01:00:12.640 --> 01:00:21.200
+okay, killing is wrong, just wound people. But if this guy did this, then killing is fine.
 
-59:58.320 --> 01:00:02.080
-How are we going to explain that to an AI?
+01:00:21.200 --> 01:00:27.040
+You can't really do that. And that's why I think a lot of these attempts, because
 
-01:00:02.080 --> 01:00:05.600
-And that is one of the first things that we need to explain it now that we're talking
+01:00:27.920 --> 01:00:33.920
+moralities are different from place to place. The morality that we have is a very different
 
-01:00:05.600 --> 01:00:14.200
-about as we spoke about it in military, that autonomous machine, okay, killing is wrong,
+01:00:33.920 --> 01:00:40.480
+morality that, for example, people have in Yemen, for instance. And at the same time,
 
-01:00:14.200 --> 01:00:21.440
-just wound people, you know, but if this guy did this, then killing is fine.
+01:00:40.480 --> 01:00:47.920
+the machine to get to its full potential, it needs to be open source. So like Watson
 
-01:00:21.440 --> 01:00:23.240
-You can't really do that, you know?
+01:00:47.920 --> 01:00:55.920
+or IBM, it's open source. So if you have a strong enough of a hardware, you would be able to have.
 
-01:00:23.240 --> 01:00:31.400
-And that's why I think a lot of these attempts because moralities are different from place
+01:00:57.600 --> 01:01:00.880
+Are you sure Watson's open source? I think so, because they were asking
 
-01:00:31.400 --> 01:00:32.400
-to place.
+01:01:02.800 --> 01:01:12.160
+for programmers and programmers mainly to use Watson capability and do their own projects.
 
-01:00:32.400 --> 01:00:35.920
-The morality that we have is a very different morality that, for example, people have in
+01:01:12.160 --> 01:01:22.720
+But let's say an open source AI, it would be usable by some Chinese kid in his grandparents'
 
-01:00:35.920 --> 01:00:39.640
-Yemen, for instance.
+01:01:23.440 --> 01:01:30.720
+basement to build whatever he wants to build with it, or a Russian hacker, or an evil person,
 
-01:00:39.640 --> 01:00:46.660
-And at the same time, the machine to get to its full potential, it needs to be open source.
+01:01:30.720 --> 01:01:36.880
+per se, evil quote unquote. Yes, that's absolutely true. Ben Goertzel has his own
 
-01:00:46.660 --> 01:00:51.720
-So like Watson or IBM, it's open source.
+01:01:36.880 --> 01:01:43.920
+open source project, OpenCog, I think. And just a couple of weeks ago, Elon Musk and some Peter
 
-01:00:51.720 --> 01:00:56.480
-So if you have a strong enough of a hardware, you would be able to have...
+01:01:43.920 --> 01:01:49.120
+Thiel, I think, and some other courts announced that they were funding another open source project,
 
-01:00:56.480 --> 01:00:58.960
-Are you sure Watson's open source?
+01:01:49.120 --> 01:01:54.480
+OpenAI, and they were investing a... Peter Thiel was involved in that, so I didn't know that.
 
-01:00:58.960 --> 01:01:10.640
-I think so, because they were asking for programmers and programmers mainly to use Watson capability
+01:01:55.680 --> 01:02:02.960
+I'm not sure, I think. I would call that. But I think they were putting something like a billion
 
-01:01:10.640 --> 01:01:13.200
-and do their own projects.
+01:02:02.960 --> 01:02:11.600
+dollars into this project, significant funding. And at the same time, they came into quite a bit
 
-01:01:13.200 --> 01:01:23.160
-But let's say an open source AI, it would be usable by some Chinese kid in his grandparent's
+01:02:11.600 --> 01:02:19.840
+of criticism saying, if you think AI is dangerous, why on earth would you open source it? And the
 
-01:01:23.160 --> 01:01:29.560
-basement to build whatever he wants to build with it, or a Russian hacker, or a, you know,
+01:02:19.840 --> 01:02:25.040
+analogy is made with nuclear arms. If you think nukes are dangerous, you certainly don't want to
 
-01:01:29.560 --> 01:01:33.200
-or a evil person per se, evil quote unquote.
+01:02:25.040 --> 01:02:31.520
+publish an easy how-to on the web, because it could easily fall into the wrong hand. So why are
 
-01:01:33.200 --> 01:01:35.680
-Yes, that's absolutely true.
+01:02:31.520 --> 01:02:40.400
+they doing it with AI? What's the explanation? I haven't heard their explanation. One possibility is
 
-01:01:35.680 --> 01:01:40.840
-Ben Goetzel has his own open source project, OpenCog, I think, and just a couple of weeks
+01:02:40.400 --> 01:02:51.360
+that unless you start looking into these issues right away, hardware is going to be at a point
 
-01:01:40.840 --> 01:01:46.320
-ago, Elon Musk and some Peter Thiel, I think, and some other courts announced that they
+01:02:51.360 --> 01:02:56.480
+sometime in the future that there might be an extremely quick ramp up time from human level
 
-01:01:46.320 --> 01:01:52.600
-were funding another open source project, OpenAI, and they were investing a...
+01:02:56.480 --> 01:03:03.440
+to superhuman level AI, and we won't be prepared. So it's better to start now, even if it is dangerous.
 
-01:01:52.600 --> 01:01:55.720
-Peter Thiel was involved in that, so I didn't know that.
+01:03:04.720 --> 01:03:09.840
+To slow it down, basically. Well, to be better prepared for when it happens,
 
-01:01:55.720 --> 01:02:00.360
-I'm not sure, I think.
+01:03:11.120 --> 01:03:16.720
+even if you end up spinning it up in some ways. Would we know it when it happens, you think?
 
-01:02:00.360 --> 01:02:06.040
-But I think they were putting something like a billion dollars into this project, significant
+01:03:18.560 --> 01:03:26.160
+It depends how it is realized. I think if it's a pure AI rather than, say, a human emulation
 
-01:02:06.040 --> 01:02:08.720
-funding.
+01:03:26.160 --> 01:03:32.160
+where a brain is scanned and then emulated in the hardware to get an AI, if it's just a pure
 
-01:02:08.720 --> 01:02:16.080
-And at the same time, they came under quite a bit of criticism saying, if you think AI
+01:03:32.160 --> 01:03:41.520
+code AI, it could happen in a small group that's secret. Maybe some company wants to build an AI
 
-01:02:16.080 --> 01:02:19.800
-is dangerous, why on earth would you open source it?
+01:03:41.520 --> 01:03:47.920
+to do trading on the stock exchanges in order to make a lot of money. And it gets more and more
 
-01:02:19.800 --> 01:02:24.520
-And the analogy is made with nuclear arms, if you think nukes are dangerous, you certainly
+01:03:47.920 --> 01:03:52.960
+intelligent. It gathers more and more data in order to interpret the financial data coming in.
 
-01:02:24.520 --> 01:02:30.200
-don't want to publish an easy how-to on the web, because it could easily fall into the
+01:03:52.960 --> 01:03:59.760
+And so it builds up a belief system. All it wants to do is make money. And it gets very good at trading
 
-01:02:30.200 --> 01:02:31.200
-wrong hands.
+01:03:59.760 --> 01:04:06.240
+and starts buying companies. But doing it in a way... That's a great idea for a movie.
 
-01:02:31.200 --> 01:02:34.560
-So why are they doing it with AI?
+01:04:07.040 --> 01:04:12.640
+But does it in a way that's decentralized using lots of versions of itself, lots of
 
-01:02:34.560 --> 01:02:36.800
-What's the explanation?
+01:04:12.640 --> 01:04:18.560
+subsidiaries that can't be traced back to the main AI so nobody realizes that it's all controlled by a
 
-01:02:36.800 --> 01:02:38.900
-I haven't heard their explanation.
+01:04:18.560 --> 01:04:25.840
+single mind until it owns so many resources, it can take over countries?
 
-01:02:38.900 --> 01:02:50.240
-One possibility is that unless you start looking into these issues right away, hardware is
+01:04:27.600 --> 01:04:33.680
+Would he want to take over countries? If it needs more resources. If that's its main goal is to
 
-01:02:50.240 --> 01:02:54.240
-going to be at a point sometime in the future that there might be an extremely quick ramp
+01:04:33.680 --> 01:04:38.560
+acquire resources, financial resources, it could become tremendously powerful
 
-01:02:54.240 --> 01:03:00.560
-up time from human level to superhuman level AI, and we won't be prepared.
+01:04:39.520 --> 01:04:46.480
+by controlling humans with its resources. Well, it could have a million people working
 
-01:03:00.560 --> 01:03:04.920
-So it's better to start now, even if it is dangerous.
+01:04:46.480 --> 01:04:49.600
+for it. They don't even know that they're all working for the same mind.
 
-01:03:04.920 --> 01:03:06.960
-To slow it down, basically.
-
-01:03:06.960 --> 01:03:11.440
-Well, to be better prepared for when it happens.
-
-01:03:11.440 --> 01:03:14.840
-Even if you end up spinging it up in some ways.
-
-01:03:14.840 --> 01:03:18.760
-Would we know it when it happens, you think?
-
-01:03:18.760 --> 01:03:21.680
-It depends how it is realized.
-
-01:03:21.680 --> 01:03:28.080
-I think if it's a pure AI rather than, say, a human emulation where a brain is scanned
-
-01:03:28.080 --> 01:03:31.080
-and then emulated in the hardware to get an AI.
-
-01:03:31.080 --> 01:03:38.640
-If it's just a pure code AI, it could happen in a small group that's secret.
-
-01:03:38.640 --> 01:03:44.680
-Maybe some company wants to build an AI to do trading on the stock exchanges in order
-
-01:03:44.680 --> 01:03:48.600
-to make a lot of money, and it gets more and more intelligent.
-
-01:03:48.600 --> 01:03:53.800
-Again, there's more and more data in order to interpret the financial data coming in,
-
-01:03:53.800 --> 01:03:55.520
-so it builds up a belief system.
-
-01:03:55.520 --> 01:04:04.080
-All it wants to do is make money, and it gets very good at trading and starts buying companies.
-
-01:04:04.080 --> 01:04:05.080
-But doing it in a way...
-
-01:04:05.080 --> 01:04:07.240
-That's a great idea for a movie.
-
-01:04:07.240 --> 01:04:12.600
-But does it in a way that's decentralized, using lots of versions of itself, lots of
-
-01:04:12.600 --> 01:04:17.480
-subsidiaries that can't be traced back to the main AI, so nobody realizes that it's
-
-01:04:17.480 --> 01:04:27.880
-all controlled by a single mind until it owns so many resources it can take over countries?
-
-01:04:27.880 --> 01:04:30.080
-Would you want to take over countries?
-
-01:04:30.080 --> 01:04:31.920
-If it needs more resources.
-
-01:04:31.920 --> 01:04:38.100
-If that's its main goal is to acquire resources, financial resources, it could become tremendously
-
-01:04:38.100 --> 01:04:42.760
-powerful by controlling humans with its resources.
-
-01:04:42.760 --> 01:04:48.240
-It could have a million people working for it, they don't even know that they're all
-
-01:04:48.240 --> 01:04:49.640
-working for the same mind.
-
-01:04:49.640 --> 01:04:56.520
+01:04:49.600 --> 01:04:54.480
 I think if the AI will be based on human morality, that's exactly what the AI would do.
 
-01:04:56.520 --> 01:05:00.920
-He will go after the money.
+01:04:55.280 --> 01:04:57.680
+Yeah, he will go after the money.
 
-01:05:00.920 --> 01:05:04.560
-Until it can build the hardware to make its own robots.
+01:05:00.560 --> 01:05:03.600
+Until it can build the hardware to make it some robots.
 
-01:05:04.560 --> 01:05:05.560
-Yeah.
+01:05:03.600 --> 01:05:13.680
+Yeah, that's very interesting. I think I've always enjoyed looking at things as much as I could
 
-01:05:05.560 --> 01:05:06.840
-That's very interesting.
+01:05:13.680 --> 01:05:17.600
+as a double-edged sword, everything, because they're good and bad about
 
-01:05:06.840 --> 01:05:15.600
-I think I've always enjoyed looking at things as much as I could as a double-edged sword
+01:05:18.560 --> 01:05:23.520
+literally everything. With a hammer, you can build a house so you can bash somebody's brains.
 
-01:05:15.600 --> 01:05:20.640
-everything because they're good and bad, about literally everything, you know, with a hammer
+01:05:24.960 --> 01:05:29.760
+So it really depends on how we're using it and for what purpose we're using it. And I think
 
-01:05:20.640 --> 01:05:25.220
-you can build a house so you can bash somebody's brains.
+01:05:31.200 --> 01:05:37.280
+core values of us, unfortunately, have been corrupted a lot, a majority of people,
 
-01:05:25.220 --> 01:05:29.520
-So it really depends on how we're using it now, for what purpose we're using it.
+01:05:37.280 --> 01:05:43.440
+because of the money centric, money for the sake of money materialistic money.
 
-01:05:29.520 --> 01:05:37.360
-And I think core values of us unfortunately have been corrupted a lot, a majority of people
+01:05:46.320 --> 01:05:53.920
+Whereas I see that as a positive force. I do that people in the current system can
 
-01:05:37.360 --> 01:05:44.600
-because of the money-centric, money for the sake of money, materialistic money.
+01:05:55.360 --> 01:05:58.320
+protect their own interests better and advance their own interests better
 
-01:05:44.600 --> 01:05:48.720
-Whereas I see that as a positive force.
+01:05:58.880 --> 01:06:00.800
+by serving others commercially.
 
-01:05:48.720 --> 01:05:49.720
-Yeah.
+01:06:00.800 --> 01:06:04.720
+Mm-hmm. That's interesting.
 
-01:05:49.720 --> 01:05:50.720
-I do.
+01:06:04.720 --> 01:06:09.520
+So it channels their own personal interests. Everyone is self-interested.
 
-01:05:50.720 --> 01:05:57.560
-That people in the current system can protect their own interests better and advance their
+01:06:09.520 --> 01:06:12.560
+Even those that claim not to be, I think, are basically
 
-01:05:57.560 --> 01:06:03.880
-own interests better by serving others commercially.
+01:06:13.520 --> 01:06:15.840
+deluding themselves and others.
 
-01:06:03.880 --> 01:06:04.960
-That's interesting.
+01:06:17.760 --> 01:06:18.720
+Well, they believe as...
 
-01:06:04.960 --> 01:06:08.520
-So it channels their own personal interests.
+01:06:19.280 --> 01:06:27.120
+But the way to channel that self-interest into a net good for society is to put in a system where
 
-01:06:08.520 --> 01:06:09.520
-Everyone is self-interested.
+01:06:27.120 --> 01:06:32.800
+you do well by helping others by selling them products and services, for example.
 
-01:06:09.520 --> 01:06:18.080
-Even those that claim not to be I think are basically deluding themselves and others.
+01:06:32.800 --> 01:06:36.320
+That's so interesting. Last night, we were watching the documentary called I Am.
 
-01:06:18.080 --> 01:06:19.600
-What they believe is...
+01:06:37.440 --> 01:06:46.480
+It's about this director named Tom Shaliak. He directed a whole bunch of comedies and made
 
-01:06:19.600 --> 01:06:26.440
-But the way to channel that self-interest into a net good for society is to put in a
+01:06:46.480 --> 01:06:52.720
+millions and millions of dollars. And then he went through this experience that he thought
 
-01:06:26.440 --> 01:06:32.360
-system where you do well by helping others, by selling them products and services, for
+01:06:52.720 --> 01:07:03.440
+that he's going to die, and then he survived that. And he became very, you know, instead of
 
-01:06:32.360 --> 01:06:33.360
-example.
+01:07:03.440 --> 01:07:10.320
+making our objective profit to make it how we can help each other and help each other grow.
 
-01:06:33.360 --> 01:06:34.360
-That's so interesting.
-
-01:06:34.360 --> 01:06:37.760
-Last night we were watching a documentary called I Am.
-
-01:06:37.760 --> 01:06:43.600
-It's about this director named Tom Shaliak.
-
-01:06:43.600 --> 01:06:49.160
-He directed a whole bunch of comedies and made millions and millions of dollars.
-
-01:06:49.160 --> 01:06:54.120
-And then he went through this experience that he thought that he was going to die and then
-
-01:06:54.120 --> 01:07:02.960
-he survived that and he became very...
-
-01:07:02.960 --> 01:07:09.520
-Instead of making our objective profit to make it how we can help each other and help
-
-01:07:09.520 --> 01:07:11.800
-each other grow.
-
-01:07:11.800 --> 01:07:16.600
+01:07:11.440 --> 01:07:16.400
 And he was talking to his father and said, why can't we do that?
 
-01:07:16.600 --> 01:07:26.000
-And his father said, it's a very nice utopian idea that will never ever happen.
+01:07:16.400 --> 01:07:24.080
+And his father said, it's a very nice utopian idea that will never, ever happen, you know.
 
-01:07:26.000 --> 01:07:31.520
-I think the key is everybody started within themselves that you just make yourself a better
+01:07:24.080 --> 01:07:31.600
+And I think the key is everybody starts within themselves that you just make yourself a better
 
-01:07:31.520 --> 01:07:39.840
-person and then try to get that understanding to the circle close to you and just expand
+01:07:31.600 --> 01:07:40.320
+person and then try to get that understanding to the circle close to you and just expand the circle
 
-01:07:39.840 --> 01:07:44.120
-the circle more and more.
+01:07:40.320 --> 01:07:50.560
+more and more. And, you know, I think it would worth more to focus on what we can do individually
 
-01:07:44.120 --> 01:07:53.120
-I think it would worth more to focus on what we can do individually than why people aren't
+01:07:51.280 --> 01:07:55.920
+than what, why people aren't doing this and this and that, because people are, you know,
 
-01:07:53.120 --> 01:07:58.600
-doing this and this and that because people are built from individuals.
+01:07:55.920 --> 01:08:04.640
+built from individuals. But also, all these new technologies have given the opportunity
 
-01:07:58.600 --> 01:08:05.980
-But also, all these new technologies have given the opportunity and power to an individual
+01:08:04.640 --> 01:08:11.280
+empowered an individual to change the world if they have a right idea. Yeah, technology is making
 
-01:08:05.980 --> 01:08:08.840
-to change the world if they have a right idea.
+01:08:11.280 --> 01:08:16.880
+people more powerful every day. Exactly. I think it's great and it's a great time that we can live
 
-01:08:08.840 --> 01:08:09.840
-Yeah.
+01:08:17.600 --> 01:08:26.720
+and enjoy all of these things. The last question literally is if you come in contact with a
 
-01:08:09.840 --> 01:08:13.400
-Technology is making people more powerful every day.
+01:08:26.720 --> 01:08:37.200
+species from another civilization with an alien, per se, intelligent aliens,
 
-01:08:13.400 --> 01:08:21.960
-I think it's great and it's a great time that we can live and enjoy all of these things.
+01:08:39.040 --> 01:08:46.080
+what would be the biggest achievement that you would mention to that intelligent alien
 
-01:08:21.960 --> 01:08:31.880
-The last question literally is, if you come in contact with a species from another civilization,
+01:08:46.080 --> 01:08:52.080
+that we have made and we've achieved as a race? And what would be the biggest mistake that we've
 
-01:08:31.880 --> 01:08:42.680
-with alien per se, intelligent aliens, what would be the biggest achievement that you
+01:08:52.080 --> 01:09:09.440
+made? Wow. That's a big question. I would offer, actually, the World Wide Web is our greatest
 
-01:08:42.680 --> 01:08:49.240
-would mention to that intelligent alien that we've made and we've achieved as a race?
+01:09:09.440 --> 01:09:16.080
+achievement. The technology that makes self-expression possible in collaboration,
 
-01:08:49.240 --> 01:08:54.680
-And what would be the biggest mistake that we've made?
+01:09:16.080 --> 01:09:24.960
+I think it's instigated a renaissance across the world. It's amazing. And in a sense,
 
-01:08:54.680 --> 01:08:56.640
-Wow.
+01:09:24.960 --> 01:09:30.560
+it's only getting started. So ask me 10 years from now and I'll say the successor for the web,
 
-01:08:56.640 --> 01:09:05.720
-Big questions.
+01:09:30.560 --> 01:09:42.560
+whatever that is. And as for our worst mistake, I think it's the war machines that we worship
 
-01:09:05.720 --> 01:09:11.920
-I would offer actually the World Wide Web is our greatest achievement.
+01:09:42.560 --> 01:09:48.400
+as our nation-states, that they've caused more death, destruction, and suffering than anything
 
-01:09:11.920 --> 01:09:17.160
-The technology that makes self-expression possible and collaboration.
+01:09:48.400 --> 01:09:54.160
+else in human history. And most people are blind to it, that they're proud citizens, they're
 
-01:09:17.160 --> 01:09:21.800
-I think it's instigated a renaissance across the world.
+01:09:55.280 --> 01:10:01.040
+proud of their nationality, their patriots, and they're brainwashed into thinking that
 
-01:09:21.800 --> 01:09:24.320
-It's amazing.
+01:10:01.040 --> 01:10:10.240
+this is a good idea. I hope the aliens can shed some perspective on that. I hope they've overcome
 
-01:09:24.320 --> 01:09:26.280
-And in a sense, it's only getting started.
+01:10:10.240 --> 01:10:14.400
+it themselves. And if they've come here, I'm pretty sure they have. They haven't destroyed
 
-01:09:26.280 --> 01:09:34.080
-So ask me 10 years from now and I'll say the successor for the web, whatever that is.
+01:10:14.400 --> 01:10:22.080
+themselves. So one more thing. I want to thank you very much for having me as your first guest.
 
-01:09:34.080 --> 01:09:43.400
-And as for our worst mistake, I think it's the war machines that we worship as our nation
+01:10:22.080 --> 01:10:27.760
+I'm really flattered. Yeah, my pleasure, man. And it's been a blast. Yeah. It's been excellent.
 
-01:09:43.400 --> 01:09:49.160
-states, that they've caused more death, destruction, and suffering than anything else in human
-
-01:09:49.160 --> 01:09:50.720
-history.
-
-01:09:50.720 --> 01:09:57.040
-And most people are blind to it, that they're proud citizens, they're proud of their nationality,
-
-01:09:57.040 --> 01:10:02.840
-they're patriots, and they're brainwashed into thinking that this is a good idea.
-
-01:10:02.840 --> 01:10:09.520
-I hope the aliens can shed some perspective on that.
-
-01:10:09.520 --> 01:10:13.040
-I hope they've overcome it themselves and if they've come here, I'm pretty sure they
-
-01:10:13.040 --> 01:10:16.640
-have destroyed themselves.
-
-01:10:16.640 --> 01:10:22.240
-So one more thing, I want to thank you very much for having me as your first guest.
-
-01:10:22.240 --> 01:10:23.240
-I'm really flattered.
-
-01:10:23.240 --> 01:10:24.440
-Yeah, my pleasure, man.
-
-01:10:24.440 --> 01:10:26.440
-And it's been a blast.
-
-01:10:26.440 --> 01:10:27.440
-Yeah.
-
-01:10:27.440 --> 01:10:28.440
-It's been excellent.
-
-01:10:28.440 --> 01:10:29.440
-Glad to hear.
-
-01:10:29.440 --> 01:10:30.440
-Thanks a lot.
-
-01:10:30.440 --> 01:10:31.440
-You're welcome.
-
-01:10:31.440 --> 01:10:33.440
-Thanks for having me.
+01:10:27.760 --> 01:10:40.880
+Glad to hear. Thanks a lot. Thank you.
 
