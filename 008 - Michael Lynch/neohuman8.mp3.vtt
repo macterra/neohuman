@@ -1,0 +1,3254 @@
+WEBVTT
+
+00:00.000 --> 00:01.780
+One problem that we saw with the social bot
+
+00:01.780 --> 00:03.580
+is that if we allow it to teach itself,
+
+00:04.580 --> 00:05.820
+it becomes a disaster.
+
+00:05.820 --> 00:06.900
+It could be a disaster.
+
+00:06.900 --> 00:09.780
+It'll end up like the rest of us bastards, right?
+
+00:09.780 --> 00:14.780
+Hello, and welcome to the eighth episode
+
+00:19.240 --> 00:20.660
+of Neo Human Podcast.
+
+00:20.660 --> 00:24.260
+I'm Aga Bahari at Agologist on Twitter and Instagram,
+
+00:24.260 --> 00:29.260
+and you can follow the show on iTunes or liveinlimbo.com.
+
+00:29.260 --> 00:32.140
+With me today is Professor Michael Lynch.
+
+00:32.140 --> 00:34.380
+Thank you so much for being with us, Michael.
+
+00:34.380 --> 00:35.660
+Well, thanks for having me.
+
+00:35.660 --> 00:36.500
+My pleasure.
+
+00:37.380 --> 00:39.780
+I think it would be much better than me introducing you
+
+00:39.780 --> 00:41.220
+if you introduce yourself,
+
+00:41.220 --> 00:43.020
+and tell us a little bit about your background
+
+00:43.020 --> 00:44.980
+and what you're doing now.
+
+00:44.980 --> 00:48.940
+So I'm a philosopher by training and by profession.
+
+00:48.940 --> 00:51.300
+I teach at the University of Connecticut,
+
+00:51.300 --> 00:54.220
+where I also direct the Humanities Institute,
+
+00:54.220 --> 00:59.020
+and I'm also the PI on a large research project
+
+00:59.020 --> 01:03.500
+on public discourse and the barriers to public discourse
+
+01:03.500 --> 01:05.740
+and concepts like intellectual humility.
+
+01:06.740 --> 01:08.460
+And I'm also the author of this recent book,
+
+01:08.460 --> 01:09.460
+The Internet of Us,
+
+01:09.460 --> 01:14.180
+which is the book that I just put out from Norton.
+
+01:15.140 --> 01:17.220
+Yeah, and that's the reason that I got to know you.
+
+01:17.220 --> 01:18.820
+Right, right.
+
+01:18.820 --> 01:23.820
+So yeah, and that book is what we might,
+
+01:25.180 --> 01:28.500
+say it's a bit of philosophy on a topic
+
+01:28.500 --> 01:30.540
+that I think philosophers haven't,
+
+01:30.540 --> 01:31.700
+well, they haven't ignored,
+
+01:31.700 --> 01:35.700
+they haven't really focused on as much as I think they might,
+
+01:35.700 --> 01:39.340
+which is the philosophical implications
+
+01:39.340 --> 01:41.900
+of information technology, you might say.
+
+01:41.900 --> 01:44.020
+That's what this book is about.
+
+01:44.020 --> 01:46.380
+And philosophical implications,
+
+01:46.380 --> 01:50.100
+particularly with regard to how we understand knowledge,
+
+01:50.100 --> 01:55.100
+because not only do we live in the so-called information age,
+
+01:55.260 --> 01:57.700
+we also live, as many people say, in the knowledge age.
+
+01:57.700 --> 01:59.100
+We talk about the knowledge economy
+
+01:59.100 --> 02:00.500
+and knowledge workers, right?
+
+02:00.500 --> 02:04.980
+And we think about the fact that people's ability
+
+02:04.980 --> 02:08.460
+to get knowledge and become trained as knowledge seekers,
+
+02:08.460 --> 02:10.100
+that is, have a higher education,
+
+02:10.100 --> 02:14.260
+impacts their life in the economy economy.
+
+02:14.260 --> 02:17.900
+So knowledge is sort of a central topic for us in our lives.
+
+02:17.900 --> 02:19.340
+And it's partly a central topic,
+
+02:19.340 --> 02:22.820
+just because we do have these incredible devices
+
+02:22.820 --> 02:26.500
+that we all use for accessing information.
+
+02:26.500 --> 02:28.260
+So it seemed to me that,
+
+02:29.380 --> 02:31.300
+as somebody who works on epistemology,
+
+02:31.300 --> 02:32.660
+which is the study of knowledge,
+
+02:32.660 --> 02:36.020
+that it was high time that we started thinking
+
+02:36.020 --> 02:39.300
+as philosophers and as intellectuals
+
+02:39.300 --> 02:44.300
+about what these changes and how we distribute,
+
+02:44.580 --> 02:47.260
+access and produce knowledge,
+
+02:47.260 --> 02:49.460
+because of information technology, these changes,
+
+02:49.460 --> 02:52.580
+how these would actually affect our understanding
+
+02:52.580 --> 02:54.420
+of knowledge itself and its value.
+
+02:54.420 --> 02:57.300
+Would you say that our philosophy in general
+
+02:57.300 --> 03:01.140
+is in need of updates because of our technology?
+
+03:01.140 --> 03:02.820
+Yeah, I think it is.
+
+03:02.820 --> 03:07.820
+I mean, the book is divided into two parts.
+
+03:07.900 --> 03:10.020
+In one part, I talk about how certain old,
+
+03:10.020 --> 03:12.420
+classic philosophical problems,
+
+03:12.420 --> 03:14.900
+problems that have been around for thousands of years,
+
+03:14.900 --> 03:16.260
+or as my students say,
+
+03:16.260 --> 03:19.420
+that I've been discussed for thousands of years,
+
+03:19.420 --> 03:21.620
+sort of old philosophical problems,
+
+03:21.620 --> 03:26.620
+have been reached, sort of given new life
+
+03:27.500 --> 03:30.020
+by our digital form of life.
+
+03:30.020 --> 03:32.540
+I talk about our life in the infosphere
+
+03:32.540 --> 03:35.220
+as a sort of what Wittgenstein would call form of life.
+
+03:35.220 --> 03:37.540
+That is, we have a sort of ways of acting now
+
+03:37.540 --> 03:40.460
+due to how we interact with information technology
+
+03:40.460 --> 03:43.700
+that we don't even sort of notice.
+
+03:43.700 --> 03:45.180
+These are sort of behaviors and habits
+
+03:45.180 --> 03:46.700
+that we engage in on a daily basis,
+
+03:46.700 --> 03:48.500
+having to do with access and information
+
+03:48.500 --> 03:50.100
+that we almost never notice anymore.
+
+03:50.100 --> 03:52.780
+And that fact, the fact that these things
+
+03:52.780 --> 03:54.780
+have become so much part of our life
+
+03:54.780 --> 03:57.180
+that is these devices and so forth,
+
+03:57.180 --> 04:00.340
+and our analytic techniques
+
+04:00.340 --> 04:02.260
+that allow us to use these devices,
+
+04:03.500 --> 04:05.420
+the fact that they've become so much part of our life
+
+04:05.420 --> 04:10.020
+has made these old problems new again.
+
+04:10.020 --> 04:12.020
+And so let me give you an example of that.
+
+04:13.340 --> 04:16.220
+An old classic philosophical problem is
+
+04:16.220 --> 04:21.220
+how do we rationally resolve disagreements
+
+04:23.020 --> 04:28.020
+between each other over competing values and facts?
+
+04:30.060 --> 04:32.380
+That's something that's been around for a long time.
+
+04:32.380 --> 04:35.380
+How do we rationally resolve our differences
+
+04:35.380 --> 04:37.740
+of opinion over values, for example?
+
+04:37.740 --> 04:39.340
+Can we do that?
+
+04:39.340 --> 04:40.340
+Some people might say yes,
+
+04:40.340 --> 04:43.460
+some people might say cynically no, we can't.
+
+04:43.460 --> 04:44.620
+Politics at the end of the day
+
+04:44.620 --> 04:47.500
+has to become war by other means and so forth.
+
+04:47.500 --> 04:49.100
+Well, the way in which information technology
+
+04:49.100 --> 04:52.780
+is impacting this is really sort of funny and curious.
+
+04:52.780 --> 04:55.140
+We have all, we have, you and I,
+
+04:55.140 --> 04:58.700
+by virtue of just accessing our phone,
+
+04:58.700 --> 05:01.460
+have tremendous amounts of information at our disposal,
+
+05:01.460 --> 05:05.620
+more than most humans have ever had combined.
+
+05:05.620 --> 05:06.460
+Right? Absolutely.
+
+05:06.460 --> 05:07.980
+Is that absolutely the case?
+
+05:07.980 --> 05:12.180
+You're doubling the knowledge of humanity every year.
+
+05:12.180 --> 05:14.580
+Indeed, indeed, and maybe even,
+
+05:14.580 --> 05:17.740
+that might even be underestimating it.
+
+05:19.420 --> 05:20.740
+Just simply because the,
+
+05:20.740 --> 05:22.540
+I mean, partly this is a sort of inside,
+
+05:22.540 --> 05:24.740
+but the use of data analytics,
+
+05:26.300 --> 05:28.700
+our sophistication in those methods
+
+05:28.700 --> 05:33.700
+is really just shot up in the last couple of years,
+
+05:33.700 --> 05:37.060
+I think, and that is,
+
+05:37.060 --> 05:39.220
+it may be increasing even more than that,
+
+05:39.220 --> 05:42.860
+but let's say it's doubling it.
+
+05:42.860 --> 05:47.220
+Now, what you might think that that sort of from a sort of,
+
+05:47.220 --> 05:48.540
+if you just sort of heard that,
+
+05:48.540 --> 05:50.220
+you heard somebody like living
+
+05:51.620 --> 05:53.980
+just even 50 years ago heard that, right?
+
+05:53.980 --> 05:55.820
+And they could believe it.
+
+05:55.820 --> 05:57.100
+They might think, wow,
+
+05:58.140 --> 06:01.500
+then we should be closer to solving certain problems, right?
+
+06:02.380 --> 06:03.900
+We should be closer to solving
+
+06:03.900 --> 06:05.380
+not just certain technological problems,
+
+06:05.380 --> 06:08.380
+but also maybe policy problems.
+
+06:08.380 --> 06:09.900
+I mean, if we have all this information,
+
+06:09.900 --> 06:13.340
+then surely if we put our best minds at it,
+
+06:13.340 --> 06:15.060
+we'll come to greater agreement on matters
+
+06:15.060 --> 06:17.180
+like climate change or the environment,
+
+06:17.180 --> 06:20.100
+as they might've said years ago, right?
+
+06:21.940 --> 06:24.420
+But what we're finding actually is that
+
+06:24.420 --> 06:28.980
+the disagreements in policy
+
+06:28.980 --> 06:31.620
+and disagreements over matters of fact even
+
+06:31.620 --> 06:34.260
+are becoming more and more entrenched,
+
+06:34.260 --> 06:37.820
+even though we have access to greater amounts of information.
+
+06:37.820 --> 06:38.780
+And why is that?
+
+06:38.780 --> 06:40.540
+Well, partly it's due to a fact
+
+06:40.540 --> 06:43.660
+that a lot of people have commented on in the digital age,
+
+06:43.660 --> 06:46.060
+which is that when we access information online,
+
+06:48.500 --> 06:50.180
+it's not just all the information.
+
+06:50.180 --> 06:53.180
+Because there's so much information, we have to sort it.
+
+06:54.140 --> 06:56.660
+We have to make decisions, who we're gonna check,
+
+06:56.660 --> 06:58.300
+what sources we're gonna rely on,
+
+06:59.740 --> 07:02.180
+what friends we're gonna accept, so to speak.
+
+07:03.380 --> 07:04.700
+And that puts us in,
+
+07:04.700 --> 07:06.460
+and this is the point that a lot of people comment on,
+
+07:06.460 --> 07:09.580
+is that puts us in sort of information bubbles.
+
+07:09.580 --> 07:11.180
+But the point that I think is new,
+
+07:11.180 --> 07:12.660
+and this relates to this sort of perennial
+
+07:12.660 --> 07:15.460
+philosophical problem, is that these information bubbles
+
+07:15.460 --> 07:17.700
+have gotten to the point where our disagreements
+
+07:17.700 --> 07:21.420
+are no longer just over values.
+
+07:21.420 --> 07:23.660
+They're no longer just over the facts.
+
+07:23.660 --> 07:26.020
+They're actually over whose sources
+
+07:27.860 --> 07:30.860
+are the most reliable for deciding what the facts are,
+
+07:30.860 --> 07:35.180
+and what even a fact is, is I think an issue right now.
+
+07:35.180 --> 07:38.220
+So that's essentially an old philosophical problem,
+
+07:38.220 --> 07:40.900
+is being given new life by the very technology
+
+07:40.900 --> 07:43.620
+that we might have thought would have solved it.
+
+07:43.620 --> 07:45.300
+It's the concept of the more we know,
+
+07:45.300 --> 07:47.700
+the more we know we don't know.
+
+07:47.700 --> 07:50.820
+Well, in a sense, in one sense, that's a good,
+
+07:50.820 --> 07:53.020
+yeah, I mean, in one way, that's right.
+
+07:53.020 --> 07:54.500
+Another way of thinking about it, though,
+
+07:54.500 --> 07:57.500
+is that, and this is something, the subtitle of my book
+
+07:57.500 --> 07:59.740
+is Knowing More and Understanding Less
+
+07:59.740 --> 08:01.060
+in the Age of Big Data.
+
+08:01.060 --> 08:02.820
+And I think we actually do know more.
+
+08:02.820 --> 08:03.940
+We don't just have more information,
+
+08:03.940 --> 08:05.540
+we do actually know more.
+
+08:05.540 --> 08:08.860
+I often feel without my phone, I'm just 100% dumber.
+
+08:09.740 --> 08:14.100
+But the sense in which we know more
+
+08:14.100 --> 08:15.620
+is a very minimal sense.
+
+08:15.620 --> 08:18.740
+When we know from, most of the times,
+
+08:18.740 --> 08:21.820
+by using apps, for example, not just Google searching,
+
+08:21.820 --> 08:24.260
+but actually using an app, let's say,
+
+08:24.260 --> 08:26.740
+to perhaps an interactive app,
+
+08:30.300 --> 08:32.460
+the sense in which I know is the minimal sense
+
+08:32.460 --> 08:35.420
+in which, if I'm lucky enough to get accurate information,
+
+08:35.420 --> 08:37.940
+form an accurate belief from using that app
+
+08:37.940 --> 08:40.380
+about some subject matter, let's say the weather.
+
+08:42.540 --> 08:45.260
+Then that belief will turn out to be knowledge.
+
+08:45.260 --> 08:48.820
+If it's accurate, it's based on a sort of reliable source.
+
+08:51.500 --> 08:54.580
+And that's the minimal sense of knowledge
+
+08:54.580 --> 08:55.940
+in which we gain knowledge
+
+08:56.860 --> 08:59.700
+from interacting with digital sources.
+
+08:59.700 --> 09:02.020
+And in that sense, we know more.
+
+09:02.020 --> 09:07.020
+But the problem is that, because we do know more in that way,
+
+09:07.340 --> 09:09.060
+we have more reliable sources checked,
+
+09:09.060 --> 09:12.580
+that actually makes us overconfident
+
+09:12.580 --> 09:14.380
+that we actually know more than we do.
+
+09:15.540 --> 09:17.780
+I think sometimes we don't actually think,
+
+09:17.780 --> 09:21.580
+and we should think, that we know less than we think we do.
+
+09:21.580 --> 09:22.820
+But I don't think that often happens.
+
+09:22.820 --> 09:24.900
+I think we do know a little bit more,
+
+09:24.900 --> 09:27.060
+but a little bit of knowledge is a dangerous thing.
+
+09:27.060 --> 09:29.060
+And what happens is that we don't know
+
+09:29.060 --> 09:30.260
+what happens is that people think
+
+09:30.260 --> 09:31.820
+that they know even more than they do,
+
+09:31.820 --> 09:34.540
+just because they have this information right at hand
+
+09:34.540 --> 09:36.380
+and they've been able to use it so far
+
+09:36.380 --> 09:39.700
+to find out, let's say, what the weather is,
+
+09:39.700 --> 09:44.700
+or even what the level on a particular,
+
+09:48.140 --> 09:49.940
+I have an app on my phone that allows me
+
+09:49.940 --> 09:53.980
+to detect the level of a piece of wood,
+
+09:53.980 --> 09:55.740
+let's say, it's a carpentry app.
+
+09:55.740 --> 09:58.100
+That's an amazing little app, by the way.
+
+09:58.100 --> 09:59.580
+What is it called?
+
+09:59.580 --> 10:01.060
+Carpentry level.
+
+10:01.060 --> 10:03.660
+There's about 10 of them, but there's,
+
+10:03.660 --> 10:07.060
+so I can know things, like this one piece of wood is level,
+
+10:07.060 --> 10:08.660
+by using that app.
+
+10:08.660 --> 10:11.220
+But I shouldn't think that that fact
+
+10:11.220 --> 10:13.380
+makes me an expert carpenter either.
+
+10:14.820 --> 10:16.660
+What do you think it takes for a knowledge
+
+10:16.660 --> 10:18.780
+based on evidence to become a policy?
+
+10:18.780 --> 10:21.860
+I'm living in Canada, and what we're witnessing
+
+10:21.860 --> 10:24.140
+in the United States is that there are senators
+
+10:24.140 --> 10:26.900
+and congressmen who are arguing that
+
+10:26.900 --> 10:29.980
+there is no global warming because there's a snow outside.
+
+10:29.980 --> 10:30.820
+Yes.
+
+10:30.820 --> 10:34.420
+So those are the people who are basically
+
+10:34.420 --> 10:36.900
+are affecting the progress of technology
+
+10:36.900 --> 10:39.820
+and knowledge and everything because of public policy.
+
+10:39.820 --> 10:43.100
+What do you think it will take for the people
+
+10:43.100 --> 10:46.900
+like yourself who are creating the new ways
+
+10:46.900 --> 10:50.460
+of understanding knowledge to convince the politicians
+
+10:50.460 --> 10:53.620
+who are mostly conservative and business oriented
+
+10:53.620 --> 10:57.180
+to accept the facts so we can all move forward?
+
+10:57.180 --> 11:00.180
+Well, that's a really, really good question.
+
+11:00.180 --> 11:01.780
+I guess it's a sort of great follow up
+
+11:01.780 --> 11:04.380
+to the point that I had raised is that right now
+
+11:04.380 --> 11:07.940
+we are disagreeing over our sources of evidence
+
+11:07.940 --> 11:10.180
+and even over whether evidence is important.
+
+11:11.380 --> 11:13.020
+So how do we move forward from there?
+
+11:13.020 --> 11:15.260
+I mean, on the surface, at first glance,
+
+11:15.260 --> 11:18.020
+it seems impossible because once we disagree
+
+11:18.020 --> 11:20.100
+over whether evidence is important,
+
+11:20.100 --> 11:22.300
+what sort of evidence could I possibly give you
+
+11:22.300 --> 11:23.220
+to think that it is?
+
+11:23.220 --> 11:24.420
+Yes, exactly.
+
+11:24.420 --> 11:25.260
+All right.
+
+11:25.260 --> 11:28.420
+So I think what we need to do is shift
+
+11:28.420 --> 11:29.660
+slightly different tactic.
+
+11:29.660 --> 11:33.380
+I think what we need to do is to convince people
+
+11:33.380 --> 11:36.820
+that share at least some sense of democratic commitment
+
+11:37.900 --> 11:41.940
+to a sense of sovereignty of the public.
+
+11:41.940 --> 11:43.740
+And not all the folks that I'm gonna,
+
+11:43.740 --> 11:46.020
+what you might have in mind might be committed to this.
+
+11:46.020 --> 11:47.700
+But some of them, let's say are,
+
+11:47.700 --> 11:50.500
+they do think that democracy is all things in equal,
+
+11:50.500 --> 11:55.500
+better form of government than alternative forms.
+
+11:55.620 --> 11:58.340
+If they do think that, then I think what I can do
+
+11:58.340 --> 12:00.980
+is make an argument that appealing to evidence
+
+12:00.980 --> 12:05.180
+is actually an essential decision-making procedure
+
+12:05.180 --> 12:06.540
+for democracy.
+
+12:06.540 --> 12:10.860
+Because it's only by paying attention to your evidence,
+
+12:10.860 --> 12:12.140
+as opposed to your moral,
+
+12:12.140 --> 12:14.700
+you know, your spiritual character, for example.
+
+12:14.700 --> 12:16.260
+It's only by paying attention to the evidence
+
+12:16.260 --> 12:17.860
+you give me for your beliefs
+
+12:17.860 --> 12:22.860
+that I truly respect you as an independent thinker,
+
+12:23.420 --> 12:25.300
+somebody who's capable of making up their own mind
+
+12:25.300 --> 12:26.940
+about how to vote.
+
+12:26.940 --> 12:28.900
+And the same goes for me on the other side, right?
+
+12:28.900 --> 12:31.420
+I mean, I've got to be willing to take the evidence
+
+12:31.420 --> 12:33.700
+of the conservatives insofar as, you know,
+
+12:33.700 --> 12:35.900
+if somebody has some evidence,
+
+12:35.900 --> 12:36.940
+and take it seriously.
+
+12:36.940 --> 12:39.380
+Because only by then I can respect them
+
+12:39.380 --> 12:43.700
+as full participants in the democratic process.
+
+12:43.700 --> 12:45.140
+And without that respect,
+
+12:45.140 --> 12:48.820
+without the sense that we can mutually respect one another,
+
+12:48.820 --> 12:52.180
+then there is no point of talking about a democratic process.
+
+12:52.180 --> 12:56.100
+Because democracy is founded on the idea of equal respect,
+
+12:56.100 --> 13:01.100
+that we treat each other as fellow participants
+
+13:01.380 --> 13:05.060
+in the project of democracy.
+
+13:05.060 --> 13:06.820
+So would you suggest that we perhaps,
+
+13:06.820 --> 13:10.700
+in need of upgrading our democracy and political system
+
+13:10.700 --> 13:12.420
+along with our philosophical system
+
+13:12.420 --> 13:15.940
+because of the growth and advancement of our technology?
+
+13:15.940 --> 13:18.140
+I think, yeah, I mean, I think our growth
+
+13:18.140 --> 13:21.500
+and advancement in technology has been tremendous aid
+
+13:21.500 --> 13:24.540
+in some ways to democratic practices.
+
+13:24.540 --> 13:26.780
+It's given us, because it has given us the ability
+
+13:26.780 --> 13:28.940
+to acquire more information and data
+
+13:28.940 --> 13:30.420
+about things like climate change.
+
+13:30.420 --> 13:31.580
+I agree.
+
+13:31.580 --> 13:35.860
+Without the techniques that mathematicians
+
+13:35.860 --> 13:37.060
+have been able to give us,
+
+13:37.060 --> 13:40.500
+applied mathematicians for data analytics,
+
+13:40.500 --> 13:42.260
+some of the data that we've been able to collect
+
+13:42.260 --> 13:44.660
+on climate change wouldn't have never been collected.
+
+13:44.660 --> 13:47.580
+So it's only because of technology and our advances
+
+13:48.820 --> 13:50.220
+that we're able to do that.
+
+13:51.940 --> 13:54.180
+I think what we do need to do is to make sure
+
+13:54.180 --> 13:58.300
+that our personal citizens' uses of technology,
+
+13:58.300 --> 14:02.140
+the uses of, let's say, social media,
+
+14:02.140 --> 14:05.820
+that we understand the ways in which we're using social media
+
+14:05.820 --> 14:12.820
+both can reflect our biases and our prejudices.
+
+14:12.820 --> 14:15.100
+It's, you know, when we talk about social media,
+
+14:15.100 --> 14:17.060
+the social part is really important.
+
+14:17.060 --> 14:19.620
+Absolutely, yes.
+
+14:19.620 --> 14:22.260
+And that could be really great. It could connect us.
+
+14:22.260 --> 14:23.460
+It's awesome to be able to connect
+
+14:23.460 --> 14:25.300
+with your old friends on Facebook.
+
+14:25.300 --> 14:27.780
+But it's really important to realize
+
+14:27.780 --> 14:31.260
+that the biases and prejudices
+
+14:31.260 --> 14:35.620
+that infect our social relationships offline,
+
+14:35.620 --> 14:38.580
+also affect our life online.
+
+14:38.580 --> 14:40.740
+And in a sense, that's trivially obvious.
+
+14:40.740 --> 14:42.260
+We think, oh, we all know that.
+
+14:42.260 --> 14:44.620
+And yet, we often ignore that fact
+
+14:44.620 --> 14:49.420
+when we draw conclusions from, let's say,
+
+14:49.420 --> 14:52.700
+about what to believe from something
+
+14:52.700 --> 14:54.620
+that somebody posted on Facebook
+
+14:54.620 --> 14:58.940
+because they're in our circle of friends, right?
+
+14:58.940 --> 15:02.020
+I mean, we tend to, you know, there's a lot of evidence
+
+15:02.020 --> 15:04.220
+to show that the sorts of interactions
+
+15:04.220 --> 15:08.900
+that we engage in, social media in particular,
+
+15:08.900 --> 15:13.980
+tend to lead our perfect situation
+
+15:13.980 --> 15:17.740
+in which for us to reflect our quick, implicit biases,
+
+15:17.740 --> 15:19.900
+partly because the interactions are so quick
+
+15:19.900 --> 15:21.460
+and not often reflective.
+
+15:21.460 --> 15:23.980
+They're not Twitter, for example.
+
+15:23.980 --> 15:25.220
+I use Twitter. I love it.
+
+15:25.220 --> 15:30.420
+But it's not a medium that is really,
+
+15:30.420 --> 15:32.900
+it's not the best medium to use
+
+15:32.900 --> 15:37.100
+if you're interested in another truism,
+
+15:37.100 --> 15:41.740
+reflective, critical engagement.
+
+15:41.740 --> 15:43.580
+It doesn't lead to these sorts of conversations.
+
+15:43.580 --> 15:45.700
+It's true. It's true.
+
+15:45.700 --> 15:48.660
+Well, I mean, with 140 characters, how far you can go?
+
+15:48.660 --> 15:50.820
+Yeah. I mean, some people have been incredibly creative
+
+15:50.820 --> 15:53.100
+at that, right? There are people that can,
+
+15:53.100 --> 15:55.140
+but most of the time, you can't go very far.
+
+15:55.140 --> 15:59.260
+But it's interesting, when you mention your life online
+
+15:59.260 --> 16:02.140
+and your life offline, Twitter is a very good example
+
+16:02.140 --> 16:04.500
+how the 140 limit characters
+
+16:04.500 --> 16:07.420
+has affected the news programs.
+
+16:07.420 --> 16:08.260
+Indeed.
+
+16:08.260 --> 16:12.340
+And our ability to absorb information,
+
+16:12.340 --> 16:14.540
+we need something fast and to the point.
+
+16:14.540 --> 16:17.980
+And that can be manipulated very easy in that way.
+
+16:19.300 --> 16:22.900
+How difficult do you think it's becoming
+
+16:22.900 --> 16:27.500
+to differentiate the life online and life offline?
+
+16:27.500 --> 16:31.940
+Because on one side is the software advancement
+
+16:31.940 --> 16:35.380
+like machine learning, big data and hardware advancement,
+
+16:35.380 --> 16:38.540
+like a virtual reality and augmented reality.
+
+16:38.540 --> 16:42.060
+How difficult it will become in the coming years
+
+16:42.060 --> 16:43.980
+to tell the difference between the two?
+
+16:44.940 --> 16:47.860
+Well, I think it's gonna become even more difficult.
+
+16:47.860 --> 16:50.020
+And I think it already is.
+
+16:50.020 --> 16:55.020
+You're right that there is for many people,
+
+16:55.260 --> 16:57.820
+for many of us, I mean, many people listening,
+
+16:57.820 --> 17:00.700
+not just some people over there, for all of us,
+
+17:00.700 --> 17:03.900
+there are ways in which the two lives
+
+17:03.900 --> 17:05.580
+have become very blurred.
+
+17:06.900 --> 17:09.300
+And that's particularly, that blurriness happens
+
+17:09.300 --> 17:11.460
+right out of the area that I'm interested in,
+
+17:11.460 --> 17:13.260
+in knowledge acquisition.
+
+17:13.260 --> 17:14.220
+You think about how you know
+
+17:14.220 --> 17:17.340
+most of the things you know now, right?
+
+17:17.340 --> 17:19.180
+And what's the first thing that you're gonna do
+
+17:19.180 --> 17:20.820
+if you have a question?
+
+17:20.820 --> 17:22.620
+First thing you're gonna do is Google it,
+
+17:22.620 --> 17:23.460
+at least if you're me.
+
+17:23.460 --> 17:25.740
+Yeah, you use a term called Google knowing.
+
+17:25.740 --> 17:27.020
+Yes, exactly.
+
+17:27.020 --> 17:28.740
+So would you expand on that?
+
+17:28.740 --> 17:33.740
+Sure, so Google knowing is not just knowledge by web search,
+
+17:34.540 --> 17:36.140
+although it's certainly that.
+
+17:36.140 --> 17:38.740
+It's the sort of knowledge that we acquire,
+
+17:38.740 --> 17:41.540
+what I earlier called this sort of minimal knowledge,
+
+17:42.740 --> 17:46.100
+that by digital interface.
+
+17:46.100 --> 17:47.660
+So it's the sort of knowledge we might acquire
+
+17:47.660 --> 17:49.300
+from my little level app,
+
+17:49.300 --> 17:51.380
+but it also might acquire from,
+
+17:51.380 --> 17:55.260
+we might acquire from a smartwatch and from a web search.
+
+17:55.260 --> 17:59.220
+And I think it's right there at that,
+
+17:59.220 --> 18:03.700
+that the concept of knowledge is where right now already
+
+18:03.700 --> 18:07.460
+our online life and our offline life is fuzzy,
+
+18:07.460 --> 18:10.180
+because what we do in our offline life
+
+18:10.180 --> 18:14.940
+is often dictated by what we know or think we know, right?
+
+18:14.940 --> 18:17.060
+So what we do in our ordinary everyday life,
+
+18:17.060 --> 18:18.820
+I mean, from mundane examples,
+
+18:18.820 --> 18:21.300
+like we don't have to talk about something important
+
+18:21.300 --> 18:22.140
+like climate change.
+
+18:22.140 --> 18:23.100
+We just talk about like, you know,
+
+18:23.100 --> 18:28.100
+which restaurant we go to is dictated by what we know.
+
+18:29.140 --> 18:34.140
+And how do we figure out what we believe we go online?
+
+18:34.980 --> 18:39.580
+So much of our offline life is already heavily impacted
+
+18:39.580 --> 18:41.620
+by what we do online.
+
+18:41.620 --> 18:44.340
+I mean, and the reason that Google knowing,
+
+18:44.340 --> 18:47.460
+and well, the return to your earlier question,
+
+18:47.460 --> 18:48.620
+I mean, is that gonna increase?
+
+18:48.620 --> 18:50.300
+Well, sure, I mean, you know,
+
+18:50.300 --> 18:53.660
+Larry Page, the CEO, or Google,
+
+18:53.660 --> 18:56.780
+one of the founders of Google, certainly thinks that,
+
+18:57.660 --> 19:00.940
+I mean, he's in the book, I quote him in saying that,
+
+19:00.940 --> 19:04.940
+no, one day we'll have, he says, he hopes,
+
+19:04.940 --> 19:06.940
+that we'll have an implant that will allow us,
+
+19:06.940 --> 19:09.340
+a neural implant that will allow us to
+
+19:11.740 --> 19:13.260
+just think of a question, he says,
+
+19:13.260 --> 19:15.540
+and then get the answer, right?
+
+19:15.540 --> 19:20.540
+And if he's right that that was to come around someday,
+
+19:22.180 --> 19:25.660
+or even something closer, like an actual Google Contact,
+
+19:25.660 --> 19:27.300
+which they have been working on, right?
+
+19:27.300 --> 19:29.580
+They have a project, it's not very far along,
+
+19:29.580 --> 19:30.980
+but they have a project in which they'd like
+
+19:30.980 --> 19:34.540
+to take Google Glass and put it farther closer to the eye.
+
+19:34.540 --> 19:35.380
+Right.
+
+19:39.380 --> 19:42.220
+So even if that neural implant never comes to be,
+
+19:42.220 --> 19:45.340
+I mean, once you get the Google Contact
+
+19:45.340 --> 19:47.940
+as a possibility, and I think that could come along,
+
+19:49.220 --> 19:52.100
+then I think things will be even blurrier.
+
+19:53.420 --> 19:55.220
+I mean, one way to think about it, so,
+
+19:57.180 --> 20:00.180
+Sergey Brin once said, when they introduced Google Glass,
+
+20:00.180 --> 20:04.260
+he said, the greatness of this technology is that
+
+20:05.300 --> 20:07.620
+it's going to get technology out of the way,
+
+20:07.620 --> 20:09.380
+and what he meant by that, I know what he meant,
+
+20:09.380 --> 20:11.660
+he meant we won't have to fumble with our phones, right,
+
+20:11.660 --> 20:13.300
+to get it up on the internet,
+
+20:13.300 --> 20:14.660
+so I understood what he meant.
+
+20:14.660 --> 20:16.060
+But it's sort of ironic, isn't it,
+
+20:16.060 --> 20:19.620
+because Google Glass or Google Contact
+
+20:19.620 --> 20:21.700
+get technology out of the way
+
+20:21.700 --> 20:25.900
+by literally putting it in the way of innovation.
+
+20:25.900 --> 20:27.260
+Right.
+
+20:27.260 --> 20:30.780
+And if that isn't a metaphor for this blurriness
+
+20:30.780 --> 20:32.540
+that you're talking about online and off,
+
+20:32.540 --> 20:33.660
+I don't know what is.
+
+20:33.660 --> 20:36.380
+Isn't it the kind of a natural evolution, though,
+
+20:36.380 --> 20:41.100
+becoming a biological and technological hybrid,
+
+20:41.100 --> 20:44.340
+or in other words, human 2.0?
+
+20:44.340 --> 20:45.780
+Right.
+
+20:45.780 --> 20:48.060
+Yeah, so, I mean, the cyborgian of the human
+
+20:48.060 --> 20:49.580
+is certainly something that a lot of folks
+
+20:49.580 --> 20:51.900
+are interested in, and I think have been writing about,
+
+20:51.900 --> 20:53.220
+and I'm interested in, too,
+
+20:53.220 --> 20:56.380
+and I think we are moving towards that, human 2.0.
+
+20:56.380 --> 20:57.980
+And there could be a lot of benefits from that.
+
+20:57.980 --> 20:59.180
+I think there's a lot of benefits
+
+20:59.180 --> 21:00.980
+from information technology,
+
+21:00.980 --> 21:04.780
+including certain implants of various sorts
+
+21:04.780 --> 21:08.660
+that are wired to the internet in healthcare, right?
+
+21:08.660 --> 21:10.580
+I mean, there's lots of benefits that are,
+
+21:10.580 --> 21:12.180
+I think, could come from that.
+
+21:12.180 --> 21:15.300
+So I'm not saying that I'm just blatantly
+
+21:15.300 --> 21:16.420
+antagonistic to this.
+
+21:16.420 --> 21:18.220
+What I'm interested in, at all,
+
+21:18.220 --> 21:20.220
+what I'm interested in is thinking through
+
+21:20.220 --> 21:22.420
+the consequences of some of this technology,
+
+21:22.420 --> 21:25.580
+both ethically and epistemologically,
+
+21:25.580 --> 21:27.580
+and it would be great if once in our life,
+
+21:27.580 --> 21:29.700
+and once in human history,
+
+21:29.700 --> 21:31.620
+we actually thought through some of these consequences
+
+21:31.620 --> 21:34.420
+before we actually went and made the technology,
+
+21:34.420 --> 21:35.620
+but I don't really know about that.
+
+21:35.620 --> 21:37.060
+Yes, me neither.
+
+21:37.060 --> 21:41.540
+That would be, that's never happened before, so.
+
+21:41.540 --> 21:44.700
+What do you make of the court case between Apple and FBI?
+
+21:44.700 --> 21:46.940
+They dropped it, and then they came back and said,
+
+21:46.940 --> 21:49.140
+no, we need Apple, because-
+
+21:49.140 --> 21:51.140
+They dropped it, they said, oh, no, just kidding.
+
+21:51.140 --> 21:52.780
+They actually didn't.
+
+21:52.780 --> 21:54.020
+What do you make of that?
+
+21:54.020 --> 21:57.100
+But first of all, do you think the concept of privacy
+
+21:57.100 --> 22:00.260
+does even exist anymore?
+
+22:00.260 --> 22:04.380
+And if so, how we can protect it, and if not,
+
+22:04.380 --> 22:08.540
+what is the option going forward?
+
+22:08.540 --> 22:09.700
+Yeah.
+
+22:09.700 --> 22:12.500
+Okay, that's a bunch of really difficult questions
+
+22:12.500 --> 22:13.820
+and good ones.
+
+22:13.820 --> 22:18.820
+So, yeah, let's put off the Apple case for a second.
+
+22:19.300 --> 22:22.300
+I think that raises a bunch of interesting questions,
+
+22:23.620 --> 22:26.620
+but let's talk about, maybe I'll talk about your more,
+
+22:26.620 --> 22:28.660
+the general questions about privacy first.
+
+22:29.740 --> 22:31.940
+So does the concept of privacy,
+
+22:31.940 --> 22:34.140
+is it even relevant anymore?
+
+22:34.140 --> 22:36.820
+That's one way of understanding what you were asking me.
+
+22:36.820 --> 22:38.140
+I think yes, it is.
+
+22:38.140 --> 22:40.940
+So I don't think it's an outdated value.
+
+22:42.340 --> 22:44.860
+I think Jeremy Rifkin and others have argued
+
+22:44.860 --> 22:48.940
+that it's a bourgeois value, it was an architect
+
+22:48.940 --> 22:52.060
+of the Victorian age and so forth and so on.
+
+22:52.060 --> 22:56.140
+I think that's just a mistake.
+
+22:56.140 --> 22:58.500
+Yeah, Jeremy Rifkin is the author of the book,
+
+22:58.500 --> 23:02.380
+Zero Margin Society, a very interesting concept.
+
+23:02.380 --> 23:03.220
+Yeah, please continue.
+
+23:03.220 --> 23:05.300
+Yeah, indeed, and I think it is a very interesting book,
+
+23:05.300 --> 23:07.780
+but I disagree with him on this point.
+
+23:07.780 --> 23:12.780
+I think that one reason to think that it's not an outmoded
+
+23:16.980 --> 23:20.180
+notion is to realize what the roots of the notion are.
+
+23:24.060 --> 23:26.580
+If we think about why privacy matters
+
+23:26.580 --> 23:29.300
+and its philosophical roots,
+
+23:29.300 --> 23:31.420
+you'll see that it actually is based, I think,
+
+23:31.420 --> 23:34.740
+in our very psychology as human beings.
+
+23:34.740 --> 23:37.980
+So part of what we think makes a difference
+
+23:37.980 --> 23:41.220
+between you and I and minds in general
+
+23:41.220 --> 23:44.580
+is that our thoughts are, in a sense, our own.
+
+23:47.260 --> 23:48.540
+We can have this conversation
+
+23:48.540 --> 23:51.900
+and we can sort of infer what we're thinking
+
+23:51.900 --> 23:53.300
+and so forth as you do.
+
+23:54.460 --> 23:57.260
+But of course, what makes you different than I
+
+23:57.260 --> 23:58.340
+is that your thoughts are your thoughts,
+
+23:58.340 --> 23:59.300
+my thoughts are my thoughts,
+
+23:59.300 --> 24:01.380
+and you can share those thoughts with me,
+
+24:01.380 --> 24:05.820
+but if you don't, then I'm not necessarily
+
+24:05.820 --> 24:07.620
+gonna be able to feel or experience
+
+24:07.620 --> 24:09.580
+what you've felt or experienced.
+
+24:09.580 --> 24:10.980
+They're private in that sense,
+
+24:10.980 --> 24:12.180
+and that's the fact that very term
+
+24:12.180 --> 24:14.220
+that philosophers have used for a long time,
+
+24:14.220 --> 24:17.660
+that a mark of a human being's psychology
+
+24:17.660 --> 24:20.460
+is that we have a special relationship to our psychology
+
+24:20.460 --> 24:23.660
+that we don't have to us, to other people's psychology.
+
+24:24.660 --> 24:25.500
+And we value that.
+
+24:25.500 --> 24:28.420
+We value our sort of subjectivity, our individuality.
+
+24:28.420 --> 24:30.980
+And as a result, we value the sort of privacy,
+
+24:30.980 --> 24:33.540
+the control and protection
+
+24:33.540 --> 24:34.980
+that we can give to our own thoughts.
+
+24:34.980 --> 24:35.820
+And that's really, I think,
+
+24:35.820 --> 24:37.780
+the philosophical root of privacy.
+
+24:37.780 --> 24:40.300
+And I don't think that the notion of,
+
+24:40.300 --> 24:42.980
+I don't think individuality or subjectivity
+
+24:42.980 --> 24:46.180
+is something that was just recently invented.
+
+24:46.180 --> 24:48.420
+I think it's a human being's been around
+
+24:48.420 --> 24:49.660
+for longer than that.
+
+24:50.900 --> 24:52.380
+But why does it matter?
+
+24:52.380 --> 24:53.860
+That's a different question.
+
+24:53.860 --> 24:54.780
+Why does privacy matter?
+
+24:54.780 --> 24:58.700
+I think privacy matters both for, still today,
+
+24:58.700 --> 25:03.700
+for certain obvious reasons and less obvious reasons.
+
+25:04.580 --> 25:06.420
+The obvious reasons are that,
+
+25:06.420 --> 25:10.300
+the reason I don't want the NSA poking around in my emails
+
+25:10.300 --> 25:12.340
+is partly because they might do,
+
+25:12.340 --> 25:13.660
+they might, I don't know what they're gonna do
+
+25:13.660 --> 25:15.620
+with that information, right?
+
+25:15.620 --> 25:18.340
+And we, in general, we don't want people
+
+25:18.340 --> 25:19.460
+breaking into our phone,
+
+25:19.460 --> 25:21.900
+whether it's the FBI or otherwise,
+
+25:21.900 --> 25:26.260
+because that gives them some measure of control.
+
+25:26.260 --> 25:28.260
+If they know certain information about me,
+
+25:28.260 --> 25:30.140
+they could control me in some way.
+
+25:30.140 --> 25:32.740
+And so, that's a sort of obvious point, right?
+
+25:34.380 --> 25:35.740
+But even that obvious point
+
+25:35.740 --> 25:39.660
+is sometimes missed by certain politicians.
+
+25:39.660 --> 25:41.420
+So, Mike Rogers, for example,
+
+25:41.420 --> 25:43.660
+a Republican, conservative Republican
+
+25:44.940 --> 25:48.180
+from Pennsylvania in the United States,
+
+25:48.180 --> 25:49.660
+at one point in a congressional hearing said,
+
+25:49.660 --> 25:52.100
+look, I don't know what this problem with the NSA is.
+
+25:52.100 --> 25:55.380
+If people don't know about the fact that they're being,
+
+25:55.380 --> 25:58.420
+their privacy is being, then what's the harm?
+
+25:58.420 --> 25:59.900
+If you don't know, there's no harm.
+
+25:59.900 --> 26:02.380
+Which was really only consoling
+
+26:02.380 --> 26:04.300
+to peeping Toms everywhere, right?
+
+26:04.300 --> 26:07.020
+Do you think he, for example, really believes in that,
+
+26:07.020 --> 26:12.020
+or he's using that as an excuse to push his agenda,
+
+26:12.820 --> 26:14.380
+which is a party agenda?
+
+26:14.380 --> 26:16.140
+Well, that's a perennial, I mean,
+
+26:17.580 --> 26:18.540
+let me put it this way.
+
+26:18.540 --> 26:20.580
+I think almost the more charitable reading
+
+26:20.580 --> 26:22.460
+is that he actually believed it when he said it,
+
+26:22.460 --> 26:24.980
+and he just hadn't thought it through.
+
+26:24.980 --> 26:26.380
+That's the more charitable reason.
+
+26:26.380 --> 26:27.220
+That's a great quality for a politician.
+
+26:27.220 --> 26:28.900
+Because if he's using that sort of reasoning
+
+26:28.900 --> 26:31.620
+to push his party's agenda, then good luck to him.
+
+26:31.620 --> 26:32.460
+Yeah.
+
+26:33.220 --> 26:36.060
+So, I think it might've been he just,
+
+26:36.060 --> 26:38.860
+he hadn't thought through the logic of what he was saying.
+
+26:38.860 --> 26:41.220
+Of course, we think in some ways that if we don't,
+
+26:41.220 --> 26:44.100
+if you break it in my house and into my computer
+
+26:44.100 --> 26:46.060
+and steal all my financial information,
+
+26:46.060 --> 26:48.060
+then even if I don't know about it until later,
+
+26:48.060 --> 26:50.020
+like when you drain my bank account,
+
+26:50.020 --> 26:52.460
+it's still bad when you did it, right?
+
+26:53.740 --> 26:55.820
+So, partly because of consequences.
+
+26:55.820 --> 26:57.420
+But there are even less obvious,
+
+26:57.420 --> 27:00.020
+but more fundamental reasons to be concerned about privacy
+
+27:00.020 --> 27:01.780
+and information privacy.
+
+27:01.780 --> 27:03.700
+And that has to do with our autonomy.
+
+27:03.700 --> 27:05.020
+It gets back to my first point
+
+27:05.020 --> 27:07.060
+about the origin of the notion.
+
+27:07.060 --> 27:12.060
+Look, if you, suppose you, again, break into my phone
+
+27:15.220 --> 27:16.780
+or whatever, you hack my phone,
+
+27:16.780 --> 27:19.860
+and you get the content of my phone,
+
+27:20.780 --> 27:22.980
+various contents, the emails and the like.
+
+27:24.540 --> 27:27.980
+But suppose you do that only as a scientific experiment,
+
+27:27.980 --> 27:29.500
+but you don't do anything with it.
+
+27:29.500 --> 27:33.340
+You just, you don't use it to blackmail me or anything,
+
+27:33.340 --> 27:34.580
+right, or whatever.
+
+27:39.340 --> 27:40.500
+Is it still wrong?
+
+27:40.500 --> 27:42.300
+Well, it is.
+
+27:42.300 --> 27:43.820
+And a side to that is still wrong
+
+27:43.820 --> 27:45.060
+is that we find things like that,
+
+27:45.060 --> 27:47.660
+or people, an older example would be somebody reading
+
+27:47.660 --> 27:49.300
+your diary or something, right?
+
+27:49.300 --> 27:51.260
+But not doing anything with it.
+
+27:51.260 --> 27:53.660
+Would you, if you found that out later, right?
+
+27:53.660 --> 27:55.540
+Even though that later, like, you know,
+
+27:55.540 --> 27:58.340
+you realize that person never did anything,
+
+27:58.340 --> 27:59.940
+you would still be creeped out by that.
+
+27:59.940 --> 28:00.980
+Of course.
+
+28:00.980 --> 28:01.820
+You shouldn't do that.
+
+28:01.820 --> 28:03.140
+Well, why not?
+
+28:03.140 --> 28:06.260
+Well, because, because you can imagine the other person saying,
+
+28:06.260 --> 28:07.660
+well, I never did anything, right?
+
+28:07.660 --> 28:09.140
+Well, that wouldn't matter.
+
+28:09.140 --> 28:11.020
+Because you violated my autonomy.
+
+28:11.020 --> 28:14.100
+I didn't choose to share that information, right?
+
+28:14.100 --> 28:16.220
+In this case, or you didn't choose to share it.
+
+28:16.220 --> 28:18.780
+So what I did is I sort of made the decision
+
+28:18.780 --> 28:20.540
+to share or not to share moot.
+
+28:20.540 --> 28:24.020
+It would be, it's similar to if a doctor gives you
+
+28:24.020 --> 28:25.540
+a drug without your permission,
+
+28:25.540 --> 28:28.740
+even though the drug helps you out, there's a problem there.
+
+28:28.740 --> 28:30.100
+Why do we think it's a problem?
+
+28:30.100 --> 28:33.820
+Because I didn't get, I wasn't in on the decision.
+
+28:33.820 --> 28:35.900
+The decision was made for me.
+
+28:35.900 --> 28:37.940
+Now, the doctor case shows us that, in fact,
+
+28:37.940 --> 28:40.500
+there are times where we think that privacy invasion
+
+28:40.500 --> 28:42.580
+are justified, just as we think that there are times
+
+28:42.580 --> 28:44.220
+in which the doctor giving you a shot
+
+28:44.220 --> 28:46.540
+or doing a medical procedure is justified
+
+28:46.540 --> 28:48.500
+even if you're not conscious, right?
+
+28:48.500 --> 28:50.260
+Because in an emergency, right?
+
+28:50.260 --> 28:52.620
+We don't, the emergency physicians don't, you know,
+
+28:52.620 --> 28:55.940
+look, if you're dying of some problem
+
+28:55.940 --> 28:59.820
+or you're in grave medical condition,
+
+28:59.820 --> 29:01.980
+they have, they're justified in acting
+
+29:01.980 --> 29:03.780
+even if they don't have your consent.
+
+29:04.660 --> 29:07.260
+But, and that's the case.
+
+29:07.260 --> 29:09.180
+And sometimes we think of privacy cases, right?
+
+29:09.180 --> 29:11.620
+We think that other matters, other values
+
+29:11.620 --> 29:13.900
+might supersede it, right?
+
+29:13.900 --> 29:16.020
+And so that's understandable.
+
+29:16.020 --> 29:18.460
+But it's still the case that there is this fundamental
+
+29:18.460 --> 29:20.620
+reason to be worried about privacy
+
+29:20.620 --> 29:23.460
+that has nothing to do with consequences, right?
+
+29:23.460 --> 29:28.340
+Even in the case where the invasion of my privacy
+
+29:28.340 --> 29:30.140
+has no bad effects on me,
+
+29:30.140 --> 29:32.980
+there's still something wrong about it.
+
+29:32.980 --> 29:34.740
+And that is a point that's often missed,
+
+29:34.740 --> 29:36.060
+I think, in these debates.
+
+29:36.060 --> 29:37.340
+Absolutely.
+
+29:37.340 --> 29:39.380
+The book is called The Internet of Us,
+
+29:39.380 --> 29:42.660
+Knowing More and Understanding Less in the Age of Big Data.
+
+29:42.660 --> 29:45.780
+It came out in March 21st, I think.
+
+29:45.780 --> 29:47.860
+That's right. This year, yeah.
+
+29:47.860 --> 29:50.260
+In Canada, I think next week.
+
+29:50.260 --> 29:52.300
+Oh, it's not available in Canada yet?
+
+29:52.300 --> 29:53.140
+I don't know.
+
+29:53.140 --> 29:55.980
+I think it comes out in Canada next week
+
+29:55.980 --> 29:58.340
+or maybe, right, maybe this week.
+
+29:58.340 --> 29:59.420
+Oh, excellent.
+
+30:01.020 --> 30:04.820
+Mark Goodman, in his book, The Future Crimes,
+
+30:04.820 --> 30:08.020
+make an argument that we have two kinds of computers,
+
+30:08.020 --> 30:09.940
+the computers that have been hacked already
+
+30:09.940 --> 30:12.460
+or haven't been hacked yet.
+
+30:12.460 --> 30:16.780
+So speaking of privacy, what...
+
+30:16.780 --> 30:18.500
+That's almost, yeah.
+
+30:18.500 --> 30:21.620
+Yeah, what kinds of measures do you think we can take
+
+30:21.620 --> 30:26.620
+as members of general public to secure ourself
+
+30:26.740 --> 30:30.780
+from intrusion of, well, police is one side of the story,
+
+30:30.780 --> 30:32.860
+but the other side are hackers.
+
+30:32.860 --> 30:36.180
+The other side is what's going on in deep web and darknet.
+
+30:36.180 --> 30:37.980
+Yeah, darknet and deep web.
+
+30:41.060 --> 30:44.700
+Well, as a philosopher, first, let me say,
+
+30:44.700 --> 30:47.060
+because that's a practical question.
+
+30:47.060 --> 30:49.260
+I am not, you know, if you want to know
+
+30:50.500 --> 30:52.700
+how to protect yourself in a practical way,
+
+30:52.700 --> 30:55.340
+don't ask a philosopher because that's a practical question
+
+30:55.340 --> 30:59.100
+and practical questions are not our forte.
+
+31:00.500 --> 31:02.180
+What I do think, I mean,
+
+31:02.180 --> 31:03.820
+but I don't want to punt completely on the question.
+
+31:03.820 --> 31:08.820
+I think actually, as Snowden pointed out,
+
+31:10.860 --> 31:13.380
+probably the easiest thing to do to protect yourself
+
+31:13.380 --> 31:17.260
+is to try to use sort of reasonable,
+
+31:17.260 --> 31:20.340
+sensible policies on passwords,
+
+31:20.340 --> 31:23.020
+the sort of passwords, policies that people have.
+
+31:23.020 --> 31:25.580
+I mean, that's not gonna protect you completely, obviously.
+
+31:25.580 --> 31:27.260
+I mean, nothing can protect you completely.
+
+31:27.260 --> 31:28.940
+There is no such thing as complete protection.
+
+31:28.940 --> 31:29.780
+That's right.
+
+31:29.780 --> 31:31.020
+Not anymore, I guess, yes.
+
+31:31.020 --> 31:34.460
+Not anymore, and probably even with any technology, right?
+
+31:34.460 --> 31:39.140
+Any technology can be broken.
+
+31:39.140 --> 31:43.300
+The Enigma code was broken by Alan Turing and others,
+
+31:43.300 --> 31:46.940
+and that was a pretty damn good technology for encryption.
+
+31:47.860 --> 31:49.820
+So there's just more or less difficult,
+
+31:51.580 --> 31:52.420
+there's techniques.
+
+31:52.420 --> 31:55.580
+Now, I mean, there might be logical limits to,
+
+31:55.580 --> 31:58.660
+but I mean, quantum, I mean, yeah.
+
+31:58.660 --> 32:00.020
+Let's just leave it at that.
+
+32:00.020 --> 32:02.100
+Practically speaking, there's no safeguard
+
+32:02.100 --> 32:04.660
+that can't be gotten around.
+
+32:04.660 --> 32:09.660
+However, you can protect yourself by engaging in more,
+
+32:11.660 --> 32:13.900
+and pretty much just following the things
+
+32:13.900 --> 32:16.660
+that the IT people will tell you to do on day one.
+
+32:17.820 --> 32:20.060
+I referenced Snowden because he was on,
+
+32:21.700 --> 32:24.740
+at one point interviewed, I think on 60 Minutes,
+
+32:24.740 --> 32:25.980
+so don't quote me on that.
+
+32:25.980 --> 32:27.860
+You can Google it and find out, I suppose.
+
+32:27.860 --> 32:31.940
+But just telling people the very basic things
+
+32:31.940 --> 32:35.060
+about encryption and password protection,
+
+32:35.060 --> 32:35.900
+and those things, I think,
+
+32:35.900 --> 32:38.260
+are probably the best things you can do.
+
+32:38.260 --> 32:40.140
+Now, I think for those of you,
+
+32:40.140 --> 32:41.260
+for those of your listeners
+
+32:41.260 --> 32:43.180
+that actually know something about encryption,
+
+32:43.180 --> 32:44.980
+there's a whole bunch of much more sophisticated things
+
+32:44.980 --> 32:47.940
+to do, but they don't need a philosopher to tell them that.
+
+32:47.940 --> 32:49.740
+But for folks who don't know anything,
+
+32:50.780 --> 32:55.780
+not giving your middle name as your password
+
+32:55.780 --> 32:58.180
+and using different passwords for different sites,
+
+32:58.180 --> 32:59.620
+those sort of basic things,
+
+33:01.140 --> 33:03.740
+it's sort of like locking your door on your apartment.
+
+33:03.740 --> 33:05.700
+That's right, exactly.
+
+33:05.700 --> 33:08.340
+Can the person who wants to get in your apartment
+
+33:08.340 --> 33:11.220
+through that lock and who is a professional do it?
+
+33:11.220 --> 33:12.060
+Yep.
+
+33:13.460 --> 33:18.140
+Is it gonna be dissuaded, however, some folks,
+
+33:18.140 --> 33:22.060
+if there's just a lock or two on your apartment?
+
+33:22.060 --> 33:23.380
+Yep.
+
+33:23.380 --> 33:25.060
+Both things are true.
+
+33:25.060 --> 33:26.540
+You can't stop everybody,
+
+33:26.540 --> 33:28.860
+but you can slow people down
+
+33:28.860 --> 33:31.620
+and make it more of a pain in the butt
+
+33:31.620 --> 33:33.180
+for them to evade your privacy.
+
+33:33.180 --> 33:34.580
+Yes, very true.
+
+33:34.580 --> 33:36.580
+Speaking of your book,
+
+33:36.580 --> 33:37.940
+another concept that you talk about
+
+33:37.940 --> 33:40.220
+is extended knowledge hypothesis,
+
+33:40.220 --> 33:44.980
+and I'll be very interested for you to expand a little bit
+
+33:44.980 --> 33:46.780
+on that concept as well.
+
+33:46.780 --> 33:49.660
+Sure, that I think relates in some ways in my own mind
+
+33:49.660 --> 33:54.500
+to the privacy debate as well.
+
+33:54.500 --> 33:58.980
+Extended knowledge hypothesis is a variation
+
+34:00.500 --> 34:03.460
+or an implementation of another hypothesis,
+
+34:03.460 --> 34:05.940
+which is called the extended mind hypothesis
+
+34:05.940 --> 34:08.500
+due to the philosophers Andy Clark and Ann Burrow
+
+34:08.500 --> 34:10.300
+and David Chalmers, who's in New York.
+
+34:11.620 --> 34:14.420
+Those philosophers 20 years ago suggested
+
+34:14.420 --> 34:17.580
+that it's possible that our mental states,
+
+34:17.580 --> 34:24.860
+like the state of memory, might already be extended
+
+34:24.860 --> 34:28.180
+to things like books or notepads.
+
+34:28.180 --> 34:31.740
+Their example, this was pre-smartphone days,
+
+34:31.740 --> 34:33.820
+was that if you just took a shopping list,
+
+34:33.820 --> 34:37.940
+you were extending your memory to the list.
+
+34:37.940 --> 34:39.980
+What they meant by that is
+
+34:39.980 --> 34:44.100
+there's sort of an innocent way to read that,
+
+34:44.100 --> 34:46.620
+and one innocent way to read that is that they're just saying
+
+34:46.620 --> 34:49.780
+that, oh, shopping lists are good aids to memory,
+
+34:49.780 --> 34:51.900
+or the iPhone is a good aid to your memory.
+
+34:51.900 --> 34:52.940
+No, no, no, no, no.
+
+34:52.940 --> 34:55.420
+They mean something much more radical than that.
+
+34:55.420 --> 34:59.980
+What they mean is your memory state itself,
+
+34:59.980 --> 35:02.580
+the actual state of your memory, your memory,
+
+35:02.580 --> 35:05.540
+actually part of it is that piece of paper.
+
+35:05.540 --> 35:06.780
+In other words, your mental states,
+
+35:06.780 --> 35:09.940
+your psychological states are partly composed of paper.
+
+35:11.060 --> 35:13.300
+That's the extended mind thesis.
+
+35:13.300 --> 35:19.020
+Your mind extends beyond the bounds of your skull.
+
+35:19.020 --> 35:20.940
+The biological, the structure.
+
+35:20.940 --> 35:24.580
+Yeah, exactly, beyond the biological structure.
+
+35:24.580 --> 35:28.340
+Now, the extended knowledge hypothesis
+
+35:28.340 --> 35:32.460
+is something similar to that, but could be held independently.
+
+35:32.460 --> 35:34.740
+I'm sort of agnostic about the extended mind thesis.
+
+35:34.740 --> 35:35.740
+I think it might be true,
+
+35:35.740 --> 35:37.620
+but there's some good objections against it,
+
+35:37.620 --> 35:42.100
+which might not be relevant to mention here.
+
+35:42.100 --> 35:45.180
+But I'm like, oh, well, let's see how it goes.
+
+35:45.180 --> 35:47.060
+Let's see how things sort of unfold,
+
+35:47.060 --> 35:49.500
+and maybe it will turn out to be true,
+
+35:49.500 --> 35:50.820
+or maybe it's true about some states,
+
+35:50.820 --> 35:52.700
+but not others, and so forth.
+
+35:52.700 --> 35:54.300
+I think that's probably the case.
+
+35:55.500 --> 35:57.420
+But you could still, independently of that,
+
+35:57.420 --> 36:01.540
+hold that our knowledge processing is extended.
+
+36:01.540 --> 36:02.940
+That is, you might think that,
+
+36:02.940 --> 36:05.500
+even if my mind isn't completely extended,
+
+36:06.540 --> 36:09.900
+the ways in which the processes that I use
+
+36:09.900 --> 36:14.580
+to form beliefs are belief-forming processes.
+
+36:14.580 --> 36:16.940
+That is, the processes that I use
+
+36:16.940 --> 36:20.140
+to form an opinion about a piece of information,
+
+36:20.140 --> 36:25.140
+to process information, might themselves be extended,
+
+36:25.340 --> 36:30.340
+and I think are extended to our digital devices.
+
+36:34.100 --> 36:36.660
+And I think extended to each, actually, other people.
+
+36:36.660 --> 36:38.620
+I think that when I ask somebody
+
+36:38.620 --> 36:40.340
+and the philosopher Sandy Goldberg
+
+36:40.340 --> 36:42.580
+has said this sort of thing, he says,
+
+36:42.580 --> 36:45.220
+look, even in testimony, if I stop somebody on the street
+
+36:45.220 --> 36:47.780
+and ask them how to get to the restaurant,
+
+36:48.660 --> 36:51.100
+then the process by which I'm forming that belief
+
+36:51.100 --> 36:54.100
+is extended, both what's going on in my head,
+
+36:54.100 --> 36:55.780
+as I'm listening to them,
+
+36:55.780 --> 36:58.540
+there's also what they're doing and their expertise.
+
+36:58.540 --> 37:02.460
+So if I end up knowing where the restaurant is
+
+37:02.460 --> 37:05.460
+on the basis of that testimony that they gave me,
+
+37:05.460 --> 37:07.420
+it's because their testimony was accurate.
+
+37:07.420 --> 37:09.020
+But their testimony was accurate
+
+37:09.020 --> 37:11.580
+based on what's happened to them, right?
+
+37:11.580 --> 37:13.340
+That depends on them,
+
+37:13.340 --> 37:14.740
+whether they've been to the restaurant before
+
+37:14.740 --> 37:15.580
+and they know where they are
+
+37:15.580 --> 37:18.580
+and they know how to get there, stuff like that.
+
+37:18.580 --> 37:20.460
+So I think that's persuasive,
+
+37:20.460 --> 37:24.740
+and I think that it also means that much of what we know
+
+37:24.740 --> 37:27.580
+today, Google knowing, is extended in just this way.
+
+37:27.580 --> 37:30.900
+I think that's what makes Google knowing really interesting,
+
+37:30.900 --> 37:32.620
+is that when we Google know,
+
+37:32.620 --> 37:37.500
+we're radically dependent on what's going on elsewhere
+
+37:37.500 --> 37:42.180
+in space, that is, what's going on with these devices,
+
+37:42.180 --> 37:45.900
+whether the, what's going on with the software,
+
+37:45.900 --> 37:47.940
+the hardware, and the people that of course
+
+37:47.940 --> 37:49.500
+program those devices.
+
+37:49.500 --> 37:52.220
+All those facts are part of the process
+
+37:52.220 --> 37:53.780
+of our information processing.
+
+37:53.780 --> 37:57.380
+So that in a sense, when we know what we know,
+
+37:57.380 --> 37:58.380
+when we Google know,
+
+37:59.900 --> 38:02.500
+if you asked where is the knowledge,
+
+38:02.500 --> 38:03.900
+the knowledge is distributed.
+
+38:05.540 --> 38:09.260
+And in that sense, knowledge is networked,
+
+38:09.260 --> 38:11.260
+which is something people a lot of times say,
+
+38:11.260 --> 38:14.700
+but they often don't, I think, really know what they mean.
+
+38:14.700 --> 38:17.980
+But that's what I mean when I say,
+
+38:17.980 --> 38:19.380
+in the truest sense of the word,
+
+38:19.380 --> 38:21.100
+knowledge is networked now,
+
+38:21.100 --> 38:24.180
+because it's actually to know in the Google sense
+
+38:24.180 --> 38:26.540
+requires a network, and in fact,
+
+38:26.540 --> 38:29.740
+that network is part of your information processing system.
+
+38:29.740 --> 38:31.820
+So that's the thesis of extended knowledge.
+
+38:31.820 --> 38:35.260
+Speaking of distributed knowledge and learning,
+
+38:36.340 --> 38:38.140
+as we create more information,
+
+38:38.140 --> 38:40.900
+it's becoming harder to analyze that information,
+
+38:40.900 --> 38:42.700
+and that's where machine learning
+
+38:42.700 --> 38:44.500
+and artificial intelligence becoming
+
+38:44.500 --> 38:47.220
+more and more important, I think,
+
+38:47.220 --> 38:48.980
+to process that information.
+
+38:48.980 --> 38:52.060
+One good example in, I think, about a month ago,
+
+38:52.060 --> 38:56.060
+that Microsoft artificial intelligence was put on Twitter,
+
+38:56.060 --> 38:58.980
+and almost overnight, it turned into
+
+38:58.980 --> 39:01.180
+a Hitler-loving sex addict.
+
+39:01.180 --> 39:02.020
+Right.
+
+39:02.020 --> 39:03.340
+So what do you make of that,
+
+39:03.340 --> 39:07.860
+and how do you see the progress of artificial intelligence?
+
+39:10.180 --> 39:12.820
+And then I wanna speak to you as a philosopher
+
+39:12.820 --> 39:16.780
+about the concept of ethics in artificial intelligence.
+
+39:16.780 --> 39:17.620
+Sure.
+
+39:18.660 --> 39:23.660
+So, yeah, so that was something that actually
+
+39:23.660 --> 39:25.220
+I've been sort of noodling about,
+
+39:25.220 --> 39:28.700
+that example of the bot,
+
+39:28.700 --> 39:33.700
+that overnight sort of became this racist, sexist monster
+
+39:33.940 --> 39:35.540
+and had to be shut down.
+
+39:35.540 --> 39:37.460
+Now, there was a reason for that, of course,
+
+39:37.460 --> 39:41.780
+which is that the way it was constructed
+
+39:41.780 --> 39:45.100
+and how it was trained to train itself
+
+39:45.100 --> 39:49.900
+was to listen, in a sense, to what other people said to it
+
+39:49.900 --> 39:52.500
+and the sorts of questions that they asked it,
+
+39:52.500 --> 39:55.300
+and it would abstract from those questions
+
+39:55.300 --> 39:57.700
+and make certain inferences from those questions,
+
+39:57.700 --> 40:01.700
+and of course, I mean, I think there was,
+
+40:01.700 --> 40:04.140
+in this particular case, there were some people
+
+40:04.140 --> 40:09.140
+that cottoned on to the fact that this was going on, right,
+
+40:10.180 --> 40:13.660
+and sort of deliberately did this.
+
+40:13.660 --> 40:15.780
+I'm not sure that everybody was sort of aware
+
+40:15.780 --> 40:19.500
+of what was going on, and that's not surprising
+
+40:19.500 --> 40:24.500
+because as you may know, social bots,
+
+40:24.860 --> 40:26.660
+bots in general all over the web,
+
+40:26.660 --> 40:30.380
+I mean, Twitter tried to ban them for a while,
+
+40:30.380 --> 40:33.180
+I mean, they're not hard,
+
+40:33.180 --> 40:35.180
+you make a bazillion of them there,
+
+40:36.100 --> 40:40.820
+and if you're, we all probably have our own techniques
+
+40:40.820 --> 40:43.900
+for trying to spot when one pops up
+
+40:43.900 --> 40:46.700
+and asks for a Facebook to be our Facebook friend,
+
+40:46.700 --> 40:53.700
+but what does that tell us, this fact that this bot became so
+
+40:57.980 --> 41:00.740
+biased so quickly, so hateful?
+
+41:00.740 --> 41:02.540
+Well, it says, it tells us exactly
+
+41:02.540 --> 41:04.860
+what we started out talking about.
+
+41:04.860 --> 41:06.700
+The internet is the greatest fact checker
+
+41:06.700 --> 41:09.180
+and also the greatest bias-confirmer
+
+41:09.180 --> 41:12.420
+in the history of history.
+
+41:12.420 --> 41:17.420
+What I remember when I said earlier about social media,
+
+41:20.060 --> 41:22.140
+you've got to concentrate on the social,
+
+41:22.140 --> 41:26.420
+the biases that in fact are offline life,
+
+41:26.420 --> 41:29.500
+in fact are online life, and actually our online life
+
+41:29.500 --> 41:33.340
+makes those biases, tendency to make those biases
+
+41:35.700 --> 41:39.340
+more entrenched and more visible in certain ways.
+
+41:39.340 --> 41:43.220
+Some of that has to do with the fact that much of web life
+
+41:43.220 --> 41:46.740
+is or can be more anonymous than offline life,
+
+41:46.740 --> 41:48.300
+but that's not the only reason.
+
+41:50.140 --> 41:52.220
+But I think that that is really what's going on,
+
+41:52.220 --> 41:55.100
+that's what that illustrates, that's a perfect illustration
+
+41:55.100 --> 41:56.860
+of the way in which social media,
+
+41:56.860 --> 41:59.020
+far from connecting us in certain ways,
+
+41:59.020 --> 42:04.020
+has made us exemplify those traits that don't connect us,
+
+42:06.500 --> 42:07.340
+and that's worrying,
+
+42:07.340 --> 42:09.420
+and we need to figure out ways to fix that.
+
+42:10.380 --> 42:12.500
+Because social media is not going away.
+
+42:12.500 --> 42:13.700
+I'm not going to stop using it.
+
+42:13.700 --> 42:15.140
+It's expanding.
+
+42:15.140 --> 42:16.100
+It's expanding.
+
+42:16.100 --> 42:18.340
+So we better start paying attention to this right now.
+
+42:18.340 --> 42:22.260
+And if that example of the social bot isn't going to,
+
+42:22.260 --> 42:25.940
+if that, it just crystallizes the point.
+
+42:25.940 --> 42:26.780
+Right.
+
+42:26.780 --> 42:27.620
+So, yeah.
+
+42:27.620 --> 42:30.940
+I just wanted to talk about artificial intelligence.
+
+42:30.940 --> 42:35.300
+There is a great discussion around the potential dangers
+
+42:35.300 --> 42:38.020
+of artificial intelligence and how unpredictable
+
+42:38.020 --> 42:39.220
+it's going to be.
+
+42:39.220 --> 42:41.140
+And one of the ways that it's been suggested-
+
+42:41.140 --> 42:42.220
+When we reach the singularity.
+
+42:42.220 --> 42:43.300
+Yes, yeah.
+
+42:44.540 --> 42:46.780
+One of the ways that maybe we can control
+
+42:46.780 --> 42:49.300
+or try to understand artificial intelligence
+
+42:49.300 --> 42:51.860
+is to put our own ethics into the machine
+
+42:51.860 --> 42:56.340
+so the machine will operate based on those ethics.
+
+42:56.340 --> 42:57.180
+Yeah.
+
+42:57.180 --> 43:02.180
+Do you think ethics is objective to begin with
+
+43:02.180 --> 43:06.460
+and how it will translate from humanity into machine?
+
+43:08.580 --> 43:10.700
+Those are two really great,
+
+43:10.700 --> 43:13.540
+another great couple of questions.
+
+43:15.020 --> 43:18.540
+So the first question is very complicated to answer,
+
+43:18.540 --> 43:20.020
+but I have a lot of opinions about,
+
+43:20.020 --> 43:21.540
+but I'll try to crystallize them.
+
+43:21.540 --> 43:24.100
+Yeah, short order is I think it's objective.
+
+43:24.100 --> 43:26.780
+I think, so a lot of my work in the past
+
+43:26.780 --> 43:28.860
+has been on the nature of truth and objectivity.
+
+43:28.860 --> 43:32.660
+That's what I sort of, as a philosopher, have worked on.
+
+43:32.660 --> 43:36.500
+And so I have views about that.
+
+43:37.460 --> 43:40.220
+To summarize them, I think that ethics is objective.
+
+43:40.220 --> 43:42.340
+Its objectivity, though, isn't in the same,
+
+43:42.340 --> 43:46.820
+doesn't consist in the same set of features,
+
+43:46.820 --> 43:50.220
+or it's not the same in its character
+
+43:50.220 --> 43:53.500
+as the objectivity of, let's say, physics.
+
+43:55.300 --> 43:56.940
+And in other words, what I mean by that
+
+43:56.940 --> 44:00.620
+is when I say something like grass is green
+
+44:00.620 --> 44:03.060
+or that grass is green pointing to some grass,
+
+44:05.020 --> 44:08.740
+that truth sort of depends on whether,
+
+44:08.740 --> 44:10.900
+if that is true, it depends on whether there's grass
+
+44:10.900 --> 44:13.060
+that actually is green that I'm pointing at.
+
+44:14.860 --> 44:17.020
+So the truth sort of depends on whether it corresponds
+
+44:17.020 --> 44:19.260
+to some objective facts in the world.
+
+44:19.260 --> 44:21.780
+Well, ethics, it's much harder to point to anything.
+
+44:22.820 --> 44:24.420
+You can't point to a human right.
+
+44:24.420 --> 44:26.660
+You can point to what you think is an example
+
+44:26.660 --> 44:29.180
+of a human right or violations of it,
+
+44:29.180 --> 44:32.380
+but a human right is an abstract notion, right?
+
+44:33.780 --> 44:36.220
+So, but of course there are other abstract things
+
+44:36.220 --> 44:39.140
+like numbers that we think that are objective truths about.
+
+44:39.140 --> 44:40.460
+I don't think you can point to a number.
+
+44:40.460 --> 44:42.220
+You can point to a numeral.
+
+44:42.220 --> 44:44.900
+I can write one down on the whiteboard behind me.
+
+44:44.900 --> 44:47.740
+But of course, if I erase that number off a whiteboard,
+
+44:47.740 --> 44:49.500
+it's not like I killed the number seven.
+
+44:49.500 --> 44:51.500
+Oh my God, the number seven's gone away!
+
+44:51.500 --> 44:55.100
+Oh my God, the number seven's gone away, right?
+
+44:55.100 --> 44:59.060
+I just killed, I just erased a sign for the number seven.
+
+44:59.060 --> 45:04.060
+And so there are abstract entities that we can talk about
+
+45:04.460 --> 45:08.540
+that are objective or our thoughts about them
+
+45:08.540 --> 45:09.700
+can be objective.
+
+45:09.700 --> 45:14.700
+And so I think that the nature of objectivity changes
+
+45:15.500 --> 45:18.100
+in those domains, but there's still objectivity.
+
+45:18.100 --> 45:20.940
+So yeah, the short answer is that I think there are truths
+
+45:20.940 --> 45:23.740
+and objective ones about what's about right or wrong.
+
+45:23.740 --> 45:25.380
+But the hard question is not that one.
+
+45:25.380 --> 45:29.100
+The hard question is how do we know which ones those are?
+
+45:29.100 --> 45:32.460
+In mathematics, it's easier because we have a series,
+
+45:32.460 --> 45:35.300
+we have techniques, proofs, and the like,
+
+45:35.300 --> 45:39.220
+that we can, we generally speaking,
+
+45:39.220 --> 45:41.620
+unless we're talking about really advanced mathematics,
+
+45:41.620 --> 45:44.900
+we're generally going to agree on whether
+
+45:44.900 --> 45:51.180
+certain mathematical propositions are true or not.
+
+45:51.180 --> 45:53.220
+Not so much with morality.
+
+45:53.220 --> 45:55.100
+And that of course convinces a lot of people to think
+
+45:55.100 --> 45:57.100
+that there is no objectivity at all.
+
+45:57.100 --> 45:58.300
+I think that's a mistake.
+
+46:01.900 --> 46:03.860
+I think in morality, what we have to do is realize
+
+46:03.860 --> 46:06.060
+that we've got to be tolerant of a certain reasonable amount
+
+46:06.060 --> 46:08.700
+of pluralism, that there might be more than one true story
+
+46:08.700 --> 46:10.820
+of the world when it comes to morality,
+
+46:10.820 --> 46:14.900
+even if it's the case that not every story is true.
+
+46:14.900 --> 46:17.060
+There could be ties for first place,
+
+46:17.060 --> 46:18.900
+morally speaking, for moral systems.
+
+46:18.900 --> 46:23.780
+But some, like the Nazis, are right out.
+
+46:23.780 --> 46:25.220
+And the hard question philosophically
+
+46:25.220 --> 46:27.540
+is to try to explain how that could be the case.
+
+46:27.540 --> 46:29.900
+I think most of us probably think that's the case.
+
+46:29.900 --> 46:32.780
+And the hard philosophical work is, how can that be?
+
+46:32.780 --> 46:40.100
+But that all suggests to me that the hard question is going to be,
+
+46:40.100 --> 46:44.820
+well, which ethical principles do we put in the robot?
+
+46:44.820 --> 46:45.820
+What do we teach it?
+
+46:49.100 --> 46:50.900
+One problem that we saw with the social bot
+
+46:50.900 --> 46:55.020
+is that if we allow it to teach itself, it becomes a disaster.
+
+46:55.020 --> 46:56.180
+It could be a disaster.
+
+46:56.180 --> 46:58.980
+It'll end up like the rest of us bastards, right?
+
+46:58.980 --> 47:03.020
+Right?
+
+47:03.020 --> 47:06.060
+It turns out that some humans might turn out to be ethical,
+
+47:06.060 --> 47:07.100
+and a lot, not so much.
+
+47:07.100 --> 47:07.600
+Right.
+
+47:10.900 --> 47:14.580
+So if we adopt the Asimov method, that we,
+
+47:14.580 --> 47:17.060
+from the foundation novels and the robot novels,
+
+47:17.060 --> 47:20.420
+if we think that we need to provide
+
+47:20.420 --> 47:25.620
+our artificial intelligence with some firm moral guidance,
+
+47:25.620 --> 47:27.500
+then the real question will be, well,
+
+47:27.500 --> 47:29.180
+then the real question will be, what
+
+47:29.180 --> 47:31.060
+is that moral guidance going to consist in?
+
+47:31.060 --> 47:35.820
+And there, of course, people will have different views,
+
+47:35.820 --> 47:38.260
+especially when we get past the abstract principles
+
+47:38.260 --> 47:39.940
+to how we apply them.
+
+47:39.940 --> 47:42.380
+I mean, a lot of us can agree on abstract principles
+
+47:42.380 --> 47:45.500
+like don't kill innocents for fun.
+
+47:45.500 --> 47:46.780
+That's not too hard.
+
+47:46.780 --> 47:49.100
+Most moral systems will agree on that.
+
+47:49.100 --> 47:52.060
+Question is, who are the innocents?
+
+47:52.060 --> 47:53.100
+That's a very good point.
+
+47:53.100 --> 47:54.020
+That's the hard part.
+
+47:54.020 --> 47:54.820
+Yeah.
+
+47:54.820 --> 48:00.940
+And I don't know how you're going to program anything
+
+48:00.940 --> 48:03.820
+to deal with the messiness of human experience,
+
+48:03.820 --> 48:08.740
+or any experience, human or otherwise.
+
+48:08.740 --> 48:12.260
+So I think that at some point, it's going to be unavoidable.
+
+48:12.260 --> 48:15.300
+I think the hope to somehow imbue
+
+48:15.300 --> 48:18.660
+our artificial intelligence with good moral character
+
+48:18.660 --> 48:22.060
+is going to be as successful as our attempts to do
+
+48:22.060 --> 48:24.420
+that with our own children.
+
+48:24.420 --> 48:27.660
+Sometimes, that works out.
+
+48:27.660 --> 48:31.260
+Sometimes, not so much.
+
+48:31.260 --> 48:31.860
+Right?
+
+48:31.860 --> 48:33.460
+Yeah, you do your best by you.
+
+48:33.460 --> 48:35.740
+Morality is not an easy thing to do.
+
+48:35.740 --> 48:38.180
+You do your best, but you have no absolute control
+
+48:38.180 --> 48:39.380
+over the outcome.
+
+48:39.380 --> 48:39.880
+Right.
+
+48:39.880 --> 48:40.820
+And why is that?
+
+48:40.820 --> 48:44.140
+Because they're going to find a different path through life.
+
+48:44.140 --> 48:45.460
+Different things are going to happen to them.
+
+48:45.460 --> 48:46.420
+Right.
+
+48:46.420 --> 48:49.180
+And they're going to run across questions
+
+48:49.180 --> 48:50.940
+that you might not have run across, like,
+
+48:50.940 --> 48:56.180
+is this person innocent or not?
+
+48:56.180 --> 49:01.660
+So that which seems easy in the armchair of the philosopher
+
+49:01.660 --> 49:06.900
+is rarely easy when it meets the cold, hard facts of daily life.
+
+49:06.900 --> 49:09.440
+And that's going to be the case for artificial intelligence
+
+49:09.440 --> 49:10.980
+researchers as well.
+
+49:10.980 --> 49:12.140
+Excellent.
+
+49:12.140 --> 49:15.780
+We've been speaking to Professor Michael Lynch,
+
+49:15.780 --> 49:17.780
+his latest book, The Internet of Us,
+
+49:17.780 --> 49:20.900
+Knowing More and Understanding Less in the Age of Big Data,
+
+49:20.900 --> 49:24.140
+available now in the US and will be available in Canada
+
+49:24.140 --> 49:26.860
+this week or next week.
+
+49:26.860 --> 49:28.900
+It's been a pleasure speaking with you.
+
+49:28.900 --> 49:31.300
+I'm just going to ask you the last question that I'm
+
+49:31.300 --> 49:33.980
+asking all my guests, that if you come across
+
+49:33.980 --> 49:37.580
+an intelligent alien from a different civilization, what
+
+49:37.580 --> 49:42.020
+would you say is humanity's worst thing, the worst thing
+
+49:42.020 --> 49:43.980
+that humanity has done, and what would you say
+
+49:43.980 --> 49:53.780
+as humanity's greatest achievement?
+
+49:53.780 --> 49:59.620
+The worst thing that humanity has done
+
+49:59.620 --> 50:06.220
+is allow itself to act on its deepest hates of each other.
+
+50:06.220 --> 50:10.820
+The worst thing is the aspect of humanity itself,
+
+50:10.820 --> 50:16.780
+acting on hate.
+
+50:16.780 --> 50:19.540
+And of course, there's lots of examples of that.
+
+50:19.540 --> 50:22.900
+But the mere fact of acting on hate
+
+50:22.900 --> 50:27.820
+is probably the worst thing that we can do.
+
+50:27.820 --> 50:32.740
+Having hate is bad enough, but acting on it is even worse.
+
+50:32.740 --> 50:35.100
+What's the best thing?
+
+50:35.100 --> 50:42.540
+The best thing is learning how to act out of love for others.
+
+50:42.540 --> 50:45.460
+That's the best thing humanity has learned how to do.
+
+50:45.460 --> 50:51.420
+It's unfortunate that we still need to keep learning,
+
+50:51.420 --> 50:55.420
+but that's humanity.
+
+50:55.420 --> 50:57.060
+That's what I would say to the aliens.
+
+50:57.060 --> 51:05.100
+I learned how to enjoy our life.
+
+51:05.100 --> 51:18.540
+I learned how to enjoy the life that Earth lives.
+
+51:18.540 --> 51:23.380
+I learned about the life that humans live.
+
+51:23.380 --> 51:25.440
+you
+

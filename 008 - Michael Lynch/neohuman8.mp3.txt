@@ -1,0 +1,1084 @@
+One problem that we saw with the social bot
+is that if we allow it to teach itself,
+it becomes a disaster.
+It could be a disaster.
+It'll end up like the rest of us bastards, right?
+Hello, and welcome to the eighth episode
+of Neo Human Podcast.
+I'm Aga Bahari at Agologist on Twitter and Instagram,
+and you can follow the show on iTunes or liveinlimbo.com.
+With me today is Professor Michael Lynch.
+Thank you so much for being with us, Michael.
+Well, thanks for having me.
+My pleasure.
+I think it would be much better than me introducing you
+if you introduce yourself,
+and tell us a little bit about your background
+and what you're doing now.
+So I'm a philosopher by training and by profession.
+I teach at the University of Connecticut,
+where I also direct the Humanities Institute,
+and I'm also the PI on a large research project
+on public discourse and the barriers to public discourse
+and concepts like intellectual humility.
+And I'm also the author of this recent book,
+The Internet of Us,
+which is the book that I just put out from Norton.
+Yeah, and that's the reason that I got to know you.
+Right, right.
+So yeah, and that book is what we might,
+say it's a bit of philosophy on a topic
+that I think philosophers haven't,
+well, they haven't ignored,
+they haven't really focused on as much as I think they might,
+which is the philosophical implications
+of information technology, you might say.
+That's what this book is about.
+And philosophical implications,
+particularly with regard to how we understand knowledge,
+because not only do we live in the so-called information age,
+we also live, as many people say, in the knowledge age.
+We talk about the knowledge economy
+and knowledge workers, right?
+And we think about the fact that people's ability
+to get knowledge and become trained as knowledge seekers,
+that is, have a higher education,
+impacts their life in the economy economy.
+So knowledge is sort of a central topic for us in our lives.
+And it's partly a central topic,
+just because we do have these incredible devices
+that we all use for accessing information.
+So it seemed to me that,
+as somebody who works on epistemology,
+which is the study of knowledge,
+that it was high time that we started thinking
+as philosophers and as intellectuals
+about what these changes and how we distribute,
+access and produce knowledge,
+because of information technology, these changes,
+how these would actually affect our understanding
+of knowledge itself and its value.
+Would you say that our philosophy in general
+is in need of updates because of our technology?
+Yeah, I think it is.
+I mean, the book is divided into two parts.
+In one part, I talk about how certain old,
+classic philosophical problems,
+problems that have been around for thousands of years,
+or as my students say,
+that I've been discussed for thousands of years,
+sort of old philosophical problems,
+have been reached, sort of given new life
+by our digital form of life.
+I talk about our life in the infosphere
+as a sort of what Wittgenstein would call form of life.
+That is, we have a sort of ways of acting now
+due to how we interact with information technology
+that we don't even sort of notice.
+These are sort of behaviors and habits
+that we engage in on a daily basis,
+having to do with access and information
+that we almost never notice anymore.
+And that fact, the fact that these things
+have become so much part of our life
+that is these devices and so forth,
+and our analytic techniques
+that allow us to use these devices,
+the fact that they've become so much part of our life
+has made these old problems new again.
+And so let me give you an example of that.
+An old classic philosophical problem is
+how do we rationally resolve disagreements
+between each other over competing values and facts?
+That's something that's been around for a long time.
+How do we rationally resolve our differences
+of opinion over values, for example?
+Can we do that?
+Some people might say yes,
+some people might say cynically no, we can't.
+Politics at the end of the day
+has to become war by other means and so forth.
+Well, the way in which information technology
+is impacting this is really sort of funny and curious.
+We have all, we have, you and I,
+by virtue of just accessing our phone,
+have tremendous amounts of information at our disposal,
+more than most humans have ever had combined.
+Right? Absolutely.
+Is that absolutely the case?
+You're doubling the knowledge of humanity every year.
+Indeed, indeed, and maybe even,
+that might even be underestimating it.
+Just simply because the,
+I mean, partly this is a sort of inside,
+but the use of data analytics,
+our sophistication in those methods
+is really just shot up in the last couple of years,
+I think, and that is,
+it may be increasing even more than that,
+but let's say it's doubling it.
+Now, what you might think that that sort of from a sort of,
+if you just sort of heard that,
+you heard somebody like living
+just even 50 years ago heard that, right?
+And they could believe it.
+They might think, wow,
+then we should be closer to solving certain problems, right?
+We should be closer to solving
+not just certain technological problems,
+but also maybe policy problems.
+I mean, if we have all this information,
+then surely if we put our best minds at it,
+we'll come to greater agreement on matters
+like climate change or the environment,
+as they might've said years ago, right?
+But what we're finding actually is that
+the disagreements in policy
+and disagreements over matters of fact even
+are becoming more and more entrenched,
+even though we have access to greater amounts of information.
+And why is that?
+Well, partly it's due to a fact
+that a lot of people have commented on in the digital age,
+which is that when we access information online,
+it's not just all the information.
+Because there's so much information, we have to sort it.
+We have to make decisions, who we're gonna check,
+what sources we're gonna rely on,
+what friends we're gonna accept, so to speak.
+And that puts us in,
+and this is the point that a lot of people comment on,
+is that puts us in sort of information bubbles.
+But the point that I think is new,
+and this relates to this sort of perennial
+philosophical problem, is that these information bubbles
+have gotten to the point where our disagreements
+are no longer just over values.
+They're no longer just over the facts.
+They're actually over whose sources
+are the most reliable for deciding what the facts are,
+and what even a fact is, is I think an issue right now.
+So that's essentially an old philosophical problem,
+is being given new life by the very technology
+that we might have thought would have solved it.
+It's the concept of the more we know,
+the more we know we don't know.
+Well, in a sense, in one sense, that's a good,
+yeah, I mean, in one way, that's right.
+Another way of thinking about it, though,
+is that, and this is something, the subtitle of my book
+is Knowing More and Understanding Less
+in the Age of Big Data.
+And I think we actually do know more.
+We don't just have more information,
+we do actually know more.
+I often feel without my phone, I'm just 100% dumber.
+But the sense in which we know more
+is a very minimal sense.
+When we know from, most of the times,
+by using apps, for example, not just Google searching,
+but actually using an app, let's say,
+to perhaps an interactive app,
+the sense in which I know is the minimal sense
+in which, if I'm lucky enough to get accurate information,
+form an accurate belief from using that app
+about some subject matter, let's say the weather.
+Then that belief will turn out to be knowledge.
+If it's accurate, it's based on a sort of reliable source.
+And that's the minimal sense of knowledge
+in which we gain knowledge
+from interacting with digital sources.
+And in that sense, we know more.
+But the problem is that, because we do know more in that way,
+we have more reliable sources checked,
+that actually makes us overconfident
+that we actually know more than we do.
+I think sometimes we don't actually think,
+and we should think, that we know less than we think we do.
+But I don't think that often happens.
+I think we do know a little bit more,
+but a little bit of knowledge is a dangerous thing.
+And what happens is that we don't know
+what happens is that people think
+that they know even more than they do,
+just because they have this information right at hand
+and they've been able to use it so far
+to find out, let's say, what the weather is,
+or even what the level on a particular,
+I have an app on my phone that allows me
+to detect the level of a piece of wood,
+let's say, it's a carpentry app.
+That's an amazing little app, by the way.
+What is it called?
+Carpentry level.
+There's about 10 of them, but there's,
+so I can know things, like this one piece of wood is level,
+by using that app.
+But I shouldn't think that that fact
+makes me an expert carpenter either.
+What do you think it takes for a knowledge
+based on evidence to become a policy?
+I'm living in Canada, and what we're witnessing
+in the United States is that there are senators
+and congressmen who are arguing that
+there is no global warming because there's a snow outside.
+Yes.
+So those are the people who are basically
+are affecting the progress of technology
+and knowledge and everything because of public policy.
+What do you think it will take for the people
+like yourself who are creating the new ways
+of understanding knowledge to convince the politicians
+who are mostly conservative and business oriented
+to accept the facts so we can all move forward?
+Well, that's a really, really good question.
+I guess it's a sort of great follow up
+to the point that I had raised is that right now
+we are disagreeing over our sources of evidence
+and even over whether evidence is important.
+So how do we move forward from there?
+I mean, on the surface, at first glance,
+it seems impossible because once we disagree
+over whether evidence is important,
+what sort of evidence could I possibly give you
+to think that it is?
+Yes, exactly.
+All right.
+So I think what we need to do is shift
+slightly different tactic.
+I think what we need to do is to convince people
+that share at least some sense of democratic commitment
+to a sense of sovereignty of the public.
+And not all the folks that I'm gonna,
+what you might have in mind might be committed to this.
+But some of them, let's say are,
+they do think that democracy is all things in equal,
+better form of government than alternative forms.
+If they do think that, then I think what I can do
+is make an argument that appealing to evidence
+is actually an essential decision-making procedure
+for democracy.
+Because it's only by paying attention to your evidence,
+as opposed to your moral,
+you know, your spiritual character, for example.
+It's only by paying attention to the evidence
+you give me for your beliefs
+that I truly respect you as an independent thinker,
+somebody who's capable of making up their own mind
+about how to vote.
+And the same goes for me on the other side, right?
+I mean, I've got to be willing to take the evidence
+of the conservatives insofar as, you know,
+if somebody has some evidence,
+and take it seriously.
+Because only by then I can respect them
+as full participants in the democratic process.
+And without that respect,
+without the sense that we can mutually respect one another,
+then there is no point of talking about a democratic process.
+Because democracy is founded on the idea of equal respect,
+that we treat each other as fellow participants
+in the project of democracy.
+So would you suggest that we perhaps,
+in need of upgrading our democracy and political system
+along with our philosophical system
+because of the growth and advancement of our technology?
+I think, yeah, I mean, I think our growth
+and advancement in technology has been tremendous aid
+in some ways to democratic practices.
+It's given us, because it has given us the ability
+to acquire more information and data
+about things like climate change.
+I agree.
+Without the techniques that mathematicians
+have been able to give us,
+applied mathematicians for data analytics,
+some of the data that we've been able to collect
+on climate change wouldn't have never been collected.
+So it's only because of technology and our advances
+that we're able to do that.
+I think what we do need to do is to make sure
+that our personal citizens' uses of technology,
+the uses of, let's say, social media,
+that we understand the ways in which we're using social media
+both can reflect our biases and our prejudices.
+It's, you know, when we talk about social media,
+the social part is really important.
+Absolutely, yes.
+And that could be really great. It could connect us.
+It's awesome to be able to connect
+with your old friends on Facebook.
+But it's really important to realize
+that the biases and prejudices
+that infect our social relationships offline,
+also affect our life online.
+And in a sense, that's trivially obvious.
+We think, oh, we all know that.
+And yet, we often ignore that fact
+when we draw conclusions from, let's say,
+about what to believe from something
+that somebody posted on Facebook
+because they're in our circle of friends, right?
+I mean, we tend to, you know, there's a lot of evidence
+to show that the sorts of interactions
+that we engage in, social media in particular,
+tend to lead our perfect situation
+in which for us to reflect our quick, implicit biases,
+partly because the interactions are so quick
+and not often reflective.
+They're not Twitter, for example.
+I use Twitter. I love it.
+But it's not a medium that is really,
+it's not the best medium to use
+if you're interested in another truism,
+reflective, critical engagement.
+It doesn't lead to these sorts of conversations.
+It's true. It's true.
+Well, I mean, with 140 characters, how far you can go?
+Yeah. I mean, some people have been incredibly creative
+at that, right? There are people that can,
+but most of the time, you can't go very far.
+But it's interesting, when you mention your life online
+and your life offline, Twitter is a very good example
+how the 140 limit characters
+has affected the news programs.
+Indeed.
+And our ability to absorb information,
+we need something fast and to the point.
+And that can be manipulated very easy in that way.
+How difficult do you think it's becoming
+to differentiate the life online and life offline?
+Because on one side is the software advancement
+like machine learning, big data and hardware advancement,
+like a virtual reality and augmented reality.
+How difficult it will become in the coming years
+to tell the difference between the two?
+Well, I think it's gonna become even more difficult.
+And I think it already is.
+You're right that there is for many people,
+for many of us, I mean, many people listening,
+not just some people over there, for all of us,
+there are ways in which the two lives
+have become very blurred.
+And that's particularly, that blurriness happens
+right out of the area that I'm interested in,
+in knowledge acquisition.
+You think about how you know
+most of the things you know now, right?
+And what's the first thing that you're gonna do
+if you have a question?
+First thing you're gonna do is Google it,
+at least if you're me.
+Yeah, you use a term called Google knowing.
+Yes, exactly.
+So would you expand on that?
+Sure, so Google knowing is not just knowledge by web search,
+although it's certainly that.
+It's the sort of knowledge that we acquire,
+what I earlier called this sort of minimal knowledge,
+that by digital interface.
+So it's the sort of knowledge we might acquire
+from my little level app,
+but it also might acquire from,
+we might acquire from a smartwatch and from a web search.
+And I think it's right there at that,
+that the concept of knowledge is where right now already
+our online life and our offline life is fuzzy,
+because what we do in our offline life
+is often dictated by what we know or think we know, right?
+So what we do in our ordinary everyday life,
+I mean, from mundane examples,
+like we don't have to talk about something important
+like climate change.
+We just talk about like, you know,
+which restaurant we go to is dictated by what we know.
+And how do we figure out what we believe we go online?
+So much of our offline life is already heavily impacted
+by what we do online.
+I mean, and the reason that Google knowing,
+and well, the return to your earlier question,
+I mean, is that gonna increase?
+Well, sure, I mean, you know,
+Larry Page, the CEO, or Google,
+one of the founders of Google, certainly thinks that,
+I mean, he's in the book, I quote him in saying that,
+no, one day we'll have, he says, he hopes,
+that we'll have an implant that will allow us,
+a neural implant that will allow us to
+just think of a question, he says,
+and then get the answer, right?
+And if he's right that that was to come around someday,
+or even something closer, like an actual Google Contact,
+which they have been working on, right?
+They have a project, it's not very far along,
+but they have a project in which they'd like
+to take Google Glass and put it farther closer to the eye.
+Right.
+So even if that neural implant never comes to be,
+I mean, once you get the Google Contact
+as a possibility, and I think that could come along,
+then I think things will be even blurrier.
+I mean, one way to think about it, so,
+Sergey Brin once said, when they introduced Google Glass,
+he said, the greatness of this technology is that
+it's going to get technology out of the way,
+and what he meant by that, I know what he meant,
+he meant we won't have to fumble with our phones, right,
+to get it up on the internet,
+so I understood what he meant.
+But it's sort of ironic, isn't it,
+because Google Glass or Google Contact
+get technology out of the way
+by literally putting it in the way of innovation.
+Right.
+And if that isn't a metaphor for this blurriness
+that you're talking about online and off,
+I don't know what is.
+Isn't it the kind of a natural evolution, though,
+becoming a biological and technological hybrid,
+or in other words, human 2.0?
+Right.
+Yeah, so, I mean, the cyborgian of the human
+is certainly something that a lot of folks
+are interested in, and I think have been writing about,
+and I'm interested in, too,
+and I think we are moving towards that, human 2.0.
+And there could be a lot of benefits from that.
+I think there's a lot of benefits
+from information technology,
+including certain implants of various sorts
+that are wired to the internet in healthcare, right?
+I mean, there's lots of benefits that are,
+I think, could come from that.
+So I'm not saying that I'm just blatantly
+antagonistic to this.
+What I'm interested in, at all,
+what I'm interested in is thinking through
+the consequences of some of this technology,
+both ethically and epistemologically,
+and it would be great if once in our life,
+and once in human history,
+we actually thought through some of these consequences
+before we actually went and made the technology,
+but I don't really know about that.
+Yes, me neither.
+That would be, that's never happened before, so.
+What do you make of the court case between Apple and FBI?
+They dropped it, and then they came back and said,
+no, we need Apple, because-
+They dropped it, they said, oh, no, just kidding.
+They actually didn't.
+What do you make of that?
+But first of all, do you think the concept of privacy
+does even exist anymore?
+And if so, how we can protect it, and if not,
+what is the option going forward?
+Yeah.
+Okay, that's a bunch of really difficult questions
+and good ones.
+So, yeah, let's put off the Apple case for a second.
+I think that raises a bunch of interesting questions,
+but let's talk about, maybe I'll talk about your more,
+the general questions about privacy first.
+So does the concept of privacy,
+is it even relevant anymore?
+That's one way of understanding what you were asking me.
+I think yes, it is.
+So I don't think it's an outdated value.
+I think Jeremy Rifkin and others have argued
+that it's a bourgeois value, it was an architect
+of the Victorian age and so forth and so on.
+I think that's just a mistake.
+Yeah, Jeremy Rifkin is the author of the book,
+Zero Margin Society, a very interesting concept.
+Yeah, please continue.
+Yeah, indeed, and I think it is a very interesting book,
+but I disagree with him on this point.
+I think that one reason to think that it's not an outmoded
+notion is to realize what the roots of the notion are.
+If we think about why privacy matters
+and its philosophical roots,
+you'll see that it actually is based, I think,
+in our very psychology as human beings.
+So part of what we think makes a difference
+between you and I and minds in general
+is that our thoughts are, in a sense, our own.
+We can have this conversation
+and we can sort of infer what we're thinking
+and so forth as you do.
+But of course, what makes you different than I
+is that your thoughts are your thoughts,
+my thoughts are my thoughts,
+and you can share those thoughts with me,
+but if you don't, then I'm not necessarily
+gonna be able to feel or experience
+what you've felt or experienced.
+They're private in that sense,
+and that's the fact that very term
+that philosophers have used for a long time,
+that a mark of a human being's psychology
+is that we have a special relationship to our psychology
+that we don't have to us, to other people's psychology.
+And we value that.
+We value our sort of subjectivity, our individuality.
+And as a result, we value the sort of privacy,
+the control and protection
+that we can give to our own thoughts.
+And that's really, I think,
+the philosophical root of privacy.
+And I don't think that the notion of,
+I don't think individuality or subjectivity
+is something that was just recently invented.
+I think it's a human being's been around
+for longer than that.
+But why does it matter?
+That's a different question.
+Why does privacy matter?
+I think privacy matters both for, still today,
+for certain obvious reasons and less obvious reasons.
+The obvious reasons are that,
+the reason I don't want the NSA poking around in my emails
+is partly because they might do,
+they might, I don't know what they're gonna do
+with that information, right?
+And we, in general, we don't want people
+breaking into our phone,
+whether it's the FBI or otherwise,
+because that gives them some measure of control.
+If they know certain information about me,
+they could control me in some way.
+And so, that's a sort of obvious point, right?
+But even that obvious point
+is sometimes missed by certain politicians.
+So, Mike Rogers, for example,
+a Republican, conservative Republican
+from Pennsylvania in the United States,
+at one point in a congressional hearing said,
+look, I don't know what this problem with the NSA is.
+If people don't know about the fact that they're being,
+their privacy is being, then what's the harm?
+If you don't know, there's no harm.
+Which was really only consoling
+to peeping Toms everywhere, right?
+Do you think he, for example, really believes in that,
+or he's using that as an excuse to push his agenda,
+which is a party agenda?
+Well, that's a perennial, I mean,
+let me put it this way.
+I think almost the more charitable reading
+is that he actually believed it when he said it,
+and he just hadn't thought it through.
+That's the more charitable reason.
+That's a great quality for a politician.
+Because if he's using that sort of reasoning
+to push his party's agenda, then good luck to him.
+Yeah.
+So, I think it might've been he just,
+he hadn't thought through the logic of what he was saying.
+Of course, we think in some ways that if we don't,
+if you break it in my house and into my computer
+and steal all my financial information,
+then even if I don't know about it until later,
+like when you drain my bank account,
+it's still bad when you did it, right?
+So, partly because of consequences.
+But there are even less obvious,
+but more fundamental reasons to be concerned about privacy
+and information privacy.
+And that has to do with our autonomy.
+It gets back to my first point
+about the origin of the notion.
+Look, if you, suppose you, again, break into my phone
+or whatever, you hack my phone,
+and you get the content of my phone,
+various contents, the emails and the like.
+But suppose you do that only as a scientific experiment,
+but you don't do anything with it.
+You just, you don't use it to blackmail me or anything,
+right, or whatever.
+Is it still wrong?
+Well, it is.
+And a side to that is still wrong
+is that we find things like that,
+or people, an older example would be somebody reading
+your diary or something, right?
+But not doing anything with it.
+Would you, if you found that out later, right?
+Even though that later, like, you know,
+you realize that person never did anything,
+you would still be creeped out by that.
+Of course.
+You shouldn't do that.
+Well, why not?
+Well, because, because you can imagine the other person saying,
+well, I never did anything, right?
+Well, that wouldn't matter.
+Because you violated my autonomy.
+I didn't choose to share that information, right?
+In this case, or you didn't choose to share it.
+So what I did is I sort of made the decision
+to share or not to share moot.
+It would be, it's similar to if a doctor gives you
+a drug without your permission,
+even though the drug helps you out, there's a problem there.
+Why do we think it's a problem?
+Because I didn't get, I wasn't in on the decision.
+The decision was made for me.
+Now, the doctor case shows us that, in fact,
+there are times where we think that privacy invasion
+are justified, just as we think that there are times
+in which the doctor giving you a shot
+or doing a medical procedure is justified
+even if you're not conscious, right?
+Because in an emergency, right?
+We don't, the emergency physicians don't, you know,
+look, if you're dying of some problem
+or you're in grave medical condition,
+they have, they're justified in acting
+even if they don't have your consent.
+But, and that's the case.
+And sometimes we think of privacy cases, right?
+We think that other matters, other values
+might supersede it, right?
+And so that's understandable.
+But it's still the case that there is this fundamental
+reason to be worried about privacy
+that has nothing to do with consequences, right?
+Even in the case where the invasion of my privacy
+has no bad effects on me,
+there's still something wrong about it.
+And that is a point that's often missed,
+I think, in these debates.
+Absolutely.
+The book is called The Internet of Us,
+Knowing More and Understanding Less in the Age of Big Data.
+It came out in March 21st, I think.
+That's right. This year, yeah.
+In Canada, I think next week.
+Oh, it's not available in Canada yet?
+I don't know.
+I think it comes out in Canada next week
+or maybe, right, maybe this week.
+Oh, excellent.
+Mark Goodman, in his book, The Future Crimes,
+make an argument that we have two kinds of computers,
+the computers that have been hacked already
+or haven't been hacked yet.
+So speaking of privacy, what...
+That's almost, yeah.
+Yeah, what kinds of measures do you think we can take
+as members of general public to secure ourself
+from intrusion of, well, police is one side of the story,
+but the other side are hackers.
+The other side is what's going on in deep web and darknet.
+Yeah, darknet and deep web.
+Well, as a philosopher, first, let me say,
+because that's a practical question.
+I am not, you know, if you want to know
+how to protect yourself in a practical way,
+don't ask a philosopher because that's a practical question
+and practical questions are not our forte.
+What I do think, I mean,
+but I don't want to punt completely on the question.
+I think actually, as Snowden pointed out,
+probably the easiest thing to do to protect yourself
+is to try to use sort of reasonable,
+sensible policies on passwords,
+the sort of passwords, policies that people have.
+I mean, that's not gonna protect you completely, obviously.
+I mean, nothing can protect you completely.
+There is no such thing as complete protection.
+That's right.
+Not anymore, I guess, yes.
+Not anymore, and probably even with any technology, right?
+Any technology can be broken.
+The Enigma code was broken by Alan Turing and others,
+and that was a pretty damn good technology for encryption.
+So there's just more or less difficult,
+there's techniques.
+Now, I mean, there might be logical limits to,
+but I mean, quantum, I mean, yeah.
+Let's just leave it at that.
+Practically speaking, there's no safeguard
+that can't be gotten around.
+However, you can protect yourself by engaging in more,
+and pretty much just following the things
+that the IT people will tell you to do on day one.
+I referenced Snowden because he was on,
+at one point interviewed, I think on 60 Minutes,
+so don't quote me on that.
+You can Google it and find out, I suppose.
+But just telling people the very basic things
+about encryption and password protection,
+and those things, I think,
+are probably the best things you can do.
+Now, I think for those of you,
+for those of your listeners
+that actually know something about encryption,
+there's a whole bunch of much more sophisticated things
+to do, but they don't need a philosopher to tell them that.
+But for folks who don't know anything,
+not giving your middle name as your password
+and using different passwords for different sites,
+those sort of basic things,
+it's sort of like locking your door on your apartment.
+That's right, exactly.
+Can the person who wants to get in your apartment
+through that lock and who is a professional do it?
+Yep.
+Is it gonna be dissuaded, however, some folks,
+if there's just a lock or two on your apartment?
+Yep.
+Both things are true.
+You can't stop everybody,
+but you can slow people down
+and make it more of a pain in the butt
+for them to evade your privacy.
+Yes, very true.
+Speaking of your book,
+another concept that you talk about
+is extended knowledge hypothesis,
+and I'll be very interested for you to expand a little bit
+on that concept as well.
+Sure, that I think relates in some ways in my own mind
+to the privacy debate as well.
+Extended knowledge hypothesis is a variation
+or an implementation of another hypothesis,
+which is called the extended mind hypothesis
+due to the philosophers Andy Clark and Ann Burrow
+and David Chalmers, who's in New York.
+Those philosophers 20 years ago suggested
+that it's possible that our mental states,
+like the state of memory, might already be extended
+to things like books or notepads.
+Their example, this was pre-smartphone days,
+was that if you just took a shopping list,
+you were extending your memory to the list.
+What they meant by that is
+there's sort of an innocent way to read that,
+and one innocent way to read that is that they're just saying
+that, oh, shopping lists are good aids to memory,
+or the iPhone is a good aid to your memory.
+No, no, no, no, no.
+They mean something much more radical than that.
+What they mean is your memory state itself,
+the actual state of your memory, your memory,
+actually part of it is that piece of paper.
+In other words, your mental states,
+your psychological states are partly composed of paper.
+That's the extended mind thesis.
+Your mind extends beyond the bounds of your skull.
+The biological, the structure.
+Yeah, exactly, beyond the biological structure.
+Now, the extended knowledge hypothesis
+is something similar to that, but could be held independently.
+I'm sort of agnostic about the extended mind thesis.
+I think it might be true,
+but there's some good objections against it,
+which might not be relevant to mention here.
+But I'm like, oh, well, let's see how it goes.
+Let's see how things sort of unfold,
+and maybe it will turn out to be true,
+or maybe it's true about some states,
+but not others, and so forth.
+I think that's probably the case.
+But you could still, independently of that,
+hold that our knowledge processing is extended.
+That is, you might think that,
+even if my mind isn't completely extended,
+the ways in which the processes that I use
+to form beliefs are belief-forming processes.
+That is, the processes that I use
+to form an opinion about a piece of information,
+to process information, might themselves be extended,
+and I think are extended to our digital devices.
+And I think extended to each, actually, other people.
+I think that when I ask somebody
+and the philosopher Sandy Goldberg
+has said this sort of thing, he says,
+look, even in testimony, if I stop somebody on the street
+and ask them how to get to the restaurant,
+then the process by which I'm forming that belief
+is extended, both what's going on in my head,
+as I'm listening to them,
+there's also what they're doing and their expertise.
+So if I end up knowing where the restaurant is
+on the basis of that testimony that they gave me,
+it's because their testimony was accurate.
+But their testimony was accurate
+based on what's happened to them, right?
+That depends on them,
+whether they've been to the restaurant before
+and they know where they are
+and they know how to get there, stuff like that.
+So I think that's persuasive,
+and I think that it also means that much of what we know
+today, Google knowing, is extended in just this way.
+I think that's what makes Google knowing really interesting,
+is that when we Google know,
+we're radically dependent on what's going on elsewhere
+in space, that is, what's going on with these devices,
+whether the, what's going on with the software,
+the hardware, and the people that of course
+program those devices.
+All those facts are part of the process
+of our information processing.
+So that in a sense, when we know what we know,
+when we Google know,
+if you asked where is the knowledge,
+the knowledge is distributed.
+And in that sense, knowledge is networked,
+which is something people a lot of times say,
+but they often don't, I think, really know what they mean.
+But that's what I mean when I say,
+in the truest sense of the word,
+knowledge is networked now,
+because it's actually to know in the Google sense
+requires a network, and in fact,
+that network is part of your information processing system.
+So that's the thesis of extended knowledge.
+Speaking of distributed knowledge and learning,
+as we create more information,
+it's becoming harder to analyze that information,
+and that's where machine learning
+and artificial intelligence becoming
+more and more important, I think,
+to process that information.
+One good example in, I think, about a month ago,
+that Microsoft artificial intelligence was put on Twitter,
+and almost overnight, it turned into
+a Hitler-loving sex addict.
+Right.
+So what do you make of that,
+and how do you see the progress of artificial intelligence?
+And then I wanna speak to you as a philosopher
+about the concept of ethics in artificial intelligence.
+Sure.
+So, yeah, so that was something that actually
+I've been sort of noodling about,
+that example of the bot,
+that overnight sort of became this racist, sexist monster
+and had to be shut down.
+Now, there was a reason for that, of course,
+which is that the way it was constructed
+and how it was trained to train itself
+was to listen, in a sense, to what other people said to it
+and the sorts of questions that they asked it,
+and it would abstract from those questions
+and make certain inferences from those questions,
+and of course, I mean, I think there was,
+in this particular case, there were some people
+that cottoned on to the fact that this was going on, right,
+and sort of deliberately did this.
+I'm not sure that everybody was sort of aware
+of what was going on, and that's not surprising
+because as you may know, social bots,
+bots in general all over the web,
+I mean, Twitter tried to ban them for a while,
+I mean, they're not hard,
+you make a bazillion of them there,
+and if you're, we all probably have our own techniques
+for trying to spot when one pops up
+and asks for a Facebook to be our Facebook friend,
+but what does that tell us, this fact that this bot became so
+biased so quickly, so hateful?
+Well, it says, it tells us exactly
+what we started out talking about.
+The internet is the greatest fact checker
+and also the greatest bias-confirmer
+in the history of history.
+What I remember when I said earlier about social media,
+you've got to concentrate on the social,
+the biases that in fact are offline life,
+in fact are online life, and actually our online life
+makes those biases, tendency to make those biases
+more entrenched and more visible in certain ways.
+Some of that has to do with the fact that much of web life
+is or can be more anonymous than offline life,
+but that's not the only reason.
+But I think that that is really what's going on,
+that's what that illustrates, that's a perfect illustration
+of the way in which social media,
+far from connecting us in certain ways,
+has made us exemplify those traits that don't connect us,
+and that's worrying,
+and we need to figure out ways to fix that.
+Because social media is not going away.
+I'm not going to stop using it.
+It's expanding.
+It's expanding.
+So we better start paying attention to this right now.
+And if that example of the social bot isn't going to,
+if that, it just crystallizes the point.
+Right.
+So, yeah.
+I just wanted to talk about artificial intelligence.
+There is a great discussion around the potential dangers
+of artificial intelligence and how unpredictable
+it's going to be.
+And one of the ways that it's been suggested-
+When we reach the singularity.
+Yes, yeah.
+One of the ways that maybe we can control
+or try to understand artificial intelligence
+is to put our own ethics into the machine
+so the machine will operate based on those ethics.
+Yeah.
+Do you think ethics is objective to begin with
+and how it will translate from humanity into machine?
+Those are two really great,
+another great couple of questions.
+So the first question is very complicated to answer,
+but I have a lot of opinions about,
+but I'll try to crystallize them.
+Yeah, short order is I think it's objective.
+I think, so a lot of my work in the past
+has been on the nature of truth and objectivity.
+That's what I sort of, as a philosopher, have worked on.
+And so I have views about that.
+To summarize them, I think that ethics is objective.
+Its objectivity, though, isn't in the same,
+doesn't consist in the same set of features,
+or it's not the same in its character
+as the objectivity of, let's say, physics.
+And in other words, what I mean by that
+is when I say something like grass is green
+or that grass is green pointing to some grass,
+that truth sort of depends on whether,
+if that is true, it depends on whether there's grass
+that actually is green that I'm pointing at.
+So the truth sort of depends on whether it corresponds
+to some objective facts in the world.
+Well, ethics, it's much harder to point to anything.
+You can't point to a human right.
+You can point to what you think is an example
+of a human right or violations of it,
+but a human right is an abstract notion, right?
+So, but of course there are other abstract things
+like numbers that we think that are objective truths about.
+I don't think you can point to a number.
+You can point to a numeral.
+I can write one down on the whiteboard behind me.
+But of course, if I erase that number off a whiteboard,
+it's not like I killed the number seven.
+Oh my God, the number seven's gone away!
+Oh my God, the number seven's gone away, right?
+I just killed, I just erased a sign for the number seven.
+And so there are abstract entities that we can talk about
+that are objective or our thoughts about them
+can be objective.
+And so I think that the nature of objectivity changes
+in those domains, but there's still objectivity.
+So yeah, the short answer is that I think there are truths
+and objective ones about what's about right or wrong.
+But the hard question is not that one.
+The hard question is how do we know which ones those are?
+In mathematics, it's easier because we have a series,
+we have techniques, proofs, and the like,
+that we can, we generally speaking,
+unless we're talking about really advanced mathematics,
+we're generally going to agree on whether
+certain mathematical propositions are true or not.
+Not so much with morality.
+And that of course convinces a lot of people to think
+that there is no objectivity at all.
+I think that's a mistake.
+I think in morality, what we have to do is realize
+that we've got to be tolerant of a certain reasonable amount
+of pluralism, that there might be more than one true story
+of the world when it comes to morality,
+even if it's the case that not every story is true.
+There could be ties for first place,
+morally speaking, for moral systems.
+But some, like the Nazis, are right out.
+And the hard question philosophically
+is to try to explain how that could be the case.
+I think most of us probably think that's the case.
+And the hard philosophical work is, how can that be?
+But that all suggests to me that the hard question is going to be,
+well, which ethical principles do we put in the robot?
+What do we teach it?
+One problem that we saw with the social bot
+is that if we allow it to teach itself, it becomes a disaster.
+It could be a disaster.
+It'll end up like the rest of us bastards, right?
+Right?
+It turns out that some humans might turn out to be ethical,
+and a lot, not so much.
+Right.
+So if we adopt the Asimov method, that we,
+from the foundation novels and the robot novels,
+if we think that we need to provide
+our artificial intelligence with some firm moral guidance,
+then the real question will be, well,
+then the real question will be, what
+is that moral guidance going to consist in?
+And there, of course, people will have different views,
+especially when we get past the abstract principles
+to how we apply them.
+I mean, a lot of us can agree on abstract principles
+like don't kill innocents for fun.
+That's not too hard.
+Most moral systems will agree on that.
+Question is, who are the innocents?
+That's a very good point.
+That's the hard part.
+Yeah.
+And I don't know how you're going to program anything
+to deal with the messiness of human experience,
+or any experience, human or otherwise.
+So I think that at some point, it's going to be unavoidable.
+I think the hope to somehow imbue
+our artificial intelligence with good moral character
+is going to be as successful as our attempts to do
+that with our own children.
+Sometimes, that works out.
+Sometimes, not so much.
+Right?
+Yeah, you do your best by you.
+Morality is not an easy thing to do.
+You do your best, but you have no absolute control
+over the outcome.
+Right.
+And why is that?
+Because they're going to find a different path through life.
+Different things are going to happen to them.
+Right.
+And they're going to run across questions
+that you might not have run across, like,
+is this person innocent or not?
+So that which seems easy in the armchair of the philosopher
+is rarely easy when it meets the cold, hard facts of daily life.
+And that's going to be the case for artificial intelligence
+researchers as well.
+Excellent.
+We've been speaking to Professor Michael Lynch,
+his latest book, The Internet of Us,
+Knowing More and Understanding Less in the Age of Big Data,
+available now in the US and will be available in Canada
+this week or next week.
+It's been a pleasure speaking with you.
+I'm just going to ask you the last question that I'm
+asking all my guests, that if you come across
+an intelligent alien from a different civilization, what
+would you say is humanity's worst thing, the worst thing
+that humanity has done, and what would you say
+as humanity's greatest achievement?
+The worst thing that humanity has done
+is allow itself to act on its deepest hates of each other.
+The worst thing is the aspect of humanity itself,
+acting on hate.
+And of course, there's lots of examples of that.
+But the mere fact of acting on hate
+is probably the worst thing that we can do.
+Having hate is bad enough, but acting on it is even worse.
+What's the best thing?
+The best thing is learning how to act out of love for others.
+That's the best thing humanity has learned how to do.
+It's unfortunate that we still need to keep learning,
+but that's humanity.
+That's what I would say to the aliens.
+I learned how to enjoy our life.
+I learned how to enjoy the life that Earth lives.
+I learned about the life that humans live.
+you
