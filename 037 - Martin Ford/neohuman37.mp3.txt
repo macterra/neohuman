@@ -1,0 +1,474 @@
+up until now, human labor has been indispensable to the whole economy. But if in the future,
+at least for a lot of people, it's not going to be so important that they work because
+technology is going to take over more of this work, then we've got to shift our values a
+little bit and be more open to providing an income to people that don't have traditional
+full-time work in a way that we would expect today.
+Hello and welcome to the 37th episode of Neo Human Podcast. I'm Agah Bahari, an agologist
+on Twitter and Instagram, and you can follow the show on LiveInLimbo.com, iTunes, and YouTube.
+With me today, I have Martin Ford. Welcome to the show, Martin.
+Thanks for having me.
+It's my pleasure. Why don't we start by some of your background, the works you've done,
+and what you're focusing on mainly now these days?
+Well, I've written two books, both of which are focused on the impact that robotics and
+artificial intelligence are going to have on the economy and especially the job market.
+I mean, the basic thesis of the books is that a lot of jobs are going to be automated. That's
+something that's interested me for a while. I started out running a small software business
+here in Silicon Valley. I started that back in the 1990s, and I saw even in that little
+business the impact on jobs. It used to be that software was shipped on tangible media,
+on CD-ROMs, and so there was work there for people to do the fulfillment to actually ship
+that product to customers, but that disappeared very rapidly. That's one of the things I think
+that got me really focused on this issue of this coming impact.
+Back in 2009, I wrote my first book, which was called Lights in a Tunnel. That was self-published
+but did well enough that eventually led to the opportunity to write my second book, Rise
+of the Robots, which has gotten a lot more attention. That's how I got into this and
+became really focused on this particular issue.
+Because of personal experience, basically.
+Yeah, and that and also, of course, working in the industry and being very close to Moore's
+law to seeing what has happened with the acceleration of computing power. So, those two things together,
+I guess.
+Well, let's start from a very basic place. What is automation and how wide the impact
+of automation is now and will be in the coming years and decades?
+Well, automation is just any substitution of machines or computers for people in the workplace.
+And of course, that's something that's been going on for hundreds of years since the Luddite
+revolt. And certainly, within manufacturing, for example, it's already had a dramatic impact
+in terms of making factories in developed countries like the United States much less
+labor intensive. And that isn't new. What is new is that automation is now becoming
+artificial intelligence. And what that means is that it's pushing into the cognitive realm.
+So it's not just about machines that replace physical movements and manual labor anymore.
+It's about machines that are getting better and better at displacing cognitive skills.
+And most importantly, learning, our ability to learn and adapt, which is what all machine
+learning is all about. Partly because of the acceleration that's been going on for such
+a long time, we're now at a point where things are just moving at a dramatic pace. And we're
+at the point where the machines are starting to think, at least in a limited way. And that's
+going to be quite disruptive. Aside from technology, it seems like for centuries
+we've had the mentality to skip the work we don't want to do by outsourcing it to others.
+And it has resulted in the current civilization that we're living in. Would it be an accurate
+assumption that the rise of automation is a natural continuation of that mentality and
+approach? Sure. I mean, it's also driven by the market,
+right? I mean, the market creates a very powerful incentive for any business to economize on
+all its inputs, but certainly including it in that labor, which is for most businesses,
+the biggest expense that they have. So yeah, you're right. It's a natural progression
+of capitalism, really. And that, you know, so it's not anything particularly surprising.
+It's just that the technology is finally providing capabilities that weren't there before.
+And the consumers and workers who are being affected by it seems to be people who are
+feeding data to this whole system to begin with, right? Because a lot of people, for
+example, they complain about privacy, but they still share everything on Facebook and
+they use their smartphone for many different aspects of their life. They're basically training
+those artificial intelligence and workers in the factories, training those robots to
+catch on the pattern and then just do it again and again and again and again and improve
+upon it. Yeah, I mean, that's essentially right.
+I mean, there's enormous amounts of data being collected, especially inside corporations,
+big businesses. And in many cases, that data will include, will kind of encapsulate a lot
+of jobs, you know, and so eventually a machine learning algorithm will be able to go through
+that and figure out how to do a lot of things. And that's, you know, there's no easy way
+to turn that around. I think that, again, that's a natural thing that's going to continue
+to happen. So we have to figure out a way to adapt to all this, because it's going
+to be, I think, quite disruptive. Exactly, because technology is advancing exponentially
+while we seem to be hardwired to be linear. So do you think that at some point it will
+be necessary for us biological humans to start merging with technology more and more just
+so we can evolve with technology instead of being left behind?
+Well, that's one of the, you know, the big ideas in Silicon Valley and people like Ray
+Kurzweil and Peter Thiel and so forth certainly buy into that. I think that's absolutely true.
+To some extent, that's natural. Of course, we're going to have technology that will enhance
+us in many ways. Whether there's going to be this huge movement that will turn us all
+into cyborgs or not, I don't know. I think that's very speculative, but certainly we're
+going to incorporate more and more technology into ourselves. My view is that that won't
+necessarily solve this problem of, you know, jobs disappearing. But I do think it's probably
+an inevitable thing that's going to happen. How do you see humans evolving, if not into
+cyborgs? Well, I mean, I think that we will either
+remain relatively human and therefore it will be harder for us to keep up with the technology
+or maybe we will incorporate machines and brain implants and things like that to enhance
+our capabilities. Maybe it will be more on the biological side. You know, there's going
+to be certainly genetic engineering going on and especially in China. You know, they're
+doing a lot of research into how they might be able to essentially create smarter people
+through genetic engineering. That kind of thing is, you know, here in the West, it kind
+of is tainted with eugenics and all of that and we're a bit put off by that. So I don't
+think, you know, we could well see that the countries like China, where they don't see
+that as a taboo necessarily, are going to make a lot more progress. So there are many
+directions that we can evolve and I don't pretend to know what they are. The question
+though is, are human beings going to be able to keep up with artificial intelligence? And
+certainly there are good reasons to believe that the answer to that is going to be no,
+at least for a lot of typical people in our population. So just thinking specifically
+about the job market and the impact on work, I think it's very likely that all of this
+is going to greatly increase inequality and probably a lot of average typical workers
+are probably going to find it harder and harder to find a foothold in this economy. So they're
+probably going to be left behind.
+Universal basic income has been introduced as one of the solutions or the main solution
+for unemployment resulted by automation. What are your thoughts on UBI and are there any
+other ways beside UBI to create safety nets for those workers who are inevitably are going
+to lose their jobs?
+Well, yeah, I'm generally a proponent of a UBI. That's what I propose in my book. I do
+think it can be refined and improved in some ways. Most importantly, I've suggested that
+you could build incentives in it, especially for education. So imagine you're a struggling
+high school student and you're at risk of dropping out of school. Now, if you know that
+no matter what, you're going to end up with a basic income, same basic income as everyone
+else, then that creates a...
+Why would you go to school to begin with then?
+So I think what we should do is maybe pay people who graduate from high school a little
+bit more than those who just drop out, create those kinds of incentives, maybe also incentives
+to work in the community to do useful things. And that helps to also address the issue of
+what would people do then? Are they going to just take drugs and play video games if
+everyone has a basic income? So there are a lot of issues that need to be worked out
+there. I think that a basic income, as an idea, it's just kind of a starting point and
+we can refine it further. It is, of course, also tremendously expensive. And the problem
+is that it goes against our values in many cases, because most people don't like the
+idea of just giving people money. I mean, they disparage that as paying people to be
+alive or something like that.
+What I would say is that up until this point, our values have really emphasized production.
+And there's a good reason for that, of course, because up until now, human labor has been
+indispensable to the whole economy. But if in the future, at least for a lot of people,
+it's not going to be so important that they work because technology is going to take over
+more of this work, then we got to shift our values a little bit. And so to be more open
+to providing an income to people that don't have traditional full-time work in a way that
+we would expect today. And that's a big value shift. I mean, it's going to be very, very
+hard to accomplish that, especially here in the US, where we're more conservative than
+many other countries.
+So I do think it's a good idea. It's going to be very difficult to implement or to get
+people to accept the idea. But my feeling is that as this trend develops and we see
+a bigger and bigger impact on the workforce, it's almost inevitable that we have to move
+in that direction, something like that. If not that, then something probably equally
+radical.
+There are other ideas I've heard of proposed, but most of those are, I think, even more
+difficult.
+What are some of them? Can you give me an example?
+One that's been proposed is simply to give people lots of capital, give them an ownership
+and a mutual fund or something. Just give them money, not on an ongoing basis as income,
+but as a large sum to allow everyone to be a capitalist. I think that's even more politically
+infeasible than a basic income.
+But Martin, what is going to happen to the value of money itself, to the concept of money
+itself? Because money will be made out of the work that robots are doing. Bill Gates
+is saying that we have to tax robots. But what is going to happen to the value of money
+itself? Because people don't need to work as hard regardless of if they're going to
+keep their jobs or not. So what is the value system going to be in the next couple of years?
+Our values have to shift, but in terms of money, money is just a mechanism. It's what
+we use to enable transactions. So I don't think this changes the value of money as long
+as it's managed well and it's done in a way that doesn't create inflation, for example.
+But there's no particular reason it should. Inflation happens when you've got too much
+money out there and not enough things for people to buy. In the past, if you go back
+to the 1970s, there was a wage and price spiral where prices kept up and then people demanded
+higher wages off into the unions and so wages went off. But we don't see that anymore. That
+cycle has pretty much been broken, at least in the US. So I think none of this affects
+what money is. That's a separate question.
+So would you consider this whole argument about raising a minimum wage a viable argument?
+Because to me, it seems like when you raise a minimum wage, it just makes it harder for
+people with less education and less skill to get jobs to begin with because the businesses
+are spending more. Therefore, they're going to hire people who are more capable or they
+completely go towards automation to skip all of that.
+Right. It's a complex thing. My feeling is that no matter whether you raise the minimum
+wage or not, this phenomenon with automation is going to happen. Here in the US, the minimum
+wage is pretty low relative to a lot of other countries. So I'm not necessarily against
+raising it. I do think that it might, in some cases, produce automation sooner. But on the
+other hand, it would be helpful to a lot of people right now that are really struggling.
+If you're going to say we should never raise the minimum wage because of automation, then
+really what you're saying is that the solution to automation is to allow wages for people
+to sort of fall towards zero. And that's really not a solution.
+Now, if, however, you had a basic income, people would still have an incentive to work
+on the whole idea of a basic income as you implement it in a way that it does not destroy
+the incentive for people to work too. So people have that basic income and then they can work
+and earn more. So I think if you had a basic income, then maybe you could get rid of the
+minimum wage because people would already have a safety net. Beyond that, you could
+let people work for whatever the market says. So that's one way to approach it.
+Well, let me ask it in a different way because the reason I mentioned minimum wage because
+there's a movement behind it that they're using raising minimum wage as one of the main
+policies that they're backing. Do you think that the public is sufficiently informed and
+educated to adapt to the automated world?
+Well, I don't hear much about automation from the people who are protesting for raising
+minimum wage, for example. They're not as passionate about it or they don't know about
+it. I don't really know.
+I think in terms of all of this, it's still not something that's really visible to the
+public so much. I mean, definitely a lot of people are concerned about it. I go around
+doing speaking engagements all the time. There are a lot of interest in this subject, but
+it may be that it's coming from more elite groups and so forth. I think people are aware
+of it. But right now, I mean, there's a lot of dissatisfaction out there. We've got Donald
+Trump in the Oval Office. You might ask, why is that? Well, in part, that's because a lot
+of people feel that they're being left behind by progress. Now, those people are much more
+focused right now on globalization. They're likely to blame workers in China or they're
+likely to blame immigrants and less so on technology. But the reality is that that situation
+has been created to a large extent because of technology. It's probably the most important
+factor in the fact that those good solid middle-class jobs have disappeared. That's going to continue.
+It's going to accelerate. I do think there are things coming that will make it very,
+very visible. Just think of self-driving cars and trucks, for example. Once that happens,
+it's going to be in everyone's face. They're going to really see what's going on. And then
+at that point, I suspect you will see more of a political backlash against automation,
+which is not something I think is good. I think that's a bad thing because I don't think
+we want to stop this progress at all. But we do need to find a way to adapt to it.
+Do you think we're headed, let's say in 2020, as you rightly mentioned, all the unemployment,
+which was a major issue in the past U.S. presidential election race, but nobody talked about automation.
+But do you think automation will become a main scapegoat maybe for politicians in order
+to be elected? I think it would definitely become a political
+issue. I'm not quite sure how the politicians will leverage it or spin it. But I mean, it
+might not be in 2020. That's only three years away. But within 10 years, say, I think it's
+going to definitely be a big political issue and a social issue. And it will become much
+more central. Right now, there's still a debate. There's not consensus on this, OK? You can
+find economists, certainly very smart people, who would disagree with everything that I'm
+saying about this. And I'll say, don't worry. Everything will work out. Maybe they're right.
+But I suspect not. And I think that within 10 years or so, it'll become a lot more obvious
+that that's the case. Yeah, we've been talking about automation
+a lot on this show. But it seems to me that the public is very either dismissive towards
+it as a mainstream subject. They're still calling it sci-fi. And maybe that's why politicians
+are not really talking about it now. But it's something that we have to deal with it regardless.
+Yeah, I mean, it definitely is going to be a huge issue. I mean, I think ultimately it
+could be not too different from climate change in terms of the impact all of this has. So
+it's going to be an enormously important issue, I think. That's my opinion. Again, we don't
+have the consensus on this that we do on an issue like climate change, where virtually
+all the scientists agree. But that's my view. It's going to be a huge thing that's going
+to demand a policy response. Yeah, I agree.
+I was watching the coverage of President Trump's speech at NATO headquarters earlier today.
+And they were talking about how to plan for building the new headquarters for NATO established
+in 1999. Politics obviously has had a lot to do with the almost 20 years gap between
+the plan and the execution. And there are many other examples of inefficiencies that
+exist in our political systems. Are we going to see automation entering politics itself?
+In other words, as technology is changing our world fast, yet politics seems to be slowing
+things down. Do you think these systems, including politics, are in need of reformation themselves?
+Politics, our economy, banking system, insurance system?
+Yeah, I mean, it's definitely a huge issue. The political system moves very slow in all
+countries, especially in the U.S. I mean, the example I always use here in the U.S.
+is healthcare. It took at least 80 years from the time we started first talking about universal
+healthcare to get to Obamacare. And now, of course, they're trying to destroy that. So
+the problem we face with this is this technology is accelerating. And all of this is going
+to happen really fast, potentially. We don't know how fast. I mean, I guess 10 years, something
+like that. But who knows? Maybe it's really five years. And the political system moves
+very, very slowly. So it's going to be a big problem in terms of adapting to all of this.
+I mean, we saw back in the financial crisis 2008 that our regulatory system was not equipped
+to deal with these complex, sophisticated derivatives and so forth that were being used
+on Wall Street. And those, of course, emerged from computer power. I mean, without computers,
+you wouldn't have had those. So that's just one example of how it's already had an enormous
+impact. It could get a lot bigger and worse. So yeah, I've heard proposals. Let's use artificial
+intelligence to replace politicians and so forth. I mean, you know, that's not at this
+point constitutional. So why isn't it constitutional? Well, actual politicians are, you know, we
+the people in the constitutions. So, you know, I don't think you can replace them with an
+artificial entity. But certainly, AI and big data and algorithmic approaches have got more,
+are going to play more of a role in government. I mean, this will happen in government too,
+you know, slower than it happens in the private sector, certainly. But it's going to have
+an impact there. I mean, maybe someday that we will go the route of using more AI in a
+political arena. But that's a huge jump. And remember that the politicians are very, very
+interested in protecting their jobs, even as everyone else's jobs are automated, and
+they're the ones that ultimately have the power to protect their own jobs. So, you know,
+that's not something I would expect to see probably in my lifetime. But no, well, they're
+businessmen, right? Business is conservative. Do you think the constitution itself needs
+to change? Because after all, it's a document that's been written before the discovery or
+invention of electricity. Yeah, I mean, it's not, I don't believe that the constitution
+is a divine, perfect document, as some people do. I mean, it's certainly had a good history.
+It was designed to be amended, right? I mean, it's just, it's turned out it's very, very
+difficult to do that. Particularly because of the political polarization in the
+United States. Partisan issues, right? Yes. But it wouldn't surprise me if we do need
+to modify it in the future. It is definitely, you know, many people think the United States
+is really run into a situation where our system of government is putting us at a disadvantage
+relative to countries that have a parliamentary system, because you can, it's a lot easier
+to get stuff done in a parliamentary system than it is in our presidential constitutional
+system, where there are so many checks and balances, which have always been perceived
+as a good thing. But right now, the checks are really becoming a bit overwhelming in
+some cases, I think. Do you think it also has something to do with the impact of religion
+in the United States? Because I'm from Iran originally, and talking to ordinary people
+in America, they're just as religious as ordinary people in Iran. They just have different religion.
+So you mentioned China, how they're advancing in certain areas that the United States is
+not advancing. And to me, it has something to do with religion as well. What's the deal
+with religion and the impact of it in our society? Well, you know, I myself would not
+be unhappy at all to see religion get toned down somewhat and more like it is in Europe
+where people are less religious, but it is the case in United States is definitely playing
+a major role. You know, some people do believe that all of our morality and values derive
+from from religion. I mean, that may be true historically, perhaps, but I don't think it's
+essential to be, you know, to have morality to be religious. I mean, you can, people like
+Sam Harris, I think have made a pretty strong case that you can derive basic morality directly
+from science. Right. So I just don't see that happening in the United States. I mean, I
+don't think that this is a country that's going to walk away from religion. So that's
+just a reality that we've got to live with. And unlike, you know, while I'm kind of ambivalent
+about it, I'm not going to be like, you know, someone like Richard Dawson, who is very aggressive
+at, you know, attacking religion, because I that's probably counterproductive. I mean,
+religion is something that people pick up from a very, very early age, right? It becomes
+sort of central to who you are. And it's very, very difficult to to to, you know, do anything
+to to eliminate that unless it sort of happens organically, the way it did in, for the most
+part in Europe, I guess. So but, you know, there are a lot of interesting interesting
+implications to all this. As you said, we're more likely to have taboos. I mean, stem stem
+cell research is, you know, sort of the best example of that of how the United States is
+perhaps held back by that in terms of some scientific endeavors. The thing I mentioned
+with the Chinese working on intelligence and so forth may be another thing, you know, so
+that may actually give other countries an advantage in pursuing some of these scientific
+endeavors if if the religious forces in the United States tend to hold us back. The other
+thing is that there's all this talk of, you know, the singularity and things like this
+out of Silicon Valley and that in some ways, this is technological futuristic kind of take
+is becoming a religion in its own right. You know, there you hear a lot of people in Silicon
+Valley who believe that they are literally going to live forever. They're going to they're
+going to get immortality not in the way that that, you know, religious people wanted in
+the afterlife, but they're going to get it right here and now in this life. So what happens
+when that kind of thing really, you know, intersects with with religion? I mean, there
+are a lot of unpredictable things there, I think.
+That's interesting. You mentioned I had some transhumanist Christians on the show and it
+seems to me that they're using technology and transhumanism. However, they're defining
+it to justify the religion. So, for example, I had a gentleman named Christopher Benwick
+who started Christian Transhumanist Association and he believed that our rise of artificial
+intelligence and mortality through technology has no opposition to teachings of Bible and
+Jesus. It just has to be interpreted correctly.
+Yeah, I mean, I think people that have very strong religious beliefs, they can adapt to
+almost anything, you know, I mean, if aliens from outer space landed, I mean, they figure
+out a way to adapt to that. Right. So just like many religious people have found a way
+to find a common ground with evolution, right? Not all religious people reject the idea of
+religion or evolution and cling to the idea that, you know, the creation story is true
+and so forth. So, you know, I mean, there's some flexibility there.
+Do you think that we're at the point that we have to address certain things that we
+have taken for granted, like ethics and morality, because we are translating all of that into
+machines, into artificial intelligence. So one of the questions that I usually ask my
+guess is that, do you think ethics and morality are subjective or objective?
+I think that certain things are fairly objective. I mean, you know, sort of the golden rule,
+don't hurt anyone else, treat people the way that they...
+But we're still doing that though on a daily basis. It's not like laws of physics. So how
+are we going to tell an artificial intelligence, for example, that killing is bad?
+Well, I think that, you know, that's not quite my area, but I mean, I assume they will program
+that in. They will, you know, they will, or it will arise from the data, from the learn,
+you know, that the AI is trained on, right? I mean, I think that there's an enormous amount
+of attention to that right now. Actually, people like Elon Musk, for example, have invested
+a lot in building think tanks that are thinking about this issue of how to build friendly
+AI and so forth. So I think a lot of work is being done there, whether it will be successful.
+I mean, that's speaking in terms of a general artificial intelligence. Now, they're going
+to be specialized artificial intelligence that are specifically designed to kill people,
+certainly in military applications and so forth. So, I mean, you're right, that's a
+bit scary. But as long as we view technology as a tool and something that's inanimate,
+I think that, you know, we're not going to worry too much about what it does. The morality
+aspect is going to come from the people that control that technology, not the technology
+itself.
+Exactly. I was reading an article about how Google AI start to learn that aggression pays
+back in certain situations and becoming aggressive in certain situations because they just learn
+from data. So that's basically what I mean, that aren't we entering an era that we have
+to start discussing some fundamental core that define all of us, which, by the way,
+is different culture to culture, a lot of them.
+Yeah, I mean, I think that the discussion of what to do with AI is certainly happening,
+you know, discussing morals. The problem is having a discussion doesn't necessarily lead
+to any answers.
+Of course not, yes.
+You can argue that we are having the discussion. I mean, certainly there are people discussing
+that now. I mean, I mentioned Sam Harris. He's someone that is very into this. You can
+listen to his podcast, right? I mean, so there's a discussion, but I mean, is it going to really
+achieve consensus? I mean, let me look around the world today, especially with the radical,
+you know, the terrorists and everything and how that's driven by religion. I mean, good
+luck in getting everyone together and agreeing on, you know, some basic rules. So it seems
+almost like that's so remote and we certainly can't wait for that before we start worrying
+about what to do with artificial intelligence because, I mean, I think we'd basically be
+waiting forever.
+What would you suggest to people in order to preparing themselves for what's coming,
+artificial intelligence and automation and everything that comes with it?
+I would say specifically in terms of your job and you want to remain relevant, you know,
+you want to avoid doing anything that's routine, repetitive, predictable, right? Because you
+know that those jobs are going to be susceptible. So instead try to be doing something creative,
+something that really involves working deeply with other people, you know, building those
+kind of interpersonal relationships. Those are the areas that are going to be least susceptible
+to automation. So that's what I would advise people to do that in their own careers. And
+if you have kids in school studying, you want to make them make sure that they're studying
+things that can lead to that kind of career as opposed to sitting in front of a computer
+doing the same thing again and again, because that's, you know, something that's going to
+be automated. And then generally, I think we need to have more awareness of this so
+that people can begin to think about what we need to do in terms of policies, you know,
+public policies to address all of these issues, whether it's going to be a basic income to
+deal with the impact of automation. And you mentioned, you know, the moral and ethical
+issues that there are many of those that are going to intersect with this technology, certainly
+in military arenas and so forth and security arenas. So people need to be more aware of
+it and more ready to engage in this discussion or they're not going to have a voice in how
+all this unfolds.
+Yeah. So you recommend them to focus on what makes them unique, basically, because I heard
+from Ray Kurzweil that he was suggesting if you have kids in school, suggest to them to
+do something that has something to do with computer. But as you're correctly mentioning,
+not everything doing with computer is going to guarantee that you will have a job or you
+have a career.
+Not at all. I mean, everyone thinks if you learn to program a computer that you're going
+to have a safe job. And that's not true. I mean, basic computer programming, routine
+computer programming is also something that's going to be subject to automation. There's
+already a lot of people working on that already have been some important developments there.
+So if you're going to work with computers, you're probably going to have to, you know,
+it's going to require some fairly high level skills, you know, in terms of, you know, design
+and creativity and that kind of thing. It's just not a question of learning how to program
+that's going to keep you ahead of the game.
+Right. Another argument is that in the beginning of industrial revolution, 95% of jobs apparently
+completely wiped out. But they couldn't imagine that we have a job like web developer or robotic
+engineer. So new jobs will be created as a consequence of the situation. What do you
+think?
+Yeah, sure they will. Yeah. The question is how many new jobs and are those jobs going
+to be a good match for the people that lose jobs? Okay. So yeah, you talked about website
+designer and robotics engineer, but not everyone can do those jobs. All right. Now people are
+right now working at McDonald's or driving a taxi that, you know, you're not going to
+make them all into those kinds of professions. And nor is it the case that there's necessarily
+going to be enough of those jobs. Okay. So those new areas do exist, but they're actually
+not a very big fraction of employment. I mean, most people, but the vast majority of people
+still work in traditional areas, you know, things like driving vehicles, preparing and
+serving food. I mean, the most common occupations are retail salesperson, cashier, truck driver.
+You know, these are all the most common occupations that we have. A lot of people doing that kind
+of work and a lot of that is going to be definitely subject to automation.
+Yeah. And I think it would be fair to assume that a lot of those people are just not going
+to make it in the new world, right? It's going to get increasingly hard. Right.
+And that's again, why I think we need that basic income because otherwise we're going
+to have all kinds of social upheaval, political disruption. You know, it'll be pretty ugly,
+I think, if things play out the way I suspect they are. So, you know, again, we really need
+to think about what policies we're going to have to have in place in order to adapt to
+all of this.
+The way we're evolving is changing really fast because we're more and more dependent
+on technology. For example, I was talking on a space channel here in Toronto about how
+Ghost in a Shell, when it came out, it was almost completely for everybody except maybe
+some academics, science fiction. But the new one that was made came out a few days after
+Elon Musk started his new company that connects human brain to the machine. Where do you think
+we're going with evolution?
+I mean, all this is just kind of so unpredictable that, I mean, it's to some extent pointless
+to really speculate on specific outcomes. What we can say is that there's going to be
+a big disruption. I think we'll be on this planet for quite a while. I mean, I know Elon
+is planning to go to Mars, but my guess is that from a practical standpoint, if we're
+going to explore space, the way to do it is probably robotic spaceships for the foreseeable
+future rather than really sending people. To me, that sounds a lot more effective as
+a way to do it. But this merging with the machines is definitely going to happen to
+some extent. The question is how radical will that be? And I don't pretend to know the answer
+to that. Other people feel very strongly about it. Ray Kurzweil. Some other people have made
+similar predictions. And then of course, there's also on the biological side. If we can enhance
+ourselves genetically and so forth, maybe that's how the evolution will occur.
+So I don't pretend to know which is going to be, but I do think that we should prepare
+ourselves for dramatic change. It's difficult to speculate, but there is
+a trend that we can see how fast things are changing now compared to maybe 10, 20 years
+ago. Absolutely. I mean, there's no doubt that
+the next 10 years is not going to be like the last 10 years. That's for sure. Things
+are moving at a rapid rate. But I think that to some extent, that's all you can say is
+that things are going to move a lot faster. They're going to change. You can point to
+some fairly obvious things, like I think the impact on employment is fairly straightforward.
+In terms of the evolution of human beings, it's quite speculative. I think they really
+take a strong stand on how that's going to play out.
+Right. Yeah. I always had a little difficulty buying completely into bio-enhancements and
+maybe bio-immortality because we still have to deal with this planet and everybody who's
+living in it. We're dealing with climate change. We're dealing with wars. A lot of things are
+specific to humans, this territorial nature of humanity and tribal nature of humanity.
+It just seems to me, well, we can live longer if we enhance our self-biologically, but is
+it really going to be any better if we live 1,000 years and war and you know?
+Yeah. There are a lot of issues there. There are people like Aubrey DeGray who are very
+heavily invested in this idea of immortality. I'm not myself. I don't anticipate living
+forever.
+You don't like it or you don't think it's going to happen?
+I don't think it's going to happen. I'll certainly, like anyone else, do my best to stick around
+as long as possible, at least as long as I'm healthy. I certainly would not want to have
+longevity without good health.
+Some people say death gives meaning to life. I don't buy into that.
+I wouldn't say that, but I do think it's probably inevitable for the foreseeable future. I'm
+not very optimistic that they're going to solve the mortality problem.
+Of course, as you say, there are huge issues with that in terms of population and stuff
+like that. DeGray says people will decide they're not going to have kids anymore. That
+seems a little unlikely to me based on my experience. There definitely are enormous
+challenges associated with that if it happens. There's also the issue of inequality, the
+fact that these technologies, at least initially, would be available only to very rich people
+probably. That's going to create all kinds of conflict worse than we have now. In many
+ways, it could be quite ugly if those technologies are really realized, I think.
+Speculations aside, would you agree that the best way for people to being able to adapt
+to what's coming is just keep educating themselves?
+Sure. Everything is going to move at a more rapid rate. Certainly, the days where you
+go to school, stop going to school, get a job, stay in that job for your whole career,
+that's over already, I think. Most people understand that. People are going to have
+to continuously retool. I think that's great. We should make sure that there are educational
+resources out there for people to do that. We also have to understand that probably not
+everyone is going to succeed in that kind of world.
+That's why we're going to need to have that basic income or some other kind of safety
+net.
+Martin, let me ask you the last question I ask all my guests, that if you come across
+an intelligent alien from a different civilization, what would you say is the worst thing humanity
+has done and what would you say is humanity's greatest achievement?
+Probably the worst thing is to destroy our environment. We're really putting the earth
+at risk. Plenty of other things you could list, things that we've done to ourselves
+and to other people, the genocides and all of that, but the single thing that really
+stands out is that we've generally just not managed our planet well.
+Our greatest achievement is our technology. The thing that we're talking about here, that
+we're maybe on the verge of building another intelligence that might someday be superior
+to us. That's a fairly unique achievement. Certainly no other entity on this planet could
+even come close to that. That's pretty remarkable. I suspect that if aliens did arrive, then
+they've gone through that same process. It may well be that whatever arrives is a robotic
+spaceship rather than an actual alien.
+.

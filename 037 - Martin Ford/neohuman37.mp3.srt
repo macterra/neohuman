@@ -1,0 +1,1896 @@
+1
+00:00:00,000 --> 00:00:06,560
+up until now, human labor has been indispensable to the whole economy. But if in the future,
+
+2
+00:00:06,560 --> 00:00:11,840
+at least for a lot of people, it's not going to be so important that they work because
+
+3
+00:00:11,840 --> 00:00:15,240
+technology is going to take over more of this work, then we've got to shift our values a
+
+4
+00:00:15,240 --> 00:00:22,080
+little bit and be more open to providing an income to people that don't have traditional
+
+5
+00:00:22,080 --> 00:00:32,720
+full-time work in a way that we would expect today.
+
+6
+00:00:32,720 --> 00:00:39,480
+Hello and welcome to the 37th episode of Neo Human Podcast. I'm Agah Bahari, an agologist
+
+7
+00:00:39,480 --> 00:00:47,440
+on Twitter and Instagram, and you can follow the show on LiveInLimbo.com, iTunes, and YouTube.
+
+8
+00:00:47,440 --> 00:00:51,560
+With me today, I have Martin Ford. Welcome to the show, Martin.
+
+9
+00:00:51,560 --> 00:00:52,560
+Thanks for having me.
+
+10
+00:00:52,560 --> 00:00:57,160
+It's my pleasure. Why don't we start by some of your background, the works you've done,
+
+11
+00:00:57,160 --> 00:01:00,000
+and what you're focusing on mainly now these days?
+
+12
+00:01:00,000 --> 00:01:05,080
+Well, I've written two books, both of which are focused on the impact that robotics and
+
+13
+00:01:05,080 --> 00:01:09,240
+artificial intelligence are going to have on the economy and especially the job market.
+
+14
+00:01:09,240 --> 00:01:13,120
+I mean, the basic thesis of the books is that a lot of jobs are going to be automated. That's
+
+15
+00:01:13,120 --> 00:01:18,880
+something that's interested me for a while. I started out running a small software business
+
+16
+00:01:18,880 --> 00:01:24,440
+here in Silicon Valley. I started that back in the 1990s, and I saw even in that little
+
+17
+00:01:24,440 --> 00:01:30,920
+business the impact on jobs. It used to be that software was shipped on tangible media,
+
+18
+00:01:30,920 --> 00:01:35,360
+on CD-ROMs, and so there was work there for people to do the fulfillment to actually ship
+
+19
+00:01:35,360 --> 00:01:40,440
+that product to customers, but that disappeared very rapidly. That's one of the things I think
+
+20
+00:01:40,440 --> 00:01:45,480
+that got me really focused on this issue of this coming impact.
+
+21
+00:01:45,480 --> 00:01:51,640
+Back in 2009, I wrote my first book, which was called Lights in a Tunnel. That was self-published
+
+22
+00:01:51,640 --> 00:01:55,440
+but did well enough that eventually led to the opportunity to write my second book, Rise
+
+23
+00:01:55,440 --> 00:02:01,120
+of the Robots, which has gotten a lot more attention. That's how I got into this and
+
+24
+00:02:01,120 --> 00:02:03,720
+became really focused on this particular issue.
+
+25
+00:02:03,720 --> 00:02:06,320
+Because of personal experience, basically.
+
+26
+00:02:06,320 --> 00:02:11,640
+Yeah, and that and also, of course, working in the industry and being very close to Moore's
+
+27
+00:02:11,640 --> 00:02:18,840
+law to seeing what has happened with the acceleration of computing power. So, those two things together,
+
+28
+00:02:18,840 --> 00:02:19,840
+I guess.
+
+29
+00:02:19,840 --> 00:02:24,520
+Well, let's start from a very basic place. What is automation and how wide the impact
+
+30
+00:02:24,520 --> 00:02:28,240
+of automation is now and will be in the coming years and decades?
+
+31
+00:02:28,240 --> 00:02:35,640
+Well, automation is just any substitution of machines or computers for people in the workplace.
+
+32
+00:02:35,640 --> 00:02:39,400
+And of course, that's something that's been going on for hundreds of years since the Luddite
+
+33
+00:02:39,400 --> 00:02:46,760
+revolt. And certainly, within manufacturing, for example, it's already had a dramatic impact
+
+34
+00:02:46,760 --> 00:02:51,160
+in terms of making factories in developed countries like the United States much less
+
+35
+00:02:51,160 --> 00:02:58,880
+labor intensive. And that isn't new. What is new is that automation is now becoming
+
+36
+00:02:58,880 --> 00:03:03,760
+artificial intelligence. And what that means is that it's pushing into the cognitive realm.
+
+37
+00:03:03,760 --> 00:03:10,440
+So it's not just about machines that replace physical movements and manual labor anymore.
+
+38
+00:03:10,440 --> 00:03:18,560
+It's about machines that are getting better and better at displacing cognitive skills.
+
+39
+00:03:18,560 --> 00:03:23,680
+And most importantly, learning, our ability to learn and adapt, which is what all machine
+
+40
+00:03:23,680 --> 00:03:29,720
+learning is all about. Partly because of the acceleration that's been going on for such
+
+41
+00:03:29,720 --> 00:03:34,280
+a long time, we're now at a point where things are just moving at a dramatic pace. And we're
+
+42
+00:03:34,280 --> 00:03:39,280
+at the point where the machines are starting to think, at least in a limited way. And that's
+
+43
+00:03:39,280 --> 00:03:43,960
+going to be quite disruptive. Aside from technology, it seems like for centuries
+
+44
+00:03:43,960 --> 00:03:49,400
+we've had the mentality to skip the work we don't want to do by outsourcing it to others.
+
+45
+00:03:49,400 --> 00:03:53,680
+And it has resulted in the current civilization that we're living in. Would it be an accurate
+
+46
+00:03:53,680 --> 00:03:58,200
+assumption that the rise of automation is a natural continuation of that mentality and
+
+47
+00:03:58,200 --> 00:04:02,920
+approach? Sure. I mean, it's also driven by the market,
+
+48
+00:04:02,920 --> 00:04:09,480
+right? I mean, the market creates a very powerful incentive for any business to economize on
+
+49
+00:04:09,480 --> 00:04:15,160
+all its inputs, but certainly including it in that labor, which is for most businesses,
+
+50
+00:04:15,160 --> 00:04:20,640
+the biggest expense that they have. So yeah, you're right. It's a natural progression
+
+51
+00:04:20,640 --> 00:04:27,680
+of capitalism, really. And that, you know, so it's not anything particularly surprising.
+
+52
+00:04:27,680 --> 00:04:33,480
+It's just that the technology is finally providing capabilities that weren't there before.
+
+53
+00:04:33,480 --> 00:04:37,360
+And the consumers and workers who are being affected by it seems to be people who are
+
+54
+00:04:37,360 --> 00:04:44,200
+feeding data to this whole system to begin with, right? Because a lot of people, for
+
+55
+00:04:44,200 --> 00:04:49,280
+example, they complain about privacy, but they still share everything on Facebook and
+
+56
+00:04:49,280 --> 00:04:54,560
+they use their smartphone for many different aspects of their life. They're basically training
+
+57
+00:04:54,560 --> 00:05:00,800
+those artificial intelligence and workers in the factories, training those robots to
+
+58
+00:05:00,800 --> 00:05:05,320
+catch on the pattern and then just do it again and again and again and again and improve
+
+59
+00:05:05,320 --> 00:05:08,640
+upon it. Yeah, I mean, that's essentially right.
+
+60
+00:05:08,640 --> 00:05:13,760
+I mean, there's enormous amounts of data being collected, especially inside corporations,
+
+61
+00:05:13,760 --> 00:05:19,840
+big businesses. And in many cases, that data will include, will kind of encapsulate a lot
+
+62
+00:05:19,840 --> 00:05:23,720
+of jobs, you know, and so eventually a machine learning algorithm will be able to go through
+
+63
+00:05:23,720 --> 00:05:29,600
+that and figure out how to do a lot of things. And that's, you know, there's no easy way
+
+64
+00:05:29,600 --> 00:05:33,000
+to turn that around. I think that, again, that's a natural thing that's going to continue
+
+65
+00:05:33,000 --> 00:05:36,920
+to happen. So we have to figure out a way to adapt to all this, because it's going
+
+66
+00:05:36,920 --> 00:05:41,240
+to be, I think, quite disruptive. Exactly, because technology is advancing exponentially
+
+67
+00:05:41,240 --> 00:05:46,760
+while we seem to be hardwired to be linear. So do you think that at some point it will
+
+68
+00:05:46,760 --> 00:05:52,280
+be necessary for us biological humans to start merging with technology more and more just
+
+69
+00:05:52,280 --> 00:05:55,600
+so we can evolve with technology instead of being left behind?
+
+70
+00:05:55,600 --> 00:06:01,560
+Well, that's one of the, you know, the big ideas in Silicon Valley and people like Ray
+
+71
+00:06:01,560 --> 00:06:07,160
+Kurzweil and Peter Thiel and so forth certainly buy into that. I think that's absolutely true.
+
+72
+00:06:07,160 --> 00:06:12,040
+To some extent, that's natural. Of course, we're going to have technology that will enhance
+
+73
+00:06:12,040 --> 00:06:16,760
+us in many ways. Whether there's going to be this huge movement that will turn us all
+
+74
+00:06:16,760 --> 00:06:21,120
+into cyborgs or not, I don't know. I think that's very speculative, but certainly we're
+
+75
+00:06:21,120 --> 00:06:28,000
+going to incorporate more and more technology into ourselves. My view is that that won't
+
+76
+00:06:28,000 --> 00:06:34,540
+necessarily solve this problem of, you know, jobs disappearing. But I do think it's probably
+
+77
+00:06:34,540 --> 00:06:40,960
+an inevitable thing that's going to happen. How do you see humans evolving, if not into
+
+78
+00:06:40,960 --> 00:06:46,480
+cyborgs? Well, I mean, I think that we will either
+
+79
+00:06:46,480 --> 00:06:54,000
+remain relatively human and therefore it will be harder for us to keep up with the technology
+
+80
+00:06:54,000 --> 00:06:59,280
+or maybe we will incorporate machines and brain implants and things like that to enhance
+
+81
+00:06:59,280 --> 00:07:05,000
+our capabilities. Maybe it will be more on the biological side. You know, there's going
+
+82
+00:07:05,000 --> 00:07:11,120
+to be certainly genetic engineering going on and especially in China. You know, they're
+
+83
+00:07:11,120 --> 00:07:16,920
+doing a lot of research into how they might be able to essentially create smarter people
+
+84
+00:07:16,920 --> 00:07:23,640
+through genetic engineering. That kind of thing is, you know, here in the West, it kind
+
+85
+00:07:23,640 --> 00:07:31,920
+of is tainted with eugenics and all of that and we're a bit put off by that. So I don't
+
+86
+00:07:31,920 --> 00:07:35,720
+think, you know, we could well see that the countries like China, where they don't see
+
+87
+00:07:35,720 --> 00:07:39,420
+that as a taboo necessarily, are going to make a lot more progress. So there are many
+
+88
+00:07:39,420 --> 00:07:43,840
+directions that we can evolve and I don't pretend to know what they are. The question
+
+89
+00:07:43,840 --> 00:07:49,880
+though is, are human beings going to be able to keep up with artificial intelligence? And
+
+90
+00:07:49,880 --> 00:07:54,080
+certainly there are good reasons to believe that the answer to that is going to be no,
+
+91
+00:07:54,080 --> 00:07:59,720
+at least for a lot of typical people in our population. So just thinking specifically
+
+92
+00:07:59,720 --> 00:08:05,520
+about the job market and the impact on work, I think it's very likely that all of this
+
+93
+00:08:05,520 --> 00:08:10,740
+is going to greatly increase inequality and probably a lot of average typical workers
+
+94
+00:08:10,740 --> 00:08:15,920
+are probably going to find it harder and harder to find a foothold in this economy. So they're
+
+95
+00:08:15,920 --> 00:08:18,720
+probably going to be left behind.
+
+96
+00:08:18,720 --> 00:08:22,960
+Universal basic income has been introduced as one of the solutions or the main solution
+
+97
+00:08:22,960 --> 00:08:29,520
+for unemployment resulted by automation. What are your thoughts on UBI and are there any
+
+98
+00:08:29,520 --> 00:08:35,000
+other ways beside UBI to create safety nets for those workers who are inevitably are going
+
+99
+00:08:35,000 --> 00:08:36,000
+to lose their jobs?
+
+100
+00:08:36,000 --> 00:08:42,640
+Well, yeah, I'm generally a proponent of a UBI. That's what I propose in my book. I do
+
+101
+00:08:42,640 --> 00:08:49,480
+think it can be refined and improved in some ways. Most importantly, I've suggested that
+
+102
+00:08:49,480 --> 00:08:55,340
+you could build incentives in it, especially for education. So imagine you're a struggling
+
+103
+00:08:55,340 --> 00:08:59,600
+high school student and you're at risk of dropping out of school. Now, if you know that
+
+104
+00:08:59,600 --> 00:09:03,960
+no matter what, you're going to end up with a basic income, same basic income as everyone
+
+105
+00:09:03,960 --> 00:09:05,960
+else, then that creates a...
+
+106
+00:09:05,960 --> 00:09:10,360
+Why would you go to school to begin with then?
+
+107
+00:09:10,360 --> 00:09:14,340
+So I think what we should do is maybe pay people who graduate from high school a little
+
+108
+00:09:14,340 --> 00:09:19,700
+bit more than those who just drop out, create those kinds of incentives, maybe also incentives
+
+109
+00:09:19,700 --> 00:09:24,280
+to work in the community to do useful things. And that helps to also address the issue of
+
+110
+00:09:24,280 --> 00:09:28,360
+what would people do then? Are they going to just take drugs and play video games if
+
+111
+00:09:28,360 --> 00:09:32,760
+everyone has a basic income? So there are a lot of issues that need to be worked out
+
+112
+00:09:32,760 --> 00:09:36,840
+there. I think that a basic income, as an idea, it's just kind of a starting point and
+
+113
+00:09:36,840 --> 00:09:44,240
+we can refine it further. It is, of course, also tremendously expensive. And the problem
+
+114
+00:09:44,240 --> 00:09:50,360
+is that it goes against our values in many cases, because most people don't like the
+
+115
+00:09:50,360 --> 00:09:55,320
+idea of just giving people money. I mean, they disparage that as paying people to be
+
+116
+00:09:55,320 --> 00:09:58,040
+alive or something like that.
+
+117
+00:09:58,040 --> 00:10:03,640
+What I would say is that up until this point, our values have really emphasized production.
+
+118
+00:10:03,640 --> 00:10:07,640
+And there's a good reason for that, of course, because up until now, human labor has been
+
+119
+00:10:07,640 --> 00:10:13,800
+indispensable to the whole economy. But if in the future, at least for a lot of people,
+
+120
+00:10:13,800 --> 00:10:18,520
+it's not going to be so important that they work because technology is going to take over
+
+121
+00:10:18,520 --> 00:10:23,620
+more of this work, then we got to shift our values a little bit. And so to be more open
+
+122
+00:10:23,620 --> 00:10:30,040
+to providing an income to people that don't have traditional full-time work in a way that
+
+123
+00:10:30,040 --> 00:10:34,080
+we would expect today. And that's a big value shift. I mean, it's going to be very, very
+
+124
+00:10:34,080 --> 00:10:40,120
+hard to accomplish that, especially here in the US, where we're more conservative than
+
+125
+00:10:40,120 --> 00:10:43,720
+many other countries.
+
+126
+00:10:43,720 --> 00:10:48,680
+So I do think it's a good idea. It's going to be very difficult to implement or to get
+
+127
+00:10:48,680 --> 00:10:53,560
+people to accept the idea. But my feeling is that as this trend develops and we see
+
+128
+00:10:53,560 --> 00:10:56,760
+a bigger and bigger impact on the workforce, it's almost inevitable that we have to move
+
+129
+00:10:56,760 --> 00:11:04,120
+in that direction, something like that. If not that, then something probably equally
+
+130
+00:11:04,120 --> 00:11:05,480
+radical.
+
+131
+00:11:05,480 --> 00:11:10,600
+There are other ideas I've heard of proposed, but most of those are, I think, even more
+
+132
+00:11:10,600 --> 00:11:11,600
+difficult.
+
+133
+00:11:11,600 --> 00:11:14,320
+What are some of them? Can you give me an example?
+
+134
+00:11:14,320 --> 00:11:18,520
+One that's been proposed is simply to give people lots of capital, give them an ownership
+
+135
+00:11:18,520 --> 00:11:24,840
+and a mutual fund or something. Just give them money, not on an ongoing basis as income,
+
+136
+00:11:24,840 --> 00:11:31,200
+but as a large sum to allow everyone to be a capitalist. I think that's even more politically
+
+137
+00:11:31,200 --> 00:11:33,000
+infeasible than a basic income.
+
+138
+00:11:33,000 --> 00:11:37,240
+But Martin, what is going to happen to the value of money itself, to the concept of money
+
+139
+00:11:37,240 --> 00:11:43,080
+itself? Because money will be made out of the work that robots are doing. Bill Gates
+
+140
+00:11:43,080 --> 00:11:50,680
+is saying that we have to tax robots. But what is going to happen to the value of money
+
+141
+00:11:50,680 --> 00:11:55,080
+itself? Because people don't need to work as hard regardless of if they're going to
+
+142
+00:11:55,080 --> 00:12:03,600
+keep their jobs or not. So what is the value system going to be in the next couple of years?
+
+143
+00:12:03,600 --> 00:12:08,520
+Our values have to shift, but in terms of money, money is just a mechanism. It's what
+
+144
+00:12:08,520 --> 00:12:16,640
+we use to enable transactions. So I don't think this changes the value of money as long
+
+145
+00:12:16,640 --> 00:12:20,400
+as it's managed well and it's done in a way that doesn't create inflation, for example.
+
+146
+00:12:20,400 --> 00:12:27,240
+But there's no particular reason it should. Inflation happens when you've got too much
+
+147
+00:12:27,240 --> 00:12:34,280
+money out there and not enough things for people to buy. In the past, if you go back
+
+148
+00:12:34,280 --> 00:12:42,360
+to the 1970s, there was a wage and price spiral where prices kept up and then people demanded
+
+149
+00:12:42,360 --> 00:12:48,240
+higher wages off into the unions and so wages went off. But we don't see that anymore. That
+
+150
+00:12:48,240 --> 00:12:56,680
+cycle has pretty much been broken, at least in the US. So I think none of this affects
+
+151
+00:12:56,680 --> 00:12:59,400
+what money is. That's a separate question.
+
+152
+00:12:59,400 --> 00:13:05,160
+So would you consider this whole argument about raising a minimum wage a viable argument?
+
+153
+00:13:05,160 --> 00:13:09,680
+Because to me, it seems like when you raise a minimum wage, it just makes it harder for
+
+154
+00:13:09,680 --> 00:13:13,920
+people with less education and less skill to get jobs to begin with because the businesses
+
+155
+00:13:13,920 --> 00:13:20,380
+are spending more. Therefore, they're going to hire people who are more capable or they
+
+156
+00:13:20,380 --> 00:13:24,400
+completely go towards automation to skip all of that.
+
+157
+00:13:24,400 --> 00:13:30,520
+Right. It's a complex thing. My feeling is that no matter whether you raise the minimum
+
+158
+00:13:30,520 --> 00:13:36,760
+wage or not, this phenomenon with automation is going to happen. Here in the US, the minimum
+
+159
+00:13:36,760 --> 00:13:42,480
+wage is pretty low relative to a lot of other countries. So I'm not necessarily against
+
+160
+00:13:42,480 --> 00:13:48,120
+raising it. I do think that it might, in some cases, produce automation sooner. But on the
+
+161
+00:13:48,120 --> 00:13:52,720
+other hand, it would be helpful to a lot of people right now that are really struggling.
+
+162
+00:13:52,720 --> 00:13:55,760
+If you're going to say we should never raise the minimum wage because of automation, then
+
+163
+00:13:55,760 --> 00:14:01,840
+really what you're saying is that the solution to automation is to allow wages for people
+
+164
+00:14:01,840 --> 00:14:05,640
+to sort of fall towards zero. And that's really not a solution.
+
+165
+00:14:05,640 --> 00:14:11,440
+Now, if, however, you had a basic income, people would still have an incentive to work
+
+166
+00:14:11,440 --> 00:14:14,880
+on the whole idea of a basic income as you implement it in a way that it does not destroy
+
+167
+00:14:14,880 --> 00:14:19,800
+the incentive for people to work too. So people have that basic income and then they can work
+
+168
+00:14:19,800 --> 00:14:24,040
+and earn more. So I think if you had a basic income, then maybe you could get rid of the
+
+169
+00:14:24,040 --> 00:14:29,920
+minimum wage because people would already have a safety net. Beyond that, you could
+
+170
+00:14:29,920 --> 00:14:36,840
+let people work for whatever the market says. So that's one way to approach it.
+
+171
+00:14:36,840 --> 00:14:40,680
+Well, let me ask it in a different way because the reason I mentioned minimum wage because
+
+172
+00:14:40,680 --> 00:14:45,840
+there's a movement behind it that they're using raising minimum wage as one of the main
+
+173
+00:14:45,840 --> 00:14:50,480
+policies that they're backing. Do you think that the public is sufficiently informed and
+
+174
+00:14:50,480 --> 00:14:54,960
+educated to adapt to the automated world?
+
+175
+00:14:54,960 --> 00:15:01,520
+Well, I don't hear much about automation from the people who are protesting for raising
+
+176
+00:15:01,520 --> 00:15:06,080
+minimum wage, for example. They're not as passionate about it or they don't know about
+
+177
+00:15:06,080 --> 00:15:07,760
+it. I don't really know.
+
+178
+00:15:07,760 --> 00:15:15,040
+I think in terms of all of this, it's still not something that's really visible to the
+
+179
+00:15:15,040 --> 00:15:18,320
+public so much. I mean, definitely a lot of people are concerned about it. I go around
+
+180
+00:15:18,320 --> 00:15:22,680
+doing speaking engagements all the time. There are a lot of interest in this subject, but
+
+181
+00:15:22,680 --> 00:15:26,880
+it may be that it's coming from more elite groups and so forth. I think people are aware
+
+182
+00:15:26,880 --> 00:15:33,240
+of it. But right now, I mean, there's a lot of dissatisfaction out there. We've got Donald
+
+183
+00:15:33,240 --> 00:15:38,280
+Trump in the Oval Office. You might ask, why is that? Well, in part, that's because a lot
+
+184
+00:15:38,280 --> 00:15:43,280
+of people feel that they're being left behind by progress. Now, those people are much more
+
+185
+00:15:43,280 --> 00:15:49,280
+focused right now on globalization. They're likely to blame workers in China or they're
+
+186
+00:15:49,280 --> 00:15:55,680
+likely to blame immigrants and less so on technology. But the reality is that that situation
+
+187
+00:15:55,680 --> 00:16:00,360
+has been created to a large extent because of technology. It's probably the most important
+
+188
+00:16:00,360 --> 00:16:08,400
+factor in the fact that those good solid middle-class jobs have disappeared. That's going to continue.
+
+189
+00:16:08,400 --> 00:16:12,360
+It's going to accelerate. I do think there are things coming that will make it very,
+
+190
+00:16:12,360 --> 00:16:18,160
+very visible. Just think of self-driving cars and trucks, for example. Once that happens,
+
+191
+00:16:18,160 --> 00:16:21,560
+it's going to be in everyone's face. They're going to really see what's going on. And then
+
+192
+00:16:21,560 --> 00:16:28,720
+at that point, I suspect you will see more of a political backlash against automation,
+
+193
+00:16:28,720 --> 00:16:32,600
+which is not something I think is good. I think that's a bad thing because I don't think
+
+194
+00:16:32,600 --> 00:16:38,040
+we want to stop this progress at all. But we do need to find a way to adapt to it.
+
+195
+00:16:38,040 --> 00:16:44,600
+Do you think we're headed, let's say in 2020, as you rightly mentioned, all the unemployment,
+
+196
+00:16:44,600 --> 00:16:52,880
+which was a major issue in the past U.S. presidential election race, but nobody talked about automation.
+
+197
+00:16:52,880 --> 00:16:58,480
+But do you think automation will become a main scapegoat maybe for politicians in order
+
+198
+00:16:58,480 --> 00:17:01,740
+to be elected? I think it would definitely become a political
+
+199
+00:17:01,740 --> 00:17:07,840
+issue. I'm not quite sure how the politicians will leverage it or spin it. But I mean, it
+
+200
+00:17:07,840 --> 00:17:13,160
+might not be in 2020. That's only three years away. But within 10 years, say, I think it's
+
+201
+00:17:13,160 --> 00:17:18,040
+going to definitely be a big political issue and a social issue. And it will become much
+
+202
+00:17:18,040 --> 00:17:22,600
+more central. Right now, there's still a debate. There's not consensus on this, OK? You can
+
+203
+00:17:22,600 --> 00:17:28,800
+find economists, certainly very smart people, who would disagree with everything that I'm
+
+204
+00:17:28,800 --> 00:17:34,520
+saying about this. And I'll say, don't worry. Everything will work out. Maybe they're right.
+
+205
+00:17:34,520 --> 00:17:40,280
+But I suspect not. And I think that within 10 years or so, it'll become a lot more obvious
+
+206
+00:17:40,280 --> 00:17:44,360
+that that's the case. Yeah, we've been talking about automation
+
+207
+00:17:44,360 --> 00:17:51,660
+a lot on this show. But it seems to me that the public is very either dismissive towards
+
+208
+00:17:51,660 --> 00:17:57,780
+it as a mainstream subject. They're still calling it sci-fi. And maybe that's why politicians
+
+209
+00:17:57,780 --> 00:18:01,920
+are not really talking about it now. But it's something that we have to deal with it regardless.
+
+210
+00:18:01,920 --> 00:18:06,240
+Yeah, I mean, it definitely is going to be a huge issue. I mean, I think ultimately it
+
+211
+00:18:06,240 --> 00:18:12,160
+could be not too different from climate change in terms of the impact all of this has. So
+
+212
+00:18:12,160 --> 00:18:16,240
+it's going to be an enormously important issue, I think. That's my opinion. Again, we don't
+
+213
+00:18:16,240 --> 00:18:21,160
+have the consensus on this that we do on an issue like climate change, where virtually
+
+214
+00:18:21,160 --> 00:18:28,520
+all the scientists agree. But that's my view. It's going to be a huge thing that's going
+
+215
+00:18:28,520 --> 00:18:33,480
+to demand a policy response. Yeah, I agree.
+
+216
+00:18:33,480 --> 00:18:38,680
+I was watching the coverage of President Trump's speech at NATO headquarters earlier today.
+
+217
+00:18:38,680 --> 00:18:43,200
+And they were talking about how to plan for building the new headquarters for NATO established
+
+218
+00:18:43,200 --> 00:18:49,600
+in 1999. Politics obviously has had a lot to do with the almost 20 years gap between
+
+219
+00:18:49,600 --> 00:18:53,880
+the plan and the execution. And there are many other examples of inefficiencies that
+
+220
+00:18:53,880 --> 00:18:59,560
+exist in our political systems. Are we going to see automation entering politics itself?
+
+221
+00:18:59,560 --> 00:19:04,880
+In other words, as technology is changing our world fast, yet politics seems to be slowing
+
+222
+00:19:04,880 --> 00:19:10,680
+things down. Do you think these systems, including politics, are in need of reformation themselves?
+
+223
+00:19:10,680 --> 00:19:16,360
+Politics, our economy, banking system, insurance system?
+
+224
+00:19:16,360 --> 00:19:22,960
+Yeah, I mean, it's definitely a huge issue. The political system moves very slow in all
+
+225
+00:19:22,960 --> 00:19:29,280
+countries, especially in the U.S. I mean, the example I always use here in the U.S.
+
+226
+00:19:29,280 --> 00:19:35,680
+is healthcare. It took at least 80 years from the time we started first talking about universal
+
+227
+00:19:35,680 --> 00:19:40,480
+healthcare to get to Obamacare. And now, of course, they're trying to destroy that. So
+
+228
+00:19:40,480 --> 00:19:45,840
+the problem we face with this is this technology is accelerating. And all of this is going
+
+229
+00:19:45,840 --> 00:19:51,200
+to happen really fast, potentially. We don't know how fast. I mean, I guess 10 years, something
+
+230
+00:19:51,200 --> 00:19:55,360
+like that. But who knows? Maybe it's really five years. And the political system moves
+
+231
+00:19:55,360 --> 00:19:59,320
+very, very slowly. So it's going to be a big problem in terms of adapting to all of this.
+
+232
+00:19:59,320 --> 00:20:06,920
+I mean, we saw back in the financial crisis 2008 that our regulatory system was not equipped
+
+233
+00:20:06,920 --> 00:20:11,800
+to deal with these complex, sophisticated derivatives and so forth that were being used
+
+234
+00:20:11,800 --> 00:20:16,480
+on Wall Street. And those, of course, emerged from computer power. I mean, without computers,
+
+235
+00:20:16,480 --> 00:20:20,440
+you wouldn't have had those. So that's just one example of how it's already had an enormous
+
+236
+00:20:20,440 --> 00:20:28,520
+impact. It could get a lot bigger and worse. So yeah, I've heard proposals. Let's use artificial
+
+237
+00:20:28,520 --> 00:20:33,480
+intelligence to replace politicians and so forth. I mean, you know, that's not at this
+
+238
+00:20:33,480 --> 00:20:42,760
+point constitutional. So why isn't it constitutional? Well, actual politicians are, you know, we
+
+239
+00:20:42,760 --> 00:20:49,280
+the people in the constitutions. So, you know, I don't think you can replace them with an
+
+240
+00:20:49,280 --> 00:20:59,120
+artificial entity. But certainly, AI and big data and algorithmic approaches have got more,
+
+241
+00:20:59,120 --> 00:21:02,960
+are going to play more of a role in government. I mean, this will happen in government too,
+
+242
+00:21:02,960 --> 00:21:06,560
+you know, slower than it happens in the private sector, certainly. But it's going to have
+
+243
+00:21:06,560 --> 00:21:13,080
+an impact there. I mean, maybe someday that we will go the route of using more AI in a
+
+244
+00:21:13,080 --> 00:21:17,920
+political arena. But that's a huge jump. And remember that the politicians are very, very
+
+245
+00:21:17,920 --> 00:21:22,320
+interested in protecting their jobs, even as everyone else's jobs are automated, and
+
+246
+00:21:22,320 --> 00:21:26,440
+they're the ones that ultimately have the power to protect their own jobs. So, you know,
+
+247
+00:21:26,440 --> 00:21:31,800
+that's not something I would expect to see probably in my lifetime. But no, well, they're
+
+248
+00:21:31,800 --> 00:21:36,000
+businessmen, right? Business is conservative. Do you think the constitution itself needs
+
+249
+00:21:36,000 --> 00:21:42,720
+to change? Because after all, it's a document that's been written before the discovery or
+
+250
+00:21:42,720 --> 00:21:49,440
+invention of electricity. Yeah, I mean, it's not, I don't believe that the constitution
+
+251
+00:21:49,440 --> 00:21:55,440
+is a divine, perfect document, as some people do. I mean, it's certainly had a good history.
+
+252
+00:21:55,440 --> 00:22:02,560
+It was designed to be amended, right? I mean, it's just, it's turned out it's very, very
+
+253
+00:22:02,560 --> 00:22:09,040
+difficult to do that. Particularly because of the political polarization in the
+
+254
+00:22:09,040 --> 00:22:14,920
+United States. Partisan issues, right? Yes. But it wouldn't surprise me if we do need
+
+255
+00:22:14,920 --> 00:22:21,080
+to modify it in the future. It is definitely, you know, many people think the United States
+
+256
+00:22:21,080 --> 00:22:27,120
+is really run into a situation where our system of government is putting us at a disadvantage
+
+257
+00:22:27,120 --> 00:22:32,080
+relative to countries that have a parliamentary system, because you can, it's a lot easier
+
+258
+00:22:32,080 --> 00:22:39,000
+to get stuff done in a parliamentary system than it is in our presidential constitutional
+
+259
+00:22:39,000 --> 00:22:43,080
+system, where there are so many checks and balances, which have always been perceived
+
+260
+00:22:43,080 --> 00:22:50,040
+as a good thing. But right now, the checks are really becoming a bit overwhelming in
+
+261
+00:22:50,040 --> 00:22:54,160
+some cases, I think. Do you think it also has something to do with the impact of religion
+
+262
+00:22:54,160 --> 00:22:59,920
+in the United States? Because I'm from Iran originally, and talking to ordinary people
+
+263
+00:22:59,920 --> 00:23:05,760
+in America, they're just as religious as ordinary people in Iran. They just have different religion.
+
+264
+00:23:05,760 --> 00:23:10,080
+So you mentioned China, how they're advancing in certain areas that the United States is
+
+265
+00:23:10,080 --> 00:23:14,840
+not advancing. And to me, it has something to do with religion as well. What's the deal
+
+266
+00:23:14,840 --> 00:23:21,400
+with religion and the impact of it in our society? Well, you know, I myself would not
+
+267
+00:23:21,400 --> 00:23:25,520
+be unhappy at all to see religion get toned down somewhat and more like it is in Europe
+
+268
+00:23:25,520 --> 00:23:31,240
+where people are less religious, but it is the case in United States is definitely playing
+
+269
+00:23:31,240 --> 00:23:38,120
+a major role. You know, some people do believe that all of our morality and values derive
+
+270
+00:23:38,120 --> 00:23:43,100
+from from religion. I mean, that may be true historically, perhaps, but I don't think it's
+
+271
+00:23:43,100 --> 00:23:47,480
+essential to be, you know, to have morality to be religious. I mean, you can, people like
+
+272
+00:23:47,480 --> 00:23:54,800
+Sam Harris, I think have made a pretty strong case that you can derive basic morality directly
+
+273
+00:23:54,800 --> 00:23:59,920
+from science. Right. So I just don't see that happening in the United States. I mean, I
+
+274
+00:23:59,920 --> 00:24:03,020
+don't think that this is a country that's going to walk away from religion. So that's
+
+275
+00:24:03,020 --> 00:24:09,400
+just a reality that we've got to live with. And unlike, you know, while I'm kind of ambivalent
+
+276
+00:24:09,400 --> 00:24:17,120
+about it, I'm not going to be like, you know, someone like Richard Dawson, who is very aggressive
+
+277
+00:24:17,120 --> 00:24:22,640
+at, you know, attacking religion, because I that's probably counterproductive. I mean,
+
+278
+00:24:22,640 --> 00:24:29,560
+religion is something that people pick up from a very, very early age, right? It becomes
+
+279
+00:24:29,560 --> 00:24:36,560
+sort of central to who you are. And it's very, very difficult to to to, you know, do anything
+
+280
+00:24:36,560 --> 00:24:42,480
+to to eliminate that unless it sort of happens organically, the way it did in, for the most
+
+281
+00:24:42,480 --> 00:24:47,520
+part in Europe, I guess. So but, you know, there are a lot of interesting interesting
+
+282
+00:24:47,520 --> 00:24:53,280
+implications to all this. As you said, we're more likely to have taboos. I mean, stem stem
+
+283
+00:24:53,280 --> 00:24:57,920
+cell research is, you know, sort of the best example of that of how the United States is
+
+284
+00:24:57,920 --> 00:25:04,000
+perhaps held back by that in terms of some scientific endeavors. The thing I mentioned
+
+285
+00:25:04,000 --> 00:25:09,960
+with the Chinese working on intelligence and so forth may be another thing, you know, so
+
+286
+00:25:09,960 --> 00:25:15,560
+that may actually give other countries an advantage in pursuing some of these scientific
+
+287
+00:25:15,560 --> 00:25:24,200
+endeavors if if the religious forces in the United States tend to hold us back. The other
+
+288
+00:25:24,200 --> 00:25:28,720
+thing is that there's all this talk of, you know, the singularity and things like this
+
+289
+00:25:28,720 --> 00:25:38,120
+out of Silicon Valley and that in some ways, this is technological futuristic kind of take
+
+290
+00:25:38,120 --> 00:25:43,000
+is becoming a religion in its own right. You know, there you hear a lot of people in Silicon
+
+291
+00:25:43,000 --> 00:25:48,440
+Valley who believe that they are literally going to live forever. They're going to they're
+
+292
+00:25:48,440 --> 00:25:55,640
+going to get immortality not in the way that that, you know, religious people wanted in
+
+293
+00:25:55,640 --> 00:26:00,840
+the afterlife, but they're going to get it right here and now in this life. So what happens
+
+294
+00:26:00,840 --> 00:26:06,320
+when that kind of thing really, you know, intersects with with religion? I mean, there
+
+295
+00:26:06,320 --> 00:26:09,040
+are a lot of unpredictable things there, I think.
+
+296
+00:26:09,040 --> 00:26:14,800
+That's interesting. You mentioned I had some transhumanist Christians on the show and it
+
+297
+00:26:14,800 --> 00:26:20,840
+seems to me that they're using technology and transhumanism. However, they're defining
+
+298
+00:26:20,840 --> 00:26:27,520
+it to justify the religion. So, for example, I had a gentleman named Christopher Benwick
+
+299
+00:26:27,520 --> 00:26:33,880
+who started Christian Transhumanist Association and he believed that our rise of artificial
+
+300
+00:26:33,880 --> 00:26:41,360
+intelligence and mortality through technology has no opposition to teachings of Bible and
+
+301
+00:26:41,360 --> 00:26:45,240
+Jesus. It just has to be interpreted correctly.
+
+302
+00:26:45,240 --> 00:26:53,120
+Yeah, I mean, I think people that have very strong religious beliefs, they can adapt to
+
+303
+00:26:53,120 --> 00:26:58,160
+almost anything, you know, I mean, if aliens from outer space landed, I mean, they figure
+
+304
+00:26:58,160 --> 00:27:02,640
+out a way to adapt to that. Right. So just like many religious people have found a way
+
+305
+00:27:02,640 --> 00:27:09,720
+to find a common ground with evolution, right? Not all religious people reject the idea of
+
+306
+00:27:09,720 --> 00:27:16,640
+religion or evolution and cling to the idea that, you know, the creation story is true
+
+307
+00:27:16,640 --> 00:27:20,640
+and so forth. So, you know, I mean, there's some flexibility there.
+
+308
+00:27:20,640 --> 00:27:24,040
+Do you think that we're at the point that we have to address certain things that we
+
+309
+00:27:24,040 --> 00:27:28,840
+have taken for granted, like ethics and morality, because we are translating all of that into
+
+310
+00:27:28,840 --> 00:27:34,360
+machines, into artificial intelligence. So one of the questions that I usually ask my
+
+311
+00:27:34,360 --> 00:27:41,880
+guess is that, do you think ethics and morality are subjective or objective?
+
+312
+00:27:41,880 --> 00:27:48,040
+I think that certain things are fairly objective. I mean, you know, sort of the golden rule,
+
+313
+00:27:48,040 --> 00:27:51,240
+don't hurt anyone else, treat people the way that they...
+
+314
+00:27:51,240 --> 00:27:56,040
+But we're still doing that though on a daily basis. It's not like laws of physics. So how
+
+315
+00:27:56,040 --> 00:27:59,920
+are we going to tell an artificial intelligence, for example, that killing is bad?
+
+316
+00:27:59,920 --> 00:28:07,000
+Well, I think that, you know, that's not quite my area, but I mean, I assume they will program
+
+317
+00:28:07,000 --> 00:28:11,760
+that in. They will, you know, they will, or it will arise from the data, from the learn,
+
+318
+00:28:11,760 --> 00:28:20,160
+you know, that the AI is trained on, right? I mean, I think that there's an enormous amount
+
+319
+00:28:20,160 --> 00:28:23,600
+of attention to that right now. Actually, people like Elon Musk, for example, have invested
+
+320
+00:28:23,600 --> 00:28:29,720
+a lot in building think tanks that are thinking about this issue of how to build friendly
+
+321
+00:28:29,720 --> 00:28:34,000
+AI and so forth. So I think a lot of work is being done there, whether it will be successful.
+
+322
+00:28:34,000 --> 00:28:39,360
+I mean, that's speaking in terms of a general artificial intelligence. Now, they're going
+
+323
+00:28:39,360 --> 00:28:43,720
+to be specialized artificial intelligence that are specifically designed to kill people,
+
+324
+00:28:43,720 --> 00:28:47,920
+certainly in military applications and so forth. So, I mean, you're right, that's a
+
+325
+00:28:47,920 --> 00:28:57,680
+bit scary. But as long as we view technology as a tool and something that's inanimate,
+
+326
+00:28:57,680 --> 00:29:05,720
+I think that, you know, we're not going to worry too much about what it does. The morality
+
+327
+00:29:05,720 --> 00:29:11,360
+aspect is going to come from the people that control that technology, not the technology
+
+328
+00:29:11,360 --> 00:29:12,360
+itself.
+
+329
+00:29:12,360 --> 00:29:17,080
+Exactly. I was reading an article about how Google AI start to learn that aggression pays
+
+330
+00:29:17,080 --> 00:29:22,400
+back in certain situations and becoming aggressive in certain situations because they just learn
+
+331
+00:29:22,400 --> 00:29:27,840
+from data. So that's basically what I mean, that aren't we entering an era that we have
+
+332
+00:29:27,840 --> 00:29:33,400
+to start discussing some fundamental core that define all of us, which, by the way,
+
+333
+00:29:33,400 --> 00:29:36,280
+is different culture to culture, a lot of them.
+
+334
+00:29:36,280 --> 00:29:44,760
+Yeah, I mean, I think that the discussion of what to do with AI is certainly happening,
+
+335
+00:29:44,760 --> 00:29:48,840
+you know, discussing morals. The problem is having a discussion doesn't necessarily lead
+
+336
+00:29:48,840 --> 00:29:49,840
+to any answers.
+
+337
+00:29:49,840 --> 00:29:50,840
+Of course not, yes.
+
+338
+00:29:50,840 --> 00:29:53,960
+You can argue that we are having the discussion. I mean, certainly there are people discussing
+
+339
+00:29:53,960 --> 00:29:58,040
+that now. I mean, I mentioned Sam Harris. He's someone that is very into this. You can
+
+340
+00:29:58,040 --> 00:30:04,720
+listen to his podcast, right? I mean, so there's a discussion, but I mean, is it going to really
+
+341
+00:30:04,720 --> 00:30:13,520
+achieve consensus? I mean, let me look around the world today, especially with the radical,
+
+342
+00:30:13,520 --> 00:30:18,920
+you know, the terrorists and everything and how that's driven by religion. I mean, good
+
+343
+00:30:18,920 --> 00:30:24,680
+luck in getting everyone together and agreeing on, you know, some basic rules. So it seems
+
+344
+00:30:24,680 --> 00:30:32,160
+almost like that's so remote and we certainly can't wait for that before we start worrying
+
+345
+00:30:32,160 --> 00:30:36,520
+about what to do with artificial intelligence because, I mean, I think we'd basically be
+
+346
+00:30:36,520 --> 00:30:39,600
+waiting forever.
+
+347
+00:30:39,600 --> 00:30:45,160
+What would you suggest to people in order to preparing themselves for what's coming,
+
+348
+00:30:45,160 --> 00:30:48,680
+artificial intelligence and automation and everything that comes with it?
+
+349
+00:30:48,680 --> 00:30:53,000
+I would say specifically in terms of your job and you want to remain relevant, you know,
+
+350
+00:30:53,000 --> 00:30:58,560
+you want to avoid doing anything that's routine, repetitive, predictable, right? Because you
+
+351
+00:30:58,560 --> 00:31:02,740
+know that those jobs are going to be susceptible. So instead try to be doing something creative,
+
+352
+00:31:02,740 --> 00:31:07,960
+something that really involves working deeply with other people, you know, building those
+
+353
+00:31:07,960 --> 00:31:12,720
+kind of interpersonal relationships. Those are the areas that are going to be least susceptible
+
+354
+00:31:12,720 --> 00:31:16,960
+to automation. So that's what I would advise people to do that in their own careers. And
+
+355
+00:31:16,960 --> 00:31:20,980
+if you have kids in school studying, you want to make them make sure that they're studying
+
+356
+00:31:20,980 --> 00:31:24,440
+things that can lead to that kind of career as opposed to sitting in front of a computer
+
+357
+00:31:24,440 --> 00:31:28,280
+doing the same thing again and again, because that's, you know, something that's going to
+
+358
+00:31:28,280 --> 00:31:33,240
+be automated. And then generally, I think we need to have more awareness of this so
+
+359
+00:31:33,240 --> 00:31:38,400
+that people can begin to think about what we need to do in terms of policies, you know,
+
+360
+00:31:38,400 --> 00:31:42,440
+public policies to address all of these issues, whether it's going to be a basic income to
+
+361
+00:31:42,440 --> 00:31:50,720
+deal with the impact of automation. And you mentioned, you know, the moral and ethical
+
+362
+00:31:50,720 --> 00:31:55,400
+issues that there are many of those that are going to intersect with this technology, certainly
+
+363
+00:31:55,400 --> 00:32:02,280
+in military arenas and so forth and security arenas. So people need to be more aware of
+
+364
+00:32:02,280 --> 00:32:07,720
+it and more ready to engage in this discussion or they're not going to have a voice in how
+
+365
+00:32:07,720 --> 00:32:09,160
+all this unfolds.
+
+366
+00:32:09,160 --> 00:32:16,060
+Yeah. So you recommend them to focus on what makes them unique, basically, because I heard
+
+367
+00:32:16,060 --> 00:32:20,960
+from Ray Kurzweil that he was suggesting if you have kids in school, suggest to them to
+
+368
+00:32:20,960 --> 00:32:24,920
+do something that has something to do with computer. But as you're correctly mentioning,
+
+369
+00:32:24,920 --> 00:32:28,320
+not everything doing with computer is going to guarantee that you will have a job or you
+
+370
+00:32:28,320 --> 00:32:29,320
+have a career.
+
+371
+00:32:29,320 --> 00:32:33,240
+Not at all. I mean, everyone thinks if you learn to program a computer that you're going
+
+372
+00:32:33,240 --> 00:32:37,960
+to have a safe job. And that's not true. I mean, basic computer programming, routine
+
+373
+00:32:37,960 --> 00:32:41,240
+computer programming is also something that's going to be subject to automation. There's
+
+374
+00:32:41,240 --> 00:32:45,240
+already a lot of people working on that already have been some important developments there.
+
+375
+00:32:45,240 --> 00:32:50,560
+So if you're going to work with computers, you're probably going to have to, you know,
+
+376
+00:32:50,560 --> 00:32:55,640
+it's going to require some fairly high level skills, you know, in terms of, you know, design
+
+377
+00:32:55,640 --> 00:33:00,480
+and creativity and that kind of thing. It's just not a question of learning how to program
+
+378
+00:33:00,480 --> 00:33:03,360
+that's going to keep you ahead of the game.
+
+379
+00:33:03,360 --> 00:33:08,280
+Right. Another argument is that in the beginning of industrial revolution, 95% of jobs apparently
+
+380
+00:33:08,280 --> 00:33:14,320
+completely wiped out. But they couldn't imagine that we have a job like web developer or robotic
+
+381
+00:33:14,320 --> 00:33:21,760
+engineer. So new jobs will be created as a consequence of the situation. What do you
+
+382
+00:33:21,760 --> 00:33:22,760
+think?
+
+383
+00:33:22,760 --> 00:33:26,960
+Yeah, sure they will. Yeah. The question is how many new jobs and are those jobs going
+
+384
+00:33:26,960 --> 00:33:34,840
+to be a good match for the people that lose jobs? Okay. So yeah, you talked about website
+
+385
+00:33:34,840 --> 00:33:40,360
+designer and robotics engineer, but not everyone can do those jobs. All right. Now people are
+
+386
+00:33:40,360 --> 00:33:44,440
+right now working at McDonald's or driving a taxi that, you know, you're not going to
+
+387
+00:33:44,440 --> 00:33:51,000
+make them all into those kinds of professions. And nor is it the case that there's necessarily
+
+388
+00:33:51,000 --> 00:33:55,280
+going to be enough of those jobs. Okay. So those new areas do exist, but they're actually
+
+389
+00:33:55,280 --> 00:33:59,800
+not a very big fraction of employment. I mean, most people, but the vast majority of people
+
+390
+00:33:59,800 --> 00:34:05,000
+still work in traditional areas, you know, things like driving vehicles, preparing and
+
+391
+00:34:05,000 --> 00:34:14,040
+serving food. I mean, the most common occupations are retail salesperson, cashier, truck driver.
+
+392
+00:34:14,040 --> 00:34:20,040
+You know, these are all the most common occupations that we have. A lot of people doing that kind
+
+393
+00:34:20,040 --> 00:34:24,040
+of work and a lot of that is going to be definitely subject to automation.
+
+394
+00:34:24,040 --> 00:34:29,840
+Yeah. And I think it would be fair to assume that a lot of those people are just not going
+
+395
+00:34:29,840 --> 00:34:35,600
+to make it in the new world, right? It's going to get increasingly hard. Right.
+
+396
+00:34:35,600 --> 00:34:39,000
+And that's again, why I think we need that basic income because otherwise we're going
+
+397
+00:34:39,000 --> 00:34:46,840
+to have all kinds of social upheaval, political disruption. You know, it'll be pretty ugly,
+
+398
+00:34:46,840 --> 00:34:53,120
+I think, if things play out the way I suspect they are. So, you know, again, we really need
+
+399
+00:34:53,120 --> 00:34:57,040
+to think about what policies we're going to have to have in place in order to adapt to
+
+400
+00:34:57,040 --> 00:34:59,040
+all of this.
+
+401
+00:34:59,040 --> 00:35:04,840
+The way we're evolving is changing really fast because we're more and more dependent
+
+402
+00:35:04,840 --> 00:35:12,840
+on technology. For example, I was talking on a space channel here in Toronto about how
+
+403
+00:35:12,840 --> 00:35:18,680
+Ghost in a Shell, when it came out, it was almost completely for everybody except maybe
+
+404
+00:35:18,680 --> 00:35:24,920
+some academics, science fiction. But the new one that was made came out a few days after
+
+405
+00:35:24,920 --> 00:35:31,840
+Elon Musk started his new company that connects human brain to the machine. Where do you think
+
+406
+00:35:31,840 --> 00:35:33,080
+we're going with evolution?
+
+407
+00:35:33,080 --> 00:35:39,540
+I mean, all this is just kind of so unpredictable that, I mean, it's to some extent pointless
+
+408
+00:35:39,540 --> 00:35:43,680
+to really speculate on specific outcomes. What we can say is that there's going to be
+
+409
+00:35:43,680 --> 00:35:49,640
+a big disruption. I think we'll be on this planet for quite a while. I mean, I know Elon
+
+410
+00:35:49,640 --> 00:35:54,480
+is planning to go to Mars, but my guess is that from a practical standpoint, if we're
+
+411
+00:35:54,480 --> 00:35:59,160
+going to explore space, the way to do it is probably robotic spaceships for the foreseeable
+
+412
+00:35:59,160 --> 00:36:05,600
+future rather than really sending people. To me, that sounds a lot more effective as
+
+413
+00:36:05,600 --> 00:36:09,820
+a way to do it. But this merging with the machines is definitely going to happen to
+
+414
+00:36:09,820 --> 00:36:14,560
+some extent. The question is how radical will that be? And I don't pretend to know the answer
+
+415
+00:36:14,560 --> 00:36:24,640
+to that. Other people feel very strongly about it. Ray Kurzweil. Some other people have made
+
+416
+00:36:24,640 --> 00:36:29,000
+similar predictions. And then of course, there's also on the biological side. If we can enhance
+
+417
+00:36:29,000 --> 00:36:34,560
+ourselves genetically and so forth, maybe that's how the evolution will occur.
+
+418
+00:36:34,560 --> 00:36:40,000
+So I don't pretend to know which is going to be, but I do think that we should prepare
+
+419
+00:36:40,000 --> 00:36:44,360
+ourselves for dramatic change. It's difficult to speculate, but there is
+
+420
+00:36:44,360 --> 00:36:49,480
+a trend that we can see how fast things are changing now compared to maybe 10, 20 years
+
+421
+00:36:49,480 --> 00:36:52,320
+ago. Absolutely. I mean, there's no doubt that
+
+422
+00:36:52,320 --> 00:36:55,360
+the next 10 years is not going to be like the last 10 years. That's for sure. Things
+
+423
+00:36:55,360 --> 00:37:00,920
+are moving at a rapid rate. But I think that to some extent, that's all you can say is
+
+424
+00:37:00,920 --> 00:37:05,160
+that things are going to move a lot faster. They're going to change. You can point to
+
+425
+00:37:05,160 --> 00:37:10,220
+some fairly obvious things, like I think the impact on employment is fairly straightforward.
+
+426
+00:37:10,220 --> 00:37:17,800
+In terms of the evolution of human beings, it's quite speculative. I think they really
+
+427
+00:37:17,800 --> 00:37:21,400
+take a strong stand on how that's going to play out.
+
+428
+00:37:21,400 --> 00:37:29,080
+Right. Yeah. I always had a little difficulty buying completely into bio-enhancements and
+
+429
+00:37:29,080 --> 00:37:33,360
+maybe bio-immortality because we still have to deal with this planet and everybody who's
+
+430
+00:37:33,360 --> 00:37:41,200
+living in it. We're dealing with climate change. We're dealing with wars. A lot of things are
+
+431
+00:37:41,200 --> 00:37:47,680
+specific to humans, this territorial nature of humanity and tribal nature of humanity.
+
+432
+00:37:47,680 --> 00:37:52,000
+It just seems to me, well, we can live longer if we enhance our self-biologically, but is
+
+433
+00:37:52,000 --> 00:37:58,080
+it really going to be any better if we live 1,000 years and war and you know?
+
+434
+00:37:58,080 --> 00:38:05,560
+Yeah. There are a lot of issues there. There are people like Aubrey DeGray who are very
+
+435
+00:38:05,560 --> 00:38:12,120
+heavily invested in this idea of immortality. I'm not myself. I don't anticipate living
+
+436
+00:38:12,120 --> 00:38:13,480
+forever.
+
+437
+00:38:13,480 --> 00:38:16,140
+You don't like it or you don't think it's going to happen?
+
+438
+00:38:16,140 --> 00:38:21,080
+I don't think it's going to happen. I'll certainly, like anyone else, do my best to stick around
+
+439
+00:38:21,080 --> 00:38:26,440
+as long as possible, at least as long as I'm healthy. I certainly would not want to have
+
+440
+00:38:26,440 --> 00:38:30,240
+longevity without good health.
+
+441
+00:38:30,240 --> 00:38:35,120
+Some people say death gives meaning to life. I don't buy into that.
+
+442
+00:38:35,120 --> 00:38:42,000
+I wouldn't say that, but I do think it's probably inevitable for the foreseeable future. I'm
+
+443
+00:38:42,000 --> 00:38:46,360
+not very optimistic that they're going to solve the mortality problem.
+
+444
+00:38:46,360 --> 00:38:51,440
+Of course, as you say, there are huge issues with that in terms of population and stuff
+
+445
+00:38:51,440 --> 00:38:57,080
+like that. DeGray says people will decide they're not going to have kids anymore. That
+
+446
+00:38:57,080 --> 00:39:05,600
+seems a little unlikely to me based on my experience. There definitely are enormous
+
+447
+00:39:05,600 --> 00:39:10,440
+challenges associated with that if it happens. There's also the issue of inequality, the
+
+448
+00:39:10,440 --> 00:39:16,320
+fact that these technologies, at least initially, would be available only to very rich people
+
+449
+00:39:16,320 --> 00:39:24,080
+probably. That's going to create all kinds of conflict worse than we have now. In many
+
+450
+00:39:24,080 --> 00:39:30,040
+ways, it could be quite ugly if those technologies are really realized, I think.
+
+451
+00:39:30,040 --> 00:39:35,280
+Speculations aside, would you agree that the best way for people to being able to adapt
+
+452
+00:39:35,280 --> 00:39:38,080
+to what's coming is just keep educating themselves?
+
+453
+00:39:38,080 --> 00:39:42,640
+Sure. Everything is going to move at a more rapid rate. Certainly, the days where you
+
+454
+00:39:42,640 --> 00:39:46,240
+go to school, stop going to school, get a job, stay in that job for your whole career,
+
+455
+00:39:46,240 --> 00:39:52,480
+that's over already, I think. Most people understand that. People are going to have
+
+456
+00:39:52,480 --> 00:39:58,280
+to continuously retool. I think that's great. We should make sure that there are educational
+
+457
+00:39:58,280 --> 00:40:02,440
+resources out there for people to do that. We also have to understand that probably not
+
+458
+00:40:02,440 --> 00:40:05,280
+everyone is going to succeed in that kind of world.
+
+459
+00:40:05,280 --> 00:40:10,800
+That's why we're going to need to have that basic income or some other kind of safety
+
+460
+00:40:10,800 --> 00:40:11,800
+net.
+
+461
+00:40:11,800 --> 00:40:16,360
+Martin, let me ask you the last question I ask all my guests, that if you come across
+
+462
+00:40:16,360 --> 00:40:21,600
+an intelligent alien from a different civilization, what would you say is the worst thing humanity
+
+463
+00:40:21,600 --> 00:40:27,960
+has done and what would you say is humanity's greatest achievement?
+
+464
+00:40:27,960 --> 00:40:33,320
+Probably the worst thing is to destroy our environment. We're really putting the earth
+
+465
+00:40:33,320 --> 00:40:37,520
+at risk. Plenty of other things you could list, things that we've done to ourselves
+
+466
+00:40:37,520 --> 00:40:45,320
+and to other people, the genocides and all of that, but the single thing that really
+
+467
+00:40:45,320 --> 00:40:51,680
+stands out is that we've generally just not managed our planet well.
+
+468
+00:40:51,680 --> 00:40:58,240
+Our greatest achievement is our technology. The thing that we're talking about here, that
+
+469
+00:40:58,240 --> 00:41:05,280
+we're maybe on the verge of building another intelligence that might someday be superior
+
+470
+00:41:05,280 --> 00:41:12,720
+to us. That's a fairly unique achievement. Certainly no other entity on this planet could
+
+471
+00:41:12,720 --> 00:41:18,520
+even come close to that. That's pretty remarkable. I suspect that if aliens did arrive, then
+
+472
+00:41:18,520 --> 00:41:25,040
+they've gone through that same process. It may well be that whatever arrives is a robotic
+
+473
+00:41:25,040 --> 00:41:50,040
+spaceship rather than an actual alien.
+
+474
+00:41:50,040 --> 00:41:57,040
+.
+
