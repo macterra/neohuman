@@ -1,0 +1,1744 @@
+1
+00:00:00,000 --> 00:00:08,160
+we need to debate how warfare itself is changing. If the planes that are bombing people have no
+
+2
+00:00:08,160 --> 00:00:12,240
+pilots in them, and the operators of those planes are sitting safely in the middle of
+
+3
+00:00:12,240 --> 00:00:24,640
+the United States, it's kind of confusing. Hello, and welcome to the 18th episode of
+
+4
+00:00:24,640 --> 00:00:31,040
+Neo Human Podcast. I'm Agar Bahari, an ecologist on Twitter and Instagram, and you can follow the
+
+5
+00:00:31,040 --> 00:00:38,240
+show on LiveInLimbo.com, iTunes, and soon on YouTube. With me today is Hugh Gusterson. Welcome
+
+6
+00:00:38,240 --> 00:00:42,560
+to the show, Hugh. It's a pleasure to be here. Let's start with some background, some of the
+
+7
+00:00:42,560 --> 00:00:49,040
+works you've done and what you're working on now these days. Sure. I'm an anthropologist by training
+
+8
+00:00:49,040 --> 00:00:52,960
+and I teach anthropology and international affairs at George Washington University.
+
+9
+00:00:52,960 --> 00:01:01,200
+Originally, I was going to do field work in Africa in the 1980s. I was a grad student at the time.
+
+10
+00:01:01,200 --> 00:01:07,920
+There was a massive nuclear freeze movement against the nuclear arms race. I took an odd
+
+11
+00:01:07,920 --> 00:01:12,480
+turn in my career and decided to write about the culture of American nuclear weapons designers
+
+12
+00:01:12,480 --> 00:01:18,880
+instead. Much of my work has been on different aspects of the culture of American militarism.
+
+13
+00:01:18,880 --> 00:01:23,680
+I've written a couple of books about nuclear weapons designers and anti-nuclear activists.
+
+14
+00:01:23,680 --> 00:01:30,080
+I've written about counterinsurgency in Iraq and Afghanistan. After this book, I'm finishing up
+
+15
+00:01:30,080 --> 00:01:35,040
+a third book on what American nuclear weapons scientists do after the end of nuclear testing.
+
+16
+00:01:35,040 --> 00:01:40,080
+You started as an anti-nuclear activist in the early 80s and went on to
+
+17
+00:01:41,040 --> 00:01:44,640
+studying the attitudes of nuclear scientists as an anthropologist.
+
+18
+00:01:44,640 --> 00:01:49,600
+What is the mindset of a nuclear scientist? For the most part, very rational.
+
+19
+00:01:51,520 --> 00:01:55,680
+Despite the fact that about three quarters of the weapons scientists I interviewed
+
+20
+00:01:55,680 --> 00:02:00,880
+were active Christians, but they were what you might call sort of moderate secular Christians
+
+21
+00:02:00,880 --> 00:02:06,640
+for the most part, mainstream denominations like Catholics, Methodists, Presbyterians,
+
+22
+00:02:06,640 --> 00:02:15,680
+Episcopalians. They had a strong faith that the weapons they designed would never be used. I even
+
+23
+00:02:15,680 --> 00:02:20,960
+had weapons scientists say to me that they would not feel ethically comfortable working on weapons
+
+24
+00:02:20,960 --> 00:02:27,120
+like napalm or landmines because those weapons would be used to kill people. They were confident
+
+25
+00:02:27,120 --> 00:02:32,320
+that their weapons would be used to deter World War III. Some weapons scientists told me that they
+
+26
+00:02:32,320 --> 00:02:36,960
+felt personally proud. They thought they'd saved millions of lives by making a war between the
+
+27
+00:02:36,960 --> 00:02:43,600
+Americans and the Soviets impossible. They had this sort of faith that human rationality would
+
+28
+00:02:43,600 --> 00:02:50,400
+make deterrence work in the final instance, that the weapons would not be used. When I asked them
+
+29
+00:02:50,400 --> 00:02:54,960
+if they ever had nightmares about nuclear war, they would sort of look cross-eyed at me and say,
+
+30
+00:02:54,960 --> 00:03:00,000
+well, why would I have a nightmare about nuclear war? That would be irrational. Many of the
+
+31
+00:03:00,000 --> 00:03:05,040
+anti-nuclear activists I interviewed and knew as friends on the other hand were deeply terrified
+
+32
+00:03:05,040 --> 00:03:10,000
+that deterrence would break down, there would be an accident, there would be a miscalculation,
+
+33
+00:03:10,000 --> 00:03:16,000
+and millions of people would die. Many of those activists did have nightmares about nuclear war.
+
+34
+00:03:16,000 --> 00:03:22,720
+In some ways, the division between the activists and the weapons scientists was around emotion
+
+35
+00:03:22,720 --> 00:03:29,200
+and rationality, with one community strongly confident that the weapons could be relied on
+
+36
+00:03:29,200 --> 00:03:34,320
+to keep the peace, and the others terrified that there would be a miscalculation. You could say the
+
+37
+00:03:34,320 --> 00:03:39,280
+weapons scientists were in denial, or you could say the activists were overly emotional. Take your
+
+38
+00:03:39,280 --> 00:03:46,160
+pick. I was watching a documentary about the state of US nuclear facilities, and they're all using
+
+39
+00:03:46,160 --> 00:03:53,680
+old computers, big floppy disks, which I would imagine makes it easier to operate based on the
+
+40
+00:03:53,680 --> 00:03:58,160
+older knowledge, but it makes it harder for hackers to hack into it. What do you think about that
+
+41
+00:03:58,160 --> 00:04:05,040
+structural, systematic structure that has remained the same throughout all these technological
+
+42
+00:04:05,040 --> 00:04:11,040
+advancements in the past couple of years? Well, I think you're talking about the technology that's
+
+43
+00:04:11,040 --> 00:04:16,400
+used at the missile launch control facilities. That's right. I read that article as well. I don't
+
+44
+00:04:16,400 --> 00:04:21,680
+know if they deliberately failed to upgrade as a safety measure, or if this was an unintended
+
+45
+00:04:21,680 --> 00:04:28,960
+benefit of being behind the times. Strangely enough, there's a parallel story. The Soviets used to
+
+46
+00:04:28,960 --> 00:04:35,440
+rely on pre-digital technology with vacuum tubes that were resistant to electromagnetic pulse from
+
+47
+00:04:35,440 --> 00:04:41,360
+a nuclear explosion. This was just because they didn't have the resources to upgrade, but their
+
+48
+00:04:41,360 --> 00:04:47,040
+planes would have survived a nuclear war better than American planes, as it turns out. I suspect
+
+49
+00:04:47,040 --> 00:04:53,520
+this is just an accidental benefit of a failure to keep up with the times, but it is funny that
+
+50
+00:04:53,520 --> 00:05:00,400
+these ancient three-inch floppy disks could make American nuclear missiles more resistant to
+
+51
+00:05:00,400 --> 00:05:05,680
+hacking. I should say that at the weapons labs, they do have state-of-the-art facilities there to
+
+52
+00:05:05,680 --> 00:05:11,280
+do research. They have some of the fastest supercomputers in the world. Their machines are
+
+53
+00:05:11,280 --> 00:05:17,840
+usually listed somewhere in the top 10 in terms of speed and storage capability.
+
+54
+00:05:17,840 --> 00:05:24,400
+Because the weapons labs haven't been allowed to test a nuclear weapon since 1992, they largely rely
+
+55
+00:05:24,400 --> 00:05:31,920
+on extremely powerful supercomputer simulations of nuclear tests to maintain the stockpile. The
+
+56
+00:05:31,920 --> 00:05:37,040
+United States, as your listeners may or may not know, still has about 7,000 nuclear weapons.
+
+57
+00:05:37,040 --> 00:05:42,960
+And somehow the weapons labs have to assure that they work. So they have very expensive
+
+58
+00:05:42,960 --> 00:05:50,720
+state-of-the-art lasers, simulation machines, and supercomputers. So on the design end of things,
+
+59
+00:05:50,720 --> 00:05:55,200
+they're certainly not behind the times. I'll have more questions about nuclear weapons.
+
+60
+00:05:55,200 --> 00:06:00,400
+I'll come back to them. But let's talk about your new book. The new book is called Drone Remote
+
+61
+00:06:00,400 --> 00:06:04,640
+Control Warfare. What's the book about and what inspired you to write it now?
+
+62
+00:06:04,640 --> 00:06:11,760
+Well, I think the United States has entered into a new form of warfare, drone warfare.
+
+63
+00:06:12,640 --> 00:06:18,320
+It's on the edge of American consciousness. Everyone in the United States is aware that
+
+64
+00:06:18,320 --> 00:06:24,800
+this kind of warfare is being practiced. The details are not widely known. The United States
+
+65
+00:06:24,800 --> 00:06:30,800
+has adopted a policy that it feels free to assassinate people in countries at which it
+
+66
+00:06:30,800 --> 00:06:37,040
+is not a war, to conduct military operations in countries like Yemen, Pakistan, Somalia,
+
+67
+00:06:37,840 --> 00:06:42,160
+where it's not a war, even the Philippines. The U.S. has done two drone strikes on the Philippines.
+
+68
+00:06:43,760 --> 00:06:48,400
+There's been almost no debate about this in Congress. On the very rare occasions where
+
+69
+00:06:48,400 --> 00:06:55,200
+there's a hearing, almost no congressmen show up. The reporters often just report that a strike
+
+70
+00:06:55,200 --> 00:07:01,280
+took place. It's a very brief article. So-and-so, according to the Pentagon, was killed, the Taliban
+
+71
+00:07:01,280 --> 00:07:07,840
+leader, or whatever. I think the fact that the United States is conducting military operations
+
+72
+00:07:07,840 --> 00:07:12,240
+that have not been approved by Congress, in some cases, it has deliberately killed American
+
+73
+00:07:12,240 --> 00:07:18,720
+citizens without any kind of judicial process that would legitimate the execution of the death
+
+74
+00:07:18,720 --> 00:07:25,600
+penalty. We need more debate about that. And I think we need to debate how warfare itself is
+
+75
+00:07:25,600 --> 00:07:32,880
+changing if the planes that are bombing people have no pilots in them and the operators of those
+
+76
+00:07:32,880 --> 00:07:38,080
+planes are sitting safely in the middle of the United States. It's kind of confusing. Do those
+
+77
+00:07:38,080 --> 00:07:46,080
+people deserve medals? Are they people who've been in combat or not? Are they legitimate targets for
+
+78
+00:07:46,080 --> 00:07:51,040
+the enemy? If the Taliban could somehow get someone to Nevada, would it be okay for them to blow up a
+
+79
+00:07:51,040 --> 00:07:55,680
+drone operator? Lots of very interesting kinds of questions that need exploration.
+
+80
+00:07:56,640 --> 00:08:01,600
+It's excellent. I was going to ask you, how does the ability to fight wars remotely affecting the
+
+81
+00:08:01,600 --> 00:08:05,920
+human side of war? Because we see that a lot of those operators, they're saying that they go to
+
+82
+00:08:05,920 --> 00:08:12,400
+work at like eight in the morning and they shoot some missile somewhere across the world, and then
+
+83
+00:08:12,400 --> 00:08:18,160
+they just go back and have dinner with their family in the same city. How does the ability to
+
+84
+00:08:18,160 --> 00:08:23,440
+not being involved personally in wars affecting the human side of war, whether it's soldiers or
+
+85
+00:08:23,440 --> 00:08:28,240
+civilians? Well, I think on the receiving end of the strikes, there's a very strong feeling that
+
+86
+00:08:28,240 --> 00:08:36,640
+this is a very cowardly way of conducting warfare. In some perverse kind of way, I think civilians in
+
+87
+00:08:36,640 --> 00:08:42,800
+places like Afghanistan and Yemen feel the way about drone strikes that Americans do about suicide
+
+88
+00:08:42,800 --> 00:08:51,920
+bomber strikes, that it's just not cricket, if you like, to attack people in such a way that you
+
+89
+00:08:51,920 --> 00:08:56,880
+can't be attacked in reverse. If you're a suicide bomber, you preemptively kill yourself. And if
+
+90
+00:08:56,880 --> 00:09:02,240
+you're a drone operator, you're just not around to be attacked. So for people on the receiving end,
+
+91
+00:09:02,240 --> 00:09:08,400
+there's this strong sense that this new form of warfare is cowardly, it's unfair.
+
+92
+00:09:08,400 --> 00:09:12,960
+And American policymakers can be very puzzled about this. They point out that the drones
+
+93
+00:09:12,960 --> 00:09:19,280
+are often more discriminating than an F-16 would be, that they kill fewer civilians by accident.
+
+94
+00:09:19,280 --> 00:09:23,120
+And so they say, we don't understand why the people in these other countries are so angry
+
+95
+00:09:23,120 --> 00:09:27,280
+about drone strikes that tend to kill fewer civilians. But I think the key to the anger
+
+96
+00:09:27,280 --> 00:09:33,200
+lies in this perception that it's a form of warfare that's cowardly. As for the operators in the
+
+97
+00:09:33,200 --> 00:09:40,400
+United States, we're seeing reports of very high levels of stress. Now, some people say it's because
+
+98
+00:09:40,400 --> 00:09:46,640
+they work very long hours. They work 12-hour shifts, often six days a week. Some people say
+
+99
+00:09:46,640 --> 00:09:52,560
+it's because the battle zone is not sort of clearly, clearly demarcated. You leave your family,
+
+100
+00:09:52,560 --> 00:09:56,480
+your wife and kids, or your husband and kids in the morning, you leave your family, your wife and
+
+101
+00:09:56,480 --> 00:10:02,400
+kids in the morning, drive to this pod, sit in this pod for 12 hours, keeping people under
+
+102
+00:10:02,400 --> 00:10:06,560
+surveillance and sometimes killing them. And then you drive to pick up the kids from soccer and
+
+103
+00:10:06,560 --> 00:10:12,080
+have dinner with them. Psychologically, I think that's very disturbing and very jarring. The two
+
+104
+00:10:12,080 --> 00:10:17,440
+Hollywood depictions we have of drone warfare, the good kill and eye in the sky, both suggest
+
+105
+00:10:17,440 --> 00:10:23,040
+that it's subjectively quite stressful for the operators. And that's what journalistic accounts
+
+106
+00:10:23,040 --> 00:10:29,200
+as well, high levels of risk for divorce, alcoholism, and so on. It's an interesting
+
+107
+00:10:29,200 --> 00:10:35,840
+question why the Pentagon didn't decide to base these drone operators outside the US. They don't
+
+108
+00:10:35,840 --> 00:10:40,000
+have to put them in the battle zone. They could put them in a military base in Abu Dhabi or in
+
+109
+00:10:40,000 --> 00:10:46,400
+Turkey or somewhere like that. And I think they might feel subjectively more as if they were at
+
+110
+00:10:46,400 --> 00:10:54,240
+war than they do by being commuter warriors. What drone strikes are the continuation of the war on
+
+111
+00:10:54,240 --> 00:11:00,960
+terror that started by or started as September 11. But on the American side, it was waged by
+
+112
+00:11:00,960 --> 00:11:08,000
+George W. Bush, but then it continued throughout the entire Obama administration. How do you feel
+
+113
+00:11:08,000 --> 00:11:13,440
+about the increase of remote drone operations during Obama administration? I think it's very
+
+114
+00:11:13,440 --> 00:11:20,240
+interesting that the president who got elected originally by being so opposed to the war in Iraq,
+
+115
+00:11:20,240 --> 00:11:25,920
+if not the war in Afghanistan, but by being a strong critic of many aspects of the war on terror
+
+116
+00:11:25,920 --> 00:11:31,440
+and a critic of Guantanamo, it's interesting that he escalated the use of drone strikes so much.
+
+117
+00:11:32,160 --> 00:11:38,160
+At one point during his presidency, the US was doing one drone strike every three days in Pakistan,
+
+118
+00:11:38,160 --> 00:11:42,480
+a country where, I would remind you listeners, the US is not in a declared war. I mean, that's
+
+119
+00:11:42,480 --> 00:11:51,360
+very, very intense. This is in what year? It was in the middle years, around 2010, 11, 12. He's
+
+120
+00:11:51,360 --> 00:11:58,240
+backed off of that to some degree now. I think there is something in President Obama's psyche
+
+121
+00:11:58,240 --> 00:12:09,040
+that is drawn to drones. I think this idea that you can make a very cautious, thought-out decision,
+
+122
+00:12:09,040 --> 00:12:14,400
+that you can gather data for hours or even days, and then make a decision that you're going to
+
+123
+00:12:14,400 --> 00:12:21,280
+excise this person. There's something superficially sort of clean and rational about that,
+
+124
+00:12:21,280 --> 00:12:26,960
+that appeals to him. President Bush was much more about sort of swagger and shock and awe,
+
+125
+00:12:27,520 --> 00:12:34,560
+and there's this sort of cold use of violence that typifies the Obama administration. He will be
+
+126
+00:12:34,560 --> 00:12:40,800
+known, I think, as the drone president. I do find it very ironic that a president with a background
+
+127
+00:12:40,800 --> 00:12:46,720
+in constitutional law is the president whose administration has said that it has the legal
+
+128
+00:12:46,720 --> 00:12:53,120
+right to kill American citizens in other countries without any kind of judicial process. I find that
+
+129
+00:12:53,120 --> 00:12:58,320
+quite disturbing. Many lawyers do as well, lawyers from conservative as well as liberal
+
+130
+00:12:58,320 --> 00:13:05,440
+backgrounds. A lot of people have the concern that those kind of operations may start happening
+
+131
+00:13:05,440 --> 00:13:16,000
+inside the United States for many different issues, surveillance, putting privacy and security of
+
+132
+00:13:16,000 --> 00:13:20,560
+civilians in jeopardy. What do you think about that? Well, I end the book with this very short
+
+133
+00:13:20,560 --> 00:13:25,840
+chapter where I lay out two possible futures around drones. The future is concerned not only
+
+134
+00:13:25,840 --> 00:13:30,560
+the use of drones in other countries, but they're used domestically within the United States.
+
+135
+00:13:31,120 --> 00:13:36,480
+One is sort of a situation where the drones are very well regulated and used in very restricted
+
+136
+00:13:36,480 --> 00:13:41,680
+ways. The other is the nightmarish scenario for the future, which I'm sorry to say I consider to
+
+137
+00:13:41,680 --> 00:13:47,360
+be the more likely one. Part of that concerns the possibility of escalating use of drones by
+
+138
+00:13:47,360 --> 00:13:54,000
+law enforcement within the US. Already, drones are used to police the US-Mexican border, for example.
+
+139
+00:13:54,000 --> 00:13:59,280
+Now, they're not used in a lethal capacity, they're just used to give us surveillance and
+
+140
+00:13:59,280 --> 00:14:05,440
+to direct law enforcement on the ground to intercept groups of people coming across that
+
+141
+00:14:05,440 --> 00:14:10,880
+border illegally. They're also used in domestic law enforcement situations to
+
+142
+00:14:10,880 --> 00:14:15,440
+overfly demonstrations and so on, but again, just in a surveillance capacity.
+
+143
+00:14:16,080 --> 00:14:21,440
+I suggest that it's not hard to imagine a situation where there would be some kind of emergency,
+
+144
+00:14:21,440 --> 00:14:27,040
+you know, someone like the person who killed 50 people in a nightclub in Orlando this weekend
+
+145
+00:14:27,520 --> 00:14:33,840
+is on the run, highly armed, you're worried they're going to kill more people. And so on a one-time
+
+146
+00:14:33,840 --> 00:14:39,200
+only basis, you make an exception. You say that if the drone gets this person in their sights,
+
+147
+00:14:39,200 --> 00:14:44,080
+they're authorized to kill them from the air. And then you've created that precedent, and it becomes
+
+148
+00:14:44,080 --> 00:14:48,000
+easier to do it the next time when there's another kind of emergency. Gradually, it becomes more and
+
+149
+00:14:48,000 --> 00:14:54,400
+more routinized. You can imagine that such a course of action would happen where it's sort of
+
+150
+00:14:54,880 --> 00:15:00,080
+marginal and hated to targets that are at issue. It could be people trying to come across the border
+
+151
+00:15:00,080 --> 00:15:07,040
+illegally from Mexico. It could be drug dealers. But I can imagine by sort of unintentional stealth,
+
+152
+00:15:07,040 --> 00:15:12,640
+a set of precedents being set that would lead to a routinization of the use of drones, not only for
+
+153
+00:15:12,640 --> 00:15:18,240
+surveillance in the US, but for lethal purposes, too. What are your thoughts on the issue of privacy?
+
+154
+00:15:18,240 --> 00:15:25,600
+Apple versus FBI case would be a good example that it's really becoming more about security versus
+
+155
+00:15:25,600 --> 00:15:30,880
+freedom to have the kind of information that we want to decide to keep it private. How do you feel
+
+156
+00:15:30,880 --> 00:15:36,000
+about that? What do you think about it? I know I'm very disturbed by the revelations that we learned
+
+157
+00:15:36,000 --> 00:15:44,000
+by Edward Snowden about the ways in which the NSA in particular has the capability to gather enormous
+
+158
+00:15:44,000 --> 00:15:51,920
+amounts of data on American citizens, to listen in on their phone conversations, to track all of
+
+159
+00:15:51,920 --> 00:15:57,680
+their email, to use their cell phones to monitor their whereabouts and so on. I think in that
+
+160
+00:15:57,680 --> 00:16:05,360
+respect, drones may not be as much of a concern as the way the NSA can use its information technology,
+
+161
+00:16:05,360 --> 00:16:09,760
+the information infrastructure, to track our whereabouts, who we talk to, who we meet with,
+
+162
+00:16:11,040 --> 00:16:18,320
+and so forth. I think for drones, in terms of privacy, the area of concern there may actually
+
+163
+00:16:18,320 --> 00:16:23,680
+have to do with privately owned drones. You can buy a drone off the shelf from Target or Amazon
+
+164
+00:16:24,320 --> 00:16:29,680
+for just a few hundred dollars. You could get a nice drone with a nice video capability.
+
+165
+00:16:29,680 --> 00:16:34,800
+And one can imagine a situation where an angry spouse would use such a drone
+
+166
+00:16:34,800 --> 00:16:41,840
+to track the behavior of their former partner. You can imagine neighbors buying on their neighbors.
+
+167
+00:16:41,840 --> 00:16:48,160
+You could imagine sort of peeping drone scenarios and so on. So some of the concerns I have to do
+
+168
+00:16:48,160 --> 00:16:53,680
+not with government misuse of drones to invade our privacy, but the way citizens can invade each
+
+169
+00:16:53,680 --> 00:16:59,040
+other's privacy. There have already been a number of instances where people have taken guns and shot
+
+170
+00:16:59,040 --> 00:17:04,320
+down drones that were over their houses. And so far the courts have ruled in favor of the drone
+
+171
+00:17:04,320 --> 00:17:11,360
+owners, not the shooters in those cases. One of the conspiracy theorists, most famous
+
+172
+00:17:11,360 --> 00:17:17,520
+radio host, he started this sport shooting down drones with shotguns and they're doing that in
+
+173
+00:17:17,520 --> 00:17:23,600
+Texas. Well, I don't recommend that. No, definitely not. And I think there's a real concern if we're
+
+174
+00:17:23,600 --> 00:17:30,240
+talking about the privately owned drones in terms of terrorism and accident, there have been a number
+
+175
+00:17:30,240 --> 00:17:35,280
+of instances reported now where privately owned drones have become very close to commercial jet
+
+176
+00:17:35,280 --> 00:17:40,560
+liners on takeoff and landing from an airport. And the way things are going, if we extrapolate,
+
+177
+00:17:40,560 --> 00:17:45,280
+it's just a matter of time until one of those drones hits a jetliner. If it gets sucked into
+
+178
+00:17:45,280 --> 00:17:51,760
+the engine, it's quite possible it could bring a commercial plane down. And I think we have to worry
+
+179
+00:17:51,760 --> 00:17:58,080
+now it's been done. People have attached handguns and chainsaws to drones and flown them. It'd be
+
+180
+00:17:58,080 --> 00:18:04,480
+very simple to attach a primitive kind of improvised explosive to a drone. You could imagine attaching
+
+181
+00:18:04,480 --> 00:18:10,800
+some sort of crude chemical weapon to a drone. So I'm sorry to say this, but we have to worry
+
+182
+00:18:10,800 --> 00:18:18,400
+about attacks on sports stadiums and public events by people wanting to sell terror and mayhem.
+
+183
+00:18:18,400 --> 00:18:24,640
+I agree. You mentioned regulating drones. The first thing came to my mind was the guy who made
+
+184
+00:18:24,640 --> 00:18:31,360
+the open source 3D model of a handgun that anybody can download and 3D print different pieces in
+
+185
+00:18:31,360 --> 00:18:36,480
+different places and just put them together and just get a bullet and use it. So drones have the
+
+186
+00:18:36,480 --> 00:18:42,400
+same possibility and anything else that can be used for destructive or beneficial purposes, right?
+
+187
+00:18:42,400 --> 00:18:48,800
+Yeah. And I want to emphasize that there are beneficial purposes for drones. They used to
+
+188
+00:18:48,800 --> 00:18:55,360
+inspect high power lines. And if you do those inspections with humans, a number of them get
+
+189
+00:18:55,360 --> 00:19:01,200
+killed in accidents exposed to high voltage. Much better to do with a drone if you can.
+
+190
+00:19:01,200 --> 00:19:06,720
+At Fukushima, they've used drones to try and sample radiation levels in a place where you
+
+191
+00:19:06,720 --> 00:19:11,680
+don't want to send humans in. The World Wildlife Federation uses a drone in Africa to hunt for
+
+192
+00:19:11,680 --> 00:19:17,040
+poachers. You can use drones to look for mass graves in places where there have been atrocities
+
+193
+00:19:17,040 --> 00:19:22,560
+to monitor environmental damage and so on. So I mean, there are beneficial uses to these as well.
+
+194
+00:19:22,560 --> 00:19:30,160
+In terms of the private drone industry, hobbyist drones, I really wish that the US government
+
+195
+00:19:30,960 --> 00:19:35,760
+had stricter rules for registering these drones. They just announced some rules a few months ago,
+
+196
+00:19:35,760 --> 00:19:40,240
+and they're extremely weak. If you own a drone, you're supposed to go to a website,
+
+197
+00:19:40,240 --> 00:19:46,000
+register it, print out a registration number which you put on your drone. It would be much
+
+198
+00:19:46,000 --> 00:19:51,680
+better if they were registered at the point of sale, if every drone was sold with a unique
+
+199
+00:19:51,680 --> 00:19:59,120
+registration number, and you were forced to register it when you bought it. Then misbehavior
+
+200
+00:19:59,120 --> 00:20:03,360
+with drones could be more easily tracked, and there could be realistic penalties for people
+
+201
+00:20:04,720 --> 00:20:08,960
+who misuse drones either violently or for surveillance.
+
+202
+00:20:08,960 --> 00:20:13,200
+Do you think that we'll begin to see the same problem that we see with gun control now with
+
+203
+00:20:13,200 --> 00:20:17,920
+drones? Well, the drone industry isn't nearly as powerful as a lobbying force as the National
+
+204
+00:20:17,920 --> 00:20:25,040
+Rifle Association, but it looked to me as if the rules that the Obama administration issued a few
+
+205
+00:20:25,040 --> 00:20:30,400
+months ago were weak, partly because there was a strong lobbying effort by the drone industry.
+
+206
+00:20:30,400 --> 00:20:35,200
+The book is called Drone Remote Control Warfare. It came out in May, and it's,
+
+207
+00:20:35,200 --> 00:20:40,160
+I would imagine, available on all the major digital distributors and everywhere that they
+
+208
+00:20:40,160 --> 00:20:42,080
+sell books, right? Indeed.
+
+209
+00:20:42,080 --> 00:20:46,080
+With the rise of tension around the world, you mentioned the tragedy in Orlando. Would
+
+210
+00:20:46,080 --> 00:20:50,720
+it be fair to say that ultimately it's the militarized technology, whether it's drones
+
+211
+00:20:50,720 --> 00:20:54,720
+or robots or anything else, that will determine the successes and failures?
+
+212
+00:20:55,280 --> 00:21:00,480
+I think that the war on terror is unwinnable the way that we are currently fighting it,
+
+213
+00:21:00,480 --> 00:21:09,840
+and it becomes a self-perpetuating phenomenon. Everything that the United States does in order
+
+214
+00:21:09,840 --> 00:21:15,360
+to win the war on terror, whether it be in Afghanistan, Iraq, Yemen, Somalia, seems to
+
+215
+00:21:15,360 --> 00:21:23,440
+excite further opposition. One notices with the kill lists that are used to determine targets
+
+216
+00:21:23,440 --> 00:21:28,640
+for the drones, the kill lists get longer. The more people we kill, the longer the kill
+
+217
+00:21:28,640 --> 00:21:35,840
+lists get. Now, why is that? Part of the reason for that is that the drone strikes excite as
+
+218
+00:21:35,840 --> 00:21:40,400
+much opposition as they do good. Okay, so you take out an al-Qaeda leader or you take out
+
+219
+00:21:40,400 --> 00:21:45,360
+a Taliban leader. They're replaced pretty quickly. The person who replaces them is really angry
+
+220
+00:21:46,080 --> 00:21:49,840
+about what the US did. They have something to prove. They have to prove to their followers
+
+221
+00:21:49,840 --> 00:21:57,280
+that they're tough. It's not uncommon to find that when a drone takes out an al-Qaeda leader,
+
+222
+00:21:57,280 --> 00:22:02,000
+the level of violence in that region actually goes up, not down, in the weeks afterwards,
+
+223
+00:22:02,560 --> 00:22:07,520
+because new, more radical, angry people with something to prove replace the person who was
+
+224
+00:22:07,520 --> 00:22:12,800
+killed. In the meantime, if the drone strikes are killing innocent civilians, that makes it easier
+
+225
+00:22:12,800 --> 00:22:19,520
+to recruit new members of the insurgency. At this point, the so-called war on terror is the longest
+
+226
+00:22:19,520 --> 00:22:24,560
+war the United States has ever fought. The Taliban controls more of Afghanistan right now
+
+227
+00:22:24,560 --> 00:22:30,800
+than it's controlled in years. It's going nowhere. It's this perpetual war. We're always told there's
+
+228
+00:22:30,800 --> 00:22:35,680
+some new technology that's finally going to help us turn the corner. It's fool's gold.
+
+229
+00:22:35,680 --> 00:22:38,400
+So you're not an optimist about the outcome of this war?
+
+230
+00:22:38,400 --> 00:22:45,920
+I'm not. In Afghanistan, we have to negotiate with the Taliban. We have to get the Afghan
+
+231
+00:22:45,920 --> 00:22:49,760
+government together with the Taliban and with the US and Europeans at the table as well,
+
+232
+00:22:49,760 --> 00:22:57,280
+and try to bow out from Afghanistan as gracefully as we can, leave behind some sort of architecture
+
+233
+00:22:57,280 --> 00:23:03,760
+that will make the country as stable as possible. I assume the American taxpayer in such a situation
+
+234
+00:23:03,760 --> 00:23:08,560
+would want to wash the hands of the country, which would be a sad mistake. What Afghanistan would need
+
+235
+00:23:08,560 --> 00:23:16,000
+in such a situation is a lot of material resources to help them rebuild. But it's only through
+
+236
+00:23:16,000 --> 00:23:21,680
+negotiation and diplomatic settlement that peace and rebuilding will come.
+
+237
+00:23:21,680 --> 00:23:28,080
+What are your thoughts on Iran? Because one of the outcomes of the beginning years of war on terror
+
+238
+00:23:28,080 --> 00:23:33,360
+was that the United States got rid of two of Iran's biggest enemies, Taliban on one side, Saddam
+
+239
+00:23:33,360 --> 00:23:40,960
+Hussein on one side, and that freed up Iran to start their hegemonic exportation of their
+
+240
+00:23:40,960 --> 00:23:47,200
+Shia interpretation of Islamic revolution. What are your thoughts on that country at this point?
+
+241
+00:23:47,200 --> 00:23:54,720
+I'm not an expert on Iran, so I want to be very cautious here. My perception of Iran is that it's
+
+242
+00:23:54,720 --> 00:24:00,720
+a country that's sort of on a knife's edge. The hardliners in Iran feed on the actions from the
+
+243
+00:24:00,720 --> 00:24:07,840
+hardliners in the United States. So the question is whether the kind of agreement that Obama reached
+
+244
+00:24:07,840 --> 00:24:14,880
+with moderates will open space for a gradual democratic evolution in Iran. And I really
+
+245
+00:24:14,880 --> 00:24:24,160
+wouldn't care to predict the answer, but I do know that just taking a hardline action in the past
+
+246
+00:24:24,160 --> 00:24:29,280
+wasn't getting us anywhere. Do you see the chance of a new nuclear arm race this time in Middle East
+
+247
+00:24:29,280 --> 00:24:33,600
+as a consequence of the nuclear agreement with Iran? Because one of the first reactions that we
+
+248
+00:24:33,600 --> 00:24:38,240
+saw was from Saudi Arabia, that they asked for the exact same privileges that Iran got with their
+
+249
+00:24:38,240 --> 00:24:44,560
+nuclear program. And we know that if Saudi Arabia and Emirates and Qatar and those people decide to
+
+250
+00:24:44,560 --> 00:24:48,320
+get nuclear weapons, they don't need to develop a program. They can just buy it from Pakistan.
+
+251
+00:24:51,840 --> 00:24:58,560
+I'm a supporter of the nuclear agreement with Iran. It was clear that despite the sanctions,
+
+252
+00:24:58,560 --> 00:25:04,320
+the Iranians were able to keep making progress in the direction of a nuclear weapon. I don't
+
+253
+00:25:04,320 --> 00:25:08,960
+think it was established that they intended to build the weapon. It looked to me as if they
+
+254
+00:25:08,960 --> 00:25:13,520
+wanted to have the capability to build the weapon. Should they ever make that decision?
+
+255
+00:25:13,520 --> 00:25:18,080
+It wasn't clear to me that that decision had been made. The nuclear agreement does put them
+
+256
+00:25:18,080 --> 00:25:24,160
+several months backwards from there by dismantling all those centrifuges, ticking away some of the
+
+257
+00:25:24,160 --> 00:25:31,120
+highly enriched uranium that they had. I would hope that more reasonable actors in countries
+
+258
+00:25:31,120 --> 00:25:37,280
+like Saudi Arabia would feel reassured rather than threatened by the agreement with Iran,
+
+259
+00:25:37,280 --> 00:25:43,680
+and particularly the inspectors' access makes it harder for the Iranians to hide bad things.
+
+260
+00:25:45,520 --> 00:25:51,200
+But one can understand how symbolically a rapprochement between Iran and the United
+
+261
+00:25:51,200 --> 00:25:57,280
+States would be threatening to city powers in the region, and for that reason, they might feel that
+
+262
+00:25:57,280 --> 00:25:59,840
+they wanted to move closer to a weapons capability.
+
+263
+00:25:59,840 --> 00:26:03,040
+From the point of view of an anthropologist...
+
+264
+00:26:03,040 --> 00:26:05,280
+Can I just say one more thing about the Middle East issue, by the way?
+
+265
+00:26:05,280 --> 00:26:05,920
+Of course.
+
+266
+00:26:05,920 --> 00:26:10,160
+I noticed that when we discuss nuclear proliferation in the United States, and we talk about the
+
+267
+00:26:10,160 --> 00:26:14,720
+countries that have nuclear weapons, there is one country that's always somehow forgotten,
+
+268
+00:26:15,760 --> 00:26:19,280
+and it's in the Middle East, and it's not a Muslim country. It's Israel.
+
+269
+00:26:19,280 --> 00:26:20,080
+Israel, yes.
+
+270
+00:26:20,080 --> 00:26:25,520
+Israel has its thoughts about 100 nuclear weapons. Some of them may be hydrogen bombs,
+
+271
+00:26:25,520 --> 00:26:35,760
+according to some accounts. It's the foundational assumption of realist thinking in security
+
+272
+00:26:35,760 --> 00:26:40,400
+studies that it's very dangerous to have a region where one side has nuclear weapons and the other
+
+273
+00:26:40,400 --> 00:26:49,520
+doesn't. We should worry that the agreement with Iran may be provocative to Saudi Arabia and so on,
+
+274
+00:26:49,520 --> 00:26:52,640
+but the deeper concern that we should have is that we have a region there
+
+275
+00:26:53,200 --> 00:27:00,480
+where one country that feels extremely insecure about its right to exist has a monopoly in the
+
+276
+00:27:00,480 --> 00:27:06,320
+region on weapons of mass destruction, and something has to be done about that situation.
+
+277
+00:27:06,320 --> 00:27:08,160
+It can't just be left alone.
+
+278
+00:27:08,160 --> 00:27:13,760
+The argument, as I understand it, from the Israeli side is that Israel needs to win every single war
+
+279
+00:27:13,760 --> 00:27:17,760
+because they can't afford to lose even one. If they lose one, they're going to be banished
+
+280
+00:27:17,760 --> 00:27:21,920
+from the face of the earth, as Iranians, for example, are calling it for.
+
+281
+00:27:21,920 --> 00:27:22,320
+Yeah.
+
+282
+00:27:22,320 --> 00:27:27,280
+So they're using that as a status and defense of measures. What do you think?
+
+283
+00:27:28,000 --> 00:27:31,280
+First of all, just a sort of footnote on banishing Israel from the face of the earth.
+
+284
+00:27:31,280 --> 00:27:38,080
+That's a quote from Ahmadinejad when he was leader of Iran, and friends who are experts
+
+285
+00:27:38,080 --> 00:27:44,000
+in Iran do tell me that his comment there was mistranslated. But what he said was that over
+
+286
+00:27:44,000 --> 00:27:49,120
+the sands of time would erase Israel. It wasn't that there was a threat that Iran would make it
+
+287
+00:27:49,120 --> 00:27:52,880
+happen. He just predicted that it would go away. But that to one side, you know-
+
+288
+00:27:52,880 --> 00:27:58,240
+Just a note. It was said by, in the very beginning of the revolution, I'm originally from Iran,
+
+289
+00:27:59,600 --> 00:28:05,920
+by Ayatollah Khomeini, who was the leader of the revolution that Israel needs to,
+
+290
+00:28:05,920 --> 00:28:11,760
+we need to wipe Israel off the map. And what Ahmadinejad says, even though he was not
+
+291
+00:28:11,760 --> 00:28:18,160
+interpreted exactly as what he said it, but I don't think it has any kind of practicality
+
+292
+00:28:18,160 --> 00:28:24,400
+to wipe down any country, but they're using that for their internal purposes and also getting
+
+293
+00:28:24,400 --> 00:28:30,000
+together a lot of Muslims in the region who just don't like Israel.
+
+294
+00:28:30,000 --> 00:28:36,400
+Yeah. Well, we can easily understand why Israel would feel deeply insecure. I mean, it's been
+
+295
+00:28:36,400 --> 00:28:46,320
+attacked in 1967, 1973. There have been attempts by its neighbors to either wipe it off the map
+
+296
+00:28:46,320 --> 00:28:51,840
+or steal lots of its territory. It's a very small, non-Arab country surrounded by very
+
+297
+00:28:51,840 --> 00:28:57,040
+militarized Arab countries. So you can understand why it would feel insecure and why it would want
+
+298
+00:28:57,040 --> 00:29:03,680
+to have a nuclear deterrent. At the same time, it has a history of acting quite aggressively
+
+299
+00:29:03,680 --> 00:29:10,160
+towards its neighbors. And so its nuclear stockpile and its other foreign policy actions
+
+300
+00:29:10,160 --> 00:29:15,440
+will make its neighbors feel insecure as well. This is the way militarism works. People feel
+
+301
+00:29:15,440 --> 00:29:21,040
+insecure about another country that has a weapons capability because it feels insecure about you,
+
+302
+00:29:21,040 --> 00:29:26,480
+and it becomes this action-reaction cycle that can, if it's not controlled, lead to disaster.
+
+303
+00:29:27,920 --> 00:29:31,840
+And so as long as Israel has nuclear weapons, one can imagine why some of Israel's
+
+304
+00:29:31,840 --> 00:29:36,400
+neighbors might want to acquire them too. From the point of view of an anthropologist,
+
+305
+00:29:36,400 --> 00:29:42,880
+can we get rid of war altogether? In other words, can humans at their current state of evolution
+
+306
+00:29:42,880 --> 00:29:48,800
+operate without war? Great question. So many people say that war is just part of human nature.
+
+307
+00:29:48,800 --> 00:29:55,360
+The anthropological records suggest otherwise. Aggression and violence is certainly part of
+
+308
+00:29:55,360 --> 00:30:00,320
+the human experience everywhere. Anthropologists have found no society where people don't, from
+
+309
+00:30:00,320 --> 00:30:04,720
+time to time, kill each other and attack each other and get into conflicts. But that's different
+
+310
+00:30:04,720 --> 00:30:10,400
+from war. Warfare is a social institution. It's quite different from beating up your spouse or
+
+311
+00:30:10,400 --> 00:30:14,400
+getting into a fistfight with someone in a bar. That's not war. That's aggression and violence.
+
+312
+00:30:15,200 --> 00:30:20,480
+Anthropologists have found a number of societies that have no experience of organized warfare,
+
+313
+00:30:20,480 --> 00:30:25,920
+that have no experience of organized warfare, not even a word for warfare. Unfortunately,
+
+314
+00:30:25,920 --> 00:30:31,600
+these societies were egalitarian hunter-gatherer types of societies that have largely been wiped
+
+315
+00:30:31,600 --> 00:30:38,160
+out by colonialism, industrialization, and modernization. But it does suggest that it's
+
+316
+00:30:38,160 --> 00:30:42,880
+within the capability of the human species, it is part of our potential repertoire
+
+317
+00:30:42,880 --> 00:30:49,760
+to live without warfare as an organized institution. Very interesting. Back to nuclear
+
+318
+00:30:49,760 --> 00:30:56,000
+weapons, they have been perhaps the most serious of a threat to the planet and the civilization's
+
+319
+00:30:56,000 --> 00:31:01,440
+safety and security. How have they evolved in their approach towards nuclear weapons since the
+
+320
+00:31:01,440 --> 00:31:08,000
+end of Cold War? And how do you see this evolution continue? So the way the United States and the
+
+321
+00:31:08,000 --> 00:31:14,480
+Soviet Union conducted the nuclear arms race during the Cold War is that they were constantly
+
+322
+00:31:14,480 --> 00:31:20,720
+competing with one another, both quantitatively and qualitatively. They were trying to build up
+
+323
+00:31:20,720 --> 00:31:26,480
+larger stockpiles than each other, and they were trying to design new kinds of weapons with new
+
+324
+00:31:26,480 --> 00:31:31,760
+kinds of capabilities. That might have meant... It didn't necessarily mean that they were more
+
+325
+00:31:31,760 --> 00:31:35,280
+destructive, that the warheads were more destructive. It might have meant that the
+
+326
+00:31:35,280 --> 00:31:40,640
+destructiveness was customized in some way, that you would minimize the blast effect but
+
+327
+00:31:40,640 --> 00:31:44,480
+optimize the radiation output, as in the neutron bomb or something like that.
+
+328
+00:31:45,120 --> 00:31:51,280
+Many of the qualitative improvements of weapons in the Cold War had to do with accuracy or with
+
+329
+00:31:51,280 --> 00:31:56,560
+putting lots and lots of warheads on a single missile. So in the 70s, both sides figured out
+
+330
+00:31:56,560 --> 00:32:01,120
+how to move their missiles. That's to put multiple warheads on the missiles. So you could launch one
+
+331
+00:32:01,120 --> 00:32:07,200
+missile, but you could destroy 10 cities with it half an hour later when it reentered the atmosphere
+
+332
+00:32:07,200 --> 00:32:10,880
+or trying to make them so accurate that they could land within 100 feet of their target.
+
+333
+00:32:13,120 --> 00:32:20,560
+They built enormous stockpiles, 70,000 nuclear weapons at its height in the Cold War, an
+
+334
+00:32:20,560 --> 00:32:28,880
+astonishing number of these weapons. Interestingly, the pursuit of security through qualitative and
+
+335
+00:32:28,880 --> 00:32:34,400
+quantitative improvements actually produced insecurity. So the more accurate the weapons
+
+336
+00:32:34,400 --> 00:32:39,680
+became, the more each side worried that the other side might be able to preemptively destroy its
+
+337
+00:32:39,680 --> 00:32:45,280
+weapons before it could use them. In particular, the moving of the weapons, putting multiple
+
+338
+00:32:45,280 --> 00:32:51,760
+warheads on them, increased the risk that one country could destroy 10 of the other countries'
+
+339
+00:32:51,760 --> 00:32:56,400
+missiles with just one missile of its own, because each missile could send 10 warheads
+
+340
+00:32:56,400 --> 00:33:04,400
+at different targets. So by the end of the Cold War, both sides were much less secure and safe
+
+341
+00:33:04,400 --> 00:33:07,600
+than they had been at the beginning of the arms race. There were more of the weapons,
+
+342
+00:33:07,600 --> 00:33:12,320
+they were more accurate, and the configuration had become much less stable from an deterrence
+
+343
+00:33:12,320 --> 00:33:17,760
+point of view. What has happened since then is that there's been an enormous diminution in the
+
+344
+00:33:17,760 --> 00:33:23,280
+number of the weapons. So the US now only has 7,000 weapons, and many of them are sort of in the
+
+345
+00:33:23,280 --> 00:33:28,720
+closet. They're not on active deployment. They're on sort of reserve standby status.
+
+346
+00:33:28,720 --> 00:33:33,600
+So the numbers have come down. There's still enough that you could effectively end most of
+
+347
+00:33:33,600 --> 00:33:39,120
+human life on the planet, which is not good, but the numbers have come down. No one has tested a
+
+348
+00:33:39,120 --> 00:33:43,520
+nuclear weapon since India and Pakistan. Well, I guess the North Koreans have tested nuclear
+
+349
+00:33:43,520 --> 00:33:49,520
+weapons, but the superpowers haven't tested nuclear weapons since the early 1990s. The US
+
+350
+00:33:49,520 --> 00:33:56,320
+hasn't done a nuclear test since September 1992. So both countries are pretty much stuck with the
+
+351
+00:33:56,320 --> 00:34:02,400
+stockpiles that they used to have. In the absence of nuclear testing, you can sort of maintain the
+
+352
+00:34:02,400 --> 00:34:08,080
+old weapons and make sure they work, but you can't design new ones with fundamentally new capabilities.
+
+353
+00:34:08,080 --> 00:34:14,080
+And that itself is a stabilizing factor. Now, the problem is that this technology is now pretty old
+
+354
+00:34:14,080 --> 00:34:19,600
+technology. I mean, it was developed in the 1940s originally. A group of physics undergraduates at
+
+355
+00:34:19,600 --> 00:34:23,600
+one of our leading universities, if they had access to the nuclear material, could easily
+
+356
+00:34:23,600 --> 00:34:29,600
+make a nuclear weapon that would work very well. And that means that the danger of proliferation,
+
+357
+00:34:29,600 --> 00:34:35,040
+including to terrorist groups, to subnational actors, is greatly increased. So what we're seeing
+
+358
+00:34:35,040 --> 00:34:39,200
+in terms of the nuclear policy debate, which I find very interesting, is there are a number of
+
+359
+00:34:39,200 --> 00:34:44,800
+people who used to be hawks, who used to believe in the arms race, who have now become nuclear
+
+360
+00:34:44,800 --> 00:34:49,360
+abolitionists. I'm thinking of people like William Perry, who was Secretary of Defense under Bill
+
+361
+00:34:49,360 --> 00:34:56,480
+Clinton, Henry Kissinger, and William Schultz, who was Secretary of State for Ronald Reagan.
+
+362
+00:34:56,480 --> 00:35:02,320
+They now advocate the abolition of nuclear weapons. And I think the reason that they advocate this
+
+363
+00:35:02,880 --> 00:35:08,240
+is that they're terrified that terrorists and subnational actors will get their hands on this
+
+364
+00:35:08,240 --> 00:35:12,960
+technology if it stays around. We mentioned being terrified of terrorists. I want to ask you about
+
+365
+00:35:12,960 --> 00:35:20,320
+Donald Trump, if you don't mind. Sure. You being in Washington, you're in the center of this crazy
+
+366
+00:35:20,320 --> 00:35:27,360
+show, I would say, that is going on in the US politics now. How do you feel about the very
+
+367
+00:35:27,360 --> 00:35:33,680
+possibility of Donald Trump presidency, and as famously said by many people, his fingers being
+
+368
+00:35:33,680 --> 00:35:40,160
+on the nuclear coats? Well, I can't say it makes me terribly happy. I noticed my daughter, who's in
+
+369
+00:35:40,160 --> 00:35:45,440
+third grade, came home one day and said, so what country are we moving to if Donald Trump wins?
+
+370
+00:35:48,480 --> 00:35:51,520
+Apparently, it's penetrated the consciousness of third graders in Washington.
+
+371
+00:35:52,800 --> 00:35:57,920
+The guy is unpredictable. With nuclear weapons, unpredictability is not a good thing.
+
+372
+00:35:57,920 --> 00:36:04,640
+What the superpowers learned over time is that you want cool-headed people who think carefully
+
+373
+00:36:04,640 --> 00:36:10,240
+before they act. They don't do things rashly. They talk a lot to their enemies. If they make threats,
+
+374
+00:36:10,240 --> 00:36:16,640
+the threats are very carefully coded. They leave themselves space so they can back down if the
+
+375
+00:36:16,640 --> 00:36:23,200
+threats aren't met. That doesn't sound much like Donald Trump to me. What is the future of war?
+
+376
+00:36:23,200 --> 00:36:28,720
+What is the future of war? Well, I would hope it doesn't have much of a future, but at the moment,
+
+377
+00:36:28,720 --> 00:36:34,720
+it looks like it has a very good future. The future of war will look very different in
+
+378
+00:36:35,440 --> 00:36:41,120
+advanced industrial countries like the United States and in parts of Africa and Asia and so on.
+
+379
+00:36:42,000 --> 00:36:48,320
+What we see in the Middle East and in Africa right now is that there's increasing hybridization
+
+380
+00:36:48,320 --> 00:36:54,720
+between warfare and gang violence and the black economy and drug trafficking and so on.
+
+381
+00:36:55,360 --> 00:37:01,600
+It creates an utterly miserable situation for ordinary people. It produces these mass
+
+382
+00:37:01,600 --> 00:37:05,680
+flows of migrants that we're seeing out of the Middle East, particularly Syria right now.
+
+383
+00:37:07,520 --> 00:37:12,000
+People in the United States are terrified of terrorist attack and so on, but they get off
+
+384
+00:37:12,000 --> 00:37:15,920
+pretty lightly. Warfare is largely something that happens in other people's territory.
+
+385
+00:37:15,920 --> 00:37:21,440
+There's a strong faith in the United States that technology will keep us safe. The technologies
+
+386
+00:37:21,440 --> 00:37:25,360
+that the United States are talking about for the next generation have to do with an
+
+387
+00:37:25,360 --> 00:37:31,200
+intensification of surveillance and something I find somewhat troubling, a strong move to
+
+388
+00:37:31,200 --> 00:37:36,640
+artificial intelligence. These would be autonomous weapons. It's not just that the drone would not
+
+389
+00:37:36,640 --> 00:37:41,680
+have a pilot in it, but it wouldn't even be operated by someone from Nevada. You would
+
+390
+00:37:41,680 --> 00:37:46,080
+program it how to tell terrorists from civilians, and it would make its own decisions to attack.
+
+391
+00:37:46,800 --> 00:37:50,640
+And who's responsible when it makes a mistake and destroys a village? I don't know.
+
+392
+00:37:51,280 --> 00:37:56,080
+Speaking of artificial intelligence and the whole technological advancement that we're
+
+393
+00:37:56,080 --> 00:38:00,880
+experiencing, how are we evolving as species in the 21st century?
+
+394
+00:38:00,880 --> 00:38:05,040
+Well, genetically, we're not evolving very much at all, though I guess there are technologies
+
+395
+00:38:05,040 --> 00:38:09,600
+that hold out the prospect that we could take charge of our genetic evolution.
+
+396
+00:38:09,600 --> 00:38:15,600
+But as a species, we're evolving in a direction where there's this increasing chasm between
+
+397
+00:38:15,600 --> 00:38:21,040
+societies, between the have and the have-not societies, and within societies, between the
+
+398
+00:38:21,040 --> 00:38:29,600
+haves and the have-nots. What academics call neoliberalism, which is this brutal intensification
+
+399
+00:38:29,600 --> 00:38:35,840
+of capitalism that we've seen in the last 20 or 30 years, is sort of rolling back the clock on
+
+400
+00:38:35,840 --> 00:38:42,320
+gains that were made against inequality following World War II. All of the metrics show that the
+
+401
+00:38:42,320 --> 00:38:48,240
+United States is becoming a more and more unequal society, so we seem to be evolving in a direction
+
+402
+00:38:48,240 --> 00:38:54,400
+of more and more inequality, which can only create social problems. It is likely to create
+
+403
+00:38:55,200 --> 00:39:01,280
+more violence within society. At the same time, societies are becoming more and more multicultural.
+
+404
+00:39:01,280 --> 00:39:06,640
+So I think one of the interesting questions that the Trump campaign raises, if you could
+
+405
+00:39:06,640 --> 00:39:11,760
+put Trump side-by-side with Bernie Sanders, you see that there are two narrative responses to
+
+406
+00:39:11,760 --> 00:39:18,560
+neoliberalism there. Bernie Sanders is saying it's about inequality between classes and trying to
+
+407
+00:39:18,560 --> 00:39:23,920
+encourage people to think about inequality in economic terms. Trump is encouraging people
+
+408
+00:39:23,920 --> 00:39:29,600
+in a multicultural context to think through inequality in terms of inequality and inequality.
+
+409
+00:39:29,600 --> 00:39:35,200
+Through inequality in terms of what ethnic others they want to scapegoat. So I think a major
+
+410
+00:39:35,200 --> 00:39:41,120
+political question for the United States in the next 10 years is how we will react to the objective
+
+411
+00:39:41,120 --> 00:39:46,960
+increase in inequality. Will we do it through increasing racial tension and ethnic scapegoating?
+
+412
+00:39:46,960 --> 00:39:53,040
+Or will we see the return of sort of mass class-based movements like those of the 1930s
+
+413
+00:39:53,040 --> 00:39:57,040
+that might span different ethnic groups? How can we get ready for such a future?
+
+414
+00:39:57,040 --> 00:40:01,360
+By talking about it, thinking about it, talking to our friends and our neighbors about it.
+
+415
+00:40:01,360 --> 00:40:05,360
+Professors have to talk about it in their classes. Novelists have to write about it.
+
+416
+00:40:05,360 --> 00:40:10,880
+Hollywood movie makers have to make movies about it. Politicians have to turn their backs on the
+
+417
+00:40:10,880 --> 00:40:17,760
+special interest donations and talk honestly about it. Just out of curiosity, what percentage of
+
+418
+00:40:18,560 --> 00:40:23,760
+the nuclear scientists that you were studying were women? It will sound like a low percentage
+
+419
+00:40:23,760 --> 00:40:30,240
+because it was something like 6 or 7%. The objective numbers I have are from the 80s,
+
+420
+00:40:30,240 --> 00:40:34,000
+so I should caution your listeners that those numbers have surely changed since then.
+
+421
+00:40:34,960 --> 00:40:40,160
+But in the 80s, it was 6 or 7%. That may sound pretty terrible, but actually,
+
+422
+00:40:40,160 --> 00:40:44,400
+if you looked at the percentage of American PhDs in physics that went to women,
+
+423
+00:40:44,400 --> 00:40:51,200
+women were overrepresented in the weapons labs. I know a number of women nuclear weapons designers.
+
+424
+00:40:51,200 --> 00:40:54,880
+They like to joke that women are better at nuclear weapons design than men
+
+425
+00:40:54,880 --> 00:40:59,280
+because they think holistically. A kind of technical problem that requires
+
+426
+00:40:59,280 --> 00:41:04,720
+holistic thinking where you understand how one parameter changes in sync with other parameters
+
+427
+00:41:04,720 --> 00:41:10,480
+and so on. At Los Alamos, there is a nuclear weapons design and crocheting group.
+
+428
+00:41:11,040 --> 00:41:16,960
+Interesting. The book is called Drone Remote Control Warfare. We've been speaking with
+
+429
+00:41:16,960 --> 00:41:23,280
+Hugh Gusterson for the past 40 minutes. I'm going to ask you the last question. I'm asking
+
+430
+00:41:23,280 --> 00:41:28,800
+all my guests that if you come across an intelligent alien from a different civilization,
+
+431
+00:41:28,800 --> 00:41:33,600
+what would you say is the worst thing humanity has done and what would you say is humanity's
+
+432
+00:41:33,600 --> 00:41:39,280
+greatest achievement? I should have listened to the end of your other shows so I know what
+
+433
+00:41:39,280 --> 00:41:48,080
+other people said. The worst thing has to be some of the terrible atrocities of the 20th century,
+
+434
+00:41:48,080 --> 00:41:54,240
+Auschwitz, Hiroshima, the mass killing that we've engaged in, Rwanda.
+
+435
+00:41:56,080 --> 00:42:04,080
+The best thing, some of our wonderful music, some of our wonderful plays, Shakespeare movies.
+
+436
+00:42:04,080 --> 00:42:09,360
+I don't know if an alien would really understand that. We don't know if aliens would appreciate art.
+

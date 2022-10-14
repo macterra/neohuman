@@ -1,0 +1,436 @@
+we need to debate how warfare itself is changing. If the planes that are bombing people have no
+pilots in them, and the operators of those planes are sitting safely in the middle of
+the United States, it's kind of confusing. Hello, and welcome to the 18th episode of
+Neo Human Podcast. I'm Agar Bahari, an ecologist on Twitter and Instagram, and you can follow the
+show on LiveInLimbo.com, iTunes, and soon on YouTube. With me today is Hugh Gusterson. Welcome
+to the show, Hugh. It's a pleasure to be here. Let's start with some background, some of the
+works you've done and what you're working on now these days. Sure. I'm an anthropologist by training
+and I teach anthropology and international affairs at George Washington University.
+Originally, I was going to do field work in Africa in the 1980s. I was a grad student at the time.
+There was a massive nuclear freeze movement against the nuclear arms race. I took an odd
+turn in my career and decided to write about the culture of American nuclear weapons designers
+instead. Much of my work has been on different aspects of the culture of American militarism.
+I've written a couple of books about nuclear weapons designers and anti-nuclear activists.
+I've written about counterinsurgency in Iraq and Afghanistan. After this book, I'm finishing up
+a third book on what American nuclear weapons scientists do after the end of nuclear testing.
+You started as an anti-nuclear activist in the early 80s and went on to
+studying the attitudes of nuclear scientists as an anthropologist.
+What is the mindset of a nuclear scientist? For the most part, very rational.
+Despite the fact that about three quarters of the weapons scientists I interviewed
+were active Christians, but they were what you might call sort of moderate secular Christians
+for the most part, mainstream denominations like Catholics, Methodists, Presbyterians,
+Episcopalians. They had a strong faith that the weapons they designed would never be used. I even
+had weapons scientists say to me that they would not feel ethically comfortable working on weapons
+like napalm or landmines because those weapons would be used to kill people. They were confident
+that their weapons would be used to deter World War III. Some weapons scientists told me that they
+felt personally proud. They thought they'd saved millions of lives by making a war between the
+Americans and the Soviets impossible. They had this sort of faith that human rationality would
+make deterrence work in the final instance, that the weapons would not be used. When I asked them
+if they ever had nightmares about nuclear war, they would sort of look cross-eyed at me and say,
+well, why would I have a nightmare about nuclear war? That would be irrational. Many of the
+anti-nuclear activists I interviewed and knew as friends on the other hand were deeply terrified
+that deterrence would break down, there would be an accident, there would be a miscalculation,
+and millions of people would die. Many of those activists did have nightmares about nuclear war.
+In some ways, the division between the activists and the weapons scientists was around emotion
+and rationality, with one community strongly confident that the weapons could be relied on
+to keep the peace, and the others terrified that there would be a miscalculation. You could say the
+weapons scientists were in denial, or you could say the activists were overly emotional. Take your
+pick. I was watching a documentary about the state of US nuclear facilities, and they're all using
+old computers, big floppy disks, which I would imagine makes it easier to operate based on the
+older knowledge, but it makes it harder for hackers to hack into it. What do you think about that
+structural, systematic structure that has remained the same throughout all these technological
+advancements in the past couple of years? Well, I think you're talking about the technology that's
+used at the missile launch control facilities. That's right. I read that article as well. I don't
+know if they deliberately failed to upgrade as a safety measure, or if this was an unintended
+benefit of being behind the times. Strangely enough, there's a parallel story. The Soviets used to
+rely on pre-digital technology with vacuum tubes that were resistant to electromagnetic pulse from
+a nuclear explosion. This was just because they didn't have the resources to upgrade, but their
+planes would have survived a nuclear war better than American planes, as it turns out. I suspect
+this is just an accidental benefit of a failure to keep up with the times, but it is funny that
+these ancient three-inch floppy disks could make American nuclear missiles more resistant to
+hacking. I should say that at the weapons labs, they do have state-of-the-art facilities there to
+do research. They have some of the fastest supercomputers in the world. Their machines are
+usually listed somewhere in the top 10 in terms of speed and storage capability.
+Because the weapons labs haven't been allowed to test a nuclear weapon since 1992, they largely rely
+on extremely powerful supercomputer simulations of nuclear tests to maintain the stockpile. The
+United States, as your listeners may or may not know, still has about 7,000 nuclear weapons.
+And somehow the weapons labs have to assure that they work. So they have very expensive
+state-of-the-art lasers, simulation machines, and supercomputers. So on the design end of things,
+they're certainly not behind the times. I'll have more questions about nuclear weapons.
+I'll come back to them. But let's talk about your new book. The new book is called Drone Remote
+Control Warfare. What's the book about and what inspired you to write it now?
+Well, I think the United States has entered into a new form of warfare, drone warfare.
+It's on the edge of American consciousness. Everyone in the United States is aware that
+this kind of warfare is being practiced. The details are not widely known. The United States
+has adopted a policy that it feels free to assassinate people in countries at which it
+is not a war, to conduct military operations in countries like Yemen, Pakistan, Somalia,
+where it's not a war, even the Philippines. The U.S. has done two drone strikes on the Philippines.
+There's been almost no debate about this in Congress. On the very rare occasions where
+there's a hearing, almost no congressmen show up. The reporters often just report that a strike
+took place. It's a very brief article. So-and-so, according to the Pentagon, was killed, the Taliban
+leader, or whatever. I think the fact that the United States is conducting military operations
+that have not been approved by Congress, in some cases, it has deliberately killed American
+citizens without any kind of judicial process that would legitimate the execution of the death
+penalty. We need more debate about that. And I think we need to debate how warfare itself is
+changing if the planes that are bombing people have no pilots in them and the operators of those
+planes are sitting safely in the middle of the United States. It's kind of confusing. Do those
+people deserve medals? Are they people who've been in combat or not? Are they legitimate targets for
+the enemy? If the Taliban could somehow get someone to Nevada, would it be okay for them to blow up a
+drone operator? Lots of very interesting kinds of questions that need exploration.
+It's excellent. I was going to ask you, how does the ability to fight wars remotely affecting the
+human side of war? Because we see that a lot of those operators, they're saying that they go to
+work at like eight in the morning and they shoot some missile somewhere across the world, and then
+they just go back and have dinner with their family in the same city. How does the ability to
+not being involved personally in wars affecting the human side of war, whether it's soldiers or
+civilians? Well, I think on the receiving end of the strikes, there's a very strong feeling that
+this is a very cowardly way of conducting warfare. In some perverse kind of way, I think civilians in
+places like Afghanistan and Yemen feel the way about drone strikes that Americans do about suicide
+bomber strikes, that it's just not cricket, if you like, to attack people in such a way that you
+can't be attacked in reverse. If you're a suicide bomber, you preemptively kill yourself. And if
+you're a drone operator, you're just not around to be attacked. So for people on the receiving end,
+there's this strong sense that this new form of warfare is cowardly, it's unfair.
+And American policymakers can be very puzzled about this. They point out that the drones
+are often more discriminating than an F-16 would be, that they kill fewer civilians by accident.
+And so they say, we don't understand why the people in these other countries are so angry
+about drone strikes that tend to kill fewer civilians. But I think the key to the anger
+lies in this perception that it's a form of warfare that's cowardly. As for the operators in the
+United States, we're seeing reports of very high levels of stress. Now, some people say it's because
+they work very long hours. They work 12-hour shifts, often six days a week. Some people say
+it's because the battle zone is not sort of clearly, clearly demarcated. You leave your family,
+your wife and kids, or your husband and kids in the morning, you leave your family, your wife and
+kids in the morning, drive to this pod, sit in this pod for 12 hours, keeping people under
+surveillance and sometimes killing them. And then you drive to pick up the kids from soccer and
+have dinner with them. Psychologically, I think that's very disturbing and very jarring. The two
+Hollywood depictions we have of drone warfare, the good kill and eye in the sky, both suggest
+that it's subjectively quite stressful for the operators. And that's what journalistic accounts
+as well, high levels of risk for divorce, alcoholism, and so on. It's an interesting
+question why the Pentagon didn't decide to base these drone operators outside the US. They don't
+have to put them in the battle zone. They could put them in a military base in Abu Dhabi or in
+Turkey or somewhere like that. And I think they might feel subjectively more as if they were at
+war than they do by being commuter warriors. What drone strikes are the continuation of the war on
+terror that started by or started as September 11. But on the American side, it was waged by
+George W. Bush, but then it continued throughout the entire Obama administration. How do you feel
+about the increase of remote drone operations during Obama administration? I think it's very
+interesting that the president who got elected originally by being so opposed to the war in Iraq,
+if not the war in Afghanistan, but by being a strong critic of many aspects of the war on terror
+and a critic of Guantanamo, it's interesting that he escalated the use of drone strikes so much.
+At one point during his presidency, the US was doing one drone strike every three days in Pakistan,
+a country where, I would remind you listeners, the US is not in a declared war. I mean, that's
+very, very intense. This is in what year? It was in the middle years, around 2010, 11, 12. He's
+backed off of that to some degree now. I think there is something in President Obama's psyche
+that is drawn to drones. I think this idea that you can make a very cautious, thought-out decision,
+that you can gather data for hours or even days, and then make a decision that you're going to
+excise this person. There's something superficially sort of clean and rational about that,
+that appeals to him. President Bush was much more about sort of swagger and shock and awe,
+and there's this sort of cold use of violence that typifies the Obama administration. He will be
+known, I think, as the drone president. I do find it very ironic that a president with a background
+in constitutional law is the president whose administration has said that it has the legal
+right to kill American citizens in other countries without any kind of judicial process. I find that
+quite disturbing. Many lawyers do as well, lawyers from conservative as well as liberal
+backgrounds. A lot of people have the concern that those kind of operations may start happening
+inside the United States for many different issues, surveillance, putting privacy and security of
+civilians in jeopardy. What do you think about that? Well, I end the book with this very short
+chapter where I lay out two possible futures around drones. The future is concerned not only
+the use of drones in other countries, but they're used domestically within the United States.
+One is sort of a situation where the drones are very well regulated and used in very restricted
+ways. The other is the nightmarish scenario for the future, which I'm sorry to say I consider to
+be the more likely one. Part of that concerns the possibility of escalating use of drones by
+law enforcement within the US. Already, drones are used to police the US-Mexican border, for example.
+Now, they're not used in a lethal capacity, they're just used to give us surveillance and
+to direct law enforcement on the ground to intercept groups of people coming across that
+border illegally. They're also used in domestic law enforcement situations to
+overfly demonstrations and so on, but again, just in a surveillance capacity.
+I suggest that it's not hard to imagine a situation where there would be some kind of emergency,
+you know, someone like the person who killed 50 people in a nightclub in Orlando this weekend
+is on the run, highly armed, you're worried they're going to kill more people. And so on a one-time
+only basis, you make an exception. You say that if the drone gets this person in their sights,
+they're authorized to kill them from the air. And then you've created that precedent, and it becomes
+easier to do it the next time when there's another kind of emergency. Gradually, it becomes more and
+more routinized. You can imagine that such a course of action would happen where it's sort of
+marginal and hated to targets that are at issue. It could be people trying to come across the border
+illegally from Mexico. It could be drug dealers. But I can imagine by sort of unintentional stealth,
+a set of precedents being set that would lead to a routinization of the use of drones, not only for
+surveillance in the US, but for lethal purposes, too. What are your thoughts on the issue of privacy?
+Apple versus FBI case would be a good example that it's really becoming more about security versus
+freedom to have the kind of information that we want to decide to keep it private. How do you feel
+about that? What do you think about it? I know I'm very disturbed by the revelations that we learned
+by Edward Snowden about the ways in which the NSA in particular has the capability to gather enormous
+amounts of data on American citizens, to listen in on their phone conversations, to track all of
+their email, to use their cell phones to monitor their whereabouts and so on. I think in that
+respect, drones may not be as much of a concern as the way the NSA can use its information technology,
+the information infrastructure, to track our whereabouts, who we talk to, who we meet with,
+and so forth. I think for drones, in terms of privacy, the area of concern there may actually
+have to do with privately owned drones. You can buy a drone off the shelf from Target or Amazon
+for just a few hundred dollars. You could get a nice drone with a nice video capability.
+And one can imagine a situation where an angry spouse would use such a drone
+to track the behavior of their former partner. You can imagine neighbors buying on their neighbors.
+You could imagine sort of peeping drone scenarios and so on. So some of the concerns I have to do
+not with government misuse of drones to invade our privacy, but the way citizens can invade each
+other's privacy. There have already been a number of instances where people have taken guns and shot
+down drones that were over their houses. And so far the courts have ruled in favor of the drone
+owners, not the shooters in those cases. One of the conspiracy theorists, most famous
+radio host, he started this sport shooting down drones with shotguns and they're doing that in
+Texas. Well, I don't recommend that. No, definitely not. And I think there's a real concern if we're
+talking about the privately owned drones in terms of terrorism and accident, there have been a number
+of instances reported now where privately owned drones have become very close to commercial jet
+liners on takeoff and landing from an airport. And the way things are going, if we extrapolate,
+it's just a matter of time until one of those drones hits a jetliner. If it gets sucked into
+the engine, it's quite possible it could bring a commercial plane down. And I think we have to worry
+now it's been done. People have attached handguns and chainsaws to drones and flown them. It'd be
+very simple to attach a primitive kind of improvised explosive to a drone. You could imagine attaching
+some sort of crude chemical weapon to a drone. So I'm sorry to say this, but we have to worry
+about attacks on sports stadiums and public events by people wanting to sell terror and mayhem.
+I agree. You mentioned regulating drones. The first thing came to my mind was the guy who made
+the open source 3D model of a handgun that anybody can download and 3D print different pieces in
+different places and just put them together and just get a bullet and use it. So drones have the
+same possibility and anything else that can be used for destructive or beneficial purposes, right?
+Yeah. And I want to emphasize that there are beneficial purposes for drones. They used to
+inspect high power lines. And if you do those inspections with humans, a number of them get
+killed in accidents exposed to high voltage. Much better to do with a drone if you can.
+At Fukushima, they've used drones to try and sample radiation levels in a place where you
+don't want to send humans in. The World Wildlife Federation uses a drone in Africa to hunt for
+poachers. You can use drones to look for mass graves in places where there have been atrocities
+to monitor environmental damage and so on. So I mean, there are beneficial uses to these as well.
+In terms of the private drone industry, hobbyist drones, I really wish that the US government
+had stricter rules for registering these drones. They just announced some rules a few months ago,
+and they're extremely weak. If you own a drone, you're supposed to go to a website,
+register it, print out a registration number which you put on your drone. It would be much
+better if they were registered at the point of sale, if every drone was sold with a unique
+registration number, and you were forced to register it when you bought it. Then misbehavior
+with drones could be more easily tracked, and there could be realistic penalties for people
+who misuse drones either violently or for surveillance.
+Do you think that we'll begin to see the same problem that we see with gun control now with
+drones? Well, the drone industry isn't nearly as powerful as a lobbying force as the National
+Rifle Association, but it looked to me as if the rules that the Obama administration issued a few
+months ago were weak, partly because there was a strong lobbying effort by the drone industry.
+The book is called Drone Remote Control Warfare. It came out in May, and it's,
+I would imagine, available on all the major digital distributors and everywhere that they
+sell books, right? Indeed.
+With the rise of tension around the world, you mentioned the tragedy in Orlando. Would
+it be fair to say that ultimately it's the militarized technology, whether it's drones
+or robots or anything else, that will determine the successes and failures?
+I think that the war on terror is unwinnable the way that we are currently fighting it,
+and it becomes a self-perpetuating phenomenon. Everything that the United States does in order
+to win the war on terror, whether it be in Afghanistan, Iraq, Yemen, Somalia, seems to
+excite further opposition. One notices with the kill lists that are used to determine targets
+for the drones, the kill lists get longer. The more people we kill, the longer the kill
+lists get. Now, why is that? Part of the reason for that is that the drone strikes excite as
+much opposition as they do good. Okay, so you take out an al-Qaeda leader or you take out
+a Taliban leader. They're replaced pretty quickly. The person who replaces them is really angry
+about what the US did. They have something to prove. They have to prove to their followers
+that they're tough. It's not uncommon to find that when a drone takes out an al-Qaeda leader,
+the level of violence in that region actually goes up, not down, in the weeks afterwards,
+because new, more radical, angry people with something to prove replace the person who was
+killed. In the meantime, if the drone strikes are killing innocent civilians, that makes it easier
+to recruit new members of the insurgency. At this point, the so-called war on terror is the longest
+war the United States has ever fought. The Taliban controls more of Afghanistan right now
+than it's controlled in years. It's going nowhere. It's this perpetual war. We're always told there's
+some new technology that's finally going to help us turn the corner. It's fool's gold.
+So you're not an optimist about the outcome of this war?
+I'm not. In Afghanistan, we have to negotiate with the Taliban. We have to get the Afghan
+government together with the Taliban and with the US and Europeans at the table as well,
+and try to bow out from Afghanistan as gracefully as we can, leave behind some sort of architecture
+that will make the country as stable as possible. I assume the American taxpayer in such a situation
+would want to wash the hands of the country, which would be a sad mistake. What Afghanistan would need
+in such a situation is a lot of material resources to help them rebuild. But it's only through
+negotiation and diplomatic settlement that peace and rebuilding will come.
+What are your thoughts on Iran? Because one of the outcomes of the beginning years of war on terror
+was that the United States got rid of two of Iran's biggest enemies, Taliban on one side, Saddam
+Hussein on one side, and that freed up Iran to start their hegemonic exportation of their
+Shia interpretation of Islamic revolution. What are your thoughts on that country at this point?
+I'm not an expert on Iran, so I want to be very cautious here. My perception of Iran is that it's
+a country that's sort of on a knife's edge. The hardliners in Iran feed on the actions from the
+hardliners in the United States. So the question is whether the kind of agreement that Obama reached
+with moderates will open space for a gradual democratic evolution in Iran. And I really
+wouldn't care to predict the answer, but I do know that just taking a hardline action in the past
+wasn't getting us anywhere. Do you see the chance of a new nuclear arm race this time in Middle East
+as a consequence of the nuclear agreement with Iran? Because one of the first reactions that we
+saw was from Saudi Arabia, that they asked for the exact same privileges that Iran got with their
+nuclear program. And we know that if Saudi Arabia and Emirates and Qatar and those people decide to
+get nuclear weapons, they don't need to develop a program. They can just buy it from Pakistan.
+I'm a supporter of the nuclear agreement with Iran. It was clear that despite the sanctions,
+the Iranians were able to keep making progress in the direction of a nuclear weapon. I don't
+think it was established that they intended to build the weapon. It looked to me as if they
+wanted to have the capability to build the weapon. Should they ever make that decision?
+It wasn't clear to me that that decision had been made. The nuclear agreement does put them
+several months backwards from there by dismantling all those centrifuges, ticking away some of the
+highly enriched uranium that they had. I would hope that more reasonable actors in countries
+like Saudi Arabia would feel reassured rather than threatened by the agreement with Iran,
+and particularly the inspectors' access makes it harder for the Iranians to hide bad things.
+But one can understand how symbolically a rapprochement between Iran and the United
+States would be threatening to city powers in the region, and for that reason, they might feel that
+they wanted to move closer to a weapons capability.
+From the point of view of an anthropologist...
+Can I just say one more thing about the Middle East issue, by the way?
+Of course.
+I noticed that when we discuss nuclear proliferation in the United States, and we talk about the
+countries that have nuclear weapons, there is one country that's always somehow forgotten,
+and it's in the Middle East, and it's not a Muslim country. It's Israel.
+Israel, yes.
+Israel has its thoughts about 100 nuclear weapons. Some of them may be hydrogen bombs,
+according to some accounts. It's the foundational assumption of realist thinking in security
+studies that it's very dangerous to have a region where one side has nuclear weapons and the other
+doesn't. We should worry that the agreement with Iran may be provocative to Saudi Arabia and so on,
+but the deeper concern that we should have is that we have a region there
+where one country that feels extremely insecure about its right to exist has a monopoly in the
+region on weapons of mass destruction, and something has to be done about that situation.
+It can't just be left alone.
+The argument, as I understand it, from the Israeli side is that Israel needs to win every single war
+because they can't afford to lose even one. If they lose one, they're going to be banished
+from the face of the earth, as Iranians, for example, are calling it for.
+Yeah.
+So they're using that as a status and defense of measures. What do you think?
+First of all, just a sort of footnote on banishing Israel from the face of the earth.
+That's a quote from Ahmadinejad when he was leader of Iran, and friends who are experts
+in Iran do tell me that his comment there was mistranslated. But what he said was that over
+the sands of time would erase Israel. It wasn't that there was a threat that Iran would make it
+happen. He just predicted that it would go away. But that to one side, you know-
+Just a note. It was said by, in the very beginning of the revolution, I'm originally from Iran,
+by Ayatollah Khomeini, who was the leader of the revolution that Israel needs to,
+we need to wipe Israel off the map. And what Ahmadinejad says, even though he was not
+interpreted exactly as what he said it, but I don't think it has any kind of practicality
+to wipe down any country, but they're using that for their internal purposes and also getting
+together a lot of Muslims in the region who just don't like Israel.
+Yeah. Well, we can easily understand why Israel would feel deeply insecure. I mean, it's been
+attacked in 1967, 1973. There have been attempts by its neighbors to either wipe it off the map
+or steal lots of its territory. It's a very small, non-Arab country surrounded by very
+militarized Arab countries. So you can understand why it would feel insecure and why it would want
+to have a nuclear deterrent. At the same time, it has a history of acting quite aggressively
+towards its neighbors. And so its nuclear stockpile and its other foreign policy actions
+will make its neighbors feel insecure as well. This is the way militarism works. People feel
+insecure about another country that has a weapons capability because it feels insecure about you,
+and it becomes this action-reaction cycle that can, if it's not controlled, lead to disaster.
+And so as long as Israel has nuclear weapons, one can imagine why some of Israel's
+neighbors might want to acquire them too. From the point of view of an anthropologist,
+can we get rid of war altogether? In other words, can humans at their current state of evolution
+operate without war? Great question. So many people say that war is just part of human nature.
+The anthropological records suggest otherwise. Aggression and violence is certainly part of
+the human experience everywhere. Anthropologists have found no society where people don't, from
+time to time, kill each other and attack each other and get into conflicts. But that's different
+from war. Warfare is a social institution. It's quite different from beating up your spouse or
+getting into a fistfight with someone in a bar. That's not war. That's aggression and violence.
+Anthropologists have found a number of societies that have no experience of organized warfare,
+that have no experience of organized warfare, not even a word for warfare. Unfortunately,
+these societies were egalitarian hunter-gatherer types of societies that have largely been wiped
+out by colonialism, industrialization, and modernization. But it does suggest that it's
+within the capability of the human species, it is part of our potential repertoire
+to live without warfare as an organized institution. Very interesting. Back to nuclear
+weapons, they have been perhaps the most serious of a threat to the planet and the civilization's
+safety and security. How have they evolved in their approach towards nuclear weapons since the
+end of Cold War? And how do you see this evolution continue? So the way the United States and the
+Soviet Union conducted the nuclear arms race during the Cold War is that they were constantly
+competing with one another, both quantitatively and qualitatively. They were trying to build up
+larger stockpiles than each other, and they were trying to design new kinds of weapons with new
+kinds of capabilities. That might have meant... It didn't necessarily mean that they were more
+destructive, that the warheads were more destructive. It might have meant that the
+destructiveness was customized in some way, that you would minimize the blast effect but
+optimize the radiation output, as in the neutron bomb or something like that.
+Many of the qualitative improvements of weapons in the Cold War had to do with accuracy or with
+putting lots and lots of warheads on a single missile. So in the 70s, both sides figured out
+how to move their missiles. That's to put multiple warheads on the missiles. So you could launch one
+missile, but you could destroy 10 cities with it half an hour later when it reentered the atmosphere
+or trying to make them so accurate that they could land within 100 feet of their target.
+They built enormous stockpiles, 70,000 nuclear weapons at its height in the Cold War, an
+astonishing number of these weapons. Interestingly, the pursuit of security through qualitative and
+quantitative improvements actually produced insecurity. So the more accurate the weapons
+became, the more each side worried that the other side might be able to preemptively destroy its
+weapons before it could use them. In particular, the moving of the weapons, putting multiple
+warheads on them, increased the risk that one country could destroy 10 of the other countries'
+missiles with just one missile of its own, because each missile could send 10 warheads
+at different targets. So by the end of the Cold War, both sides were much less secure and safe
+than they had been at the beginning of the arms race. There were more of the weapons,
+they were more accurate, and the configuration had become much less stable from an deterrence
+point of view. What has happened since then is that there's been an enormous diminution in the
+number of the weapons. So the US now only has 7,000 weapons, and many of them are sort of in the
+closet. They're not on active deployment. They're on sort of reserve standby status.
+So the numbers have come down. There's still enough that you could effectively end most of
+human life on the planet, which is not good, but the numbers have come down. No one has tested a
+nuclear weapon since India and Pakistan. Well, I guess the North Koreans have tested nuclear
+weapons, but the superpowers haven't tested nuclear weapons since the early 1990s. The US
+hasn't done a nuclear test since September 1992. So both countries are pretty much stuck with the
+stockpiles that they used to have. In the absence of nuclear testing, you can sort of maintain the
+old weapons and make sure they work, but you can't design new ones with fundamentally new capabilities.
+And that itself is a stabilizing factor. Now, the problem is that this technology is now pretty old
+technology. I mean, it was developed in the 1940s originally. A group of physics undergraduates at
+one of our leading universities, if they had access to the nuclear material, could easily
+make a nuclear weapon that would work very well. And that means that the danger of proliferation,
+including to terrorist groups, to subnational actors, is greatly increased. So what we're seeing
+in terms of the nuclear policy debate, which I find very interesting, is there are a number of
+people who used to be hawks, who used to believe in the arms race, who have now become nuclear
+abolitionists. I'm thinking of people like William Perry, who was Secretary of Defense under Bill
+Clinton, Henry Kissinger, and William Schultz, who was Secretary of State for Ronald Reagan.
+They now advocate the abolition of nuclear weapons. And I think the reason that they advocate this
+is that they're terrified that terrorists and subnational actors will get their hands on this
+technology if it stays around. We mentioned being terrified of terrorists. I want to ask you about
+Donald Trump, if you don't mind. Sure. You being in Washington, you're in the center of this crazy
+show, I would say, that is going on in the US politics now. How do you feel about the very
+possibility of Donald Trump presidency, and as famously said by many people, his fingers being
+on the nuclear coats? Well, I can't say it makes me terribly happy. I noticed my daughter, who's in
+third grade, came home one day and said, so what country are we moving to if Donald Trump wins?
+Apparently, it's penetrated the consciousness of third graders in Washington.
+The guy is unpredictable. With nuclear weapons, unpredictability is not a good thing.
+What the superpowers learned over time is that you want cool-headed people who think carefully
+before they act. They don't do things rashly. They talk a lot to their enemies. If they make threats,
+the threats are very carefully coded. They leave themselves space so they can back down if the
+threats aren't met. That doesn't sound much like Donald Trump to me. What is the future of war?
+What is the future of war? Well, I would hope it doesn't have much of a future, but at the moment,
+it looks like it has a very good future. The future of war will look very different in
+advanced industrial countries like the United States and in parts of Africa and Asia and so on.
+What we see in the Middle East and in Africa right now is that there's increasing hybridization
+between warfare and gang violence and the black economy and drug trafficking and so on.
+It creates an utterly miserable situation for ordinary people. It produces these mass
+flows of migrants that we're seeing out of the Middle East, particularly Syria right now.
+People in the United States are terrified of terrorist attack and so on, but they get off
+pretty lightly. Warfare is largely something that happens in other people's territory.
+There's a strong faith in the United States that technology will keep us safe. The technologies
+that the United States are talking about for the next generation have to do with an
+intensification of surveillance and something I find somewhat troubling, a strong move to
+artificial intelligence. These would be autonomous weapons. It's not just that the drone would not
+have a pilot in it, but it wouldn't even be operated by someone from Nevada. You would
+program it how to tell terrorists from civilians, and it would make its own decisions to attack.
+And who's responsible when it makes a mistake and destroys a village? I don't know.
+Speaking of artificial intelligence and the whole technological advancement that we're
+experiencing, how are we evolving as species in the 21st century?
+Well, genetically, we're not evolving very much at all, though I guess there are technologies
+that hold out the prospect that we could take charge of our genetic evolution.
+But as a species, we're evolving in a direction where there's this increasing chasm between
+societies, between the have and the have-not societies, and within societies, between the
+haves and the have-nots. What academics call neoliberalism, which is this brutal intensification
+of capitalism that we've seen in the last 20 or 30 years, is sort of rolling back the clock on
+gains that were made against inequality following World War II. All of the metrics show that the
+United States is becoming a more and more unequal society, so we seem to be evolving in a direction
+of more and more inequality, which can only create social problems. It is likely to create
+more violence within society. At the same time, societies are becoming more and more multicultural.
+So I think one of the interesting questions that the Trump campaign raises, if you could
+put Trump side-by-side with Bernie Sanders, you see that there are two narrative responses to
+neoliberalism there. Bernie Sanders is saying it's about inequality between classes and trying to
+encourage people to think about inequality in economic terms. Trump is encouraging people
+in a multicultural context to think through inequality in terms of inequality and inequality.
+Through inequality in terms of what ethnic others they want to scapegoat. So I think a major
+political question for the United States in the next 10 years is how we will react to the objective
+increase in inequality. Will we do it through increasing racial tension and ethnic scapegoating?
+Or will we see the return of sort of mass class-based movements like those of the 1930s
+that might span different ethnic groups? How can we get ready for such a future?
+By talking about it, thinking about it, talking to our friends and our neighbors about it.
+Professors have to talk about it in their classes. Novelists have to write about it.
+Hollywood movie makers have to make movies about it. Politicians have to turn their backs on the
+special interest donations and talk honestly about it. Just out of curiosity, what percentage of
+the nuclear scientists that you were studying were women? It will sound like a low percentage
+because it was something like 6 or 7%. The objective numbers I have are from the 80s,
+so I should caution your listeners that those numbers have surely changed since then.
+But in the 80s, it was 6 or 7%. That may sound pretty terrible, but actually,
+if you looked at the percentage of American PhDs in physics that went to women,
+women were overrepresented in the weapons labs. I know a number of women nuclear weapons designers.
+They like to joke that women are better at nuclear weapons design than men
+because they think holistically. A kind of technical problem that requires
+holistic thinking where you understand how one parameter changes in sync with other parameters
+and so on. At Los Alamos, there is a nuclear weapons design and crocheting group.
+Interesting. The book is called Drone Remote Control Warfare. We've been speaking with
+Hugh Gusterson for the past 40 minutes. I'm going to ask you the last question. I'm asking
+all my guests that if you come across an intelligent alien from a different civilization,
+what would you say is the worst thing humanity has done and what would you say is humanity's
+greatest achievement? I should have listened to the end of your other shows so I know what
+other people said. The worst thing has to be some of the terrible atrocities of the 20th century,
+Auschwitz, Hiroshima, the mass killing that we've engaged in, Rwanda.
+The best thing, some of our wonderful music, some of our wonderful plays, Shakespeare movies.
+I don't know if an alien would really understand that. We don't know if aliens would appreciate art.
