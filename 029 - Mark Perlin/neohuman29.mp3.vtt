@@ -1,0 +1,1214 @@
+WEBVTT
+
+00:00.000 --> 00:03.840
+it's one thing to use genetics to try to cure disease,
+
+00:03.840 --> 00:07.560
+it's another thing to change the genetics of our species.
+
+00:07.560 --> 00:11.280
+How do you feel about that, changing the genetics of our species?
+
+00:11.280 --> 00:16.280
+Well, I'll tell you, it makes no biological sense.
+
+00:23.800 --> 00:28.280
+Hello and welcome to the 29th episode of Neohuman Podcast.
+
+00:28.280 --> 00:32.160
+I'm Agabahari Adygologist on Instagram and Twitter,
+
+00:32.160 --> 00:37.960
+and you can follow the show on liveinlimbo.com, iTunes, and YouTube.
+
+00:37.960 --> 00:42.760
+With me today again is Mandy Gray, and with us today we have Dr. Mark Perley,
+
+00:42.760 --> 00:45.320
+and thank you so much for your time, Mark.
+
+00:45.320 --> 00:47.040
+You're welcome, glad to be here.
+
+00:47.040 --> 00:50.760
+Why don't we start by hearing some of your background,
+
+00:50.760 --> 00:56.840
+some of the work that you've worked on and what you're working on now these days?
+
+00:56.840 --> 00:59.600
+My background is in science and medicine.
+
+00:59.600 --> 01:06.920
+I have two PhDs, one in computer science and one in mathematics and a medical degree,
+
+01:06.920 --> 01:13.920
+and the work that I've done over the years has been in computer science and genetics
+
+01:13.920 --> 01:18.200
+at Carnegie Mellon University, and for the last 20 years,
+
+01:18.200 --> 01:22.800
+I've been working at my small company here in Pittsburgh,
+
+01:22.800 --> 01:28.520
+we have about 10 people, on getting more information out of DNA data
+
+01:28.520 --> 01:31.840
+using computers and statistics.
+
+01:31.840 --> 01:38.680
+So when you say DNA data, what are the major uses or what is it used for?
+
+01:38.680 --> 01:44.680
+Originally, when we started in the 1990s, it was for genetic diagnosis,
+
+01:44.680 --> 01:49.800
+gene mapping, and genome projects, but over the last 15 years,
+
+01:49.800 --> 01:54.040
+it's mainly been for forensic identification.
+
+01:54.040 --> 01:59.720
+Mark, how have you seen the change in the field with the advancement
+
+01:59.720 --> 02:04.400
+of the technology in the past decade, especially in your field?
+
+02:04.400 --> 02:07.920
+Well, in forensic identification, it's interesting,
+
+02:07.920 --> 02:15.440
+the sort of dichotomous split, you have advances in the ability to generate
+
+02:15.440 --> 02:22.080
+high-quality data in high volumes in crime labs from low-level DNA
+
+02:22.080 --> 02:28.760
+and from mixtures, most DNA evidence is a mixture of two or more people,
+
+02:28.760 --> 02:34.680
+and so the data is phenomenal, but there's also been a parallel development,
+
+02:34.680 --> 02:43.280
+which we started on over 15 years ago, of using statistical modeling and computers
+
+02:43.280 --> 02:53.120
+in order to separate out this data into the genetic types of the individuals
+
+02:53.120 --> 02:58.400
+who left their DNA and determine reliable match statistics.
+
+02:58.400 --> 03:03.720
+So that's a separate strand, and while laboratories have been very keen
+
+03:03.720 --> 03:13.040
+to adopt improvements in laboratory equipment that help them generate more data,
+
+03:13.040 --> 03:22.120
+the adoption of technology that will resolve these DNA signals
+
+03:22.120 --> 03:26.320
+without human intervention has been a bit slower.
+
+03:26.320 --> 03:29.360
+When you're saying that the sample of DNA is a mixture between two people,
+
+03:29.360 --> 03:31.520
+what exactly do you mean by that?
+
+03:31.520 --> 03:34.440
+Well, here's several examples.
+
+03:34.440 --> 03:42.040
+In a sexual assault, there's two people involved or more, a victim and an assailant.
+
+03:42.040 --> 03:46.640
+On a handgun, there'll typically be four or five people
+
+03:46.640 --> 03:49.640
+who've touched different surfaces on the gun.
+
+03:49.640 --> 03:55.480
+So if you take a swab from the handgun, you'll end up with a signal
+
+03:55.480 --> 04:00.600
+that doesn't just have the DNA of one contributor, say the owner of the gun,
+
+04:00.600 --> 04:06.960
+but will have DNA from the four, five, or six different people
+
+04:06.960 --> 04:08.800
+who've all handled that gun.
+
+04:08.800 --> 04:16.280
+And so the type of data that you're getting isn't the very easy DNA from one person
+
+04:16.280 --> 04:20.760
+that somebody might watch on television or hear about in high school.
+
+04:20.760 --> 04:28.920
+It's a more complex signal that adds together the DNA components from multiple people.
+
+04:28.920 --> 04:36.360
+I see. The common belief is that a lot of wrongfully convicted people,
+
+04:36.360 --> 04:40.520
+that could have been avoided if we had a more conclusive kind of an evidence.
+
+04:40.520 --> 04:46.480
+And DNA evidence have been always pointed out as more of a conclusive and definitive kind of an evidence.
+
+04:46.480 --> 04:51.240
+How accurate that statement would be in your opinion?
+
+04:51.240 --> 04:57.840
+Well, the idea is how informative is the information that you're getting.
+
+04:57.840 --> 05:04.800
+The methods that crime labs traditionally have used over the last 15 years for DNA mixtures
+
+05:04.800 --> 05:09.720
+tend to be limited in that only some of the data is used.
+
+05:09.720 --> 05:16.560
+And the conclusions tend to be inclusionary statistically, not exclusionary.
+
+05:16.560 --> 05:24.320
+Newer computer methods can provide an exclusionary score showing the extent to which somebody
+
+05:24.320 --> 05:33.600
+hasn't contributed their DNA as well as the degree to which someone else may have contributed their DNA.
+
+05:33.600 --> 05:43.840
+So these newer methods that are computer based and statistical are a boon for being able to exonerate people
+
+05:43.840 --> 05:51.200
+and provide exculpatory evidence that somebody's DNA was not present on an item at a crime scene.
+
+05:51.200 --> 05:58.120
+Right. So over the last couple of weeks, we've talked a little bit about the reluctance of the courts to embrace technology.
+
+05:58.120 --> 06:04.120
+Has that been your experience or where have the courts landed on the introduction of this evidence
+
+06:04.120 --> 06:11.200
+or even just like at the investigative level amongst police officers, for example?
+
+06:11.200 --> 06:22.120
+We've seen fairly good acceptance of cyber genetics started out over 15 years ago, doing a lot of validations.
+
+06:22.120 --> 06:32.680
+We had a grant from the Department of Justice 15 years ago to validate this mixture separation technology for DNA that we were developing.
+
+06:32.680 --> 06:40.000
+And to date, there have been 34 validation studies, seven of them published in peer review journals,
+
+06:40.000 --> 06:54.400
+that show the effectiveness of our true allele system in producing reliable match statistics, whether inclusionary or exclusionary.
+
+06:54.400 --> 07:02.440
+So when we go to court, if there is some sort of a challenge from an opposition,
+
+07:02.440 --> 07:10.760
+then the questions that the court really focus on is what's the scientific reliability?
+
+07:10.760 --> 07:19.800
+I don't know if you've talked in your show about issues of courtroom acceptability, such as Daubert or Frye.
+
+07:19.800 --> 07:29.920
+But there are certain criteria, certainly in the United States, and they involve typically the general acceptance of a method.
+
+07:29.920 --> 07:41.680
+But particularly since 1993 in the Daubert decision, the federal government and most of the states embrace a more scientific criteria for judges to consider.
+
+07:41.680 --> 07:51.080
+And the main three criteria are is a method inherently testable or is it not testable at all?
+
+07:51.080 --> 07:58.000
+Does it have an error rate? Can you produce an error rate to show how often it succeeds or fails?
+
+07:58.000 --> 08:07.080
+And has the method been accepted by peer review and demonstrated to actually work?
+
+08:07.080 --> 08:15.280
+So given the emphasis that we have put and other groups as well on validating scientific methods,
+
+08:15.280 --> 08:20.960
+that's helped with courts accepting it as of today.
+
+08:20.960 --> 08:34.000
+There have been 10 challenges out of the 400 cases we've done, and the courts have accepted Trualiel as reliable scientific evidence in all of those cases.
+
+08:34.000 --> 08:41.720
+Right. So you've been called then, I guess, as an expert witness to testify to the validity of it then? Is that how it works?
+
+08:41.720 --> 09:00.040
+So in a criminal trial, say in about maybe 5% of cases, an opposition, no matter which side happens to be presenting your evidence, can ask for a hearing.
+
+09:00.040 --> 09:07.720
+I think it may be called a voir dire hearing in Canada. That's what it's called in the United Kingdom and in Australia.
+
+09:07.720 --> 09:18.360
+And actually, Trualiel has had those voir dires in Northern Ireland and Australia, which went well.
+
+09:18.360 --> 09:24.840
+And at those hearings, it's up to the judge, serving as a gatekeeper, to decide on reliability.
+
+09:24.840 --> 09:34.640
+In most cases, there is no challenge because the science is seen to be acceptable and a judge will either not allow a challenge
+
+09:34.640 --> 09:43.360
+or the opposing side doesn't ask for one because it doesn't get you very far.
+
+09:43.360 --> 09:49.440
+I mean, in theory, you could ask for a scientific challenge every time you go to court.
+
+09:49.440 --> 09:52.240
+You could ask, does the sun shine during the day?
+
+09:52.240 --> 09:58.880
+That could be an objection. And if the judge grants it, you could have a hearing on meteorology.
+
+09:58.880 --> 10:09.520
+So you can always challenge evidence. But I think the result of Trualiel having been in the courts for since 2009,
+
+10:09.520 --> 10:18.720
+I've testified in almost 50 cases and there are six crime labs in the United States that are using Trualiel regularly.
+
+10:18.720 --> 10:25.600
+It sort of has a general acceptance as a valid method and is particularly based on validation studies.
+
+10:25.600 --> 10:33.520
+Right. So is it being introduced then by the state prosecutor and then opposed by the defense counsel?
+
+10:33.520 --> 10:35.680
+Is that usually how it goes down?
+
+10:35.680 --> 10:45.600
+That's usually how it goes. Though this year, we had some interesting cases where we were assisting the defense.
+
+10:45.600 --> 10:57.280
+There was one case in upstate New York, which is sort of near you, where we used Trualiel to analyze about 150 items of evidence
+
+10:57.280 --> 11:04.720
+in the people of New York versus Nick Hillary case.
+
+11:04.720 --> 11:14.000
+And what we helped the defense show was that the evidence that was introduced by the prosecution
+
+11:14.000 --> 11:19.280
+was subjective and the answer could have gone either way, depending on the data that was used.
+
+11:19.280 --> 11:30.880
+If you used some data, the prosecutor's software could reach one conclusion.
+
+11:30.880 --> 11:35.280
+If you use more data, you could reach another conclusion.
+
+11:35.280 --> 11:40.160
+And when we ran the same data through Trualiel on all the evidence,
+
+11:40.160 --> 11:45.760
+we saw there was no statistical support for the defendant, Nick Hillary, being in the data.
+
+11:45.760 --> 11:51.680
+We also had two exonerations in Indiana this year.
+
+11:51.680 --> 11:58.080
+The second one is just happening this week. The first one was in April.
+
+11:58.080 --> 12:08.000
+And there there was a case of an individual, Darrell Pinkins, and two of his colleagues who were
+
+12:08.000 --> 12:12.000
+it falsely convicted of a crime they couldn't possibly have committed.
+
+12:12.000 --> 12:15.040
+It was a very vicious gang rape.
+
+12:15.040 --> 12:24.960
+There was a group of criminals going around in northern Indiana bumping into cars on the motorway.
+
+12:24.960 --> 12:30.000
+And when the passenger got out of the car, they would rob them.
+
+12:30.000 --> 12:33.520
+And then the robins turned to beatings. Then they turned to rapes.
+
+12:33.520 --> 12:38.080
+Then they turned to robbing, rapes, beatings, everything.
+
+12:38.080 --> 12:43.760
+And what had happened with Mr. Pinkins and some of his co-workers is that the coveralls,
+
+12:43.760 --> 12:48.080
+the uniforms that they had at work, were stolen from their car.
+
+12:48.640 --> 12:54.960
+These coveralls were found back in the late 1980s at this crime scene.
+
+12:54.960 --> 13:00.800
+And two of them were convicted of participating in the gang rape.
+
+13:00.800 --> 13:07.040
+The DNA evidence that would later exonerate them actually existed in 2001.
+
+13:07.040 --> 13:13.520
+But the interpretation methods that were used then and are still prevalent now
+
+13:13.520 --> 13:19.120
+weren't able to get at the smaller components of the mixture.
+
+13:19.120 --> 13:23.360
+They couldn't identify the five or ten percent components.
+
+13:23.360 --> 13:28.560
+And after we analyzed the same data from 15 years ago,
+
+13:28.560 --> 13:33.280
+because that's what our computer does. We don't work with DNA wet samples.
+
+13:33.280 --> 13:36.240
+We just work with the data that comes out of the lab.
+
+13:36.240 --> 13:41.200
+We were able to establish that there were five individuals present at this crime scene.
+
+13:41.200 --> 13:44.560
+Three of them were brothers and none of them were the defendants.
+
+13:44.560 --> 13:50.880
+And so in April, Darrell Pinkins walked out of jail after having
+
+13:51.600 --> 13:54.320
+been wrongfully imprisoned for 24 years.
+
+13:54.320 --> 13:59.920
+So same evidence, just the interpretation of it was improved because of the technology advancement, correct?
+
+14:00.560 --> 14:01.280
+Exactly.
+
+14:03.280 --> 14:09.360
+Do you see that all these successful cases is paving the road towards the future where
+
+14:09.360 --> 14:14.720
+we're using biology and genetics as primary forms of identification for individuals?
+
+14:14.720 --> 14:17.760
+For example, when you go into airport, they're not going to use passports anymore.
+
+14:17.760 --> 14:21.040
+They're going to use eye scan or a DNA sample or anything like that.
+
+14:21.040 --> 14:24.960
+Well, for DNA, you'd have to have pretty rapid scanning, right?
+
+14:24.960 --> 14:27.600
+And there is a technology is also progressing, right?
+
+14:28.640 --> 14:32.960
+So we may get to a point where we might be able to do it on the spot.
+
+14:34.160 --> 14:42.800
+Yes. And people, manufacturers do develop equipment for rapid DNA scans and it's getting faster.
+
+14:42.800 --> 14:48.960
+It's still not at the point where it would be as fast as a retinal scan or a fingerprint.
+
+14:48.960 --> 14:57.440
+But do you think there's a possibility that move towards the place in the future where
+
+14:57.440 --> 15:00.480
+we don't need to use ID or passport or anything like that?
+
+15:00.480 --> 15:05.120
+Our biology, our face facial recognition, our DNA would be our identification factors.
+
+15:05.760 --> 15:08.000
+It's already working that way on my new iPhone.
+
+15:09.440 --> 15:14.720
+It recognizes my thumb and it activates my credit card.
+
+15:14.720 --> 15:18.480
+I guess if somebody stole that and could replicate my fingerprint,
+
+15:18.480 --> 15:20.000
+they could buy a new car with it.
+
+15:20.000 --> 15:26.560
+But we have some faith that this sort of biometric works even in our everyday life.
+
+15:27.360 --> 15:30.800
+So what is happening to the future of data gathering and security?
+
+15:32.240 --> 15:36.800
+Because this is getting within inside people's body, right?
+
+15:36.800 --> 15:40.560
+People are concerned now that their phone calls are being monitored
+
+15:40.560 --> 15:43.440
+or companies can track what they're searching on internet.
+
+15:43.440 --> 15:50.640
+How would they feel when, you know, it's their biology, it's their genetics?
+
+15:51.920 --> 15:52.560
+I don't know.
+
+15:53.120 --> 15:55.040
+It's nothing that we're involved in.
+
+15:56.320 --> 16:01.840
+But as you say, there's facial recognition software, there's all sorts of new biometrics.
+
+16:02.480 --> 16:07.680
+With DNA, if someone had the resources, you see this at crime scenes.
+
+16:08.320 --> 16:12.480
+Suppose a perpetrator leaves someone's house
+
+16:12.480 --> 16:14.720
+and then you have video recordings.
+
+16:15.440 --> 16:19.680
+This is from a case I was involved in in Pittsburgh earlier this year.
+
+16:19.680 --> 16:23.440
+This video recordings of the person walking down the street,
+
+16:24.480 --> 16:27.920
+possibly having left this crime scene and shedding clothing,
+
+16:28.640 --> 16:37.440
+going to an ATM to get money out and getting into a car.
+
+16:37.440 --> 16:43.920
+So there's a history that's left not just in these videos and transactions,
+
+16:43.920 --> 16:51.120
+but in the biological materials that from what the person touched,
+
+16:51.120 --> 16:56.960
+from the clothing that they wore, from whatever was left as they left the crime scene.
+
+16:57.520 --> 17:00.640
+So when you're working on a crime,
+
+17:00.640 --> 17:03.600
+obviously you'd want to have all that information
+
+17:03.600 --> 17:06.320
+and put it together and figure out who the person was.
+
+17:06.320 --> 17:09.040
+But I think what you're discussing is the potential
+
+17:09.040 --> 17:12.720
+of imagine that we're five or 10 years in the future.
+
+17:12.720 --> 17:15.200
+Speed has increased, costs have gone down.
+
+17:16.560 --> 17:21.360
+Is there the potential to check a lot more material
+
+17:22.000 --> 17:25.440
+without even having some probable cause to do so?
+
+17:26.320 --> 17:30.080
+I would hope that our constitutions and our laws would protect us from that.
+
+17:30.640 --> 17:33.440
+But technologically, it would be feasible.
+
+17:33.440 --> 17:38.240
+Right. And do you think that that's kind of a no-brainer for general public
+
+17:38.240 --> 17:42.800
+to start to educate themselves more about the advancement of technology?
+
+17:42.800 --> 17:46.240
+Because most of the people that I'm speaking to,
+
+17:46.240 --> 17:51.760
+a lot of these advancement and progress, it's just surprising to them.
+
+17:51.760 --> 17:53.600
+They can't believe how far we've come
+
+17:53.600 --> 17:57.680
+and they can't believe all the possibilities that are available ahead of us.
+
+17:57.680 --> 18:03.120
+And I think it freaks a lot of people out every possibility that exists already
+
+18:03.120 --> 18:06.720
+and will continue to exist to interfere in their personal life.
+
+18:07.360 --> 18:10.160
+A lot of it for the main purpose of security,
+
+18:10.160 --> 18:14.000
+but a lot of people will raise the question of what is happening to privacy?
+
+18:15.280 --> 18:18.080
+Well, I think we're all concerned about privacy.
+
+18:19.440 --> 18:23.360
+I think when people hear about what technology does for good,
+
+18:23.360 --> 18:28.080
+for example, advances in DNA technology that can diagnose disease,
+
+18:28.080 --> 18:31.680
+or maybe now with newer CRISPR technology,
+
+18:31.680 --> 18:37.600
+the name of the technology is CRISPR technology, possibly cure diseases.
+
+18:38.960 --> 18:44.800
+So with the case of forensics, the ability to solve crimes
+
+18:44.800 --> 18:50.160
+that could not have been solved before to achieve justice and resolution for victims.
+
+18:52.080 --> 18:55.040
+On the positive side, I think people can envision all that.
+
+18:55.760 --> 19:01.600
+But the darker side is what happens when these technologies may be used
+
+19:01.600 --> 19:04.080
+in ways that people haven't thought of.
+
+19:04.880 --> 19:07.360
+For example, with the CRISPR technology,
+
+19:07.360 --> 19:11.200
+it's one thing to use genetics to try to cure disease,
+
+19:11.200 --> 19:14.080
+it's another thing to change the genetics of our species.
+
+19:14.880 --> 19:17.760
+How do you feel about that, changing the genetics of our species?
+
+19:21.440 --> 19:23.760
+Well, I'll tell you, it makes no biological sense.
+
+19:24.400 --> 19:25.360
+Here's what would happen.
+
+19:26.800 --> 19:28.320
+You've seen Gattaca?
+
+19:28.320 --> 19:28.640
+Yes.
+
+19:28.640 --> 19:36.080
+OK, so in a world like Gattaca, what would happen is that you'd get a narrowing of diversity.
+
+19:37.200 --> 19:41.920
+You would have parents or governments or somebody making decisions
+
+19:42.800 --> 19:50.000
+to weed out what might be considered bad, in quotes, bad genes and reinforce good genes,
+
+19:50.000 --> 19:53.520
+move towards almost a clone-like population.
+
+19:53.520 --> 19:56.640
+And that might be seen as good.
+
+19:56.640 --> 20:00.720
+But biology and nature doesn't really view that as good.
+
+20:00.720 --> 20:06.720
+And when you end up with a few catastrophes, like influenza viruses or other attacks,
+
+20:07.920 --> 20:10.560
+that lack of diversity would wipe out our species.
+
+20:11.280 --> 20:14.640
+So what seems like a really good idea in the short term,
+
+20:15.600 --> 20:19.120
+in the long term, really wouldn't work for a species,
+
+20:19.120 --> 20:22.960
+because if we all become too uniform, we lose the diversity
+
+20:22.960 --> 20:26.960
+that enables the survival of a species.
+
+20:26.960 --> 20:32.480
+What if that decision is made, let's say, by an artificial intelligence based on enormous amount
+
+20:32.480 --> 20:35.520
+of data that is impossible for humans to process?
+
+20:35.520 --> 20:40.960
+It has to be processed by machine using machine learning or whatever techniques that is going to
+
+20:40.960 --> 20:46.480
+arise, and they just, you know, artificial intelligence more and more getting involved
+
+20:46.480 --> 20:51.440
+directly in our lives, and they just decide that this would be the better path for humanity.
+
+20:51.440 --> 20:55.120
+And we're so dependent on them at some point that we just have to deal with it.
+
+20:55.760 --> 21:01.120
+Well, as I said, when technology is used for good, that can be fine.
+
+21:01.120 --> 21:09.280
+For example, our Trulio technology is a type of machine learning that mines information out of data.
+
+21:09.760 --> 21:16.080
+And when it's used for good, for resolving crime, that's wonderful.
+
+21:16.080 --> 21:23.680
+But if you were to rely on computers to decide to make a boneheaded decision for our species,
+
+21:23.680 --> 21:28.160
+maybe that would mean the computers are a bit smarter than we'd want them to be,
+
+21:28.160 --> 21:29.840
+and they're plotting our extinction.
+
+21:31.280 --> 21:39.920
+Certainly, winnowing diversity out of our population through genetics is a very bad idea.
+
+21:39.920 --> 21:42.160
+We don't know what genes really do.
+
+21:42.160 --> 21:52.160
+We don't know what the evolutionary adaptations can be for any feature that humans have.
+
+21:52.160 --> 21:57.760
+But what we do know is that evolution relies on that diversity, that genetic diversity,
+
+21:57.760 --> 22:02.160
+in order to maintain survival of a species.
+
+22:02.160 --> 22:05.680
+Would it be fair to say that you have concerns about the rise of artificial intelligence,
+
+22:05.680 --> 22:08.880
+like Bill Gates or Elon Musk and Stephen Hawking's?
+
+22:08.880 --> 22:13.520
+No, I don't think I have a concern about artificial intelligence.
+
+22:13.520 --> 22:17.200
+I would have a concern about misuse of artificial intelligence.
+
+22:17.200 --> 22:20.800
+The same way I don't have concerns about cars,
+
+22:20.800 --> 22:23.760
+but I do have concerns about people running people over with cars.
+
+22:24.640 --> 22:31.040
+It's a tool, and unfortunately, as we see in society, some people abuse tools.
+
+22:31.040 --> 22:38.000
+So I guess my question is this, where do you see DNA research going in terms of forensics,
+
+22:38.000 --> 22:39.840
+and what's next?
+
+22:39.840 --> 22:46.080
+Are you looking to expand, or are you looking to look into other areas of research
+
+22:46.080 --> 22:50.880
+to exonerate more people, or how do you hear about these cases?
+
+22:53.680 --> 22:59.600
+People tend to contact us, and we're not the only ones who contact us.
+
+22:59.600 --> 23:06.640
+People tend to contact us, whether they're police, prosecutors, defenders, or innocence projects,
+
+23:08.320 --> 23:14.240
+when the methods that their labs are using don't go far enough.
+
+23:15.360 --> 23:18.080
+The labs tend to be pretty conservative.
+
+23:19.600 --> 23:25.440
+They tend to like methods that confirm what they can see by eye.
+
+23:25.440 --> 23:28.160
+This isn't all labs, but it's many crime labs.
+
+23:28.160 --> 23:35.120
+Whereas, the information that's contained in data is often beyond what you can see by eye.
+
+23:35.120 --> 23:42.880
+I mean, there are so many examples in medicine to see what we can see in a magnetic resonance image,
+
+23:43.440 --> 23:46.080
+which I did research on that about 30 years ago.
+
+23:47.840 --> 23:57.600
+We rely on MRI scans, and we have magnets and radio waves that can take cross-sectional
+
+23:57.600 --> 24:03.200
+of our brains and bodies, and use them in very subtle ways for diagnosis.
+
+24:03.840 --> 24:13.840
+If you didn't accept that we could make very good use of data and reconstruct it by machines or
+
+24:13.840 --> 24:20.560
+computer intelligence, then you wouldn't have the benefits of probably most medical technology nowadays.
+
+24:20.560 --> 24:32.080
+So, we tend to get involved when someone in law enforcement or law needs more information from data.
+
+24:32.080 --> 24:35.760
+The nice thing about Tru-Allele is that it's completely objective.
+
+24:35.760 --> 24:41.520
+There's been a lot of research and talk about subjectivity and potential bias
+
+24:41.520 --> 24:45.520
+when you have complex DNA samples, particularly mixtures.
+
+24:45.520 --> 24:51.440
+Those are real concerns that can be confirmation bias or other sorts of bias that human analysts
+
+24:51.440 --> 24:56.960
+have. The most common bias is to say nothing and just give no answer at all.
+
+24:56.960 --> 25:03.440
+But with Tru-Allele, nobody chooses the data for it.
+
+25:03.440 --> 25:07.440
+All the data goes into the machine, and the machine doesn't see the answer.
+
+25:08.000 --> 25:12.640
+It doesn't know who you're going to be comparing it with, what their genetic types are like,
+
+25:12.640 --> 25:18.480
+the results can be compared against one person, ten, or a database of a million people.
+
+25:18.480 --> 25:22.240
+So, objective technology like that is pretty good.
+
+25:23.200 --> 25:30.560
+We tend to get called when crime labs have reached their limit of what they're willing to do or what
+
+25:30.560 --> 25:37.520
+they're able to do. And then usually through word of mouth or internet, somebody finds out about us
+
+25:37.520 --> 25:39.520
+and asks if we can help.
+
+25:39.520 --> 25:45.760
+So, I'm assuming it's only the most serious cases that you would be asked to come in on?
+
+25:47.520 --> 25:52.160
+We tend to only get involved in serious case. I mean, the most serious case we ever did in some
+
+25:52.160 --> 25:58.800
+sense was the World Trade Center disaster, when we were asked by the medical examiner's office in New
+
+25:58.800 --> 26:06.640
+York City over 10 years ago to re-examine all the DNA data from the over 18,000 victim remains.
+
+26:06.640 --> 26:15.040
+And the DNA that was collected from relatives and personal effects from the 2,700 missing people,
+
+26:15.040 --> 26:24.080
+analyzed everything in Trulio, and then make automatic comparisons to identify the victim remains.
+
+26:24.080 --> 26:27.680
+How long does that take to identify that many people?
+
+26:27.680 --> 26:32.400
+Well, it was a project. We scaled up, we built a supercomputer for it.
+
+26:32.400 --> 26:41.520
+It was the first of that type with our current Trulio architecture can work on 50 or 100 problems
+
+26:41.520 --> 26:48.800
+simultaneously. And we first built a machine for that when we started on that re-analysis task
+
+26:49.840 --> 26:55.840
+10 years ago. So, I'd say maybe it took, the whole effort probably took at least a year
+
+26:55.840 --> 27:01.760
+of entering the data, asking the computer the questions. For the computer to answer the
+
+27:01.760 --> 27:08.960
+questions, solve the DNA questions, make the comparisons, and get the numbers,
+
+27:08.960 --> 27:16.000
+that wasn't as much work as its computer. But just getting the data, it ended up being about
+
+27:16.000 --> 27:26.240
+100,000 samples of data that had to be entered into the system in a reliable way.
+
+27:26.240 --> 27:30.240
+And this is something that would have been impossible without the use of the machines, correct?
+
+27:30.240 --> 27:36.480
+Certainly, in the way that we did it. You can have a huge effort and do a lot of things manually,
+
+27:36.480 --> 27:41.200
+but you won't get as much information. You are correct that we tend to only work on
+
+27:41.200 --> 27:51.120
+more high-profile cases, or cases where it's important to get a resolution.
+
+27:51.120 --> 27:58.720
+We can think of any number of examples. You have a serial rapist who's terrorizing a town.
+
+27:58.720 --> 28:04.880
+There's a lot of DNA. The crime lab can't interpret it, but once it's gone through the
+
+28:04.880 --> 28:11.680
+truly ill process, and the evidence can be compared against evidence, it can be compared
+
+28:12.480 --> 28:21.920
+with databases. There are issues with databases due to government's reluctance to use newer
+
+28:21.920 --> 28:31.520
+technologies. We haven't seen that in Canada. By being able to have computers resolve the evidence
+
+28:31.520 --> 28:39.120
+and separate out the mixtures and make comparisons, determine what items are not matching people,
+
+28:39.120 --> 28:46.080
+or what items are not matching items, we can really map out a crime scene and get a sense
+
+28:46.080 --> 28:49.200
+of what's been happening and who are the different players.
+
+28:49.200 --> 28:54.400
+Mark, as someone who's dealing with genetics, basically the basis of humanity,
+
+28:54.400 --> 28:58.720
+do you see ethics and morality as objective or subjective?
+
+28:58.720 --> 29:05.840
+That's an interesting question. I think everybody has their own morality, and I know there are
+
+29:05.840 --> 29:11.360
+different systems of ethics. Once you would have more than one system of ethics, if people can
+
+29:11.360 --> 29:15.520
+adopt which ones they want to choose, you now have some subjectivity.
+
+29:15.520 --> 29:20.560
+We have this conversation in many episodes, and my main follow-up question would be,
+
+29:20.560 --> 29:23.600
+then how do you think it will translate into the media?
+
+29:23.600 --> 29:29.440
+One of the provincial methods that some people are talking about of controlling artificial
+
+29:29.440 --> 29:33.120
+intelligence is applying our own ethics and morality into the machine, so they know what
+
+29:33.120 --> 29:39.920
+killing is bad. If you're driving in a road and three people are there and one child is there,
+
+29:39.920 --> 29:44.240
+which direction should you go to? What are your thoughts about that?
+
+29:44.240 --> 29:46.880
+I think you'd be at the mercy of the programmers.
+
+29:46.880 --> 29:56.400
+In the sense that there are many possible answers. Sometimes what people would decide
+
+29:56.400 --> 30:03.360
+would be an ethically correct decision may depend on information that you're not giving
+
+30:03.360 --> 30:09.040
+a program, or it doesn't have access to.
+
+30:09.040 --> 30:18.800
+I mean, you have all these hypotheticals, right? Is it okay to ever take a human life?
+
+30:18.800 --> 30:24.320
+Well, then you get the, but what if you had a time machine and you could kill Hitler?
+
+30:24.320 --> 30:32.480
+We obviously are taking away many human lives on a daily basis using technology to do it easier and safer.
+
+30:32.480 --> 30:40.160
+Yes, and then there are ethical issues of should we be using technology to prevent that sort of wholesale killing?
+
+30:40.160 --> 30:46.080
+I mean, one of the ethical issues that we've seen in the Middle East with Syria is,
+
+30:46.080 --> 30:52.960
+which you read about all the time, is what should have been the ethical obligation on the part of
+
+30:52.960 --> 30:59.040
+various, you know, different ways in which we could have done that?
+
+30:59.040 --> 31:08.320
+The ethical obligation on the part of various large powers to somehow intervene in the wholesale slaughter there.
+
+31:08.320 --> 31:16.080
+That was a place where technology might have helped, and yet it was humans who made decisions not to help
+
+31:16.080 --> 31:23.520
+and not to deploy that technology. You could call it natural intelligence or natural stupidity,
+
+31:23.520 --> 31:29.920
+as opposed to artificial intelligence. But people make decisions all the time
+
+31:29.920 --> 31:34.240
+that can affect thousands or hundreds of thousands of lives.
+
+31:34.240 --> 31:38.560
+A lot of the job of interpretation is being done by machine, if I understand it correctly,
+
+31:38.560 --> 31:41.520
+and a lot of job of data gathering is being done by humans.
+
+31:41.520 --> 31:46.560
+Do you think that also data gathering needs more technology and more machines involved
+
+31:46.560 --> 31:52.640
+instead of humans to maybe minimize the mistakes and faults?
+
+31:52.640 --> 31:58.800
+We don't see too many mistakes in the data gathering with DNA evidence.
+
+31:58.800 --> 32:04.640
+One of the reasons it's really not much of a problem, particularly with true allele interpretation,
+
+32:04.640 --> 32:14.960
+is suppose that there's a possible fault that would be that the police officer or the analyst,
+
+32:14.960 --> 32:20.320
+DNA analyst, collecting the sample contaminates the DNA.
+
+32:20.320 --> 32:25.520
+So instead of there being the original two people, say the victim and the perpetrator,
+
+32:25.520 --> 32:30.720
+who'd left their DNA on an item, now you have a third person.
+
+32:30.720 --> 32:39.040
+Well, if the lab is using interpretation methods where they can't do anything about that contaminant,
+
+32:39.040 --> 32:44.720
+about the person who left their DNA by accident, who is collecting the sample,
+
+32:44.720 --> 32:49.920
+then that's a mistake. On the other hand, if you use technology like true allele,
+
+32:49.920 --> 32:54.400
+that says, okay, well, there's one more contributor in there, just to count for them
+
+32:54.400 --> 33:01.440
+and factor out that extra contribution so we can focus on what was actually happening at the crime,
+
+33:01.440 --> 33:08.960
+then what might have been a mistake using better technology that can separate out components from
+
+33:08.960 --> 33:19.200
+data is no longer a mistake. So we don't really see mistakes of that kind. We may see more complex data,
+
+33:19.200 --> 33:26.320
+but then we just aim the computer at it and it solves it as best it can.
+
+33:26.320 --> 33:34.480
+You guys just had an election down there. And one of the main issues, if not the main issue,
+
+33:34.480 --> 33:42.640
+was jobs. And one of the arguments against what Trump proposes is that a lot of those jobs are
+
+33:42.640 --> 33:46.960
+not going to come back because they will be automated. What are your thoughts about how
+
+33:46.960 --> 33:52.000
+technology is replacing jobs? I don't know if it's happening as much in your field as well,
+
+33:52.000 --> 33:57.600
+but in many other fields, it's a big threat to a lot of people. What are your thoughts on that
+
+33:57.600 --> 34:01.280
+automation and the future of job and how is it going to affect our society?
+
+34:02.320 --> 34:07.280
+Well, I've heard different people talking about this. There are some people who are looking
+
+34:07.280 --> 34:12.720
+forward to the day in the near future where artificial intelligence and machines have
+
+34:12.720 --> 34:19.600
+eliminated the need for work entirely. I certainly don't see that in my weekly existence. I can
+
+34:19.600 --> 34:25.360
+easily go up to 100 hours in a week if there's too much to do. So despite all the computers that we
+
+34:25.360 --> 34:33.680
+have, there seems to be more work. I think it's a combination of education and technology.
+
+34:34.400 --> 34:40.720
+From what I've seen in the history of science and in my own work, if you bring in more technology,
+
+34:40.720 --> 34:46.000
+if you have education that goes along with it, you're going to create more jobs. A great example
+
+34:46.000 --> 34:54.000
+of that is when we moved from horses to cars. At the time, blacksmiths were terribly opposed to the
+
+34:54.000 --> 35:02.320
+job loss that would result from removing horses as a form of transportation. On the other hand,
+
+35:02.320 --> 35:09.040
+once the cars came along, re-educating blacksmiths or educating other people to become
+
+35:09.040 --> 35:16.400
+designers, manufacturers, mechanics, just everything that's needed in that ecosystem
+
+35:16.400 --> 35:23.520
+created a tremendous amount of work. Make the same argument for accounting or any field where
+
+35:23.520 --> 35:31.280
+the computers have come in, not just machines. If you don't have retraining, if you don't have
+
+35:31.280 --> 35:38.880
+education, and ideally education in the broadest sense, which isn't limited skills, but the ability
+
+35:38.880 --> 35:48.000
+to learn and think, then you can have a problem. If you have a workforce that doesn't have the
+
+35:48.000 --> 35:54.240
+opportunity to learn and grow and move with the technology, there could be a lot of displacement.
+
+35:54.240 --> 36:00.640
+But if you do have rapid technological growth and you have governments that support and
+
+36:00.640 --> 36:07.520
+support the education that needs to happen along with that, and a workforce that's willing to
+
+36:07.520 --> 36:15.840
+relearn, I think historically you've seen an expansion in jobs as technology evolves.
+
+36:17.040 --> 36:23.680
+I also want to talk about the way that the United States is dealing with genetics in
+
+36:23.680 --> 36:31.600
+comparison to a country like China. China being apparently the biggest atheist country in the
+
+36:31.600 --> 36:37.600
+world, they have no problem experimenting with many different experimentations. The method CRISP,
+
+36:37.600 --> 36:44.400
+I think, the first experiments were done in China. They're saying the United States is going to be
+
+36:44.400 --> 36:50.400
+next, but another subject is designer babies. They're apparently very open-minded about it
+
+36:50.400 --> 36:54.880
+in China and Russia to experiment over it, but in the United States there are religious
+
+36:58.000 --> 37:01.520
+maybe judgments and obstacles along the way. How do you feel about that?
+
+37:02.320 --> 37:10.800
+Well, as I said before, the concept of Gattaca-style designer babies may seem like
+
+37:10.800 --> 37:20.880
+a good thing in the short run, but it leads to a loss of diversity that is genetically bad for
+
+37:20.880 --> 37:27.440
+a population, if not a species. But do you think United States in America, they have a kind of a
+
+37:27.440 --> 37:32.080
+limitation in front of them because of religion that Chinese and Russians don't have? Because
+
+37:32.080 --> 37:37.600
+they're going to do it anyways, whether bad or not, because it's kind of like a Cold War kind of
+
+37:37.600 --> 37:46.240
+an era. It's a competition that they're using military and they're using technology to gain
+
+37:46.240 --> 37:50.480
+the dominance of the leadership in the world. Do you think that United States is falling behind
+
+37:50.480 --> 37:54.880
+because of the religious approach that they have in politics, especially?
+
+37:55.600 --> 38:02.720
+I don't know. Here in the Northeast, we don't really see in Pennsylvania the effect of
+
+38:02.720 --> 38:12.720
+religious prescription against these sorts of scientific adventures or misadventures.
+
+38:13.600 --> 38:19.360
+There may be other types of regulations. The US can be pretty chaotic. Different communities,
+
+38:19.360 --> 38:26.640
+states or counties or cities will embark on their own social experiments. We have a lot of diversity.
+
+38:26.640 --> 38:35.600
+You may have less of that diversity in a more structured authoritarian country like in China
+
+38:35.600 --> 38:45.360
+or in Russia. The same thing is true in Canada. Canadians are fairly laid back and what happens
+
+38:45.360 --> 38:50.080
+in Toronto may be different from the cultural mores of Saskatchewan.
+
+38:50.080 --> 38:54.240
+Excellent. I'm just going to ask you the last question that I'm asking all the guests. If you
+
+38:54.240 --> 38:59.280
+come across an intelligent alien from a different civilization, what would you say as the worst thing
+
+38:59.280 --> 39:02.880
+humanity has done and what would you say as humanity's greatest achievement?
+
+39:03.840 --> 39:09.840
+You should have sent me this question to think about for a month ahead. I'm taking it very
+
+39:09.840 --> 39:16.880
+seriously. Part of the point of the question is just to capture the reaction of the people
+
+39:16.880 --> 39:22.800
+hearing it for the first time too. I think the worst thing that humanity has done is
+
+39:22.800 --> 39:38.160
+depriving human beings as people of opportunities to become what they can. The most severe example
+
+39:38.160 --> 39:47.840
+that would be genocide, murder and war, but that can happen in other forms of repression, poverty
+
+39:47.840 --> 39:56.240
+and so on. I think in the ways in which society makes us either not exist or become less human,
+
+39:57.520 --> 40:06.000
+that's a terrible thing. To the extent that society can help people become more, do more
+
+40:06.000 --> 40:13.200
+and contribute more, that's a great thing. I think my answer to that would be a human answer
+
+40:13.200 --> 40:20.800
+as opposed to any other technology answer. To the extent that society can help humans become more
+
+40:20.800 --> 40:28.160
+human and people and having greater interrelationships, that's great. The degree to
+
+40:28.160 --> 40:43.600
+which people and their potentials are repressed, that's terrible.
+
+40:58.160 --> 41:05.600
+Thank you.
+
