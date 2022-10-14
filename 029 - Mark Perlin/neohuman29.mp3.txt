@@ -1,0 +1,404 @@
+it's one thing to use genetics to try to cure disease,
+it's another thing to change the genetics of our species.
+How do you feel about that, changing the genetics of our species?
+Well, I'll tell you, it makes no biological sense.
+Hello and welcome to the 29th episode of Neohuman Podcast.
+I'm Agabahari Adygologist on Instagram and Twitter,
+and you can follow the show on liveinlimbo.com, iTunes, and YouTube.
+With me today again is Mandy Gray, and with us today we have Dr. Mark Perley,
+and thank you so much for your time, Mark.
+You're welcome, glad to be here.
+Why don't we start by hearing some of your background,
+some of the work that you've worked on and what you're working on now these days?
+My background is in science and medicine.
+I have two PhDs, one in computer science and one in mathematics and a medical degree,
+and the work that I've done over the years has been in computer science and genetics
+at Carnegie Mellon University, and for the last 20 years,
+I've been working at my small company here in Pittsburgh,
+we have about 10 people, on getting more information out of DNA data
+using computers and statistics.
+So when you say DNA data, what are the major uses or what is it used for?
+Originally, when we started in the 1990s, it was for genetic diagnosis,
+gene mapping, and genome projects, but over the last 15 years,
+it's mainly been for forensic identification.
+Mark, how have you seen the change in the field with the advancement
+of the technology in the past decade, especially in your field?
+Well, in forensic identification, it's interesting,
+the sort of dichotomous split, you have advances in the ability to generate
+high-quality data in high volumes in crime labs from low-level DNA
+and from mixtures, most DNA evidence is a mixture of two or more people,
+and so the data is phenomenal, but there's also been a parallel development,
+which we started on over 15 years ago, of using statistical modeling and computers
+in order to separate out this data into the genetic types of the individuals
+who left their DNA and determine reliable match statistics.
+So that's a separate strand, and while laboratories have been very keen
+to adopt improvements in laboratory equipment that help them generate more data,
+the adoption of technology that will resolve these DNA signals
+without human intervention has been a bit slower.
+When you're saying that the sample of DNA is a mixture between two people,
+what exactly do you mean by that?
+Well, here's several examples.
+In a sexual assault, there's two people involved or more, a victim and an assailant.
+On a handgun, there'll typically be four or five people
+who've touched different surfaces on the gun.
+So if you take a swab from the handgun, you'll end up with a signal
+that doesn't just have the DNA of one contributor, say the owner of the gun,
+but will have DNA from the four, five, or six different people
+who've all handled that gun.
+And so the type of data that you're getting isn't the very easy DNA from one person
+that somebody might watch on television or hear about in high school.
+It's a more complex signal that adds together the DNA components from multiple people.
+I see. The common belief is that a lot of wrongfully convicted people,
+that could have been avoided if we had a more conclusive kind of an evidence.
+And DNA evidence have been always pointed out as more of a conclusive and definitive kind of an evidence.
+How accurate that statement would be in your opinion?
+Well, the idea is how informative is the information that you're getting.
+The methods that crime labs traditionally have used over the last 15 years for DNA mixtures
+tend to be limited in that only some of the data is used.
+And the conclusions tend to be inclusionary statistically, not exclusionary.
+Newer computer methods can provide an exclusionary score showing the extent to which somebody
+hasn't contributed their DNA as well as the degree to which someone else may have contributed their DNA.
+So these newer methods that are computer based and statistical are a boon for being able to exonerate people
+and provide exculpatory evidence that somebody's DNA was not present on an item at a crime scene.
+Right. So over the last couple of weeks, we've talked a little bit about the reluctance of the courts to embrace technology.
+Has that been your experience or where have the courts landed on the introduction of this evidence
+or even just like at the investigative level amongst police officers, for example?
+We've seen fairly good acceptance of cyber genetics started out over 15 years ago, doing a lot of validations.
+We had a grant from the Department of Justice 15 years ago to validate this mixture separation technology for DNA that we were developing.
+And to date, there have been 34 validation studies, seven of them published in peer review journals,
+that show the effectiveness of our true allele system in producing reliable match statistics, whether inclusionary or exclusionary.
+So when we go to court, if there is some sort of a challenge from an opposition,
+then the questions that the court really focus on is what's the scientific reliability?
+I don't know if you've talked in your show about issues of courtroom acceptability, such as Daubert or Frye.
+But there are certain criteria, certainly in the United States, and they involve typically the general acceptance of a method.
+But particularly since 1993 in the Daubert decision, the federal government and most of the states embrace a more scientific criteria for judges to consider.
+And the main three criteria are is a method inherently testable or is it not testable at all?
+Does it have an error rate? Can you produce an error rate to show how often it succeeds or fails?
+And has the method been accepted by peer review and demonstrated to actually work?
+So given the emphasis that we have put and other groups as well on validating scientific methods,
+that's helped with courts accepting it as of today.
+There have been 10 challenges out of the 400 cases we've done, and the courts have accepted Trualiel as reliable scientific evidence in all of those cases.
+Right. So you've been called then, I guess, as an expert witness to testify to the validity of it then? Is that how it works?
+So in a criminal trial, say in about maybe 5% of cases, an opposition, no matter which side happens to be presenting your evidence, can ask for a hearing.
+I think it may be called a voir dire hearing in Canada. That's what it's called in the United Kingdom and in Australia.
+And actually, Trualiel has had those voir dires in Northern Ireland and Australia, which went well.
+And at those hearings, it's up to the judge, serving as a gatekeeper, to decide on reliability.
+In most cases, there is no challenge because the science is seen to be acceptable and a judge will either not allow a challenge
+or the opposing side doesn't ask for one because it doesn't get you very far.
+I mean, in theory, you could ask for a scientific challenge every time you go to court.
+You could ask, does the sun shine during the day?
+That could be an objection. And if the judge grants it, you could have a hearing on meteorology.
+So you can always challenge evidence. But I think the result of Trualiel having been in the courts for since 2009,
+I've testified in almost 50 cases and there are six crime labs in the United States that are using Trualiel regularly.
+It sort of has a general acceptance as a valid method and is particularly based on validation studies.
+Right. So is it being introduced then by the state prosecutor and then opposed by the defense counsel?
+Is that usually how it goes down?
+That's usually how it goes. Though this year, we had some interesting cases where we were assisting the defense.
+There was one case in upstate New York, which is sort of near you, where we used Trualiel to analyze about 150 items of evidence
+in the people of New York versus Nick Hillary case.
+And what we helped the defense show was that the evidence that was introduced by the prosecution
+was subjective and the answer could have gone either way, depending on the data that was used.
+If you used some data, the prosecutor's software could reach one conclusion.
+If you use more data, you could reach another conclusion.
+And when we ran the same data through Trualiel on all the evidence,
+we saw there was no statistical support for the defendant, Nick Hillary, being in the data.
+We also had two exonerations in Indiana this year.
+The second one is just happening this week. The first one was in April.
+And there there was a case of an individual, Darrell Pinkins, and two of his colleagues who were
+it falsely convicted of a crime they couldn't possibly have committed.
+It was a very vicious gang rape.
+There was a group of criminals going around in northern Indiana bumping into cars on the motorway.
+And when the passenger got out of the car, they would rob them.
+And then the robins turned to beatings. Then they turned to rapes.
+Then they turned to robbing, rapes, beatings, everything.
+And what had happened with Mr. Pinkins and some of his co-workers is that the coveralls,
+the uniforms that they had at work, were stolen from their car.
+These coveralls were found back in the late 1980s at this crime scene.
+And two of them were convicted of participating in the gang rape.
+The DNA evidence that would later exonerate them actually existed in 2001.
+But the interpretation methods that were used then and are still prevalent now
+weren't able to get at the smaller components of the mixture.
+They couldn't identify the five or ten percent components.
+And after we analyzed the same data from 15 years ago,
+because that's what our computer does. We don't work with DNA wet samples.
+We just work with the data that comes out of the lab.
+We were able to establish that there were five individuals present at this crime scene.
+Three of them were brothers and none of them were the defendants.
+And so in April, Darrell Pinkins walked out of jail after having
+been wrongfully imprisoned for 24 years.
+So same evidence, just the interpretation of it was improved because of the technology advancement, correct?
+Exactly.
+Do you see that all these successful cases is paving the road towards the future where
+we're using biology and genetics as primary forms of identification for individuals?
+For example, when you go into airport, they're not going to use passports anymore.
+They're going to use eye scan or a DNA sample or anything like that.
+Well, for DNA, you'd have to have pretty rapid scanning, right?
+And there is a technology is also progressing, right?
+So we may get to a point where we might be able to do it on the spot.
+Yes. And people, manufacturers do develop equipment for rapid DNA scans and it's getting faster.
+It's still not at the point where it would be as fast as a retinal scan or a fingerprint.
+But do you think there's a possibility that move towards the place in the future where
+we don't need to use ID or passport or anything like that?
+Our biology, our face facial recognition, our DNA would be our identification factors.
+It's already working that way on my new iPhone.
+It recognizes my thumb and it activates my credit card.
+I guess if somebody stole that and could replicate my fingerprint,
+they could buy a new car with it.
+But we have some faith that this sort of biometric works even in our everyday life.
+So what is happening to the future of data gathering and security?
+Because this is getting within inside people's body, right?
+People are concerned now that their phone calls are being monitored
+or companies can track what they're searching on internet.
+How would they feel when, you know, it's their biology, it's their genetics?
+I don't know.
+It's nothing that we're involved in.
+But as you say, there's facial recognition software, there's all sorts of new biometrics.
+With DNA, if someone had the resources, you see this at crime scenes.
+Suppose a perpetrator leaves someone's house
+and then you have video recordings.
+This is from a case I was involved in in Pittsburgh earlier this year.
+This video recordings of the person walking down the street,
+possibly having left this crime scene and shedding clothing,
+going to an ATM to get money out and getting into a car.
+So there's a history that's left not just in these videos and transactions,
+but in the biological materials that from what the person touched,
+from the clothing that they wore, from whatever was left as they left the crime scene.
+So when you're working on a crime,
+obviously you'd want to have all that information
+and put it together and figure out who the person was.
+But I think what you're discussing is the potential
+of imagine that we're five or 10 years in the future.
+Speed has increased, costs have gone down.
+Is there the potential to check a lot more material
+without even having some probable cause to do so?
+I would hope that our constitutions and our laws would protect us from that.
+But technologically, it would be feasible.
+Right. And do you think that that's kind of a no-brainer for general public
+to start to educate themselves more about the advancement of technology?
+Because most of the people that I'm speaking to,
+a lot of these advancement and progress, it's just surprising to them.
+They can't believe how far we've come
+and they can't believe all the possibilities that are available ahead of us.
+And I think it freaks a lot of people out every possibility that exists already
+and will continue to exist to interfere in their personal life.
+A lot of it for the main purpose of security,
+but a lot of people will raise the question of what is happening to privacy?
+Well, I think we're all concerned about privacy.
+I think when people hear about what technology does for good,
+for example, advances in DNA technology that can diagnose disease,
+or maybe now with newer CRISPR technology,
+the name of the technology is CRISPR technology, possibly cure diseases.
+So with the case of forensics, the ability to solve crimes
+that could not have been solved before to achieve justice and resolution for victims.
+On the positive side, I think people can envision all that.
+But the darker side is what happens when these technologies may be used
+in ways that people haven't thought of.
+For example, with the CRISPR technology,
+it's one thing to use genetics to try to cure disease,
+it's another thing to change the genetics of our species.
+How do you feel about that, changing the genetics of our species?
+Well, I'll tell you, it makes no biological sense.
+Here's what would happen.
+You've seen Gattaca?
+Yes.
+OK, so in a world like Gattaca, what would happen is that you'd get a narrowing of diversity.
+You would have parents or governments or somebody making decisions
+to weed out what might be considered bad, in quotes, bad genes and reinforce good genes,
+move towards almost a clone-like population.
+And that might be seen as good.
+But biology and nature doesn't really view that as good.
+And when you end up with a few catastrophes, like influenza viruses or other attacks,
+that lack of diversity would wipe out our species.
+So what seems like a really good idea in the short term,
+in the long term, really wouldn't work for a species,
+because if we all become too uniform, we lose the diversity
+that enables the survival of a species.
+What if that decision is made, let's say, by an artificial intelligence based on enormous amount
+of data that is impossible for humans to process?
+It has to be processed by machine using machine learning or whatever techniques that is going to
+arise, and they just, you know, artificial intelligence more and more getting involved
+directly in our lives, and they just decide that this would be the better path for humanity.
+And we're so dependent on them at some point that we just have to deal with it.
+Well, as I said, when technology is used for good, that can be fine.
+For example, our Trulio technology is a type of machine learning that mines information out of data.
+And when it's used for good, for resolving crime, that's wonderful.
+But if you were to rely on computers to decide to make a boneheaded decision for our species,
+maybe that would mean the computers are a bit smarter than we'd want them to be,
+and they're plotting our extinction.
+Certainly, winnowing diversity out of our population through genetics is a very bad idea.
+We don't know what genes really do.
+We don't know what the evolutionary adaptations can be for any feature that humans have.
+But what we do know is that evolution relies on that diversity, that genetic diversity,
+in order to maintain survival of a species.
+Would it be fair to say that you have concerns about the rise of artificial intelligence,
+like Bill Gates or Elon Musk and Stephen Hawking's?
+No, I don't think I have a concern about artificial intelligence.
+I would have a concern about misuse of artificial intelligence.
+The same way I don't have concerns about cars,
+but I do have concerns about people running people over with cars.
+It's a tool, and unfortunately, as we see in society, some people abuse tools.
+So I guess my question is this, where do you see DNA research going in terms of forensics,
+and what's next?
+Are you looking to expand, or are you looking to look into other areas of research
+to exonerate more people, or how do you hear about these cases?
+People tend to contact us, and we're not the only ones who contact us.
+People tend to contact us, whether they're police, prosecutors, defenders, or innocence projects,
+when the methods that their labs are using don't go far enough.
+The labs tend to be pretty conservative.
+They tend to like methods that confirm what they can see by eye.
+This isn't all labs, but it's many crime labs.
+Whereas, the information that's contained in data is often beyond what you can see by eye.
+I mean, there are so many examples in medicine to see what we can see in a magnetic resonance image,
+which I did research on that about 30 years ago.
+We rely on MRI scans, and we have magnets and radio waves that can take cross-sectional
+of our brains and bodies, and use them in very subtle ways for diagnosis.
+If you didn't accept that we could make very good use of data and reconstruct it by machines or
+computer intelligence, then you wouldn't have the benefits of probably most medical technology nowadays.
+So, we tend to get involved when someone in law enforcement or law needs more information from data.
+The nice thing about Tru-Allele is that it's completely objective.
+There's been a lot of research and talk about subjectivity and potential bias
+when you have complex DNA samples, particularly mixtures.
+Those are real concerns that can be confirmation bias or other sorts of bias that human analysts
+have. The most common bias is to say nothing and just give no answer at all.
+But with Tru-Allele, nobody chooses the data for it.
+All the data goes into the machine, and the machine doesn't see the answer.
+It doesn't know who you're going to be comparing it with, what their genetic types are like,
+the results can be compared against one person, ten, or a database of a million people.
+So, objective technology like that is pretty good.
+We tend to get called when crime labs have reached their limit of what they're willing to do or what
+they're able to do. And then usually through word of mouth or internet, somebody finds out about us
+and asks if we can help.
+So, I'm assuming it's only the most serious cases that you would be asked to come in on?
+We tend to only get involved in serious case. I mean, the most serious case we ever did in some
+sense was the World Trade Center disaster, when we were asked by the medical examiner's office in New
+York City over 10 years ago to re-examine all the DNA data from the over 18,000 victim remains.
+And the DNA that was collected from relatives and personal effects from the 2,700 missing people,
+analyzed everything in Trulio, and then make automatic comparisons to identify the victim remains.
+How long does that take to identify that many people?
+Well, it was a project. We scaled up, we built a supercomputer for it.
+It was the first of that type with our current Trulio architecture can work on 50 or 100 problems
+simultaneously. And we first built a machine for that when we started on that re-analysis task
+10 years ago. So, I'd say maybe it took, the whole effort probably took at least a year
+of entering the data, asking the computer the questions. For the computer to answer the
+questions, solve the DNA questions, make the comparisons, and get the numbers,
+that wasn't as much work as its computer. But just getting the data, it ended up being about
+100,000 samples of data that had to be entered into the system in a reliable way.
+And this is something that would have been impossible without the use of the machines, correct?
+Certainly, in the way that we did it. You can have a huge effort and do a lot of things manually,
+but you won't get as much information. You are correct that we tend to only work on
+more high-profile cases, or cases where it's important to get a resolution.
+We can think of any number of examples. You have a serial rapist who's terrorizing a town.
+There's a lot of DNA. The crime lab can't interpret it, but once it's gone through the
+truly ill process, and the evidence can be compared against evidence, it can be compared
+with databases. There are issues with databases due to government's reluctance to use newer
+technologies. We haven't seen that in Canada. By being able to have computers resolve the evidence
+and separate out the mixtures and make comparisons, determine what items are not matching people,
+or what items are not matching items, we can really map out a crime scene and get a sense
+of what's been happening and who are the different players.
+Mark, as someone who's dealing with genetics, basically the basis of humanity,
+do you see ethics and morality as objective or subjective?
+That's an interesting question. I think everybody has their own morality, and I know there are
+different systems of ethics. Once you would have more than one system of ethics, if people can
+adopt which ones they want to choose, you now have some subjectivity.
+We have this conversation in many episodes, and my main follow-up question would be,
+then how do you think it will translate into the media?
+One of the provincial methods that some people are talking about of controlling artificial
+intelligence is applying our own ethics and morality into the machine, so they know what
+killing is bad. If you're driving in a road and three people are there and one child is there,
+which direction should you go to? What are your thoughts about that?
+I think you'd be at the mercy of the programmers.
+In the sense that there are many possible answers. Sometimes what people would decide
+would be an ethically correct decision may depend on information that you're not giving
+a program, or it doesn't have access to.
+I mean, you have all these hypotheticals, right? Is it okay to ever take a human life?
+Well, then you get the, but what if you had a time machine and you could kill Hitler?
+We obviously are taking away many human lives on a daily basis using technology to do it easier and safer.
+Yes, and then there are ethical issues of should we be using technology to prevent that sort of wholesale killing?
+I mean, one of the ethical issues that we've seen in the Middle East with Syria is,
+which you read about all the time, is what should have been the ethical obligation on the part of
+various, you know, different ways in which we could have done that?
+The ethical obligation on the part of various large powers to somehow intervene in the wholesale slaughter there.
+That was a place where technology might have helped, and yet it was humans who made decisions not to help
+and not to deploy that technology. You could call it natural intelligence or natural stupidity,
+as opposed to artificial intelligence. But people make decisions all the time
+that can affect thousands or hundreds of thousands of lives.
+A lot of the job of interpretation is being done by machine, if I understand it correctly,
+and a lot of job of data gathering is being done by humans.
+Do you think that also data gathering needs more technology and more machines involved
+instead of humans to maybe minimize the mistakes and faults?
+We don't see too many mistakes in the data gathering with DNA evidence.
+One of the reasons it's really not much of a problem, particularly with true allele interpretation,
+is suppose that there's a possible fault that would be that the police officer or the analyst,
+DNA analyst, collecting the sample contaminates the DNA.
+So instead of there being the original two people, say the victim and the perpetrator,
+who'd left their DNA on an item, now you have a third person.
+Well, if the lab is using interpretation methods where they can't do anything about that contaminant,
+about the person who left their DNA by accident, who is collecting the sample,
+then that's a mistake. On the other hand, if you use technology like true allele,
+that says, okay, well, there's one more contributor in there, just to count for them
+and factor out that extra contribution so we can focus on what was actually happening at the crime,
+then what might have been a mistake using better technology that can separate out components from
+data is no longer a mistake. So we don't really see mistakes of that kind. We may see more complex data,
+but then we just aim the computer at it and it solves it as best it can.
+You guys just had an election down there. And one of the main issues, if not the main issue,
+was jobs. And one of the arguments against what Trump proposes is that a lot of those jobs are
+not going to come back because they will be automated. What are your thoughts about how
+technology is replacing jobs? I don't know if it's happening as much in your field as well,
+but in many other fields, it's a big threat to a lot of people. What are your thoughts on that
+automation and the future of job and how is it going to affect our society?
+Well, I've heard different people talking about this. There are some people who are looking
+forward to the day in the near future where artificial intelligence and machines have
+eliminated the need for work entirely. I certainly don't see that in my weekly existence. I can
+easily go up to 100 hours in a week if there's too much to do. So despite all the computers that we
+have, there seems to be more work. I think it's a combination of education and technology.
+From what I've seen in the history of science and in my own work, if you bring in more technology,
+if you have education that goes along with it, you're going to create more jobs. A great example
+of that is when we moved from horses to cars. At the time, blacksmiths were terribly opposed to the
+job loss that would result from removing horses as a form of transportation. On the other hand,
+once the cars came along, re-educating blacksmiths or educating other people to become
+designers, manufacturers, mechanics, just everything that's needed in that ecosystem
+created a tremendous amount of work. Make the same argument for accounting or any field where
+the computers have come in, not just machines. If you don't have retraining, if you don't have
+education, and ideally education in the broadest sense, which isn't limited skills, but the ability
+to learn and think, then you can have a problem. If you have a workforce that doesn't have the
+opportunity to learn and grow and move with the technology, there could be a lot of displacement.
+But if you do have rapid technological growth and you have governments that support and
+support the education that needs to happen along with that, and a workforce that's willing to
+relearn, I think historically you've seen an expansion in jobs as technology evolves.
+I also want to talk about the way that the United States is dealing with genetics in
+comparison to a country like China. China being apparently the biggest atheist country in the
+world, they have no problem experimenting with many different experimentations. The method CRISP,
+I think, the first experiments were done in China. They're saying the United States is going to be
+next, but another subject is designer babies. They're apparently very open-minded about it
+in China and Russia to experiment over it, but in the United States there are religious
+maybe judgments and obstacles along the way. How do you feel about that?
+Well, as I said before, the concept of Gattaca-style designer babies may seem like
+a good thing in the short run, but it leads to a loss of diversity that is genetically bad for
+a population, if not a species. But do you think United States in America, they have a kind of a
+limitation in front of them because of religion that Chinese and Russians don't have? Because
+they're going to do it anyways, whether bad or not, because it's kind of like a Cold War kind of
+an era. It's a competition that they're using military and they're using technology to gain
+the dominance of the leadership in the world. Do you think that United States is falling behind
+because of the religious approach that they have in politics, especially?
+I don't know. Here in the Northeast, we don't really see in Pennsylvania the effect of
+religious prescription against these sorts of scientific adventures or misadventures.
+There may be other types of regulations. The US can be pretty chaotic. Different communities,
+states or counties or cities will embark on their own social experiments. We have a lot of diversity.
+You may have less of that diversity in a more structured authoritarian country like in China
+or in Russia. The same thing is true in Canada. Canadians are fairly laid back and what happens
+in Toronto may be different from the cultural mores of Saskatchewan.
+Excellent. I'm just going to ask you the last question that I'm asking all the guests. If you
+come across an intelligent alien from a different civilization, what would you say as the worst thing
+humanity has done and what would you say as humanity's greatest achievement?
+You should have sent me this question to think about for a month ahead. I'm taking it very
+seriously. Part of the point of the question is just to capture the reaction of the people
+hearing it for the first time too. I think the worst thing that humanity has done is
+depriving human beings as people of opportunities to become what they can. The most severe example
+that would be genocide, murder and war, but that can happen in other forms of repression, poverty
+and so on. I think in the ways in which society makes us either not exist or become less human,
+that's a terrible thing. To the extent that society can help people become more, do more
+and contribute more, that's a great thing. I think my answer to that would be a human answer
+as opposed to any other technology answer. To the extent that society can help humans become more
+human and people and having greater interrelationships, that's great. The degree to
+which people and their potentials are repressed, that's terrible.
+Thank you.
