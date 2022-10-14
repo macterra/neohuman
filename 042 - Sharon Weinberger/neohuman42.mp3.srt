@@ -1,0 +1,1412 @@
+1
+00:00:00,000 --> 00:00:04,720
+So although I applaud the private companies, whether it's, you know, what Elon Musk or
+
+2
+00:00:04,720 --> 00:00:10,000
+Jeff Bezos is doing, and I think it's incredible in that you need the private sector to take
+
+3
+00:00:10,000 --> 00:00:13,620
+things, to make them economically competitive.
+
+4
+00:00:13,620 --> 00:00:17,960
+Those companies could not exist without government funding and more to the point without DARPA
+
+5
+00:00:17,960 --> 00:00:30,640
+funding Hello and welcome to the 42nd episode of Neohuman
+
+6
+00:00:30,640 --> 00:00:31,640
+Podcast.
+
+7
+00:00:31,640 --> 00:00:38,520
+I'm Agabahari at Agologist on Twitter and Instagram and you can follow the show on LiveInLimbo.com,
+
+8
+00:00:38,520 --> 00:00:41,200
+iTunes and YouTube.
+
+9
+00:00:41,200 --> 00:00:43,640
+With me today I have Sharon Weinberger.
+
+10
+00:00:43,640 --> 00:00:45,600
+Welcome to the show Sharon.
+
+11
+00:00:45,600 --> 00:00:46,600
+Thank you.
+
+12
+00:00:46,600 --> 00:00:47,600
+Thanks for having me.
+
+13
+00:00:47,600 --> 00:00:50,400
+Sharon Weinberger, why don't we start with your background, the work you've done and
+
+14
+00:00:50,400 --> 00:00:53,440
+what are you focusing on mostly these days?
+
+15
+00:00:53,440 --> 00:01:00,120
+So I'm a national security journalist and these days an editor at Foreign Policy Magazine.
+
+16
+00:01:00,120 --> 00:01:05,200
+Most of my career has focused on writing on the intersection of science and technology
+
+17
+00:01:05,200 --> 00:01:07,200
+and national security.
+
+18
+00:01:07,200 --> 00:01:10,280
+That's been the vast majority of what I've written about over the years to include this
+
+19
+00:01:10,280 --> 00:01:11,680
+book on DARPA.
+
+20
+00:01:11,680 --> 00:01:12,680
+Great.
+
+21
+00:01:12,680 --> 00:01:18,120
+Yes, you have a new book out called the Imagineers Award, the untold story of DARPA, the Pentagon
+
+22
+00:01:18,120 --> 00:01:19,960
+agency that changed the world.
+
+23
+00:01:19,960 --> 00:01:23,440
+So what is DARPA and where did it all begin?
+
+24
+00:01:23,440 --> 00:01:27,440
+So DARPA is the Defense Advanced Research Projects Agency.
+
+25
+00:01:27,440 --> 00:01:36,040
+It's an agency that was created in 1958 amid the political turmoil of October 1957 when
+
+26
+00:01:36,040 --> 00:01:41,520
+the Soviet Union launched Sputnik, the world's first artificial satellite and this sort of
+
+27
+00:01:41,520 --> 00:01:48,120
+became a political crisis because it represented to the American public and particularly to
+
+28
+00:01:48,120 --> 00:01:53,240
+President Eisenhower's critics that the United States had fallen behind the Soviet Union
+
+29
+00:01:53,240 --> 00:01:57,900
+in the space race and that the Soviets were advancing militarily as well.
+
+30
+00:01:57,900 --> 00:02:03,600
+So amid this crisis, President Eisenhower authorized the creation of this new agency,
+
+31
+00:02:03,600 --> 00:02:09,280
+the Advanced Research Projects Agency, whose primary goal would be to get America into
+
+32
+00:02:09,280 --> 00:02:10,280
+space.
+
+33
+00:02:10,280 --> 00:02:14,200
+So ARPA, as it was called at the time, was the nation's first space agency.
+
+34
+00:02:14,200 --> 00:02:16,840
+This predated the creation of NASA.
+
+35
+00:02:16,840 --> 00:02:22,280
+It sort of vacuumed up all of the space programs with this singular goal in mind.
+
+36
+00:02:22,280 --> 00:02:28,000
+So can we consider moon landing ultimately the result of the creation of DARPA?
+
+37
+00:02:28,000 --> 00:02:30,520
+In some ways, very much yes.
+
+38
+00:02:30,520 --> 00:02:33,320
+So there's a caveat to that.
+
+39
+00:02:33,320 --> 00:02:40,080
+DARPA, the D for defense was added in 1972, but let's just call it DARPA for consistency.
+
+40
+00:02:40,080 --> 00:02:44,880
+They actually, they held the space programs for about a year and a half before losing
+
+41
+00:02:44,880 --> 00:02:49,960
+them, first with the creation of NASA, which took over civilian space, and then eventually
+
+42
+00:02:49,960 --> 00:02:54,440
+the military services, the Air Force, Navy, and Army sort of won a bureaucratic battle
+
+43
+00:02:54,440 --> 00:02:56,800
+to get their space programs back.
+
+44
+00:02:56,800 --> 00:03:02,960
+But even those initial programs that DARPA created in those first years were very critical.
+
+45
+00:03:02,960 --> 00:03:09,160
+So the Saturn rocket, which took the astronauts to the moon, was the sort of the child of
+
+46
+00:03:09,160 --> 00:03:14,680
+the first director of DARPA, who went to Werner von Braun and said he wanted to fund this
+
+47
+00:03:14,680 --> 00:03:16,680
+rocket program.
+
+48
+00:03:16,680 --> 00:03:19,080
+And the similar thing can be said about internet, correct?
+
+49
+00:03:19,080 --> 00:03:20,840
+Because it started with ARPANET.
+
+50
+00:03:20,840 --> 00:03:21,840
+Yes, absolutely.
+
+51
+00:03:21,840 --> 00:03:26,840
+So the one thing that really cemented DARPA's reputation, and probably the reason it still
+
+52
+00:03:26,840 --> 00:03:32,120
+exists today, because you know, agencies come and go, was that DARPA was very involved,
+
+53
+00:03:32,120 --> 00:03:38,920
+and this goes back to the early 1960s, in creating the first computer networking program,
+
+54
+00:03:38,920 --> 00:03:45,000
+which by the late 1960s became ARPANET, which was the first linking of computers around
+
+55
+00:03:45,000 --> 00:03:46,720
+the country.
+
+56
+00:03:46,720 --> 00:03:50,680
+When this was transitioned to the civilian world under the National Science Foundation,
+
+57
+00:03:50,680 --> 00:03:52,800
+it became the internet.
+
+58
+00:03:52,800 --> 00:03:56,600
+That's very much something that DARPA can claim credit for and is what cemented its
+
+59
+00:03:56,600 --> 00:03:59,280
+sort of modern reputation as an innovation powerhouse.
+
+60
+00:03:59,280 --> 00:04:04,840
+So you mentioned that DARPA started as a part of a Cold War, the Cold War ended more than
+
+61
+00:04:04,840 --> 00:04:05,840
+20 years.
+
+62
+00:04:05,840 --> 00:04:10,800
+What is the role of DARPA today, and what are they mostly focused on right now, today?
+
+63
+00:04:10,800 --> 00:04:12,680
+That's an excellent question.
+
+64
+00:04:12,680 --> 00:04:17,260
+The hardest period of DARPA's existence, because a lot of what my book does is charts the ups
+
+65
+00:04:17,260 --> 00:04:21,960
+and downs of DARPA's history, whether it's the Vietnam War, or the height of the Cold
+
+66
+00:04:21,960 --> 00:04:22,960
+War.
+
+67
+00:04:22,960 --> 00:04:27,560
+So after the fall of the Soviet Union in the 1990s was really DARPA's in some ways most
+
+68
+00:04:27,560 --> 00:04:32,680
+depressing period, because here you have an agency that was created to keep us technologically
+
+69
+00:04:32,680 --> 00:04:36,960
+ahead of the Soviet Union, and then the Soviet Union doesn't exist.
+
+70
+00:04:36,960 --> 00:04:41,600
+So they went through sort of this depressing and turbulent period where they tried to reinvent
+
+71
+00:04:41,600 --> 00:04:46,440
+themselves as sort of a dual-use agency, you know, maybe we can focus more on civilian
+
+72
+00:04:46,440 --> 00:04:47,440
+projects.
+
+73
+00:04:47,440 --> 00:04:48,440
+It didn't work well.
+
+74
+00:04:48,440 --> 00:04:54,520
+They sort of had failed or irrelevant project after failed and irrelevant project.
+
+75
+00:04:54,520 --> 00:05:00,120
+And then after 9-11, they in some senses tried to reinvent, you had a new enemy, you know,
+
+76
+00:05:00,120 --> 00:05:05,000
+the war on terror was sort of the ups and downs of that.
+
+77
+00:05:05,000 --> 00:05:10,280
+And they had something of a resurgence, but they're struggling now.
+
+78
+00:05:10,280 --> 00:05:16,360
+One of the things that they tried to focus on under the last few years was neuroscience,
+
+79
+00:05:16,360 --> 00:05:21,080
+trying to treat injuries from traumatic brain injury, basically a lot of the injuries that
+
+80
+00:05:21,080 --> 00:05:26,880
+soldiers suffered from roadside bombs in Iraq and Afghanistan, also treatment for post-traumatic
+
+81
+00:05:26,880 --> 00:05:27,880
+stress disorder.
+
+82
+00:05:27,880 --> 00:05:33,640
+So you see a lot of references to exotic projects funded by DARPA for brain chips.
+
+83
+00:05:33,640 --> 00:05:39,840
+One of the things that they just turned again now to very much in the past year is hypersonic
+
+84
+00:05:39,840 --> 00:05:40,840
+weapons.
+
+85
+00:05:40,840 --> 00:05:44,360
+They're sort of, first of all, the current director of DARPA managed hypersonic weapons
+
+86
+00:05:44,360 --> 00:05:47,120
+programs back when he was a program manager at DARPA.
+
+87
+00:05:47,120 --> 00:05:49,200
+So he has a very direct interest in it.
+
+88
+00:05:49,200 --> 00:05:54,080
+And you have with sort of the war of words with Vladimir Putin, sort of this resurgent
+
+89
+00:05:54,080 --> 00:05:56,480
+interest on new exotic weapons.
+
+90
+00:05:56,480 --> 00:06:00,640
+And you know, hypersonic weapons, these are weapons, you know, whether aircraft or missiles
+
+91
+00:06:00,640 --> 00:06:06,040
+that travel many times the speed of sound is sort of in the news again.
+
+92
+00:06:06,040 --> 00:06:08,080
+And that's what DARPA is pushing.
+
+93
+00:06:08,080 --> 00:06:11,480
+And I think it's worth mentioning that DARPA overall is a pretty small agency.
+
+94
+00:06:11,480 --> 00:06:15,960
+They have around, I think, three billion dollars in budgets and less than 200 people personnel,
+
+95
+00:06:15,960 --> 00:06:16,960
+correct?
+
+96
+00:06:16,960 --> 00:06:17,960
+Yes.
+
+97
+00:06:17,960 --> 00:06:22,640
+And it's sort of interesting because those numbers sort of don't tell the whole story.
+
+98
+00:06:22,640 --> 00:06:28,400
+So on one hand, you know, three billion or 3.2 billion is maybe one tenth of NASA's budget.
+
+99
+00:06:28,400 --> 00:06:33,720
+But what makes DARPA's three billion dollars so powerful is it's not committed to programs.
+
+100
+00:06:33,720 --> 00:06:37,760
+You know, NASA is spending, you know, X amount on the International Space Station.
+
+101
+00:06:37,760 --> 00:06:40,240
+It can't just move money around.
+
+102
+00:06:40,240 --> 00:06:45,240
+DARPA can and will very quickly start up new projects and can allocate tens of millions
+
+103
+00:06:45,240 --> 00:06:49,280
+or, you know, some cases even, you know, a hundred of millions of dollars to something
+
+104
+00:06:49,280 --> 00:06:52,120
+new or innovative.
+
+105
+00:06:52,120 --> 00:06:56,560
+In terms of the personnel, yes, it is sort of interesting that DARPA has grown a lot
+
+106
+00:06:56,560 --> 00:06:57,560
+over the years.
+
+107
+00:06:57,560 --> 00:07:02,400
+When I was going through the archives, DARPA in the 1960s, which in some ways was its most
+
+108
+00:07:02,400 --> 00:07:08,440
+innovative period, the roster of DARPA personnel could fit on an index card.
+
+109
+00:07:08,440 --> 00:07:14,260
+And now it's a small phone book because you have under 200 employees of DARPA, but they
+
+110
+00:07:14,260 --> 00:07:20,040
+also employ now sort of an arsenal of private contractors who provide everything from technical
+
+111
+00:07:20,040 --> 00:07:22,200
+support to administrative support.
+
+112
+00:07:22,200 --> 00:07:26,440
+But yet still, this is much leaner than most parts of government.
+
+113
+00:07:26,440 --> 00:07:32,160
+Recently, we had a news that Google is aiding Department of Defense with their drones with
+
+114
+00:07:32,160 --> 00:07:34,200
+Google's AI technology.
+
+115
+00:07:34,200 --> 00:07:40,880
+What are the chances of private sector to completely replace DARPA and maybe even extend
+
+116
+00:07:40,880 --> 00:07:43,760
+on the role that DARPA is playing in the government today?
+
+117
+00:07:43,760 --> 00:07:48,280
+I don't think in any sense it can replace DARPA because DARPA's role is unique.
+
+118
+00:07:48,280 --> 00:07:53,040
+You know, it is at the end of the day, it is to develop weapons and technology for the
+
+119
+00:07:53,040 --> 00:07:54,040
+Pentagon.
+
+120
+00:07:54,040 --> 00:07:56,520
+So DARPA itself doesn't create these things.
+
+121
+00:07:56,520 --> 00:08:02,520
+It funds these things, you know, whether at private companies like Google or at smaller
+
+122
+00:08:02,520 --> 00:08:03,520
+companies.
+
+123
+00:08:03,520 --> 00:08:06,960
+DARPA is the program, man, it's sort of the organizer of this funding.
+
+124
+00:08:06,960 --> 00:08:10,940
+I mean, even for Google, when it's working on artificial intelligence for the military,
+
+125
+00:08:10,940 --> 00:08:14,940
+it's not like it sits in its R&D lab and creates something for the military.
+
+126
+00:08:14,940 --> 00:08:17,680
+It's directed by someone.
+
+127
+00:08:17,680 --> 00:08:18,680
+So that's one thing.
+
+128
+00:08:18,680 --> 00:08:24,040
+One of the things that has changed over the years is, you know, most of our modern computer
+
+129
+00:08:24,040 --> 00:08:28,600
+science departments and companies can trace their lineage directly back to DARPA.
+
+130
+00:08:28,600 --> 00:08:34,640
+In the 1960s, when DARPA got into computer science, it was the only player in the, you
+
+131
+00:08:34,640 --> 00:08:37,840
+know, it was the player, you know, there was no one else out there.
+
+132
+00:08:37,840 --> 00:08:42,360
+But DARPA now has other areas, you know, like neuroscience, like hypersonics.
+
+133
+00:08:42,360 --> 00:08:46,040
+You don't have a lot of private sector funding going into hypersonic weapons or hypersonic
+
+134
+00:08:46,040 --> 00:08:47,040
+flight.
+
+135
+00:08:47,040 --> 00:08:50,760
+So it's essentially, you know, what areas can DARPA move the needle in?
+
+136
+00:08:50,760 --> 00:08:55,000
+You know, it still does good work in computer science, but it's very tiny compared to what
+
+137
+00:08:55,000 --> 00:08:56,200
+goes on in the private sector.
+
+138
+00:08:56,200 --> 00:09:00,560
+But to answer your question directly, no, I don't think the private sector can replace
+
+139
+00:09:00,560 --> 00:09:01,560
+DARPA.
+
+140
+00:09:01,560 --> 00:09:05,560
+DARPA is what has traditionally funded the private sector in areas that the private sector
+
+141
+00:09:05,560 --> 00:09:07,200
+is not yet ready to invest in.
+
+142
+00:09:07,200 --> 00:09:12,500
+Yeah, the reason I ask, because the space exploration program, there are a lot of private
+
+143
+00:09:12,500 --> 00:09:15,480
+sector players on it now, like SpaceX.
+
+144
+00:09:15,480 --> 00:09:17,840
+And NASA has taken advantage of their...
+
+145
+00:09:17,840 --> 00:09:18,840
+That's a great point.
+
+146
+00:09:18,840 --> 00:09:25,680
+But let me address something very specifically on that SpaceX.
+
+147
+00:09:25,680 --> 00:09:31,040
+Its programs would not exist were it not for the government and specifically NASA, they're
+
+148
+00:09:31,040 --> 00:09:36,680
+building on billions of dollars of government money that has gone into rocket science over
+
+149
+00:09:36,680 --> 00:09:37,680
+the years.
+
+150
+00:09:37,680 --> 00:09:42,200
+So although I applaud the private companies, whether it's, you know, what Elon Musk or
+
+151
+00:09:42,200 --> 00:09:47,600
+Jeff Bezos is doing, and I think it's incredible, and that you need the private sector to take
+
+152
+00:09:47,600 --> 00:09:53,440
+things to make them economically competitive, those companies could not exist without government
+
+153
+00:09:53,440 --> 00:09:57,320
+funding and more to the point without DARPA funding.
+
+154
+00:09:57,320 --> 00:09:58,320
+So let me ask you this.
+
+155
+00:09:58,320 --> 00:10:03,700
+How much of our commercial and consumer technology today is a direct or indirect result of research
+
+156
+00:10:03,700 --> 00:10:08,520
+and production by the DOD, the Department of Defense, and how much of that is the result
+
+157
+00:10:08,520 --> 00:10:09,520
+of DARPA?
+
+158
+00:10:09,520 --> 00:10:14,200
+So I think it'd be hard to quantify, you know, whenever someone tries to quantify something,
+
+159
+00:10:14,200 --> 00:10:18,520
+I get these long reports that I find sort of methodologically flawed.
+
+160
+00:10:18,520 --> 00:10:19,520
+What we can do is...
+
+161
+00:10:19,520 --> 00:10:24,600
+So let's take an example, you know, sometimes, you know, DARPA officials will over-claim
+
+162
+00:10:24,600 --> 00:10:30,480
+that cell phones, the microelectronics in cell phones, all trace back to DARPA.
+
+163
+00:10:30,480 --> 00:10:34,480
+When I actually went back and interviewed some of the program managers, they're actually,
+
+164
+00:10:34,480 --> 00:10:35,980
+they're much more modest.
+
+165
+00:10:35,980 --> 00:10:40,120
+There are some microelectronics in cell phones that went to DARPA, but it's not that DARPA
+
+166
+00:10:40,120 --> 00:10:45,600
+enabled the entire cell phone industry, but it certainly played a role in it.
+
+167
+00:10:45,600 --> 00:10:50,760
+Certainly the internet with ARPANET was very direct to DARPA.
+
+168
+00:10:50,760 --> 00:10:56,280
+If you want to talk about government innovations, modern satellite navigation, GPS, was a Navy
+
+169
+00:10:56,280 --> 00:11:01,720
+project with actually at one point DARPA involvement in the very early years of the 1950s with
+
+170
+00:11:01,720 --> 00:11:03,440
+a predecessor satellite.
+
+171
+00:11:03,440 --> 00:11:08,800
+GPS navigation, you know, maybe it would have existed at some point in history, but we wouldn't
+
+172
+00:11:08,800 --> 00:11:15,600
+have the GPS constellation today, but obviously it's a military system without DARPA, without
+
+173
+00:11:15,600 --> 00:11:17,960
+DOD, and without government involvement.
+
+174
+00:11:17,960 --> 00:11:22,880
+You know, so you can look across the spectrum of the things that we use in our everyday
+
+175
+00:11:22,880 --> 00:11:23,880
+lives.
+
+176
+00:11:23,880 --> 00:11:30,240
+Cell phones, internet, GPS navigation, drones is another example.
+
+177
+00:11:30,240 --> 00:11:36,520
+Drones dates back directly to DARPA funding for projects starting as early as the 1960s
+
+178
+00:11:36,520 --> 00:11:37,520
+and going through the 1990s.
+
+179
+00:11:37,520 --> 00:11:42,320
+Again, it's not saying that drones never would have existed without DARPA, but they wouldn't
+
+180
+00:11:42,320 --> 00:11:47,080
+have been this boom that they are now and certainly not on this time scale without DARPA's
+
+181
+00:11:47,080 --> 00:11:48,480
+early funding for it.
+
+182
+00:11:48,480 --> 00:11:52,280
+So I don't know how to quantify that except to say that, you know, if you look anecdotally
+
+183
+00:11:52,280 --> 00:11:55,000
+at the projects, it's quite significant.
+
+184
+00:11:55,000 --> 00:11:58,280
+Talk a little about why did you write the book at this point?
+
+185
+00:11:58,280 --> 00:12:02,080
+Why did you think that this was a necessary book to be written now?
+
+186
+00:12:02,080 --> 00:12:09,640
+So in two parts, the first was that, you know, as someone who's written about Pentagon science
+
+187
+00:12:09,640 --> 00:12:14,440
+and technology for almost two decades now, you know, DARPA is both the most important
+
+188
+00:12:14,440 --> 00:12:18,560
+and most intriguing player in this, both in terms of the amount of funding it has and
+
+189
+00:12:18,560 --> 00:12:23,680
+this very unique role it's played in funding everything from oddball projects to very successful
+
+190
+00:12:23,680 --> 00:12:26,680
+projects and some very, very unsuccessful ones as well.
+
+191
+00:12:26,680 --> 00:12:31,120
+Just to be clear, this is a critical history of DARPA as they've had their ups and downs.
+
+192
+00:12:31,120 --> 00:12:34,800
+And I've been talking with friends for a long time about, you know, what would a history
+
+193
+00:12:34,800 --> 00:12:36,800
+of DARPA tell us?
+
+194
+00:12:36,800 --> 00:12:39,800
+You know, is it as successful as it claims?
+
+195
+00:12:39,800 --> 00:12:44,520
+And if so, why is it successful and is it still as successful?
+
+196
+00:12:44,520 --> 00:12:48,960
+And so these sort of questions intrigued me and, you know, DARPA is not a good narrator
+
+197
+00:12:48,960 --> 00:12:51,320
+of its own past.
+
+198
+00:12:51,320 --> 00:12:56,920
+They commissioned one internal history in 1975 that was so good, so detailed and so
+
+199
+00:12:56,920 --> 00:13:02,440
+critical that when it was done, the new director of DARPA basically classified it and locked
+
+200
+00:13:02,440 --> 00:13:04,920
+it up in a safe for a decade.
+
+201
+00:13:04,920 --> 00:13:07,920
+So they're not good since then of chronicling their own history.
+
+202
+00:13:07,920 --> 00:13:13,240
+So the opportunity to go back through the archival records, to sue the Pentagon for
+
+203
+00:13:13,240 --> 00:13:18,600
+records, to interview the former directors was really this opportunity to say like, okay,
+
+204
+00:13:18,600 --> 00:13:20,640
+so is it as good as it claims it is?
+
+205
+00:13:20,640 --> 00:13:23,240
+And to be honest, it's a mixed legacy.
+
+206
+00:13:23,240 --> 00:13:27,080
+It's some great successes and some incredible failures.
+
+207
+00:13:27,080 --> 00:13:32,720
+One of our listeners, Fritz Harald from Canada has a two part question he starts with.
+
+208
+00:13:32,720 --> 00:13:37,480
+Since every technology is evolved from a military context, is technology tainted by design
+
+209
+00:13:37,480 --> 00:13:40,260
+and therefore harmful to our future in the end?
+
+210
+00:13:40,260 --> 00:13:46,580
+And is using billions of tax dollars annually to further military tools good for our society?
+
+211
+00:13:46,580 --> 00:13:49,960
+And are we getting a good return on our investment financially and socially?
+
+212
+00:13:49,960 --> 00:13:51,800
+Oh, that's a great question.
+
+213
+00:13:51,800 --> 00:13:55,660
+So one of the things that I talk about, and one of the reasons I'm so drawn to these
+
+214
+00:13:55,660 --> 00:14:03,680
+question of the military and science is that question, you know, the military funded science
+
+215
+00:14:03,680 --> 00:14:05,720
+is very successful.
+
+216
+00:14:05,720 --> 00:14:11,180
+It's very good at producing technologies in part because the Pentagon needs things.
+
+217
+00:14:11,180 --> 00:14:12,620
+It needs to blow things up.
+
+218
+00:14:12,620 --> 00:14:17,800
+It needs to create aircraft, you know, and so if you think those are good things, then
+
+219
+00:14:17,800 --> 00:14:20,480
+military funded science is very good.
+
+220
+00:14:20,480 --> 00:14:26,200
+If you're critical of, you know, drone warfare, if you're critical of the military technologies
+
+221
+00:14:26,200 --> 00:14:29,320
+are created, then it's not a good thing.
+
+222
+00:14:29,320 --> 00:14:31,160
+So I don't make a value judgment in that.
+
+223
+00:14:31,160 --> 00:14:36,960
+What I try to point out to people is there is a consequence to having military funded
+
+224
+00:14:36,960 --> 00:14:37,960
+science.
+
+225
+00:14:37,960 --> 00:14:42,980
+It takes science and technology in different directions than civilian science, and so that
+
+226
+00:14:42,980 --> 00:14:46,280
+is a judgment we have to make as a country.
+
+227
+00:14:46,280 --> 00:14:51,160
+I raise this at the end of the book with neuroscience, where there are these very troubling ethical
+
+228
+00:14:51,160 --> 00:14:55,920
+questions of having the military involved in neuroscience and medical research because
+
+229
+00:14:55,920 --> 00:14:58,240
+the military has very different interests.
+
+230
+00:14:58,240 --> 00:15:02,840
+They wish to, you know, I mean, be careful how I phrase that.
+
+231
+00:15:02,840 --> 00:15:08,720
+The military's job is to, you know, basically defend the United States, which in many cases
+
+232
+00:15:08,720 --> 00:15:16,260
+is through conducting warfare, and so is that an appropriate place to have a large part
+
+233
+00:15:16,260 --> 00:15:20,020
+of your country's neuroscience research funded from.
+
+234
+00:15:20,020 --> 00:15:25,240
+There are consequences to who funds research, and we have to be at least understand what
+
+235
+00:15:25,240 --> 00:15:30,000
+the consequences are when we make decisions about whether that's good or bad.
+
+236
+00:15:30,000 --> 00:15:34,040
+Is there any alternative though, because now we're hearing about how China is advancing
+
+237
+00:15:34,040 --> 00:15:39,440
+in artificial intelligence and they have the three best supercomputers in the world.
+
+238
+00:15:39,440 --> 00:15:44,360
+Is there really any way that we can imagine that the Department of Defense in the United
+
+239
+00:15:44,360 --> 00:15:48,040
+States at one point would be like, okay, we're not really in a competition, we just want
+
+240
+00:15:48,040 --> 00:15:49,560
+to serve our people in our country?
+
+241
+00:15:49,560 --> 00:15:55,560
+Yeah, so there is, so if we take it down to the science and technology question, one of
+
+242
+00:15:55,560 --> 00:16:01,460
+the reasons you don't have a DARPA in Europe or Japan or in many other countries is they're
+
+243
+00:16:01,460 --> 00:16:06,000
+very wary of having the military fund science and technology.
+
+244
+00:16:06,000 --> 00:16:12,120
+And it's funny because you have this sort of ongoing revolving door of European politicians
+
+245
+00:16:12,120 --> 00:16:16,880
+and bureaucrats coming to visit DARPA because they're fascinated by the DARPA model and
+
+246
+00:16:16,880 --> 00:16:22,360
+wanting the successes of DARPA, but they absolutely know it would not be possible politically
+
+247
+00:16:22,360 --> 00:16:28,920
+to have a military funded science and technology agency of DARPA scope in Europe or in Japan.
+
+248
+00:16:28,920 --> 00:16:32,160
+To the China question is different, so I'm first of all a bit of a skeptic, I mean I
+
+249
+00:16:32,160 --> 00:16:36,800
+think China's making great advances in this area, but I think there's a lot of hype surrounding
+
+250
+00:16:36,800 --> 00:16:41,400
+Chinese advances in artificial intelligence and hypersonics, I think a lot of it is over
+
+251
+00:16:41,400 --> 00:16:42,400
+right.
+
+252
+00:16:42,400 --> 00:16:43,400
+Why do you think that is?
+
+253
+00:16:43,400 --> 00:16:48,760
+First of all, because it's happened in the past, part of the history of the book that
+
+254
+00:16:48,760 --> 00:16:55,520
+I cover is when the, it comes straight from the past, in the 1980s DARPA wanted to convince
+
+255
+00:16:55,520 --> 00:17:01,440
+Congress to fund a billion dollar initiative in artificial intelligence.
+
+256
+00:17:01,440 --> 00:17:07,040
+And so it went to Japan, which at the time was sort of the boogeyman that China is now,
+
+257
+00:17:07,040 --> 00:17:12,600
+and toured their computer science and their artificial intelligence initiatives.
+
+258
+00:17:12,600 --> 00:17:16,680
+And they came back and essentially lied, and you know I have the interviews where they
+
+259
+00:17:16,680 --> 00:17:21,520
+talk about this, where they said, yes Japan is on the very verge of making artificial
+
+260
+00:17:21,520 --> 00:17:22,520
+intelligence.
+
+261
+00:17:22,520 --> 00:17:27,880
+Japan was nowhere near that, it's nowhere near that now, and so I see that again with
+
+262
+00:17:27,880 --> 00:17:28,880
+China.
+
+263
+00:17:28,880 --> 00:17:33,000
+China has very advanced computer science, but it is not on the verge of creating artificial
+
+264
+00:17:33,000 --> 00:17:37,960
+intelligence, and frankly neither are we, it's being used in a sense for people who
+
+265
+00:17:37,960 --> 00:17:42,000
+wish to hype their budgets to the United States, and you know is that good or bad?
+
+266
+00:17:42,000 --> 00:17:46,080
+You know if it advances computer science, people do what they think is effective.
+
+267
+00:17:46,080 --> 00:17:48,360
+And they've been successful in hyping it then.
+
+268
+00:17:48,360 --> 00:17:52,480
+They have been very successful.
+
+269
+00:17:52,480 --> 00:18:00,160
+What do you see as the biggest national security threat or threats to the United States today?
+
+270
+00:18:00,160 --> 00:18:10,160
+Oh wow, I think the biggest threat to national security is ourselves, in the sense that we
+
+271
+00:18:10,160 --> 00:18:17,400
+have been at war now for approaching 17 years, and we have a generation in the United States
+
+272
+00:18:17,400 --> 00:18:24,440
+that have grown up thinking that it's normal to always be at war.
+
+273
+00:18:24,440 --> 00:18:30,840
+And you see these same debates in Israel about concerns about generations now in Israel who
+
+274
+00:18:30,840 --> 00:18:33,720
+think that warfare is normal.
+
+275
+00:18:33,720 --> 00:18:40,080
+You know warfare, I am for a strong national security, I am for a strong military, but
+
+276
+00:18:40,080 --> 00:18:44,920
+the goal of a strong national security and the goal of a strong military is to not be
+
+277
+00:18:44,920 --> 00:18:46,600
+at war.
+
+278
+00:18:46,600 --> 00:18:50,880
+And I'm very concerned about a mentality in the United States where we accept this
+
+279
+00:18:50,880 --> 00:18:51,880
+as normal.
+
+280
+00:18:51,880 --> 00:18:54,760
+It should not be normal, this should be the exception.
+
+281
+00:18:54,760 --> 00:18:59,760
+I'm originally from Iran, you mentioned Israel and I always found Israel fascinating because
+
+282
+00:18:59,760 --> 00:19:03,880
+they made so much with so little amount of resources that they had scientifically and
+
+283
+00:19:03,880 --> 00:19:09,160
+technologically and it served their military and national defense.
+
+284
+00:19:09,160 --> 00:19:13,960
+How do you see the future of countries like Iran or Saudi Arabia that they haven't invested
+
+285
+00:19:13,960 --> 00:19:16,600
+as much on science and technology as a western country?
+
+286
+00:19:16,600 --> 00:19:19,080
+How do you see the future of countries like that?
+
+287
+00:19:19,080 --> 00:19:26,480
+A science and technology base is a very hard thing to buy, you have to invest in it.
+
+288
+00:19:26,480 --> 00:19:33,000
+So yeah, let's take Saudi Arabia for an example which has spent a lot of money on its military
+
+289
+00:19:33,000 --> 00:19:38,960
+on an advanced technology and you know look where it's ended them up in a long protracted
+
+290
+00:19:38,960 --> 00:19:43,740
+war in Yemen that is a humanitarian disaster and it's not been particularly successful
+
+291
+00:19:43,740 --> 00:19:45,160
+for Saudi Arabia either.
+
+292
+00:19:45,160 --> 00:19:49,120
+I'm not an expert in Saudi Arabia but I'm guessing their science and technology base
+
+293
+00:19:49,120 --> 00:19:52,440
+is not something that's been invested that heavily in.
+
+294
+00:19:52,440 --> 00:19:57,680
+I could be wrong, I'm not familiar with the extent of different areas, different faculties
+
+295
+00:19:57,680 --> 00:20:01,560
+at universities in Saudi Arabia but I'm willing to guess they've spent a lot on procuring
+
+296
+00:20:01,560 --> 00:20:05,840
+military technology and not a lot on investing basic science.
+
+297
+00:20:05,840 --> 00:20:10,240
+Because basically spending to buy technology is not going to replace investing to develop
+
+298
+00:20:10,240 --> 00:20:11,240
+it locally.
+
+299
+00:20:11,240 --> 00:20:17,200
+Well not just developing it but again having a science base, you know if you look at DARPA,
+
+300
+00:20:17,200 --> 00:20:21,320
+if you look at the DARPA model, I mean some of what DARPA does is it does develop weapons
+
+301
+00:20:21,320 --> 00:20:28,080
+but a lot of what it funds is in the science base for the future, you know in microelectronics,
+
+302
+00:20:28,080 --> 00:20:33,600
+in biology, in areas that aren't going to necessarily result in an aircraft tomorrow
+
+303
+00:20:33,600 --> 00:20:38,480
+next year or even in the next decade but there are things that advance our knowledge about
+
+304
+00:20:38,480 --> 00:20:40,440
+the world.
+
+305
+00:20:40,440 --> 00:20:45,240
+Is there a big picture objective or rather philosophy for DARPA or perhaps the DoD?
+
+306
+00:20:45,240 --> 00:20:50,840
+There is, you know DARPA the motto that they've used in many recent years, going back several
+
+307
+00:20:50,840 --> 00:20:56,960
+decades now, is preventing technological surprise and now in the sort of the post-Cold War era
+
+308
+00:20:56,960 --> 00:21:00,280
+they sort of add and creating technological surprise.
+
+309
+00:21:00,280 --> 00:21:05,520
+I think that they are struggling a bit in the post-Soviet you know world of what is
+
+310
+00:21:05,520 --> 00:21:09,520
+our mission because we don't have a technological peer.
+
+311
+00:21:09,520 --> 00:21:14,440
+You know now with the hype of China they can kind of hang their hat on that but it's still
+
+312
+00:21:14,440 --> 00:21:18,960
+difficult, we're still much more advanced than China when it comes to military technology
+
+313
+00:21:18,960 --> 00:21:21,840
+despite what you know you might see in the newspapers and magazines.
+
+314
+00:21:21,840 --> 00:21:25,200
+Well as you said hype is beneficial to people who are getting the money.
+
+315
+00:21:25,200 --> 00:21:31,040
+As it's always been everywhere in the private sector and in government and in national security
+
+316
+00:21:31,040 --> 00:21:34,880
+and to a certain extent it's understandable but you have to at least be a little bit wary
+
+317
+00:21:34,880 --> 00:21:36,320
+of what people are claiming.
+
+318
+00:21:36,320 --> 00:21:41,440
+Yeah fair enough, as data is becoming the most valuable commodity how do you see the
+
+319
+00:21:41,440 --> 00:21:45,480
+relation between humans and military evolve in the coming years and decades?
+
+320
+00:21:45,480 --> 00:21:50,560
+You know so it's funny as you can kind of get the sense, I'm a bit of a technology
+
+321
+00:21:50,560 --> 00:21:57,160
+skeptic in some ways, DARPA has invested a lot in data, it's certainly very important
+
+322
+00:21:57,160 --> 00:22:02,680
+for the military, there's sometimes a tendency to wish a little too much out of this data.
+
+323
+00:22:02,680 --> 00:22:06,520
+There was this program in Afghanistan where they were going to collect all of the data
+
+324
+00:22:06,520 --> 00:22:10,800
+because you know the U.S. military has so much data, they have intelligence collected
+
+325
+00:22:10,800 --> 00:22:15,880
+by the National Security Agency, they had aircraft going all over Afghanistan mapping
+
+326
+00:22:15,880 --> 00:22:21,280
+every bit of terrain, they had social science data, I mean just as they tried to collect
+
+327
+00:22:21,280 --> 00:22:26,640
+all this data and make predictions about where the next insurgent attack would be, what village
+
+328
+00:22:26,640 --> 00:22:33,800
+would fall to the Taliban, it didn't really do a lot of good, I don't know what to say
+
+329
+00:22:33,800 --> 00:22:36,680
+other than data isn't knowledge.
+
+330
+00:22:36,680 --> 00:22:42,640
+Okay fair enough, what is next for you and where can people find about your work?
+
+331
+00:22:42,640 --> 00:22:48,000
+Sure, so what's next for me is I've been toying with the idea of doing a military history
+
+332
+00:22:48,000 --> 00:22:52,880
+of artificial intelligence to talk about some of the subjects that we've just spoken about.
+
+333
+00:22:52,880 --> 00:22:57,720
+Really what it means when the military is the greatest funder of artificial intelligence
+
+334
+00:22:57,720 --> 00:23:03,240
+and how that put in our country and Japan and China artificial intelligence on different
+
+335
+00:23:03,240 --> 00:23:04,240
+trajectories.
+
+336
+00:23:04,240 --> 00:23:09,040
+You know Japan went very different directions, not altogether successfully either with its
+
+337
+00:23:09,040 --> 00:23:11,080
+artificial intelligence programs.
+
+338
+00:23:11,080 --> 00:23:14,000
+So that's what I've been thinking about working on for a next book, but to be honest
+
+339
+00:23:14,000 --> 00:23:18,600
+I'm still in sort of the formative stages of thinking about the framing of that.
+
+340
+00:23:18,600 --> 00:23:24,440
+These days I mostly edit at Foreign Policy Magazine and foreignpolicy.com, I do have
+
+341
+00:23:24,440 --> 00:23:30,240
+an article coming out next month which an MIT's Undark magazine, it's a science magazine
+
+342
+00:23:30,240 --> 00:23:34,660
+at MIT where they asked me to write about something I didn't include in the book.
+
+343
+00:23:34,660 --> 00:23:40,440
+So it's a chapter about how DARPA was responsible for creating the first national climate program
+
+344
+00:23:40,440 --> 00:23:44,760
+and most of our understanding today about climate change and global warming comes from
+
+345
+00:23:44,760 --> 00:23:50,400
+DARPA's concerns about the Soviet Union and what they were doing with nuclear weapons
+
+346
+00:23:50,400 --> 00:23:51,880
+back in the 1960s.
+
+347
+00:23:51,880 --> 00:23:53,120
+So that's what's up next.
+
+348
+00:23:53,120 --> 00:23:54,120
+Fantastic.
+
+349
+00:23:54,120 --> 00:23:57,960
+And let me ask you the last question that I ask all my guests, that if you come across
+
+350
+00:23:57,960 --> 00:24:03,600
+an intelligent alien from a different civilization, what would you say as the worst thing humanity
+
+351
+00:24:03,600 --> 00:24:06,640
+has done and what would you say as our greatest achievement?
+
+352
+00:24:06,640 --> 00:24:10,960
+I would say warfare is the worst thing.
+
+353
+00:24:10,960 --> 00:24:15,120
+The best achievement is ending warfare, which we haven't quite accomplished yet.
+

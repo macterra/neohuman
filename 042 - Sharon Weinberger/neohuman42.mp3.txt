@@ -1,0 +1,353 @@
+So although I applaud the private companies, whether it's, you know, what Elon Musk or
+Jeff Bezos is doing, and I think it's incredible in that you need the private sector to take
+things, to make them economically competitive.
+Those companies could not exist without government funding and more to the point without DARPA
+funding Hello and welcome to the 42nd episode of Neohuman
+Podcast.
+I'm Agabahari at Agologist on Twitter and Instagram and you can follow the show on LiveInLimbo.com,
+iTunes and YouTube.
+With me today I have Sharon Weinberger.
+Welcome to the show Sharon.
+Thank you.
+Thanks for having me.
+Sharon Weinberger, why don't we start with your background, the work you've done and
+what are you focusing on mostly these days?
+So I'm a national security journalist and these days an editor at Foreign Policy Magazine.
+Most of my career has focused on writing on the intersection of science and technology
+and national security.
+That's been the vast majority of what I've written about over the years to include this
+book on DARPA.
+Great.
+Yes, you have a new book out called the Imagineers Award, the untold story of DARPA, the Pentagon
+agency that changed the world.
+So what is DARPA and where did it all begin?
+So DARPA is the Defense Advanced Research Projects Agency.
+It's an agency that was created in 1958 amid the political turmoil of October 1957 when
+the Soviet Union launched Sputnik, the world's first artificial satellite and this sort of
+became a political crisis because it represented to the American public and particularly to
+President Eisenhower's critics that the United States had fallen behind the Soviet Union
+in the space race and that the Soviets were advancing militarily as well.
+So amid this crisis, President Eisenhower authorized the creation of this new agency,
+the Advanced Research Projects Agency, whose primary goal would be to get America into
+space.
+So ARPA, as it was called at the time, was the nation's first space agency.
+This predated the creation of NASA.
+It sort of vacuumed up all of the space programs with this singular goal in mind.
+So can we consider moon landing ultimately the result of the creation of DARPA?
+In some ways, very much yes.
+So there's a caveat to that.
+DARPA, the D for defense was added in 1972, but let's just call it DARPA for consistency.
+They actually, they held the space programs for about a year and a half before losing
+them, first with the creation of NASA, which took over civilian space, and then eventually
+the military services, the Air Force, Navy, and Army sort of won a bureaucratic battle
+to get their space programs back.
+But even those initial programs that DARPA created in those first years were very critical.
+So the Saturn rocket, which took the astronauts to the moon, was the sort of the child of
+the first director of DARPA, who went to Werner von Braun and said he wanted to fund this
+rocket program.
+And the similar thing can be said about internet, correct?
+Because it started with ARPANET.
+Yes, absolutely.
+So the one thing that really cemented DARPA's reputation, and probably the reason it still
+exists today, because you know, agencies come and go, was that DARPA was very involved,
+and this goes back to the early 1960s, in creating the first computer networking program,
+which by the late 1960s became ARPANET, which was the first linking of computers around
+the country.
+When this was transitioned to the civilian world under the National Science Foundation,
+it became the internet.
+That's very much something that DARPA can claim credit for and is what cemented its
+sort of modern reputation as an innovation powerhouse.
+So you mentioned that DARPA started as a part of a Cold War, the Cold War ended more than
+20 years.
+What is the role of DARPA today, and what are they mostly focused on right now, today?
+That's an excellent question.
+The hardest period of DARPA's existence, because a lot of what my book does is charts the ups
+and downs of DARPA's history, whether it's the Vietnam War, or the height of the Cold
+War.
+So after the fall of the Soviet Union in the 1990s was really DARPA's in some ways most
+depressing period, because here you have an agency that was created to keep us technologically
+ahead of the Soviet Union, and then the Soviet Union doesn't exist.
+So they went through sort of this depressing and turbulent period where they tried to reinvent
+themselves as sort of a dual-use agency, you know, maybe we can focus more on civilian
+projects.
+It didn't work well.
+They sort of had failed or irrelevant project after failed and irrelevant project.
+And then after 9-11, they in some senses tried to reinvent, you had a new enemy, you know,
+the war on terror was sort of the ups and downs of that.
+And they had something of a resurgence, but they're struggling now.
+One of the things that they tried to focus on under the last few years was neuroscience,
+trying to treat injuries from traumatic brain injury, basically a lot of the injuries that
+soldiers suffered from roadside bombs in Iraq and Afghanistan, also treatment for post-traumatic
+stress disorder.
+So you see a lot of references to exotic projects funded by DARPA for brain chips.
+One of the things that they just turned again now to very much in the past year is hypersonic
+weapons.
+They're sort of, first of all, the current director of DARPA managed hypersonic weapons
+programs back when he was a program manager at DARPA.
+So he has a very direct interest in it.
+And you have with sort of the war of words with Vladimir Putin, sort of this resurgent
+interest on new exotic weapons.
+And you know, hypersonic weapons, these are weapons, you know, whether aircraft or missiles
+that travel many times the speed of sound is sort of in the news again.
+And that's what DARPA is pushing.
+And I think it's worth mentioning that DARPA overall is a pretty small agency.
+They have around, I think, three billion dollars in budgets and less than 200 people personnel,
+correct?
+Yes.
+And it's sort of interesting because those numbers sort of don't tell the whole story.
+So on one hand, you know, three billion or 3.2 billion is maybe one tenth of NASA's budget.
+But what makes DARPA's three billion dollars so powerful is it's not committed to programs.
+You know, NASA is spending, you know, X amount on the International Space Station.
+It can't just move money around.
+DARPA can and will very quickly start up new projects and can allocate tens of millions
+or, you know, some cases even, you know, a hundred of millions of dollars to something
+new or innovative.
+In terms of the personnel, yes, it is sort of interesting that DARPA has grown a lot
+over the years.
+When I was going through the archives, DARPA in the 1960s, which in some ways was its most
+innovative period, the roster of DARPA personnel could fit on an index card.
+And now it's a small phone book because you have under 200 employees of DARPA, but they
+also employ now sort of an arsenal of private contractors who provide everything from technical
+support to administrative support.
+But yet still, this is much leaner than most parts of government.
+Recently, we had a news that Google is aiding Department of Defense with their drones with
+Google's AI technology.
+What are the chances of private sector to completely replace DARPA and maybe even extend
+on the role that DARPA is playing in the government today?
+I don't think in any sense it can replace DARPA because DARPA's role is unique.
+You know, it is at the end of the day, it is to develop weapons and technology for the
+Pentagon.
+So DARPA itself doesn't create these things.
+It funds these things, you know, whether at private companies like Google or at smaller
+companies.
+DARPA is the program, man, it's sort of the organizer of this funding.
+I mean, even for Google, when it's working on artificial intelligence for the military,
+it's not like it sits in its R&D lab and creates something for the military.
+It's directed by someone.
+So that's one thing.
+One of the things that has changed over the years is, you know, most of our modern computer
+science departments and companies can trace their lineage directly back to DARPA.
+In the 1960s, when DARPA got into computer science, it was the only player in the, you
+know, it was the player, you know, there was no one else out there.
+But DARPA now has other areas, you know, like neuroscience, like hypersonics.
+You don't have a lot of private sector funding going into hypersonic weapons or hypersonic
+flight.
+So it's essentially, you know, what areas can DARPA move the needle in?
+You know, it still does good work in computer science, but it's very tiny compared to what
+goes on in the private sector.
+But to answer your question directly, no, I don't think the private sector can replace
+DARPA.
+DARPA is what has traditionally funded the private sector in areas that the private sector
+is not yet ready to invest in.
+Yeah, the reason I ask, because the space exploration program, there are a lot of private
+sector players on it now, like SpaceX.
+And NASA has taken advantage of their...
+That's a great point.
+But let me address something very specifically on that SpaceX.
+Its programs would not exist were it not for the government and specifically NASA, they're
+building on billions of dollars of government money that has gone into rocket science over
+the years.
+So although I applaud the private companies, whether it's, you know, what Elon Musk or
+Jeff Bezos is doing, and I think it's incredible, and that you need the private sector to take
+things to make them economically competitive, those companies could not exist without government
+funding and more to the point without DARPA funding.
+So let me ask you this.
+How much of our commercial and consumer technology today is a direct or indirect result of research
+and production by the DOD, the Department of Defense, and how much of that is the result
+of DARPA?
+So I think it'd be hard to quantify, you know, whenever someone tries to quantify something,
+I get these long reports that I find sort of methodologically flawed.
+What we can do is...
+So let's take an example, you know, sometimes, you know, DARPA officials will over-claim
+that cell phones, the microelectronics in cell phones, all trace back to DARPA.
+When I actually went back and interviewed some of the program managers, they're actually,
+they're much more modest.
+There are some microelectronics in cell phones that went to DARPA, but it's not that DARPA
+enabled the entire cell phone industry, but it certainly played a role in it.
+Certainly the internet with ARPANET was very direct to DARPA.
+If you want to talk about government innovations, modern satellite navigation, GPS, was a Navy
+project with actually at one point DARPA involvement in the very early years of the 1950s with
+a predecessor satellite.
+GPS navigation, you know, maybe it would have existed at some point in history, but we wouldn't
+have the GPS constellation today, but obviously it's a military system without DARPA, without
+DOD, and without government involvement.
+You know, so you can look across the spectrum of the things that we use in our everyday
+lives.
+Cell phones, internet, GPS navigation, drones is another example.
+Drones dates back directly to DARPA funding for projects starting as early as the 1960s
+and going through the 1990s.
+Again, it's not saying that drones never would have existed without DARPA, but they wouldn't
+have been this boom that they are now and certainly not on this time scale without DARPA's
+early funding for it.
+So I don't know how to quantify that except to say that, you know, if you look anecdotally
+at the projects, it's quite significant.
+Talk a little about why did you write the book at this point?
+Why did you think that this was a necessary book to be written now?
+So in two parts, the first was that, you know, as someone who's written about Pentagon science
+and technology for almost two decades now, you know, DARPA is both the most important
+and most intriguing player in this, both in terms of the amount of funding it has and
+this very unique role it's played in funding everything from oddball projects to very successful
+projects and some very, very unsuccessful ones as well.
+Just to be clear, this is a critical history of DARPA as they've had their ups and downs.
+And I've been talking with friends for a long time about, you know, what would a history
+of DARPA tell us?
+You know, is it as successful as it claims?
+And if so, why is it successful and is it still as successful?
+And so these sort of questions intrigued me and, you know, DARPA is not a good narrator
+of its own past.
+They commissioned one internal history in 1975 that was so good, so detailed and so
+critical that when it was done, the new director of DARPA basically classified it and locked
+it up in a safe for a decade.
+So they're not good since then of chronicling their own history.
+So the opportunity to go back through the archival records, to sue the Pentagon for
+records, to interview the former directors was really this opportunity to say like, okay,
+so is it as good as it claims it is?
+And to be honest, it's a mixed legacy.
+It's some great successes and some incredible failures.
+One of our listeners, Fritz Harald from Canada has a two part question he starts with.
+Since every technology is evolved from a military context, is technology tainted by design
+and therefore harmful to our future in the end?
+And is using billions of tax dollars annually to further military tools good for our society?
+And are we getting a good return on our investment financially and socially?
+Oh, that's a great question.
+So one of the things that I talk about, and one of the reasons I'm so drawn to these
+question of the military and science is that question, you know, the military funded science
+is very successful.
+It's very good at producing technologies in part because the Pentagon needs things.
+It needs to blow things up.
+It needs to create aircraft, you know, and so if you think those are good things, then
+military funded science is very good.
+If you're critical of, you know, drone warfare, if you're critical of the military technologies
+are created, then it's not a good thing.
+So I don't make a value judgment in that.
+What I try to point out to people is there is a consequence to having military funded
+science.
+It takes science and technology in different directions than civilian science, and so that
+is a judgment we have to make as a country.
+I raise this at the end of the book with neuroscience, where there are these very troubling ethical
+questions of having the military involved in neuroscience and medical research because
+the military has very different interests.
+They wish to, you know, I mean, be careful how I phrase that.
+The military's job is to, you know, basically defend the United States, which in many cases
+is through conducting warfare, and so is that an appropriate place to have a large part
+of your country's neuroscience research funded from.
+There are consequences to who funds research, and we have to be at least understand what
+the consequences are when we make decisions about whether that's good or bad.
+Is there any alternative though, because now we're hearing about how China is advancing
+in artificial intelligence and they have the three best supercomputers in the world.
+Is there really any way that we can imagine that the Department of Defense in the United
+States at one point would be like, okay, we're not really in a competition, we just want
+to serve our people in our country?
+Yeah, so there is, so if we take it down to the science and technology question, one of
+the reasons you don't have a DARPA in Europe or Japan or in many other countries is they're
+very wary of having the military fund science and technology.
+And it's funny because you have this sort of ongoing revolving door of European politicians
+and bureaucrats coming to visit DARPA because they're fascinated by the DARPA model and
+wanting the successes of DARPA, but they absolutely know it would not be possible politically
+to have a military funded science and technology agency of DARPA scope in Europe or in Japan.
+To the China question is different, so I'm first of all a bit of a skeptic, I mean I
+think China's making great advances in this area, but I think there's a lot of hype surrounding
+Chinese advances in artificial intelligence and hypersonics, I think a lot of it is over
+right.
+Why do you think that is?
+First of all, because it's happened in the past, part of the history of the book that
+I cover is when the, it comes straight from the past, in the 1980s DARPA wanted to convince
+Congress to fund a billion dollar initiative in artificial intelligence.
+And so it went to Japan, which at the time was sort of the boogeyman that China is now,
+and toured their computer science and their artificial intelligence initiatives.
+And they came back and essentially lied, and you know I have the interviews where they
+talk about this, where they said, yes Japan is on the very verge of making artificial
+intelligence.
+Japan was nowhere near that, it's nowhere near that now, and so I see that again with
+China.
+China has very advanced computer science, but it is not on the verge of creating artificial
+intelligence, and frankly neither are we, it's being used in a sense for people who
+wish to hype their budgets to the United States, and you know is that good or bad?
+You know if it advances computer science, people do what they think is effective.
+And they've been successful in hyping it then.
+They have been very successful.
+What do you see as the biggest national security threat or threats to the United States today?
+Oh wow, I think the biggest threat to national security is ourselves, in the sense that we
+have been at war now for approaching 17 years, and we have a generation in the United States
+that have grown up thinking that it's normal to always be at war.
+And you see these same debates in Israel about concerns about generations now in Israel who
+think that warfare is normal.
+You know warfare, I am for a strong national security, I am for a strong military, but
+the goal of a strong national security and the goal of a strong military is to not be
+at war.
+And I'm very concerned about a mentality in the United States where we accept this
+as normal.
+It should not be normal, this should be the exception.
+I'm originally from Iran, you mentioned Israel and I always found Israel fascinating because
+they made so much with so little amount of resources that they had scientifically and
+technologically and it served their military and national defense.
+How do you see the future of countries like Iran or Saudi Arabia that they haven't invested
+as much on science and technology as a western country?
+How do you see the future of countries like that?
+A science and technology base is a very hard thing to buy, you have to invest in it.
+So yeah, let's take Saudi Arabia for an example which has spent a lot of money on its military
+on an advanced technology and you know look where it's ended them up in a long protracted
+war in Yemen that is a humanitarian disaster and it's not been particularly successful
+for Saudi Arabia either.
+I'm not an expert in Saudi Arabia but I'm guessing their science and technology base
+is not something that's been invested that heavily in.
+I could be wrong, I'm not familiar with the extent of different areas, different faculties
+at universities in Saudi Arabia but I'm willing to guess they've spent a lot on procuring
+military technology and not a lot on investing basic science.
+Because basically spending to buy technology is not going to replace investing to develop
+it locally.
+Well not just developing it but again having a science base, you know if you look at DARPA,
+if you look at the DARPA model, I mean some of what DARPA does is it does develop weapons
+but a lot of what it funds is in the science base for the future, you know in microelectronics,
+in biology, in areas that aren't going to necessarily result in an aircraft tomorrow
+next year or even in the next decade but there are things that advance our knowledge about
+the world.
+Is there a big picture objective or rather philosophy for DARPA or perhaps the DoD?
+There is, you know DARPA the motto that they've used in many recent years, going back several
+decades now, is preventing technological surprise and now in the sort of the post-Cold War era
+they sort of add and creating technological surprise.
+I think that they are struggling a bit in the post-Soviet you know world of what is
+our mission because we don't have a technological peer.
+You know now with the hype of China they can kind of hang their hat on that but it's still
+difficult, we're still much more advanced than China when it comes to military technology
+despite what you know you might see in the newspapers and magazines.
+Well as you said hype is beneficial to people who are getting the money.
+As it's always been everywhere in the private sector and in government and in national security
+and to a certain extent it's understandable but you have to at least be a little bit wary
+of what people are claiming.
+Yeah fair enough, as data is becoming the most valuable commodity how do you see the
+relation between humans and military evolve in the coming years and decades?
+You know so it's funny as you can kind of get the sense, I'm a bit of a technology
+skeptic in some ways, DARPA has invested a lot in data, it's certainly very important
+for the military, there's sometimes a tendency to wish a little too much out of this data.
+There was this program in Afghanistan where they were going to collect all of the data
+because you know the U.S. military has so much data, they have intelligence collected
+by the National Security Agency, they had aircraft going all over Afghanistan mapping
+every bit of terrain, they had social science data, I mean just as they tried to collect
+all this data and make predictions about where the next insurgent attack would be, what village
+would fall to the Taliban, it didn't really do a lot of good, I don't know what to say
+other than data isn't knowledge.
+Okay fair enough, what is next for you and where can people find about your work?
+Sure, so what's next for me is I've been toying with the idea of doing a military history
+of artificial intelligence to talk about some of the subjects that we've just spoken about.
+Really what it means when the military is the greatest funder of artificial intelligence
+and how that put in our country and Japan and China artificial intelligence on different
+trajectories.
+You know Japan went very different directions, not altogether successfully either with its
+artificial intelligence programs.
+So that's what I've been thinking about working on for a next book, but to be honest
+I'm still in sort of the formative stages of thinking about the framing of that.
+These days I mostly edit at Foreign Policy Magazine and foreignpolicy.com, I do have
+an article coming out next month which an MIT's Undark magazine, it's a science magazine
+at MIT where they asked me to write about something I didn't include in the book.
+So it's a chapter about how DARPA was responsible for creating the first national climate program
+and most of our understanding today about climate change and global warming comes from
+DARPA's concerns about the Soviet Union and what they were doing with nuclear weapons
+back in the 1960s.
+So that's what's up next.
+Fantastic.
+And let me ask you the last question that I ask all my guests, that if you come across
+an intelligent alien from a different civilization, what would you say as the worst thing humanity
+has done and what would you say as our greatest achievement?
+I would say warfare is the worst thing.
+The best achievement is ending warfare, which we haven't quite accomplished yet.
