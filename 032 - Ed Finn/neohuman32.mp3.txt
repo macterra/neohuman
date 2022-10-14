@@ -1,0 +1,1032 @@
+flocks of birds flying together
+and creating these elaborate structures,
+even though each bird individually is not that intelligent,
+isn't making a lot of decisions,
+but there are these complex patterns
+that come out of swarm behavior,
+or the way that water, oceans, waves,
+all of the different patterns we observe there.
+There are people who say that computation is the key
+to unlocking all of these systems,
+and that actually they're all effectively
+computational systems.
+So that's the sort of really ambitious claim
+to say the universe is a giant computer.
+Hello, and welcome to the 32nd episode of Neo Human Podcast.
+I'm Agab Bahari, an agologist on Twitter and Instagram,
+and you can follow the show on liveinlimbo.com,
+iTunes, and YouTube.
+With me today is Ed Finn. Welcome to the show, Ed.
+Thank you for having me.
+It's my pleasure. Why don't we start by talking a little
+about your background, the works that you've done,
+and what you're focusing on now these days?
+Sure. So my background is in literature
+and also in journalism.
+I started out my first career working for Time,
+Slate, Popular Science, and I did some freelance writing.
+And my sort of academic background
+started in comparative literature,
+and I did some computer science and some creative writing.
+And then in graduate school, I went to Stanford,
+and I got my PhD in Contemporary American Literature,
+but still had a computational focus,
+and I got involved in what some people
+call digital humanities,
+so how we can use computation to explore questions
+in literature, questions in culture.
+And so all of that was the framing for the job
+that I have now. I'm an assistant professor
+at Arizona State University,
+and I'm also the founding director
+of the Center for Science and the Imagination there,
+which is its own cool and weird thing.
+And that string of interest is also what led me
+to write this new book,
+What Algorithms Want, Imagination in the Age of Computers.
+Excuse me, in the age of computing.
+I should know my own title better.
+And so, yeah, I've always been interested
+in the intersection of computation, technology,
+and the ways in which that changes how we read and write,
+how we think, how it changes fundamentally
+what it means to be human.
+What made you interested in the beginning,
+in digital humanity, as you explained?
+Were you one of those kids who were watching sci-fi shows,
+and how much difference do you see from the time
+that you were yourself much younger than now?
+I was definitely a kid who watched sci-fi shows.
+I loved Star Trek. I grew up with the next generation.
+I read lots of science fiction when I was a kid.
+One of the most amazing things about my job, my career now,
+is that I get to work occasionally with some of these writers
+that I grew up with, people like Neal Stephenson.
+I think one of the things that has changed since my childhood
+is how much more intimate most of our lives
+have become with technology.
+You think about a computer.
+In the 1960s, the computer was something
+that was cordoned off in a special room,
+and nobody was allowed in there
+unless you were one of the in-crowd.
+And then it was something that went onto our desktop,
+and then it was in our laps,
+and now the computers are in our pants.
+They're getting more and more intimate with us every day.
+And you can see that transition culturally, too,
+even in a show like Star Trek,
+where the computer was something that lived
+maybe in the wall or on the ship somewhere,
+but it wasn't nearly as personal as the relationships
+we all have with our machines now.
+Mm-hmm.
+How far away from how do you think we are now at this point?
+That's a really interesting question.
+I think we're still pretty far away
+from the kind of general intelligence AI
+that Hal imagined so powerfully.
+And that story, there is a handful of stories about AI
+that stick with us.
+Hal is one of them.
+Terminator is one of them.
+And I think one of the things we're gonna need to grapple
+with in the next few years is telling new
+and different stories about AI
+that match up more to what we're actually gonna get.
+So I think we're still a pretty long way away from Hal,
+but we're getting very close to
+and living with in a lot of ways
+these more limited kinds of computational intelligence,
+Siri, the kinds of intelligence
+that a system like Google has
+that might not be so obvious to us as the users,
+but are actually very important
+to creating the experiences that we now depend on.
+Right.
+Your book is about algorithms.
+What is an algorithm?
+That is an excellent question.
+One of the reasons I started writing this book
+is that it's actually a word that's not that well-defined.
+So there's a very clear mathematical grounding.
+And if you look at the proofs of computation
+that Alan Turing and Alonzo Church
+and others have developed over the years,
+algorithm is a concept that comes out of those proofs
+about what they call effective computability,
+the space of mathematical problems that can be resolved,
+that can be predictably resolved
+within a finite amount of time.
+And so an algorithm is basically just the method
+by which you solve one of those problems.
+But if you look at how an engineer,
+a computer scientist uses algorithm today,
+they might just define that word
+as a method to solve a problem.
+Well, that's incredibly open-ended
+and it doesn't necessarily involve computers at all.
+Baking a cake might be an algorithm.
+Rotating your crops and different kinds
+of agricultural methods might be algorithms.
+And so that got me really interested.
+A lot of what the book is about is the gap
+between this mathematical, very ideal computational notion
+of what algorithms are and what they do
+and the ways that they work in the real world,
+the complications and the workarounds and the hacks
+and the different conflicts and manipulations
+that algorithms have to go through
+to make them usable for real life.
+So one example is you think about UPS delivering
+all of those packages every day and the routing,
+the algorithms that determine how
+to most efficiently solve that problem.
+There's a math problem called
+the traveling salesman problem.
+That's the idealized version of this
+where you have a bunch of points in space
+and you have to figure out the most efficient way
+to get between them.
+And you can write a solution to that problem
+in, I don't know, maybe half a page or a page
+of computer code, but the solution that UPS has to use
+for real life is a thousand pages long
+because life is complicated.
+And there are apartment buildings
+that don't have anyone who's gonna answer the door
+and people have pets that are gonna bite you
+and you can't turn left
+because it takes so long to turn left at stoplights.
+There are all sorts of interesting adaptations.
+And I suspect that that algorithm
+is probably changed all the time
+to adapt to all kinds of emergent problems
+and changing situations.
+Is the algorithm changes by itself
+or are the operators changing it
+based on the data they receive?
+I think it's probably both.
+I think that one thing that a lot of these companies
+are working towards is algorithms that can adapt
+and evolve more effectively on their own,
+but they're still always humans in the loop.
+And especially many of the problems
+with the more sophisticated algorithms today
+are kind of boundary condition issues
+where the design of the program initially
+just didn't consider a whole set of problems
+or maybe the problems that didn't crop up
+in the training data that they use
+to create whatever this algorithm was.
+And so you can't solve that problem
+with the system that you created
+because the problem by definition is outside of the system.
+And so then you need humans to come in
+and sort of figure out how you're gonna compromise
+between the world of computation
+and the world of human culture.
+It's very difficult.
+And I think more and more we're getting to a point
+that we have to start discussing these things, right?
+One of the very obvious examples,
+I think the effect of automation on job markets
+that a lot of people don't think
+that it's because of automation.
+They think it's because of, I don't know,
+maybe low minimum wage
+or China is stealing our jobs or something like that.
+The reality is that these algorithms and machines
+and automation are taking more and more and more
+of our lives, making it easier.
+But at the same time, a lot of people argue
+that they're also very intrusive and invasive
+and threatening their privacy,
+whatever the definition of privacy is anymore.
+Yeah, that's right.
+I think that we're in this sea change.
+Everything is changing through computation.
+There's this layer of computation
+that's popping up more and more interfaces
+between us and the world and that's having profound effects.
+And we're not telling very good stories about that.
+So in terms of labor and the changes to the labor market,
+I agree, right now there's this weird nostalgia,
+this myth that we can somehow take manufacturing jobs
+in North America back to where they were
+in the 1950s or the 1960s.
+And that's not gonna happen,
+that those jobs don't exist in the same way.
+Manufacturing is not the same industry that it was
+50 years ago.
+And the kinds of changes that had incredible effects,
+often really destructive effects
+in places like the steel belt in the United States,
+those kinds of changes are coming
+to many other industries now.
+We're already hearing about robo cars.
+Uber has a bunch of robo cars driving around my offices
+in Tempe and Arizona.
+And there are many people who drive vehicles
+who are gonna be displaced in different ways.
+And so we need to start telling new stories
+about these very practical
+and short-term consequences of automation.
+Because those people are gonna be displaced,
+but there are gonna be other kinds of work emerging as well.
+Algorithms are not only going to solve problems,
+they also create lots of problems
+that can become new opportunities for employment.
+But we need to think about those consequences.
+We need to think about how that's all gonna play out.
+Do algorithms exist in nature?
+And if so, can they be considered as examples of orders
+that's been resulted out of chaos
+through the process of the revolutions?
+So this is really an interesting question
+and sort of a profound, almost a religious question.
+So there are people who think that computation
+and that complexity is a basic model
+through which we can understand all the...
+Let me start again.
+There are people who believe that computation
+is a model we can use to understand all forms of complexity.
+So patterns, simple rule sets that create complex behaviors.
+So if you imagine the flocks of birds flying together
+and creating these elaborate structures,
+even though each bird individually is not that intelligent,
+isn't making a lot of decisions,
+but there are these complex patterns
+that come out of swarm behavior,
+or the way that water, oceans, waves,
+all of the different patterns we observe there.
+There are people who say that computation is the key
+to unlocking all of these systems
+and that actually they are all effectively
+computational systems.
+So that's the sort of really ambitious claim to say
+the universe is a giant computer,
+that consciousness and cognition,
+our brains really are computers.
+They're not just like computers,
+they actually are computers.
+And digital.
+And digital, right.
+And once we have sufficiently sophisticated
+modeling capabilities and we understand more
+of how this machine called the brain works,
+how this machine called the universe works,
+we're going to be able to unlock the keys
+of all kinds of different scientific knowledge.
+So I'm not sure that I believe that,
+but I think it's a really interesting question.
+And I think you can see the ambition of that
+being played out in much more practical terms right now
+in the kinds of things that technology companies,
+the ethos of Silicon Valley is bringing forward.
+They want to make everything effectively computable.
+Driving a car, finding a date, predicting the stock market,
+running companies, one of the world's largest hedge funds,
+announced its plans to try and automate a major part
+of its day-to-day management of the company.
+And you're going to see that kind of automation taking place.
+So that's not industrial automation,
+this is knowledge, knowledge work automation.
+And that's going to be a huge transformative thing
+over the next decade or two.
+So I think algorithms,
+if you buy the analogy,
+are you familiar with the game of life?
+There's this sort of mathematical game
+that this guy, John Conway, a mathematician came up with
+that basically just says, what if we imagined
+a set of cells as little squares in a grid
+and cells can interact with one another?
+So coming up with this very simple model
+of how life evolves or life interacts with other life.
+Three or four rules, I think only.
+Yeah, exactly, yeah.
+And just with that tiny rule set of this very, very simple,
+simplified model of how life can work,
+you can do these incredible things.
+You can make complex systems.
+I have a picture in my book of somebody
+who actually built a Turing machine,
+which is sort of Alan Turing's classic groundbreaking model
+of how a computational system would actually work.
+Somebody's built a Turing machine in the game of life.
+So that might be an example of an algorithm working in mixture.
+Your book is titled,
+What Algorithms Won Imagination in the Age of Computing?
+What do algorithms want and how are we contributing
+to what they want as users of those algorithms?
+So I offer a couple of different answers
+to that question in the book,
+but I think that the most compelling one centers
+on the roots that algorithms have in our long running quest
+for knowledge.
+So I tie the notion of computation
+to the much older history of the enlightenment
+in Western Europe and this transformative moment
+when humans said, we're no longer going
+to center the universe around God.
+We're going to center the universe around knowledge
+and understanding that we can build out.
+We may not be very good at it.
+It may take us a long time.
+There may be many false steps,
+but we can gradually construct this understanding
+of the universe that's built on rationalism,
+scientific observation, reproducible work.
+And so in one way, and so there's a quest
+for knowledge embedded in there,
+a quest to understand the universe
+that human curiosity is all about.
+And I suggest that there's a pairing of that.
+So one thing is to understand the world around you
+and the other thing is to understand yourself.
+So there's this twin quest for knowledge.
+These are the things that we as humans always wanna do.
+And of course, they overlap a lot
+only by understanding the world.
+Can you understand yourself and vice versa?
+So algorithms want that.
+And in a lot of ways,
+what they wanna do is to do it for us.
+I talk in the book about Google.
+Google has this set of ambitions
+for helping people on the quest for knowledge.
+And Google actually talks about when you type something
+into Google, they've used this phrase a lot
+in their discussions about what they're trying to do.
+They say this, we wanna help the user
+on their quest for knowledge.
+So you may not have known that's what you were doing
+when you were looking at dog food prices on Google,
+but that's what you were doing,
+engaging on a quest for knowledge.
+But Google says they want their systems to reason,
+to converse and to anticipate.
+And the first two are sort of standard,
+near-term science fiction.
+We want a computer that understands
+what we're talking about.
+We want a computer that can talk back to us.
+This is like the Star Trek computer.
+But the third thing is really interesting
+because if Google is anticipating what we want,
+then Google is wanting what we want before we do,
+figuring out what we want before we do.
+If you think about the auto-complete function
+in Google, for example,
+I don't know if you've ever had this experience.
+Sometimes when I'm typing something into Google,
+it pops up with its auto-complete suggestion
+and it's not quite what I was going to ask,
+but it's sort of close enough.
+I'm lazy enough to say, okay, I'll search for that instead.
+Or, hey, thousands of other people ask this version
+of the question, maybe this version
+is better than my version.
+And so those are small instances
+of this kind of anticipation
+where the quest for knowledge is now something
+that algorithms are doing for us.
+So algorithms want to know everything about the universe
+and they want to know everything about us.
+And how do you see the combination
+of internet of things and big data on one hand
+and machine learning and artificial intelligence
+on the other, which it's kind of the timing
+of all of these developments at this time
+is very interesting that they're all happening
+at the same time in this level.
+How do you see they're shaping the future of us as a specie?
+So I think that they're all happening
+at the same time for a very good reason.
+They're all very interdependent.
+You can't do this kind of powerful,
+massive big machine learning project
+without big data to feed it,
+without the many, many results,
+many, many data points to train your models more effectively.
+This is how systems like Siri work.
+This is how Google Translate works.
+They need huge quantities of user data
+in order to train the systems that they're creating.
+And so the consequence of that is that
+we're quantifying more and more of our lives.
+We're putting more and more cameras
+and microphones into our lives.
+All of these new, the latest trend is sort of the Alexa
+and the Google Home systems,
+which are designed for convenience,
+but they're also designed to get more data into the cloud.
+So we have more training sets to understand
+how to build these interactive systems.
+And so there's some very profound consequences for that,
+for humans, for our species as we do more of this.
+And one of them is that our lived existence
+is now more and more diffuse.
+We're more and more of what we think of as our identity,
+our presence, our lives lives online.
+If you think about already,
+if you, for many people,
+and I use this example with my students,
+if you lose your smartphone or you break your smartphone,
+you might feel like a part of you is missing.
+You feel somehow diminished as a person, right?
+And somehow the smartphone is more than just a tool,
+it's actually an extension of ourselves.
+Or if you've ever had that experience of the phantom ring
+or the phantom vibration
+where you thought your phone was ringing,
+it's like a phantom limb, you know?
+There's a, so there's this interesting
+cultural proprioception thing that goes on
+where we extend ourselves into our tools in different ways.
+And so as the tools we're using
+are no longer just physically proximate things
+that we have around things that are on our persons,
+but now live in the cloud that are connected
+to these much bigger and more amorphous webs,
+the sense of who we are as individuals
+is getting complicated in different ways.
+So there's this sort of blurring of the lines
+between the individual and the collective,
+but the sense of collective is mediated through computation.
+We might get into a stranger's car
+if you're using a ride sharing service like Uber or Lyft,
+and you're trusting that stranger
+in a fairly important way.
+Maybe you're doing this late at night,
+you're getting into some random stranger's car
+in a strange city,
+but you're not trusting the stranger directly,
+you're actually trusting the algorithm
+that tells you the stranger is okay.
+And that it's only through that mediating step
+that the whole transaction is possible.
+And I find that really interesting that it's computation,
+our species is a fundamentally social species
+and how we structure our society,
+the tools we're using to interact with one another.
+More and more of them are computational,
+they're adaptive and they have their own kinds of agency.
+They're not just transparent conduits,
+they're actually making different kinds of choices
+and filtering information in important ways.
+And that's gonna really change what it means to be human
+as an individual and as a member of broader groups.
+One of the factors of, I think, being a human,
+I keep hearing it again and again,
+is ethics and morality,
+that the people who agree with it,
+they believe that it's a tool
+that we have developed as a species,
+that maybe is not objective,
+but it's something that is needed
+if you're going to, for example,
+develop a kind of artificial intelligence
+that we can rely on the decisions that it's gonna make,
+that it's gonna be in our favor.
+Do you think there could be an algorithm
+for ethics and morality?
+Do you think ethics and morality is objective
+and can be made into algorithms?
+Well, I think people make,
+encode ethical and moral judgments
+into algorithms every day.
+Every algorithm comes with different forms of bias,
+whether that's conscious bias
+or unconscious bias, subconscious bias.
+We're always making moral choices
+in the ways that we build the systems that we build.
+So it happens all the time.
+And I think the question of objectivity
+is very alluring and dangerous,
+because we want to believe that these systems are fair.
+We want to believe that they're objective.
+And precisely because they're not human,
+we can trust them in ways
+that we wouldn't necessarily trust humans.
+But these systems are flawed
+because they're always designed by humans
+and they're always gonna encode the failings
+of the humans who create them.
+So I think that what's really interesting
+and powerful about computation
+is that we can be more transparent
+about the moral choices that we are making
+and that we're encoding.
+We can be more transparent
+about the way that we create the rules.
+Now, that doesn't happen very often.
+Now, most of the really important computational systems,
+the big commercial systems that we're all using
+are walled off and protected.
+They're in black boxes
+and nobody wants to say anything
+about how they actually work
+until something really bad happens.
+And then it becomes obvious
+what kinds of decisions are being made.
+And I think that needs to change.
+There needs to be more transparency around,
+especially this kind of stuff,
+the moral and ethical judgments
+that are encoded or the decision structures
+that are encoded into these systems.
+Yeah, because I'm thinking about
+one of the most horrible things
+that anybody can do is kill somebody else.
+So we consider killing as a bad thing,
+but we're killing each other every day, right?
+Yes, yeah, absolutely.
+And the dilemma that exists now is,
+and one side I can understand
+that automation, for example, in military
+can be good because soldiers don't have to die.
+But at the same time,
+how are you going to define this robot soldier
+to understand who he can kill, who he cannot kill?
+What are the differences?
+And because I don't think we humans know
+about these kinds of things ourselves either.
+We're kind of on our autopilot.
+Yeah, well, if you think about
+military training and the sort of
+hierarchical structure of a battlefield,
+it takes a lot of work to actually create a soldier
+who is prepared to do that, make those decisions.
+And certainly the US military thinks quite a lot
+about this question of autonomous,
+lethal autonomous technologies,
+technologies that can actually kill people
+without necessarily an active human decision at each stage.
+And one argument that gets floated a lot is like,
+well, the US might do it, but somebody is going to do it.
+Somebody is going to build a killer robot.
+And I think that in some ways,
+clearly we all can sense the unease
+and we all know about the warning signs.
+We all know about the Terminator movies.
+And you can see how things can go really, really dark
+if you pursue this thing, if you pursue this line of argument.
+But it's also worth thinking about all of the ways
+in which computation as infrastructure
+is already making decisions like this.
+There's something as mundane as a city's traffic signals
+and traffic control system.
+There are ways that system might be geared
+towards more efficiency or more safety.
+And we've all probably, many people have heard now
+about the notion of the trolley problem and robocars.
+Is your robot car going to decide to save you
+as the driver or the owner of the vehicle?
+Or is it going to save the pedestrians?
+If it could save three lives,
+is it going to make that choice instead of saving one life?
+And so this notion of computation
+making life and death decisions,
+I think is already real in different ways.
+I don't know, I think there's something again,
+existential and sort of deeply troubling
+about the notion of autonomous, intelligent systems
+that are out there ready to kill human beings.
+But the way we'll get there is the way we've gotten
+as far as we have already,
+which is thinking about these systems
+that are not just computation,
+but they're computation combined with policy,
+combined with human judgment.
+And people sort of thinking of that as a big switchboard
+with different levers and buttons.
+And people will keep pushing the combinations
+and pushing the envelope until they get to some result
+that they want to.
+So that's how people will rationalize
+their way into killer robots.
+Any technology seems to be working the best
+in the societies that adapted it the best.
+How are we doing as a society adapting to technology?
+Because we may be using smartphones every day,
+but we're not really using them to their full capacity.
+We might not really understand what's going on
+in this phone and the power that it has
+and the power that we have in our hands
+and we just using it for mundane tasks.
+Well, I think that there's an ironic twist
+on William Gibson's famous quote,
+the future is here, it's just not evenly distributed.
+All right.
+And the future is here in our pockets,
+but it's not evenly accessed.
+And so I argue that that's not actually
+the biggest problem though.
+The biggest problem is that the rates of adaptation
+are very different in different markets.
+So in consumer culture and consumer products,
+we adopt these new products very quickly
+and it might take us a while to figure out how to use them,
+but we're still using them.
+Figuring out how the legal system,
+how political systems need to change
+to adapt to these new technologies,
+how social realities change, that's much harder
+and it takes a much longer time.
+And that's where we're starting to see real problems
+between the pace of technological change
+and the social consequences,
+the legal, the ethical consequences of that change.
+Do you think our systems, political system,
+education system, financial system also needs to change
+because all these technologies that we are adapting as humans?
+Well, financial market seems to be adapting the best
+out of all of them,
+but political system and judicial system
+seems to be being left behind.
+Well, I think that these other systems are changing.
+I think if you look at the last two
+U.S. presidential elections,
+technology played a huge role in each of them.
+And in many ways...
+But none of the candidates talked about
+artificial intelligence or automation.
+And I've had this conversation
+with a couple of guests on the show
+that I don't really know if they didn't mention it
+because they just didn't know about it
+or didn't consider it important,
+or they just didn't mention it
+because their audience wouldn't care
+as much as they would care about other things.
+Well, I don't know why they didn't talk about it more.
+I think that my guess would be that
+because it's such an unknown, it's a dangerous topic.
+It's hard to, if you're a politician trying to win votes,
+it's probably hard to win votes by talking about AI
+because there's nothing you can say
+that's gonna make people more sympathetic to you.
+Right.
+You know, so avoid it.
+But in the terms of the mechanics
+of how politics actually works,
+it's clear that social media, targeted advertising,
+big data have all had a huge impact
+on how politics works.
+They had a huge impact on the result of this past election.
+And that's not even talking about the seeming cyber attack,
+cyber espionage aspect of this past election.
+So, you know, in many ways, the game,
+the political game has really been transformed.
+People are actually still trying to figure out
+how to deal with it.
+If you think about more extreme examples,
+like say the Arab Spring where,
+or many other contemporary revolutionary efforts
+around the world where social media was essential
+to organizing and motivating people to get out there.
+But of course, on the flip side,
+it also presents the whole new range of opportunities
+for authoritarian states to spy on people
+and to identify, you know, those who are against them.
+So, you know, things are changing really fast.
+Maybe the most interesting example of this is China,
+which has somehow succeeded
+in creating a largely separate internet
+or an internet that maintains fairly powerful state
+censorship and control, kind of soft censorship mechanisms.
+I'm fascinated by this citizenship score
+that China has introduced and is gradually gonna be
+implementing over the next few years,
+which basically, you know, gives you a numerical ranking
+of your value and your status as a citizen in China.
+I had no idea about that.
+Can you expand on that?
+Yeah, and so I'm not an expert on this.
+I hope I don't get anything wrong.
+But basically, it's a number that tells you, you know,
+whether you're being a good citizen or a bad citizen.
+And as it was initially laid out,
+if you had a good number,
+you could also get certain perks.
+You know, you might get faster service at the airport
+or other kinds of things, or maybe you could.
+And of course, it initially sounded
+incredibly Orwellian to me.
+But then I realized that it's basically 80% of it
+is more or less what a credit score is in the United States.
+And if you think about it,
+a credit score is also a fairly arbitrary number
+that has a huge impact on your life.
+It determines whether you can buy a house or get a loan.
+It may impact what kind of a job you can get.
+It has all sorts of consequences.
+It's very opaque.
+It's very centralized.
+It's very difficult to understand how it actually works
+or how to change your score or improve it.
+So the only difference is that in China,
+they take that financial concept.
+And so maybe think about the credit score in the US
+in a more dystopian way.
+But in China, they take that and then they add on things
+like, well, if you're ordering too many video games
+or playing too many video games,
+your citizenship score may suffer
+because that's not really civic behavior.
+That's amazing.
+It's also exactly like a episode of Black Mirror.
+Yes, I feel like the overall Black Mirror quotient
+of reality is rapidly increasing.
+Yeah, it's an interesting time to be alive.
+Ed's book is called
+What Algorithms Want Imagination in the Age of Computing.
+What made you want to write this book now?
+Well, I feel that we need to understand
+how these systems work better.
+So my fundamental call to action in the book
+is that we need to learn how to read algorithms
+because algorithms are reading us all the time.
+And so I don't mean by that that everybody has to go out
+and learn how to program.
+I mean that we need to understand a little bit more
+about computational thinking and systems thinking,
+how these different systems shape
+our understanding of reality.
+And there's some very simple lessons.
+When you think about the beautiful interfaces
+and just push this one button
+to make everything better in your life,
+which is what a lot of the rhetoric
+around high-tech apps and computation boils down to,
+whenever that happens, there's a whole set of things
+that are hidden away or pushed off
+that are not on the menu.
+And so starting to think about what's on the menu
+and what's off the menu is one really important lesson
+so that we don't just become passive consumers
+or unquestioning consumers
+of these different technologies
+and the social assumptions and social notions
+that they embed within them.
+But we start to think about what else is possible,
+what other options there might be.
+And that's really important because if we want to avoid
+simply being the products,
+when you use a website like Facebook or Google,
+for the most part, we are the products
+that those companies are selling to advertisers.
+So if we want to be more than products,
+we need to learn how to become more active
+and more engaged with these systems that we're using.
+And I would assume the more knowledge that the user has
+about the system that they're using,
+the systems also will change according to that knowledge
+and become better and more adaptable.
+Yeah, and this is a really profound change.
+I think this is one of the first times that we have,
+computation, very broadly speaking,
+is the most complicated and interesting thing
+that humanity has ever constructed,
+at least in the space of technology.
+Maybe you want to argue that a great symphony
+or great work of art is more sophisticated.
+But in terms of technologies,
+the sort of broad network of computation
+is incredibly complicated, but it's also adaptive.
+And this is really new.
+We now have tools that are watching us as we use them
+and changing based on our behavior.
+And so that's a really novel situation for us to be in.
+It is a way in which we're now creating systems
+that are like the human mind
+in that they have a kind of plasticity.
+And that's really important to recognize and understand
+as we try to work out these literacies
+and figure out how we can be more engaged.
+Definitely.
+You're also the founding director of the center
+with the most awesome name ever for science
+and the imagination at Arizona State University.
+What is the connection between science and imagination
+and how good of a job are we doing
+educating the next generation
+about both science and imagination?
+I think that the connection is hugely important.
+The mission of the center is to get people thinking
+more creatively and ambitiously about the future
+because we do need to start thinking about the future
+as a set of possibilities, a spectrum of choices.
+And the things we do today are gonna determine
+which of those worlds we live in.
+We all have a responsibility
+in making the world that we want to happen happen.
+So I've started to think that
+and imagination is vital to this
+because if you ask a physicist or a poet,
+an engineer, an architect, a writer,
+they will all tell you that imagination is crucial
+to being successful in their field and their work.
+And yet we know very little about
+what imagination really is.
+We don't really try to measure it.
+We talk about it, we wave our hands about it
+but we don't really try to measure it
+or to support it and foster it.
+And in a lot of educational fields,
+it's really, you know, minimized, denigrated
+and more traditional educational modes
+often, you know, sort of beaten out of students
+so that they become less imaginative
+and more conformed to whatever, you know,
+curriculum they're being fed.
+And so the central argument of my work at the center
+is that we need to start thinking about imagination
+as a fundamental capacity that every human has.
+It's a fundamental resource that's a precursor
+to all the other things that make humans great.
+It's a precursor to creativity and innovation.
+It's a precursor to solving
+the huge complex problems that we have
+because if you can't think of the impossible,
+if you can't make up a new word
+that's gonna describe the solution to the problem,
+you're never gonna solve the problem.
+And so that's the kind of work
+that I think we need to advance more.
+We need to start thinking about
+how we identify this resource, how we support it,
+how we build networks so that people are getting mentored
+and we're celebrating imagination as a thing on its own
+and not just something that's applied.
+You know, you don't just recognize it
+in particular imaginative works or projects,
+but we actually start to think about the capacity
+behind those particular outcomes.
+Absolutely, it's very important.
+Do you think algorithms or computing in general
+can ultimately address the subject of purpose?
+I think that computation can force us
+to address the subject of purpose.
+You know, as we build...
+So, you know, one of the long-term outcomes of automation
+is going to be that we're required to do
+less of the road tasks that we do now.
+We can outsource more things.
+Already, we outsource a lot of our memory.
+You know, when I was growing up,
+I needed to remember my phone number
+and my friend's phone numbers, parents' phone numbers.
+Now, nobody remembers any phone numbers anymore.
+That's something that we've more or less
+completely outsourced to computation.
+It's a very simple example,
+but we're doing more and more of that.
+I'm really, I always use the example
+of how birthdays have changed because of Facebook.
+You know, once upon a time,
+if you remembered a friend's birthday,
+that was like a meaningful thing,
+and it was significant, and you know,
+only your really good friends
+would actually remember your birthday.
+Now, everybody knows about your birthday,
+and it's become this weird...
+It's just a notification.
+Yeah, it's this kind of weird ritual
+where you have like hundreds of people
+sort of feel obligated to say happy birthday,
+but do they even really mean it?
+And, you know, so it's just a totally, it's totally changed.
+So, I think that as we outsource more
+of our basic knowledge work,
+basic thinking tasks,
+basic memory tasks to computation,
+we're gonna really be forced to ask ourselves,
+well, what do we wanna do?
+What should we be spending our time on?
+And I think that, you know,
+computation has this purpose
+that I think is fairly clear,
+to make everything tractable by computation,
+to make everything computable.
+And whether that is humanity's purpose or not,
+I think remains to be seen.
+We need to decide, you know,
+how far we wanna invest our culture and ourselves
+in a world where everything is computable
+and things that are not computable
+effectively don't exist.
+And to what extent we wanna think about
+a world that is symbiotic, you know,
+because I don't think there's any unringing this bell.
+We're not gonna burn all the computers
+and go back to a 19th century way of life.
+That's just never gonna happen.
+That's just never gonna happen.
+Unless, you know, we really screw things up
+and then it's not gonna be a choice.
+This is gonna be an apocalypse.
+But I don't think that's gonna happen.
+I think that we're gonna need to decide
+when we wanna celebrate, you know, analog,
+direct human to human contact, lived experience,
+live experience, live performance,
+being present in the moment
+in a way that's not mediated by computation.
+And I think those moments are gonna become
+more and more precious as they become more rare.
+I'm an optimist myself.
+I think we're living in the best time in human history.
+And, you know, it's not perfect, but what is perfect?
+You know, we have to define perfect at first.
+And I think technology has been equalizing
+access to information clearly much better than anything.
+And I think we just headed towards better days.
+I think there's great reason for optimism.
+And this is, I talk a lot about thoughtful optimism.
+This is another one of our mantras
+at the Center for Science and Imagination.
+And thoughtful optimism, the way we talk about it,
+means not just that everything is gonna be great,
+but that if we are thoughtful and if we work at it,
+if we explore the full possibility space
+of what might happen,
+we can build towards the best possible future.
+We can work towards better things and avoid the bad things.
+But, you know, it's not gonna happen on its own.
+We have to work at it.
+We have to invest the energy in imagining different futures.
+And that's how we can make the world a better place.
+Yeah, we have great tools,
+but the source of creativity still comes from us.
+So it depends on us how we use those tools.
+Yeah, and, you know, we have to learn how to recognize
+the limitations of our tools as well as their powers,
+because they can be incredibly seductive, you know,
+because they can seem so powerful
+and they encode a lot of creativity and imagination in them.
+But we need to learn
+when we have to bring something extra to the table
+and when to see the boundaries of the powers
+that different computational tools give us.
+Very true.
+The book is called
+What Algorithms Want Imagination in the Age of Computing
+by Ed Finn.
+Let me ask you a question that I ask all my guests.
+If you come across an intelligent alien
+from a different civilization,
+what would you say as humanity's greatest achievement
+and what would you say as the worst thing
+humanity has done?
+Well, I think our greatest achievement
+is in creating a space for imagination
+and recognizing this fundamental capacity
+and not trying to optimize it out of human culture
+in some way.
+You know, even though many people have tried
+in different ways, I think the very messiness,
+the fecund, crazy, overflowing diversity
+of human creativity, intellectual thought,
+artistic practice, science, technology, business,
+you know, that is a great strength for us.
+And I think it's remarkable in a lot of ways
+that we've been able to maintain that
+and not destroy the world somehow.
+But I think that, you know,
+that imagination, there's a moral imagination too.
+And that has been the thing, you know,
+you can imagine these crucial moments
+like the Cuban Missile Crisis
+where a moral imagination intervened
+and people, you know, took the step back
+from the precipice before something really awful happened
+or all of the untold stories, you know, in the Cold War,
+there are several times when a flock of birds
+or strange clouds or something else
+set off the alarm bells in the Soviet Union or the US
+and it looked like, you know,
+a fleet of bombers was coming to attack
+and some human being had to sit there and say,
+no, you know, we're not gonna just push the button.
+We're not gonna escalate this and counter attack
+even though the system was saying, you know,
+that's what you have to do.
+So I'd say that's our great strength.
+And I'd say our great weakness is the opposite of that,
+is when we become so enamored of our systems
+that we forget who we are, you know,
+and we are so seduced by our creations
+that we conform ourselves into them.
+We wrap ourselves up, we try and squeeze ourselves
+into these little black boxes that we've created.
+And that's when I think we lose something essential
+and that's when, you know,
+sometimes those are ideological boxes.
+You know, you think about World War II
+and that's when we lose our humanity
+and we can become terrible, terrible machines.
+And that's when we lose our humanity and we can become terrible, terrible machines.

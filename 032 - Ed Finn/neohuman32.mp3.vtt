@@ -1,0 +1,3098 @@
+WEBVTT
+
+00:00.000 --> 00:01.680
+flocks of birds flying together
+
+00:01.680 --> 00:03.420
+and creating these elaborate structures,
+
+00:03.420 --> 00:06.300
+even though each bird individually is not that intelligent,
+
+00:06.300 --> 00:08.960
+isn't making a lot of decisions,
+
+00:08.960 --> 00:11.100
+but there are these complex patterns
+
+00:11.100 --> 00:12.680
+that come out of swarm behavior,
+
+00:12.680 --> 00:14.860
+or the way that water, oceans, waves,
+
+00:14.860 --> 00:17.540
+all of the different patterns we observe there.
+
+00:17.540 --> 00:21.060
+There are people who say that computation is the key
+
+00:21.060 --> 00:22.900
+to unlocking all of these systems,
+
+00:22.900 --> 00:25.180
+and that actually they're all effectively
+
+00:25.180 --> 00:26.700
+computational systems.
+
+00:26.700 --> 00:29.020
+So that's the sort of really ambitious claim
+
+00:29.020 --> 00:31.700
+to say the universe is a giant computer.
+
+00:31.700 --> 00:44.100
+Hello, and welcome to the 32nd episode of Neo Human Podcast.
+
+00:44.100 --> 00:47.700
+I'm Agab Bahari, an agologist on Twitter and Instagram,
+
+00:47.700 --> 00:50.580
+and you can follow the show on liveinlimbo.com,
+
+00:50.580 --> 00:52.620
+iTunes, and YouTube.
+
+00:52.620 --> 00:56.540
+With me today is Ed Finn. Welcome to the show, Ed.
+
+00:56.540 --> 00:57.740
+Thank you for having me.
+
+00:57.740 --> 01:00.460
+It's my pleasure. Why don't we start by talking a little
+
+01:00.460 --> 01:02.700
+about your background, the works that you've done,
+
+01:02.700 --> 01:05.540
+and what you're focusing on now these days?
+
+01:05.540 --> 01:11.180
+Sure. So my background is in literature
+
+01:11.180 --> 01:12.620
+and also in journalism.
+
+01:12.620 --> 01:17.860
+I started out my first career working for Time,
+
+01:17.860 --> 01:22.460
+Slate, Popular Science, and I did some freelance writing.
+
+01:22.460 --> 01:26.460
+And my sort of academic background
+
+01:26.460 --> 01:27.940
+started in comparative literature,
+
+01:27.940 --> 01:31.260
+and I did some computer science and some creative writing.
+
+01:31.260 --> 01:34.260
+And then in graduate school, I went to Stanford,
+
+01:34.260 --> 01:38.340
+and I got my PhD in Contemporary American Literature,
+
+01:38.340 --> 01:40.660
+but still had a computational focus,
+
+01:40.660 --> 01:43.020
+and I got involved in what some people
+
+01:43.020 --> 01:44.740
+call digital humanities,
+
+01:44.740 --> 01:48.620
+so how we can use computation to explore questions
+
+01:48.620 --> 01:51.380
+in literature, questions in culture.
+
+01:51.380 --> 01:55.340
+And so all of that was the framing for the job
+
+01:55.340 --> 01:57.740
+that I have now. I'm an assistant professor
+
+01:57.740 --> 01:59.860
+at Arizona State University,
+
+01:59.860 --> 02:01.460
+and I'm also the founding director
+
+02:01.460 --> 02:03.980
+of the Center for Science and the Imagination there,
+
+02:03.980 --> 02:07.300
+which is its own cool and weird thing.
+
+02:07.300 --> 02:10.980
+And that string of interest is also what led me
+
+02:10.980 --> 02:13.420
+to write this new book,
+
+02:13.420 --> 02:18.020
+What Algorithms Want, Imagination in the Age of Computers.
+
+02:18.020 --> 02:19.300
+Excuse me, in the age of computing.
+
+02:19.300 --> 02:21.060
+I should know my own title better.
+
+02:21.060 --> 02:26.060
+And so, yeah, I've always been interested
+
+02:26.140 --> 02:29.900
+in the intersection of computation, technology,
+
+02:29.900 --> 02:32.900
+and the ways in which that changes how we read and write,
+
+02:32.900 --> 02:35.940
+how we think, how it changes fundamentally
+
+02:35.940 --> 02:37.660
+what it means to be human.
+
+02:37.660 --> 02:39.380
+What made you interested in the beginning,
+
+02:39.380 --> 02:41.660
+in digital humanity, as you explained?
+
+02:41.660 --> 02:44.300
+Were you one of those kids who were watching sci-fi shows,
+
+02:44.300 --> 02:48.060
+and how much difference do you see from the time
+
+02:48.060 --> 02:51.340
+that you were yourself much younger than now?
+
+02:52.460 --> 02:55.860
+I was definitely a kid who watched sci-fi shows.
+
+02:55.860 --> 02:58.820
+I loved Star Trek. I grew up with the next generation.
+
+02:58.820 --> 03:02.220
+I read lots of science fiction when I was a kid.
+
+03:02.220 --> 03:06.140
+One of the most amazing things about my job, my career now,
+
+03:06.140 --> 03:09.340
+is that I get to work occasionally with some of these writers
+
+03:09.340 --> 03:12.140
+that I grew up with, people like Neal Stephenson.
+
+03:13.140 --> 03:16.540
+I think one of the things that has changed since my childhood
+
+03:16.540 --> 03:20.220
+is how much more intimate most of our lives
+
+03:20.220 --> 03:21.380
+have become with technology.
+
+03:21.380 --> 03:24.100
+You think about a computer.
+
+03:24.100 --> 03:25.940
+In the 1960s, the computer was something
+
+03:25.940 --> 03:28.340
+that was cordoned off in a special room,
+
+03:28.340 --> 03:29.500
+and nobody was allowed in there
+
+03:29.500 --> 03:33.740
+unless you were one of the in-crowd.
+
+03:33.740 --> 03:36.260
+And then it was something that went onto our desktop,
+
+03:36.260 --> 03:37.380
+and then it was in our laps,
+
+03:37.380 --> 03:39.220
+and now the computers are in our pants.
+
+03:39.220 --> 03:41.700
+They're getting more and more intimate with us every day.
+
+03:41.700 --> 03:45.060
+And you can see that transition culturally, too,
+
+03:45.060 --> 03:46.780
+even in a show like Star Trek,
+
+03:46.780 --> 03:49.220
+where the computer was something that lived
+
+03:49.220 --> 03:51.420
+maybe in the wall or on the ship somewhere,
+
+03:51.420 --> 03:56.340
+but it wasn't nearly as personal as the relationships
+
+03:56.340 --> 03:58.900
+we all have with our machines now.
+
+03:58.900 --> 03:59.740
+Mm-hmm.
+
+03:59.740 --> 04:03.660
+How far away from how do you think we are now at this point?
+
+04:03.660 --> 04:06.540
+That's a really interesting question.
+
+04:06.540 --> 04:09.780
+I think we're still pretty far away
+
+04:09.780 --> 04:13.780
+from the kind of general intelligence AI
+
+04:13.780 --> 04:18.780
+that Hal imagined so powerfully.
+
+04:19.340 --> 04:22.060
+And that story, there is a handful of stories about AI
+
+04:22.060 --> 04:22.900
+that stick with us.
+
+04:22.900 --> 04:23.780
+Hal is one of them.
+
+04:23.780 --> 04:25.900
+Terminator is one of them.
+
+04:25.900 --> 04:28.700
+And I think one of the things we're gonna need to grapple
+
+04:28.700 --> 04:30.860
+with in the next few years is telling new
+
+04:30.860 --> 04:32.180
+and different stories about AI
+
+04:32.180 --> 04:34.700
+that match up more to what we're actually gonna get.
+
+04:34.700 --> 04:38.340
+So I think we're still a pretty long way away from Hal,
+
+04:38.340 --> 04:40.540
+but we're getting very close to
+
+04:40.540 --> 04:42.220
+and living with in a lot of ways
+
+04:42.220 --> 04:46.340
+these more limited kinds of computational intelligence,
+
+04:46.340 --> 04:49.780
+Siri, the kinds of intelligence
+
+04:49.780 --> 04:52.620
+that a system like Google has
+
+04:52.620 --> 04:55.340
+that might not be so obvious to us as the users,
+
+04:55.340 --> 04:56.740
+but are actually very important
+
+04:56.740 --> 05:00.100
+to creating the experiences that we now depend on.
+
+05:00.100 --> 05:00.940
+Right.
+
+05:00.940 --> 05:02.220
+Your book is about algorithms.
+
+05:02.220 --> 05:04.340
+What is an algorithm?
+
+05:04.340 --> 05:06.140
+That is an excellent question.
+
+05:06.140 --> 05:08.020
+One of the reasons I started writing this book
+
+05:08.020 --> 05:12.620
+is that it's actually a word that's not that well-defined.
+
+05:12.620 --> 05:17.620
+So there's a very clear mathematical grounding.
+
+05:17.620 --> 05:22.420
+And if you look at the proofs of computation
+
+05:22.420 --> 05:24.060
+that Alan Turing and Alonzo Church
+
+05:24.060 --> 05:26.860
+and others have developed over the years,
+
+05:26.860 --> 05:29.780
+algorithm is a concept that comes out of those proofs
+
+05:29.780 --> 05:32.540
+about what they call effective computability,
+
+05:32.540 --> 05:36.820
+the space of mathematical problems that can be resolved,
+
+05:36.820 --> 05:38.180
+that can be predictably resolved
+
+05:38.180 --> 05:39.620
+within a finite amount of time.
+
+05:39.620 --> 05:41.900
+And so an algorithm is basically just the method
+
+05:41.900 --> 05:44.740
+by which you solve one of those problems.
+
+05:44.740 --> 05:47.100
+But if you look at how an engineer,
+
+05:47.100 --> 05:49.380
+a computer scientist uses algorithm today,
+
+05:49.380 --> 05:51.620
+they might just define that word
+
+05:51.620 --> 05:53.380
+as a method to solve a problem.
+
+05:53.380 --> 05:55.380
+Well, that's incredibly open-ended
+
+05:55.380 --> 05:57.580
+and it doesn't necessarily involve computers at all.
+
+05:57.580 --> 05:59.860
+Baking a cake might be an algorithm.
+
+05:59.860 --> 06:01.780
+Rotating your crops and different kinds
+
+06:01.780 --> 06:04.180
+of agricultural methods might be algorithms.
+
+06:04.180 --> 06:06.820
+And so that got me really interested.
+
+06:06.820 --> 06:11.260
+A lot of what the book is about is the gap
+
+06:11.260 --> 06:16.260
+between this mathematical, very ideal computational notion
+
+06:18.260 --> 06:19.860
+of what algorithms are and what they do
+
+06:19.860 --> 06:22.100
+and the ways that they work in the real world,
+
+06:22.100 --> 06:26.180
+the complications and the workarounds and the hacks
+
+06:26.180 --> 06:30.100
+and the different conflicts and manipulations
+
+06:30.100 --> 06:31.380
+that algorithms have to go through
+
+06:31.380 --> 06:34.780
+to make them usable for real life.
+
+06:34.780 --> 06:38.540
+So one example is you think about UPS delivering
+
+06:38.540 --> 06:41.980
+all of those packages every day and the routing,
+
+06:41.980 --> 06:43.460
+the algorithms that determine how
+
+06:43.460 --> 06:45.660
+to most efficiently solve that problem.
+
+06:45.660 --> 06:47.460
+There's a math problem called
+
+06:47.460 --> 06:48.700
+the traveling salesman problem.
+
+06:48.700 --> 06:50.140
+That's the idealized version of this
+
+06:50.140 --> 06:51.780
+where you have a bunch of points in space
+
+06:51.780 --> 06:53.300
+and you have to figure out the most efficient way
+
+06:53.300 --> 06:54.540
+to get between them.
+
+06:55.660 --> 06:58.780
+And you can write a solution to that problem
+
+06:58.780 --> 07:01.300
+in, I don't know, maybe half a page or a page
+
+07:01.300 --> 07:06.100
+of computer code, but the solution that UPS has to use
+
+07:06.100 --> 07:08.140
+for real life is a thousand pages long
+
+07:08.140 --> 07:09.740
+because life is complicated.
+
+07:09.740 --> 07:12.020
+And there are apartment buildings
+
+07:12.020 --> 07:14.100
+that don't have anyone who's gonna answer the door
+
+07:14.100 --> 07:15.780
+and people have pets that are gonna bite you
+
+07:15.780 --> 07:16.780
+and you can't turn left
+
+07:16.780 --> 07:19.180
+because it takes so long to turn left at stoplights.
+
+07:19.180 --> 07:21.860
+There are all sorts of interesting adaptations.
+
+07:21.860 --> 07:23.660
+And I suspect that that algorithm
+
+07:23.660 --> 07:25.780
+is probably changed all the time
+
+07:25.780 --> 07:28.660
+to adapt to all kinds of emergent problems
+
+07:28.660 --> 07:29.700
+and changing situations.
+
+07:29.700 --> 07:31.980
+Is the algorithm changes by itself
+
+07:31.980 --> 07:34.460
+or are the operators changing it
+
+07:34.460 --> 07:36.460
+based on the data they receive?
+
+07:36.460 --> 07:38.260
+I think it's probably both.
+
+07:38.260 --> 07:42.060
+I think that one thing that a lot of these companies
+
+07:42.060 --> 07:45.540
+are working towards is algorithms that can adapt
+
+07:45.540 --> 07:47.940
+and evolve more effectively on their own,
+
+07:47.940 --> 07:50.380
+but they're still always humans in the loop.
+
+07:51.260 --> 07:54.340
+And especially many of the problems
+
+07:54.340 --> 07:56.500
+with the more sophisticated algorithms today
+
+07:56.500 --> 07:58.660
+are kind of boundary condition issues
+
+07:58.660 --> 08:01.460
+where the design of the program initially
+
+08:01.460 --> 08:04.500
+just didn't consider a whole set of problems
+
+08:04.500 --> 08:06.340
+or maybe the problems that didn't crop up
+
+08:06.340 --> 08:07.740
+in the training data that they use
+
+08:07.740 --> 08:09.660
+to create whatever this algorithm was.
+
+08:09.660 --> 08:12.820
+And so you can't solve that problem
+
+08:12.820 --> 08:14.140
+with the system that you created
+
+08:14.140 --> 08:17.340
+because the problem by definition is outside of the system.
+
+08:17.340 --> 08:18.900
+And so then you need humans to come in
+
+08:18.900 --> 08:23.060
+and sort of figure out how you're gonna compromise
+
+08:23.060 --> 08:24.860
+between the world of computation
+
+08:24.860 --> 08:27.500
+and the world of human culture.
+
+08:27.500 --> 08:28.540
+It's very difficult.
+
+08:28.540 --> 08:30.540
+And I think more and more we're getting to a point
+
+08:30.540 --> 08:33.900
+that we have to start discussing these things, right?
+
+08:33.900 --> 08:36.340
+One of the very obvious examples,
+
+08:36.340 --> 08:41.300
+I think the effect of automation on job markets
+
+08:41.300 --> 08:42.900
+that a lot of people don't think
+
+08:42.900 --> 08:44.340
+that it's because of automation.
+
+08:44.340 --> 08:45.740
+They think it's because of, I don't know,
+
+08:45.740 --> 08:49.620
+maybe low minimum wage
+
+08:49.620 --> 08:52.580
+or China is stealing our jobs or something like that.
+
+08:52.580 --> 08:55.540
+The reality is that these algorithms and machines
+
+08:55.540 --> 08:58.540
+and automation are taking more and more and more
+
+08:58.540 --> 09:00.180
+of our lives, making it easier.
+
+09:00.180 --> 09:02.700
+But at the same time, a lot of people argue
+
+09:02.700 --> 09:05.220
+that they're also very intrusive and invasive
+
+09:05.220 --> 09:08.220
+and threatening their privacy,
+
+09:08.220 --> 09:11.380
+whatever the definition of privacy is anymore.
+
+09:11.380 --> 09:12.420
+Yeah, that's right.
+
+09:12.420 --> 09:15.300
+I think that we're in this sea change.
+
+09:15.300 --> 09:17.460
+Everything is changing through computation.
+
+09:17.460 --> 09:19.700
+There's this layer of computation
+
+09:19.700 --> 09:21.540
+that's popping up more and more interfaces
+
+09:21.540 --> 09:25.900
+between us and the world and that's having profound effects.
+
+09:25.900 --> 09:28.500
+And we're not telling very good stories about that.
+
+09:28.500 --> 09:31.420
+So in terms of labor and the changes to the labor market,
+
+09:31.420 --> 09:36.100
+I agree, right now there's this weird nostalgia,
+
+09:36.100 --> 09:40.620
+this myth that we can somehow take manufacturing jobs
+
+09:40.620 --> 09:42.060
+in North America back to where they were
+
+09:42.060 --> 09:45.260
+in the 1950s or the 1960s.
+
+09:45.260 --> 09:46.980
+And that's not gonna happen,
+
+09:46.980 --> 09:48.660
+that those jobs don't exist in the same way.
+
+09:48.660 --> 09:52.060
+Manufacturing is not the same industry that it was
+
+09:52.060 --> 09:53.260
+50 years ago.
+
+09:53.260 --> 09:57.980
+And the kinds of changes that had incredible effects,
+
+09:57.980 --> 10:00.300
+often really destructive effects
+
+10:00.300 --> 10:03.620
+in places like the steel belt in the United States,
+
+10:03.620 --> 10:05.340
+those kinds of changes are coming
+
+10:05.340 --> 10:06.980
+to many other industries now.
+
+10:06.980 --> 10:10.500
+We're already hearing about robo cars.
+
+10:10.500 --> 10:13.740
+Uber has a bunch of robo cars driving around my offices
+
+10:13.740 --> 10:16.900
+in Tempe and Arizona.
+
+10:16.900 --> 10:19.580
+And there are many people who drive vehicles
+
+10:19.580 --> 10:22.460
+who are gonna be displaced in different ways.
+
+10:22.460 --> 10:24.540
+And so we need to start telling new stories
+
+10:24.540 --> 10:26.540
+about these very practical
+
+10:26.540 --> 10:29.660
+and short-term consequences of automation.
+
+10:30.580 --> 10:33.340
+Because those people are gonna be displaced,
+
+10:33.340 --> 10:37.020
+but there are gonna be other kinds of work emerging as well.
+
+10:37.020 --> 10:39.180
+Algorithms are not only going to solve problems,
+
+10:39.180 --> 10:40.940
+they also create lots of problems
+
+10:40.940 --> 10:44.260
+that can become new opportunities for employment.
+
+10:44.260 --> 10:46.220
+But we need to think about those consequences.
+
+10:46.220 --> 10:49.740
+We need to think about how that's all gonna play out.
+
+10:49.740 --> 10:52.380
+Do algorithms exist in nature?
+
+10:52.380 --> 10:56.140
+And if so, can they be considered as examples of orders
+
+10:56.140 --> 10:59.180
+that's been resulted out of chaos
+
+10:59.180 --> 11:02.340
+through the process of the revolutions?
+
+11:02.340 --> 11:05.260
+So this is really an interesting question
+
+11:05.260 --> 11:08.940
+and sort of a profound, almost a religious question.
+
+11:08.940 --> 11:13.940
+So there are people who think that computation
+
+11:13.940 --> 11:18.780
+and that complexity is a basic model
+
+11:18.780 --> 11:20.620
+through which we can understand all the...
+
+11:20.620 --> 11:21.900
+Let me start again.
+
+11:21.900 --> 11:23.740
+There are people who believe that computation
+
+11:23.740 --> 11:27.740
+is a model we can use to understand all forms of complexity.
+
+11:27.740 --> 11:32.540
+So patterns, simple rule sets that create complex behaviors.
+
+11:32.540 --> 11:37.140
+So if you imagine the flocks of birds flying together
+
+11:37.140 --> 11:38.900
+and creating these elaborate structures,
+
+11:38.900 --> 11:41.780
+even though each bird individually is not that intelligent,
+
+11:41.780 --> 11:44.460
+isn't making a lot of decisions,
+
+11:44.460 --> 11:46.620
+but there are these complex patterns
+
+11:46.620 --> 11:48.180
+that come out of swarm behavior,
+
+11:48.180 --> 11:50.380
+or the way that water, oceans, waves,
+
+11:50.380 --> 11:53.020
+all of the different patterns we observe there.
+
+11:53.020 --> 11:56.580
+There are people who say that computation is the key
+
+11:56.580 --> 11:58.420
+to unlocking all of these systems
+
+11:58.420 --> 12:00.700
+and that actually they are all effectively
+
+12:00.700 --> 12:02.220
+computational systems.
+
+12:02.220 --> 12:04.820
+So that's the sort of really ambitious claim to say
+
+12:04.820 --> 12:07.860
+the universe is a giant computer,
+
+12:07.860 --> 12:10.260
+that consciousness and cognition,
+
+12:10.260 --> 12:11.780
+our brains really are computers.
+
+12:11.780 --> 12:12.820
+They're not just like computers,
+
+12:12.820 --> 12:13.940
+they actually are computers.
+
+12:13.940 --> 12:15.300
+And digital.
+
+12:15.300 --> 12:16.780
+And digital, right.
+
+12:16.780 --> 12:20.900
+And once we have sufficiently sophisticated
+
+12:20.900 --> 12:25.380
+modeling capabilities and we understand more
+
+12:25.380 --> 12:28.980
+of how this machine called the brain works,
+
+12:28.980 --> 12:31.340
+how this machine called the universe works,
+
+12:31.340 --> 12:33.900
+we're going to be able to unlock the keys
+
+12:33.900 --> 12:37.780
+of all kinds of different scientific knowledge.
+
+12:37.780 --> 12:40.860
+So I'm not sure that I believe that,
+
+12:40.860 --> 12:43.180
+but I think it's a really interesting question.
+
+12:43.180 --> 12:46.140
+And I think you can see the ambition of that
+
+12:46.140 --> 12:49.940
+being played out in much more practical terms right now
+
+12:49.940 --> 12:53.220
+in the kinds of things that technology companies,
+
+12:53.220 --> 12:55.660
+the ethos of Silicon Valley is bringing forward.
+
+12:55.660 --> 12:58.260
+They want to make everything effectively computable.
+
+12:58.260 --> 13:02.860
+Driving a car, finding a date, predicting the stock market,
+
+13:02.860 --> 13:06.340
+running companies, one of the world's largest hedge funds,
+
+13:06.340 --> 13:09.860
+announced its plans to try and automate a major part
+
+13:09.860 --> 13:11.940
+of its day-to-day management of the company.
+
+13:13.300 --> 13:16.140
+And you're going to see that kind of automation taking place.
+
+13:16.140 --> 13:18.540
+So that's not industrial automation,
+
+13:18.540 --> 13:21.860
+this is knowledge, knowledge work automation.
+
+13:21.860 --> 13:24.740
+And that's going to be a huge transformative thing
+
+13:24.740 --> 13:26.740
+over the next decade or two.
+
+13:26.740 --> 13:28.740
+So I think algorithms,
+
+13:31.620 --> 13:34.100
+if you buy the analogy,
+
+13:34.100 --> 13:36.420
+are you familiar with the game of life?
+
+13:36.420 --> 13:41.420
+There's this sort of mathematical game
+
+13:42.180 --> 13:44.780
+that this guy, John Conway, a mathematician came up with
+
+13:44.780 --> 13:47.140
+that basically just says, what if we imagined
+
+13:47.140 --> 13:50.780
+a set of cells as little squares in a grid
+
+13:50.780 --> 13:52.420
+and cells can interact with one another?
+
+13:52.420 --> 13:54.100
+So coming up with this very simple model
+
+13:54.100 --> 13:57.860
+of how life evolves or life interacts with other life.
+
+13:57.860 --> 14:00.100
+Three or four rules, I think only.
+
+14:00.100 --> 14:02.020
+Yeah, exactly, yeah.
+
+14:02.020 --> 14:05.900
+And just with that tiny rule set of this very, very simple,
+
+14:05.900 --> 14:07.980
+simplified model of how life can work,
+
+14:07.980 --> 14:09.340
+you can do these incredible things.
+
+14:09.340 --> 14:11.420
+You can make complex systems.
+
+14:11.420 --> 14:12.940
+I have a picture in my book of somebody
+
+14:12.940 --> 14:15.140
+who actually built a Turing machine,
+
+14:15.140 --> 14:20.140
+which is sort of Alan Turing's classic groundbreaking model
+
+14:20.620 --> 14:23.460
+of how a computational system would actually work.
+
+14:23.460 --> 14:26.460
+Somebody's built a Turing machine in the game of life.
+
+14:26.460 --> 14:33.460
+So that might be an example of an algorithm working in mixture.
+
+14:33.940 --> 14:34.860
+Your book is titled,
+
+14:34.860 --> 14:38.020
+What Algorithms Won Imagination in the Age of Computing?
+
+14:38.020 --> 14:40.700
+What do algorithms want and how are we contributing
+
+14:40.700 --> 14:44.340
+to what they want as users of those algorithms?
+
+14:44.340 --> 14:47.500
+So I offer a couple of different answers
+
+14:47.500 --> 14:48.740
+to that question in the book,
+
+14:48.740 --> 14:53.180
+but I think that the most compelling one centers
+
+14:53.180 --> 14:57.260
+on the roots that algorithms have in our long running quest
+
+14:57.260 --> 14:58.220
+for knowledge.
+
+14:58.220 --> 15:01.860
+So I tie the notion of computation
+
+15:01.860 --> 15:05.300
+to the much older history of the enlightenment
+
+15:05.300 --> 15:08.340
+in Western Europe and this transformative moment
+
+15:08.340 --> 15:09.900
+when humans said, we're no longer going
+
+15:09.900 --> 15:13.100
+to center the universe around God.
+
+15:13.100 --> 15:15.140
+We're going to center the universe around knowledge
+
+15:15.140 --> 15:18.820
+and understanding that we can build out.
+
+15:20.380 --> 15:21.620
+We may not be very good at it.
+
+15:21.620 --> 15:22.740
+It may take us a long time.
+
+15:22.740 --> 15:24.100
+There may be many false steps,
+
+15:24.100 --> 15:27.500
+but we can gradually construct this understanding
+
+15:27.500 --> 15:30.980
+of the universe that's built on rationalism,
+
+15:30.980 --> 15:33.980
+scientific observation, reproducible work.
+
+15:35.140 --> 15:38.300
+And so in one way, and so there's a quest
+
+15:38.300 --> 15:39.860
+for knowledge embedded in there,
+
+15:39.860 --> 15:41.380
+a quest to understand the universe
+
+15:41.380 --> 15:43.460
+that human curiosity is all about.
+
+15:43.460 --> 15:47.260
+And I suggest that there's a pairing of that.
+
+15:47.260 --> 15:49.220
+So one thing is to understand the world around you
+
+15:49.220 --> 15:51.540
+and the other thing is to understand yourself.
+
+15:51.540 --> 15:53.980
+So there's this twin quest for knowledge.
+
+15:53.980 --> 15:56.420
+These are the things that we as humans always wanna do.
+
+15:56.420 --> 15:59.500
+And of course, they overlap a lot
+
+15:59.500 --> 16:02.100
+only by understanding the world.
+
+16:02.100 --> 16:04.420
+Can you understand yourself and vice versa?
+
+16:04.420 --> 16:06.380
+So algorithms want that.
+
+16:06.380 --> 16:07.620
+And in a lot of ways,
+
+16:07.620 --> 16:09.620
+what they wanna do is to do it for us.
+
+16:10.900 --> 16:13.380
+I talk in the book about Google.
+
+16:13.380 --> 16:16.980
+Google has this set of ambitions
+
+16:16.980 --> 16:19.940
+for helping people on the quest for knowledge.
+
+16:19.940 --> 16:22.540
+And Google actually talks about when you type something
+
+16:22.540 --> 16:25.620
+into Google, they've used this phrase a lot
+
+16:25.620 --> 16:27.660
+in their discussions about what they're trying to do.
+
+16:27.660 --> 16:29.260
+They say this, we wanna help the user
+
+16:29.260 --> 16:30.340
+on their quest for knowledge.
+
+16:30.340 --> 16:32.100
+So you may not have known that's what you were doing
+
+16:32.100 --> 16:36.900
+when you were looking at dog food prices on Google,
+
+16:36.900 --> 16:37.900
+but that's what you were doing,
+
+16:37.900 --> 16:40.340
+engaging on a quest for knowledge.
+
+16:40.340 --> 16:43.580
+But Google says they want their systems to reason,
+
+16:43.580 --> 16:45.620
+to converse and to anticipate.
+
+16:45.620 --> 16:49.020
+And the first two are sort of standard,
+
+16:49.020 --> 16:50.100
+near-term science fiction.
+
+16:50.100 --> 16:51.620
+We want a computer that understands
+
+16:51.620 --> 16:52.540
+what we're talking about.
+
+16:52.540 --> 16:54.540
+We want a computer that can talk back to us.
+
+16:54.540 --> 16:56.340
+This is like the Star Trek computer.
+
+16:57.460 --> 16:59.060
+But the third thing is really interesting
+
+16:59.060 --> 17:01.820
+because if Google is anticipating what we want,
+
+17:01.820 --> 17:05.100
+then Google is wanting what we want before we do,
+
+17:05.100 --> 17:07.940
+figuring out what we want before we do.
+
+17:07.940 --> 17:12.940
+If you think about the auto-complete function
+
+17:14.940 --> 17:15.940
+in Google, for example,
+
+17:15.940 --> 17:17.420
+I don't know if you've ever had this experience.
+
+17:17.420 --> 17:19.700
+Sometimes when I'm typing something into Google,
+
+17:19.700 --> 17:22.060
+it pops up with its auto-complete suggestion
+
+17:22.060 --> 17:24.660
+and it's not quite what I was going to ask,
+
+17:24.660 --> 17:26.820
+but it's sort of close enough.
+
+17:26.820 --> 17:30.220
+I'm lazy enough to say, okay, I'll search for that instead.
+
+17:30.220 --> 17:33.100
+Or, hey, thousands of other people ask this version
+
+17:33.100 --> 17:34.380
+of the question, maybe this version
+
+17:34.380 --> 17:36.100
+is better than my version.
+
+17:36.100 --> 17:38.100
+And so those are small instances
+
+17:38.100 --> 17:39.780
+of this kind of anticipation
+
+17:39.780 --> 17:41.940
+where the quest for knowledge is now something
+
+17:41.940 --> 17:44.020
+that algorithms are doing for us.
+
+17:44.020 --> 17:47.860
+So algorithms want to know everything about the universe
+
+17:47.860 --> 17:50.380
+and they want to know everything about us.
+
+17:50.380 --> 17:51.900
+And how do you see the combination
+
+17:51.900 --> 17:54.860
+of internet of things and big data on one hand
+
+17:54.860 --> 17:57.220
+and machine learning and artificial intelligence
+
+17:57.220 --> 17:59.620
+on the other, which it's kind of the timing
+
+17:59.620 --> 18:02.420
+of all of these developments at this time
+
+18:02.420 --> 18:04.020
+is very interesting that they're all happening
+
+18:04.020 --> 18:05.460
+at the same time in this level.
+
+18:05.460 --> 18:09.060
+How do you see they're shaping the future of us as a specie?
+
+18:10.580 --> 18:12.660
+So I think that they're all happening
+
+18:12.660 --> 18:14.540
+at the same time for a very good reason.
+
+18:14.540 --> 18:16.620
+They're all very interdependent.
+
+18:16.620 --> 18:19.620
+You can't do this kind of powerful,
+
+18:19.620 --> 18:23.620
+massive big machine learning project
+
+18:23.620 --> 18:25.500
+without big data to feed it,
+
+18:25.500 --> 18:27.780
+without the many, many results,
+
+18:27.780 --> 18:32.340
+many, many data points to train your models more effectively.
+
+18:32.340 --> 18:34.940
+This is how systems like Siri work.
+
+18:34.940 --> 18:36.460
+This is how Google Translate works.
+
+18:36.460 --> 18:39.020
+They need huge quantities of user data
+
+18:39.020 --> 18:43.300
+in order to train the systems that they're creating.
+
+18:43.300 --> 18:46.060
+And so the consequence of that is that
+
+18:46.060 --> 18:49.460
+we're quantifying more and more of our lives.
+
+18:49.460 --> 18:51.020
+We're putting more and more cameras
+
+18:51.020 --> 18:54.060
+and microphones into our lives.
+
+18:54.060 --> 18:57.100
+All of these new, the latest trend is sort of the Alexa
+
+18:57.100 --> 18:59.260
+and the Google Home systems,
+
+19:00.100 --> 19:01.820
+which are designed for convenience,
+
+19:01.820 --> 19:05.700
+but they're also designed to get more data into the cloud.
+
+19:05.700 --> 19:07.860
+So we have more training sets to understand
+
+19:07.860 --> 19:09.820
+how to build these interactive systems.
+
+19:10.820 --> 19:15.820
+And so there's some very profound consequences for that,
+
+19:17.020 --> 19:19.980
+for humans, for our species as we do more of this.
+
+19:19.980 --> 19:24.020
+And one of them is that our lived existence
+
+19:24.020 --> 19:26.540
+is now more and more diffuse.
+
+19:26.540 --> 19:29.780
+We're more and more of what we think of as our identity,
+
+19:29.780 --> 19:34.700
+our presence, our lives lives online.
+
+19:34.700 --> 19:37.100
+If you think about already,
+
+19:37.100 --> 19:38.860
+if you, for many people,
+
+19:38.860 --> 19:40.580
+and I use this example with my students,
+
+19:40.580 --> 19:43.820
+if you lose your smartphone or you break your smartphone,
+
+19:43.820 --> 19:45.620
+you might feel like a part of you is missing.
+
+19:45.620 --> 19:48.620
+You feel somehow diminished as a person, right?
+
+19:48.620 --> 19:50.620
+And somehow the smartphone is more than just a tool,
+
+19:50.620 --> 19:53.020
+it's actually an extension of ourselves.
+
+19:53.020 --> 19:56.060
+Or if you've ever had that experience of the phantom ring
+
+19:56.060 --> 19:57.220
+or the phantom vibration
+
+19:57.220 --> 19:58.740
+where you thought your phone was ringing,
+
+19:58.740 --> 20:00.580
+it's like a phantom limb, you know?
+
+20:00.580 --> 20:03.060
+There's a, so there's this interesting
+
+20:03.060 --> 20:06.060
+cultural proprioception thing that goes on
+
+20:06.060 --> 20:09.940
+where we extend ourselves into our tools in different ways.
+
+20:09.940 --> 20:12.220
+And so as the tools we're using
+
+20:12.220 --> 20:15.700
+are no longer just physically proximate things
+
+20:15.700 --> 20:18.500
+that we have around things that are on our persons,
+
+20:18.500 --> 20:21.740
+but now live in the cloud that are connected
+
+20:21.740 --> 20:25.060
+to these much bigger and more amorphous webs,
+
+20:25.060 --> 20:26.780
+the sense of who we are as individuals
+
+20:26.780 --> 20:29.620
+is getting complicated in different ways.
+
+20:29.620 --> 20:33.100
+So there's this sort of blurring of the lines
+
+20:33.100 --> 20:36.100
+between the individual and the collective,
+
+20:36.100 --> 20:40.220
+but the sense of collective is mediated through computation.
+
+20:41.260 --> 20:43.660
+We might get into a stranger's car
+
+20:43.660 --> 20:47.620
+if you're using a ride sharing service like Uber or Lyft,
+
+20:47.620 --> 20:49.300
+and you're trusting that stranger
+
+20:49.300 --> 20:52.060
+in a fairly important way.
+
+20:52.060 --> 20:53.540
+Maybe you're doing this late at night,
+
+20:53.540 --> 20:55.380
+you're getting into some random stranger's car
+
+20:55.380 --> 20:57.180
+in a strange city,
+
+20:57.180 --> 20:59.340
+but you're not trusting the stranger directly,
+
+20:59.340 --> 21:01.020
+you're actually trusting the algorithm
+
+21:01.020 --> 21:03.460
+that tells you the stranger is okay.
+
+21:03.460 --> 21:06.020
+And that it's only through that mediating step
+
+21:06.020 --> 21:09.300
+that the whole transaction is possible.
+
+21:09.300 --> 21:13.340
+And I find that really interesting that it's computation,
+
+21:13.340 --> 21:15.980
+our species is a fundamentally social species
+
+21:15.980 --> 21:17.980
+and how we structure our society,
+
+21:17.980 --> 21:20.900
+the tools we're using to interact with one another.
+
+21:20.900 --> 21:23.340
+More and more of them are computational,
+
+21:23.340 --> 21:26.780
+they're adaptive and they have their own kinds of agency.
+
+21:26.780 --> 21:28.940
+They're not just transparent conduits,
+
+21:28.940 --> 21:30.620
+they're actually making different kinds of choices
+
+21:30.620 --> 21:32.820
+and filtering information in important ways.
+
+21:33.740 --> 21:36.700
+And that's gonna really change what it means to be human
+
+21:36.700 --> 21:40.460
+as an individual and as a member of broader groups.
+
+21:40.460 --> 21:43.900
+One of the factors of, I think, being a human,
+
+21:43.900 --> 21:46.300
+I keep hearing it again and again,
+
+21:46.300 --> 21:47.820
+is ethics and morality,
+
+21:47.820 --> 21:49.220
+that the people who agree with it,
+
+21:49.220 --> 21:51.380
+they believe that it's a tool
+
+21:51.380 --> 21:53.500
+that we have developed as a species,
+
+21:53.500 --> 21:55.540
+that maybe is not objective,
+
+21:55.540 --> 21:57.820
+but it's something that is needed
+
+21:57.820 --> 21:59.300
+if you're going to, for example,
+
+21:59.300 --> 22:01.300
+develop a kind of artificial intelligence
+
+22:01.300 --> 22:03.980
+that we can rely on the decisions that it's gonna make,
+
+22:03.980 --> 22:05.860
+that it's gonna be in our favor.
+
+22:05.860 --> 22:08.540
+Do you think there could be an algorithm
+
+22:08.540 --> 22:09.700
+for ethics and morality?
+
+22:09.700 --> 22:12.100
+Do you think ethics and morality is objective
+
+22:12.100 --> 22:14.340
+and can be made into algorithms?
+
+22:15.420 --> 22:17.100
+Well, I think people make,
+
+22:17.100 --> 22:20.220
+encode ethical and moral judgments
+
+22:20.220 --> 22:21.940
+into algorithms every day.
+
+22:21.940 --> 22:26.340
+Every algorithm comes with different forms of bias,
+
+22:26.340 --> 22:27.820
+whether that's conscious bias
+
+22:27.820 --> 22:30.060
+or unconscious bias, subconscious bias.
+
+22:30.060 --> 22:34.340
+We're always making moral choices
+
+22:34.340 --> 22:36.940
+in the ways that we build the systems that we build.
+
+22:36.940 --> 22:38.620
+So it happens all the time.
+
+22:38.620 --> 22:40.860
+And I think the question of objectivity
+
+22:40.860 --> 22:45.860
+is very alluring and dangerous,
+
+22:47.180 --> 22:50.260
+because we want to believe that these systems are fair.
+
+22:50.260 --> 22:52.660
+We want to believe that they're objective.
+
+22:52.660 --> 22:54.500
+And precisely because they're not human,
+
+22:54.500 --> 22:55.740
+we can trust them in ways
+
+22:55.740 --> 22:58.620
+that we wouldn't necessarily trust humans.
+
+22:58.620 --> 23:00.740
+But these systems are flawed
+
+23:00.740 --> 23:02.580
+because they're always designed by humans
+
+23:02.580 --> 23:06.380
+and they're always gonna encode the failings
+
+23:06.380 --> 23:08.380
+of the humans who create them.
+
+23:08.380 --> 23:13.380
+So I think that what's really interesting
+
+23:13.420 --> 23:15.380
+and powerful about computation
+
+23:15.380 --> 23:17.540
+is that we can be more transparent
+
+23:17.540 --> 23:19.940
+about the moral choices that we are making
+
+23:19.940 --> 23:20.980
+and that we're encoding.
+
+23:20.980 --> 23:22.020
+We can be more transparent
+
+23:22.020 --> 23:24.100
+about the way that we create the rules.
+
+23:24.100 --> 23:25.700
+Now, that doesn't happen very often.
+
+23:25.700 --> 23:28.980
+Now, most of the really important computational systems,
+
+23:28.980 --> 23:31.300
+the big commercial systems that we're all using
+
+23:31.300 --> 23:34.180
+are walled off and protected.
+
+23:34.180 --> 23:35.380
+They're in black boxes
+
+23:35.380 --> 23:36.820
+and nobody wants to say anything
+
+23:36.820 --> 23:38.580
+about how they actually work
+
+23:38.580 --> 23:40.420
+until something really bad happens.
+
+23:40.420 --> 23:42.300
+And then it becomes obvious
+
+23:42.300 --> 23:45.300
+what kinds of decisions are being made.
+
+23:45.300 --> 23:46.540
+And I think that needs to change.
+
+23:46.540 --> 23:49.020
+There needs to be more transparency around,
+
+23:49.020 --> 23:50.260
+especially this kind of stuff,
+
+23:50.260 --> 23:52.660
+the moral and ethical judgments
+
+23:52.660 --> 23:56.300
+that are encoded or the decision structures
+
+23:56.300 --> 23:58.100
+that are encoded into these systems.
+
+23:59.100 --> 24:00.780
+Yeah, because I'm thinking about
+
+24:00.780 --> 24:02.740
+one of the most horrible things
+
+24:02.740 --> 24:05.060
+that anybody can do is kill somebody else.
+
+24:05.060 --> 24:08.740
+So we consider killing as a bad thing,
+
+24:08.740 --> 24:12.300
+but we're killing each other every day, right?
+
+24:12.300 --> 24:14.740
+Yes, yeah, absolutely.
+
+24:14.740 --> 24:18.700
+And the dilemma that exists now is,
+
+24:18.700 --> 24:21.620
+and one side I can understand
+
+24:21.620 --> 24:23.580
+that automation, for example, in military
+
+24:23.580 --> 24:27.340
+can be good because soldiers don't have to die.
+
+24:27.340 --> 24:28.500
+But at the same time,
+
+24:28.500 --> 24:33.500
+how are you going to define this robot soldier
+
+24:33.940 --> 24:37.060
+to understand who he can kill, who he cannot kill?
+
+24:37.060 --> 24:38.500
+What are the differences?
+
+24:38.500 --> 24:42.220
+And because I don't think we humans know
+
+24:42.220 --> 24:44.300
+about these kinds of things ourselves either.
+
+24:44.300 --> 24:46.300
+We're kind of on our autopilot.
+
+24:47.220 --> 24:50.100
+Yeah, well, if you think about
+
+24:50.100 --> 24:54.820
+military training and the sort of
+
+24:54.820 --> 24:58.300
+hierarchical structure of a battlefield,
+
+24:58.300 --> 25:01.260
+it takes a lot of work to actually create a soldier
+
+25:01.260 --> 25:04.180
+who is prepared to do that, make those decisions.
+
+25:04.180 --> 25:09.180
+And certainly the US military thinks quite a lot
+
+25:09.860 --> 25:13.140
+about this question of autonomous,
+
+25:13.140 --> 25:14.660
+lethal autonomous technologies,
+
+25:14.660 --> 25:16.660
+technologies that can actually kill people
+
+25:16.660 --> 25:21.660
+without necessarily an active human decision at each stage.
+
+25:23.820 --> 25:26.460
+And one argument that gets floated a lot is like,
+
+25:26.460 --> 25:29.500
+well, the US might do it, but somebody is going to do it.
+
+25:29.500 --> 25:32.420
+Somebody is going to build a killer robot.
+
+25:32.420 --> 25:35.580
+And I think that in some ways,
+
+25:38.260 --> 25:40.180
+clearly we all can sense the unease
+
+25:40.180 --> 25:41.780
+and we all know about the warning signs.
+
+25:41.780 --> 25:43.340
+We all know about the Terminator movies.
+
+25:43.340 --> 25:47.860
+And you can see how things can go really, really dark
+
+25:47.860 --> 25:52.420
+if you pursue this thing, if you pursue this line of argument.
+
+25:52.420 --> 25:54.540
+But it's also worth thinking about all of the ways
+
+25:54.540 --> 25:59.300
+in which computation as infrastructure
+
+25:59.300 --> 26:02.060
+is already making decisions like this.
+
+26:02.060 --> 26:06.860
+There's something as mundane as a city's traffic signals
+
+26:06.860 --> 26:08.780
+and traffic control system.
+
+26:08.780 --> 26:11.700
+There are ways that system might be geared
+
+26:11.700 --> 26:14.460
+towards more efficiency or more safety.
+
+26:14.460 --> 26:17.740
+And we've all probably, many people have heard now
+
+26:17.740 --> 26:21.100
+about the notion of the trolley problem and robocars.
+
+26:21.100 --> 26:23.540
+Is your robot car going to decide to save you
+
+26:23.540 --> 26:25.500
+as the driver or the owner of the vehicle?
+
+26:25.500 --> 26:28.020
+Or is it going to save the pedestrians?
+
+26:28.020 --> 26:29.900
+If it could save three lives,
+
+26:29.900 --> 26:32.740
+is it going to make that choice instead of saving one life?
+
+26:33.820 --> 26:37.900
+And so this notion of computation
+
+26:37.900 --> 26:39.540
+making life and death decisions,
+
+26:39.540 --> 26:41.980
+I think is already real in different ways.
+
+26:43.300 --> 26:47.260
+I don't know, I think there's something again,
+
+26:47.260 --> 26:51.860
+existential and sort of deeply troubling
+
+26:51.860 --> 26:55.780
+about the notion of autonomous, intelligent systems
+
+26:55.780 --> 26:58.980
+that are out there ready to kill human beings.
+
+27:00.020 --> 27:03.980
+But the way we'll get there is the way we've gotten
+
+27:03.980 --> 27:05.140
+as far as we have already,
+
+27:05.140 --> 27:06.980
+which is thinking about these systems
+
+27:06.980 --> 27:08.220
+that are not just computation,
+
+27:08.220 --> 27:10.980
+but they're computation combined with policy,
+
+27:10.980 --> 27:12.900
+combined with human judgment.
+
+27:12.900 --> 27:17.900
+And people sort of thinking of that as a big switchboard
+
+27:18.340 --> 27:19.820
+with different levers and buttons.
+
+27:19.820 --> 27:21.780
+And people will keep pushing the combinations
+
+27:21.780 --> 27:24.380
+and pushing the envelope until they get to some result
+
+27:24.380 --> 27:25.380
+that they want to.
+
+27:25.380 --> 27:26.980
+So that's how people will rationalize
+
+27:26.980 --> 27:29.140
+their way into killer robots.
+
+27:30.580 --> 27:32.700
+Any technology seems to be working the best
+
+27:32.700 --> 27:35.980
+in the societies that adapted it the best.
+
+27:35.980 --> 27:39.140
+How are we doing as a society adapting to technology?
+
+27:41.540 --> 27:44.660
+Because we may be using smartphones every day,
+
+27:44.660 --> 27:47.900
+but we're not really using them to their full capacity.
+
+27:47.900 --> 27:50.220
+We might not really understand what's going on
+
+27:51.380 --> 27:53.820
+in this phone and the power that it has
+
+27:53.820 --> 27:55.780
+and the power that we have in our hands
+
+27:55.780 --> 27:58.740
+and we just using it for mundane tasks.
+
+27:58.740 --> 28:01.420
+Well, I think that there's an ironic twist
+
+28:01.420 --> 28:03.140
+on William Gibson's famous quote,
+
+28:03.140 --> 28:05.700
+the future is here, it's just not evenly distributed.
+
+28:05.700 --> 28:06.540
+All right.
+
+28:06.540 --> 28:09.260
+And the future is here in our pockets,
+
+28:09.260 --> 28:12.500
+but it's not evenly accessed.
+
+28:12.500 --> 28:16.380
+And so I argue that that's not actually
+
+28:16.380 --> 28:17.740
+the biggest problem though.
+
+28:17.740 --> 28:21.220
+The biggest problem is that the rates of adaptation
+
+28:21.220 --> 28:22.700
+are very different in different markets.
+
+28:22.700 --> 28:26.580
+So in consumer culture and consumer products,
+
+28:26.580 --> 28:28.660
+we adopt these new products very quickly
+
+28:28.660 --> 28:30.460
+and it might take us a while to figure out how to use them,
+
+28:30.460 --> 28:33.420
+but we're still using them.
+
+28:33.420 --> 28:35.540
+Figuring out how the legal system,
+
+28:35.540 --> 28:38.020
+how political systems need to change
+
+28:38.020 --> 28:39.420
+to adapt to these new technologies,
+
+28:39.420 --> 28:41.500
+how social realities change, that's much harder
+
+28:41.500 --> 28:43.380
+and it takes a much longer time.
+
+28:43.380 --> 28:46.820
+And that's where we're starting to see real problems
+
+28:46.820 --> 28:50.740
+between the pace of technological change
+
+28:50.740 --> 28:52.340
+and the social consequences,
+
+28:52.340 --> 28:55.020
+the legal, the ethical consequences of that change.
+
+28:56.100 --> 28:59.420
+Do you think our systems, political system,
+
+28:59.420 --> 29:02.580
+education system, financial system also needs to change
+
+29:02.580 --> 29:06.460
+because all these technologies that we are adapting as humans?
+
+29:06.460 --> 29:09.380
+Well, financial market seems to be adapting the best
+
+29:09.380 --> 29:10.220
+out of all of them,
+
+29:10.220 --> 29:12.100
+but political system and judicial system
+
+29:12.100 --> 29:15.180
+seems to be being left behind.
+
+29:16.180 --> 29:18.900
+Well, I think that these other systems are changing.
+
+29:18.900 --> 29:21.740
+I think if you look at the last two
+
+29:21.740 --> 29:23.220
+U.S. presidential elections,
+
+29:23.220 --> 29:26.380
+technology played a huge role in each of them.
+
+29:26.380 --> 29:27.220
+And in many ways...
+
+29:27.220 --> 29:29.340
+But none of the candidates talked about
+
+29:29.340 --> 29:31.900
+artificial intelligence or automation.
+
+29:31.900 --> 29:34.460
+And I've had this conversation
+
+29:34.460 --> 29:36.180
+with a couple of guests on the show
+
+29:36.180 --> 29:38.420
+that I don't really know if they didn't mention it
+
+29:38.420 --> 29:40.060
+because they just didn't know about it
+
+29:40.060 --> 29:42.100
+or didn't consider it important,
+
+29:42.100 --> 29:43.340
+or they just didn't mention it
+
+29:43.340 --> 29:45.500
+because their audience wouldn't care
+
+29:45.500 --> 29:47.900
+as much as they would care about other things.
+
+29:48.940 --> 29:52.580
+Well, I don't know why they didn't talk about it more.
+
+29:52.580 --> 29:56.940
+I think that my guess would be that
+
+29:56.940 --> 30:00.580
+because it's such an unknown, it's a dangerous topic.
+
+30:00.580 --> 30:03.500
+It's hard to, if you're a politician trying to win votes,
+
+30:03.500 --> 30:07.180
+it's probably hard to win votes by talking about AI
+
+30:07.180 --> 30:09.140
+because there's nothing you can say
+
+30:09.140 --> 30:11.860
+that's gonna make people more sympathetic to you.
+
+30:11.860 --> 30:12.700
+Right.
+
+30:12.700 --> 30:16.220
+You know, so avoid it.
+
+30:16.220 --> 30:19.540
+But in the terms of the mechanics
+
+30:19.540 --> 30:21.660
+of how politics actually works,
+
+30:21.660 --> 30:25.620
+it's clear that social media, targeted advertising,
+
+30:26.700 --> 30:28.980
+big data have all had a huge impact
+
+30:28.980 --> 30:30.740
+on how politics works.
+
+30:30.740 --> 30:33.580
+They had a huge impact on the result of this past election.
+
+30:33.580 --> 30:38.580
+And that's not even talking about the seeming cyber attack,
+
+30:40.460 --> 30:43.980
+cyber espionage aspect of this past election.
+
+30:43.980 --> 30:48.620
+So, you know, in many ways, the game,
+
+30:48.620 --> 30:51.220
+the political game has really been transformed.
+
+30:51.220 --> 30:53.020
+People are actually still trying to figure out
+
+30:53.020 --> 30:54.660
+how to deal with it.
+
+30:54.660 --> 30:57.620
+If you think about more extreme examples,
+
+30:57.620 --> 30:59.940
+like say the Arab Spring where,
+
+30:59.940 --> 31:03.700
+or many other contemporary revolutionary efforts
+
+31:03.700 --> 31:05.860
+around the world where social media was essential
+
+31:05.860 --> 31:10.860
+to organizing and motivating people to get out there.
+
+31:11.100 --> 31:12.300
+But of course, on the flip side,
+
+31:12.300 --> 31:16.380
+it also presents the whole new range of opportunities
+
+31:16.380 --> 31:18.940
+for authoritarian states to spy on people
+
+31:18.940 --> 31:21.860
+and to identify, you know, those who are against them.
+
+31:22.780 --> 31:26.100
+So, you know, things are changing really fast.
+
+31:26.100 --> 31:28.540
+Maybe the most interesting example of this is China,
+
+31:28.540 --> 31:30.620
+which has somehow succeeded
+
+31:30.620 --> 31:33.420
+in creating a largely separate internet
+
+31:33.420 --> 31:38.020
+or an internet that maintains fairly powerful state
+
+31:38.020 --> 31:41.820
+censorship and control, kind of soft censorship mechanisms.
+
+31:41.820 --> 31:45.580
+I'm fascinated by this citizenship score
+
+31:45.580 --> 31:48.380
+that China has introduced and is gradually gonna be
+
+31:48.380 --> 31:50.380
+implementing over the next few years,
+
+31:50.380 --> 31:55.140
+which basically, you know, gives you a numerical ranking
+
+31:55.140 --> 31:59.100
+of your value and your status as a citizen in China.
+
+31:59.100 --> 32:00.300
+I had no idea about that.
+
+32:00.300 --> 32:02.020
+Can you expand on that?
+
+32:02.020 --> 32:03.740
+Yeah, and so I'm not an expert on this.
+
+32:03.740 --> 32:04.780
+I hope I don't get anything wrong.
+
+32:04.780 --> 32:07.940
+But basically, it's a number that tells you, you know,
+
+32:07.940 --> 32:10.780
+whether you're being a good citizen or a bad citizen.
+
+32:10.780 --> 32:12.500
+And as it was initially laid out,
+
+32:12.500 --> 32:13.460
+if you had a good number,
+
+32:13.460 --> 32:14.900
+you could also get certain perks.
+
+32:14.900 --> 32:18.340
+You know, you might get faster service at the airport
+
+32:18.340 --> 32:20.220
+or other kinds of things, or maybe you could.
+
+32:20.220 --> 32:23.540
+And of course, it initially sounded
+
+32:23.540 --> 32:25.500
+incredibly Orwellian to me.
+
+32:25.500 --> 32:28.380
+But then I realized that it's basically 80% of it
+
+32:28.380 --> 32:31.500
+is more or less what a credit score is in the United States.
+
+32:31.500 --> 32:32.340
+And if you think about it,
+
+32:32.340 --> 32:35.220
+a credit score is also a fairly arbitrary number
+
+32:35.220 --> 32:36.620
+that has a huge impact on your life.
+
+32:36.620 --> 32:40.820
+It determines whether you can buy a house or get a loan.
+
+32:40.820 --> 32:43.340
+It may impact what kind of a job you can get.
+
+32:43.340 --> 32:45.380
+It has all sorts of consequences.
+
+32:45.380 --> 32:46.860
+It's very opaque.
+
+32:46.860 --> 32:48.820
+It's very centralized.
+
+32:48.820 --> 32:52.020
+It's very difficult to understand how it actually works
+
+32:52.020 --> 32:54.700
+or how to change your score or improve it.
+
+32:54.700 --> 32:56.220
+So the only difference is that in China,
+
+32:56.220 --> 32:58.460
+they take that financial concept.
+
+32:58.460 --> 33:02.580
+And so maybe think about the credit score in the US
+
+33:02.580 --> 33:04.660
+in a more dystopian way.
+
+33:04.660 --> 33:06.580
+But in China, they take that and then they add on things
+
+33:06.580 --> 33:08.820
+like, well, if you're ordering too many video games
+
+33:08.820 --> 33:10.500
+or playing too many video games,
+
+33:10.500 --> 33:12.220
+your citizenship score may suffer
+
+33:12.220 --> 33:15.220
+because that's not really civic behavior.
+
+33:15.220 --> 33:16.140
+That's amazing.
+
+33:16.140 --> 33:20.020
+It's also exactly like a episode of Black Mirror.
+
+33:20.020 --> 33:25.020
+Yes, I feel like the overall Black Mirror quotient
+
+33:25.260 --> 33:28.220
+of reality is rapidly increasing.
+
+33:28.220 --> 33:31.260
+Yeah, it's an interesting time to be alive.
+
+33:31.260 --> 33:32.260
+Ed's book is called
+
+33:32.260 --> 33:36.500
+What Algorithms Want Imagination in the Age of Computing.
+
+33:36.500 --> 33:38.620
+What made you want to write this book now?
+
+33:39.820 --> 33:43.300
+Well, I feel that we need to understand
+
+33:43.300 --> 33:44.740
+how these systems work better.
+
+33:44.740 --> 33:47.780
+So my fundamental call to action in the book
+
+33:47.780 --> 33:50.420
+is that we need to learn how to read algorithms
+
+33:50.420 --> 33:53.140
+because algorithms are reading us all the time.
+
+33:53.140 --> 33:55.540
+And so I don't mean by that that everybody has to go out
+
+33:55.540 --> 33:57.180
+and learn how to program.
+
+33:57.180 --> 33:59.700
+I mean that we need to understand a little bit more
+
+33:59.700 --> 34:02.820
+about computational thinking and systems thinking,
+
+34:02.820 --> 34:06.100
+how these different systems shape
+
+34:06.100 --> 34:08.260
+our understanding of reality.
+
+34:08.260 --> 34:10.100
+And there's some very simple lessons.
+
+34:10.100 --> 34:13.540
+When you think about the beautiful interfaces
+
+34:13.540 --> 34:15.460
+and just push this one button
+
+34:15.460 --> 34:17.260
+to make everything better in your life,
+
+34:17.260 --> 34:19.500
+which is what a lot of the rhetoric
+
+34:19.500 --> 34:23.660
+around high-tech apps and computation boils down to,
+
+34:24.900 --> 34:26.940
+whenever that happens, there's a whole set of things
+
+34:26.940 --> 34:28.580
+that are hidden away or pushed off
+
+34:28.580 --> 34:29.820
+that are not on the menu.
+
+34:29.820 --> 34:32.100
+And so starting to think about what's on the menu
+
+34:32.100 --> 34:35.020
+and what's off the menu is one really important lesson
+
+34:35.020 --> 34:38.100
+so that we don't just become passive consumers
+
+34:38.100 --> 34:39.420
+or unquestioning consumers
+
+34:39.420 --> 34:41.500
+of these different technologies
+
+34:41.500 --> 34:45.820
+and the social assumptions and social notions
+
+34:45.820 --> 34:47.580
+that they embed within them.
+
+34:47.580 --> 34:51.020
+But we start to think about what else is possible,
+
+34:51.020 --> 34:52.780
+what other options there might be.
+
+34:52.780 --> 34:57.780
+And that's really important because if we want to avoid
+
+34:58.580 --> 35:02.700
+simply being the products,
+
+35:02.700 --> 35:06.020
+when you use a website like Facebook or Google,
+
+35:06.020 --> 35:07.820
+for the most part, we are the products
+
+35:07.820 --> 35:10.380
+that those companies are selling to advertisers.
+
+35:10.380 --> 35:12.180
+So if we want to be more than products,
+
+35:12.180 --> 35:14.220
+we need to learn how to become more active
+
+35:14.220 --> 35:17.060
+and more engaged with these systems that we're using.
+
+35:17.060 --> 35:20.380
+And I would assume the more knowledge that the user has
+
+35:20.380 --> 35:22.300
+about the system that they're using,
+
+35:22.300 --> 35:25.860
+the systems also will change according to that knowledge
+
+35:25.860 --> 35:27.700
+and become better and more adaptable.
+
+35:28.740 --> 35:30.820
+Yeah, and this is a really profound change.
+
+35:30.820 --> 35:33.820
+I think this is one of the first times that we have,
+
+35:33.820 --> 35:35.740
+computation, very broadly speaking,
+
+35:35.740 --> 35:38.580
+is the most complicated and interesting thing
+
+35:38.580 --> 35:41.700
+that humanity has ever constructed,
+
+35:41.700 --> 35:43.700
+at least in the space of technology.
+
+35:43.700 --> 35:45.980
+Maybe you want to argue that a great symphony
+
+35:45.980 --> 35:48.780
+or great work of art is more sophisticated.
+
+35:48.780 --> 35:51.620
+But in terms of technologies,
+
+35:51.620 --> 35:55.140
+the sort of broad network of computation
+
+35:55.140 --> 35:58.820
+is incredibly complicated, but it's also adaptive.
+
+35:58.820 --> 36:00.020
+And this is really new.
+
+36:00.020 --> 36:03.980
+We now have tools that are watching us as we use them
+
+36:03.980 --> 36:07.500
+and changing based on our behavior.
+
+36:07.500 --> 36:10.500
+And so that's a really novel situation for us to be in.
+
+36:10.500 --> 36:14.460
+It is a way in which we're now creating systems
+
+36:14.460 --> 36:16.420
+that are like the human mind
+
+36:16.420 --> 36:18.580
+in that they have a kind of plasticity.
+
+36:18.580 --> 36:20.820
+And that's really important to recognize and understand
+
+36:20.820 --> 36:23.900
+as we try to work out these literacies
+
+36:23.900 --> 36:26.180
+and figure out how we can be more engaged.
+
+36:26.180 --> 36:27.140
+Definitely.
+
+36:27.140 --> 36:29.580
+You're also the founding director of the center
+
+36:29.580 --> 36:32.060
+with the most awesome name ever for science
+
+36:32.060 --> 36:34.660
+and the imagination at Arizona State University.
+
+36:35.580 --> 36:38.100
+What is the connection between science and imagination
+
+36:38.100 --> 36:39.940
+and how good of a job are we doing
+
+36:39.940 --> 36:41.420
+educating the next generation
+
+36:41.420 --> 36:43.500
+about both science and imagination?
+
+36:44.500 --> 36:47.620
+I think that the connection is hugely important.
+
+36:48.740 --> 36:51.260
+The mission of the center is to get people thinking
+
+36:51.260 --> 36:53.780
+more creatively and ambitiously about the future
+
+36:53.780 --> 36:57.700
+because we do need to start thinking about the future
+
+36:57.700 --> 37:01.820
+as a set of possibilities, a spectrum of choices.
+
+37:01.820 --> 37:04.980
+And the things we do today are gonna determine
+
+37:04.980 --> 37:06.580
+which of those worlds we live in.
+
+37:06.580 --> 37:08.500
+We all have a responsibility
+
+37:08.500 --> 37:11.740
+in making the world that we want to happen happen.
+
+37:11.740 --> 37:14.900
+So I've started to think that
+
+37:14.900 --> 37:17.100
+and imagination is vital to this
+
+37:17.100 --> 37:20.020
+because if you ask a physicist or a poet,
+
+37:20.020 --> 37:22.980
+an engineer, an architect, a writer,
+
+37:22.980 --> 37:25.420
+they will all tell you that imagination is crucial
+
+37:25.420 --> 37:29.620
+to being successful in their field and their work.
+
+37:29.620 --> 37:31.340
+And yet we know very little about
+
+37:31.340 --> 37:33.500
+what imagination really is.
+
+37:33.500 --> 37:35.260
+We don't really try to measure it.
+
+37:35.260 --> 37:37.060
+We talk about it, we wave our hands about it
+
+37:37.060 --> 37:38.460
+but we don't really try to measure it
+
+37:38.460 --> 37:40.380
+or to support it and foster it.
+
+37:40.380 --> 37:43.060
+And in a lot of educational fields,
+
+37:43.060 --> 37:47.180
+it's really, you know, minimized, denigrated
+
+37:47.180 --> 37:49.300
+and more traditional educational modes
+
+37:49.300 --> 37:51.180
+often, you know, sort of beaten out of students
+
+37:51.180 --> 37:52.860
+so that they become less imaginative
+
+37:52.860 --> 37:56.060
+and more conformed to whatever, you know,
+
+37:56.060 --> 37:58.380
+curriculum they're being fed.
+
+37:59.460 --> 38:03.780
+And so the central argument of my work at the center
+
+38:03.780 --> 38:06.020
+is that we need to start thinking about imagination
+
+38:06.020 --> 38:09.780
+as a fundamental capacity that every human has.
+
+38:09.780 --> 38:12.660
+It's a fundamental resource that's a precursor
+
+38:12.660 --> 38:17.540
+to all the other things that make humans great.
+
+38:17.540 --> 38:21.340
+It's a precursor to creativity and innovation.
+
+38:21.340 --> 38:24.020
+It's a precursor to solving
+
+38:24.020 --> 38:26.220
+the huge complex problems that we have
+
+38:26.220 --> 38:29.180
+because if you can't think of the impossible,
+
+38:29.180 --> 38:30.940
+if you can't make up a new word
+
+38:30.940 --> 38:33.340
+that's gonna describe the solution to the problem,
+
+38:33.340 --> 38:35.580
+you're never gonna solve the problem.
+
+38:35.580 --> 38:37.740
+And so that's the kind of work
+
+38:37.740 --> 38:39.220
+that I think we need to advance more.
+
+38:39.220 --> 38:41.460
+We need to start thinking about
+
+38:41.460 --> 38:44.820
+how we identify this resource, how we support it,
+
+38:44.820 --> 38:48.420
+how we build networks so that people are getting mentored
+
+38:48.420 --> 38:52.300
+and we're celebrating imagination as a thing on its own
+
+38:52.300 --> 38:55.620
+and not just something that's applied.
+
+38:55.620 --> 38:57.140
+You know, you don't just recognize it
+
+38:57.140 --> 39:00.380
+in particular imaginative works or projects,
+
+39:00.380 --> 39:03.100
+but we actually start to think about the capacity
+
+39:03.100 --> 39:05.140
+behind those particular outcomes.
+
+39:05.140 --> 39:07.540
+Absolutely, it's very important.
+
+39:07.540 --> 39:10.660
+Do you think algorithms or computing in general
+
+39:10.660 --> 39:13.900
+can ultimately address the subject of purpose?
+
+39:16.300 --> 39:21.100
+I think that computation can force us
+
+39:21.100 --> 39:23.020
+to address the subject of purpose.
+
+39:23.020 --> 39:25.540
+You know, as we build...
+
+39:25.540 --> 39:29.820
+So, you know, one of the long-term outcomes of automation
+
+39:29.820 --> 39:34.180
+is going to be that we're required to do
+
+39:34.180 --> 39:36.820
+less of the road tasks that we do now.
+
+39:36.820 --> 39:38.180
+We can outsource more things.
+
+39:38.180 --> 39:40.900
+Already, we outsource a lot of our memory.
+
+39:40.900 --> 39:42.220
+You know, when I was growing up,
+
+39:42.220 --> 39:44.140
+I needed to remember my phone number
+
+39:44.140 --> 39:48.020
+and my friend's phone numbers, parents' phone numbers.
+
+39:48.020 --> 39:50.460
+Now, nobody remembers any phone numbers anymore.
+
+39:50.460 --> 39:51.540
+That's something that we've more or less
+
+39:51.540 --> 39:53.580
+completely outsourced to computation.
+
+39:53.580 --> 39:54.700
+It's a very simple example,
+
+39:54.700 --> 39:57.620
+but we're doing more and more of that.
+
+39:57.620 --> 39:59.820
+I'm really, I always use the example
+
+39:59.820 --> 40:02.020
+of how birthdays have changed because of Facebook.
+
+40:02.020 --> 40:03.420
+You know, once upon a time,
+
+40:03.420 --> 40:04.740
+if you remembered a friend's birthday,
+
+40:04.740 --> 40:06.260
+that was like a meaningful thing,
+
+40:06.260 --> 40:08.100
+and it was significant, and you know,
+
+40:08.100 --> 40:09.380
+only your really good friends
+
+40:09.380 --> 40:11.140
+would actually remember your birthday.
+
+40:11.140 --> 40:12.940
+Now, everybody knows about your birthday,
+
+40:12.940 --> 40:13.980
+and it's become this weird...
+
+40:13.980 --> 40:14.820
+It's just a notification.
+
+40:14.820 --> 40:16.380
+Yeah, it's this kind of weird ritual
+
+40:16.380 --> 40:18.140
+where you have like hundreds of people
+
+40:18.140 --> 40:20.140
+sort of feel obligated to say happy birthday,
+
+40:20.140 --> 40:21.580
+but do they even really mean it?
+
+40:21.580 --> 40:24.620
+And, you know, so it's just a totally, it's totally changed.
+
+40:24.620 --> 40:29.620
+So, I think that as we outsource more
+
+40:29.620 --> 40:34.220
+of our basic knowledge work,
+
+40:34.220 --> 40:35.540
+basic thinking tasks,
+
+40:35.540 --> 40:38.060
+basic memory tasks to computation,
+
+40:38.060 --> 40:40.260
+we're gonna really be forced to ask ourselves,
+
+40:40.260 --> 40:41.460
+well, what do we wanna do?
+
+40:41.460 --> 40:43.980
+What should we be spending our time on?
+
+40:45.020 --> 40:48.180
+And I think that, you know,
+
+40:48.180 --> 40:50.780
+computation has this purpose
+
+40:50.780 --> 40:52.260
+that I think is fairly clear,
+
+40:52.260 --> 40:54.740
+to make everything tractable by computation,
+
+40:54.740 --> 40:56.300
+to make everything computable.
+
+40:56.300 --> 40:59.700
+And whether that is humanity's purpose or not,
+
+40:59.700 --> 41:00.820
+I think remains to be seen.
+
+41:00.820 --> 41:02.740
+We need to decide, you know,
+
+41:02.740 --> 41:06.100
+how far we wanna invest our culture and ourselves
+
+41:06.100 --> 41:09.620
+in a world where everything is computable
+
+41:09.620 --> 41:11.260
+and things that are not computable
+
+41:11.260 --> 41:13.140
+effectively don't exist.
+
+41:13.140 --> 41:15.340
+And to what extent we wanna think about
+
+41:15.340 --> 41:17.900
+a world that is symbiotic, you know,
+
+41:17.900 --> 41:19.700
+because I don't think there's any unringing this bell.
+
+41:19.700 --> 41:21.780
+We're not gonna burn all the computers
+
+41:21.780 --> 41:23.900
+and go back to a 19th century way of life.
+
+41:23.900 --> 41:25.420
+That's just never gonna happen.
+
+41:25.420 --> 41:26.940
+That's just never gonna happen.
+
+41:26.940 --> 41:29.460
+Unless, you know, we really screw things up
+
+41:29.460 --> 41:30.700
+and then it's not gonna be a choice.
+
+41:30.700 --> 41:32.260
+This is gonna be an apocalypse.
+
+41:34.020 --> 41:35.860
+But I don't think that's gonna happen.
+
+41:35.860 --> 41:38.580
+I think that we're gonna need to decide
+
+41:38.580 --> 41:41.700
+when we wanna celebrate, you know, analog,
+
+41:41.700 --> 41:44.620
+direct human to human contact, lived experience,
+
+41:44.620 --> 41:47.580
+live experience, live performance,
+
+41:47.580 --> 41:49.460
+being present in the moment
+
+41:49.460 --> 41:52.100
+in a way that's not mediated by computation.
+
+41:52.100 --> 41:53.540
+And I think those moments are gonna become
+
+41:53.540 --> 41:56.460
+more and more precious as they become more rare.
+
+41:57.740 --> 41:58.980
+I'm an optimist myself.
+
+41:58.980 --> 42:01.580
+I think we're living in the best time in human history.
+
+42:01.580 --> 42:04.780
+And, you know, it's not perfect, but what is perfect?
+
+42:04.780 --> 42:07.460
+You know, we have to define perfect at first.
+
+42:07.460 --> 42:10.420
+And I think technology has been equalizing
+
+42:10.420 --> 42:13.740
+access to information clearly much better than anything.
+
+42:13.740 --> 42:17.020
+And I think we just headed towards better days.
+
+42:18.260 --> 42:21.220
+I think there's great reason for optimism.
+
+42:21.220 --> 42:24.340
+And this is, I talk a lot about thoughtful optimism.
+
+42:24.340 --> 42:27.380
+This is another one of our mantras
+
+42:27.380 --> 42:29.180
+at the Center for Science and Imagination.
+
+42:29.180 --> 42:32.260
+And thoughtful optimism, the way we talk about it,
+
+42:32.260 --> 42:34.900
+means not just that everything is gonna be great,
+
+42:34.900 --> 42:39.180
+but that if we are thoughtful and if we work at it,
+
+42:39.180 --> 42:41.860
+if we explore the full possibility space
+
+42:41.860 --> 42:43.540
+of what might happen,
+
+42:43.540 --> 42:46.780
+we can build towards the best possible future.
+
+42:46.780 --> 42:50.500
+We can work towards better things and avoid the bad things.
+
+42:50.500 --> 42:53.020
+But, you know, it's not gonna happen on its own.
+
+42:53.020 --> 42:53.940
+We have to work at it.
+
+42:53.940 --> 42:57.820
+We have to invest the energy in imagining different futures.
+
+42:57.820 --> 42:59.700
+And that's how we can make the world a better place.
+
+42:59.700 --> 43:01.420
+Yeah, we have great tools,
+
+43:01.420 --> 43:04.580
+but the source of creativity still comes from us.
+
+43:04.580 --> 43:07.260
+So it depends on us how we use those tools.
+
+43:07.260 --> 43:11.460
+Yeah, and, you know, we have to learn how to recognize
+
+43:11.460 --> 43:16.460
+the limitations of our tools as well as their powers,
+
+43:17.020 --> 43:19.020
+because they can be incredibly seductive, you know,
+
+43:19.020 --> 43:21.140
+because they can seem so powerful
+
+43:21.140 --> 43:24.100
+and they encode a lot of creativity and imagination in them.
+
+43:25.060 --> 43:27.140
+But we need to learn
+
+43:27.140 --> 43:30.020
+when we have to bring something extra to the table
+
+43:30.020 --> 43:34.220
+and when to see the boundaries of the powers
+
+43:34.220 --> 43:36.540
+that different computational tools give us.
+
+43:36.540 --> 43:37.660
+Very true.
+
+43:37.660 --> 43:38.500
+The book is called
+
+43:38.500 --> 43:42.300
+What Algorithms Want Imagination in the Age of Computing
+
+43:42.300 --> 43:43.940
+by Ed Finn.
+
+43:43.940 --> 43:46.300
+Let me ask you a question that I ask all my guests.
+
+43:46.300 --> 43:48.300
+If you come across an intelligent alien
+
+43:48.300 --> 43:49.660
+from a different civilization,
+
+43:49.660 --> 43:53.380
+what would you say as humanity's greatest achievement
+
+43:53.380 --> 43:55.180
+and what would you say as the worst thing
+
+43:55.180 --> 43:56.300
+humanity has done?
+
+43:58.940 --> 44:01.780
+Well, I think our greatest achievement
+
+44:01.780 --> 44:05.660
+is in creating a space for imagination
+
+44:05.660 --> 44:09.980
+and recognizing this fundamental capacity
+
+44:09.980 --> 44:12.780
+and not trying to optimize it out of human culture
+
+44:12.780 --> 44:13.620
+in some way.
+
+44:13.620 --> 44:15.620
+You know, even though many people have tried
+
+44:15.620 --> 44:19.220
+in different ways, I think the very messiness,
+
+44:19.220 --> 44:24.220
+the fecund, crazy, overflowing diversity
+
+44:25.740 --> 44:28.740
+of human creativity, intellectual thought,
+
+44:28.740 --> 44:32.300
+artistic practice, science, technology, business,
+
+44:33.340 --> 44:35.740
+you know, that is a great strength for us.
+
+44:35.740 --> 44:39.900
+And I think it's remarkable in a lot of ways
+
+44:39.900 --> 44:41.860
+that we've been able to maintain that
+
+44:41.860 --> 44:45.140
+and not destroy the world somehow.
+
+44:45.140 --> 44:45.980
+But I think that, you know,
+
+44:45.980 --> 44:49.420
+that imagination, there's a moral imagination too.
+
+44:49.420 --> 44:51.500
+And that has been the thing, you know,
+
+44:51.500 --> 44:53.460
+you can imagine these crucial moments
+
+44:53.460 --> 44:55.180
+like the Cuban Missile Crisis
+
+44:55.180 --> 44:57.140
+where a moral imagination intervened
+
+44:57.140 --> 45:00.540
+and people, you know, took the step back
+
+45:00.540 --> 45:04.300
+from the precipice before something really awful happened
+
+45:04.300 --> 45:07.220
+or all of the untold stories, you know, in the Cold War,
+
+45:07.220 --> 45:10.540
+there are several times when a flock of birds
+
+45:10.540 --> 45:12.060
+or strange clouds or something else
+
+45:12.060 --> 45:15.020
+set off the alarm bells in the Soviet Union or the US
+
+45:15.020 --> 45:16.180
+and it looked like, you know,
+
+45:16.180 --> 45:17.860
+a fleet of bombers was coming to attack
+
+45:17.860 --> 45:20.180
+and some human being had to sit there and say,
+
+45:20.180 --> 45:22.700
+no, you know, we're not gonna just push the button.
+
+45:22.700 --> 45:25.340
+We're not gonna escalate this and counter attack
+
+45:25.340 --> 45:29.340
+even though the system was saying, you know,
+
+45:29.340 --> 45:30.700
+that's what you have to do.
+
+45:32.220 --> 45:37.220
+So I'd say that's our great strength.
+
+45:37.420 --> 45:40.420
+And I'd say our great weakness is the opposite of that,
+
+45:40.420 --> 45:44.380
+is when we become so enamored of our systems
+
+45:44.380 --> 45:46.020
+that we forget who we are, you know,
+
+45:46.020 --> 45:51.020
+and we are so seduced by our creations
+
+45:52.820 --> 45:54.860
+that we conform ourselves into them.
+
+45:54.860 --> 45:57.100
+We wrap ourselves up, we try and squeeze ourselves
+
+45:57.100 --> 45:59.980
+into these little black boxes that we've created.
+
+45:59.980 --> 46:02.300
+And that's when I think we lose something essential
+
+46:02.300 --> 46:03.700
+and that's when, you know,
+
+46:03.700 --> 46:05.860
+sometimes those are ideological boxes.
+
+46:05.860 --> 46:07.620
+You know, you think about World War II
+
+46:07.620 --> 46:09.300
+and that's when we lose our humanity
+
+46:09.300 --> 46:14.300
+and we can become terrible, terrible machines.
+
+46:14.300 --> 46:43.300
+And that's when we lose our humanity and we can become terrible, terrible machines.
+
