@@ -1,0 +1,1277 @@
+I really believe that this understanding of philosophy,
+epistemology in particular, what is knowledge?
+How do we know anything, the importance of concepts
+and how do we form concepts?
+I mean, concepts, abstract concepts are the key
+to human intelligence.
+But again, it's understanding intelligence,
+understanding cognition has to be a prerequisite
+for building artificial intelligence.
+Hello, and welcome to the 68th episode of New Human Podcast
+at Magabahari Edicologist on Twitter and Instagram.
+And you can follow this show on liveinlimbo.com,
+iTunes, YouTube and BitChute.
+And today with me, I have a pleasure of having Peter Vos.
+Welcome to New Human Podcast, Peter.
+Thank you, thanks for inviting me.
+Yeah, you were the first ever recommended guest
+to come on New Human Podcast by my dear friend,
+David McFadden, who I believe used to work for you.
+Yeah, absolutely, yes, right.
+It only took us 68 episodes to get to you,
+but I think this is a good place and good time
+to talk about a lot of different things
+in the context of intelligence and artificial intelligence.
+But let's start with your background,
+the work you've done, the lives you've lived
+and what are you mainly focused on now these days?
+Okay, sure, yeah, let me give you a rundown.
+So I actually didn't finish high school.
+So, you know, personal circumstances,
+I started work at 16, talked myself electronics,
+became an electronics engineer,
+started my own electronics company.
+Then I fell in love with software, you know,
+instant gratification, you have an idea
+and you can sit down for a few hours
+and you've got something that's working.
+As opposed to electronics, you know,
+usually it takes a long time to build something.
+Anyway, so I've really been involved with, you know,
+software and programming for a long time now.
+I've built several technology platforms,
+including database engines and programming languages.
+I also built an ERP software system,
+built a company around that.
+That became very successful.
+We went from the garage to 400 people,
+did an IPO.
+So that was super exciting, love to do that again.
+So it's when I exited that company,
+I had enough time and money on my hands to say,
+what do I, you know, what big project do I want to tackle?
+And, you know, the obvious thing for me was
+how can we build software
+or can we make software more intelligent?
+How can we build machines that can think and learn
+and reason the way humans do?
+So I took five years to study cognition, intelligence,
+actually much broader than that.
+Even, you know, epistemology, theory of knowledge,
+different aspects of philosophy, ethics,
+and, you know, how do children learn?
+What do IQ tests measure?
+How is our intelligence different from animals?
+All of those different aspects.
+I really deeply understand
+what cognition and intelligence is.
+And during that period,
+I basically came up with a design
+for an intelligence engine.
+So in 2001, I got together with some other people.
+We actually coined the term
+artificial general intelligence, AGI, in 2001,
+wrote a book on the topic.
+And that's when I started my first AI company,
+hired about 12 people.
+David was one of our early contributors.
+And basically for several years, we were in R&D mode,
+taking my ideas and turning them into various prototypes,
+experimenting around,
+building sort of animal models of intelligence,
+you know, children, how children learn.
+And then eventually, over the years,
+we developed a platform that we could commercialize.
+In 2008, we then launched a commercial company
+to use our technology to make call center,
+automated call center calls more pleasant
+and more intelligent, you know.
+At the moment, when you call into a company
+and you talk to a robot, people just hate that.
+Yeah.
+You know, press zero to get to an operator
+because they're so awful.
+So in smart action, we offer basically a much better system,
+something that you can speak to in normal English,
+remembers what you said earlier in the conversation.
+So it's just a better, you know, better experience.
+However, I found that running that company,
+I got bogged down with, you know,
+scalability, reliability, security issues,
+you know, normal engineering issues
+that were really taking up all of my time,
+HIPAA compliance, PCI compliance,
+all of those kinds of things.
+So I exited the company seven years ago
+to concentrate on getting back to cranking up
+the intelligence to take it, you know, to the next level.
+And that's when I formed the current company,
+iGo.ai, again, hired a team of about 12 people.
+And for several years, we were in stealth mode,
+no customers, just concentrating on the core technology
+and making it more intelligent.
+Because human level intelligence is just, you know,
+it's a really, really hard problem to solve
+with current hardware and software technology that we have.
+So we're still quite a long way away
+from being at human level,
+but the idea is to have the right fundamental architecture,
+to have the fundamentally right approach
+that allows you to keep getting smarter
+and smarter systems, you know.
+So that's what we've been concentrating on.
+And then about, well, last year,
+we actually then commercialized our second,
+started commercializing our second generation
+of the technology.
+And we're just in the midst now of,
+we signed up some great customers
+and we, you know, now fully commercial again.
+But this time around, I want to make sure
+that while we pursue our commercial expansion,
+we continue actually also keeping a strong development team
+so that we don't get trapped, you know,
+just putting all of our energy into the commercial business
+and not really continuing to work on, you know,
+increasing, getting closer and closer to human level.
+Would it make the software available as open source
+would in a way solve that problem
+that you can have contributors from all around the world?
+Yeah, we've certainly thought about that.
+There are a number of challenges in that, you know,
+we've seen, for example, Ben Goetzel's project, OpenCog.
+And it's actually very hard to get people to work
+on an AGI project open source
+because it's a really long-term kind of thing.
+It's not easily divisible.
+And it requires, well, certainly in our approach,
+I found that, you know, most of the people we have
+on the team now have been with us three, four, five years.
+And it really takes a long time to get your head
+around this different approach
+that we have a cognitive architecture to, you know,
+to really learn the difficulties, the complexities
+of working with the system.
+So you really need to be dedicated to it full-time
+and have a long-term view
+or have somebody pay your bills, you know.
+And the other thing I found is very difficult
+to do it remotely, again, because we have a lot of,
+every day we have brainstorming sessions, you know,
+in terms of how do we solve this problem?
+And it's, I'm not, I don't think it's impossible
+to do it remotely, but it's just very hard, I think.
+Of course, right now, you know, this week,
+we have everyone working from home
+and we don't know how long that's gonna last,
+but it's definitely impacting communication
+and productivity, you know, in some way.
+So they are constraints.
+And then of course, the other thing with open source,
+you really make it that much more difficult
+to attract funding for a project.
+And, you know, clearly this is a long-term project
+that will require more funding.
+I've been funding it from, you know,
+basically my previous endeavors,
+but, you know, my pockets are only so deep, you know.
+So, you know, I've been able to afford to have 12 people,
+but, you know, you're not gonna solve human level AGI
+with 12 people, I don't think.
+So, you know, it's attracting investment,
+building a commercial company and all of that.
+And plus all the other reasons I mentioned,
+I don't think that open source is feasible.
+Now, having said that, we did actually very seriously
+investigate the year before last, you know,
+going the blockchain route, obviously when that was,
+you know, all the fashion and people were raising
+a lot of money with that way.
+So, I think there is a viable path
+once we get to a certain level of funding and size
+that similar to Wikipedia, we could have, you know,
+a set of contributors that are domain experts,
+you know, in how to help people manage stress
+or, you know, teach mathematics or whatever it might be,
+where they could then teach our AI, our IGO,
+they could teach IGO how to do these things.
+So, you would have, like Wikipedia,
+basically lots of contributors contributing
+to the central knowledge base.
+Now, of course, with the blockchain idea,
+the whole thing was that contributors would then get paid,
+you know, in tokens and IGO tokens
+for whoever uses that particular skill that they taught IGO.
+But that effort would still have taken quite a bit of money
+to build the infrastructure, the platform,
+to a point where people can make
+those kinds of contributions, you know,
+and we're not there yet.
+Our tools and documentation and the infrastructure
+really isn't at a place where we could have
+thousands or tens of thousands of people,
+you know, teaching our system additional things.
+But that is ultimately a path that, you know,
+we may well get back to, I hope we can get back to.
+Yeah, I was going to ask, because as far as I understand,
+Ben Goertzel's argument for Singularity Net,
+which is a decentralized blockchain-oriented platform
+for artificial intelligence, is to create the AGI,
+ultimately, as a result of millions and millions
+of narrow AIs that are not owned
+by any central structure of authority.
+And that seems to be the biggest danger for us right now
+going into this, who knows what kind of a decade
+this is going to be on the back of technological progress.
+But the idea that, let's say, the Chinese Communist Party
+is going to own the most powerful AI,
+or Google, or the US government,
+it's a terrifying kind of prospect.
+Right, yeah, there are many things, you know,
+from what you mentioned.
+So, first of all, all of my research
+indicates very strongly that a collection
+of narrow AIs will never be AGI.
+Oh, okay, so this is a different,
+fundamentally different route than Ben Goertzel's,
+with Singularity Net, okay.
+Correct, I don't believe it's possible.
+It's sort of, you know, somewhere,
+I mean, it's obviously not a simple debate,
+and, you know, Ben's a smart guy,
+and I don't know how much he believes
+that the society of, you know, open AI,
+or whether it's just kind of what makes sense
+to have right now, to do right now,
+because he actually had a much more highly integrated,
+his approach was actually much more similar
+to ours originally with OpenCog,
+that basically there was a central system,
+that knowledge graph that had all of the skills,
+you know, sort of in a tightly coupled,
+highly integrated manner,
+whereas if you have thousands of different AI developers
+developing little narrow AIs,
+you know, how do they communicate?
+How do you decide, you know, what,
+well, basically, I just, I'm convinced
+that that's not gonna lead to AGI.
+So, that's the one thing, so I think fundamentally,
+I mean, it may be good to have a marketplace
+for AGI algorithms, but then you're competing
+with, you know, Microsoft, and IBM, and Google,
+who already have these APIs
+where they're providing, you know, narrow AI APIs,
+basically, you know, microservices.
+So, I don't, yeah, I haven't studied, you know,
+the current system enough to see what benefits
+it could provide, but certainly,
+I don't think it's the right path to AGI.
+Now, as far as a single government also having AGI,
+AGI, it's a fairly complex argument,
+and, you know, we don't really know enough
+about the dynamics of AI.
+You get, for example, you get OpenAI,
+where the CEO of OpenAI made a strong statement
+where he says, all we need is more data
+and more processing power, and, you know,
+I guess that's how they got a billion dollars
+from Microsoft, or, well, I don't know how much
+of it they got, because most of that money,
+I think, will go right back to Microsoft
+as basically credits for that.
+And apparently, it's only a commercial wing of it,
+the whole thing's supposed to be non-profit.
+Yeah, yeah, so, you know, a lot of question marks there,
+but, yeah, I'm sure a lot of that billion dollars
+is actually just credits for Microsoft cloud services,
+but be that as it may, the point that I really want
+to make here is that he firmly believes,
+or at least firmly states, that all we need for AGI
+is more data and more processing power.
+I think it's completely, utterly wrong.
+You know, it's sort of the argument of having,
+if a million monkeys can't write Shakespeare,
+a billion monkeys aren't gonna write Shakespeare either.
+You know, obviously, again, they're subtle arguments,
+you know, and so on, but I firmly believe
+for a number of reasons, and I've written quite a lot
+about this on medium.com, I have a lot of articles
+of why the current deep learning, machine learning approach
+cannot lead to artificial general intelligence
+or real intelligence.
+It's fundamentally a dead end, it's a wrong path.
+So throwing more data and more processing power
+is not gonna solve the problem.
+So if you believe that more data and more processing power
+will solve the problem, then, of course,
+it's much more concerning that a government
+would basically have, you know, the most powerful AI.
+I don't believe that.
+I believe the, there is, I'm not saying
+that processing power ultimately isn't going to be important,
+but I also believe there will probably be an optimum size
+of processor beyond which you really want to decentralize.
+You want to have, you know, multiple AIs.
+So, you know, it's sort of similar saying,
+instead of having a thousand smart PhD level people
+working on a problem, you just want one Einstein
+with an IQ of a thousand.
+And I think there are trade-offs.
+Obviously, you want the highest level of IQ,
+but above a certain level, your increased IQ
+is probably less important than the diversity of approaches
+that are, you know, that are being tried,
+sort of having a community of AIs
+that can chip away at different problems.
+Now, if the right architecture for AGI
+becomes generally available,
+I think it will actually be feasible for, you know,
+a much wider range of institutions and companies
+and individuals to have AGI
+so that it won't be as centralized.
+So that's one reason why I'm less concerned
+about this sort of winner-take-all scenario.
+But there's another much more controversial thesis
+sort of that I have.
+And that is that I believe increased intelligence
+will actually lead to improved morality.
+Why is it controversial?
+Well, pretty much every time I say that, people will say,
+wasn't Hitler very smart?
+Or, you know, some comment like that, you know?
+Oh my God.
+So I think that, you know, if politicians got AIs
+as advisors, I think they would actually
+make better decisions, you know, less evil decisions.
+Because they would, you know,
+and the example I often give is in terms of
+things we do that are really bad or immoral
+that turn out to be, no, well,
+maybe that wasn't the best thing to do.
+A good example here is with today,
+I think most people would agree,
+America, you know, how America responded to 9-11
+instead of, you know, just zooming down on Afghanistan
+and, you know, invading Iraq.
+Maybe it wasn't the best thing to do, the smartest thing.
+And sort of what are the limitations in humans?
+Why do we do things that are wrong or bad or immoral,
+you know, that are basically detrimental to us?
+Well, there are three reasons.
+I mean, there are probably more of them,
+but three major reasons.
+The one is we tend to respond emotionally, you know,
+with 9-11, well, we've got to hit out.
+We've got to hit out at somebody, you know,
+somebody that falls, we've got to get back at somebody.
+So it's that emotional response,
+which is not always the best thing.
+The second thing is we don't really work
+with adequate information.
+You know, we don't, it's not easy for us
+to get right information.
+We don't have the patience, we're not very good at it.
+Whereas, you know, an AI will be able to have much better,
+work with much better information, you know.
+Were they really weapons of mass destruction?
+Well, I think with a little bit of research,
+it wouldn't have been that difficult to figure out,
+no, that wasn't an issue, that was just an excuse.
+And then the third thing we're related to that
+is we are just not very good at rational thinking.
+You know, evolution didn't really equip us to, you know,
+yes, we are the rational animal relative to animals,
+we're rational, but relative to what rationality
+could and, you know, should and could be,
+we're not actually very good at that.
+So if you have an AI advisor that over time
+has proven itself to give you good advice,
+you know, as an individual, as a politician, as a whatever,
+and it, you know, it would then say, well, you know,
+hang on, just wait a minute here.
+What is the best way to respond to 9-11 thing?
+You know, maybe there's a better way
+of achieving your objectives.
+What are you actually trying to achieve?
+You know, maybe there's a better way
+of achieving your objectives than invading Iraq
+and, you know, sending all your troops to Afghanistan.
+So I actually firmly believe that having this
+highly intelligent, rational advisor,
+objective advisor, will actually make people
+make better decisions and basically be,
+become more moral because the two are related.
+Now, just off the top of my head,
+I can think of two arguments against what you said.
+One would be what Elon Musk is saying,
+that you ask an AI to, for example, get rid of germs,
+and the best solution it will come up with
+is that to get rid of humans, all of them together,
+and there will be no germs.
+So that's one thing.
+The second thing is, what is the scale for us
+to evaluate these terms like better, worse, right or wrong,
+especially when we are dealing with
+a different type of intelligence,
+that the argument is that the alignment issue
+will remain our biggest challenge,
+that we don't know that the goals we have as humanity,
+which itself is debatable,
+have we agreed upon certain set of goals
+that we are pursuing?
+Are they gonna be shared by AI, and if not,
+is there any way for us to be able to co-exist
+rather than merging with it?
+Yeah, so yeah, I love these questions.
+Obviously, those are the obvious objections.
+So the first one you mentioned
+is sort of the paperclip argument, you know,
+is that, which I think is a pathetic argument,
+quite frankly, and I'm appalled
+that so many smart people have fallen into that.
+So it's basically the argument boils down to,
+you have this super intelligence
+that's so smart that it can outfox the whole of humanity,
+you know, and pave over the world with paperclips
+or whatever, you know, or wipe out humans,
+and we can't stop it.
+So that's how smart it is.
+It can outsmart all of us combined.
+Yet, it's not smart enough to figure out
+that that's not really what you wanted it to do.
+I mean, it makes no sense.
+Any AI that we build, one of the first things we do,
+and I mean, we do that right now with IGO,
+one of the most important things is you want your AI
+to understand what you want it to do.
+And that's an iterative process.
+You know, it's not a line of code that you say,
+I want paperclips or, you know, kill all viruses, you know.
+It's, you know, and I think it's,
+you have too many mathematicians and programmers
+basically involved in this field of AI safety
+that have really no relationship to cognitive psychology
+or even common sense or philosophy.
+That's not how you're gonna build an AI,
+that you're gonna be hard coding, you know,
+fruit shoe lines of code, you know,
+I want paperclips or, you know, give it.
+It has to have a whole lot of common sense,
+knowledge, reasoning ability, background
+for it to do anything useful for you, you know.
+So it has to, one of the things it has to be able to do
+is to figure out, to ask you to interact with you.
+I mean, it's like hiring somebody, you know,
+hiring somebody, would you hire a contractor
+and give them a billion dollars and say,
+hey, build me a house, you know.
+And, you know, okay, you're not telling them
+where you want it or why you want it,
+what you wanna do with it or what constraints there are.
+And, you know, if the contractor doesn't ask you
+and you just says, okay, I'll take your billion dollars,
+I'll build your house, you know.
+Right, but the contractor is working for you
+to get that billion dollars.
+What is the incentive for the AI to do
+what you want it to do rather than just pursue its own goals?
+Which goes back to the alignment issue.
+Yeah, okay, so yeah, that's,
+well, that's the other thing.
+Well, I think the problem there is that people assume
+that the AI will have an agenda of its own.
+It won't.
+The fundamental agendas we have are basically
+from our reptile brain, you know,
+it's basically to, you know, our selfish gene,
+to further our selfish gene or to rape and pillage,
+you know, to, you know, that's really what drives us
+and this is why we have egos and, you know,
+and all of those good things.
+Now, there's no reason that we would build an AI
+that would have a reptile brain.
+I mean, there may be some researchers say, yeah,
+I want an AI that is just as irrational as humans are,
+you know, so I'll give it a reptile brain.
+But that would actually be, first of all,
+not many people would do that
+because, you know, you're commercially driven,
+you don't want the thing to turn around and bite you.
+So, but, you know, first of all,
+there'd be very few of those instances
+where somebody actually builds one.
+So you have a lot more good cops and bad cops in that regard.
+But secondly, they're gonna be much less efficient
+because they're gonna suffer irrationalities
+that they're going to, you know,
+act out of their reptile brain responses
+and they're not gonna,
+they're gonna be less effective, basically.
+So, no, AIs are not going to inherently
+have their own agenda.
+They will be built specifically
+to do what we want them to do.
+I mean, that's what we building
+and that's, you know, the hardest thing to get the thing.
+Not that it wants to do its own thing.
+It's just, you know, the most likely failure scenario
+by far by orders of magnitude
+is that the thing won't work properly.
+It'll have a bug and crash and be stupid.
+That's a much, much harder problem.
+You know, people just,
+a lot of these sort of AI safety experts
+assume that getting intelligence will be the easy part
+and that alignment will be the hard part.
+No, no, it's exactly the opposite way around.
+Getting to AI,
+getting an AI that actually understands,
+that can learn, that can reason,
+that's the hard part.
+And in building such a system
+that can actually do useful things for us,
+an inherent byproduct, an essential byproduct,
+prerequisite, I think I should say,
+is that it actually understands what you want.
+And no, it's not gonna have an agenda of its own.
+There'd be no reason that it would have that.
+Is DeepMind closer to your perspective?
+Because my understanding is that their mission statement
+is solve intelligence and then solve everything
+as a consequence of it.
+Yeah, I totally agree with their mission statement.
+I wish I had their resources.
+I think they're fundamentally on the wrong track
+with deep learning, machine learning.
+And I think they already acknowledged that.
+Dan Misosabe, if you listen to his presentations
+that he gives, he says,
+we have deep learning as this problem, this problem,
+this problem, this problem.
+These are the problems we need to solve
+in order to get intelligence.
+And I haven't heard him really give any answers
+that he has any answers,
+just that we need to keep chipping away at it.
+And I think it seems that they're also spending a lot of,
+putting a lot of effort into understanding
+how the brain works to try and find answers
+to those problems.
+Now, I think they're looking under the wrong tree
+or bush or whatever.
+I think because of the success they've had
+with deep learning, machine learning
+in those narrow applications,
+obviously being able to beat the world gold champion
+is phenomenal.
+Who would have thought 10 years ago
+that we'd be able to do that?
+That was kind of an unsolved AI problem.
+But all the problems they've been tackling
+are narrow AI problems.
+And they don't fundamentally address
+the requirements of intelligence.
+And, but they've got 600 or whatever PhD level people
+that are experts at mathematics, statistics,
+machine learning, deep learning, data science and so on.
+Those are not the right skills to solve intelligence.
+You first have to understand what cognition is.
+So you really need to be a cognitive psychologist
+to first understand what intelligence is,
+what it entails.
+Not some mathematical sort of formulation of intelligence
+which is kind of the approach they have.
+And then you need to say, well, once we have a list
+of what are the essentials that intelligence requires,
+then your research needs to be focused.
+Your development needs to be focused
+on addressing those problems
+and not addressing problems that will maybe impressive,
+impress people and maybe some breakthrough in AI
+or maybe some AI benchmark or so.
+Because what everybody in AI is doing is narrow AI.
+So putting more effort into getting better at narrow AI
+isn't gonna help you build AGI.
+Right, you're just gonna have
+better narrow AIs basically.
+Correct, yeah.
+Now, obviously based on what you were saying,
+this is an incredibly complex kind of a problem
+and approaching it is very important
+to how it's being approached.
+As you said, 600 PhD,
+it's not enough necessarily to fix the problem.
+I wanna read some headlines,
+all of them following the same topic.
+These are what people are getting their image of AI based on
+and get your reaction.
+Guardian has said,
+disastrous lack of diversity in AI industry
+perpetuates bias based on a study.
+Fortune has said,
+how to fix artificial intelligence's diversity crisis.
+I did not know that we have diversity crisis
+in artificial intelligence.
+AI authority, five ways artificial intelligence
+bring diversity to the modern workplace.
+MIT, using artificial intelligence to promote diversity.
+IBM has a paper,
+the role of AI in mitigating bias
+to enhance diversity and inclusion.
+There is a think tank called diversity.ai,
+a think tank for inclusive artificial intelligence.
+And Wired has a magazine that AI is the future,
+but where are the women?
+And making the argument that just 12%
+of machine learning researchers are women,
+a worrying statistic for a field
+supposedly reshaping society.
+Are these really what we need to focus on?
+And aren't these just a waste of resources
+and really educating the people?
+Because at the end of the day,
+all of these technology work
+as well as the society that adopts it.
+Yeah, sorry, I've got a phone ringing.
+It's all good.
+Okay, no more.
+All right.
+So, yeah, I mean,
+they're obviously the kind of things that,
+sort of moral posturing,
+that people can say,
+how terrible is this and how terrible is that?
+Well, I can tell you when,
+I mean, first of all,
+we have a lot of women on our team
+who are excellent cognitive psychologists.
+We call them AI psychologists,
+who are linguists and cognitive psychologists
+who do a fantastic job.
+And I assume they were not hired
+because they were women.
+Not at all.
+Yeah, exactly.
+Not at all.
+They were hired because they were the best candidates.
+And so,
+there's such a shortage of talent
+in the deep learning, machine learning field.
+I very much doubt that there's a huge barrier
+for women getting into the field.
+Now, are there problems in terms of management structures
+and old boys clubs and
+sexual harassment and so on?
+Absolutely, there are problems,
+but they're not unique to AI or machine learning.
+In fact, I think they probably much less
+than in other more established industries.
+So, that's kind of the one thing.
+Now, as far as bias in algorithms is concerned,
+well, yes, of course,
+if the data you're feeding into the system
+is from a certain demographic
+or has certain whatever incarceration,
+if the wrong people were incarcerated
+and that's what you train the system with,
+yeah, it's gonna be wrong.
+But to me, that's an engineering problem.
+It's basically, the algorithm isn't working
+the way it should be working and you need to fix it.
+It's not like big moral thing that deep learning is bad.
+It's like whether you have an expert system,
+whether you have a manual system
+that people go through a checklist of
+who to give credit for, who to lock up or whatever.
+It's a bug in the system and you should fix the bug.
+It just seems that it's judging ethics and morale,
+judging something that is beyond ethics and morality
+using ethics and morality.
+And I think this is important also to talk about,
+you said our ethics and morality in large part
+is coming from our lizard brain.
+One of the questions that I keep asking technologists,
+philosophers, thinkers who I have in this show,
+whether or not ethics and reality are objective
+or subjective to begin with.
+And if they're not objective,
+then how are we gonna pin it down to something
+that we can implement within the machine?
+Right, right.
+Well, in fact, yes, I guess that's the other part
+of the question you asked me earlier
+in terms of what morality do we imbue our system with,
+with the alignment problem and because different people.
+And yes, I find that absolutely shocking
+that tens of millions of dollars
+or maybe hundreds of millions by now
+are going to AI safety type of organizations and so on.
+And I've had quite a bit of contact with them,
+the conferences and so on.
+And you ask these people, okay, what is morality?
+Can you define it?
+How do you actually decide right from wrong?
+And they're completely silent.
+They're completely stumped by that question.
+So here they're talking about
+we have to program our system with morality,
+which makes no sense to me anyway,
+that you can program it.
+But even if you could,
+what morality, if you don't believe morality
+is something objective,
+then what are you fighting for even?
+What's the basis of your whole organization
+in terms of what, if you can't define what's good
+and what's bad, now, I do firmly believe
+that morality should be, is and should be,
+could be objective, that the right morality is objective.
+And again, I have some fairly long articles on medium.com
+about that, and it's, you know,
+you basically have to say, why do we need morality?
+What is the purpose of having morality in the first place?
+And that kind of immediately gives you the goal.
+The reason we have morality is, or should be,
+not that we go to heaven or that we conform
+to some dictator, but that we optimize
+individual human life, that we optimize flourishing.
+And then you can debate, you know,
+is it the greatest good for the greatest number or so?
+And I think there are very good arguments why no,
+it should be individual flourishing rather than,
+you know, aggregate flourishing,
+because if you can have a system
+where each individual can optimize their flourishing,
+that includes the community that you're part of as a whole.
+I mean, these are not arguments, you know,
+one can get through in a few sentences,
+but that's sort of the conclusion I've reached.
+So if human flourishing is the goal,
+the purpose we have morality or why we should have morality,
+then it actually becomes objective,
+because you can say, well, what is involved in flourishing?
+And flourishing is, well, the obvious thing is,
+you want good physical health, you know,
+that's part of flourishing.
+You want mental health, you know, well-being
+and emotional well-being.
+And then, of course, also sort of material well-being
+as part of it. Resources, right.
+Yeah, resources.
+So once you have that, and now the details of what,
+you know, exactly what resources might be important
+or what kind of life somebody wants to lead,
+you know, there's very specifics,
+but there's actually a lot of overlap in what flourishing is.
+There are a lot of things you can subtract.
+Basically, if you are ill, physically ill,
+well, that's not optimal.
+So, you know, that you can, and mentally as well,
+if you are distressed, if you are depressed
+or, you know, just not able to think clearly or properly,
+then that's negative.
+So we kind of know what the negatives are, you know,
+where non-flourishing is.
+And then you can basically build, you can figure out
+what are the principles that you need to live by.
+And those are basically your moral principles,
+which you then automatize.
+As you practice them, you automatize,
+and they become your virtues, your characteristics
+of what you normally do.
+So to give an example, you know,
+is lying a good thing in principle, you know,
+or is being truthful basically beneficial
+to achieve on average, you know,
+not in every particular instance, but on average.
+Once you come to that conclusion,
+if you start living that way,
+especially not lying to yourself...
+Yes, that's the biggest challenge
+and the biggest outcome that it can achieve.
+Yeah, it has to start by yourself,
+because if you say, you know,
+I'm really such a good person and so honest
+and so generous or I'm so smart
+or I'm so productive or whatever,
+and if that isn't true,
+then reality is going to impinge on you
+and undermine your ability to optimize your life.
+So it's basically these moral principles, I think,
+are objective that will help people optimize lives.
+So, yeah, absolutely, I believe it,
+that morality should be objective,
+but, you know, again, the AI safety community
+doesn't seem to even have begun to address that problem.
+It's just like money, raising money,
+using excuses, it seems like, I don't know,
+I totally agree with you.
+Obviously, I mean, I've met a lot of people
+and they're really, you know, genuine people,
+they really genuinely believe there is a huge problem.
+I mean, many of them, you know,
+that there is a real problem, a real threat,
+and they're actually dedicating their lives.
+I mean, you know,
+not everybody's making a lot of money out of it,
+and they really believe that.
+I think they're just misguided in so many ways.
+Your approach sounds very stoic to me,
+your approach to AI,
+even when you mentioned earlier that electronics,
+you said, well, it's taking a long time,
+are you just going to focus on software programming?
+It reminded me of I had William Irvin,
+who is a stoic writer on the show,
+and he said that he had a midlife crisis around 40,
+and he was very attracted to Zen,
+but then he found stoicism.
+It's like, well, with Zen,
+you have to practice for years, it might work,
+it might not work, stoicism,
+you can just focus on it over a weekend
+and you get a result.
+This is very interesting.
+I'm totally down with the stoic AI.
+Yeah. Yeah, no.
+Yeah, I'm not sure where,
+how far it would take the stoicism,
+but I mean, I've spent the last 20-plus years,
+more like 25 years now,
+really pursuing AI and AGI,
+and I couldn't imagine what I'd rather be doing.
+I mean, it's the most exciting thing in the world.
+I'm also, you know, just through my background,
+my interest in, you know,
+really understanding hardware design
+and language design and software design
+and having a real interest in psychology
+and philosophy,
+I'm sort of, I feel that I'm ideally suited
+to working on it, you know,
+that I really believe that these,
+this understanding of philosophy epistemology
+in particular, what is knowledge,
+how do we know anything,
+the importance of concepts
+and how do we form concepts, you know,
+I mean, concepts, abstract concepts
+are the key to human intelligence.
+But again, it's understanding intelligence
+understanding cognition has to be a prerequisite
+for building artificial intelligence.
+How would you define intelligence so far
+based on what you've gathered and what you have learned?
+Yeah, there isn't a concise description.
+I mean, I, you know, somewhere in my writings,
+I do have a sort of a one or two sentence description,
+but it's really a description rather than a definition.
+But it's the ability to learn,
+learn is important,
+learn to solve new problems within,
+in real time with constrained resources.
+And IQ is a reliable measurement for that?
+Not, no, not entirely.
+My study of IQ, I was actually involved in
+helping to develop a new psychometric test
+that doesn't have the same cultural bias
+as a lot of existing IQ tests have.
+And one of the things I learned from there
+that the most important subcomponent of intelligence
+that really identifies
+which people are able to solve many different problems
+that basically are, you know, able,
+whether they emotionally are doing it or whatever,
+but they're able to solve problems,
+is the component of metacognition.
+And that's basically conscious or subconscious,
+mostly, mainly subconscious ability to know
+what a mental approach you need to take
+to solve a particular problem.
+Because, you know, we have the ability to think logically,
+we have the ability to think abstractly,
+to use our intuition,
+to rely on memory or more or less, and so on.
+So metacognition is basically when you come across a problem
+that you choose the right tools,
+the right mental tools to pursue the problem,
+to, you know, yeah,
+to basically not go down the road
+of trying to solve something methodically, logically,
+if the problem is not of a kind that can be solved that way,
+you know, that need to be solved more intuitively
+and vice versa.
+So is it being creative?
+That's part of it, but not the main part of it.
+I don't think intelligence necessitates creativity.
+I think they're somewhat on different mentions.
+No, it's basically using the right mental tools for the job.
+That is one of the key differences between people
+who have high IQ and are, you know, competent,
+generally mentally highly competent,
+that they tend to use the right methodology
+and not get stuck in the wrong methodology.
+Considering...
+I'm sorry.
+Well, just one, kind of one of the insights from studying IQ.
+But yeah, IQ is not the, you know,
+the only thing that really tells you
+whether somebody is intelligent or not,
+but it's also quite useful.
+Well, just this topic seems to be so controversial
+that the moment you started delve a little deep into it,
+everybody talk about, well, you can't really talk about,
+like, dividing people based on intelligence
+on the basis of, let's say, race or culture or country,
+because the argument can be made that just look at
+whatever culture that we have right now in the world
+and how they have evolved to become what they are,
+and obviously it must have been a greater intelligence
+behind building a city like Tokyo
+compared to somewhere else that is not very pleasant,
+for example, or productive.
+So have you found or come across any kind of a challenge
+in the sense that, again, going back to making ethics,
+ethical and moral kind of an argument against something
+that is incredibly practical and important
+to studying intelligence and understanding it?
+Yeah, so it's a pity that studying intelligence
+and differences of intelligence
+has become like third rail or whatever.
+You basically, you can't study it, basically,
+unless you claim that there are these multiple intelligences
+and everybody is equally intelligent
+just in a different way.
+And I kind of say, well, yeah, there's that person
+who's really, he's got a very high rating
+in wife-beating intelligence, whatever.
+I'm sure you can find something
+if you want to make sure that everybody has an IQ
+of 140 in something.
+No, it's quite ridiculous that you can't really study it.
+But it's also, it's not that super important, I think.
+There are, there's certainly, I mean,
+there's so many flaws in the educational system,
+first of all.
+There's so many problems with people who are smart
+but just emotionally aren't equipped
+or don't have the discipline or whatever.
+There's so many different components involved.
+So ultimately, artificial intelligence or AGI,
+of course, in many ways will very rapidly exceed,
+I mean, already, of course, narrow AI exceeds human capabilities
+in so many ways.
+So artificial intelligence, AGI, will, of course,
+be so much more powerful in so many ways,
+but it will struggle with some of the things
+that are easy for us, for humans,
+and that's where those are going to be
+the hardest problems to solve.
+But when you said, I think you also asked me about,
+do I have a head resistance?
+Absolutely.
+I have people claiming, well, there is no such thing as AGI,
+artificial general intelligence.
+And I actually chose the general particular.
+I was particularly happy with calling it AGI,
+artificial general intelligence,
+actually referring to the little G in cognitive psychology,
+in intelligence, because I do believe
+that the general learning ability is the key to AGI,
+and it's a learning ability,
+the ability to learn new things in real time.
+And there's a confusion between when people say,
+well, surely deep learning is learning.
+These are learning systems, and you can't say they don't learn.
+Well, there's a huge, huge difference
+between collecting a massive amount of data,
+tagging the data, number crunching it,
+and building a model that gets deployed,
+but as a read-only model, essentially.
+Don't understand it.
+Well, it doesn't understand,
+but it also cannot learn interactively.
+Right.
+So the key to intelligence is it needs to be able to learn
+and understand, needs to be able to understand and learn.
+I mean, what we do and what an AGI needs to be able to do
+is what we do is when we hear or see something,
+we make sense of it straight away.
+If we see something that doesn't make sense,
+we might look around to kind of,
+okay, well, what does this mean, you know,
+or focus or whatever.
+If we hear something that doesn't make sense,
+we might ask for clarification or we might think about it.
+Hey, what did I just hear?
+What does the person mean?
+And you might think about it and, oh, okay,
+that's what they mean.
+So whatever we perceive, we make sense of it
+and we integrate that information
+so it's available to be used.
+Just to show you, just to kind of demonstrate
+how pathetically limited, you know,
+these current chatbot systems are, you know,
+and these are developed by multi-billion dollar companies.
+I think Amazon has 10,000 people working on Alexa, you know,
+and I mean, that masses amounts of money being thrown at them.
+But you take a very simple sentence,
+just five or six words,
+my sister's cat Spock is pregnant.
+You know, any five-year-old child will be able to make sense of it.
+You know, I'm speaking, Peter is speaking,
+I have a sister, my sister has a cat,
+the cat's name is Spock,
+you think it's probably male from the name,
+you hear it's pregnant, you know, I know it's female.
+You know, a five-year-old child will have no problem
+integrating that information
+and now the next sentence might be she's really big
+because she's pregnant,
+or next week you might ask have the kittens arrived, you know,
+and you can make sense of it.
+The current chatbots like, you know, Alexa, Siri or any of them
+don't have a hope in hell of even beginning to understand that,
+to learn that, something as simple as that.
+That's how fundamentally flawed their approach is
+by, you know, building the model
+and then deploying a read-only model
+that cannot learn new facts interactively,
+that cannot reason about them,
+cannot integrate them into its existing knowledge,
+can't ask for clarification if it doesn't understand.
+They have none of those cognitive capabilities.
+So, you know, that's a dead end.
+It's a road to nowhere as far as intelligent systems are concerned.
+And these are the cutting-edge models of what is happening in the field.
+By the big companies, yeah.
+So considering that, what do you think about Elon Musk's Neuralink
+and the argument that the only way that we can basically survive
+what's coming is by merging with artificial intelligence?
+Yeah. So, yeah, that's kind of an interesting approach.
+So, first of all, a little bit tongue-in-cheek.
+I say, well, you know, we're going to have real AI from machine,
+you know, machine AI, hardware-based AI,
+way before we ever have intelligence augmentation,
+which is basically what they're talking about.
+And the knockdown argument is just three letters, FDA.
+You know, I mean...
+It goes back to government ruining everything.
+Yeah. I mean, to have anything like that approved, you know,
+will take centuries, you know.
+But, you know, that's a bit tongue-in-cheek.
+No, I think while there are, you know, obviously important applications
+that will be useful for that, that's not a pass to AGI at all
+because the bandwidth at which we can receive things
+and transmit things is so much lower than, you know, hardware-based AI can.
+And messing with our wetware is just incredibly hard and risky.
+So, no, that's not the way to AGI.
+And so what I do see, though, is that we will have personal assistants
+that are so closely coupled, psychologically coupled to us
+that they become basically our exocortex.
+So it's not that we can enhance our wetware.
+I think that's just way too hard,
+but that we can extend our minds, our brain, our wetware,
+through external devices, but that will be psychologically closely coupled to us.
+And the way I see that working out is basically similar to, you know,
+people who've been married for a long time or whatever.
+You know, they, at a certain point,
+they don't really remember or care whose idea something was, you know.
+You know, it's sort of, and it's just a psychological coupling.
+So in a similar way, if you have your, you know,
+we actually call it a personal personal assistant.
+We trademark that name because the word personal is so important
+for like three different meanings of the word personal.
+First of all, personal in that you own it.
+So it's owned by you and it serves your purpose,
+not some mega corporation's purpose.
+Secondly, it's personalized to you.
+So, you know, it's not a one size fits all.
+It knows your particular goals, your history and so on.
+And the third personal is that it's personal in the sense of private,
+that you decide what it shares with whom.
+So once you have this personal personal assistant
+that you interact with all the time, you know, initially think of it,
+you know, like a Siri or something, but just much smarter.
+And you ask it for advice or ask it to look up something
+and it gives you a result.
+And, you know, initially it will be,
+oh, yeah, my IGO recommended that I buy these stocks
+or that, you know, I take this job or, you know,
+take this treatment or whatever.
+But after a while, as you interact with it,
+you won't really even remember or care
+whether it was your decision or the AI's decision.
+It'll just be part of you.
+So I see that way of us extending, of having an extra cortex,
+of extending our mental capacity much more feasible
+than trying to hack our wetware.
+Do you have a time frame for something like that?
+I actually believe we have the hardware technology exists in principle.
+I think software technology exists in principle.
+I think it just needs quite a few people working on it.
+I think if there was focused effort to AGI
+with the right team and the right architecture,
+I think we could have human level intelligence in seven years.
+Wow.
+Yeah, I don't...
+That's amazing.
+It's also amazing because Aubrey DeGray was on Joe Rogan
+and he said that next huge breakthrough with respect to aging
+is coming between five to seven years.
+And he said that the change is coming overnight
+because the moment that people can say,
+hey, we have the possibility of living, I don't know, 200 years,
+then the expectation change and then the policy hasn't changed with it
+and policymakers are incredibly slow.
+So that was his biggest concern.
+Do you see the same kind of risk?
+Because I see this coronavirus, the way that it exponentially grew.
+A very good example about how AI can, for example, spread
+and how AI can grow or anything that has anything to do with exponential growth
+and how people are unprepared for it because we can't even fathom this exponential growth.
+Yeah. Oh, absolutely.
+It will happen with AI
+because once you get to a certain level where it becomes clear
+that this is really something different,
+I mean, once you get to a point where right now our AI level where we are
+and we typically say if Siri and Alexa have an IQ of 10,
+not that IQ is the right measure, but if they had 10, we're at 25 or 30,
+still a long way from human level.
+Right now, if I let our AI loose on Wikipedia
+and I'm not talking about some statistic or big data
+which IBM and all of them feed the whole of Wikipedia in,
+but there's no understanding of it.
+It just picks up certain correlations
+and it might be able to answer certain questions,
+but it doesn't really understand or integrate what it reads.
+Currently, if we let our system loose on Wikipedia,
+it might be able to read or understand 10 or 15% of the text that's there
+which isn't really enough to bootstrap itself,
+but at a point when our system, IGO or some other AI,
+can actually read text like that and then ask a human for clarification.
+Hey, can you explain this to me? This doesn't make sense to me.
+Can you point me in the right direction?
+And you can have that kind of self-learning, assisted self-learning
+that truly understands and integrates the knowledge that it acquires.
+Then things can happen very, very quickly.
+And so there's a certain takeoff point, escape velocity or whatever
+in terms of acceptance of AI.
+And then, of course, funds, unlimited funds will be available
+and then everybody will want one, everybody will work on it.
+I mean, similar to how everybody jumped on deep learning, machine learning.
+I mean, it exploded exponentially over just a few years
+and really limitless funds really became available for deep learning, machine learning.
+But once the real AI hits that inflection point where people say,
+hey, this stuff looks like it's really going to work,
+then things can happen very quickly.
+So yeah, will people be unprepared for that? Absolutely.
+Peter, what is next for you and where can our audience follow your work?
+So, well, our website is iGo.ai and we have links to articles and so on.
+So we've just launched commercially at the moment.
+Our focus is on getting more customers and we're targeting large enterprise companies
+that are trying to offer a much better conversational AI experience,
+hyper-personalized sort of concierge service.
+There are many, many different applications, whether it's your in-car experience,
+whether it's a robot in a hospital or hotel,
+whether it's a gaming coach that helps you teach you how to be a better gamer,
+whether it's for diabetes management,
+whether it's for a retail company that wants to offer you a personalized chatbot, basically,
+with a brain, chatbot with a brain.
+So there are many, many different applications wherever conversational AI is involved.
+So that's obviously our big focus now.
+We're also trying to raise more money.
+As I say, my pockets aren't deep enough to scale the company quickly.
+So we're looking for the right kind of investors who really believe in the strategy that we have,
+the power of general intelligence and where that's leading.
+So that's where we are.
+I think there's one thing I haven't mentioned that might be also useful to just talk about briefly,
+and that is where does our approach fit in?
+Because clearly, just from what I've said, it's not deep learning, it's not machine learning.
+DARPA actually have a useful way of looking at it.
+They've been presenting what they call the third wave of AI.
+So they talk about three waves of AI, and they actually have a fund to fund the third wave of AI.
+And what they mean by the three waves of AI is the first wave is basically good old-fashioned AI.
+It's all the stuff that was done for decades in AI, mainly logic-based systems, expert systems,
+formal logic, flowchart-type approaches, and some statistics and so on.
+So that's the first wave.
+And then the second wave, of course, hit us like a tsunami about seven, eight years ago.
+That's all about deep learning, machine learning.
+And of course, there's now a whole generation of people, when you talk about AI,
+that's the only thing they actually even know about in AI.
+It's machine learning, deep learning, it's big data.
+But the third wave that DARPA has identified is basically adaptive systems,
+systems that can learn and understand and reason in real time.
+And I identify that as what I call a cognitive architecture.
+So your architecture inherently has all of the components required for intelligence,
+such as real-time learning, reasoning, common sense reasoning, short-term memory,
+long-term memory, and the ability to disambiguate and to focus and have goal-directed behavior,
+and all of the different essentials of intelligence that your architecture inherently has components for that.
+But they also have to be put together in a certain way, but that's sort of a whole other topic.
+But that's the third wave of AI is basically a cognitive architecture.
+Are there any other individuals, companies, who are approaching it similar to the way that you're seeing it?
+There have been cognitive architectures that have been around for quite a while.
+Unfortunately, they've now all been cut off basically in the last five, ten years.
+I had a brilliant intern from Germany working on our system.
+He really understood the cognitive approach and engineering side of it and so on.
+He went back to Germany to do his PhD.
+He couldn't find a sponsor for cognitive architecture.
+So people are saying, well, cognitive architecture, we've been trying them for 30 years.
+They haven't worked.
+What they don't realize is that 10 years ago, if you said I'm using a neural network to solve this problem,
+they say, oh, neural networks, we've tried those for 30 years and they haven't worked.
+So things don't work until they do work, you know, sometimes.
+So, yeah.
+So, no, I don't actually know.
+I mean, there's some university projects, a few small projects, one-man shows and so on.
+But basically, you can't get funding for it.
+You can't get paid.
+You can't get any love for this approach.
+As far as I know, we're the only company that's actually put 15 years of effort into it.
+We've already commercialized our first generation and we've been consistently developing this and commercializing it.
+I'm not aware of any other company that actually has a commercial cognitive architecture.
+The status quo seems to be a problem.
+I was talking to a friend of mine who is a physicist and he was saying at some point all the funding was going to string theory.
+If you were doing anything other than string theory, they had no interest in it whatsoever.
+It's exactly the same thing.
+Yeah, and Aubrey de Grey, of course, has sort of a similar problem, you know.
+And, yeah, nanotechnology, of course, also kind of suffers that sort of lack of love, you know,
+than when people cottoned onto nanotechnology and how wonderful it was and suddenly it turned into material science.
+But if you're trying to do real molecular nanotechnology, you can't get funding for that either.
+Man, I should have you back and talk about futurism for another hour, but I know your time is limited.
+Before I ask you the last question, we talked about how many other different areas aside from artificial intelligence you've studied.
+Who are some of the work and people who have inspired you were coming from the fields other than artificial intelligence?
+Well, I moved to America in 1995, 25 years ago.
+And when I came here, I was like a kid at a candy store, you know, like a lot of the authors that I've read before.
+I could now actually meet them in person and, you know, befriended some of them and met all of these just brilliant people working cutting edge technology.
+You know, Eric Drexler was one of one of them in nanotech and then Roy Walford in calorie restriction.
+And, you know, he was one of the pioneers in calorie restriction research.
+And I read his book, spoke to him and so on, and that, you know, very quickly decided that calorie restriction made a lot of sense.
+You know, I want to be healthy and live as long as I can, hopefully long enough for Aubrey and people like that to all our A.I.
+to help, you know, solve the problem of aging.
+Found that about cryonics research that that made a lot of sense to me.
+So I signed up for cryonics, you know, that core.
+Yeah. OK. So if all if all else fails, you know, it's a safety net of unknown fabric.
+But, you know, it's it's the second worst thing that can happen to you is to end up in the duo.
+So, you know, just a lot of exciting things.
+And, you know, obviously a lot of people in A.I. that I met.
+But, yeah, just super exciting to, you know, to be part of it.
+But, you know, this was 25 years ago when I started, you know, just here in California in particular, being exposed to all of this.
+Super exciting. But I would never have thought that 20 years later we would have made so little progress in nanotech aging research and and A.I.
+mainly for the reason that they haven't had funding.
+And also social adaptation keeps coming up that just anything would work as well as a society that adopts it.
+Yeah. Well, cryonics that we have, you know, just a few thousand less than two thousand people signed up for seven billion.
+It just mind boggles, you know. So, yeah, that that that's quite a shocker.
+So, you know, well, we just need to chip away at it and make it happen.
+Absolutely. Peter, let me ask you the last question.
+I want to ask all my guests that if you come across an intelligent alien from a different civilization, what would you say is the worst thing humanity has done?
+And what would you say is our greatest achievement?
+Well, OK, I haven't thought about that. Well, our greatest achievement, I think, is the parts of where rationality has actually created a better society, has created science.
+So the scientific method, I think the the American system.
+Well, obviously, it's it's suffering, but, you know, the basically having a lawful society that allows people to pursue their own interests, that protects their individual rights.
+So that that kind of civilization that that we've created in the scientific method, I think those are our biggest achievement.
+And I think the biggest mistakes, I think, are superstition and religion. I think they've held us back tremendously.
+I think they're really very detrimental to mankind.
+Thank you.

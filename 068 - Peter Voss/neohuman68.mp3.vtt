@@ -1,0 +1,3833 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+I really believe that this understanding of philosophy,
+
+00:05.460 --> 00:08.240
+epistemology in particular, what is knowledge?
+
+00:08.240 --> 00:10.960
+How do we know anything, the importance of concepts
+
+00:10.960 --> 00:13.280
+and how do we form concepts?
+
+00:13.280 --> 00:15.740
+I mean, concepts, abstract concepts are the key
+
+00:15.740 --> 00:17.400
+to human intelligence.
+
+00:17.400 --> 00:19.960
+But again, it's understanding intelligence,
+
+00:19.960 --> 00:23.000
+understanding cognition has to be a prerequisite
+
+00:23.000 --> 00:25.680
+for building artificial intelligence.
+
+00:25.680 --> 00:30.680
+Hello, and welcome to the 68th episode of New Human Podcast
+
+00:37.520 --> 00:40.960
+at Magabahari Edicologist on Twitter and Instagram.
+
+00:40.960 --> 00:44.000
+And you can follow this show on liveinlimbo.com,
+
+00:44.000 --> 00:45.540
+iTunes, YouTube and BitChute.
+
+00:45.540 --> 00:48.700
+And today with me, I have a pleasure of having Peter Vos.
+
+00:48.700 --> 00:50.600
+Welcome to New Human Podcast, Peter.
+
+00:51.800 --> 00:53.400
+Thank you, thanks for inviting me.
+
+00:53.400 --> 00:56.120
+Yeah, you were the first ever recommended guest
+
+00:56.120 --> 00:58.680
+to come on New Human Podcast by my dear friend,
+
+00:58.680 --> 01:02.240
+David McFadden, who I believe used to work for you.
+
+01:02.240 --> 01:05.280
+Yeah, absolutely, yes, right.
+
+01:05.280 --> 01:07.740
+It only took us 68 episodes to get to you,
+
+01:07.740 --> 01:11.380
+but I think this is a good place and good time
+
+01:11.380 --> 01:13.580
+to talk about a lot of different things
+
+01:13.580 --> 01:16.760
+in the context of intelligence and artificial intelligence.
+
+01:16.760 --> 01:19.320
+But let's start with your background,
+
+01:19.320 --> 01:20.880
+the work you've done, the lives you've lived
+
+01:20.880 --> 01:23.560
+and what are you mainly focused on now these days?
+
+01:23.560 --> 01:27.120
+Okay, sure, yeah, let me give you a rundown.
+
+01:27.120 --> 01:31.200
+So I actually didn't finish high school.
+
+01:31.200 --> 01:33.520
+So, you know, personal circumstances,
+
+01:33.520 --> 01:38.520
+I started work at 16, talked myself electronics,
+
+01:38.640 --> 01:41.240
+became an electronics engineer,
+
+01:41.240 --> 01:43.640
+started my own electronics company.
+
+01:43.640 --> 01:46.800
+Then I fell in love with software, you know,
+
+01:46.800 --> 01:49.360
+instant gratification, you have an idea
+
+01:49.360 --> 01:51.040
+and you can sit down for a few hours
+
+01:51.040 --> 01:52.880
+and you've got something that's working.
+
+01:52.880 --> 01:54.400
+As opposed to electronics, you know,
+
+01:54.400 --> 01:56.920
+usually it takes a long time to build something.
+
+01:56.920 --> 02:01.320
+Anyway, so I've really been involved with, you know,
+
+02:01.320 --> 02:03.960
+software and programming for a long time now.
+
+02:03.960 --> 02:06.400
+I've built several technology platforms,
+
+02:06.400 --> 02:10.760
+including database engines and programming languages.
+
+02:10.760 --> 02:13.600
+I also built an ERP software system,
+
+02:13.600 --> 02:15.340
+built a company around that.
+
+02:15.340 --> 02:16.680
+That became very successful.
+
+02:16.680 --> 02:19.100
+We went from the garage to 400 people,
+
+02:19.100 --> 02:20.560
+did an IPO.
+
+02:20.560 --> 02:23.660
+So that was super exciting, love to do that again.
+
+02:24.880 --> 02:27.720
+So it's when I exited that company,
+
+02:27.720 --> 02:30.360
+I had enough time and money on my hands to say,
+
+02:30.360 --> 02:33.160
+what do I, you know, what big project do I want to tackle?
+
+02:33.160 --> 02:36.200
+And, you know, the obvious thing for me was
+
+02:36.200 --> 02:38.360
+how can we build software
+
+02:38.360 --> 02:40.480
+or can we make software more intelligent?
+
+02:40.480 --> 02:43.680
+How can we build machines that can think and learn
+
+02:43.680 --> 02:45.640
+and reason the way humans do?
+
+02:45.640 --> 02:50.640
+So I took five years to study cognition, intelligence,
+
+02:52.120 --> 02:53.560
+actually much broader than that.
+
+02:53.560 --> 02:57.720
+Even, you know, epistemology, theory of knowledge,
+
+02:57.720 --> 03:01.400
+different aspects of philosophy, ethics,
+
+03:02.760 --> 03:05.800
+and, you know, how do children learn?
+
+03:05.800 --> 03:07.560
+What do IQ tests measure?
+
+03:07.560 --> 03:10.560
+How is our intelligence different from animals?
+
+03:10.560 --> 03:11.960
+All of those different aspects.
+
+03:11.960 --> 03:13.200
+I really deeply understand
+
+03:13.200 --> 03:15.360
+what cognition and intelligence is.
+
+03:15.360 --> 03:16.440
+And during that period,
+
+03:16.440 --> 03:18.800
+I basically came up with a design
+
+03:19.700 --> 03:21.520
+for an intelligence engine.
+
+03:21.520 --> 03:25.880
+So in 2001, I got together with some other people.
+
+03:25.880 --> 03:27.360
+We actually coined the term
+
+03:27.360 --> 03:31.200
+artificial general intelligence, AGI, in 2001,
+
+03:31.200 --> 03:32.800
+wrote a book on the topic.
+
+03:32.800 --> 03:36.640
+And that's when I started my first AI company,
+
+03:36.640 --> 03:39.400
+hired about 12 people.
+
+03:39.400 --> 03:44.400
+David was one of our early contributors.
+
+03:44.400 --> 03:48.680
+And basically for several years, we were in R&D mode,
+
+03:48.680 --> 03:52.320
+taking my ideas and turning them into various prototypes,
+
+03:52.320 --> 03:54.320
+experimenting around,
+
+03:54.320 --> 03:57.120
+building sort of animal models of intelligence,
+
+03:57.120 --> 03:59.240
+you know, children, how children learn.
+
+03:59.240 --> 04:01.400
+And then eventually, over the years,
+
+04:01.400 --> 04:04.880
+we developed a platform that we could commercialize.
+
+04:04.880 --> 04:08.040
+In 2008, we then launched a commercial company
+
+04:08.040 --> 04:11.840
+to use our technology to make call center,
+
+04:11.840 --> 04:14.680
+automated call center calls more pleasant
+
+04:14.680 --> 04:16.560
+and more intelligent, you know.
+
+04:16.560 --> 04:18.440
+At the moment, when you call into a company
+
+04:18.440 --> 04:21.000
+and you talk to a robot, people just hate that.
+
+04:21.000 --> 04:21.920
+Yeah.
+
+04:21.920 --> 04:24.320
+You know, press zero to get to an operator
+
+04:24.320 --> 04:25.680
+because they're so awful.
+
+04:25.680 --> 04:29.440
+So in smart action, we offer basically a much better system,
+
+04:29.440 --> 04:31.920
+something that you can speak to in normal English,
+
+04:31.920 --> 04:34.600
+remembers what you said earlier in the conversation.
+
+04:34.600 --> 04:38.840
+So it's just a better, you know, better experience.
+
+04:38.840 --> 04:41.440
+However, I found that running that company,
+
+04:41.440 --> 04:46.160
+I got bogged down with, you know,
+
+04:46.160 --> 04:49.120
+scalability, reliability, security issues,
+
+04:49.120 --> 04:51.280
+you know, normal engineering issues
+
+04:51.280 --> 04:54.400
+that were really taking up all of my time,
+
+04:54.400 --> 04:56.320
+HIPAA compliance, PCI compliance,
+
+04:56.320 --> 04:57.760
+all of those kinds of things.
+
+04:58.680 --> 05:03.160
+So I exited the company seven years ago
+
+05:03.160 --> 05:05.720
+to concentrate on getting back to cranking up
+
+05:05.720 --> 05:08.720
+the intelligence to take it, you know, to the next level.
+
+05:08.720 --> 05:10.800
+And that's when I formed the current company,
+
+05:10.800 --> 05:14.840
+iGo.ai, again, hired a team of about 12 people.
+
+05:14.840 --> 05:17.880
+And for several years, we were in stealth mode,
+
+05:17.880 --> 05:21.600
+no customers, just concentrating on the core technology
+
+05:21.600 --> 05:23.440
+and making it more intelligent.
+
+05:23.440 --> 05:27.160
+Because human level intelligence is just, you know,
+
+05:27.160 --> 05:31.000
+it's a really, really hard problem to solve
+
+05:31.000 --> 05:35.440
+with current hardware and software technology that we have.
+
+05:36.600 --> 05:38.360
+So we're still quite a long way away
+
+05:38.360 --> 05:39.680
+from being at human level,
+
+05:39.680 --> 05:43.920
+but the idea is to have the right fundamental architecture,
+
+05:43.920 --> 05:46.520
+to have the fundamentally right approach
+
+05:46.520 --> 05:49.400
+that allows you to keep getting smarter
+
+05:49.400 --> 05:50.880
+and smarter systems, you know.
+
+05:50.880 --> 05:53.360
+So that's what we've been concentrating on.
+
+05:53.360 --> 05:56.720
+And then about, well, last year,
+
+05:56.720 --> 05:59.800
+we actually then commercialized our second,
+
+05:59.800 --> 06:01.920
+started commercializing our second generation
+
+06:01.920 --> 06:02.840
+of the technology.
+
+06:02.840 --> 06:05.680
+And we're just in the midst now of,
+
+06:05.680 --> 06:07.600
+we signed up some great customers
+
+06:07.600 --> 06:11.440
+and we, you know, now fully commercial again.
+
+06:11.440 --> 06:13.440
+But this time around, I want to make sure
+
+06:13.440 --> 06:17.520
+that while we pursue our commercial expansion,
+
+06:18.920 --> 06:23.520
+we continue actually also keeping a strong development team
+
+06:23.520 --> 06:26.960
+so that we don't get trapped, you know,
+
+06:26.960 --> 06:30.680
+just putting all of our energy into the commercial business
+
+06:30.680 --> 06:35.040
+and not really continuing to work on, you know,
+
+06:35.040 --> 06:37.880
+increasing, getting closer and closer to human level.
+
+06:37.880 --> 06:40.160
+Would it make the software available as open source
+
+06:40.160 --> 06:41.960
+would in a way solve that problem
+
+06:41.960 --> 06:45.080
+that you can have contributors from all around the world?
+
+06:45.080 --> 06:48.320
+Yeah, we've certainly thought about that.
+
+06:48.320 --> 06:50.840
+There are a number of challenges in that, you know,
+
+06:50.840 --> 06:55.320
+we've seen, for example, Ben Goetzel's project, OpenCog.
+
+06:56.680 --> 07:00.920
+And it's actually very hard to get people to work
+
+07:00.920 --> 07:03.520
+on an AGI project open source
+
+07:03.520 --> 07:06.520
+because it's a really long-term kind of thing.
+
+07:07.440 --> 07:10.080
+It's not easily divisible.
+
+07:10.080 --> 07:12.800
+And it requires, well, certainly in our approach,
+
+07:12.800 --> 07:16.640
+I found that, you know, most of the people we have
+
+07:16.640 --> 07:20.000
+on the team now have been with us three, four, five years.
+
+07:20.000 --> 07:23.280
+And it really takes a long time to get your head
+
+07:23.280 --> 07:26.160
+around this different approach
+
+07:26.160 --> 07:29.600
+that we have a cognitive architecture to, you know,
+
+07:29.600 --> 07:34.600
+to really learn the difficulties, the complexities
+
+07:35.520 --> 07:36.840
+of working with the system.
+
+07:36.840 --> 07:41.600
+So you really need to be dedicated to it full-time
+
+07:41.600 --> 07:42.920
+and have a long-term view
+
+07:42.920 --> 07:45.040
+or have somebody pay your bills, you know.
+
+07:46.520 --> 07:48.920
+And the other thing I found is very difficult
+
+07:48.920 --> 07:51.760
+to do it remotely, again, because we have a lot of,
+
+07:51.760 --> 07:54.040
+every day we have brainstorming sessions, you know,
+
+07:54.040 --> 07:56.720
+in terms of how do we solve this problem?
+
+07:56.720 --> 08:00.360
+And it's, I'm not, I don't think it's impossible
+
+08:00.360 --> 08:04.040
+to do it remotely, but it's just very hard, I think.
+
+08:04.040 --> 08:06.280
+Of course, right now, you know, this week,
+
+08:06.280 --> 08:08.000
+we have everyone working from home
+
+08:08.000 --> 08:09.920
+and we don't know how long that's gonna last,
+
+08:09.920 --> 08:13.040
+but it's definitely impacting communication
+
+08:13.040 --> 08:17.040
+and productivity, you know, in some way.
+
+08:17.040 --> 08:19.040
+So they are constraints.
+
+08:19.040 --> 08:21.640
+And then of course, the other thing with open source,
+
+08:21.640 --> 08:26.640
+you really make it that much more difficult
+
+08:26.680 --> 08:30.560
+to attract funding for a project.
+
+08:30.560 --> 08:34.440
+And, you know, clearly this is a long-term project
+
+08:34.440 --> 08:36.400
+that will require more funding.
+
+08:36.400 --> 08:38.440
+I've been funding it from, you know,
+
+08:38.440 --> 08:40.160
+basically my previous endeavors,
+
+08:40.160 --> 08:43.400
+but, you know, my pockets are only so deep, you know.
+
+08:43.400 --> 08:47.680
+So, you know, I've been able to afford to have 12 people,
+
+08:47.680 --> 08:50.520
+but, you know, you're not gonna solve human level AGI
+
+08:50.520 --> 08:52.480
+with 12 people, I don't think.
+
+08:53.440 --> 08:56.480
+So, you know, it's attracting investment,
+
+08:56.480 --> 08:59.600
+building a commercial company and all of that.
+
+08:59.600 --> 09:01.360
+And plus all the other reasons I mentioned,
+
+09:01.360 --> 09:05.360
+I don't think that open source is feasible.
+
+09:05.360 --> 09:09.760
+Now, having said that, we did actually very seriously
+
+09:09.760 --> 09:13.480
+investigate the year before last, you know,
+
+09:13.480 --> 09:16.680
+going the blockchain route, obviously when that was,
+
+09:16.680 --> 09:19.200
+you know, all the fashion and people were raising
+
+09:19.200 --> 09:21.080
+a lot of money with that way.
+
+09:21.080 --> 09:26.080
+So, I think there is a viable path
+
+09:26.200 --> 09:30.840
+once we get to a certain level of funding and size
+
+09:30.840 --> 09:35.840
+that similar to Wikipedia, we could have, you know,
+
+09:36.040 --> 09:38.800
+a set of contributors that are domain experts,
+
+09:38.800 --> 09:42.160
+you know, in how to help people manage stress
+
+09:42.160 --> 09:46.040
+or, you know, teach mathematics or whatever it might be,
+
+09:46.040 --> 09:49.880
+where they could then teach our AI, our IGO,
+
+09:49.880 --> 09:52.840
+they could teach IGO how to do these things.
+
+09:52.840 --> 09:54.400
+So, you would have, like Wikipedia,
+
+09:54.400 --> 09:57.080
+basically lots of contributors contributing
+
+09:57.080 --> 09:59.080
+to the central knowledge base.
+
+09:59.080 --> 10:00.640
+Now, of course, with the blockchain idea,
+
+10:00.640 --> 10:03.320
+the whole thing was that contributors would then get paid,
+
+10:03.320 --> 10:05.560
+you know, in tokens and IGO tokens
+
+10:06.920 --> 10:10.960
+for whoever uses that particular skill that they taught IGO.
+
+10:10.960 --> 10:15.360
+But that effort would still have taken quite a bit of money
+
+10:15.360 --> 10:18.440
+to build the infrastructure, the platform,
+
+10:18.440 --> 10:20.160
+to a point where people can make
+
+10:20.160 --> 10:21.960
+those kinds of contributions, you know,
+
+10:21.960 --> 10:24.160
+and we're not there yet.
+
+10:24.160 --> 10:28.120
+Our tools and documentation and the infrastructure
+
+10:28.120 --> 10:30.480
+really isn't at a place where we could have
+
+10:30.480 --> 10:33.600
+thousands or tens of thousands of people,
+
+10:33.600 --> 10:37.040
+you know, teaching our system additional things.
+
+10:37.040 --> 10:41.920
+But that is ultimately a path that, you know,
+
+10:41.920 --> 10:45.520
+we may well get back to, I hope we can get back to.
+
+10:45.520 --> 10:47.880
+Yeah, I was going to ask, because as far as I understand,
+
+10:47.880 --> 10:51.440
+Ben Goertzel's argument for Singularity Net,
+
+10:51.440 --> 10:55.160
+which is a decentralized blockchain-oriented platform
+
+10:55.160 --> 10:59.520
+for artificial intelligence, is to create the AGI,
+
+10:59.520 --> 11:02.120
+ultimately, as a result of millions and millions
+
+11:02.120 --> 11:04.080
+of narrow AIs that are not owned
+
+11:04.080 --> 11:06.480
+by any central structure of authority.
+
+11:06.480 --> 11:10.560
+And that seems to be the biggest danger for us right now
+
+11:10.560 --> 11:13.680
+going into this, who knows what kind of a decade
+
+11:13.680 --> 11:16.760
+this is going to be on the back of technological progress.
+
+11:16.760 --> 11:20.080
+But the idea that, let's say, the Chinese Communist Party
+
+11:20.080 --> 11:22.080
+is going to own the most powerful AI,
+
+11:22.080 --> 11:24.160
+or Google, or the US government,
+
+11:24.160 --> 11:28.120
+it's a terrifying kind of prospect.
+
+11:28.120 --> 11:30.960
+Right, yeah, there are many things, you know,
+
+11:30.960 --> 11:32.280
+from what you mentioned.
+
+11:32.280 --> 11:37.280
+So, first of all, all of my research
+
+11:37.520 --> 11:40.280
+indicates very strongly that a collection
+
+11:40.280 --> 11:43.560
+of narrow AIs will never be AGI.
+
+11:43.560 --> 11:45.240
+Oh, okay, so this is a different,
+
+11:45.240 --> 11:48.480
+fundamentally different route than Ben Goertzel's,
+
+11:48.480 --> 11:50.160
+with Singularity Net, okay.
+
+11:50.160 --> 11:53.760
+Correct, I don't believe it's possible.
+
+11:53.760 --> 11:54.760
+It's sort of, you know, somewhere,
+
+11:54.760 --> 11:56.440
+I mean, it's obviously not a simple debate,
+
+11:56.440 --> 11:58.920
+and, you know, Ben's a smart guy,
+
+11:58.920 --> 12:02.480
+and I don't know how much he believes
+
+12:02.480 --> 12:05.640
+that the society of, you know, open AI,
+
+12:05.640 --> 12:08.760
+or whether it's just kind of what makes sense
+
+12:08.760 --> 12:10.560
+to have right now, to do right now,
+
+12:10.560 --> 12:13.720
+because he actually had a much more highly integrated,
+
+12:13.720 --> 12:16.880
+his approach was actually much more similar
+
+12:16.880 --> 12:19.680
+to ours originally with OpenCog,
+
+12:19.680 --> 12:22.120
+that basically there was a central system,
+
+12:22.120 --> 12:25.240
+that knowledge graph that had all of the skills,
+
+12:25.240 --> 12:28.440
+you know, sort of in a tightly coupled,
+
+12:28.440 --> 12:30.360
+highly integrated manner,
+
+12:30.360 --> 12:33.760
+whereas if you have thousands of different AI developers
+
+12:33.760 --> 12:35.880
+developing little narrow AIs,
+
+12:35.880 --> 12:39.040
+you know, how do they communicate?
+
+12:39.040 --> 12:42.360
+How do you decide, you know, what,
+
+12:42.360 --> 12:44.760
+well, basically, I just, I'm convinced
+
+12:44.760 --> 12:47.840
+that that's not gonna lead to AGI.
+
+12:49.280 --> 12:53.240
+So, that's the one thing, so I think fundamentally,
+
+12:53.240 --> 12:55.600
+I mean, it may be good to have a marketplace
+
+12:55.600 --> 12:58.720
+for AGI algorithms, but then you're competing
+
+12:58.720 --> 13:03.120
+with, you know, Microsoft, and IBM, and Google,
+
+13:03.120 --> 13:05.440
+who already have these APIs
+
+13:05.440 --> 13:10.440
+where they're providing, you know, narrow AI APIs,
+
+13:10.560 --> 13:12.760
+basically, you know, microservices.
+
+13:14.080 --> 13:17.440
+So, I don't, yeah, I haven't studied, you know,
+
+13:17.440 --> 13:20.960
+the current system enough to see what benefits
+
+13:20.960 --> 13:24.240
+it could provide, but certainly,
+
+13:24.240 --> 13:27.360
+I don't think it's the right path to AGI.
+
+13:27.360 --> 13:32.360
+Now, as far as a single government also having AGI,
+
+13:32.360 --> 13:36.640
+AGI, it's a fairly complex argument,
+
+13:36.640 --> 13:38.840
+and, you know, we don't really know enough
+
+13:38.840 --> 13:41.200
+about the dynamics of AI.
+
+13:43.040 --> 13:45.680
+You get, for example, you get OpenAI,
+
+13:45.680 --> 13:49.120
+where the CEO of OpenAI made a strong statement
+
+13:49.120 --> 13:51.280
+where he says, all we need is more data
+
+13:51.280 --> 13:54.040
+and more processing power, and, you know,
+
+13:54.040 --> 13:55.840
+I guess that's how they got a billion dollars
+
+13:55.840 --> 13:59.640
+from Microsoft, or, well, I don't know how much
+
+13:59.640 --> 14:01.600
+of it they got, because most of that money,
+
+14:01.600 --> 14:03.360
+I think, will go right back to Microsoft
+
+14:03.360 --> 14:04.200
+as basically credits for that.
+
+14:04.200 --> 14:07.080
+And apparently, it's only a commercial wing of it,
+
+14:07.080 --> 14:09.800
+the whole thing's supposed to be non-profit.
+
+14:09.800 --> 14:13.160
+Yeah, yeah, so, you know, a lot of question marks there,
+
+14:13.160 --> 14:15.560
+but, yeah, I'm sure a lot of that billion dollars
+
+14:15.560 --> 14:20.200
+is actually just credits for Microsoft cloud services,
+
+14:20.200 --> 14:22.720
+but be that as it may, the point that I really want
+
+14:22.720 --> 14:25.520
+to make here is that he firmly believes,
+
+14:25.520 --> 14:28.960
+or at least firmly states, that all we need for AGI
+
+14:28.960 --> 14:31.680
+is more data and more processing power.
+
+14:31.680 --> 14:34.600
+I think it's completely, utterly wrong.
+
+14:35.560 --> 14:38.080
+You know, it's sort of the argument of having,
+
+14:38.080 --> 14:41.000
+if a million monkeys can't write Shakespeare,
+
+14:41.000 --> 14:44.000
+a billion monkeys aren't gonna write Shakespeare either.
+
+14:44.000 --> 14:46.840
+You know, obviously, again, they're subtle arguments,
+
+14:46.840 --> 14:50.120
+you know, and so on, but I firmly believe
+
+14:50.120 --> 14:52.480
+for a number of reasons, and I've written quite a lot
+
+14:52.480 --> 14:55.360
+about this on medium.com, I have a lot of articles
+
+14:55.360 --> 14:59.400
+of why the current deep learning, machine learning approach
+
+14:59.400 --> 15:02.600
+cannot lead to artificial general intelligence
+
+15:02.600 --> 15:04.040
+or real intelligence.
+
+15:04.040 --> 15:07.560
+It's fundamentally a dead end, it's a wrong path.
+
+15:07.560 --> 15:10.080
+So throwing more data and more processing power
+
+15:10.080 --> 15:12.360
+is not gonna solve the problem.
+
+15:12.360 --> 15:15.520
+So if you believe that more data and more processing power
+
+15:15.520 --> 15:17.920
+will solve the problem, then, of course,
+
+15:17.920 --> 15:21.840
+it's much more concerning that a government
+
+15:21.840 --> 15:26.840
+would basically have, you know, the most powerful AI.
+
+15:27.080 --> 15:29.240
+I don't believe that.
+
+15:29.240 --> 15:34.240
+I believe the, there is, I'm not saying
+
+15:34.400 --> 15:38.440
+that processing power ultimately isn't going to be important,
+
+15:38.440 --> 15:43.160
+but I also believe there will probably be an optimum size
+
+15:43.160 --> 15:48.160
+of processor beyond which you really want to decentralize.
+
+15:48.160 --> 15:51.560
+You want to have, you know, multiple AIs.
+
+15:52.720 --> 15:54.840
+So, you know, it's sort of similar saying,
+
+15:54.840 --> 15:59.240
+instead of having a thousand smart PhD level people
+
+15:59.240 --> 16:04.240
+working on a problem, you just want one Einstein
+
+16:05.000 --> 16:08.480
+with an IQ of a thousand.
+
+16:08.480 --> 16:11.040
+And I think there are trade-offs.
+
+16:11.040 --> 16:13.560
+Obviously, you want the highest level of IQ,
+
+16:13.560 --> 16:18.240
+but above a certain level, your increased IQ
+
+16:18.240 --> 16:21.640
+is probably less important than the diversity of approaches
+
+16:22.520 --> 16:25.040
+that are, you know, that are being tried,
+
+16:25.040 --> 16:28.040
+sort of having a community of AIs
+
+16:28.040 --> 16:30.480
+that can chip away at different problems.
+
+16:31.520 --> 16:35.120
+Now, if the right architecture for AGI
+
+16:35.120 --> 16:37.400
+becomes generally available,
+
+16:37.400 --> 16:42.400
+I think it will actually be feasible for, you know,
+
+16:42.400 --> 16:47.080
+a much wider range of institutions and companies
+
+16:47.080 --> 16:50.520
+and individuals to have AGI
+
+16:50.520 --> 16:53.120
+so that it won't be as centralized.
+
+16:53.120 --> 16:56.040
+So that's one reason why I'm less concerned
+
+16:56.040 --> 17:00.760
+about this sort of winner-take-all scenario.
+
+17:00.760 --> 17:05.760
+But there's another much more controversial thesis
+
+17:08.840 --> 17:10.840
+sort of that I have.
+
+17:10.840 --> 17:15.040
+And that is that I believe increased intelligence
+
+17:15.040 --> 17:18.240
+will actually lead to improved morality.
+
+17:19.520 --> 17:20.800
+Why is it controversial?
+
+17:22.160 --> 17:24.640
+Well, pretty much every time I say that, people will say,
+
+17:24.640 --> 17:26.200
+wasn't Hitler very smart?
+
+17:26.200 --> 17:29.480
+Or, you know, some comment like that, you know?
+
+17:29.480 --> 17:30.440
+Oh my God.
+
+17:31.640 --> 17:36.640
+So I think that, you know, if politicians got AIs
+
+17:36.640 --> 17:39.040
+as advisors, I think they would actually
+
+17:39.040 --> 17:42.760
+make better decisions, you know, less evil decisions.
+
+17:44.200 --> 17:46.120
+Because they would, you know,
+
+17:46.120 --> 17:49.200
+and the example I often give is in terms of
+
+17:49.200 --> 17:51.720
+things we do that are really bad or immoral
+
+17:51.720 --> 17:53.760
+that turn out to be, no, well,
+
+17:53.760 --> 17:55.960
+maybe that wasn't the best thing to do.
+
+17:55.960 --> 17:59.080
+A good example here is with today,
+
+17:59.080 --> 18:00.720
+I think most people would agree,
+
+18:00.720 --> 18:05.720
+America, you know, how America responded to 9-11
+
+18:05.720 --> 18:10.720
+instead of, you know, just zooming down on Afghanistan
+
+18:13.200 --> 18:16.160
+and, you know, invading Iraq.
+
+18:17.120 --> 18:19.560
+Maybe it wasn't the best thing to do, the smartest thing.
+
+18:19.560 --> 18:22.760
+And sort of what are the limitations in humans?
+
+18:22.760 --> 18:27.320
+Why do we do things that are wrong or bad or immoral,
+
+18:27.320 --> 18:30.320
+you know, that are basically detrimental to us?
+
+18:30.320 --> 18:31.720
+Well, there are three reasons.
+
+18:31.720 --> 18:32.680
+I mean, there are probably more of them,
+
+18:32.680 --> 18:33.840
+but three major reasons.
+
+18:33.840 --> 18:38.840
+The one is we tend to respond emotionally, you know,
+
+18:39.000 --> 18:40.920
+with 9-11, well, we've got to hit out.
+
+18:40.920 --> 18:42.800
+We've got to hit out at somebody, you know,
+
+18:42.800 --> 18:45.000
+somebody that falls, we've got to get back at somebody.
+
+18:45.000 --> 18:47.720
+So it's that emotional response,
+
+18:47.720 --> 18:49.360
+which is not always the best thing.
+
+18:49.360 --> 18:52.240
+The second thing is we don't really work
+
+18:52.240 --> 18:54.360
+with adequate information.
+
+18:54.360 --> 18:57.360
+You know, we don't, it's not easy for us
+
+18:57.360 --> 18:59.560
+to get right information.
+
+18:59.560 --> 19:02.280
+We don't have the patience, we're not very good at it.
+
+19:02.280 --> 19:06.320
+Whereas, you know, an AI will be able to have much better,
+
+19:06.320 --> 19:08.640
+work with much better information, you know.
+
+19:08.640 --> 19:10.880
+Were they really weapons of mass destruction?
+
+19:10.880 --> 19:12.560
+Well, I think with a little bit of research,
+
+19:12.560 --> 19:14.680
+it wouldn't have been that difficult to figure out,
+
+19:14.680 --> 19:19.240
+no, that wasn't an issue, that was just an excuse.
+
+19:19.240 --> 19:21.720
+And then the third thing we're related to that
+
+19:21.720 --> 19:24.440
+is we are just not very good at rational thinking.
+
+19:24.440 --> 19:27.920
+You know, evolution didn't really equip us to, you know,
+
+19:27.920 --> 19:31.280
+yes, we are the rational animal relative to animals,
+
+19:31.280 --> 19:34.360
+we're rational, but relative to what rationality
+
+19:34.360 --> 19:37.320
+could and, you know, should and could be,
+
+19:37.320 --> 19:38.960
+we're not actually very good at that.
+
+19:38.960 --> 19:42.680
+So if you have an AI advisor that over time
+
+19:42.680 --> 19:44.880
+has proven itself to give you good advice,
+
+19:44.880 --> 19:48.840
+you know, as an individual, as a politician, as a whatever,
+
+19:48.840 --> 19:51.000
+and it, you know, it would then say, well, you know,
+
+19:51.000 --> 19:54.320
+hang on, just wait a minute here.
+
+19:54.320 --> 19:57.920
+What is the best way to respond to 9-11 thing?
+
+19:57.920 --> 20:00.320
+You know, maybe there's a better way
+
+20:00.320 --> 20:01.560
+of achieving your objectives.
+
+20:01.560 --> 20:03.720
+What are you actually trying to achieve?
+
+20:03.720 --> 20:05.440
+You know, maybe there's a better way
+
+20:05.440 --> 20:10.240
+of achieving your objectives than invading Iraq
+
+20:10.240 --> 20:13.800
+and, you know, sending all your troops to Afghanistan.
+
+20:14.680 --> 20:18.960
+So I actually firmly believe that having this
+
+20:18.960 --> 20:22.160
+highly intelligent, rational advisor,
+
+20:22.160 --> 20:27.160
+objective advisor, will actually make people
+
+20:27.160 --> 20:29.600
+make better decisions and basically be,
+
+20:29.600 --> 20:33.160
+become more moral because the two are related.
+
+20:33.160 --> 20:36.080
+Now, just off the top of my head,
+
+20:36.080 --> 20:40.040
+I can think of two arguments against what you said.
+
+20:40.040 --> 20:42.560
+One would be what Elon Musk is saying,
+
+20:42.560 --> 20:46.640
+that you ask an AI to, for example, get rid of germs,
+
+20:46.640 --> 20:48.280
+and the best solution it will come up with
+
+20:48.280 --> 20:50.680
+is that to get rid of humans, all of them together,
+
+20:50.680 --> 20:51.680
+and there will be no germs.
+
+20:51.680 --> 20:52.640
+So that's one thing.
+
+20:52.640 --> 20:56.640
+The second thing is, what is the scale for us
+
+20:56.640 --> 21:01.040
+to evaluate these terms like better, worse, right or wrong,
+
+21:01.040 --> 21:02.680
+especially when we are dealing with
+
+21:02.680 --> 21:04.560
+a different type of intelligence,
+
+21:04.560 --> 21:07.760
+that the argument is that the alignment issue
+
+21:07.760 --> 21:09.600
+will remain our biggest challenge,
+
+21:09.600 --> 21:12.520
+that we don't know that the goals we have as humanity,
+
+21:12.520 --> 21:14.280
+which itself is debatable,
+
+21:14.280 --> 21:16.640
+have we agreed upon certain set of goals
+
+21:16.640 --> 21:18.120
+that we are pursuing?
+
+21:18.120 --> 21:20.440
+Are they gonna be shared by AI, and if not,
+
+21:20.440 --> 21:23.600
+is there any way for us to be able to co-exist
+
+21:23.600 --> 21:25.400
+rather than merging with it?
+
+21:25.400 --> 21:27.960
+Yeah, so yeah, I love these questions.
+
+21:27.960 --> 21:32.680
+Obviously, those are the obvious objections.
+
+21:32.680 --> 21:34.200
+So the first one you mentioned
+
+21:34.200 --> 21:36.800
+is sort of the paperclip argument, you know,
+
+21:36.800 --> 21:41.800
+is that, which I think is a pathetic argument,
+
+21:42.360 --> 21:45.680
+quite frankly, and I'm appalled
+
+21:45.680 --> 21:49.200
+that so many smart people have fallen into that.
+
+21:50.080 --> 21:52.800
+So it's basically the argument boils down to,
+
+21:52.800 --> 21:54.840
+you have this super intelligence
+
+21:54.840 --> 21:59.440
+that's so smart that it can outfox the whole of humanity,
+
+21:59.440 --> 22:02.120
+you know, and pave over the world with paperclips
+
+22:02.120 --> 22:06.000
+or whatever, you know, or wipe out humans,
+
+22:06.000 --> 22:07.040
+and we can't stop it.
+
+22:07.040 --> 22:08.320
+So that's how smart it is.
+
+22:08.320 --> 22:11.360
+It can outsmart all of us combined.
+
+22:11.360 --> 22:13.520
+Yet, it's not smart enough to figure out
+
+22:13.520 --> 22:16.800
+that that's not really what you wanted it to do.
+
+22:16.800 --> 22:19.640
+I mean, it makes no sense.
+
+22:19.640 --> 22:23.200
+Any AI that we build, one of the first things we do,
+
+22:23.200 --> 22:26.920
+and I mean, we do that right now with IGO,
+
+22:26.920 --> 22:30.000
+one of the most important things is you want your AI
+
+22:30.000 --> 22:34.280
+to understand what you want it to do.
+
+22:35.120 --> 22:37.000
+And that's an iterative process.
+
+22:37.000 --> 22:39.720
+You know, it's not a line of code that you say,
+
+22:39.720 --> 22:44.160
+I want paperclips or, you know, kill all viruses, you know.
+
+22:45.560 --> 22:47.200
+It's, you know, and I think it's,
+
+22:47.200 --> 22:50.760
+you have too many mathematicians and programmers
+
+22:50.760 --> 22:53.880
+basically involved in this field of AI safety
+
+22:53.880 --> 22:58.880
+that have really no relationship to cognitive psychology
+
+22:58.880 --> 23:01.800
+or even common sense or philosophy.
+
+23:02.880 --> 23:05.040
+That's not how you're gonna build an AI,
+
+23:05.040 --> 23:06.680
+that you're gonna be hard coding, you know,
+
+23:06.680 --> 23:08.640
+fruit shoe lines of code, you know,
+
+23:08.640 --> 23:11.360
+I want paperclips or, you know, give it.
+
+23:11.360 --> 23:16.000
+It has to have a whole lot of common sense,
+
+23:16.000 --> 23:19.040
+knowledge, reasoning ability, background
+
+23:19.040 --> 23:23.120
+for it to do anything useful for you, you know.
+
+23:23.120 --> 23:27.880
+So it has to, one of the things it has to be able to do
+
+23:27.880 --> 23:31.760
+is to figure out, to ask you to interact with you.
+
+23:31.760 --> 23:33.480
+I mean, it's like hiring somebody, you know,
+
+23:33.480 --> 23:37.400
+hiring somebody, would you hire a contractor
+
+23:37.400 --> 23:39.880
+and give them a billion dollars and say,
+
+23:39.880 --> 23:42.320
+hey, build me a house, you know.
+
+23:42.320 --> 23:45.560
+And, you know, okay, you're not telling them
+
+23:45.560 --> 23:47.080
+where you want it or why you want it,
+
+23:47.080 --> 23:49.480
+what you wanna do with it or what constraints there are.
+
+23:49.480 --> 23:51.640
+And, you know, if the contractor doesn't ask you
+
+23:51.640 --> 23:54.440
+and you just says, okay, I'll take your billion dollars,
+
+23:54.440 --> 23:55.560
+I'll build your house, you know.
+
+23:55.560 --> 23:57.280
+Right, but the contractor is working for you
+
+23:57.280 --> 23:58.560
+to get that billion dollars.
+
+23:58.560 --> 24:00.480
+What is the incentive for the AI to do
+
+24:00.480 --> 24:03.640
+what you want it to do rather than just pursue its own goals?
+
+24:03.640 --> 24:06.080
+Which goes back to the alignment issue.
+
+24:06.080 --> 24:08.120
+Yeah, okay, so yeah, that's,
+
+24:08.120 --> 24:09.600
+well, that's the other thing.
+
+24:09.600 --> 24:14.240
+Well, I think the problem there is that people assume
+
+24:14.240 --> 24:16.920
+that the AI will have an agenda of its own.
+
+24:16.920 --> 24:18.440
+It won't.
+
+24:18.440 --> 24:21.640
+The fundamental agendas we have are basically
+
+24:21.640 --> 24:23.680
+from our reptile brain, you know,
+
+24:23.680 --> 24:27.400
+it's basically to, you know, our selfish gene,
+
+24:27.400 --> 24:30.320
+to further our selfish gene or to rape and pillage,
+
+24:30.320 --> 24:34.600
+you know, to, you know, that's really what drives us
+
+24:34.600 --> 24:37.080
+and this is why we have egos and, you know,
+
+24:37.080 --> 24:39.360
+and all of those good things.
+
+24:39.360 --> 24:43.160
+Now, there's no reason that we would build an AI
+
+24:43.160 --> 24:45.000
+that would have a reptile brain.
+
+24:45.000 --> 24:46.880
+I mean, there may be some researchers say, yeah,
+
+24:46.880 --> 24:50.560
+I want an AI that is just as irrational as humans are,
+
+24:50.560 --> 24:52.880
+you know, so I'll give it a reptile brain.
+
+24:54.120 --> 24:56.920
+But that would actually be, first of all,
+
+24:56.920 --> 24:58.680
+not many people would do that
+
+24:58.680 --> 25:00.600
+because, you know, you're commercially driven,
+
+25:00.600 --> 25:04.800
+you don't want the thing to turn around and bite you.
+
+25:04.800 --> 25:07.720
+So, but, you know, first of all,
+
+25:07.720 --> 25:11.160
+there'd be very few of those instances
+
+25:11.160 --> 25:13.400
+where somebody actually builds one.
+
+25:13.400 --> 25:17.080
+So you have a lot more good cops and bad cops in that regard.
+
+25:17.080 --> 25:19.640
+But secondly, they're gonna be much less efficient
+
+25:19.640 --> 25:22.560
+because they're gonna suffer irrationalities
+
+25:22.560 --> 25:24.120
+that they're going to, you know,
+
+25:24.120 --> 25:26.720
+act out of their reptile brain responses
+
+25:26.720 --> 25:27.560
+and they're not gonna,
+
+25:27.560 --> 25:30.880
+they're gonna be less effective, basically.
+
+25:30.880 --> 25:34.800
+So, no, AIs are not going to inherently
+
+25:34.800 --> 25:36.120
+have their own agenda.
+
+25:36.120 --> 25:38.480
+They will be built specifically
+
+25:38.480 --> 25:40.960
+to do what we want them to do.
+
+25:42.040 --> 25:43.280
+I mean, that's what we building
+
+25:43.280 --> 25:47.760
+and that's, you know, the hardest thing to get the thing.
+
+25:47.760 --> 25:49.760
+Not that it wants to do its own thing.
+
+25:50.760 --> 25:55.120
+It's just, you know, the most likely failure scenario
+
+25:55.120 --> 25:57.320
+by far by orders of magnitude
+
+25:57.320 --> 25:59.080
+is that the thing won't work properly.
+
+25:59.080 --> 26:01.920
+It'll have a bug and crash and be stupid.
+
+26:01.920 --> 26:04.920
+That's a much, much harder problem.
+
+26:04.920 --> 26:06.120
+You know, people just,
+
+26:06.120 --> 26:08.560
+a lot of these sort of AI safety experts
+
+26:08.560 --> 26:12.240
+assume that getting intelligence will be the easy part
+
+26:12.240 --> 26:14.120
+and that alignment will be the hard part.
+
+26:14.120 --> 26:18.080
+No, no, it's exactly the opposite way around.
+
+26:18.080 --> 26:19.040
+Getting to AI,
+
+26:19.040 --> 26:21.280
+getting an AI that actually understands,
+
+26:21.280 --> 26:23.840
+that can learn, that can reason,
+
+26:23.840 --> 26:25.200
+that's the hard part.
+
+26:25.200 --> 26:27.160
+And in building such a system
+
+26:27.160 --> 26:30.360
+that can actually do useful things for us,
+
+26:30.360 --> 26:34.080
+an inherent byproduct, an essential byproduct,
+
+26:35.120 --> 26:37.840
+prerequisite, I think I should say,
+
+26:37.840 --> 26:40.920
+is that it actually understands what you want.
+
+26:40.920 --> 26:45.920
+And no, it's not gonna have an agenda of its own.
+
+26:45.960 --> 26:48.520
+There'd be no reason that it would have that.
+
+26:48.520 --> 26:51.560
+Is DeepMind closer to your perspective?
+
+26:51.560 --> 26:53.920
+Because my understanding is that their mission statement
+
+26:53.920 --> 26:56.840
+is solve intelligence and then solve everything
+
+26:56.840 --> 26:58.560
+as a consequence of it.
+
+26:58.560 --> 27:01.640
+Yeah, I totally agree with their mission statement.
+
+27:01.640 --> 27:04.880
+I wish I had their resources.
+
+27:06.880 --> 27:09.280
+I think they're fundamentally on the wrong track
+
+27:09.280 --> 27:12.200
+with deep learning, machine learning.
+
+27:12.200 --> 27:15.480
+And I think they already acknowledged that.
+
+27:16.520 --> 27:19.520
+Dan Misosabe, if you listen to his presentations
+
+27:23.400 --> 27:24.880
+that he gives, he says,
+
+27:24.880 --> 27:27.720
+we have deep learning as this problem, this problem,
+
+27:27.720 --> 27:28.640
+this problem, this problem.
+
+27:28.640 --> 27:31.200
+These are the problems we need to solve
+
+27:31.200 --> 27:33.200
+in order to get intelligence.
+
+27:33.200 --> 27:38.200
+And I haven't heard him really give any answers
+
+27:38.200 --> 27:39.880
+that he has any answers,
+
+27:39.880 --> 27:42.280
+just that we need to keep chipping away at it.
+
+27:42.280 --> 27:47.280
+And I think it seems that they're also spending a lot of,
+
+27:47.680 --> 27:49.560
+putting a lot of effort into understanding
+
+27:49.560 --> 27:53.400
+how the brain works to try and find answers
+
+27:53.400 --> 27:54.720
+to those problems.
+
+27:54.720 --> 27:58.480
+Now, I think they're looking under the wrong tree
+
+27:58.480 --> 28:00.160
+or bush or whatever.
+
+28:02.360 --> 28:05.320
+I think because of the success they've had
+
+28:05.320 --> 28:07.080
+with deep learning, machine learning
+
+28:07.080 --> 28:08.640
+in those narrow applications,
+
+28:08.640 --> 28:12.240
+obviously being able to beat the world gold champion
+
+28:12.240 --> 28:13.400
+is phenomenal.
+
+28:13.400 --> 28:15.800
+Who would have thought 10 years ago
+
+28:15.800 --> 28:18.160
+that we'd be able to do that?
+
+28:18.160 --> 28:21.080
+That was kind of an unsolved AI problem.
+
+28:21.080 --> 28:23.200
+But all the problems they've been tackling
+
+28:23.200 --> 28:24.800
+are narrow AI problems.
+
+28:24.800 --> 28:27.200
+And they don't fundamentally address
+
+28:27.200 --> 28:30.160
+the requirements of intelligence.
+
+28:30.160 --> 28:35.160
+And, but they've got 600 or whatever PhD level people
+
+28:36.560 --> 28:40.000
+that are experts at mathematics, statistics,
+
+28:40.000 --> 28:45.000
+machine learning, deep learning, data science and so on.
+
+28:45.120 --> 28:48.560
+Those are not the right skills to solve intelligence.
+
+28:48.560 --> 28:51.480
+You first have to understand what cognition is.
+
+28:51.480 --> 28:55.400
+So you really need to be a cognitive psychologist
+
+28:55.400 --> 28:58.000
+to first understand what intelligence is,
+
+28:58.000 --> 28:59.200
+what it entails.
+
+28:59.200 --> 29:04.200
+Not some mathematical sort of formulation of intelligence
+
+29:05.040 --> 29:09.240
+which is kind of the approach they have.
+
+29:09.240 --> 29:12.040
+And then you need to say, well, once we have a list
+
+29:12.040 --> 29:16.400
+of what are the essentials that intelligence requires,
+
+29:16.400 --> 29:18.480
+then your research needs to be focused.
+
+29:18.480 --> 29:19.960
+Your development needs to be focused
+
+29:19.960 --> 29:21.720
+on addressing those problems
+
+29:21.720 --> 29:26.720
+and not addressing problems that will maybe impressive,
+
+29:26.720 --> 29:30.960
+impress people and maybe some breakthrough in AI
+
+29:30.960 --> 29:34.280
+or maybe some AI benchmark or so.
+
+29:34.280 --> 29:38.800
+Because what everybody in AI is doing is narrow AI.
+
+29:38.800 --> 29:43.080
+So putting more effort into getting better at narrow AI
+
+29:43.080 --> 29:46.040
+isn't gonna help you build AGI.
+
+29:46.040 --> 29:46.880
+Right, you're just gonna have
+
+29:46.880 --> 29:48.440
+better narrow AIs basically.
+
+29:48.440 --> 29:49.760
+Correct, yeah.
+
+29:49.760 --> 29:51.360
+Now, obviously based on what you were saying,
+
+29:51.360 --> 29:55.400
+this is an incredibly complex kind of a problem
+
+29:55.400 --> 29:58.240
+and approaching it is very important
+
+29:58.240 --> 30:00.120
+to how it's being approached.
+
+30:00.120 --> 30:01.640
+As you said, 600 PhD,
+
+30:01.640 --> 30:04.600
+it's not enough necessarily to fix the problem.
+
+30:04.600 --> 30:06.720
+I wanna read some headlines,
+
+30:06.720 --> 30:09.280
+all of them following the same topic.
+
+30:09.280 --> 30:14.280
+These are what people are getting their image of AI based on
+
+30:14.440 --> 30:15.480
+and get your reaction.
+
+30:15.480 --> 30:16.320
+Guardian has said,
+
+30:16.320 --> 30:20.040
+disastrous lack of diversity in AI industry
+
+30:20.040 --> 30:22.440
+perpetuates bias based on a study.
+
+30:22.440 --> 30:23.280
+Fortune has said,
+
+30:23.280 --> 30:27.600
+how to fix artificial intelligence's diversity crisis.
+
+30:27.600 --> 30:29.720
+I did not know that we have diversity crisis
+
+30:29.720 --> 30:31.320
+in artificial intelligence.
+
+30:32.440 --> 30:34.880
+AI authority, five ways artificial intelligence
+
+30:34.880 --> 30:37.040
+bring diversity to the modern workplace.
+
+30:37.040 --> 30:41.000
+MIT, using artificial intelligence to promote diversity.
+
+30:42.080 --> 30:43.160
+IBM has a paper,
+
+30:43.160 --> 30:45.520
+the role of AI in mitigating bias
+
+30:45.520 --> 30:47.600
+to enhance diversity and inclusion.
+
+30:47.600 --> 30:51.320
+There is a think tank called diversity.ai,
+
+30:51.320 --> 30:53.880
+a think tank for inclusive artificial intelligence.
+
+30:53.880 --> 30:58.880
+And Wired has a magazine that AI is the future,
+
+30:59.160 --> 31:01.080
+but where are the women?
+
+31:01.080 --> 31:02.960
+And making the argument that just 12%
+
+31:02.960 --> 31:04.920
+of machine learning researchers are women,
+
+31:04.920 --> 31:06.920
+a worrying statistic for a field
+
+31:06.920 --> 31:09.320
+supposedly reshaping society.
+
+31:09.320 --> 31:11.560
+Are these really what we need to focus on?
+
+31:11.560 --> 31:14.080
+And aren't these just a waste of resources
+
+31:14.080 --> 31:16.320
+and really educating the people?
+
+31:16.320 --> 31:17.640
+Because at the end of the day,
+
+31:17.640 --> 31:18.960
+all of these technology work
+
+31:18.960 --> 31:21.960
+as well as the society that adopts it.
+
+31:21.960 --> 31:23.760
+Yeah, sorry, I've got a phone ringing.
+
+31:23.760 --> 31:24.600
+It's all good.
+
+31:26.440 --> 31:28.280
+Okay, no more.
+
+31:28.280 --> 31:29.120
+All right.
+
+31:30.120 --> 31:32.800
+So, yeah, I mean,
+
+31:32.800 --> 31:35.000
+they're obviously the kind of things that,
+
+31:36.240 --> 31:38.040
+sort of moral posturing,
+
+31:38.040 --> 31:39.040
+that people can say,
+
+31:39.040 --> 31:42.280
+how terrible is this and how terrible is that?
+
+31:42.280 --> 31:43.840
+Well, I can tell you when,
+
+31:43.840 --> 31:44.840
+I mean, first of all,
+
+31:44.840 --> 31:48.880
+we have a lot of women on our team
+
+31:48.880 --> 31:53.040
+who are excellent cognitive psychologists.
+
+31:53.040 --> 31:55.040
+We call them AI psychologists,
+
+31:56.520 --> 31:59.400
+who are linguists and cognitive psychologists
+
+31:59.400 --> 32:01.200
+who do a fantastic job.
+
+32:01.200 --> 32:02.400
+And I assume they were not hired
+
+32:02.400 --> 32:04.240
+because they were women.
+
+32:04.240 --> 32:05.280
+Not at all.
+
+32:05.280 --> 32:06.240
+Yeah, exactly.
+
+32:06.240 --> 32:07.080
+Not at all.
+
+32:07.080 --> 32:09.720
+They were hired because they were the best candidates.
+
+32:09.720 --> 32:12.560
+And so,
+
+32:12.560 --> 32:15.480
+there's such a shortage of talent
+
+32:15.480 --> 32:18.440
+in the deep learning, machine learning field.
+
+32:18.440 --> 32:22.400
+I very much doubt that there's a huge barrier
+
+32:22.400 --> 32:25.080
+for women getting into the field.
+
+32:25.080 --> 32:28.960
+Now, are there problems in terms of management structures
+
+32:28.960 --> 32:31.080
+and old boys clubs and
+
+32:33.440 --> 32:35.800
+sexual harassment and so on?
+
+32:35.800 --> 32:37.840
+Absolutely, there are problems,
+
+32:37.840 --> 32:42.840
+but they're not unique to AI or machine learning.
+
+32:43.680 --> 32:46.520
+In fact, I think they probably much less
+
+32:46.520 --> 32:49.920
+than in other more established industries.
+
+32:49.920 --> 32:52.320
+So, that's kind of the one thing.
+
+32:52.320 --> 32:55.760
+Now, as far as bias in algorithms is concerned,
+
+32:55.760 --> 32:56.600
+well, yes, of course,
+
+32:56.600 --> 32:58.800
+if the data you're feeding into the system
+
+33:01.120 --> 33:02.520
+is from a certain demographic
+
+33:02.520 --> 33:06.040
+or has certain whatever incarceration,
+
+33:07.120 --> 33:09.600
+if the wrong people were incarcerated
+
+33:09.600 --> 33:11.600
+and that's what you train the system with,
+
+33:11.600 --> 33:13.640
+yeah, it's gonna be wrong.
+
+33:13.640 --> 33:16.640
+But to me, that's an engineering problem.
+
+33:16.640 --> 33:20.320
+It's basically, the algorithm isn't working
+
+33:20.320 --> 33:23.200
+the way it should be working and you need to fix it.
+
+33:24.880 --> 33:28.320
+It's not like big moral thing that deep learning is bad.
+
+33:28.320 --> 33:30.040
+It's like whether you have an expert system,
+
+33:30.040 --> 33:32.120
+whether you have a manual system
+
+33:32.120 --> 33:34.240
+that people go through a checklist of
+
+33:34.240 --> 33:37.720
+who to give credit for, who to lock up or whatever.
+
+33:37.720 --> 33:41.640
+It's a bug in the system and you should fix the bug.
+
+33:41.640 --> 33:44.600
+It just seems that it's judging ethics and morale,
+
+33:44.600 --> 33:47.560
+judging something that is beyond ethics and morality
+
+33:47.560 --> 33:49.560
+using ethics and morality.
+
+33:49.560 --> 33:52.080
+And I think this is important also to talk about,
+
+33:52.080 --> 33:54.720
+you said our ethics and morality in large part
+
+33:54.720 --> 33:57.120
+is coming from our lizard brain.
+
+33:57.120 --> 33:59.520
+One of the questions that I keep asking technologists,
+
+33:59.520 --> 34:03.160
+philosophers, thinkers who I have in this show,
+
+34:03.160 --> 34:06.120
+whether or not ethics and reality are objective
+
+34:06.120 --> 34:07.880
+or subjective to begin with.
+
+34:07.880 --> 34:09.160
+And if they're not objective,
+
+34:09.160 --> 34:11.080
+then how are we gonna pin it down to something
+
+34:11.080 --> 34:13.560
+that we can implement within the machine?
+
+34:13.560 --> 34:14.680
+Right, right.
+
+34:14.680 --> 34:16.760
+Well, in fact, yes, I guess that's the other part
+
+34:16.760 --> 34:18.200
+of the question you asked me earlier
+
+34:18.200 --> 34:22.120
+in terms of what morality do we imbue our system with,
+
+34:22.120 --> 34:25.880
+with the alignment problem and because different people.
+
+34:25.880 --> 34:28.800
+And yes, I find that absolutely shocking
+
+34:28.800 --> 34:31.080
+that tens of millions of dollars
+
+34:31.080 --> 34:33.200
+or maybe hundreds of millions by now
+
+34:33.200 --> 34:38.200
+are going to AI safety type of organizations and so on.
+
+34:38.200 --> 34:40.400
+And I've had quite a bit of contact with them,
+
+34:40.400 --> 34:42.480
+the conferences and so on.
+
+34:42.480 --> 34:45.600
+And you ask these people, okay, what is morality?
+
+34:45.600 --> 34:47.040
+Can you define it?
+
+34:47.040 --> 34:49.840
+How do you actually decide right from wrong?
+
+34:49.840 --> 34:51.080
+And they're completely silent.
+
+34:51.080 --> 34:53.640
+They're completely stumped by that question.
+
+34:53.640 --> 34:55.720
+So here they're talking about
+
+34:55.720 --> 34:59.040
+we have to program our system with morality,
+
+34:59.040 --> 35:01.440
+which makes no sense to me anyway,
+
+35:01.440 --> 35:03.680
+that you can program it.
+
+35:03.680 --> 35:05.520
+But even if you could,
+
+35:05.520 --> 35:08.360
+what morality, if you don't believe morality
+
+35:08.360 --> 35:10.360
+is something objective,
+
+35:10.360 --> 35:12.400
+then what are you fighting for even?
+
+35:12.400 --> 35:15.920
+What's the basis of your whole organization
+
+35:15.920 --> 35:19.520
+in terms of what, if you can't define what's good
+
+35:19.520 --> 35:22.600
+and what's bad, now, I do firmly believe
+
+35:22.600 --> 35:26.440
+that morality should be, is and should be,
+
+35:26.440 --> 35:31.440
+could be objective, that the right morality is objective.
+
+35:31.440 --> 35:36.440
+And again, I have some fairly long articles on medium.com
+
+35:36.440 --> 35:40.440
+about that, and it's, you know,
+
+35:40.440 --> 35:43.440
+you basically have to say, why do we need morality?
+
+35:43.440 --> 35:46.640
+What is the purpose of having morality in the first place?
+
+35:46.640 --> 35:49.440
+And that kind of immediately gives you the goal.
+
+35:49.440 --> 35:52.840
+The reason we have morality is, or should be,
+
+35:52.840 --> 35:57.840
+not that we go to heaven or that we conform
+
+35:57.840 --> 36:01.840
+to some dictator, but that we optimize
+
+36:01.840 --> 36:04.840
+individual human life, that we optimize flourishing.
+
+36:04.840 --> 36:06.840
+And then you can debate, you know,
+
+36:06.840 --> 36:09.840
+is it the greatest good for the greatest number or so?
+
+36:09.840 --> 36:12.840
+And I think there are very good arguments why no,
+
+36:12.840 --> 36:15.840
+it should be individual flourishing rather than,
+
+36:15.840 --> 36:18.840
+you know, aggregate flourishing,
+
+36:18.840 --> 36:20.840
+because if you can have a system
+
+36:20.840 --> 36:24.840
+where each individual can optimize their flourishing,
+
+36:24.840 --> 36:28.840
+that includes the community that you're part of as a whole.
+
+36:28.840 --> 36:30.840
+I mean, these are not arguments, you know,
+
+36:30.840 --> 36:33.840
+one can get through in a few sentences,
+
+36:33.840 --> 36:36.840
+but that's sort of the conclusion I've reached.
+
+36:36.840 --> 36:39.840
+So if human flourishing is the goal,
+
+36:39.840 --> 36:44.840
+the purpose we have morality or why we should have morality,
+
+36:44.840 --> 36:47.840
+then it actually becomes objective,
+
+36:47.840 --> 36:49.840
+because you can say, well, what is involved in flourishing?
+
+36:49.840 --> 36:52.840
+And flourishing is, well, the obvious thing is,
+
+36:52.840 --> 36:56.840
+you want good physical health, you know,
+
+36:56.840 --> 36:58.840
+that's part of flourishing.
+
+36:58.840 --> 37:05.840
+You want mental health, you know, well-being
+
+37:05.840 --> 37:09.840
+and emotional well-being.
+
+37:09.840 --> 37:12.840
+And then, of course, also sort of material well-being
+
+37:12.840 --> 37:14.840
+as part of it. Resources, right.
+
+37:14.840 --> 37:16.840
+Yeah, resources.
+
+37:16.840 --> 37:20.840
+So once you have that, and now the details of what,
+
+37:20.840 --> 37:24.840
+you know, exactly what resources might be important
+
+37:24.840 --> 37:27.840
+or what kind of life somebody wants to lead,
+
+37:27.840 --> 37:28.840
+you know, there's very specifics,
+
+37:28.840 --> 37:32.840
+but there's actually a lot of overlap in what flourishing is.
+
+37:32.840 --> 37:34.840
+There are a lot of things you can subtract.
+
+37:34.840 --> 37:37.840
+Basically, if you are ill, physically ill,
+
+37:37.840 --> 37:38.840
+well, that's not optimal.
+
+37:38.840 --> 37:41.840
+So, you know, that you can, and mentally as well,
+
+37:41.840 --> 37:44.840
+if you are distressed, if you are depressed
+
+37:44.840 --> 37:48.840
+or, you know, just not able to think clearly or properly,
+
+37:48.840 --> 37:50.840
+then that's negative.
+
+37:50.840 --> 37:53.840
+So we kind of know what the negatives are, you know,
+
+37:53.840 --> 37:56.840
+where non-flourishing is.
+
+37:56.840 --> 38:01.840
+And then you can basically build, you can figure out
+
+38:01.840 --> 38:04.840
+what are the principles that you need to live by.
+
+38:04.840 --> 38:06.840
+And those are basically your moral principles,
+
+38:06.840 --> 38:09.840
+which you then automatize.
+
+38:09.840 --> 38:11.840
+As you practice them, you automatize,
+
+38:11.840 --> 38:15.840
+and they become your virtues, your characteristics
+
+38:15.840 --> 38:16.840
+of what you normally do.
+
+38:16.840 --> 38:19.840
+So to give an example, you know,
+
+38:19.840 --> 38:22.840
+is lying a good thing in principle, you know,
+
+38:22.840 --> 38:26.840
+or is being truthful basically beneficial
+
+38:26.840 --> 38:29.840
+to achieve on average, you know,
+
+38:29.840 --> 38:32.840
+not in every particular instance, but on average.
+
+38:32.840 --> 38:33.840
+Once you come to that conclusion,
+
+38:33.840 --> 38:35.840
+if you start living that way,
+
+38:35.840 --> 38:37.840
+especially not lying to yourself...
+
+38:37.840 --> 38:39.840
+Yes, that's the biggest challenge
+
+38:39.840 --> 38:43.840
+and the biggest outcome that it can achieve.
+
+38:43.840 --> 38:45.840
+Yeah, it has to start by yourself,
+
+38:45.840 --> 38:47.840
+because if you say, you know,
+
+38:47.840 --> 38:50.840
+I'm really such a good person and so honest
+
+38:50.840 --> 38:52.840
+and so generous or I'm so smart
+
+38:52.840 --> 38:54.840
+or I'm so productive or whatever,
+
+38:54.840 --> 38:55.840
+and if that isn't true,
+
+38:55.840 --> 38:58.840
+then reality is going to impinge on you
+
+38:58.840 --> 39:02.840
+and undermine your ability to optimize your life.
+
+39:02.840 --> 39:05.840
+So it's basically these moral principles, I think,
+
+39:05.840 --> 39:12.840
+are objective that will help people optimize lives.
+
+39:12.840 --> 39:15.840
+So, yeah, absolutely, I believe it,
+
+39:15.840 --> 39:17.840
+that morality should be objective,
+
+39:17.840 --> 39:21.840
+but, you know, again, the AI safety community
+
+39:21.840 --> 39:24.840
+doesn't seem to even have begun to address that problem.
+
+39:24.840 --> 39:27.840
+It's just like money, raising money,
+
+39:27.840 --> 39:30.840
+using excuses, it seems like, I don't know,
+
+39:30.840 --> 39:31.840
+I totally agree with you.
+
+39:31.840 --> 39:34.840
+Obviously, I mean, I've met a lot of people
+
+39:34.840 --> 39:36.840
+and they're really, you know, genuine people,
+
+39:36.840 --> 39:39.840
+they really genuinely believe there is a huge problem.
+
+39:39.840 --> 39:40.840
+I mean, many of them, you know,
+
+39:40.840 --> 39:43.840
+that there is a real problem, a real threat,
+
+39:43.840 --> 39:46.840
+and they're actually dedicating their lives.
+
+39:46.840 --> 39:47.840
+I mean, you know,
+
+39:47.840 --> 39:51.840
+not everybody's making a lot of money out of it,
+
+39:51.840 --> 39:53.840
+and they really believe that.
+
+39:53.840 --> 39:57.840
+I think they're just misguided in so many ways.
+
+39:57.840 --> 40:00.840
+Your approach sounds very stoic to me,
+
+40:00.840 --> 40:01.840
+your approach to AI,
+
+40:01.840 --> 40:05.840
+even when you mentioned earlier that electronics,
+
+40:05.840 --> 40:07.840
+you said, well, it's taking a long time,
+
+40:07.840 --> 40:09.840
+are you just going to focus on software programming?
+
+40:09.840 --> 40:11.840
+It reminded me of I had William Irvin,
+
+40:11.840 --> 40:13.840
+who is a stoic writer on the show,
+
+40:13.840 --> 40:16.840
+and he said that he had a midlife crisis around 40,
+
+40:16.840 --> 40:18.840
+and he was very attracted to Zen,
+
+40:18.840 --> 40:20.840
+but then he found stoicism.
+
+40:20.840 --> 40:21.840
+It's like, well, with Zen,
+
+40:21.840 --> 40:23.840
+you have to practice for years, it might work,
+
+40:23.840 --> 40:24.840
+it might not work, stoicism,
+
+40:24.840 --> 40:26.840
+you can just focus on it over a weekend
+
+40:26.840 --> 40:28.840
+and you get a result.
+
+40:28.840 --> 40:29.840
+This is very interesting.
+
+40:29.840 --> 40:32.840
+I'm totally down with the stoic AI.
+
+40:32.840 --> 40:36.840
+Yeah. Yeah, no.
+
+40:36.840 --> 40:38.840
+Yeah, I'm not sure where,
+
+40:38.840 --> 40:40.840
+how far it would take the stoicism,
+
+40:40.840 --> 40:45.840
+but I mean, I've spent the last 20-plus years,
+
+40:45.840 --> 40:47.840
+more like 25 years now,
+
+40:47.840 --> 40:49.840
+really pursuing AI and AGI,
+
+40:49.840 --> 40:51.840
+and I couldn't imagine what I'd rather be doing.
+
+40:51.840 --> 40:54.840
+I mean, it's the most exciting thing in the world.
+
+40:54.840 --> 40:58.840
+I'm also, you know, just through my background,
+
+40:58.840 --> 41:00.840
+my interest in, you know,
+
+41:00.840 --> 41:02.840
+really understanding hardware design
+
+41:02.840 --> 41:05.840
+and language design and software design
+
+41:05.840 --> 41:07.840
+and having a real interest in psychology
+
+41:07.840 --> 41:10.840
+and philosophy,
+
+41:10.840 --> 41:13.840
+I'm sort of, I feel that I'm ideally suited
+
+41:13.840 --> 41:16.840
+to working on it, you know,
+
+41:16.840 --> 41:19.840
+that I really believe that these,
+
+41:19.840 --> 41:23.840
+this understanding of philosophy epistemology
+
+41:23.840 --> 41:25.840
+in particular, what is knowledge,
+
+41:25.840 --> 41:26.840
+how do we know anything,
+
+41:26.840 --> 41:28.840
+the importance of concepts
+
+41:28.840 --> 41:30.840
+and how do we form concepts, you know,
+
+41:30.840 --> 41:32.840
+I mean, concepts, abstract concepts
+
+41:32.840 --> 41:34.840
+are the key to human intelligence.
+
+41:34.840 --> 41:36.840
+But again, it's understanding intelligence
+
+41:36.840 --> 41:39.840
+understanding cognition has to be a prerequisite
+
+41:39.840 --> 41:42.840
+for building artificial intelligence.
+
+41:42.840 --> 41:44.840
+How would you define intelligence so far
+
+41:44.840 --> 41:47.840
+based on what you've gathered and what you have learned?
+
+41:47.840 --> 41:49.840
+Yeah, there isn't a concise description.
+
+41:49.840 --> 41:51.840
+I mean, I, you know, somewhere in my writings,
+
+41:51.840 --> 41:55.840
+I do have a sort of a one or two sentence description,
+
+41:55.840 --> 41:58.840
+but it's really a description rather than a definition.
+
+41:58.840 --> 42:01.840
+But it's the ability to learn,
+
+42:01.840 --> 42:02.840
+learn is important,
+
+42:02.840 --> 42:08.840
+learn to solve new problems within,
+
+42:08.840 --> 42:14.840
+in real time with constrained resources.
+
+42:14.840 --> 42:18.840
+And IQ is a reliable measurement for that?
+
+42:21.840 --> 42:24.840
+Not, no, not entirely.
+
+42:24.840 --> 42:27.840
+My study of IQ, I was actually involved in
+
+42:27.840 --> 42:30.840
+helping to develop a new psychometric test
+
+42:30.840 --> 42:32.840
+that doesn't have the same cultural bias
+
+42:32.840 --> 42:35.840
+as a lot of existing IQ tests have.
+
+42:35.840 --> 42:37.840
+And one of the things I learned from there
+
+42:37.840 --> 42:43.840
+that the most important subcomponent of intelligence
+
+42:43.840 --> 42:45.840
+that really identifies
+
+42:45.840 --> 42:50.840
+which people are able to solve many different problems
+
+42:50.840 --> 42:52.840
+that basically are, you know, able,
+
+42:52.840 --> 42:55.840
+whether they emotionally are doing it or whatever,
+
+42:55.840 --> 42:57.840
+but they're able to solve problems,
+
+42:57.840 --> 43:00.840
+is the component of metacognition.
+
+43:00.840 --> 43:04.840
+And that's basically conscious or subconscious,
+
+43:04.840 --> 43:08.840
+mostly, mainly subconscious ability to know
+
+43:08.840 --> 43:11.840
+what a mental approach you need to take
+
+43:11.840 --> 43:13.840
+to solve a particular problem.
+
+43:13.840 --> 43:16.840
+Because, you know, we have the ability to think logically,
+
+43:16.840 --> 43:18.840
+we have the ability to think abstractly,
+
+43:18.840 --> 43:21.840
+to use our intuition,
+
+43:21.840 --> 43:25.840
+to rely on memory or more or less, and so on.
+
+43:25.840 --> 43:28.840
+So metacognition is basically when you come across a problem
+
+43:28.840 --> 43:31.840
+that you choose the right tools,
+
+43:31.840 --> 43:34.840
+the right mental tools to pursue the problem,
+
+43:34.840 --> 43:38.840
+to, you know, yeah,
+
+43:38.840 --> 43:40.840
+to basically not go down the road
+
+43:40.840 --> 43:45.840
+of trying to solve something methodically, logically,
+
+43:45.840 --> 43:48.840
+if the problem is not of a kind that can be solved that way,
+
+43:48.840 --> 43:50.840
+you know, that need to be solved more intuitively
+
+43:50.840 --> 43:52.840
+and vice versa.
+
+43:52.840 --> 43:54.840
+So is it being creative?
+
+43:54.840 --> 43:58.840
+That's part of it, but not the main part of it.
+
+43:58.840 --> 44:03.840
+I don't think intelligence necessitates creativity.
+
+44:03.840 --> 44:07.840
+I think they're somewhat on different mentions.
+
+44:07.840 --> 44:13.840
+No, it's basically using the right mental tools for the job.
+
+44:13.840 --> 44:16.840
+That is one of the key differences between people
+
+44:16.840 --> 44:20.840
+who have high IQ and are, you know, competent,
+
+44:20.840 --> 44:24.840
+generally mentally highly competent,
+
+44:24.840 --> 44:27.840
+that they tend to use the right methodology
+
+44:27.840 --> 44:29.840
+and not get stuck in the wrong methodology.
+
+44:29.840 --> 44:31.840
+Considering...
+
+44:31.840 --> 44:33.840
+I'm sorry.
+
+44:33.840 --> 44:37.840
+Well, just one, kind of one of the insights from studying IQ.
+
+44:37.840 --> 44:41.840
+But yeah, IQ is not the, you know,
+
+44:41.840 --> 44:44.840
+the only thing that really tells you
+
+44:44.840 --> 44:46.840
+whether somebody is intelligent or not,
+
+44:46.840 --> 44:49.840
+but it's also quite useful.
+
+44:49.840 --> 44:51.840
+Well, just this topic seems to be so controversial
+
+44:51.840 --> 44:54.840
+that the moment you started delve a little deep into it,
+
+44:54.840 --> 44:56.840
+everybody talk about, well, you can't really talk about,
+
+44:56.840 --> 44:58.840
+like, dividing people based on intelligence
+
+44:58.840 --> 45:02.840
+on the basis of, let's say, race or culture or country,
+
+45:02.840 --> 45:04.840
+because the argument can be made that just look at
+
+45:04.840 --> 45:07.840
+whatever culture that we have right now in the world
+
+45:07.840 --> 45:11.840
+and how they have evolved to become what they are,
+
+45:11.840 --> 45:15.840
+and obviously it must have been a greater intelligence
+
+45:15.840 --> 45:17.840
+behind building a city like Tokyo
+
+45:17.840 --> 45:21.840
+compared to somewhere else that is not very pleasant,
+
+45:21.840 --> 45:23.840
+for example, or productive.
+
+45:23.840 --> 45:27.840
+So have you found or come across any kind of a challenge
+
+45:27.840 --> 45:31.840
+in the sense that, again, going back to making ethics,
+
+45:31.840 --> 45:34.840
+ethical and moral kind of an argument against something
+
+45:34.840 --> 45:37.840
+that is incredibly practical and important
+
+45:37.840 --> 45:40.840
+to studying intelligence and understanding it?
+
+45:40.840 --> 45:46.840
+Yeah, so it's a pity that studying intelligence
+
+45:46.840 --> 45:48.840
+and differences of intelligence
+
+45:48.840 --> 45:52.840
+has become like third rail or whatever.
+
+45:52.840 --> 45:57.840
+You basically, you can't study it, basically,
+
+45:57.840 --> 46:03.840
+unless you claim that there are these multiple intelligences
+
+46:03.840 --> 46:05.840
+and everybody is equally intelligent
+
+46:05.840 --> 46:07.840
+just in a different way.
+
+46:07.840 --> 46:10.840
+And I kind of say, well, yeah, there's that person
+
+46:10.840 --> 46:14.840
+who's really, he's got a very high rating
+
+46:14.840 --> 46:17.840
+in wife-beating intelligence, whatever.
+
+46:17.840 --> 46:19.840
+I'm sure you can find something
+
+46:19.840 --> 46:22.840
+if you want to make sure that everybody has an IQ
+
+46:22.840 --> 46:25.840
+of 140 in something.
+
+46:25.840 --> 46:33.840
+No, it's quite ridiculous that you can't really study it.
+
+46:33.840 --> 46:39.840
+But it's also, it's not that super important, I think.
+
+46:39.840 --> 46:42.840
+There are, there's certainly, I mean,
+
+46:42.840 --> 46:45.840
+there's so many flaws in the educational system,
+
+46:45.840 --> 46:46.840
+first of all.
+
+46:46.840 --> 46:49.840
+There's so many problems with people who are smart
+
+46:49.840 --> 46:51.840
+but just emotionally aren't equipped
+
+46:51.840 --> 46:54.840
+or don't have the discipline or whatever.
+
+46:54.840 --> 47:00.840
+There's so many different components involved.
+
+47:00.840 --> 47:05.840
+So ultimately, artificial intelligence or AGI,
+
+47:05.840 --> 47:09.840
+of course, in many ways will very rapidly exceed,
+
+47:09.840 --> 47:14.840
+I mean, already, of course, narrow AI exceeds human capabilities
+
+47:14.840 --> 47:16.840
+in so many ways.
+
+47:16.840 --> 47:21.840
+So artificial intelligence, AGI, will, of course,
+
+47:21.840 --> 47:24.840
+be so much more powerful in so many ways,
+
+47:24.840 --> 47:27.840
+but it will struggle with some of the things
+
+47:27.840 --> 47:29.840
+that are easy for us, for humans,
+
+47:29.840 --> 47:31.840
+and that's where those are going to be
+
+47:31.840 --> 47:34.840
+the hardest problems to solve.
+
+47:34.840 --> 47:37.840
+But when you said, I think you also asked me about,
+
+47:37.840 --> 47:39.840
+do I have a head resistance?
+
+47:39.840 --> 47:40.840
+Absolutely.
+
+47:40.840 --> 47:44.840
+I have people claiming, well, there is no such thing as AGI,
+
+47:44.840 --> 47:46.840
+artificial general intelligence.
+
+47:46.840 --> 47:50.840
+And I actually chose the general particular.
+
+47:50.840 --> 47:53.840
+I was particularly happy with calling it AGI,
+
+47:53.840 --> 47:55.840
+artificial general intelligence,
+
+47:55.840 --> 48:00.840
+actually referring to the little G in cognitive psychology,
+
+48:00.840 --> 48:03.840
+in intelligence, because I do believe
+
+48:03.840 --> 48:07.840
+that the general learning ability is the key to AGI,
+
+48:07.840 --> 48:09.840
+and it's a learning ability,
+
+48:09.840 --> 48:13.840
+the ability to learn new things in real time.
+
+48:13.840 --> 48:17.840
+And there's a confusion between when people say,
+
+48:17.840 --> 48:20.840
+well, surely deep learning is learning.
+
+48:20.840 --> 48:24.840
+These are learning systems, and you can't say they don't learn.
+
+48:24.840 --> 48:26.840
+Well, there's a huge, huge difference
+
+48:26.840 --> 48:29.840
+between collecting a massive amount of data,
+
+48:29.840 --> 48:32.840
+tagging the data, number crunching it,
+
+48:32.840 --> 48:35.840
+and building a model that gets deployed,
+
+48:35.840 --> 48:37.840
+but as a read-only model, essentially.
+
+48:37.840 --> 48:39.840
+Don't understand it.
+
+48:39.840 --> 48:40.840
+Well, it doesn't understand,
+
+48:40.840 --> 48:42.840
+but it also cannot learn interactively.
+
+48:42.840 --> 48:43.840
+Right.
+
+48:43.840 --> 48:47.840
+So the key to intelligence is it needs to be able to learn
+
+48:47.840 --> 48:50.840
+and understand, needs to be able to understand and learn.
+
+48:50.840 --> 48:53.840
+I mean, what we do and what an AGI needs to be able to do
+
+48:53.840 --> 48:56.840
+is what we do is when we hear or see something,
+
+48:56.840 --> 48:59.840
+we make sense of it straight away.
+
+48:59.840 --> 49:01.840
+If we see something that doesn't make sense,
+
+49:01.840 --> 49:04.840
+we might look around to kind of,
+
+49:04.840 --> 49:06.840
+okay, well, what does this mean, you know,
+
+49:06.840 --> 49:08.840
+or focus or whatever.
+
+49:08.840 --> 49:10.840
+If we hear something that doesn't make sense,
+
+49:10.840 --> 49:14.840
+we might ask for clarification or we might think about it.
+
+49:14.840 --> 49:16.840
+Hey, what did I just hear?
+
+49:16.840 --> 49:17.840
+What does the person mean?
+
+49:17.840 --> 49:19.840
+And you might think about it and, oh, okay,
+
+49:19.840 --> 49:21.840
+that's what they mean.
+
+49:21.840 --> 49:25.840
+So whatever we perceive, we make sense of it
+
+49:25.840 --> 49:27.840
+and we integrate that information
+
+49:27.840 --> 49:30.840
+so it's available to be used.
+
+49:30.840 --> 49:33.840
+Just to show you, just to kind of demonstrate
+
+49:33.840 --> 49:37.840
+how pathetically limited, you know,
+
+49:37.840 --> 49:39.840
+these current chatbot systems are, you know,
+
+49:39.840 --> 49:43.840
+and these are developed by multi-billion dollar companies.
+
+49:43.840 --> 49:48.840
+I think Amazon has 10,000 people working on Alexa, you know,
+
+49:48.840 --> 49:53.840
+and I mean, that masses amounts of money being thrown at them.
+
+49:53.840 --> 49:56.840
+But you take a very simple sentence,
+
+49:56.840 --> 49:58.840
+just five or six words,
+
+49:58.840 --> 50:01.840
+my sister's cat Spock is pregnant.
+
+50:01.840 --> 50:04.840
+You know, any five-year-old child will be able to make sense of it.
+
+50:04.840 --> 50:06.840
+You know, I'm speaking, Peter is speaking,
+
+50:06.840 --> 50:08.840
+I have a sister, my sister has a cat,
+
+50:08.840 --> 50:10.840
+the cat's name is Spock,
+
+50:10.840 --> 50:12.840
+you think it's probably male from the name,
+
+50:12.840 --> 50:14.840
+you hear it's pregnant, you know, I know it's female.
+
+50:14.840 --> 50:16.840
+You know, a five-year-old child will have no problem
+
+50:16.840 --> 50:18.840
+integrating that information
+
+50:18.840 --> 50:20.840
+and now the next sentence might be she's really big
+
+50:20.840 --> 50:22.840
+because she's pregnant,
+
+50:22.840 --> 50:25.840
+or next week you might ask have the kittens arrived, you know,
+
+50:25.840 --> 50:27.840
+and you can make sense of it.
+
+50:27.840 --> 50:32.840
+The current chatbots like, you know, Alexa, Siri or any of them
+
+50:32.840 --> 50:36.840
+don't have a hope in hell of even beginning to understand that,
+
+50:36.840 --> 50:38.840
+to learn that, something as simple as that.
+
+50:38.840 --> 50:42.840
+That's how fundamentally flawed their approach is
+
+50:42.840 --> 50:45.840
+by, you know, building the model
+
+50:45.840 --> 50:47.840
+and then deploying a read-only model
+
+50:47.840 --> 50:52.840
+that cannot learn new facts interactively,
+
+50:52.840 --> 50:54.840
+that cannot reason about them,
+
+50:54.840 --> 50:56.840
+cannot integrate them into its existing knowledge,
+
+50:56.840 --> 50:59.840
+can't ask for clarification if it doesn't understand.
+
+50:59.840 --> 51:02.840
+They have none of those cognitive capabilities.
+
+51:02.840 --> 51:04.840
+So, you know, that's a dead end.
+
+51:04.840 --> 51:08.840
+It's a road to nowhere as far as intelligent systems are concerned.
+
+51:08.840 --> 51:11.840
+And these are the cutting-edge models of what is happening in the field.
+
+51:11.840 --> 51:13.840
+By the big companies, yeah.
+
+51:13.840 --> 51:17.840
+So considering that, what do you think about Elon Musk's Neuralink
+
+51:17.840 --> 51:20.840
+and the argument that the only way that we can basically survive
+
+51:20.840 --> 51:23.840
+what's coming is by merging with artificial intelligence?
+
+51:23.840 --> 51:27.840
+Yeah. So, yeah, that's kind of an interesting approach.
+
+51:27.840 --> 51:30.840
+So, first of all, a little bit tongue-in-cheek.
+
+51:30.840 --> 51:36.840
+I say, well, you know, we're going to have real AI from machine,
+
+51:36.840 --> 51:40.840
+you know, machine AI, hardware-based AI,
+
+51:40.840 --> 51:44.840
+way before we ever have intelligence augmentation,
+
+51:44.840 --> 51:46.840
+which is basically what they're talking about.
+
+51:46.840 --> 51:50.840
+And the knockdown argument is just three letters, FDA.
+
+51:50.840 --> 51:53.840
+You know, I mean...
+
+51:53.840 --> 51:55.840
+It goes back to government ruining everything.
+
+51:55.840 --> 51:58.840
+Yeah. I mean, to have anything like that approved, you know,
+
+51:58.840 --> 52:00.840
+will take centuries, you know.
+
+52:00.840 --> 52:03.840
+But, you know, that's a bit tongue-in-cheek.
+
+52:03.840 --> 52:10.840
+No, I think while there are, you know, obviously important applications
+
+52:10.840 --> 52:14.840
+that will be useful for that, that's not a pass to AGI at all
+
+52:14.840 --> 52:20.840
+because the bandwidth at which we can receive things
+
+52:20.840 --> 52:27.840
+and transmit things is so much lower than, you know, hardware-based AI can.
+
+52:27.840 --> 52:32.840
+And messing with our wetware is just incredibly hard and risky.
+
+52:32.840 --> 52:38.840
+So, no, that's not the way to AGI.
+
+52:38.840 --> 52:44.840
+And so what I do see, though, is that we will have personal assistants
+
+52:44.840 --> 52:50.840
+that are so closely coupled, psychologically coupled to us
+
+52:50.840 --> 52:53.840
+that they become basically our exocortex.
+
+52:53.840 --> 52:57.840
+So it's not that we can enhance our wetware.
+
+52:57.840 --> 52:59.840
+I think that's just way too hard,
+
+52:59.840 --> 53:04.840
+but that we can extend our minds, our brain, our wetware,
+
+53:04.840 --> 53:09.840
+through external devices, but that will be psychologically closely coupled to us.
+
+53:09.840 --> 53:14.840
+And the way I see that working out is basically similar to, you know,
+
+53:14.840 --> 53:16.840
+people who've been married for a long time or whatever.
+
+53:16.840 --> 53:19.840
+You know, they, at a certain point,
+
+53:19.840 --> 53:24.840
+they don't really remember or care whose idea something was, you know.
+
+53:24.840 --> 53:28.840
+You know, it's sort of, and it's just a psychological coupling.
+
+53:28.840 --> 53:31.840
+So in a similar way, if you have your, you know,
+
+53:31.840 --> 53:34.840
+we actually call it a personal personal assistant.
+
+53:34.840 --> 53:40.840
+We trademark that name because the word personal is so important
+
+53:40.840 --> 53:43.840
+for like three different meanings of the word personal.
+
+53:43.840 --> 53:46.840
+First of all, personal in that you own it.
+
+53:46.840 --> 53:49.840
+So it's owned by you and it serves your purpose,
+
+53:49.840 --> 53:53.840
+not some mega corporation's purpose.
+
+53:53.840 --> 53:57.840
+Secondly, it's personalized to you.
+
+53:57.840 --> 54:02.840
+So, you know, it's not a one size fits all.
+
+54:02.840 --> 54:06.840
+It knows your particular goals, your history and so on.
+
+54:06.840 --> 54:10.840
+And the third personal is that it's personal in the sense of private,
+
+54:10.840 --> 54:13.840
+that you decide what it shares with whom.
+
+54:13.840 --> 54:17.840
+So once you have this personal personal assistant
+
+54:17.840 --> 54:22.840
+that you interact with all the time, you know, initially think of it,
+
+54:22.840 --> 54:25.840
+you know, like a Siri or something, but just much smarter.
+
+54:25.840 --> 54:28.840
+And you ask it for advice or ask it to look up something
+
+54:28.840 --> 54:30.840
+and it gives you a result.
+
+54:30.840 --> 54:32.840
+And, you know, initially it will be,
+
+54:32.840 --> 54:37.840
+oh, yeah, my IGO recommended that I buy these stocks
+
+54:37.840 --> 54:40.840
+or that, you know, I take this job or, you know,
+
+54:40.840 --> 54:43.840
+take this treatment or whatever.
+
+54:43.840 --> 54:46.840
+But after a while, as you interact with it,
+
+54:46.840 --> 54:48.840
+you won't really even remember or care
+
+54:48.840 --> 54:51.840
+whether it was your decision or the AI's decision.
+
+54:51.840 --> 54:54.840
+It'll just be part of you.
+
+54:54.840 --> 54:59.840
+So I see that way of us extending, of having an extra cortex,
+
+54:59.840 --> 55:04.840
+of extending our mental capacity much more feasible
+
+55:04.840 --> 55:07.840
+than trying to hack our wetware.
+
+55:07.840 --> 55:10.840
+Do you have a time frame for something like that?
+
+55:10.840 --> 55:16.840
+I actually believe we have the hardware technology exists in principle.
+
+55:16.840 --> 55:19.840
+I think software technology exists in principle.
+
+55:19.840 --> 55:23.840
+I think it just needs quite a few people working on it.
+
+55:23.840 --> 55:26.840
+I think if there was focused effort to AGI
+
+55:26.840 --> 55:28.840
+with the right team and the right architecture,
+
+55:28.840 --> 55:32.840
+I think we could have human level intelligence in seven years.
+
+55:32.840 --> 55:34.840
+Wow.
+
+55:34.840 --> 55:36.840
+Yeah, I don't...
+
+55:36.840 --> 55:37.840
+That's amazing.
+
+55:37.840 --> 55:41.840
+It's also amazing because Aubrey DeGray was on Joe Rogan
+
+55:41.840 --> 55:46.840
+and he said that next huge breakthrough with respect to aging
+
+55:46.840 --> 55:48.840
+is coming between five to seven years.
+
+55:48.840 --> 55:50.840
+And he said that the change is coming overnight
+
+55:50.840 --> 55:52.840
+because the moment that people can say,
+
+55:52.840 --> 55:55.840
+hey, we have the possibility of living, I don't know, 200 years,
+
+55:55.840 --> 55:58.840
+then the expectation change and then the policy hasn't changed with it
+
+55:58.840 --> 56:00.840
+and policymakers are incredibly slow.
+
+56:00.840 --> 56:03.840
+So that was his biggest concern.
+
+56:03.840 --> 56:05.840
+Do you see the same kind of risk?
+
+56:05.840 --> 56:10.840
+Because I see this coronavirus, the way that it exponentially grew.
+
+56:10.840 --> 56:14.840
+A very good example about how AI can, for example, spread
+
+56:14.840 --> 56:18.840
+and how AI can grow or anything that has anything to do with exponential growth
+
+56:18.840 --> 56:24.840
+and how people are unprepared for it because we can't even fathom this exponential growth.
+
+56:24.840 --> 56:25.840
+Yeah. Oh, absolutely.
+
+56:25.840 --> 56:29.840
+It will happen with AI
+
+56:29.840 --> 56:32.840
+because once you get to a certain level where it becomes clear
+
+56:32.840 --> 56:34.840
+that this is really something different,
+
+56:34.840 --> 56:40.840
+I mean, once you get to a point where right now our AI level where we are
+
+56:40.840 --> 56:45.840
+and we typically say if Siri and Alexa have an IQ of 10,
+
+56:45.840 --> 56:50.840
+not that IQ is the right measure, but if they had 10, we're at 25 or 30,
+
+56:50.840 --> 56:52.840
+still a long way from human level.
+
+56:52.840 --> 56:57.840
+Right now, if I let our AI loose on Wikipedia
+
+56:57.840 --> 57:01.840
+and I'm not talking about some statistic or big data
+
+57:01.840 --> 57:05.840
+which IBM and all of them feed the whole of Wikipedia in,
+
+57:05.840 --> 57:07.840
+but there's no understanding of it.
+
+57:07.840 --> 57:10.840
+It just picks up certain correlations
+
+57:10.840 --> 57:12.840
+and it might be able to answer certain questions,
+
+57:12.840 --> 57:16.840
+but it doesn't really understand or integrate what it reads.
+
+57:16.840 --> 57:19.840
+Currently, if we let our system loose on Wikipedia,
+
+57:19.840 --> 57:28.840
+it might be able to read or understand 10 or 15% of the text that's there
+
+57:28.840 --> 57:32.840
+which isn't really enough to bootstrap itself,
+
+57:32.840 --> 57:39.840
+but at a point when our system, IGO or some other AI,
+
+57:39.840 --> 57:45.840
+can actually read text like that and then ask a human for clarification.
+
+57:45.840 --> 57:48.840
+Hey, can you explain this to me? This doesn't make sense to me.
+
+57:48.840 --> 57:50.840
+Can you point me in the right direction?
+
+57:50.840 --> 57:55.840
+And you can have that kind of self-learning, assisted self-learning
+
+57:55.840 --> 58:00.840
+that truly understands and integrates the knowledge that it acquires.
+
+58:00.840 --> 58:03.840
+Then things can happen very, very quickly.
+
+58:03.840 --> 58:09.840
+And so there's a certain takeoff point, escape velocity or whatever
+
+58:09.840 --> 58:11.840
+in terms of acceptance of AI.
+
+58:11.840 --> 58:15.840
+And then, of course, funds, unlimited funds will be available
+
+58:15.840 --> 58:18.840
+and then everybody will want one, everybody will work on it.
+
+58:18.840 --> 58:23.840
+I mean, similar to how everybody jumped on deep learning, machine learning.
+
+58:23.840 --> 58:27.840
+I mean, it exploded exponentially over just a few years
+
+58:27.840 --> 58:33.840
+and really limitless funds really became available for deep learning, machine learning.
+
+58:33.840 --> 58:39.840
+But once the real AI hits that inflection point where people say,
+
+58:39.840 --> 58:43.840
+hey, this stuff looks like it's really going to work,
+
+58:43.840 --> 58:47.840
+then things can happen very quickly.
+
+58:47.840 --> 58:52.840
+So yeah, will people be unprepared for that? Absolutely.
+
+58:52.840 --> 58:57.840
+Peter, what is next for you and where can our audience follow your work?
+
+58:57.840 --> 59:03.840
+So, well, our website is iGo.ai and we have links to articles and so on.
+
+59:03.840 --> 59:05.840
+So we've just launched commercially at the moment.
+
+59:05.840 --> 59:11.840
+Our focus is on getting more customers and we're targeting large enterprise companies
+
+59:11.840 --> 59:17.840
+that are trying to offer a much better conversational AI experience,
+
+59:17.840 --> 59:22.840
+hyper-personalized sort of concierge service.
+
+59:22.840 --> 59:27.840
+There are many, many different applications, whether it's your in-car experience,
+
+59:27.840 --> 59:30.840
+whether it's a robot in a hospital or hotel,
+
+59:30.840 --> 59:37.840
+whether it's a gaming coach that helps you teach you how to be a better gamer,
+
+59:37.840 --> 59:40.840
+whether it's for diabetes management,
+
+59:40.840 --> 59:48.840
+whether it's for a retail company that wants to offer you a personalized chatbot, basically,
+
+59:48.840 --> 59:51.840
+with a brain, chatbot with a brain.
+
+59:51.840 --> 59:58.840
+So there are many, many different applications wherever conversational AI is involved.
+
+59:58.840 --> 01:00:01.840
+So that's obviously our big focus now.
+
+01:00:01.840 --> 01:00:04.840
+We're also trying to raise more money.
+
+01:00:04.840 --> 01:00:09.840
+As I say, my pockets aren't deep enough to scale the company quickly.
+
+01:00:09.840 --> 01:00:18.840
+So we're looking for the right kind of investors who really believe in the strategy that we have,
+
+01:00:18.840 --> 01:00:24.840
+the power of general intelligence and where that's leading.
+
+01:00:24.840 --> 01:00:27.840
+So that's where we are.
+
+01:00:27.840 --> 01:00:32.840
+I think there's one thing I haven't mentioned that might be also useful to just talk about briefly,
+
+01:00:32.840 --> 01:00:36.840
+and that is where does our approach fit in?
+
+01:00:36.840 --> 01:00:41.840
+Because clearly, just from what I've said, it's not deep learning, it's not machine learning.
+
+01:00:41.840 --> 01:00:46.840
+DARPA actually have a useful way of looking at it.
+
+01:00:46.840 --> 01:00:52.840
+They've been presenting what they call the third wave of AI.
+
+01:00:52.840 --> 01:00:59.840
+So they talk about three waves of AI, and they actually have a fund to fund the third wave of AI.
+
+01:00:59.840 --> 01:01:05.840
+And what they mean by the three waves of AI is the first wave is basically good old-fashioned AI.
+
+01:01:05.840 --> 01:01:12.840
+It's all the stuff that was done for decades in AI, mainly logic-based systems, expert systems,
+
+01:01:12.840 --> 01:01:18.840
+formal logic, flowchart-type approaches, and some statistics and so on.
+
+01:01:18.840 --> 01:01:20.840
+So that's the first wave.
+
+01:01:20.840 --> 01:01:24.840
+And then the second wave, of course, hit us like a tsunami about seven, eight years ago.
+
+01:01:24.840 --> 01:01:27.840
+That's all about deep learning, machine learning.
+
+01:01:27.840 --> 01:01:31.840
+And of course, there's now a whole generation of people, when you talk about AI,
+
+01:01:31.840 --> 01:01:34.840
+that's the only thing they actually even know about in AI.
+
+01:01:34.840 --> 01:01:38.840
+It's machine learning, deep learning, it's big data.
+
+01:01:38.840 --> 01:01:43.840
+But the third wave that DARPA has identified is basically adaptive systems,
+
+01:01:43.840 --> 01:01:48.840
+systems that can learn and understand and reason in real time.
+
+01:01:48.840 --> 01:01:54.840
+And I identify that as what I call a cognitive architecture.
+
+01:01:54.840 --> 01:02:01.840
+So your architecture inherently has all of the components required for intelligence,
+
+01:02:01.840 --> 01:02:05.840
+such as real-time learning, reasoning, common sense reasoning, short-term memory,
+
+01:02:05.840 --> 01:02:12.840
+long-term memory, and the ability to disambiguate and to focus and have goal-directed behavior,
+
+01:02:12.840 --> 01:02:22.840
+and all of the different essentials of intelligence that your architecture inherently has components for that.
+
+01:02:22.840 --> 01:02:27.840
+But they also have to be put together in a certain way, but that's sort of a whole other topic.
+
+01:02:27.840 --> 01:02:31.840
+But that's the third wave of AI is basically a cognitive architecture.
+
+01:02:31.840 --> 01:02:38.840
+Are there any other individuals, companies, who are approaching it similar to the way that you're seeing it?
+
+01:02:38.840 --> 01:02:43.840
+There have been cognitive architectures that have been around for quite a while.
+
+01:02:43.840 --> 01:02:50.840
+Unfortunately, they've now all been cut off basically in the last five, ten years.
+
+01:02:50.840 --> 01:02:56.840
+I had a brilliant intern from Germany working on our system.
+
+01:02:56.840 --> 01:03:01.840
+He really understood the cognitive approach and engineering side of it and so on.
+
+01:03:01.840 --> 01:03:04.840
+He went back to Germany to do his PhD.
+
+01:03:04.840 --> 01:03:07.840
+He couldn't find a sponsor for cognitive architecture.
+
+01:03:07.840 --> 01:03:11.840
+So people are saying, well, cognitive architecture, we've been trying them for 30 years.
+
+01:03:11.840 --> 01:03:13.840
+They haven't worked.
+
+01:03:13.840 --> 01:03:19.840
+What they don't realize is that 10 years ago, if you said I'm using a neural network to solve this problem,
+
+01:03:19.840 --> 01:03:24.840
+they say, oh, neural networks, we've tried those for 30 years and they haven't worked.
+
+01:03:24.840 --> 01:03:29.840
+So things don't work until they do work, you know, sometimes.
+
+01:03:29.840 --> 01:03:31.840
+So, yeah.
+
+01:03:31.840 --> 01:03:34.840
+So, no, I don't actually know.
+
+01:03:34.840 --> 01:03:40.840
+I mean, there's some university projects, a few small projects, one-man shows and so on.
+
+01:03:40.840 --> 01:03:42.840
+But basically, you can't get funding for it.
+
+01:03:42.840 --> 01:03:43.840
+You can't get paid.
+
+01:03:43.840 --> 01:03:46.840
+You can't get any love for this approach.
+
+01:03:46.840 --> 01:03:54.840
+As far as I know, we're the only company that's actually put 15 years of effort into it.
+
+01:03:54.840 --> 01:04:01.840
+We've already commercialized our first generation and we've been consistently developing this and commercializing it.
+
+01:04:01.840 --> 01:04:08.840
+I'm not aware of any other company that actually has a commercial cognitive architecture.
+
+01:04:08.840 --> 01:04:10.840
+The status quo seems to be a problem.
+
+01:04:10.840 --> 01:04:17.840
+I was talking to a friend of mine who is a physicist and he was saying at some point all the funding was going to string theory.
+
+01:04:17.840 --> 01:04:21.840
+If you were doing anything other than string theory, they had no interest in it whatsoever.
+
+01:04:21.840 --> 01:04:22.840
+It's exactly the same thing.
+
+01:04:22.840 --> 01:04:27.840
+Yeah, and Aubrey de Grey, of course, has sort of a similar problem, you know.
+
+01:04:27.840 --> 01:04:35.840
+And, yeah, nanotechnology, of course, also kind of suffers that sort of lack of love, you know,
+
+01:04:35.840 --> 01:04:42.840
+than when people cottoned onto nanotechnology and how wonderful it was and suddenly it turned into material science.
+
+01:04:42.840 --> 01:04:48.840
+But if you're trying to do real molecular nanotechnology, you can't get funding for that either.
+
+01:04:48.840 --> 01:04:53.840
+Man, I should have you back and talk about futurism for another hour, but I know your time is limited.
+
+01:04:53.840 --> 01:05:00.840
+Before I ask you the last question, we talked about how many other different areas aside from artificial intelligence you've studied.
+
+01:05:00.840 --> 01:05:08.840
+Who are some of the work and people who have inspired you were coming from the fields other than artificial intelligence?
+
+01:05:08.840 --> 01:05:13.840
+Well, I moved to America in 1995, 25 years ago.
+
+01:05:13.840 --> 01:05:18.840
+And when I came here, I was like a kid at a candy store, you know, like a lot of the authors that I've read before.
+
+01:05:18.840 --> 01:05:28.840
+I could now actually meet them in person and, you know, befriended some of them and met all of these just brilliant people working cutting edge technology.
+
+01:05:28.840 --> 01:05:35.840
+You know, Eric Drexler was one of one of them in nanotech and then Roy Walford in calorie restriction.
+
+01:05:35.840 --> 01:05:41.840
+And, you know, he was one of the pioneers in calorie restriction research.
+
+01:05:41.840 --> 01:05:50.840
+And I read his book, spoke to him and so on, and that, you know, very quickly decided that calorie restriction made a lot of sense.
+
+01:05:50.840 --> 01:05:59.840
+You know, I want to be healthy and live as long as I can, hopefully long enough for Aubrey and people like that to all our A.I.
+
+01:05:59.840 --> 01:06:03.840
+to help, you know, solve the problem of aging.
+
+01:06:03.840 --> 01:06:08.840
+Found that about cryonics research that that made a lot of sense to me.
+
+01:06:08.840 --> 01:06:12.840
+So I signed up for cryonics, you know, that core.
+
+01:06:12.840 --> 01:06:18.840
+Yeah. OK. So if all if all else fails, you know, it's a safety net of unknown fabric.
+
+01:06:18.840 --> 01:06:24.840
+But, you know, it's it's the second worst thing that can happen to you is to end up in the duo.
+
+01:06:24.840 --> 01:06:28.840
+So, you know, just a lot of exciting things.
+
+01:06:28.840 --> 01:06:33.840
+And, you know, obviously a lot of people in A.I. that I met.
+
+01:06:33.840 --> 01:06:37.840
+But, yeah, just super exciting to, you know, to be part of it.
+
+01:06:37.840 --> 01:06:46.840
+But, you know, this was 25 years ago when I started, you know, just here in California in particular, being exposed to all of this.
+
+01:06:46.840 --> 01:06:56.840
+Super exciting. But I would never have thought that 20 years later we would have made so little progress in nanotech aging research and and A.I.
+
+01:06:56.840 --> 01:07:00.840
+mainly for the reason that they haven't had funding.
+
+01:07:00.840 --> 01:07:08.840
+And also social adaptation keeps coming up that just anything would work as well as a society that adopts it.
+
+01:07:08.840 --> 01:07:17.840
+Yeah. Well, cryonics that we have, you know, just a few thousand less than two thousand people signed up for seven billion.
+
+01:07:17.840 --> 01:07:23.840
+It just mind boggles, you know. So, yeah, that that that's quite a shocker.
+
+01:07:23.840 --> 01:07:28.840
+So, you know, well, we just need to chip away at it and make it happen.
+
+01:07:28.840 --> 01:07:31.840
+Absolutely. Peter, let me ask you the last question.
+
+01:07:31.840 --> 01:07:39.840
+I want to ask all my guests that if you come across an intelligent alien from a different civilization, what would you say is the worst thing humanity has done?
+
+01:07:39.840 --> 01:07:42.840
+And what would you say is our greatest achievement?
+
+01:07:42.840 --> 01:08:01.840
+Well, OK, I haven't thought about that. Well, our greatest achievement, I think, is the parts of where rationality has actually created a better society, has created science.
+
+01:08:01.840 --> 01:08:06.840
+So the scientific method, I think the the American system.
+
+01:08:06.840 --> 01:08:20.840
+Well, obviously, it's it's suffering, but, you know, the basically having a lawful society that allows people to pursue their own interests, that protects their individual rights.
+
+01:08:20.840 --> 01:08:28.840
+So that that kind of civilization that that we've created in the scientific method, I think those are our biggest achievement.
+
+01:08:28.840 --> 01:08:36.840
+And I think the biggest mistakes, I think, are superstition and religion. I think they've held us back tremendously.
+
+01:08:36.840 --> 01:09:05.840
+I think they're really very detrimental to mankind.
+
+01:09:06.840 --> 01:09:08.840
+Thank you.
+
