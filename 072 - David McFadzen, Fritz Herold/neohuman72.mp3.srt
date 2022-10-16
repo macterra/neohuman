@@ -1,0 +1,4484 @@
+1
+00:00:00,000 --> 00:00:02,200
+Do you see Donald Trump's signature on your check?
+
+2
+00:00:02,200 --> 00:00:05,000
+Yes, it has his name.
+
+3
+00:00:05,000 --> 00:00:10,000
+Did you know your check was delayed a week just because of him?
+
+4
+00:00:10,000 --> 00:00:17,000
+I mean, that is politically genius, though, because for millions of people.
+
+5
+00:00:17,000 --> 00:00:21,000
+I mean, are we talking about ethics and morality and Donald Trump in one sentence?
+
+6
+00:00:21,000 --> 00:00:23,000
+I mean, who are we fooling?
+
+7
+00:00:23,000 --> 00:00:29,000
+But he is a very practical man and a very strong psychedelic.
+
+8
+00:00:29,000 --> 00:00:42,000
+I agree with the latter part.
+
+9
+00:00:42,000 --> 00:00:47,000
+Hello and welcome to the 72nd episode of the New Human Podcast.
+
+10
+00:00:47,000 --> 00:00:51,000
+I'm a Gavahari etiologist on Twitter and Instagram.
+
+11
+00:00:51,000 --> 00:00:58,000
+And you can follow the show on YouTube, BitChute, iTunes, LiveInLimbo.com
+
+12
+00:00:58,000 --> 00:01:02,000
+and pretty much everywhere that podcasts are available.
+
+13
+00:01:02,000 --> 00:01:10,000
+I plan to live stream this and I failed because OBS, I had a problem of up to 90% frame drop.
+
+14
+00:01:10,000 --> 00:01:17,000
+So I'm recording this, bringing back and welcoming back my very first guest on this podcast,
+
+15
+00:01:17,000 --> 00:01:24,000
+David McFadden and a gentleman who I met in person, I believe only once,
+
+16
+00:01:24,000 --> 00:01:29,000
+but we've been virtual brothers for a long time.
+
+17
+00:01:29,000 --> 00:01:36,000
+Fritz Herold is the name that I know him by and I welcome him for the first time to New Human Podcast.
+
+18
+00:01:36,000 --> 00:01:38,000
+Very cool to be here.
+
+19
+00:01:38,000 --> 00:01:40,000
+Thanks for having me back.
+
+20
+00:01:40,000 --> 00:01:41,000
+Yeah, absolutely.
+
+21
+00:01:41,000 --> 00:01:48,000
+Let's start by just to give our audience some ideas what you guys have done, who you are,
+
+22
+00:01:48,000 --> 00:01:54,000
+to give them some context to assess what is coming from your mind and make a decision
+
+23
+00:01:54,000 --> 00:01:58,000
+whether or not it's good or bad based on their own perspective.
+
+24
+00:01:58,000 --> 00:01:59,000
+What have you done, David?
+
+25
+00:01:59,000 --> 00:02:04,000
+The kind of lives you've lived, the work you've done and what are you mainly focused on now these days
+
+26
+00:02:04,000 --> 00:02:08,000
+and then the very same thing for you, Fritz.
+
+27
+00:02:08,000 --> 00:02:11,000
+The lives I've lived?
+
+28
+00:02:11,000 --> 00:02:16,000
+It's funny, I was just listening again to the recording of the first podcast,
+
+29
+00:02:16,000 --> 00:02:19,000
+which was just over four years ago, I think.
+
+30
+00:02:19,000 --> 00:02:20,000
+Yeah.
+
+31
+00:02:20,000 --> 00:02:24,000
+It was during the election season running up to the election of Trump anyways.
+
+32
+00:02:24,000 --> 00:02:27,000
+Actually, it was January of 2016.
+
+33
+00:02:27,000 --> 00:02:28,000
+Yeah.
+
+34
+00:02:28,000 --> 00:02:36,000
+It was at the peak of, it was the election year and beginning of the election year
+
+35
+00:02:36,000 --> 00:02:44,000
+and it was at the peak of insanity until then because after that, day by day, things got exponentially crazier.
+
+36
+00:02:44,000 --> 00:02:46,000
+Yeah.
+
+37
+00:02:46,000 --> 00:02:53,000
+It was really interesting listening to it because at the time, it seemed like a pretty wild speculation
+
+38
+00:02:53,000 --> 00:02:57,000
+that Trump would be in the lead, he would get the nomination.
+
+39
+00:02:57,000 --> 00:03:03,000
+I was quoting Scott Adams for being upfront on this or in the lead on this.
+
+40
+00:03:03,000 --> 00:03:11,000
+In retrospect, it almost looks like it was inevitable, but it didn't quite seem like it at the time.
+
+41
+00:03:11,000 --> 00:03:14,000
+I was working for a different company at the time.
+
+42
+00:03:14,000 --> 00:03:22,000
+I was working for Synaptiv Medical, building neurosurgical robots, and I'm actually on my second job since then.
+
+43
+00:03:22,000 --> 00:03:31,000
+After Synaptiv, I joined a blockchain startup, Equibit, and sadly, it only lasted a few months before running out of money.
+
+44
+00:03:31,000 --> 00:03:39,000
+This was when the cryptocurrencies crashed a couple of years ago and it was impossible to find funding.
+
+45
+00:03:39,000 --> 00:03:45,000
+Now, I find myself at a great company now called Index Exchange and really enjoying it,
+
+46
+00:03:45,000 --> 00:03:47,000
+but I've kind of switched contacts again.
+
+47
+00:03:47,000 --> 00:03:54,000
+I'm now an engineering manager leading three teams working on the next generation of the software
+
+48
+00:03:54,000 --> 00:04:02,000
+that's just working on infrastructure for the web between the publishers and the advertisers.
+
+49
+00:04:02,000 --> 00:04:09,000
+Amazing. Peter Voss mentioned that you were working with him at his first company.
+
+50
+00:04:09,000 --> 00:04:16,000
+Yeah, I do. I too. That was very interesting. He was my boss almost 20 years ago.
+
+51
+00:04:16,000 --> 00:04:20,000
+I still have very fond memories of my time at Adaptive AI.
+
+52
+00:04:20,000 --> 00:04:25,000
+Yeah, I want to talk about his perspective about AI with both of you guys
+
+53
+00:04:25,000 --> 00:04:30,000
+because there's a philosophy and then there's technology aspects to it.
+
+54
+00:04:30,000 --> 00:04:39,000
+Fritz, how about you share who you see yourself as at this moment?
+
+55
+00:04:39,000 --> 00:04:43,000
+Well, I was a fairly mainstream normal human being,
+
+56
+00:04:43,000 --> 00:04:49,000
+and then our other guest here unwittingly lured me into another universe.
+
+57
+00:04:49,000 --> 00:04:56,000
+This was about 95, 96, and there was this little server off in the Rocky Mountains somewhere
+
+58
+00:04:56,000 --> 00:05:01,000
+hidden in an underground shelter, and it ran Church of the Virus.
+
+59
+00:05:01,000 --> 00:05:08,000
+I started blogging on here, and I was exposed to a world that was completely new to me.
+
+60
+00:05:08,000 --> 00:05:13,000
+Up to that point, I'd been working with a couple of engineering firms.
+
+61
+00:05:13,000 --> 00:05:21,000
+I spent 10 years doing all the floodplain mapping with other people, of course, for Southern Ontario.
+
+62
+00:05:21,000 --> 00:05:26,000
+Out in the field, walking up and down river systems and documenting, doing the computer models
+
+63
+00:05:26,000 --> 00:05:30,000
+and running the computer models and the weather models.
+
+64
+00:05:30,000 --> 00:05:36,000
+I was heavily involved from an engineering perspective, hanging around with engineers.
+
+65
+00:05:36,000 --> 00:05:41,000
+That was great, but that led me into IT because no one wanted to touch the computers
+
+66
+00:05:41,000 --> 00:05:45,000
+and do the computer modeling.
+
+67
+00:05:45,000 --> 00:05:52,000
+By the early 90s, I was heavily into IT and setting up IT systems, office automation systems,
+
+68
+00:05:52,000 --> 00:06:00,000
+always in the implementation and production side of the world, which included writing as well.
+
+69
+00:06:00,000 --> 00:06:10,000
+That took me to retirement, and now I'm up in four hours north of Toronto in God's country here,
+
+70
+00:06:10,000 --> 00:06:16,000
+enjoying life and still can't get away from you guys.
+
+71
+00:06:16,000 --> 00:06:23,000
+It's always such a treat to share the ideas and expand what's left of my brain.
+
+72
+00:06:23,000 --> 00:06:31,000
+It's really interesting this time that we're living in because you guys have a much better perspective
+
+73
+00:06:31,000 --> 00:06:38,000
+than I do because I just experience this planet less than you have.
+
+74
+00:06:38,000 --> 00:06:43,000
+I think we just got called old, David.
+
+75
+00:06:43,000 --> 00:06:46,000
+In a nice way, yes.
+
+76
+00:06:46,000 --> 00:06:49,000
+But wise, that's the key.
+
+77
+00:06:49,000 --> 00:06:54,000
+Having a perspective and context because I'm realizing that even living 36 years,
+
+78
+00:06:54,000 --> 00:07:00,000
+certain things are repeating themselves and patterns are recognizable.
+
+79
+00:07:00,000 --> 00:07:05,000
+But what I'm interested to know from your perspective, because both of your careers
+
+80
+00:07:05,000 --> 00:07:09,000
+have had everything to do with information in one way or another,
+
+81
+00:07:09,000 --> 00:07:17,000
+how that aspect of your work has changed from when you've begun until today?
+
+82
+00:07:17,000 --> 00:07:23,000
+I feel like I've lived through four revolutions in technology.
+
+83
+00:07:23,000 --> 00:07:31,000
+The first one was the PC revolution when I was just a kid when home computers were new.
+
+84
+00:07:31,000 --> 00:07:39,000
+I remember going over to my friend's house in 79 and seeing his RadioShack TRS-80 Model 1
+
+85
+00:07:39,000 --> 00:07:42,000
+and just being completely enthralled.
+
+86
+00:07:42,000 --> 00:07:48,000
+Interesting that the first program he showed me was this thing called the Game of Life.
+
+87
+00:07:48,000 --> 00:07:53,000
+I was expecting a game. It was actually a cellular automata.
+
+88
+00:07:53,000 --> 00:07:57,000
+This is kind of relevant because the inventor of the Game of Life, John Conway,
+
+89
+00:07:57,000 --> 00:08:03,000
+a brilliant mathematician, just recently died of COVID a week or two ago.
+
+90
+00:08:03,000 --> 00:08:05,000
+Oh, my goodness. I didn't know that.
+
+91
+00:08:05,000 --> 00:08:07,000
+It brought back all the memories.
+
+92
+00:08:07,000 --> 00:08:14,000
+I was looking at this machine at my friend's house playing the Game of Life.
+
+93
+00:08:14,000 --> 00:08:21,000
+All I remember thinking was, this game sucks. You can't play it. What kind of game is this?
+
+94
+00:08:21,000 --> 00:08:31,000
+It wasn't until much, much later that I really deeply appreciated what this Game of Life was.
+
+95
+00:08:31,000 --> 00:08:36,000
+The other interesting coincidence here is...
+
+96
+00:08:36,000 --> 00:08:39,000
+Tell the audience what is the Game of Life.
+
+97
+00:08:39,000 --> 00:08:47,000
+The Game of Life is a cellular automata. It's not a game in the traditional sense that you play it.
+
+98
+00:08:47,000 --> 00:08:55,000
+It's a game in that it's a grid of cells, and each cell is either alive or dead.
+
+99
+00:08:55,000 --> 00:09:00,000
+It just goes through a sequence where at each iteration,
+
+100
+00:09:00,000 --> 00:09:09,000
+whether a cell dies or is reborn depends on the states of the cells around it.
+
+101
+00:09:09,000 --> 00:09:12,000
+It's very simple rules that...
+
+102
+00:09:12,000 --> 00:09:16,000
+I forget the details, but it's something like if a cell is alive
+
+103
+00:09:16,000 --> 00:09:22,000
+and one or two cells next to it are also alive, it will continue to live, otherwise it dies.
+
+104
+00:09:22,000 --> 00:09:29,000
+There are three or four rules, and it evolves to crazy places just from that initial point.
+
+105
+00:09:29,000 --> 00:09:32,000
+Yeah, it's just one rule.
+
+106
+00:09:32,000 --> 00:09:33,000
+One rule.
+
+107
+00:09:33,000 --> 00:09:34,000
+Yeah, one rule.
+
+108
+00:09:34,000 --> 00:09:39,000
+The interesting thing is even from this very simplistic rule,
+
+109
+00:09:39,000 --> 00:09:43,000
+there is amazing complexity that could evolve.
+
+110
+00:09:43,000 --> 00:09:48,000
+It's in fact Turing-complete, so it's got universal computation.
+
+111
+00:09:48,000 --> 00:09:53,000
+It can calculate or compute anything that can possibly be computed.
+
+112
+00:09:53,000 --> 00:10:04,000
+At some level on this spectrum, it is equivalent to humans or aliens or anything else that can possibly compute anything.
+
+113
+00:10:04,000 --> 00:10:06,000
+It's universal.
+
+114
+00:10:06,000 --> 00:10:14,000
+The interesting coincidence here is that just last week, Stephen Wolfram announced a new project
+
+115
+00:10:14,000 --> 00:10:20,000
+that he's been working on for decades now, the Wolfram Physics Project, which is related at a very deep level.
+
+116
+00:10:20,000 --> 00:10:27,000
+He got interested in cellular automata back in the 80s or 90s and did a lot of research.
+
+117
+00:10:27,000 --> 00:10:38,000
+He also became completely enamored by this possibility that physics could be fundamentally rewritten in terms of computation.
+
+118
+00:10:38,000 --> 00:10:46,000
+I think what we're seeing now is kind of presaged with his book 15 years ago, A New Kind of Science,
+
+119
+00:10:46,000 --> 00:10:53,000
+that was based on the notion that for the last few hundred years, physics has been based on mathematics.
+
+120
+00:10:53,000 --> 00:10:59,000
+But now we've discovered something more powerful than mathematics, and that's computation.
+
+121
+00:10:59,000 --> 00:11:04,000
+Mathematics is a subset of that, but computation is more powerful.
+
+122
+00:11:04,000 --> 00:11:09,000
+Now that we have this new tool, we can rewrite physics.
+
+123
+00:11:09,000 --> 00:11:13,000
+We can find a new fundamental theory of physics.
+
+124
+00:11:13,000 --> 00:11:23,000
+That's what he's done precisely. In his project, he's announced or discovered that he's looking at physics
+
+125
+00:11:23,000 --> 00:11:32,000
+in terms of not cellular automata precisely, not in terms of 2D grid, but something even more fundamental,
+
+126
+00:11:32,000 --> 00:11:41,000
+just a graph which has just nodes and connections between the nodes and rules that apply to these
+
+127
+00:11:41,000 --> 00:11:44,000
+and evolve the graph.
+
+128
+00:11:44,000 --> 00:11:48,000
+Which is very Hindu and Buddhist.
+
+129
+00:11:48,000 --> 00:11:49,000
+Is it?
+
+130
+00:11:49,000 --> 00:11:59,000
+Oh, absolutely, because the whole thing about Hinduism, web of life, is that there is a web that is everything basically.
+
+131
+00:11:59,000 --> 00:12:05,000
+But what matters are the nodes, so you have to pay attention to the nodes.
+
+132
+00:12:05,000 --> 00:12:11,000
+But Buddha came and said, what also matters is the connection between the nodes.
+
+133
+00:12:11,000 --> 00:12:20,000
+Yeah, so that's what Wolfram is saying. At the deepest levels of reality, it's just connections, nothing else.
+
+134
+00:12:20,000 --> 00:12:27,000
+Just connections. There's no information on nodes besides what connections are to other nodes.
+
+135
+00:12:27,000 --> 00:12:35,000
+And he's now searching for a rule that corresponds to our particular universe.
+
+136
+00:12:35,000 --> 00:12:48,000
+But it's basically part of the, I guess, a program called digital physics that comes back to Fredkin decades ago
+
+137
+00:12:48,000 --> 00:12:54,000
+and von Neumann since then, that at the fundamental strength of the universe, it's just pure information.
+
+138
+00:12:54,000 --> 00:13:00,000
+So it has kind of a matrix feel to it too, which is very appealing to people like me.
+
+139
+00:13:00,000 --> 00:13:09,000
+And presumably for its technologists, computer scientists, at the deepest level, there's nothing but information.
+
+140
+00:13:09,000 --> 00:13:11,000
+I agree with that.
+
+141
+00:13:11,000 --> 00:13:16,000
+It's interesting to hear this. This is new to me. It's fascinating.
+
+142
+00:13:16,000 --> 00:13:27,000
+Just a little analogy, when I was doing the modeling of the weather systems and then the runoff models to do the floodplain mapping,
+
+143
+00:13:27,000 --> 00:13:35,000
+up until that point, engineers, we're talking early 1980s, the engineers just used some simple equations to calculate.
+
+144
+00:13:35,000 --> 00:13:40,000
+They had some parameters and you could tweak them to calculate how much water was coming down off the watershed.
+
+145
+00:13:40,000 --> 00:13:48,000
+And we just got some mini computers, some IBM mainframe killers, the PDP-11 from Digital Equipment Corporation.
+
+146
+00:13:48,000 --> 00:13:51,000
+And they just sat in the corner of the office and hummed away.
+
+147
+00:13:51,000 --> 00:13:55,000
+And we were able to basic Fortran compilers and run stuff locally.
+
+148
+00:13:55,000 --> 00:14:01,000
+And what we did is rather than, I mean, we had some equations in a framework,
+
+149
+00:14:01,000 --> 00:14:07,000
+but we also had field measurements of where the water levels were on bridges and all sorts of places historically.
+
+150
+00:14:07,000 --> 00:14:13,000
+And we were able to rerun and rerun and rerun the computer models and endless iterations
+
+151
+00:14:13,000 --> 00:14:17,000
+until they gave the response that we had seen in the real world.
+
+152
+00:14:17,000 --> 00:14:19,000
+And this was groundbreaking.
+
+153
+00:14:19,000 --> 00:14:25,000
+And it really changed what people ended up doing.
+
+154
+00:14:25,000 --> 00:14:36,000
+And also from the legal system and social perspective, all of a sudden now the leeway on where floodplain maps could be and couldn't be changed.
+
+155
+00:14:36,000 --> 00:14:44,000
+And that things were now far more real than they'd ever been just because of this whole iterative process
+
+156
+00:14:44,000 --> 00:14:48,000
+that you can go in where you're not doing just basing everything on equations.
+
+157
+00:14:48,000 --> 00:14:54,000
+It just seems to echo in what David was saying in a sort of practical way at that point.
+
+158
+00:14:54,000 --> 00:14:59,000
+Yeah. And I think we are getting to a point that we really have to, I mean, it's not that we have to.
+
+159
+00:14:59,000 --> 00:15:03,000
+We are getting to it whether we want to get to it or not.
+
+160
+00:15:03,000 --> 00:15:10,000
+That whether or not any kind of human interference is going to be productive or counterproductive
+
+161
+00:15:10,000 --> 00:15:21,000
+because at the academia level, the kind of information that has been considered as authoritative information coming out of there,
+
+162
+00:15:21,000 --> 00:15:32,000
+it's completely biased and it's completely politicized based on the hierarchy that has been created on the basis of ideology.
+
+163
+00:15:32,000 --> 00:15:38,000
+And everybody is basically scratching each other back in a circle and it's a very small circle.
+
+164
+00:15:38,000 --> 00:15:46,000
+So this research that David is talking about, if I'm not mistaken, the guy was attacked.
+
+165
+00:15:46,000 --> 00:15:56,000
+Yeah, exactly. He is working completely outside of academia and he's getting a lot of flack and pushback because of that.
+
+166
+00:15:56,000 --> 00:16:05,000
+It's mostly because he does not cite anyone else in his works. Like, obviously, he's built on the works of others.
+
+167
+00:16:05,000 --> 00:16:11,000
+He didn't invent so we are all about it. But as far as I can tell, he doesn't provide any references.
+
+168
+00:16:11,000 --> 00:16:19,000
+And that's kind of a sin in academia. So everything he's doing is outside of academia.
+
+169
+00:16:19,000 --> 00:16:26,000
+And so the physics departments are denouncing him basically.
+
+170
+00:16:26,000 --> 00:16:28,000
+Right. So it goes back to physics department.
+
+171
+00:16:28,000 --> 00:16:34,000
+And I had this conversation with a friend of mine who has also been on New Human Podcast twice in Toronto.
+
+172
+00:16:34,000 --> 00:16:38,000
+He studied physics in University of Toronto, but he's a filmmaker now.
+
+173
+00:16:38,000 --> 00:16:48,000
+But the whole thing was that he was telling me that departments of physics would invest in you and would give you grants and all that
+
+174
+00:16:48,000 --> 00:16:53,000
+if you were studying string theory. Anything outside of that, they're not going to do anything.
+
+175
+00:16:53,000 --> 00:17:01,000
+So it comes down to very few people, very small circle, who make the decision what information is right, what information is wrong.
+
+176
+00:17:01,000 --> 00:17:14,000
+And if you look at it from a little above, it really suggests that any kind of a system that relies on human intellect
+
+177
+00:17:14,000 --> 00:17:22,000
+and human decision making is corruptible and flawed because that's part of the state of humanity.
+
+178
+00:17:22,000 --> 00:17:26,000
+So scientists are human. Absolutely.
+
+179
+00:17:26,000 --> 00:17:33,000
+But it seems to me the late 60s, early 70s was a real pivot point for this issue.
+
+180
+00:17:33,000 --> 00:17:45,000
+And I've seen a number of people that are in physics and had been in physics prior to the 70s. They're talking with some concern
+
+181
+00:17:45,000 --> 00:17:48,000
+about what they witnessed over their careers.
+
+182
+00:17:48,000 --> 00:17:55,000
+As you pointed out, a string theory became the gospel and anyone else was sort of pushed aside.
+
+183
+00:17:55,000 --> 00:18:03,000
+But there was a structural change or ideological change that happened at the universities in the early 70s.
+
+184
+00:18:03,000 --> 00:18:17,000
+It affected more than just the social sciences. It looked like it also seemed to narrow the reach of even the physics and the STEM fields
+
+185
+00:18:17,000 --> 00:18:26,000
+and created this little capsule that everyone functions in.
+
+186
+00:18:26,000 --> 00:18:34,000
+I mean, I suppose it's been like this for a long time because when you look back at Newton or Galileo,
+
+187
+00:18:34,000 --> 00:18:44,000
+I mean, in their context, they were pretty hard done by the establishment of the day.
+
+188
+00:18:44,000 --> 00:18:51,000
+So it may not be a new thing, but what's the way out? I keep wondering as I'm looking at this.
+
+189
+00:18:51,000 --> 00:18:58,000
+Well, I think the way out was shown to us by Jordan Peterson when he got his grand cut by the government
+
+190
+00:18:58,000 --> 00:19:07,000
+and he raised many times over that amount online by Kickstarter or something, Patreon, whatever that he used.
+
+191
+00:19:07,000 --> 00:19:14,000
+But we have to decentralize. There is no other way around it.
+
+192
+00:19:14,000 --> 00:19:26,000
+When YouTube comments says any video that talks about this virus that says anything against the mandate of WHO
+
+193
+00:19:26,000 --> 00:19:31,000
+is going to be shut down and deleted and, you know, marked basically as fake news.
+
+194
+00:19:31,000 --> 00:19:38,000
+I mean, that's just ridiculous. And a majority of people, obviously, they don't want to get into trouble.
+
+195
+00:19:38,000 --> 00:19:45,000
+But it gets to a point that you realize, hey, YouTube became YouTube because of people like Alex Jones,
+
+196
+00:19:45,000 --> 00:19:54,000
+because of people like whoever who sat in his room and used his computer and microphone
+
+197
+00:19:54,000 --> 00:19:59,000
+and communicated with everyone else. And God bless America in that respect
+
+198
+00:19:59,000 --> 00:20:08,000
+that allowed people to, you know, create infrastructure upon this network, upon this Internet
+
+199
+00:20:08,000 --> 00:20:12,000
+so people could communicate with each other. But that is now merging with the government
+
+200
+00:20:12,000 --> 00:20:17,000
+because government is falling behind and Big Tech is like, yeah, it's business for us.
+
+201
+00:20:17,000 --> 00:20:21,000
+They don't care about America or Constitution. They care about profit.
+
+202
+00:20:21,000 --> 00:20:29,000
+And it's probably another insidious component that even if it isn't overtly doxing you,
+
+203
+00:20:29,000 --> 00:20:38,000
+then you don't get as many rewards for putting material out that they don't forward on or don't advertise.
+
+204
+00:20:38,000 --> 00:20:47,000
+So they're subtly adjusting what you do so you can see the maximum return and money coming in
+
+205
+00:20:47,000 --> 00:20:54,000
+to make it profitable for you so that even that iterative cycle that YouTube puts you through
+
+206
+00:20:54,000 --> 00:20:59,000
+changes your content and what you're saying if you want to survive or if you're depending on it
+
+207
+00:20:59,000 --> 00:21:07,000
+from a monetary perspective. So I agree with you. I think it's quite bizarre.
+
+208
+00:21:07,000 --> 00:21:14,000
+But it comes down to, in my opinion, that the government has to start saying these are publishing houses
+
+209
+00:21:14,000 --> 00:21:18,000
+and they're responsible for their content. They're not going to say that.
+
+210
+00:21:18,000 --> 00:21:21,000
+Or they have to leave it wide open because they can't have it either way.
+
+211
+00:21:21,000 --> 00:21:25,000
+And I think we're going to have to have some court cases which are coming.
+
+212
+00:21:25,000 --> 00:21:31,000
+And or you look at Dave Rubin now and Scott Adams, they're now launching their own platforms
+
+213
+00:21:31,000 --> 00:21:38,000
+and moving their people over to that because that's and I think you're going to see more and more people
+
+214
+00:21:38,000 --> 00:21:42,000
+starting to do that now. I mean, the technology is certainly there.
+
+215
+00:21:42,000 --> 00:21:48,000
+So this whole thing has to be it's gotten too centralized and it has to be decentralized again, I think.
+
+216
+00:21:48,000 --> 00:21:55,000
+And so that everyone's voice can be heard.
+
+217
+00:21:55,000 --> 00:22:00,000
+So there isn't a central source that can be managed the way Facebook and YouTube are.
+
+218
+00:22:00,000 --> 00:22:04,000
+Agar, you post all your videos on BitChute, don't you?
+
+219
+00:22:04,000 --> 00:22:06,000
+Also, yes.
+
+220
+00:22:06,000 --> 00:22:11,000
+Is that just as a backup in case YouTube removes them?
+
+221
+00:22:11,000 --> 00:22:13,000
+I mean, actually Bit to BitChute.
+
+222
+00:22:13,000 --> 00:22:16,000
+Well, White House has actually is really interesting.
+
+223
+00:22:16,000 --> 00:22:20,000
+White House started a BitChute channel as well.
+
+224
+00:22:20,000 --> 00:22:27,000
+So all of Trump videos and White House videos because it's the only platform for alternative media
+
+225
+00:22:27,000 --> 00:22:29,000
+that is not going to be brought down.
+
+226
+00:22:29,000 --> 00:22:40,000
+And yeah, I started uploading there and a bunch of other places, Mines and a bunch of other places.
+
+227
+00:22:40,000 --> 00:22:45,000
+But BitChute is very it's a cool platform.
+
+228
+00:22:45,000 --> 00:22:46,000
+I have subscribers there.
+
+229
+00:22:46,000 --> 00:22:50,000
+It's like tenth of the amount of my YouTube subscribers.
+
+230
+00:22:50,000 --> 00:22:55,000
+But, you know, I want to support them too.
+
+231
+00:22:55,000 --> 00:23:00,000
+You know, it's like if I can't get them traffic in my own way, you know, whatever.
+
+232
+00:23:00,000 --> 00:23:06,000
+And it's good because, you know, you don't have to be reliant completely on YouTube.
+
+233
+00:23:06,000 --> 00:23:15,000
+Right. But this is kind of the fundamental problem that YouTube is the place to be if you want subscribers.
+
+234
+00:23:15,000 --> 00:23:18,000
+Yeah. Well, it's adoption.
+
+235
+00:23:18,000 --> 00:23:31,000
+You know, it's social adoption that goes back to we had this conversation that any any technology, any solution really would work as well as the society that adopts it.
+
+236
+00:23:31,000 --> 00:23:37,000
+So, you know, you can't come up with the greatest system ever.
+
+237
+00:23:37,000 --> 00:23:48,000
+And that's really is my biggest question with respect to anarchy, real anarchy, because I hear it from a lot of people and like, dude, you're an anarchist.
+
+238
+00:23:48,000 --> 00:23:56,000
+I'm like, I'm not an anarchist because I don't think people are not going to use violence when it comes down to it.
+
+239
+00:23:56,000 --> 00:24:03,000
+You know, because, you know, humans are humans.
+
+240
+00:24:03,000 --> 00:24:09,000
+You know, you think anarchists are pacifists because I think that's a fundamental misunderstanding.
+
+241
+00:24:09,000 --> 00:24:22,000
+No, but isn't the whole philosophy operates on the basis of non-aggression pact that you're not using violence.
+
+242
+00:24:22,000 --> 00:24:27,000
+But if somebody uses violence against you, right, you're going to defend yourself.
+
+243
+00:24:27,000 --> 00:24:33,000
+You're going to defend yourself. But what's stopping people from ganging up and taking over other people's stuff?
+
+244
+00:24:33,000 --> 00:24:39,000
+The relatives of monkeys having a strong defensive position.
+
+245
+00:24:39,000 --> 00:24:46,000
+Yeah, I generally agree with you that it's almost a lost cause trying to implement anarchy in the physical world.
+
+246
+00:24:46,000 --> 00:24:54,000
+But I think there is a possibility in the virtual world where violence isn't much of a possibility.
+
+247
+00:24:54,000 --> 00:24:58,000
+We can use cryptography to defend ourselves.
+
+248
+00:24:58,000 --> 00:25:01,000
+Yeah, and self-sufficiency.
+
+249
+00:25:01,000 --> 00:25:11,000
+The idea that I told you and I want to share with you also, Fritz, and with my viewers that this is something that I'm going to do within the next year.
+
+250
+00:25:11,000 --> 00:25:19,000
+I'm going to buy a large piece of land and I'm going to raise money to put two to five tiny houses on them
+
+251
+00:25:19,000 --> 00:25:33,000
+and bring artists and creative people to live on that land in those tiny houses for a fixed monthly subscription, which would be around 300 bucks, 330 bucks.
+
+252
+00:25:33,000 --> 00:25:49,000
+And I'll continue buying lands because I don't know if you know that, but in the United States, like in Florida, in Colorado, in Utah, in Arizona, there are huge pieces of land for relatively cheap price.
+
+253
+00:25:49,000 --> 00:25:52,000
+What do you mean by relatively cheap? Just put a number on.
+
+254
+00:25:52,000 --> 00:25:56,000
+Like 10 acres for $20,000.
+
+255
+00:25:56,000 --> 00:25:57,000
+That is cheap.
+
+256
+00:25:57,000 --> 00:26:06,000
+And it's in the middle of nowhere. And I think this is a great opportunity for people to think what it is that they want to get out of life
+
+257
+00:26:06,000 --> 00:26:15,000
+because they cannot rely on the system that can't even control a virus from shutting down the entire economy.
+
+258
+00:26:15,000 --> 00:26:28,000
+So why not do this, grow your own food, collect your own rainwater, rely at least on Elon Musk's starlink internet
+
+259
+00:26:28,000 --> 00:26:33,000
+and just create if that's what you want to do.
+
+260
+00:26:33,000 --> 00:26:41,000
+Or if that's not what you want to do, take three months off and another three months, nine months,
+
+261
+00:26:41,000 --> 00:26:47,000
+and study at Lambda school and don't pay anything.
+
+262
+00:26:47,000 --> 00:26:56,000
+They find you a job and if the job is paying you at least $50,000, they start taking like 12% off of your salary.
+
+263
+00:26:56,000 --> 00:27:06,000
+You know, you cannot rely from my perspective and the system that our parents have relied on.
+
+264
+00:27:06,000 --> 00:27:11,000
+You cannot rely on a system that we relied on even 10, 15 years ago.
+
+265
+00:27:11,000 --> 00:27:17,000
+That you go to university, you get a job and somehow you get a mortgage and pay it month by month.
+
+266
+00:27:17,000 --> 00:27:21,000
+No, just look at the United States amount of money that they're printing.
+
+267
+00:27:21,000 --> 00:27:29,000
+This is what's happening to the value of money. We're living in a very interesting point in time.
+
+268
+00:27:29,000 --> 00:27:38,000
+And I recognize clearly that times are different, but it's so much like what I remember
+
+269
+00:27:38,000 --> 00:27:42,000
+when I was finishing up school in the late 60s, early 70s.
+
+270
+00:27:42,000 --> 00:27:45,000
+And we were talking exactly the same way you're talking.
+
+271
+00:27:45,000 --> 00:27:57,000
+In fact, I had bought a hundred acres north of Belleville, Ontario, out in farm country and just got a message here.
+
+272
+00:27:57,000 --> 00:28:00,000
+Yeah, me too.
+
+273
+00:28:00,000 --> 00:28:12,000
+And yeah, that whole idea that a collective and it's interesting that we're back to that.
+
+274
+00:28:12,000 --> 00:28:19,000
+And I agree with you. I think that when I look back, I just watched a whole series of,
+
+275
+00:28:19,000 --> 00:28:23,000
+certainly one of my favorite architects and that's Frank Lloyd Wright.
+
+276
+00:28:23,000 --> 00:28:29,000
+And when you look at Taliesin and what he did in both and in Taliesin West and the collective
+
+277
+00:28:29,000 --> 00:28:35,000
+and that energy of getting artists together and they, their tuition was free,
+
+278
+00:28:35,000 --> 00:28:39,000
+but they had to help crank out the work and build the place.
+
+279
+00:28:39,000 --> 00:28:44,000
+And there was, it was huge what the learning and I mean, it wasn't for everyone,
+
+280
+00:28:44,000 --> 00:28:55,000
+but those kind of options have to exist, I think, because our society only grows when people sort of step out
+
+281
+00:28:55,000 --> 00:28:59,000
+and do something, explore themselves, explore what can be done.
+
+282
+00:28:59,000 --> 00:29:03,000
+And when they come back in, they offer something new.
+
+283
+00:29:03,000 --> 00:29:10,000
+If we're all just in this homogenistic pool, then new stuff just doesn't happen.
+
+284
+00:29:10,000 --> 00:29:16,000
+And it really feels like that's where we've gotten to since the 70s, 80s, 90s and 2000.
+
+285
+00:29:16,000 --> 00:29:20,000
+I can't think of a whole lot of new stuff that's come out of anything,
+
+286
+00:29:20,000 --> 00:29:26,000
+either politically or from science or the arts, certainly music.
+
+287
+00:29:26,000 --> 00:29:35,000
+It's, we need a way of re-energizing a whole bunch of fields of inquiry.
+
+288
+00:29:35,000 --> 00:29:40,000
+And yeah, the way, what you're proposing, will you look at what Kanye West just did?
+
+289
+00:29:40,000 --> 00:29:43,000
+Absolutely. Yes. And I love him.
+
+290
+00:29:43,000 --> 00:29:48,000
+I don't care that he all of a sudden became a Christian.
+
+291
+00:29:48,000 --> 00:29:53,000
+I care that he's sincere about what he, what he is experiencing.
+
+292
+00:29:53,000 --> 00:29:56,000
+And I love that album, Jesus is King.
+
+293
+00:29:56,000 --> 00:30:04,000
+I celebrated 10th year anniversary of the first time I ingested psilocybin mushroom.
+
+294
+00:30:04,000 --> 00:30:11,000
+I listened to that album and watched The Last Temptation of Christ, Martin Scorsese,
+
+295
+00:30:11,000 --> 00:30:18,000
+and then ended up the next two days talking about Jesus for about three hours on my livestream
+
+296
+00:30:18,000 --> 00:30:22,000
+from a very different perspective.
+
+297
+00:30:22,000 --> 00:30:28,000
+You know, I had this conversation, I had this conversation with Peter Boghossian,
+
+298
+00:30:28,000 --> 00:30:35,000
+who Peter Boghossian has been not as famous as Hitchens and Sam Harris,
+
+299
+00:30:35,000 --> 00:30:40,000
+but he's been there with them promoting new atheist movement.
+
+300
+00:30:40,000 --> 00:30:47,000
+And my question to him was, do you regret any part of new atheist movement
+
+301
+00:30:47,000 --> 00:30:55,000
+for the lack of moral center that exists within the society today, which is a point of division?
+
+302
+00:30:55,000 --> 00:31:02,000
+And he said that he actually changed his mind on ethics and morality
+
+303
+00:31:02,000 --> 00:31:07,000
+and necessity of some kind of faith to hold on to.
+
+304
+00:31:07,000 --> 00:31:12,000
+And the fact that not all faith are as awful as each other.
+
+305
+00:31:12,000 --> 00:31:17,000
+And I thought it was very brave and very honest of him to say that.
+
+306
+00:31:17,000 --> 00:31:23,000
+And I want to know both of your opinion with respect to.
+
+307
+00:31:23,000 --> 00:31:29,000
+Well, I just echo back to Church of the Virus, and there was a hard fought battle there.
+
+308
+00:31:29,000 --> 00:31:34,000
+And that went on for about 10 years at least.
+
+309
+00:31:34,000 --> 00:31:38,000
+And then finally, David and I were able to strong arm the situation,
+
+310
+00:31:38,000 --> 00:31:44,000
+and we made faith the ultimate sin of mankind.
+
+311
+00:31:44,000 --> 00:31:49,000
+And the caveat for me in that discussion was belief.
+
+312
+00:31:49,000 --> 00:31:54,000
+Belief is vital because our brains can't process enough, quick enough.
+
+313
+00:31:54,000 --> 00:31:58,000
+If we don't believe stuff, then we just can't function in the world.
+
+314
+00:31:58,000 --> 00:32:05,000
+But at least belief keeps the door open to let new ideas in.
+
+315
+00:32:05,000 --> 00:32:14,000
+And faith sort of is what it is, and it's immutable in my definition anyway.
+
+316
+00:32:14,000 --> 00:32:20,000
+So in my mind for myself, I've created those two spectrums that faith,
+
+317
+00:32:20,000 --> 00:32:24,000
+something totally immutable is probably not a good idea for me anyway.
+
+318
+00:32:24,000 --> 00:32:33,000
+And belief is useful because, okay, I know that my frame of reference has these beliefs in them,
+
+319
+00:32:33,000 --> 00:32:36,000
+and that gets me through the day and gets me what I'm doing.
+
+320
+00:32:36,000 --> 00:32:43,000
+But when David pokes me and says, Wally, did you really get what else is going on?
+
+321
+00:32:43,000 --> 00:32:48,000
+And I can step back and say, okay, my belief wasn't 100% correct.
+
+322
+00:32:48,000 --> 00:32:52,000
+I'm going to have to adjust and pull other things in and push some stuff out.
+
+323
+00:32:52,000 --> 00:33:01,000
+So for me, morality and belief and a social framework,
+
+324
+00:33:01,000 --> 00:33:04,000
+and I think Peterson talked about this many times,
+
+325
+00:33:04,000 --> 00:33:11,000
+and John Verberacchi, also from Earth Toronto, they've all talked around this quite effectively.
+
+326
+00:33:11,000 --> 00:33:21,000
+And I think in all these discussions, I think it's vital that this notion of something being immutable,
+
+327
+00:33:21,000 --> 00:33:28,000
+like faith, and I guess it becomes a language issue because other people view faith differently.
+
+328
+00:33:28,000 --> 00:33:35,000
+So just from what we did at COV, defining faith as this immutable absolute,
+
+329
+00:33:35,000 --> 00:33:40,000
+and whenever something becomes immutable and absolute in a social context,
+
+330
+00:33:40,000 --> 00:33:45,000
+there's a problem because human beings, we evolve.
+
+331
+00:33:45,000 --> 00:33:52,000
+And if you can't evolve socially as well as any other way, then it's not going to work out very well.
+
+332
+00:33:52,000 --> 00:33:55,000
+Anyway, so that was my two cents. Sorry.
+
+333
+00:33:55,000 --> 00:33:59,000
+I've got nothing against beliefs in general.
+
+334
+00:33:59,000 --> 00:34:06,000
+The faith that we've named a sin is defined as an unreasonable confidence in a belief.
+
+335
+00:34:06,000 --> 00:34:13,000
+So it's like a Bayesian inference that is out of step with the evidence.
+
+336
+00:34:13,000 --> 00:34:19,000
+Isn't that exactly what every single mother has towards their child?
+
+337
+00:34:19,000 --> 00:34:26,000
+The unreasonable belief that this kid is going to be awesome.
+
+338
+00:34:26,000 --> 00:34:32,000
+He's going to be happy. Everything that I'm doing is for this kid's good.
+
+339
+00:34:32,000 --> 00:34:42,000
+And there is as much emotion, if not more, than logic and rationality in raising a child.
+
+340
+00:34:42,000 --> 00:34:47,000
+Is that really unreasonable, though? A mother to love her children?
+
+341
+00:34:47,000 --> 00:34:53,000
+As long as she's able to witness when things are going pear-shaped.
+
+342
+00:34:53,000 --> 00:34:58,000
+Here why it's unreasonable, and I'm saying this because of why it's something on Dr. Phil.
+
+343
+00:34:58,000 --> 00:35:02,000
+Oh, Jesus.
+
+344
+00:35:02,000 --> 00:35:05,000
+We've got to go now, Dave, don't we?
+
+345
+00:35:05,000 --> 00:35:08,000
+There's a fantastic Dr. Phil meme.
+
+346
+00:35:08,000 --> 00:35:10,000
+I've got to see since we were talking about Church of Virus.
+
+347
+00:35:10,000 --> 00:35:20,000
+And I want to talk to you, David, about what exactly Church of Virus and definition of memes based on your context is.
+
+348
+00:35:20,000 --> 00:35:27,000
+But there was a kid who had molested his sister when they were younger.
+
+349
+00:35:27,000 --> 00:35:30,000
+You know, he was like 13. The sister was 11.
+
+350
+00:35:30,000 --> 00:35:34,000
+And the sister told the mother and mother didn't do anything.
+
+351
+00:35:34,000 --> 00:35:39,000
+And the kid did it again and again and again and did it to other kids.
+
+352
+00:35:39,000 --> 00:35:43,000
+And mother didn't do anything because and Dr. Phil was like, well, why didn't you do anything?
+
+353
+00:35:43,000 --> 00:35:47,000
+She was like, well, because he was really sorry about it.
+
+354
+00:35:47,000 --> 00:35:49,000
+It's not that he was really sorry about it.
+
+355
+00:35:49,000 --> 00:35:54,000
+It's that you have a bubble that my son is never going to do that.
+
+356
+00:35:54,000 --> 00:35:57,000
+So I'm not going to accept it.
+
+357
+00:35:57,000 --> 00:35:59,000
+And everything is going to be fine. He made a mistake.
+
+358
+00:35:59,000 --> 00:36:00,000
+He's not he's never going to happen.
+
+359
+00:36:00,000 --> 00:36:02,000
+It's never going to happen again.
+
+360
+00:36:02,000 --> 00:36:06,000
+But you've been lying to yourself and the situation goes down the toilet.
+
+361
+00:36:06,000 --> 00:36:09,000
+That's why you end up in national television with your family problem.
+
+362
+00:36:09,000 --> 00:36:12,000
+So you seem to be arguing from my side now.
+
+363
+00:36:12,000 --> 00:36:15,000
+Like faith is clearly dysfunctional there.
+
+364
+00:36:15,000 --> 00:36:18,000
+Yeah, but they still do it, though.
+
+365
+00:36:18,000 --> 00:36:19,000
+That's the thing.
+
+366
+00:36:19,000 --> 00:36:26,000
+That's my point that there is there is an argument that can be made to make sense on the paper.
+
+367
+00:36:26,000 --> 00:36:29,000
+And there is an argument that people will actually do it.
+
+368
+00:36:29,000 --> 00:36:36,000
+And it goes back to social adoption, whether or not faith is something that they can use to solve their problems.
+
+369
+00:36:36,000 --> 00:36:47,000
+And for a lot of people, it is a perfect thing to say that, hey, everything is going to be fine and I'm just going to do this.
+
+370
+00:36:47,000 --> 00:36:51,000
+And if it's not fine in this world, it's going to be fine in the next world.
+
+371
+00:36:51,000 --> 00:37:07,000
+And I think the problem with making laws and expectations or expectations within a legal framework based on these terms is that then they will become abused and misinterpreted by humans to make a point out of it.
+
+372
+00:37:07,000 --> 00:37:09,000
+Political point mostly.
+
+373
+00:37:09,000 --> 00:37:17,000
+Because when someone experienced something, that is very, very difficult to describe it to someone, number one. Number two, there is no necessity for it.
+
+374
+00:37:17,000 --> 00:37:29,000
+If somebody really believes in Jesus for herself or really believes that Jesus makes a pastor speak in tongue or something like that.
+
+375
+00:37:29,000 --> 00:37:37,000
+What are you going to do about that? Are you going to be like, you know, you're not allowed to believe in this?
+
+376
+00:37:37,000 --> 00:37:42,000
+Isn't the pivot point, though, how does that person treat everyone else around them?
+
+377
+00:37:42,000 --> 00:37:43,000
+Yes.
+
+378
+00:37:43,000 --> 00:38:02,000
+I mean, people can believe what they want, but if they treat the people around them with respect and with a degree of honor, then it's hard to fault them as individuals, no matter what they believe.
+
+379
+00:38:02,000 --> 00:38:23,000
+Well, maybe that's where we are politically, sociopolitically then. Then one ideological side believe that the other side is not treating their expectation and their needs and ideals with respect because they're voting against the belief and the ideals and the values of that group.
+
+380
+00:38:23,000 --> 00:38:29,000
+And that's the nature of ideological nature of politics today, it seems like it.
+
+381
+00:38:29,000 --> 00:38:32,000
+Yeah.
+
+382
+00:38:32,000 --> 00:38:37,000
+But where's the, which the word intolerance comes to mind.
+
+383
+00:38:37,000 --> 00:38:45,000
+And where, and I see ironically the intolerance on one side and the other side being far more tolerant.
+
+384
+00:38:45,000 --> 00:39:03,000
+So, and then the other side is the religious ostensibly, religious side, right? And yet there you have it. But I can't remember who I think it was Neil Ferguson pointed this out that globalism is a good thing.
+
+385
+00:39:03,000 --> 00:39:20,000
+If nation states come to it from a position of strength in themselves, if you come to a group's dynamic, and you're not a whole individual and you're not comfortable in your own skin, you're going to struggle and feel threatened in a group dynamic.
+
+386
+00:39:20,000 --> 00:39:29,000
+If you come to the group as you know a fairly well adjusted individual willing to share and willing to take stuff back in and respect people, it's a whole different ballgame.
+
+387
+00:39:29,000 --> 00:39:49,000
+So, I think that the people on the right, many of them tend to be fairly, you know, be it for religion or for whatever reasons are, there's a sense of security and what they know, what they believe and what's right and how you have to treat people.
+
+388
+00:39:49,000 --> 00:40:02,000
+And they're far more willing to embrace where if you're lost and you don't have anything that you believe in, how can you even function in the world? If you don't, I mean, you have to have things you believe in to function in the world.
+
+389
+00:40:02,000 --> 00:40:12,000
+And you better be prepared to defend them and or accept that you were wrong. But nonetheless, you have to come to the world with a set of parameters and beliefs of how things work.
+
+390
+00:40:12,000 --> 00:40:20,000
+I mean, if you didn't believe that when you jumped off a cliff, you're going to fall down and get crushed, then you're going to spend, you're going to be able to jump off the cliff once.
+
+391
+00:40:20,000 --> 00:40:34,000
+And I think there's other situations in life like that. That is, you know, you got to listen to your belief systems that you grew up with as a kid, and then be able to unlearn some of them and undo some of them but some of them are quite valuable.
+
+392
+00:40:34,000 --> 00:40:49,000
+And I think the real challenge is to recognize the valuable things you learned that are now beliefs as an adult and be able to separate them from the things that you learned that were survival skills when you were a kid that don't necessarily help you as an adult anymore.
+
+393
+00:40:49,000 --> 00:41:04,000
+And those are the challenges but to just, you know, consume, believe, virtue signal and if that's the way of functioning in the world, how are you ever going to accept anyone else?
+
+394
+00:41:04,000 --> 00:41:11,000
+Well, that's also a religion for them. The left is a religion, is a fundamentalist religion. They demand submission.
+
+395
+00:41:11,000 --> 00:41:24,000
+I had Yasmin Mohammed who, you know, it's this Egyptian, from Egyptian heritage, but Canadian lady who wrote a book, Unveiled, about, you know, taking the hijab off.
+
+396
+00:41:24,000 --> 00:41:26,000
+I watched it. That was an excellent interview.
+
+397
+00:41:26,000 --> 00:41:42,000
+And the whole thing was that, you know, people don't really understand it here because they haven't experienced life under Islamic theocracy. But what left is doing is exactly what Islam is saying, that it expects you to submit.
+
+398
+00:41:42,000 --> 00:41:45,000
+There is no arguments. There is no...
+
+399
+00:41:45,000 --> 00:42:04,000
+At least Islam has documented rules that you can hold up. The left doesn't have any document rules. It's a free for all. That's why I'm loathe to accept the analogy with religion for the left because at least with religion you can go somewhere and say, okay, what's the framework this is based on?
+
+400
+00:42:04,000 --> 00:42:16,000
+But Islam is 1400 years old. Wokeism on the left, if we go back, maybe is, you know, really 50 years old, you know, because...
+
+401
+00:42:16,000 --> 00:42:18,000
+I think we're like 10 or 20.
+
+402
+00:42:18,000 --> 00:42:46,000
+No, but the people, because if we go back to where the seed was planted, the people who lost the Cultural Revolution of the 60s, those of them who ended up as Marxists and communists and leftists in academia, they started producing this foundation for, hey, we're going to publish a study and then
+
+403
+00:42:46,000 --> 00:42:56,000
+rely on that study to make proof of point. And everybody who's going to come to our circle have to agree with us on the ideological basis, not scientific basis.
+
+404
+00:42:56,000 --> 00:43:06,000
+I watched that in the late 70s and early 80s at university. I watched that happen. And, you know, University of Toronto, all the Marxists were there and everyone had their...
+
+405
+00:43:06,000 --> 00:43:22,000
+The 70s had their little black shoes on, those crummy little shoes that all the communists, where everyone had their little Mao book. And I was just gobsmacked because coming over from Germany in the 50s and growing up in Germany, I mean, I was a little Hitler at my school, right?
+
+406
+00:43:22,000 --> 00:43:40,000
+I mean, my buddies from Italy, they got the same, you know, we were all somewhat ostracized. So we got, I think we were hypersensitized to social means and what goes on and what drives people in terms of how you pigeonhole things and then function around it.
+
+407
+00:43:40,000 --> 00:43:54,000
+So I always found myself a little bit at a distance socially in terms of, you know, the main what was going on. And so when I saw that at university, I was just stepping back going, well, this is not good.
+
+408
+00:43:54,000 --> 00:44:12,000
+And being in with the engineering group, we got right in the middle of the whole, we got the anti-nuclear thing and that complicated the power generation from the bombs. And you couldn't pry those two apart. And then it's snowballed since then, unbelievably.
+
+409
+00:44:12,000 --> 00:44:27,000
+And I think you're right. I mean, this happened. This started in the 60s and 70s and 80s for that very reason I think you're pointing out. All those people lost out. They threw everything away. And now what did they have?
+
+410
+00:44:27,000 --> 00:44:40,000
+They had no framework to function in. You know, never trust anyone in a suit over 30. Well, when you're over 30 yourself, what do you do now? So, yeah.
+
+411
+00:44:40,000 --> 00:44:47,000
+When you had Peter Boghossian on your show, did you ask him about the grievance studies, folks?
+
+412
+00:44:47,000 --> 00:44:50,000
+He talked about it a little, yes.
+
+413
+00:44:50,000 --> 00:45:05,000
+So his co-conspirators, Helen Pluckrose and James Lindsay, are coming out with a new book, Cynical Theories, that addresses the history of wokeism and traces it back not through neo-Marxism or the Frankfurt School, but to critical theory.
+
+414
+00:45:05,000 --> 00:45:22,000
+So I heard both of them recently on a podcast, unregistered by Thaddeus Russell, which is absolutely the best treatment I've seen of the history of postmodernism versus wokeism versus critical theory and the distinctions between them all.
+
+415
+00:45:22,000 --> 00:45:23,000
+Fantastic.
+
+416
+00:45:23,000 --> 00:45:25,000
+The evolution. So I highly recommend.
+
+417
+00:45:25,000 --> 00:45:32,000
+So we need more than one cross to nail things up to. We can't just do postmodernism on a cross. We have to do other stuff, too. Is that what you're saying?
+
+418
+00:45:32,000 --> 00:45:33,000
+That's what I'm saying.
+
+419
+00:45:33,000 --> 00:45:35,000
+Sweet.
+
+420
+00:45:35,000 --> 00:45:41,000
+Yeah, critical theory has an independent evolution from Marxism.
+
+421
+00:45:41,000 --> 00:45:45,000
+It has to be taken into account if you want to be taken seriously when you're criticizing.
+
+422
+00:45:45,000 --> 00:45:51,000
+But first of all, we should be able to talk about these kind of things without being shut down.
+
+423
+00:45:51,000 --> 00:45:53,000
+Council culture.
+
+424
+00:45:53,000 --> 00:45:54,000
+Yeah, that's insane.
+
+425
+00:45:54,000 --> 00:46:12,000
+You would imagine that after this COVID situation for however long it's going to take, a lot of things is going to change in a respect with a social tolerance of some nonsensical ideas like open borders, for example.
+
+426
+00:46:12,000 --> 00:46:21,000
+Absolute open borders that anybody can come across because this proved I'm willing to listen if you guys disagree with me.
+
+427
+00:46:21,000 --> 00:46:31,000
+But this proved from my perspective that you got to have borders and those borders have to be strong enough for you to realize who's coming in.
+
+428
+00:46:31,000 --> 00:46:53,000
+So I'm curious to see what will happen after all of this has passed and we're back to phase two, life 2.0 in the 21st century after COVID, how people would react to someone who come and say, hey, I'm running on the platform of open borders and a whole bunch of other leftist things.
+
+429
+00:46:53,000 --> 00:47:04,000
+At the same time, universal basic income, for example, as completely is something that is expected by the White House and the Republican Party at this point.
+
+430
+00:47:04,000 --> 00:47:09,000
+I just got my check and it's kind of insane.
+
+431
+00:47:09,000 --> 00:47:12,000
+Did you see Donald Trump's signature on your check?
+
+432
+00:47:12,000 --> 00:47:15,000
+Yes, it has his name.
+
+433
+00:47:15,000 --> 00:47:20,000
+Did you know your check was delayed a week because of him?
+
+434
+00:47:20,000 --> 00:47:26,000
+I mean, that is politically genius, though, because for millions of people.
+
+435
+00:47:26,000 --> 00:47:31,000
+I mean, are we talking about ethics and morality and Donald Trump in one sentence?
+
+436
+00:47:31,000 --> 00:47:33,000
+I mean, who are we fooling?
+
+437
+00:47:33,000 --> 00:47:40,000
+But he is a very practical man and a very strong psychedelic.
+
+438
+00:47:40,000 --> 00:47:45,000
+I agree with the latter part.
+
+439
+00:47:45,000 --> 00:47:47,000
+This is your brain on Trump.
+
+440
+00:47:47,000 --> 00:47:50,000
+The brain on Trump, yeah, the world on Trump.
+
+441
+00:47:50,000 --> 00:48:06,000
+When I was a little kid in Toronto in the early 60s, I remember going down shopping mall, shopping centers, the Eaton Simpson Sears with my mother and constantly don't touch, don't touch.
+
+442
+00:48:06,000 --> 00:48:11,000
+No, you can't use the public washrooms and wash when you get home.
+
+443
+00:48:11,000 --> 00:48:14,000
+And it was and I didn't get it.
+
+444
+00:48:14,000 --> 00:48:18,000
+I now get it because that was the end of the last wave.
+
+445
+00:48:18,000 --> 00:48:22,000
+We had the flu in 57 plus in 59.
+
+446
+00:48:22,000 --> 00:48:26,000
+We had a polio outbreak in the Peterborough area, the other side of Toronto.
+
+447
+00:48:26,000 --> 00:48:29,000
+And it was on everyone's mind.
+
+448
+00:48:29,000 --> 00:48:37,000
+You got that whole hygiene, that whole approach that certainly my parents were so much aware of.
+
+449
+00:48:37,000 --> 00:48:40,000
+All that sort of disappeared.
+
+450
+00:48:40,000 --> 00:48:44,000
+How long did it last?
+
+451
+00:48:44,000 --> 00:48:46,000
+Which one?
+
+452
+00:48:46,000 --> 00:48:48,000
+Polio went on for several years after that.
+
+453
+00:48:48,000 --> 00:48:54,000
+But this focus on hygiene and washing, how long did that last after the epidemic?
+
+454
+00:48:54,000 --> 00:49:01,000
+It certainly remained a part of my mom and my dad in terms of, you know, you wash your hands before you go to the dinner table.
+
+455
+00:49:01,000 --> 00:49:06,000
+And they really didn't like using public washrooms at all.
+
+456
+00:49:06,000 --> 00:49:11,000
+And so that was fairly well entrenched in them.
+
+457
+00:49:11,000 --> 00:49:16,000
+And it didn't last with me clearly until now.
+
+458
+00:49:16,000 --> 00:49:24,000
+And now I sort of have a slightly I have a perspective on why that was that way of something I just didn't understand.
+
+459
+00:49:24,000 --> 00:49:35,000
+And my resident M.D. in the household here was in Toronto when SARS hit and was a GP and went through all that.
+
+460
+00:49:35,000 --> 00:49:47,000
+He also has a rather different perspective and frustration in people who are not willing or reluctant to do what's expected of us at this point.
+
+461
+00:49:47,000 --> 00:49:56,000
+It's interesting how experience seems to make a difference as you go through this.
+
+462
+00:49:56,000 --> 00:50:02,000
+And then the young and amongst us here, Aga, he would not have been...
+
+463
+00:50:02,000 --> 00:50:04,000
+Were you in Toronto at that point still?
+
+464
+00:50:04,000 --> 00:50:06,000
+You were still...
+
+465
+00:50:06,000 --> 00:50:07,000
+What year was that?
+
+466
+00:50:07,000 --> 00:50:08,000
+2002.
+
+467
+00:50:08,000 --> 00:50:12,000
+No, I arrived in late 2006.
+
+468
+00:50:12,000 --> 00:50:13,000
+OK.
+
+469
+00:50:13,000 --> 00:50:14,000
+Yeah.
+
+470
+00:50:14,000 --> 00:50:16,000
+That was a big deal.
+
+471
+00:50:16,000 --> 00:50:17,000
+Sorry, go ahead.
+
+472
+00:50:17,000 --> 00:50:26,000
+Human traffic through China, which I've been thinking about a lot lately, considering everything that is going on with China and everything.
+
+473
+00:50:26,000 --> 00:50:28,000
+Well, the...
+
+474
+00:50:28,000 --> 00:50:29,000
+Yeah.
+
+475
+00:50:29,000 --> 00:50:32,000
+Sorry, I was going to go down a totally different road there.
+
+476
+00:50:32,000 --> 00:50:33,000
+I'll stop.
+
+477
+00:50:33,000 --> 00:50:42,000
+I'm very curious to see the effect of COVID on prostitution because prostitution is the oldest human profession, right?
+
+478
+00:50:42,000 --> 00:50:46,000
+And it has survived many pandemics and many...
+
+479
+00:50:46,000 --> 00:50:57,000
+But this is the first time that it's blown up globally, that somebody in Japan can see what's happening in the United States and this built up fear and a sense of everybody's walking on eggshell.
+
+480
+00:50:57,000 --> 00:51:10,000
+I'm really interested to see how much money those who are doing physical prostitution are losing because online one is, you know, it's exploding.
+
+481
+00:51:10,000 --> 00:51:12,000
+Well, Colette just did a piece on that.
+
+482
+00:51:12,000 --> 00:51:13,000
+Oh, really?
+
+483
+00:51:13,000 --> 00:51:14,000
+Yeah, worth reading.
+
+484
+00:51:14,000 --> 00:51:16,000
+It talks to all those issues.
+
+485
+00:51:16,000 --> 00:51:18,000
+And yeah, it's a big deal.
+
+486
+00:51:18,000 --> 00:51:20,000
+So they are losing money?
+
+487
+00:51:20,000 --> 00:51:21,000
+Yeah.
+
+488
+00:51:21,000 --> 00:51:22,000
+Yeah.
+
+489
+00:51:22,000 --> 00:51:27,000
+I think we're probably seeing a shift to online.
+
+490
+00:51:27,000 --> 00:51:28,000
+Yes.
+
+491
+00:51:28,000 --> 00:51:29,000
+Yeah.
+
+492
+00:51:29,000 --> 00:51:31,000
+Like I only heard of this new site.
+
+493
+00:51:31,000 --> 00:51:32,000
+I don't know if it's new.
+
+494
+00:51:32,000 --> 00:51:33,000
+OnlyFans.
+
+495
+00:51:33,000 --> 00:51:34,000
+Yeah.
+
+496
+00:51:34,000 --> 00:51:35,000
+Twitter.
+
+497
+00:51:35,000 --> 00:51:36,000
+It's blowing up.
+
+498
+00:51:36,000 --> 00:51:37,000
+Yeah.
+
+499
+00:51:37,000 --> 00:51:41,000
+If it was possible to invest in that, that would probably be a good bet.
+
+500
+00:51:41,000 --> 00:51:42,000
+I mean, it's really interesting.
+
+501
+00:51:42,000 --> 00:51:52,000
+If you go to pretty much any of these adult webcam websites, there are some of them who are not even naked.
+
+502
+00:51:52,000 --> 00:51:53,000
+They lay there.
+
+503
+00:51:53,000 --> 00:51:58,000
+They watch like something and then they're just having conversations with their fans.
+
+504
+00:51:58,000 --> 00:52:01,000
+A lot of people come for company.
+
+505
+00:52:01,000 --> 00:52:03,000
+Now, some people say, oh, the house sat.
+
+506
+00:52:03,000 --> 00:52:04,000
+It really is not sad.
+
+507
+00:52:04,000 --> 00:52:07,000
+It's a new way of socializing.
+
+508
+00:52:07,000 --> 00:52:12,000
+And I think this is going to be extremely difficult.
+
+509
+00:52:12,000 --> 00:52:20,000
+I want to go back to how science and data and academia and information is being politicized and made into business.
+
+510
+00:52:20,000 --> 00:52:29,000
+That it's going to be extremely difficult for governments to try to control different aspects of digitized life of people because people want to explore it differently.
+
+511
+00:52:29,000 --> 00:52:37,000
+Yeah. So I was thinking that the transition to online and virtual was well underway before COVID.
+
+512
+00:52:37,000 --> 00:52:40,000
+COVID gave it a huge boost.
+
+513
+00:52:40,000 --> 00:52:49,000
+We're seeing the acceleration and that might end up being the major impact of this pandemic.
+
+514
+00:52:49,000 --> 00:52:54,000
+It's this transition of our society from physical to virtual.
+
+515
+00:52:54,000 --> 00:52:59,000
+But at the same time, there is a hostility brewing against 5G.
+
+516
+00:52:59,000 --> 00:53:04,000
+I don't understand that.
+
+517
+00:53:04,000 --> 00:53:11,000
+I've read the stuff and I still don't grasp how you can connect Wi-Fi to a virus.
+
+518
+00:53:11,000 --> 00:53:14,000
+It looks like flat earth conspiracy to me.
+
+519
+00:53:14,000 --> 00:53:16,000
+I'm not talking about the virus.
+
+520
+00:53:16,000 --> 00:53:17,000
+No, I know.
+
+521
+00:53:17,000 --> 00:53:22,000
+But people are linking these two, like the biological virus to the 5G technology.
+
+522
+00:53:22,000 --> 00:53:26,000
+Something's missing in your education at that point, isn't there?
+
+523
+00:53:26,000 --> 00:53:34,000
+Well, even when we were getting together as Toronto transhumanists, like how many years ago?
+
+524
+00:53:34,000 --> 00:53:38,000
+Like six years ago, seven years ago, eight years ago, maybe even.
+
+525
+00:53:38,000 --> 00:53:45,000
+We were talking about and that was the time that people were getting attacked for wearing Google glasses in San Francisco.
+
+526
+00:53:45,000 --> 00:53:46,000
+Right, yes.
+
+527
+00:53:46,000 --> 00:53:52,000
+This is about, again, goes back to social adoption.
+
+528
+00:53:52,000 --> 00:53:58,000
+But it's not about right or wrong because my argument back then was that if there is going to be any kind of a huge conflict,
+
+529
+00:53:58,000 --> 00:54:05,000
+it's going to be between literally transhumanists and humans who do not want to become transhuman.
+
+530
+00:54:05,000 --> 00:54:13,000
+And they have fundamental problem with this augmentation of our experience, augmentation of our biology.
+
+531
+00:54:13,000 --> 00:54:16,000
+But where's the conflict? Why not allow both?
+
+532
+00:54:16,000 --> 00:54:21,000
+Why not allow people not practicing Islam in Islamic countries?
+
+533
+00:54:21,000 --> 00:54:24,000
+Why not allow, you know, same thing with Christianity before.
+
+534
+00:54:24,000 --> 00:54:29,000
+Yeah, it's about liberty. Why not tolerate the other side?
+
+535
+00:54:29,000 --> 00:54:35,000
+Well, socially aside, I mean, the US system is probably the best able to deal with that.
+
+536
+00:54:35,000 --> 00:54:40,000
+Yes, but it goes back to why aren't people tolerating each other?
+
+537
+00:54:40,000 --> 00:54:51,000
+Is this intolerance has an evolutionary reason or this is just something that like why people are intolerant of each other?
+
+538
+00:54:51,000 --> 00:54:58,000
+Well, if something's different, we struggle with it because inherently we look to the familiar.
+
+539
+00:54:58,000 --> 00:55:05,000
+We look to, you know, we believe in what a person should look like, what a face should look like, how people should behave.
+
+540
+00:55:05,000 --> 00:55:06,000
+I mean, to this day.
+
+541
+00:55:06,000 --> 00:55:09,000
+Why though? Because we want to be certain.
+
+542
+00:55:09,000 --> 00:55:17,000
+Yeah, exactly, because I do not like Halloween. I don't, my lights off, my door is locked because I really struggled.
+
+543
+00:55:17,000 --> 00:55:22,000
+I really struggled with all these weird people coming to the door, right?
+
+544
+00:55:22,000 --> 00:55:27,000
+It bothers me. And I know that's dumb and it's wrong.
+
+545
+00:55:27,000 --> 00:55:31,000
+But if you can't look, I want to see the face.
+
+546
+00:55:31,000 --> 00:55:34,000
+Come on, Fritz, Halloween is objectively the best Halloween.
+
+547
+00:55:34,000 --> 00:55:35,000
+I agree with that.
+
+548
+00:55:35,000 --> 00:55:39,000
+You know, as a kid, I would have agreed with that, but as a grown up, I'm going, not so much.
+
+549
+00:55:39,000 --> 00:55:52,000
+I mean, I was the kid who had a human skull from the bio lab with a candle in it and my face all done up with horrible disfiguring makeup who went around door to door after all the mainstream kids had done their trick or treat.
+
+550
+00:55:52,000 --> 00:55:54,000
+Oh, here's one of those guys.
+
+551
+00:55:54,000 --> 00:55:56,000
+So, you know.
+
+552
+00:55:56,000 --> 00:56:00,000
+This is what I mean when I ask you the lives you've lived.
+
+553
+00:56:00,000 --> 00:56:02,000
+These are the kind of stuff I want to hear about.
+
+554
+00:56:02,000 --> 00:56:11,000
+But going back to intolerance, I think conflict only becomes necessary when there's a contention over scarce resources.
+
+555
+00:56:11,000 --> 00:56:12,000
+Yes.
+
+556
+00:56:12,000 --> 00:56:21,000
+And I don't see that necessity in transhumanism versus people that prefer to remain human.
+
+557
+00:56:21,000 --> 00:56:24,000
+Where is the contention over scarce resources there?
+
+558
+00:56:24,000 --> 00:56:25,000
+Capabilities?
+
+559
+00:56:25,000 --> 00:56:36,000
+Well, it's the alignment issue, which isn't it really interesting that one side of the argument about AI and AGI is that the biggest problem is alignment.
+
+560
+00:56:36,000 --> 00:56:40,000
+But really the biggest problem of humanity has been alignment.
+
+561
+00:56:40,000 --> 00:56:41,000
+Explain alignment.
+
+562
+00:56:41,000 --> 00:56:52,000
+Alignment meaning that in the context of AI, that your artificial intelligence, the purpose and objective of it being aligned with purpose and objective of you.
+
+563
+00:56:52,000 --> 00:56:57,000
+Basically, your AI doing what you expect it to do.
+
+564
+00:56:57,000 --> 00:56:59,000
+And that apparently is the biggest problem.
+
+565
+00:56:59,000 --> 00:57:02,000
+Am I right, David?
+
+566
+00:57:02,000 --> 00:57:07,000
+Well, the alignment problem is an ethical problem.
+
+567
+00:57:07,000 --> 00:57:12,000
+It's alignment between the AI's goals and humanity's goals.
+
+568
+00:57:12,000 --> 00:57:16,000
+And the way there is that there's no necessary alignment.
+
+569
+00:57:16,000 --> 00:57:20,000
+And if it's not necessary, where does it come from?
+
+570
+00:57:20,000 --> 00:57:33,000
+Which is suggest to me that if alignment problem is actually the biggest problem and when it's solved in one way or another, then AGI will be achieved, which Peter Voss, for example, completely disagree with that.
+
+571
+00:57:33,000 --> 00:57:37,000
+But let's say that that's one approach.
+
+572
+00:57:37,000 --> 00:57:41,000
+Then that's a guarantee that there is not going to be one giant centralized AI.
+
+573
+00:57:41,000 --> 00:57:47,000
+There's going to be many different AIs all over the world doing different things.
+
+574
+00:57:47,000 --> 00:57:54,000
+Because, again, alignment hasn't existed as an objective throughout human civilization.
+
+575
+00:57:54,000 --> 00:58:00,000
+That's why different civilizations come and experiment with different approaches.
+
+576
+00:58:00,000 --> 00:58:04,000
+Right. But the issue here is not how many AIs there are.
+
+577
+00:58:04,000 --> 00:58:06,000
+It's which ones have the power.
+
+578
+00:58:06,000 --> 00:58:09,000
+If there's one dominant one, the rest don't really matter.
+
+579
+00:58:09,000 --> 00:58:11,000
+Yes, that's true.
+
+580
+00:58:11,000 --> 00:58:15,000
+Well, could AI end up being just part of you as an individual?
+
+581
+00:58:15,000 --> 00:58:18,000
+Do you have to be part of a collective?
+
+582
+00:58:18,000 --> 00:58:27,000
+In terms of the AI, or could your argument to augmentation be sufficient that you could tap into the collective resource?
+
+583
+00:58:27,000 --> 00:58:31,000
+I don't think you should be part of collective at all.
+
+584
+00:58:31,000 --> 00:58:33,000
+I think you should be able to.
+
+585
+00:58:33,000 --> 00:58:39,000
+Wouldn't the AI automatically be in alignment with you then, if it's part of you?
+
+586
+00:58:39,000 --> 00:58:47,000
+Yeah, but the problem is a weaker AI, if that's the right word to use in this context,
+
+587
+00:58:47,000 --> 00:58:53,000
+will be vulnerable to a stronger, more powerful AI and will be taken over by it.
+
+588
+00:58:53,000 --> 00:58:56,000
+Is that right?
+
+589
+00:58:56,000 --> 00:59:01,000
+If there's contention for resources, the more powerful will win.
+
+590
+00:59:01,000 --> 00:59:02,000
+Right.
+
+591
+00:59:02,000 --> 00:59:04,000
+By definition.
+
+592
+00:59:04,000 --> 00:59:06,000
+What would be the resources at that point?
+
+593
+00:59:06,000 --> 00:59:14,000
+It goes back really to definition of computation, which I think can be narrowed down to speed of processing.
+
+594
+00:59:14,000 --> 00:59:16,000
+Yeah, well, the resources are physical.
+
+595
+00:59:16,000 --> 00:59:18,000
+It's energy for computation.
+
+596
+00:59:18,000 --> 00:59:22,000
+It's memory for storage.
+
+597
+00:59:22,000 --> 00:59:24,000
+That's it.
+
+598
+00:59:24,000 --> 00:59:39,000
+So these two are going to be the most vital pieces of energy, not pieces, but modes of energy in the coming decades as we digitize more and more aspects of our lives.
+
+599
+00:59:39,000 --> 00:59:45,000
+Yeah, I think that if you want to get down to the essence, it's energy is scarce.
+
+600
+00:59:45,000 --> 00:59:47,000
+There's going to be contention over that.
+
+601
+00:59:47,000 --> 00:59:49,000
+Yeah.
+
+602
+00:59:49,000 --> 00:59:56,000
+Fritz, we talked about – now, by the way, I have no idea how long this Zoom meeting is going to go.
+
+603
+00:59:56,000 --> 00:59:58,000
+What is your guys' time limit?
+
+604
+00:59:58,000 --> 01:00:00,000
+How much longer?
+
+605
+01:00:00,000 --> 01:00:02,000
+I had a button on my screen that came up.
+
+606
+01:00:02,000 --> 01:00:04,000
+They're extending it because we're like human beings.
+
+607
+01:00:04,000 --> 01:00:06,000
+Amazing.
+
+608
+01:00:06,000 --> 01:00:08,000
+They clearly haven't been listening to us.
+
+609
+01:00:08,000 --> 01:00:15,000
+We are thanking the Chinese Communist Party, who will review this information through Zoom.
+
+610
+01:00:15,000 --> 01:00:18,000
+And our major shareholders of the – yeah, never mind.
+
+611
+01:00:18,000 --> 01:00:23,000
+Fritz, we talked about politicization of academia.
+
+612
+01:00:23,000 --> 01:00:30,000
+And you and me went back and forth a couple of times in the context of climate change.
+
+613
+01:00:30,000 --> 01:00:33,000
+And I really enjoyed your perspective on it.
+
+614
+01:00:33,000 --> 01:00:34,000
+Can you talk a little about that?
+
+615
+01:00:34,000 --> 01:00:41,000
+What do you think is going on with respect to politicizing science in a very ridiculous and obvious kind of way?
+
+616
+01:00:41,000 --> 01:00:49,000
+That if we're talking about science, why are political solutions being shoved down people's throats at the expense of taxpayers?
+
+617
+01:00:49,000 --> 01:00:50,000
+Well, I think –
+
+618
+01:00:50,000 --> 01:00:52,000
+Objection for leading the witness here.
+
+619
+01:00:52,000 --> 01:00:54,000
+Well, I totally disagree with them.
+
+620
+01:00:54,000 --> 01:00:56,000
+I mean, you know, we're all going to die tomorrow.
+
+621
+01:00:56,000 --> 01:00:58,000
+It's obvious.
+
+622
+01:00:58,000 --> 01:01:00,000
+And I'll take my money now.
+
+623
+01:01:00,000 --> 01:01:02,000
+Thank you.
+
+624
+01:01:02,000 --> 01:01:15,000
+I think the key is in the gameplay of the messages and that it was global warming was the discussion for the longest time.
+
+625
+01:01:15,000 --> 01:01:19,000
+And when that pivoted to climate change, I mean, the climate changes.
+
+626
+01:01:19,000 --> 01:01:20,000
+We all know that.
+
+627
+01:01:20,000 --> 01:01:26,000
+I mean, it's intuitively obvious if you look at any geology or any history, the climate changes.
+
+628
+01:01:26,000 --> 01:01:35,000
+Whether there's – and the fact that there's global warming, global warming has been going on since the last ice age.
+
+629
+01:01:35,000 --> 01:01:38,000
+That's a part of the geological records.
+
+630
+01:01:38,000 --> 01:01:55,000
+The question – when I peel it back in my own mind, I come back to what would be – why have the meme that human beings are destroying the planet and human beings are bad?
+
+631
+01:01:55,000 --> 01:01:58,000
+Because that's really – I see as the underpinning meme in all this.
+
+632
+01:01:58,000 --> 01:02:03,000
+Human beings are evil and human beings are destroying their world.
+
+633
+01:02:03,000 --> 01:02:13,000
+So that – from that premise, you move forward and then you can start unpacking what's going on for me anyway.
+
+634
+01:02:13,000 --> 01:02:32,000
+So – and to be fair, I remember in late 1990s when I was at work working hard and head down and trying to make a living, I thought global warming – well, yeah, everyone says it's real.
+
+635
+01:02:32,000 --> 01:02:33,000
+So I guess it's happening.
+
+636
+01:02:33,000 --> 01:02:38,000
+And I remember a colleague at the time took me aside and said, well, it's all BS.
+
+637
+01:02:38,000 --> 01:02:39,000
+There's a game afoot.
+
+638
+01:02:39,000 --> 01:02:44,000
+This was 1998, and I sort of brushed him off and said, yeah, yeah, yeah, yeah.
+
+639
+01:02:44,000 --> 01:02:50,000
+Now, he spent a lot more time as a single individual doing research than, you know, I was doing.
+
+640
+01:02:50,000 --> 01:02:59,000
+But anyway, so up to – I finally, a number of years ago, started looking at this and it doesn't make sense.
+
+641
+01:02:59,000 --> 01:03:02,000
+So back to the science.
+
+642
+01:03:02,000 --> 01:03:06,000
+Why doesn't it make sense?
+
+643
+01:03:06,000 --> 01:03:13,000
+When I started unpacking in my own brain what the premises were that were being worked on.
+
+644
+01:03:13,000 --> 01:03:23,000
+So the premise that human beings are undesirable, human beings are bad, we should all be ashamed that we're human, that seemed to be a lot of the underlying principles going on.
+
+645
+01:03:23,000 --> 01:03:30,000
+And I experienced that certainly in the late 70s and early 80s with the whole anti-nuclear movement.
+
+646
+01:03:30,000 --> 01:03:34,000
+And I saw the same, exactly the same stuff going on.
+
+647
+01:03:34,000 --> 01:03:39,000
+And, you know, I was kept saying that we have to, we have to have vision power.
+
+648
+01:03:39,000 --> 01:03:44,000
+We have to get that working and we got to go to the next generation to get these old plants out of line.
+
+649
+01:03:44,000 --> 01:03:45,000
+And that's what's going to save us.
+
+650
+01:03:45,000 --> 01:03:54,000
+That's going to get us cleaner energy and everyone clean, cheap energy is what makes a society really work well.
+
+651
+01:03:54,000 --> 01:04:00,000
+And I was vilified at the time and ostracized for suggesting that in the circles I was in.
+
+652
+01:04:00,000 --> 01:04:03,000
+There was something horribly wrong with me.
+
+653
+01:04:03,000 --> 01:04:09,000
+So up to this point now my spider senses had the same reaction because of historical events to me.
+
+654
+01:04:09,000 --> 01:04:11,000
+And I went there's something not right here.
+
+655
+01:04:11,000 --> 01:04:13,000
+OK, let's do some homework.
+
+656
+01:04:13,000 --> 01:04:20,000
+So University of Toronto has all the weather data, all the historical data from Environment Canada on their website.
+
+657
+01:04:20,000 --> 01:04:22,000
+Anyone can download it.
+
+658
+01:04:22,000 --> 01:04:23,000
+It's there.
+
+659
+01:04:23,000 --> 01:04:24,000
+You can pick it up.
+
+660
+01:04:24,000 --> 01:04:25,000
+You can go through it.
+
+661
+01:04:25,000 --> 01:04:30,000
+So because I was doing weather modeling when I was doing the floodplain mapping in the 80s,
+
+662
+01:04:30,000 --> 01:04:34,000
+I had some skills to get that information together and do something with it.
+
+663
+01:04:34,000 --> 01:04:36,000
+But I thought let's keep it really simple.
+
+664
+01:04:36,000 --> 01:04:37,000
+I downloaded.
+
+665
+01:04:37,000 --> 01:04:45,000
+I went through the weather stations and remembered how poor the weather stations are in Canada in terms that every five years they've given.
+
+666
+01:04:45,000 --> 01:04:47,000
+Joe's bar has it this week.
+
+667
+01:04:47,000 --> 01:04:50,000
+And then the gas station on the corner is doing it for the next five years.
+
+668
+01:04:50,000 --> 01:04:52,000
+And who's going to Joe's variety store?
+
+669
+01:04:52,000 --> 01:04:55,000
+And that's when you look across the country in the weather data.
+
+670
+01:04:55,000 --> 01:05:03,000
+It's really hard to find 100 and 100 and plus years of contiguous data that has some sort of homogeneity to it that you can tie together.
+
+671
+01:05:03,000 --> 01:05:05,000
+So I found a place in Chilliwack.
+
+672
+01:05:05,000 --> 01:05:13,000
+I found in Churchill, Manitoba, Bancroft, Ontario and Ottawa had some decent data sets that went back 150 years.
+
+673
+01:05:13,000 --> 01:05:15,000
+We're talking 1890s.
+
+674
+01:05:15,000 --> 01:05:22,000
+So I downloaded that data and then the early data was daily and then it turns into hourly.
+
+675
+01:05:22,000 --> 01:05:23,000
+So I said, OK, forget about it.
+
+676
+01:05:23,000 --> 01:05:30,000
+Downloaded it, threw it all into a graph and just said, give me a plot of line through this data.
+
+677
+01:05:30,000 --> 01:05:33,000
+What's happening with it in the in the raw form?
+
+678
+01:05:33,000 --> 01:05:35,000
+So I didn't touch the data.
+
+679
+01:05:35,000 --> 01:05:36,000
+I didn't manipulate the data.
+
+680
+01:05:36,000 --> 01:05:38,000
+I just said, is there a trend here?
+
+681
+01:05:38,000 --> 01:05:42,000
+And Chilliwack, it was no trend.
+
+682
+01:05:42,000 --> 01:05:44,000
+Bancroft, no trend.
+
+683
+01:05:44,000 --> 01:05:49,000
+Churchill, Ontario actually went down two degrees centigrade over the last 150 years.
+
+684
+01:05:49,000 --> 01:05:51,000
+Ottawa went up a degree and a half.
+
+685
+01:05:51,000 --> 01:05:57,000
+But the weather station in Ottawa moved from being out of the field in the middle of nowhere to being in the middle of the urban area.
+
+686
+01:05:57,000 --> 01:05:59,000
+So you could argue that point.
+
+687
+01:05:59,000 --> 01:06:12,000
+But in all cases, the data did not change in a statistically significant way based on the limitations of the weather data and how it was collected and what it was.
+
+688
+01:06:12,000 --> 01:06:16,000
+So that left me going, well, that doesn't make sense.
+
+689
+01:06:16,000 --> 01:06:17,000
+What's this about?
+
+690
+01:06:17,000 --> 01:06:21,000
+And I wasn't being high and mighty.
+
+691
+01:06:21,000 --> 01:06:25,000
+I just put all this together, sent it off to a bunch of people and said, what's going on here?
+
+692
+01:06:25,000 --> 01:06:29,000
+How come this doesn't match the narrative?
+
+693
+01:06:29,000 --> 01:06:33,000
+And what I consistently got back was, Wally, you're an idiot.
+
+694
+01:06:33,000 --> 01:06:35,000
+You're a heretic.
+
+695
+01:06:35,000 --> 01:06:37,000
+What's wrong with you?
+
+696
+01:06:37,000 --> 01:06:39,000
+There are people much smarter than you that have done this.
+
+697
+01:06:39,000 --> 01:06:43,000
+What could you possibly add to the conversation?
+
+698
+01:06:43,000 --> 01:06:46,000
+And at that point, I said, OK, this is political.
+
+699
+01:06:46,000 --> 01:06:49,000
+There's gamesmanship going on.
+
+700
+01:06:49,000 --> 01:06:52,000
+This is not what it appears to be.
+
+701
+01:06:52,000 --> 01:06:54,000
+And that's how I drew that conclusion.
+
+702
+01:06:54,000 --> 01:06:59,000
+And again, I looked at tide data, the tidal gauges around the country.
+
+703
+01:06:59,000 --> 01:07:03,000
+I found as many going up as were going down in terms of the ocean levels.
+
+704
+01:07:03,000 --> 01:07:12,000
+I know, historically, over the last 150 years, the ocean should be going up as melt and as our climate does change.
+
+705
+01:07:12,000 --> 01:07:16,000
+But I found nothing in all the stuff I was doing.
+
+706
+01:07:16,000 --> 01:07:21,000
+A friend who does research in Antarctica, I had a lengthy conversation with him.
+
+707
+01:07:21,000 --> 01:07:23,000
+And he spent a lot of time down there.
+
+708
+01:07:23,000 --> 01:07:28,000
+And he says, it's increasing the snow load down there.
+
+709
+01:07:28,000 --> 01:07:34,000
+And because the snow loads increasing in the middle, it's pushing down and it is actually pushing the ice out.
+
+710
+01:07:34,000 --> 01:07:36,000
+That's why you're seeing the calving.
+
+711
+01:07:36,000 --> 01:07:44,000
+So and all that to be said, as human beings, we're a pretty big hammer on the planet.
+
+712
+01:07:44,000 --> 01:07:47,000
+And we are doing things that we shouldn't be doing.
+
+713
+01:07:47,000 --> 01:07:48,000
+I don't argue with that.
+
+714
+01:07:48,000 --> 01:07:50,000
+There's a lot of things we should be cleaning up.
+
+715
+01:07:50,000 --> 01:07:55,000
+But let's clean up the stuff we can clean up.
+
+716
+01:07:55,000 --> 01:07:57,000
+But you can't have that conversation.
+
+717
+01:07:57,000 --> 01:08:00,000
+It's all focused on this one belief.
+
+718
+01:08:00,000 --> 01:08:01,000
+Actually, it's beyond.
+
+719
+01:08:01,000 --> 01:08:04,000
+It's become a faith issue, an issue of faith now.
+
+720
+01:08:04,000 --> 01:08:06,000
+We're back to faith.
+
+721
+01:08:06,000 --> 01:08:07,000
+Exactly.
+
+722
+01:08:07,000 --> 01:08:08,000
+Exactly.
+
+723
+01:08:08,000 --> 01:08:10,000
+Anyways, that's my two cents on the topic.
+
+724
+01:08:10,000 --> 01:08:12,000
+So anyway.
+
+725
+01:08:12,000 --> 01:08:20,000
+Well, you're obviously a sinner and you must also hate children because that's not what Greta told us to believe.
+
+726
+01:08:20,000 --> 01:08:22,000
+Who?
+
+727
+01:08:22,000 --> 01:08:24,000
+Never heard of her.
+
+728
+01:08:24,000 --> 01:08:26,000
+How dare you?
+
+729
+01:08:26,000 --> 01:08:29,000
+No, I think you mean St. Greta.
+
+730
+01:08:29,000 --> 01:08:31,000
+St. Greta, yes.
+
+731
+01:08:31,000 --> 01:08:37,000
+You mentioned something very interesting, though, that the data was raw and data was not manipulated.
+
+732
+01:08:37,000 --> 01:08:48,000
+And I think that's a very important thing for people to realize that just when people like politicians and lobbyists and whoever who wants to sell you something says computer model,
+
+733
+01:08:48,000 --> 01:08:57,000
+that doesn't mean that it came from God because data can be interpreted and manipulated in different ways to get the kind of result that you expect.
+
+734
+01:08:57,000 --> 01:09:06,000
+Well, the computer models for the weather, the computer models that they're doing to model climate are how much data are they basing that on?
+
+735
+01:09:06,000 --> 01:09:07,000
+Right.
+
+736
+01:09:07,000 --> 01:09:11,000
+So, I mean, you have an empirical model that has equations that run it and inputs.
+
+737
+01:09:11,000 --> 01:09:15,000
+But if I learned anything during my floodplain mapping, you have to calibrate.
+
+738
+01:09:15,000 --> 01:09:16,000
+You have to calibrate.
+
+739
+01:09:16,000 --> 01:09:22,000
+I mean, that's that's the endless challenge to try to calibrate your models wherever you're applying them.
+
+740
+01:09:22,000 --> 01:09:25,000
+And I don't see that happening.
+
+741
+01:09:25,000 --> 01:09:32,000
+And it's I find it so I'm dumbfounded knowing the people that are involved with this.
+
+742
+01:09:32,000 --> 01:09:40,000
+And it goes back to your earlier comment of what's happened to the stem cells, stem fields and universities.
+
+743
+01:09:40,000 --> 01:09:42,000
+What's going on?
+
+744
+01:09:42,000 --> 01:09:44,000
+And it's the same.
+
+745
+01:09:44,000 --> 01:09:45,000
+There's money.
+
+746
+01:09:45,000 --> 01:09:48,000
+It's all about money and funding.
+
+747
+01:09:48,000 --> 01:10:04,000
+And my two cents on that is it seems to me the bureaucrats and the accountants and the lawyers are running the show rather than the engineers and the research people.
+
+748
+01:10:04,000 --> 01:10:07,000
+They're not setting the agenda and running the show.
+
+749
+01:10:07,000 --> 01:10:10,000
+I mean, Boeing being the best example of that.
+
+750
+01:10:10,000 --> 01:10:16,000
+When you let the bean counters run the show and you don't listen to the engineers, it doesn't end well.
+
+751
+01:10:16,000 --> 01:10:18,000
+Anyway, yeah.
+
+752
+01:10:18,000 --> 01:10:21,000
+David, everybody saw your message and it's in video now.
+
+753
+01:10:21,000 --> 01:10:26,000
+We can totally take a bathroom break anytime you want.
+
+754
+01:10:26,000 --> 01:10:30,000
+We can we can keep going and you can go to hold up his hand and ask permission.
+
+755
+01:10:30,000 --> 01:10:31,000
+Don't hold.
+
+756
+01:10:31,000 --> 01:10:38,000
+Don't hold anything.
+
+757
+01:10:38,000 --> 01:10:40,000
+So you're not recording speaker view here.
+
+758
+01:10:40,000 --> 01:10:42,000
+You're recording screen.
+
+759
+01:10:42,000 --> 01:10:44,000
+I'm recording screen.
+
+760
+01:10:44,000 --> 01:10:46,000
+That's right.
+
+761
+01:10:46,000 --> 01:10:49,000
+No, man, we're going rough.
+
+762
+01:10:49,000 --> 01:10:50,000
+We're going raw data.
+
+763
+01:10:50,000 --> 01:11:06,000
+We're going raw data because one one of the reasons that I'm doing any of this thing is we had this conversation to for my future AI to have good data to build a similar kind of a personality character to to me.
+
+764
+01:11:06,000 --> 01:11:09,000
+And we can take it from there.
+
+765
+01:11:09,000 --> 01:11:14,000
+So how do you react to what I've been saying, David?
+
+766
+01:11:14,000 --> 01:11:22,000
+I've had I've had one person in my circle that has talked to me at length about this and given me feedback that's useful.
+
+767
+01:11:22,000 --> 01:11:36,000
+But by and large, you just you get dismissed and blown off, which is so exasperating because there's a huge cognitive dissidence for me to have come to this conclusion that.
+
+768
+01:11:36,000 --> 01:11:44,000
+Global warming is Armageddon level global warming is not happening and it's a political game of foot.
+
+769
+01:11:44,000 --> 01:11:49,000
+That's that puts me at odds with everyone I'm with on a daily basis.
+
+770
+01:11:49,000 --> 01:11:53,000
+Yeah, that's why I avoid the issue.
+
+771
+01:11:53,000 --> 01:11:57,000
+Yeah, there's no way to win this game.
+
+772
+01:11:57,000 --> 01:12:06,000
+No, and you shouldn't be surprised because I'm an ex-Muslim and I've been called an Islamophobe many times.
+
+773
+01:12:06,000 --> 01:12:11,000
+So it's it goes back to faith and people operate on it.
+
+774
+01:12:11,000 --> 01:12:12,000
+People vote on it.
+
+775
+01:12:12,000 --> 01:12:22,000
+There was a woman here as a guest from Toronto voted for Trudeau and she was like, well, you know, better than Andrew Scheer or whoever.
+
+776
+01:12:22,000 --> 01:12:31,000
+And was lecturing a friend of ours who was saying, I'm not comfortable with a gay couple end up in White House before a woman president.
+
+777
+01:12:31,000 --> 01:12:34,000
+And like, oh, you have to look at your candidate morality.
+
+778
+01:12:34,000 --> 01:12:36,000
+I'm like, just shut the fuck up.
+
+779
+01:12:36,000 --> 01:12:38,000
+You voted for Trudeau.
+
+780
+01:12:38,000 --> 01:12:39,000
+Pedophile at all.
+
+781
+01:12:39,000 --> 01:12:40,000
+Right.
+
+782
+01:12:40,000 --> 01:12:41,000
+Yeah.
+
+783
+01:12:41,000 --> 01:12:56,000
+So people have no shame and, you know, a lot of people are becoming, I think, more and more ideological because their case that they have built their entire identity around it is falling apart.
+
+784
+01:12:56,000 --> 01:13:07,000
+Well, there's yeah, that whole notion that people can't separate their political views from day to day life.
+
+785
+01:13:07,000 --> 01:13:17,000
+I mean, that was such a telling event when Ontario voted in Ford, Doug Ford, and everything went on the next day.
+
+786
+01:13:17,000 --> 01:13:19,000
+The media didn't even hiccup.
+
+787
+01:13:19,000 --> 01:13:20,000
+We're in the U.S.
+
+788
+01:13:20,000 --> 01:13:23,000
+It was it was end times.
+
+789
+01:13:23,000 --> 01:13:25,000
+Life was over.
+
+790
+01:13:25,000 --> 01:13:32,000
+You know, there were people still contemplating moving to Canada because it was all going to end horribly.
+
+791
+01:13:32,000 --> 01:13:37,000
+And to this day, even in this crisis, the U.S.
+
+792
+01:13:37,000 --> 01:13:45,000
+can't seem to get behind their president as an entity, as a country, which is like the czar.
+
+793
+01:13:45,000 --> 01:13:47,000
+I mean, we have a democratic process.
+
+794
+01:13:47,000 --> 01:13:49,000
+He was duly elected.
+
+795
+01:13:49,000 --> 01:13:51,000
+You have a shot at it in four years.
+
+796
+01:13:51,000 --> 01:13:53,000
+In the meantime, let's get with the program, everyone.
+
+797
+01:13:53,000 --> 01:13:56,000
+Let's make this work.
+
+798
+01:13:56,000 --> 01:13:57,000
+Why?
+
+799
+01:13:57,000 --> 01:13:59,000
+Where have we lost that ability?
+
+800
+01:13:59,000 --> 01:14:05,000
+Because you look around the rest of the world, Boris Johnson, England, UK, everyone's behind them.
+
+801
+01:14:05,000 --> 01:14:09,000
+Europe, you know, all the differences in the fighting that's been going on.
+
+802
+01:14:09,000 --> 01:14:15,000
+But they're all working together in supporting the local governments to get through this and they'll get back to fighting when it's over.
+
+803
+01:14:15,000 --> 01:14:20,000
+But in the U.S., it seems to be that we can't get it together.
+
+804
+01:14:20,000 --> 01:14:39,000
+Well, UK is an interesting example because I think far more than Boris Johnson, Brexit showed that the people who are saying tolerance and democracy and all that are exactly the kind of people who have no intention to participate in a fair kind of a process.
+
+805
+01:14:39,000 --> 01:14:49,000
+Because if they don't get their way, they're going to campaign for the next three, four years to reverse the results of a democratic referendum.
+
+806
+01:14:49,000 --> 01:14:57,000
+So I don't think we ever had an ability to back someone else's leader.
+
+807
+01:14:57,000 --> 01:15:06,000
+I think state has replaced the church in dark ages and the reality of a situation.
+
+808
+01:15:06,000 --> 01:15:09,000
+Oh, looks awesome, David.
+
+809
+01:15:09,000 --> 01:15:15,000
+It looks like a Google A.I. dream.
+
+810
+01:15:15,000 --> 01:15:21,000
+Are you frozen, Fred?
+
+811
+01:15:21,000 --> 01:15:25,000
+Then we came to the end.
+
+812
+01:15:25,000 --> 01:15:26,000
+You made it back.
+
+813
+01:15:26,000 --> 01:15:27,000
+Yes.
+
+814
+01:15:27,000 --> 01:15:31,000
+David has taken his acknowledged break here for a second.
+
+815
+01:15:31,000 --> 01:15:32,000
+Oh, OK.
+
+816
+01:15:32,000 --> 01:15:33,000
+Right on.
+
+817
+01:15:33,000 --> 01:15:38,000
+Yeah. It told me that I had some kind of a problem with the connection.
+
+818
+01:15:38,000 --> 01:15:41,000
+Whatever. We're back.
+
+819
+01:15:41,000 --> 01:15:43,000
+So what were we talking about?
+
+820
+01:15:43,000 --> 01:15:47,000
+So I was looking for a reaction back from you guys about what I said.
+
+821
+01:15:47,000 --> 01:15:52,000
+I mean, how do you parse out what I said with respect to climate change?
+
+822
+01:15:52,000 --> 01:15:58,000
+Yeah. Well, I, you know, I also came from the place that must be happening.
+
+823
+01:15:58,000 --> 01:16:02,000
+You know, I see the movies and documentaries and celebrities are talking about it.
+
+824
+01:16:02,000 --> 01:16:13,000
+And then only because of Internet that you are willing to listen and I was willing to listen to different sides of the argument at first.
+
+825
+01:16:13,000 --> 01:16:20,000
+Very shaken in a way that, oh, you know, I'm reading something that is I'm sinning.
+
+826
+01:16:20,000 --> 01:16:23,000
+Yes, basically.
+
+827
+01:16:23,000 --> 01:16:24,000
+But feels good sometimes.
+
+828
+01:16:24,000 --> 01:16:27,000
+Yeah, absolutely. It always feels good.
+
+829
+01:16:27,000 --> 01:16:33,000
+You know, during Ramadan, when I was in school in in Iran, because you can't eat on the street or anything like that.
+
+830
+01:16:33,000 --> 01:16:40,000
+We will go in a bathroom in our school and just eat chips and sandwiches that we are hidden under our uniforms.
+
+831
+01:16:40,000 --> 01:16:44,000
+So, yeah, it's it's great to break the rules.
+
+832
+01:16:44,000 --> 01:16:48,000
+And I think this this intention and approach.
+
+833
+01:16:48,000 --> 01:16:50,000
+Welcome back, David.
+
+834
+01:16:50,000 --> 01:17:06,000
+This approach of trying to control the movement and the direction of the society based on a very shallow kind of an argument that is being made with respect to climate change and other things that, hey, it is what it is.
+
+835
+01:17:06,000 --> 01:17:11,000
+Don't look any further and you have to believe what we are telling you and you have to pay for it, by the way.
+
+836
+01:17:11,000 --> 01:17:14,000
+And it is what it is.
+
+837
+01:17:14,000 --> 01:17:18,000
+We're going to ruin your life because we have an experiment that we are doing.
+
+838
+01:17:18,000 --> 01:17:21,000
+It might work, it might not work, but we are willing to do it.
+
+839
+01:17:21,000 --> 01:17:23,000
+And I think, you know, I keep bringing this up.
+
+840
+01:17:23,000 --> 01:17:36,000
+Alexandria Ocasio-Cortez very clearly explained that where that camp stands, that it's far more important to be morally right than factually correct.
+
+841
+01:17:36,000 --> 01:17:41,000
+That their version of morality does not require factuality.
+
+842
+01:17:41,000 --> 01:17:45,000
+It requires what? Ideology and faith.
+
+843
+01:17:45,000 --> 01:17:55,000
+And this is what we're dealing with. And it doesn't matter from my perspective whether or not it's right or wrong or true or false, because it's a huge part of the dynamic.
+
+844
+01:17:55,000 --> 01:18:00,000
+So the reaction of the other side is determined based on that context.
+
+845
+01:18:00,000 --> 01:18:02,000
+There's no getting away from it.
+
+846
+01:18:02,000 --> 01:18:04,000
+So we still burn witches.
+
+847
+01:18:04,000 --> 01:18:06,000
+Well, we are.
+
+848
+01:18:06,000 --> 01:18:13,000
+We are. We just, you know, pushing Twitter to block them and YouTube to kick them out.
+
+849
+01:18:13,000 --> 01:18:17,000
+So it goes back, I think, to the alignment problem within humanity.
+
+850
+01:18:17,000 --> 01:18:20,000
+But there is no reason for us to be aligned whatsoever.
+
+851
+01:18:20,000 --> 01:18:32,000
+What David was saying is very true, that whatever kind of resources that we need to me is only really food, water, and air that you need to survive.
+
+852
+01:18:32,000 --> 01:18:36,000
+But yes, if you're secure on that, then you add up to it.
+
+853
+01:18:36,000 --> 01:18:40,000
+And it is a good opportunity for a majority of people in the West to do exactly that.
+
+854
+01:18:40,000 --> 01:18:52,000
+So there is no reason for you to be aligned with someone who you do not believe in what that person stands for, especially now that there are many different options because of Internet.
+
+855
+01:18:52,000 --> 01:18:58,000
+You know, somebody in somewhere in Europe or Asia or Australia can see this conversation.
+
+856
+01:18:58,000 --> 01:19:04,000
+And they're like, oh, I love these guys. I want to move to North America to hang out with these guys and have this kind of a conversation.
+
+857
+01:19:04,000 --> 01:19:12,000
+Or the same thing with, you know, Joe Rogan, someone else's podcast somewhere, someone else's live stream somewhere.
+
+858
+01:19:12,000 --> 01:19:17,000
+So this is the most important thing. And I think this is so important to have these conversations.
+
+859
+01:19:17,000 --> 01:19:30,000
+And it doesn't matter if it's wrong. Let the sunlight be the best disinfectant. Let people decide whatever it is that they want to believe.
+
+860
+01:19:30,000 --> 01:19:41,000
+Yeah, no argument. All right. So since we're talking about people not adopting, let's move towards wrapping up this session.
+
+861
+01:19:41,000 --> 01:19:46,000
+I enjoyed the session. Did you guys enjoyed it? I'm doing this for the first time like this with Zoom.
+
+862
+01:19:46,000 --> 01:19:56,000
+Very much. Yes. It's the first time you've had to guess on it once. No, I had to guess once before, but only audio and through Skype.
+
+863
+01:19:56,000 --> 01:20:06,000
+But this is good. This is the video. I really enjoyed this platform. You know, we started doing this in my office in Toronto with David.
+
+864
+01:20:06,000 --> 01:20:13,000
+We were in the same room. Yeah. And then I had five or six other friends like, you know what?
+
+865
+01:20:13,000 --> 01:20:19,000
+I'm going to look for books that I like on Amazon. I'm just going to contact their authors.
+
+866
+01:20:19,000 --> 01:20:28,000
+Well, it's interesting all the slagging that happened against Zoom. And when I did the homework, the initial problems were fixed.
+
+867
+01:20:28,000 --> 01:20:35,000
+And the actual problem that remains is people weren't setting up their security settings properly.
+
+868
+01:20:35,000 --> 01:20:42,000
+So it was once again a user interface problem. Yeah. Anyway, I mean, maybe.
+
+869
+01:20:42,000 --> 01:20:54,000
+So what is the solution from both of you guys for people to, because you especially mentioned how important it is from your perspective not to have faith.
+
+870
+01:20:54,000 --> 01:21:09,000
+My perspective is that it is what it is. But from the perspective that faith has unconditional belief in something that might not make sense, unreasonable or irrational.
+
+871
+01:21:09,000 --> 01:21:17,000
+What is the solution from both of your perspective to improve that state of humanity?
+
+872
+01:21:17,000 --> 01:21:25,000
+Well, I think it's worth David reiterating what the basis at Church of the Virus was. Yes, please do.
+
+873
+01:21:25,000 --> 01:21:31,000
+OK, so our definition of faith is unreasonable confidence.
+
+874
+01:21:31,000 --> 01:21:41,000
+So being unreasonable is never a good thing. Unreasonable confidence means that your confidence level is not calibrated to the evidence.
+
+875
+01:21:41,000 --> 01:21:46,000
+That's it. It's just pure Bayesian inference.
+
+876
+01:21:46,000 --> 01:21:50,000
+That's a basis of Church of Iris?
+
+877
+01:21:50,000 --> 01:22:02,000
+That is the most recent interpretation of Church of Iris faith as a sin. I wouldn't put it in those terms originally.
+
+878
+01:22:02,000 --> 01:22:06,000
+This is how I see it now 25 years later.
+
+879
+01:22:06,000 --> 01:22:12,000
+And what is the proposed solution to transcend beyond that state?
+
+880
+01:22:12,000 --> 01:22:26,000
+The proposed solution is to be reasonable to calibrate confidence to evidence or in Bayesian terms credence in a belief to evidence available.
+
+881
+01:22:26,000 --> 01:22:39,000
+Evidence available that will make sense to any individual without the requirement of a third party interpreting that evidence for the individual.
+
+882
+01:22:39,000 --> 01:22:43,000
+Interpretation is unavoidable.
+
+883
+01:22:43,000 --> 01:22:47,000
+Whatever evidence you get, it's always interpreted.
+
+884
+01:22:47,000 --> 01:22:57,000
+You can't use raw data, even your raw senses. When you look at something, you're already interpreting it as an object, as a scene.
+
+885
+01:22:57,000 --> 01:23:01,000
+So there's no reason for evidence to be objectively true.
+
+886
+01:23:01,000 --> 01:23:06,000
+I'm not talking about objectivity here.
+
+887
+01:23:06,000 --> 01:23:09,000
+It's always subjective.
+
+888
+01:23:09,000 --> 01:23:20,000
+But the reason to look for evidence is to come to the point whether or not what is being proposed is correct or false, isn't it?
+
+889
+01:23:20,000 --> 01:23:24,000
+That is how you calibrate the credence of your belief system, yes.
+
+890
+01:23:24,000 --> 01:23:31,000
+But based on different interpretations that can be made out of evidence, it can be false or correct.
+
+891
+01:23:31,000 --> 01:23:33,000
+Based on the different perspective.
+
+892
+01:23:33,000 --> 01:23:43,000
+I'm talking about your perspective, though. It's your evidence, your beliefs, your perspective, your interpretation, your credence.
+
+893
+01:23:43,000 --> 01:23:46,000
+So it's on the individual basis.
+
+894
+01:23:46,000 --> 01:23:49,000
+Yes. It's always perspectival.
+
+895
+01:23:49,000 --> 01:23:57,000
+So Church of Virus is, and I consider Church of Virus a friend church to Church of Ecology.
+
+896
+01:23:57,000 --> 01:24:01,000
+I appreciate that. I think we are sister churches.
+
+897
+01:24:01,000 --> 01:24:09,000
+Absolutely. Church of Ecology is decentralized, has no brick and mortar, and there is no conversion.
+
+898
+01:24:09,000 --> 01:24:12,000
+And it's a philosophical framework.
+
+899
+01:24:12,000 --> 01:24:18,000
+You can be an atheist, an ecologist, a Christian ecologist, and it really is based on information.
+
+900
+01:24:18,000 --> 01:24:23,000
+So it goes back exactly to subjectivity for me, too, that you receive information.
+
+901
+01:24:23,000 --> 01:24:28,000
+You create based on what you've received, and then you share what you've created so others can receive, create, and share.
+
+902
+01:24:28,000 --> 01:24:34,000
+That's it. There is no point or right or wrong, good or bad.
+
+903
+01:24:34,000 --> 01:24:39,000
+I am still a proud member of Church of Ecology.
+
+904
+01:24:39,000 --> 01:24:42,000
+I'm honored.
+
+905
+01:24:42,000 --> 01:24:50,000
+How do you define mimetic based on Church of Virus context and perspective?
+
+906
+01:24:50,000 --> 01:25:03,000
+So this is using the original definition of meme from Dawkins, the selfish gene, not the internet meme that is just visuals that you pass around to your friends.
+
+907
+01:25:03,000 --> 01:25:10,000
+So a meme is a mind pattern, a mind virus, actually.
+
+908
+01:25:10,000 --> 01:25:14,000
+It infects the host and causes behavior in that host.
+
+909
+01:25:14,000 --> 01:25:22,000
+It can always attribute behavior that isn't inherited genetically to mimetics.
+
+910
+01:25:22,000 --> 01:25:43,000
+So maybe memes are the future of educating people, not educating people, but creating and sharing information and receiving information so people can instantly be introduced to a different kind of perspective and make a decision whether or not they want to associate with it.
+
+911
+01:25:43,000 --> 01:25:44,000
+Sure, I'd agree with that.
+
+912
+01:25:44,000 --> 01:25:49,000
+Extremely powerful mediums.
+
+913
+01:25:49,000 --> 01:25:53,000
+How do you feel about memes, Fritz?
+
+914
+01:25:53,000 --> 01:26:00,000
+Well, I immediately, my brain went to Susan Black and Teams,
+
+915
+01:26:00,000 --> 01:26:22,000
+which just fascinates, that whole notion I heard discussions on that just fascinates me to no end. But I think the memes and how David just described it really works for me because when someone puts an idea at your feet and you're willing to listen to it and to try to digest it, you change.
+
+916
+01:26:22,000 --> 01:26:32,000
+I mean, you just, you can't unsee or unhear things. They have an impact if you're open to letting them in and digesting them.
+
+917
+01:26:32,000 --> 01:26:46,000
+And I think therein lies the problem right now is we have a world that may no longer be secure enough in itself to listen and to accept these memes and ideas.
+
+918
+01:26:46,000 --> 01:26:56,000
+And there's, I'm not sure, I don't know how Dave feels about this, but I sort of came to the conclusion that memes aren't good or bad. They just are.
+
+919
+01:26:56,000 --> 01:27:04,000
+And it's how you process them then and fit them into your worldview.
+
+920
+01:27:04,000 --> 01:27:10,000
+The morality gets assigned then from your own.
+
+921
+01:27:10,000 --> 01:27:22,000
+Yeah, I think everything is. I think everything is. Everything just is. And I think Naval Ravikant said this.
+
+922
+01:27:22,000 --> 01:27:27,000
+He's awesome. Wise.
+
+923
+01:27:27,000 --> 01:27:34,000
+That the only way to reach peace is to go beyond good and evil.
+
+924
+01:27:34,000 --> 01:27:43,000
+And I've been on that path subconsciously until a couple of years ago that I realized, oh, that's exactly what it is.
+
+925
+01:27:43,000 --> 01:27:50,000
+It's the yin yang. That's exactly what it is. That something exists because of its opposite.
+
+926
+01:27:50,000 --> 01:27:59,000
+You always need the bad to define the good, even if you're going to define them in those two categories, good and bad, right or wrong, in binary.
+
+927
+01:27:59,000 --> 01:28:04,000
+But I think everything is quantum. Good and bad at the same time.
+
+928
+01:28:04,000 --> 01:28:09,000
+It's just a matter of who's observing it and who's experiencing it.
+
+929
+01:28:09,000 --> 01:28:16,000
+And where are you from? Richard Dawkins talked about it, but it's really interesting that someone like Dawkins,
+
+930
+01:28:16,000 --> 01:28:24,000
+I think science had placed a roof that he's not willing to look beyond that.
+
+931
+01:28:24,000 --> 01:28:29,000
+And I'm saying that based on the last interview often that I watched on Joe Rogan.
+
+932
+01:28:29,000 --> 01:28:47,000
+And I'm a huge fan of Dawkins, but I had number of life altering experiences on psychedelics that I went from calling myself a militant atheist to I fucking have no clue what what's going on.
+
+933
+01:28:47,000 --> 01:28:54,000
+And I'm willing to just be a vessel of this stream of information to go through me.
+
+934
+01:28:54,000 --> 01:29:00,000
+And my channel of output is music and talking supposedly.
+
+935
+01:29:00,000 --> 01:29:10,000
+So that's it. That is a lot. And I agree because I was I was a foaming at the mouth atheist at one point in my life.
+
+936
+01:29:10,000 --> 01:29:22,000
+And then and I know why that was. But certainly at this point in my life, I recognize that living in a vacuum is a bad idea.
+
+937
+01:29:22,000 --> 01:29:29,000
+And there has to be some framework and sitting in it.
+
+938
+01:29:29,000 --> 01:29:37,000
+I remember sitting in church with my dad and he was never very keen on it, but we'd be sitting there in the back of the church.
+
+939
+01:29:37,000 --> 01:29:44,000
+He'd be pointing people out as this businessman just screwed that guy and that guy's doing with his wife going to the congregation.
+
+940
+01:29:44,000 --> 01:29:50,000
+Right. And as a kid, I mean, I sort of understood what he was saying.
+
+941
+01:29:50,000 --> 01:29:59,000
+But there was still that moment of intimacy that you had in a place that was not your regular day to day place.
+
+942
+01:29:59,000 --> 01:30:01,000
+And we've lost that.
+
+943
+01:30:01,000 --> 01:30:09,000
+And I think a lot of people are trying to do meditation now and doing yoga and doing lots of things to try to capture that.
+
+944
+01:30:09,000 --> 01:30:12,000
+Go for a walk in the woods. Do whatever.
+
+945
+01:30:12,000 --> 01:30:23,000
+But so many people are work meals, supermarkets, shopping mall, watch TV, go to bed and then do it over again.
+
+946
+01:30:23,000 --> 01:30:31,000
+They never there's no framework to have that different place, different space to reflect in.
+
+947
+01:30:31,000 --> 01:30:37,000
+And so there were some good things that came with the rituals and rituals have a place.
+
+948
+01:30:37,000 --> 01:30:41,000
+I don't think rituals happen accidentally over 2000 years.
+
+949
+01:30:41,000 --> 01:30:46,000
+There's a reason they happen. And some of them are manipulated by people who want power and all that.
+
+950
+01:30:46,000 --> 01:30:52,000
+But there's still some underlying component to the rituals that have value.
+
+951
+01:30:52,000 --> 01:31:01,000
+Anything that is direct and individual has no need or necessity to define the experience to anybody.
+
+952
+01:31:01,000 --> 01:31:04,000
+It's not of anyone's business.
+
+953
+01:31:04,000 --> 01:31:08,000
+This is something that I am experiencing.
+
+954
+01:31:08,000 --> 01:31:14,000
+And it's stupid to even try to describe it to someone because they haven't lived the life that you've lived.
+
+955
+01:31:14,000 --> 01:31:19,000
+They're not experiencing the same thing, even if they are in the same place with you,
+
+956
+01:31:19,000 --> 01:31:23,000
+taking the same substance, doing the same thing, reading the same thing.
+
+957
+01:31:23,000 --> 01:31:26,000
+But community is unbelievably important.
+
+958
+01:31:26,000 --> 01:31:36,000
+And I think that's a huge flaw of the Western approach to modernity and what's been missing.
+
+959
+01:31:36,000 --> 01:31:38,000
+But we're going back to that now.
+
+960
+01:31:38,000 --> 01:31:47,000
+You see the very first thing that starts forming in digital realm where when it became commercialized and mainstream,
+
+961
+01:31:47,000 --> 01:31:50,000
+were communities and tribes.
+
+962
+01:31:50,000 --> 01:31:57,000
+I remember dial-up modems and bulletin boards that you dialed into and you started your own little community.
+
+963
+01:31:57,000 --> 01:32:02,000
+Absolutely. Are you familiar with Schopenhauer's porcupines?
+
+964
+01:32:02,000 --> 01:32:03,000
+No.
+
+965
+01:32:03,000 --> 01:32:06,000
+This is interesting to talk about in this context.
+
+966
+01:32:06,000 --> 01:32:10,000
+Schopenhauer talked about how humans are like porcupines.
+
+967
+01:32:10,000 --> 01:32:17,000
+That they come close to each other because of heat, but then they spike each other so they have to get away from each other.
+
+968
+01:32:17,000 --> 01:32:22,000
+And they get cold, they come back together again spiking each other.
+
+969
+01:32:22,000 --> 01:32:27,000
+So the most successful porcupine is the one who generates its own heat.
+
+970
+01:32:27,000 --> 01:32:31,000
+So you can decide whenever you want to hang out and whenever you want to leave.
+
+971
+01:32:31,000 --> 01:32:40,000
+And it seems like this duality is an inseparable, inevitable part of human nature.
+
+972
+01:32:40,000 --> 01:32:52,000
+And the idea that we can do certain things, follow certain steps, so this good result can be achieved and a bad result can be prevented.
+
+973
+01:32:52,000 --> 01:33:02,000
+I think it's all an illusion because this is a river of chaos and uncertainty that is happening all around us.
+
+974
+01:33:02,000 --> 01:33:07,000
+And we are experiencing it now more than ever because of democratization of information.
+
+975
+01:33:07,000 --> 01:33:13,000
+There is no other reason, but it's always been like this.
+
+976
+01:33:13,000 --> 01:33:20,000
+But it's too bad we had to throw everything away the way we have.
+
+977
+01:33:20,000 --> 01:33:24,000
+That was really the negative I see out of my generation.
+
+978
+01:33:24,000 --> 01:33:26,000
+What happened?
+
+979
+01:33:26,000 --> 01:33:28,000
+Everything got tossed.
+
+980
+01:33:28,000 --> 01:33:30,000
+Don't trust anyone over 30.
+
+981
+01:33:30,000 --> 01:33:31,000
+Religion garbage.
+
+982
+01:33:31,000 --> 01:33:33,000
+You have to be an idiot to be religious.
+
+983
+01:33:33,000 --> 01:33:36,000
+And everything got tossed.
+
+984
+01:33:36,000 --> 01:33:39,000
+But don't you think that people are reassessing those?
+
+985
+01:33:39,000 --> 01:33:47,000
+What is the reason for popularity of, for example, Jordan Peterson or Joe Rogan?
+
+986
+01:33:47,000 --> 01:33:49,000
+It's really interesting.
+
+987
+01:33:49,000 --> 01:33:55,000
+Glenn Beck last night was talking about the importance of Joe Rogan.
+
+988
+01:33:55,000 --> 01:34:05,000
+And he was like, two years ago, nobody understood why Elon Musk was trending all of a sudden because they were not following Joe Rogan.
+
+989
+01:34:05,000 --> 01:34:13,000
+And he was like, the business of news is dying and they are irrelevant.
+
+990
+01:34:13,000 --> 01:34:19,000
+That's why they're fighting tooth and nail by shutting down independent voices.
+
+991
+01:34:19,000 --> 01:34:22,000
+But that is not going to happen.
+
+992
+01:34:22,000 --> 01:34:36,000
+But like everyone came around the water cooler at the coffee room on Monday morning at nine o'clock and regurgitated to everyone else what they heard on the evening news Sunday night.
+
+993
+01:34:36,000 --> 01:34:38,000
+And that was a bonding.
+
+994
+01:34:38,000 --> 01:34:40,000
+And that's a perfect meme.
+
+995
+01:34:40,000 --> 01:34:43,000
+Place that virus inside your mind.
+
+996
+01:34:43,000 --> 01:34:45,000
+And then you talk about it that, hey, I know what's going on.
+
+997
+01:34:45,000 --> 01:34:46,000
+Have you heard the news?
+
+998
+01:34:46,000 --> 01:34:48,000
+Exactly.
+
+999
+01:34:48,000 --> 01:34:50,000
+Very much so.
+
+1000
+01:34:50,000 --> 01:34:56,000
+I wonder if the kids today know what a water cooler is.
+
+1001
+01:34:56,000 --> 01:35:00,000
+Those are going to be banned now.
+
+1002
+01:35:00,000 --> 01:35:04,000
+Well, we at our office, we got rid of all the coffee mugs.
+
+1003
+01:35:04,000 --> 01:35:08,000
+Everyone was told to take the coffee mugs home and we went to disposable mugs.
+
+1004
+01:35:08,000 --> 01:35:16,000
+And the level of flu and colds in the office dropped hugely.
+
+1005
+01:35:16,000 --> 01:35:18,000
+So there you go.
+
+1006
+01:35:18,000 --> 01:35:22,000
+Yeah, don't have faith that people would clean their mugs.
+
+1007
+01:35:22,000 --> 01:35:25,000
+Or not use your mug and not clean it, right?
+
+1008
+01:35:25,000 --> 01:35:28,000
+That's right. Absolutely.
+
+1009
+01:35:28,000 --> 01:35:29,000
+Man, this was awesome.
+
+1010
+01:35:29,000 --> 01:35:38,000
+I thought to catch up with some friends after talking to a bunch of experts.
+
+1011
+01:35:38,000 --> 01:35:39,000
+What do you mean? We're not experts?
+
+1012
+01:35:39,000 --> 01:35:42,000
+Yeah, definitely not experts.
+
+1013
+01:35:42,000 --> 01:35:43,000
+Good.
+
+1014
+01:35:43,000 --> 01:35:45,000
+Let's take it back to the label.
+
+1015
+01:35:45,000 --> 01:35:47,000
+That's right.
+
+1016
+01:35:47,000 --> 01:35:52,000
+Obviously, each of us are experts in whatever it is that we are experiencing and doing.
+
+1017
+01:35:52,000 --> 01:35:57,000
+But I'm talking about talking to a writer about her or his book.
+
+1018
+01:35:57,000 --> 01:35:59,000
+And I enjoy that too.
+
+1019
+01:35:59,000 --> 01:36:04,000
+But catching up with friends to talk about, hey, what's going on?
+
+1020
+01:36:04,000 --> 01:36:08,000
+And how are you dealing with this insanity?
+
+1021
+01:36:08,000 --> 01:36:16,000
+And the kind of civil liberty threats that we will be dealing with in the coming,
+
+1022
+01:36:16,000 --> 01:36:20,000
+really in the coming years, because this is going to be an ongoing battle.
+
+1023
+01:36:20,000 --> 01:36:25,000
+How much state can interfere into the lives of the individuals?
+
+1024
+01:36:25,000 --> 01:36:29,000
+I'm glad that you guys, again, David was the first guest of this new series
+
+1025
+01:36:29,000 --> 01:36:35,000
+of catching up with friends in the context of Near Human Podcast.
+
+1026
+01:36:35,000 --> 01:36:37,000
+I enjoyed it. It was really a treat.
+
+1027
+01:36:37,000 --> 01:36:42,000
+And I remember spending a fair bit of time through my dark period
+
+1028
+01:36:42,000 --> 01:36:46,000
+and reading a lot of Alfred Adler's work.
+
+1029
+01:36:46,000 --> 01:36:51,000
+And his premise was we're social animals.
+
+1030
+01:36:51,000 --> 01:36:57,000
+And if we can no longer function in a social context, we fail as individuals.
+
+1031
+01:36:57,000 --> 01:37:01,000
+And it's imperative that we have a social context to function in.
+
+1032
+01:37:01,000 --> 01:37:03,000
+And that has to be a two-way street.
+
+1033
+01:37:03,000 --> 01:37:06,000
+And this is a beautiful social context.
+
+1034
+01:37:06,000 --> 01:37:09,000
+I mean, it just sums it up so well.
+
+1035
+01:37:09,000 --> 01:37:12,000
+Yeah, we have to talk.
+
+1036
+01:37:12,000 --> 01:37:14,000
+We have to talk.
+
+1037
+01:37:14,000 --> 01:37:19,000
+But it has to be in the context of respecting the other person and being part of.
+
+1038
+01:37:19,000 --> 01:37:22,000
+And being part of is really, really important.
+
+1039
+01:37:22,000 --> 01:37:27,000
+I think if you agree to talk, certain kind of things come with it.
+
+1040
+01:37:27,000 --> 01:37:32,000
+Like, hey, don't fucking chicken out if you disagree with the other person.
+
+1041
+01:37:32,000 --> 01:37:34,000
+And that's one of the good things about livestream.
+
+1042
+01:37:34,000 --> 01:37:38,000
+Because if something like that happens, hey, dude, log out.
+
+1043
+01:37:38,000 --> 01:37:47,000
+You're being shown to the world live with this crazy behavior that you're expressing.
+
+1044
+01:37:47,000 --> 01:37:49,000
+And that's the beauty of transparency.
+
+1045
+01:37:49,000 --> 01:37:55,000
+So I think that's one of the reasons that people are reassessing the kind of sources that they can't rely to.
+
+1046
+01:37:55,000 --> 01:37:58,000
+And that's why a lot of people watch people like me.
+
+1047
+01:37:58,000 --> 01:38:01,000
+Now, I'm not big whatsoever.
+
+1048
+01:38:01,000 --> 01:38:04,000
+And there is no need to be big, I think.
+
+1049
+01:38:04,000 --> 01:38:06,000
+Because, again, it goes back to community.
+
+1050
+01:38:06,000 --> 01:38:14,000
+Who your people are, how do they find you, and how you stay in touch, and how you can share this exchange ideas and information.
+
+1051
+01:38:14,000 --> 01:38:23,000
+And as the result of this collision of different thoughts and different perspectives, new things will emerge that we haven't even know they existed.
+
+1052
+01:38:23,000 --> 01:38:28,000
+Or maybe they didn't even exist, they're being created as a result of this interaction.
+
+1053
+01:38:28,000 --> 01:38:29,000
+I love it.
+
+1054
+01:38:29,000 --> 01:38:35,000
+I think I'll continue doing this until the day I'm dead or in the clouds or whatever.
+
+1055
+01:38:35,000 --> 01:38:37,000
+Whichever comes first.
+
+1056
+01:38:37,000 --> 01:38:39,000
+Yeah, whichever comes first, exactly.
+
+1057
+01:38:39,000 --> 01:38:42,000
+Well, there'll be a virtual of you somewhere doing it right forever.
+
+1058
+01:38:42,000 --> 01:38:47,000
+Have you guys watched Midnight Gospel on Netflix?
+
+1059
+01:38:47,000 --> 01:38:48,000
+No, should we?
+
+1060
+01:38:48,000 --> 01:38:49,000
+Oh, absolutely.
+
+1061
+01:38:49,000 --> 01:38:51,000
+I took acid and watched it.
+
+1062
+01:38:51,000 --> 01:38:54,000
+Binge watched it on Netflix.
+
+1063
+01:38:54,000 --> 01:38:56,000
+And it's a good without acid.
+
+1064
+01:38:56,000 --> 01:38:58,000
+I'm sure it's amazing without it too.
+
+1065
+01:38:58,000 --> 01:39:00,000
+By Duncan Trussell.
+
+1066
+01:39:00,000 --> 01:39:03,000
+And I laughed and cried and it was amazing.
+
+1067
+01:39:03,000 --> 01:39:04,000
+It was awesome.
+
+1068
+01:39:04,000 --> 01:39:05,000
+Yeah.
+
+1069
+01:39:05,000 --> 01:39:10,000
+And the animation is done by the creator of Adventure Time.
+
+1070
+01:39:10,000 --> 01:39:12,000
+Yeah, it looks familiar.
+
+1071
+01:39:12,000 --> 01:39:13,000
+Yeah, yeah.
+
+1072
+01:39:13,000 --> 01:39:14,000
+Very good.
+
+1073
+01:39:14,000 --> 01:39:15,000
+Very good.
+
+1074
+01:39:15,000 --> 01:39:16,000
+All right.
+
+1075
+01:39:16,000 --> 01:39:19,000
+It might be a good time to re-watch Good Omens.
+
+1076
+01:39:19,000 --> 01:39:21,000
+Good Omens.
+
+1077
+01:39:21,000 --> 01:39:27,000
+It's on Prime and it's Neil Gaimian.
+
+1078
+01:39:27,000 --> 01:39:29,000
+I actually haven't seen Good Omens.
+
+1079
+01:39:29,000 --> 01:39:31,000
+Oh, it is brilliant.
+
+1080
+01:39:31,000 --> 01:39:32,000
+Absolutely.
+
+1081
+01:39:32,000 --> 01:39:38,000
+I read the book when it came out and it was one of the best books I've ever read.
+
+1082
+01:39:38,000 --> 01:39:41,000
+And it's a comedy, so in that context.
+
+1083
+01:39:41,000 --> 01:39:46,000
+But it satirizes everything that's sacred about the woke community.
+
+1084
+01:39:46,000 --> 01:39:48,000
+In the 90s, they got it.
+
+1085
+01:39:48,000 --> 01:39:50,000
+And it's still bang on today.
+
+1086
+01:39:50,000 --> 01:39:54,000
+And there's no stone unturned, but it's not mean.
+
+1087
+01:39:54,000 --> 01:39:57,000
+It just puts it on the table and has great fun with it.
+
+1088
+01:39:57,000 --> 01:39:58,000
+You have to watch it.
+
+1089
+01:39:58,000 --> 01:40:00,000
+I think there's eight episodes.
+
+1090
+01:40:00,000 --> 01:40:02,000
+And it is brilliant.
+
+1091
+01:40:02,000 --> 01:40:03,000
+Absolutely brilliant.
+
+1092
+01:40:03,000 --> 01:40:05,000
+I'm looking forward to it.
+
+1093
+01:40:05,000 --> 01:40:14,000
+All right, let me ask you guys the last question I ask all my guests, starting with Fritz.
+
+1094
+01:40:14,000 --> 01:40:15,000
+Oh, sure.
+
+1095
+01:40:15,000 --> 01:40:17,000
+Yeah, man.
+
+1096
+01:40:17,000 --> 01:40:19,000
+Well, thanks for coming again before asking the question.
+
+1097
+01:40:19,000 --> 01:40:21,000
+It was really cool.
+
+1098
+01:40:21,000 --> 01:40:28,000
+If you come across an intelligent alien from a different civilization, what would you say is the worst thing humanity has done?
+
+1099
+01:40:28,000 --> 01:40:33,000
+And what would you say is our greatest achievement?
+
+1100
+01:40:33,000 --> 01:40:38,000
+I have to reassess this question myself because I don't believe in worse than best anymore.
+
+1101
+01:40:38,000 --> 01:40:40,000
+But it's a cool question.
+
+1102
+01:40:40,000 --> 01:40:43,000
+It's still a fair question.
+
+1103
+01:40:43,000 --> 01:40:53,000
+I think the worst we've done is become bogged down in faith and stop listening to each other.
+
+1104
+01:40:53,000 --> 01:40:56,000
+I think that's where we failed as a species.
+
+1105
+01:40:56,000 --> 01:41:03,000
+And I think the best thing we've done is get together and share ideas and create.
+
+1106
+01:41:03,000 --> 01:41:12,000
+I mean, I just look at the Western world right now and it has never been this good for so many people on this planet.
+
+1107
+01:41:12,000 --> 01:41:17,000
+And those are the two things I would point out and say, yeah, we've got lots to fix.
+
+1108
+01:41:17,000 --> 01:41:19,000
+But, jeez, we're getting it right.
+
+1109
+01:41:19,000 --> 01:41:24,000
+And let's get on with it and stop beating each other up about it.
+
+1110
+01:41:24,000 --> 01:41:27,000
+David?
+
+1111
+01:41:27,000 --> 01:41:33,000
+So I'm going to stick with the answers I gave in the first episode.
+
+1112
+01:41:33,000 --> 01:41:43,000
+The best thing we've done so far is the Internet because it's brought us all together, not only here with friends tonight, but globally.
+
+1113
+01:41:43,000 --> 01:41:51,000
+We've really seen it during this pandemic that there is a new virtual society that's come online.
+
+1114
+01:41:51,000 --> 01:41:52,000
+Yeah, it's very beautiful.
+
+1115
+01:41:52,000 --> 01:41:54,000
+Amazing to watch.
+
+1116
+01:41:54,000 --> 01:42:02,000
+Hopefully, it's not going to be corrupted the way that, for example, YouTube has corrupted because YouTube was very beautiful, too, in the beginning.
+
+1117
+01:42:02,000 --> 01:42:06,000
+There will always be alternatives, I think.
+
+1118
+01:42:06,000 --> 01:42:11,000
+And the worst thing we've done, I'm going to stick with my answer, maybe refine it a bit.
+
+1119
+01:42:11,000 --> 01:42:19,000
+I said the nation state before, but war, international war, is absolutely the worst thing that I've seen in our history.
+
+1120
+01:42:19,000 --> 01:42:26,000
+And I lay the blame entirely on the nation state, which is just a fictional god like any other deity.
+
+1121
+01:42:49,000 --> 01:42:51,000
+Thank you.
+
