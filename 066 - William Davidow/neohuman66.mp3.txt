@@ -1,0 +1,463 @@
+What happens is that when we're insecure because of rapid change, we tend to react by saying,
+this is what worked in the past, and we become more committed to doing precisely what we
+did in the past.
+So we try to impose past solutions on future problems, but that doesn't work.
+Hello and welcome to the 66th episode of Near Human Podcasts at Magabahari Edicologist
+on Twitter and Instagram, and you can follow this show on liveinlimbo.com, iTunes, YouTube,
+and BitChute.
+And today with me, I have the pleasure of having William Davido, the legend of Silicon
+Valley.
+Thank you so much for your time and being here, Bill.
+Well, thank you for having me.
+Yeah, absolutely.
+It's an honor.
+Just to give our audience some more familiarity with you, let's start with your background,
+the work you've done, the lives you've lived, and what are you mainly focused on now these
+days?
+Okay, well, you know, in 1957, I thought I would save the world from Russia when Sputnik
+was launched.
+How old were you then?
+Oh, I was 22.
+And the professor announced that Russia had launched Sputnik, and I thought if you have
+a grain of technology in your blood, you better study technology and help us win the space
+race.
+And that started me on a path that led me to Silicon Valley.
+And I ultimately ended up running the microprocessor area at Intel and then doing some venture
+capitalism, and then at some point, I decided I would try and write a book.
+So I did, and you are about to talk to me about my most recent book.
+Absolutely, which the book is called The Autonomous Revolution Reclaiming the Future.
+We have sold to machines.
+You were with Intel since the very beginning, am I right?
+Well, I joined them in 1973.
+They were five years old, but they were $66 million.
+And when I left them in 1985, we were $1.6 billion.
+Wow.
+Are you impressed by the kind of advancement in chip making and hardware, considering you
+know exactly what's been going on, you know the evolution of it, or you're not impressed
+because you know all the possibilities that are ahead?
+Well, I am tremendously impressed with what we did with the microprocessor.
+But you've got to understand that what we did then was very different than what is going
+on now.
+At that time, with the microprocessor, we were improving the world the way it was.
+Like we were making cash registers better and stoplights better and things like that.
+And that's very different than what is going on now, where we're changing the social structure
+of the world.
+And if I look back on it, the rate of advance was really slow.
+We were doubling chip density at the rate of 40% a year.
+That's a factor of a thousand in 20 years.
+I suspect that the internet reduced the cost of communication by a factor of a million,
+probably in less than 10 years.
+So we're dealing with rates of change or rates of improvement that are a thousand times faster
+than what the semiconductor did.
+And this rate, would you say, is an inevitable outcome of exponential rate of growth, technological
+growth?
+Is that right?
+Well, it's just all these advances that are taking place in a new world.
+We're living in virtual space, which frees us from the limitations of physical space.
+And so we've moved from the physical space for which we were adapted to the virtual space
+where things happen very quickly for which we're maladapted.
+Now before getting into the book, I just want to bring this up for our audience and get
+your response to it because you consider what is happening as the third industrial revolution,
+I would say.
+You tweeted that for the third time in the history of humanity, civilization is undergoing
+faith change.
+The first was the agricultural revolution.
+The second, the industrial revolution.
+We are now in the midst of the autonomous revolution.
+Now what we are hearing more and more is the fourth industrial revolution that just to
+give a definition to our audience, the world economic based on what World Economic Forum
+has talked about.
+Again, the first industrial is agriculture, second is industrial.
+They're saying that the third used electronics and information technology to automate production.
+Now a fourth industrial revolution is building the world on the third, the digital revolution
+that has been occurring since the middle of the last century.
+So how do you see it as only the third, not the fourth?
+Well, this is not an extension of the industrial revolution.
+The industrial revolution, as far as I'm concerned, has come to an end.
+What happened in the various phases of the industrial revolutions is that we made technological
+advances, but the forms of our institutions remained the same, like we replaced the handwritten
+spreadsheet with Excel, but we still did accounting in firms the same way.
+We replaced steam power with electrical power, but we still had factories.
+Suddenly, what is happening and why this is not an extension of the industrial revolution
+is that the form of what we are doing is changing.
+A bank becomes a cell phone application.
+It vanishes into virtual space.
+That's very different.
+The factory did not vanish in the industrial revolution.
+It just changed and became more efficient.
+Yeah, they're also seeing it as maybe the extension of the third, as they're calling
+it, industrial revolution that started in the mid of 20th century by building computers
+and chips and then it led to internet and all that.
+Yeah, I think the biggest mistake we can make is to think that this is business as usual
+with just a little change.
+What is happening today is something very fundamental.
+Think of what happened during the agricultural revolution.
+We had the agricultural revolution and the form of government changed.
+We went from being tribal chiefs to having kings and city states.
+We used to deal with barter.
+We invented money and suddenly we had exchange and markets.
+When the industrial revolution came along, we changed very differently.
+Most of us prior to the industrial revolution were entrepreneurs.
+We worked on farms and lived by what we produced or we were in a cottage industry and made
+clothes and shoes that we sold to others.
+After the industrial revolution, we became a dependent civilization.
+We depended on others to pay us to do work.
+That happened that we created the job as a result of that.
+Before the industrial revolution, we had small government.
+After the industrial revolution, government grew from 3% of GDP to around 40% of GDP today.
+These are things and those are what we call social phase changes.
+They are very different from just improving the efficiency of society.
+What made you write this book at this point?
+Was it any specific kind of an event or you just see the trend that is building writing
+the book The Autonomous Revolution Reclaiming the Future We've Sold to Machines?
+I had three objectives in writing the book.
+Number one, I like to write, so it's kind of fun.
+It's kind of like being a painter.
+The other one was I thought it would be fun to talk to local groups just to get to know
+people in the community better.
+The third one was the thing I really hope will happen, which is that I hope that I could
+influence the thinking of a thousand policymakers so that we wouldn't just treat this as being
+just a little bit different than in the past.
+We're going to have to think about how we distribute wealth in the future.
+You see, in the past, the fundamental mechanism for distributing wealth was the job.
+That's how we put money in people's pockets.
+If there was a shortage of work, then a lot of people can't participate in that mechanism.
+We've got to think about new mechanisms for distributing wealth.
+How well do you see our politicians doing this job?
+So far, I only can think of Andrew Yang, who's been talking about the... I'm talking about
+him beyond the partisan kind of structure because the partisan structure seems to be
+counter to measures that need to be taken in order to adopt into what's coming technologically
+speaking.
+What happens is that when we're insecure because of rapid change, we tend to react by saying,
+this is what worked in the past, and we become more committed to doing precisely what we
+did in the past.
+We try to impose past solutions on future problems.
+That doesn't work.
+New problems require new solutions.
+We have to do those things.
+Most of what people are talking about, as far as I'm concerned today, is they're talking
+about doing conventional solutions to future problems.
+I hope that the free market will create lots of jobs.
+I hope that by reducing taxes and getting rid of red tape, it will do enough.
+I hope that by creating, moving more manufacturing back, it will help solve the problem.
+But I would like to give you sort of a counter example here to think about.
+Every time we have gone through one of these social phase changes, we have dramatically
+changed the physical infrastructure of our society, like we went from living on farms
+to living in cities.
+In the future, with the autonomous revolution, it is highly likely that we will have a different
+physical infrastructure associated with our society.
+I'm not talking about fixing sewers.
+I'm saying, hey, maybe people will want to repurpose office buildings and shopping centers.
+Maybe they will want to return to living in living cities, which will have more parks.
+Maybe they will think sitting in traffic for two hours isn't a good idea.
+They're going to want more public transportation, all of those things.
+Today we spend 5% of the gross national product on construction.
+Maybe in the future we'll be spending 10 or 15% on construction because we will be rebuilding
+our physical environment to match the needs of the future.
+That would create a lot of jobs.
+It's a matter of prioritization too, right?
+It takes a body, whether a government or a corporation or whoever, to detect problems,
+prioritize them, and come up with solutions.
+It just seems like this debacle of bureaucracy that is happening, for example, in the United
+States, politically speaking, is just counterproductive to the measures that need to be taken appropriately
+to the speed of technological growth.
+I believe that there are conservative solutions to the problem, and I believe there are liberal
+solutions to the problem.
+What is important is that you say, I've got a purpose and a goal, and we all get behind
+a certain set of solutions and work to make them work.
+Maybe we're not going to pick the optimum solution.
+When I was in business, we seldom picked the perfect solution, but as a management team
+at Intel, we all said, hey, we've done the best we could to find the solution.
+Now let's make the solution work.
+That's what we did during the Second World War.
+That's what we've done when we faced other crises.
+We've made the solution we picked work.
+I think this is a very interesting time to talk about solutions too.
+We're going through this coronavirus pandemic and see how quickly they respond to it with
+respect to coming up with solutions.
+That's an example of the fact that probably the biggest threats in our future are going
+to be pandemics and bioterrorism.
+This one should have convinced us that a pandemic can be a pretty devastating thing.
+If you look at it, we have had SARS and MERS and things like this that we've gotten control
+of because they weren't quite as bad.
+Now we're faced with something that's a real challenge.
+We've got to put in place new kinds of solutions to deal with this.
+Yeah, absolutely.
+Would you talk about some of the elements of this autonomous revolution?
+For a lot of people, autonomous cars now becoming more and more familiar kind of an aspect,
+but obviously this is not something that is going to be limited to autonomous cars.
+No.
+What I think is going to happen is that our institutions quite broadly are going to be
+restructured.
+For example, I looked at finance during this, 8 million people are employed in finance.
+What finance is, is basically an information application.
+If you look at it, you've got a bank and it's a physical building, but it's an information
+application.
+What goes on inside it is all information processing.
+We're matching buyers and sellers and doing things like this and we're transferring money
+around and suddenly we can do all of that virtually.
+We may even have new forms of money.
+There is an example of the autonomous revolution in finance and maybe 8 million people work
+in finance today.
+In the future, it could be 4 million, it could be 2 million, but it's obvious that a lot
+of things are going to be happening.
+If you look across the business world, what I tell people is, look at that office building.
+It's got offices and elevators and desks and it's got information network.
+People talk to one another.
+They send around notes and they're on computer files and then it's got a memory or a file
+network.
+People store stuff in their brains and it's in file cabinets and it's on the network and
+it's got an audio response system, people talking on the phone and an audio recognition
+system, people listening when phone calls come in and all of that can be a few racks
+of electronics and suddenly you move a call center that employs 2,000 people in India
+to a few boxes of electronics in North Dakota.
+These are the kinds of transmissions that happen when you move things from a physical
+world to a virtual world.
+I think what freaks people out a lot is this comparison that the job that 2,000 people
+are doing, it can be done by a few racks of computation.
+They cannot just grasp that, hey, I can be replaced, what I'm offering can be replaced,
+but not only that, it's that people are not realizing that we've already started merging
+with technology and machines since we started using tools.
+They don't see it like that.
+Well, look, there are a lot of things that we don't see.
+For example, there's a lot of socially useful work that has zero monetary value in our society.
+I look at it and if you are raising children and you want to go to the office, you drop
+them off with childcare and pay somebody to take care of them.
+Did we ever think about paying people to stay at home and raise their children?
+Well, we'll give you money to subsidize childcare, but if you have somebody else do it, we won't
+give you money to raise your own kids.
+We're going to have to be willing to think about adopting different perspectives.
+I'm not saying that's the right solution to the problem, but we're going to have to think
+differently in the future.
+Yeah, absolutely, because it's very obvious that any technology works as well as a society
+that adopts it.
+One of the reasons that I'm bringing these up, because I think, for example, Google Glass
+was a very good example that, and we've talked about this before, that it was not even available
+to be bought.
+It had to be given to certain people creating this elite group of individuals in San Francisco
+and area and in many cases they were getting attacked by people who were not wearing those
+glasses.
+Yeah, well, I mean, I don't know how to respond to that.
+Well one of the responses that I got from the chairman of transhumanist party here in
+the US was that people felt they're being left out, that this is something that they
+can't even buy.
+It has to be given to them by a company and creating this elite group of people was not
+something that was received well by the community.
+Well I think we have a problem with elitism in the country today and you know, when I
+came to Silicon Valley, which was 1959, it was really egalitarian and we valued people
+by what they contributed and when I say that, I mean, I think we valued policemen and school
+teachers and everybody and it was my experience that the managements of those companies were
+really very egalitarian.
+I mean, I worked for Hewlett Packard and Dave Packard used to cook the hamburgers at the
+company picnic and he was out in the community and he was on the factory floor and Dave Packard
+valued people based on their values and what they contributed and not on their net worth.
+Yeah, we have to deal with it, absolutely.
+Let's talk about use autonomous vehicles as an example because the information that is
+being harvested in order to make an autonomous system functional, one of the concerns is
+that that set of data will be owned by a centralized structure of authority, whether it's going
+to be Google or whether it's Microsoft or any other company and this would just continue
+this trend of getting users data without paying them any compensation or the users having
+any kind of a control over their data.
+How are we going to deal with moving forward?
+Well, I fundamentally believe that there is no freedom if you don't have privacy and that
+is an issue that as far as I'm concerned, maybe we'll develop technologies like blockchain
+that will enable us to do this but I think it's a government issue and I believe that
+I should own my own information and if you look at it, let me give you the example.
+My capital equipment is my car and my computer and my cell phone.
+I am using my capital equipment and the people who are appropriating my data are using the
+product that I produced on my capital equipment.
+If I was running a factory using my capital equipment, putting product on the shipping
+dock and you were taking it off the shipping dock, you'd be in jail and because this stuff
+is intangible, we don't deal with it the same way that we do with tangible things but the
+world of the future, intangible things have in many cases more valuable than tangible
+ones but the law hasn't caught up with it.
+If I write a song, people can take it from me and not compensate me now and these new
+technologies make a lot of things possible that were not possible in the past and they
+make cybercrime possible but they make new kinds of theft possible as well and one of
+the things that you're stealing from me is my privacy.
+Whenever we talk about universal basic income because that seems to be like an inevitable
+kind of step for people who will be losing their job, my opinion is that why can't we
+get paid for the data that we produce and share with these companies based on the contribution?
+One of the things that we suggested in the book was that we create information fiduciaries
+where all of that data would be resident with the information fiduciary kind of like a safety
+deposit box and then that as the owner of this, if I wanted free stuff from Google,
+I could say you can have this kind of data or if I wanted to buy automobile insurance,
+I could say here is my automobile, here's my driver's record, you can have access to
+it or other things but I would put me in control of my data and who gets to use it and that
+way I could monetize it.
+That would probably, I'm guessing, generate a few thousand dollars a year in income for
+individuals as well.
+And it also be decentralized, right?
+Because you're not going to be dependent on, for example, only Google because you can't
+decide to share a data with Amazon and then Facebook and what and what and you get money
+from all those decentralized sources.
+Yeah, and there are other solutions to this.
+I've been reading about blockchain and they have a different solution to the problem but
+it's obvious that we should do something and when I say one of the things I didn't like
+about writing the book is that the publisher said, well, you've got to give us a few solutions
+and I said, well, all right, I'll propose something but what I want people to understand
+is that there are many solutions to the problem and so I've defined one but there could be
+numerous others in case I said an information fiduciary, if you talk to Dan Tapscott, he
+would say, hey, blockchain is the way to do it and I don't care how we arrive at the solution,
+I just want to see people owning their own information.
+But you're optimistic about blockchain?
+Well, I think blockchain is a phenomenal technology.
+The question is how will we get it embedded in society and it may or may not happen.
+I don't take it as a given.
+I mean, I think there are going to be lots of important applications but as to whether
+it will be the universal solution to a lot of these problems, I'm not equipped to say.
+Yeah, perhaps the best known application on blockchain are cryptocurrencies at this point.
+Do you see cryptocurrencies as automating a financial system?
+I see cryptocurrencies as extremely important and not necessarily Bitcoin but a cryptocurrency
+and the reason why is money is to be a unit of account, a store of value and a medium
+of exchange.
+The worst people I know to create stores of value are governments because what they want
+is inflation so that they can pay off their bills.
+It turns out that as a medium of exchange, the fees on transferring money are absolutely
+horrendous like we have about $3 trillion transferred through credit cards and debit
+cards and we pay about $200 billion in fees on those transfers and interest.
+That's about 6%.
+Why should I spend six cents on every dollar to transfer a dollar?
+That makes no sense at all so it looks like there is a better alternative and I can say
+I think with a high degree of confidence that cryptocurrencies are going to challenge the
+currencies of many developing countries but I also have a feeling that a good cryptocurrency
+is going to challenge the euro and the dollar over a period of time and if that happens,
+think about the implications of this.
+If you talk about form change, one of the things that has enabled our government to
+survive and solve problems is that they have had control over their currency.
+They've had the ability to print money.
+What happens when you take away the ability to print money from the government?
+I mean it's a big change and I think that that could happen.
+I don't know if it will happen but I think it's a very real possibility.
+Oh absolutely.
+We're already seeing that government is being challenged in different ways whether it's
+Facebook's Libra that they're going through all of these regulatory things.
+They haven't even launched it yet or if it's John McAfee who I had on the show and he's
+saying I haven't paid taxes for 10 years and anybody who wants to not pay taxes use
+cryptocurrencies that are anonymous like Monera and blah, blah, blah, blah.
+Governments are being challenged from many different directions already.
+Do you have anything to add?
+I want to talk about ethics a little because ethics and morality seems to be a very important
+yet very blurry aspect of all of this autonomous kind of a world.
+Well see we are living in a world where trust has been undermined and I'm going to give
+you a real old world example from about 1950 or 60.
+When Sonia and I got married in 1965, a lot of my parents and their friends used to go
+to Europe and they shopped at a store that sold fine china named Goods and we got china
+from people who were at Goods.
+One time Sonia and I went to Europe and we visited Goods and it was a great store and
+at some point a piece of china got broken and Sonia ordered a piece of china from Goods
+which was in England and it arrived and it was not right.
+She informed Goods of this and they said we will ship you a replacement and Goods said
+to her and she said don't you want to wait until I have returned the item and they said
+no you are a customer of Goods.
+We today are living in a world where that level of trust does not exist and we're dependent
+upon reviews and this and that and the other thing but one of the things that makes the
+economy work and one of the things that make relationships between people work is trust.
+And currently things like anonymity on the internet and whether it's fake news or fake
+truths or things like this but we have to find ways of restoring trust in the economy
+or we're going to have real big problems.
+Yeah and with respect to for example autonomous vehicles that famous dilemma I guess that
+you have an autonomous vehicle that is on that branch of a road and one there's one
+baby and the other one there are like five people which one would you kill.
+So whatever kind of decision that is going to be made we go back to this lack of trust
+that a lot of people will be like well no the other option would have been right.
+It seems like a very big kind of a challenge to solve.
+Yeah it is because I mean people make mistakes.
+My wife and I were talking about autonomous vehicles and autonomous trucks and I said
+there's no doubt in my mind that today even at the state of the technology they are safer
+than human drivers and I if I look at that objectively I believe it.
+If I look at it emotionally I don't and I say you know I know that I'm not going to
+make the same mistake that an autonomous vehicle would but I look at my driving today and I'm
+not nearly as sharp as I used to be and I'd be much better off with an autonomous chauffeur
+even with the technology at this stage.
+But it's hard to trust algorithms because algorithms do absolutely stupid things at
+times and you know an algorithm is a rigid rule frequently and you know I said I would
+love to write rules that say use your best judgment and algorithms don't work that way.
+Yeah there's also alignment issue right like best judgment for humans are not necessarily
+going to be the best judgment for algorithms just experiencing different realities.
+Considering the exponential growth of technology on the basis of Moore's law that was determined
+on the basis of silicon and what I'm hearing is that we are reaching the limits of silicon
+and we have to enter a new mode of computation.
+Quantum computing is one of the candidates but I'm getting from a lot of experts in the
+field that they're not that optimistic about the emergence of a functional quantum computing
+anytime soon.
+What do you think about quantum computing in specific and the next mode of computation
+in general after silicon?
+I am not an authority on any of this but what I observe is that I am not sure our limitations
+are associated anymore with the power of computation.
+We are limited not by the power of computation but by our ability to adapt to the applications
+as they are currently being structured.
+We do not need more technological progress to make vast improvements in our society right
+now, more technological improvements in computation.
+What would make us better is if we figured out how to apply the improvements we already
+have more humanely and what I've told people is that I consider the recent crop of engineers
+to be not very good and they look at me and they say, well, they're all technological
+geniuses and I look at them and I say, hey, I'm using this stuff and is it making my life
+simpler and more efficient?
+The answer is that it does not do 100% of what is absolutely critical to me 100% of
+the time reliably.
+What happens is that I'm constantly getting bogged down in fringe cases where something
+surprising happens and I end up spending an incredible amount of time on a fringe case
+that I didn't want to have anything to do with anyhow, but I'm trying to get rid of
+it.
+I'm looking at this and what do I do with my phone?
+I just went through it and spent an incredible amount of time turning off alerts.
+Is that an iPhone or Android?
+I don't want to say.
+To me, that's poor engineering and it's not doing for me what I want it to do or I find
+that I've got this wonderful electronic calendar system, but for some reason, the software
+is not reliable enough for me to use my phone and be 100% certain that it updates all the
+other devices.
+When I'm out, I don't enter a new event on my phone.
+I check for it on my phone, write it down on a piece of paper and come home or make
+myself a note on my phone and come home and enter it on my computer so that I show her
+that it gets updated throughout the system.
+These things are really wonderful conveniences, but if they don't work 100% reliably, 100%
+of the time.
+Don't upgrade me.
+Figure out how to make the stuff you've sold me work reliably.
+We just had our home audio system replaced.
+The reason was that we had a sophisticated system and I told the guy I wanted the least
+sophisticated system and he swore he sold it to me.
+It turns out that I ended up with a sophisticated system that worked most of the time or I have
+a thermostat that was online and it got software upgraded and my wife couldn't turn on the
+furnace on a cold day.
+I cut it off from the internet and I'm now probably 30 versions of software behind, but
+the furnace always turns on.
+These are things that are really important.
+You're so right.
+How the masses are going to adopt something like that.
+Bill's book is called The Autonomous Revolution Reclaiming the Future We've Sold to Machines.
+I have two more questions for you.
+What do you think about this 5G and the tech rivalry between the United States and China?
+I have for a long time thought that we managed our situation with China not well.
+This goes back to trade when I was with Intel.
+I believe the Chinese are extremely competent and they do a very good job, but their motivations
+are frequently not aligned with our best interests.
+In that case, we better find a way whether it's with 5G or with the production of drugs
+to be not as dependent upon them.
+This doesn't say don't do business with them, but we are overly dependent upon them and
+we are not demanding enough that they play by the same rules that we play by.
+That doesn't mean that they shouldn't have different rules.
+That means that when they interface with us, then we've got to get mutual agreement on
+what a fair set of rules are because different societies are going to have different rules.
+We can't tell China what rules they should have, but we can say, hey, in the places where
+we interact, these are the sets of rules you're going to have to abide by and you can't steal
+intellectual property, you can't do this, you can't do that, and if you want to do that,
+we don't want to do business with you.
+Absolutely.
+Thank you so much again for your time.
+It's been such a pleasure and honor.
+Let me ask you the last question I ask all my guests, that if you come across an intelligent
+alien from a different civilization, what would you say is the worst thing humanity
+has done and what would you say is our greatest achievement?
+God, the worst thing?
+Well, I was going to say things like genocides, and then I thought, hey, we have also horribly
+abused our environment, and we aren't feeling the effects of that, but we will, and I'm
+sorry, what was the other thing you wanted to know?
+Our greatest achievement.
+Well, our greatest achievements are that we've found, I think, a way of adapting to the physical
+reality.
+Thank you.
+Thank you.
+Thank you.
