@@ -1,0 +1,991 @@
+If my mind is in part a function of what's going on in the external world already, and
+if all these amazing things are happening in the internet and artificial intelligence
+and big data, and all of those can be construed as part of my mind.
+But furthermore, there are these methods of communication in which I can communicate and
+exchange ideas with people like you, right?
+I am like very rapidly achieving like higher and higher, I don't know, planes of consciousness
+is the right word, but certainly I'm learning a lot more and thinking in ways that I couldn't
+imagine thinking earlier, right?
+So to me that there are these avenues of sort of naturally growing that are much more interesting
+to me than to try and find some sort of imaginary wall to our intelligence or some sort of ceiling
+to our intelligence is a better way to put it, which if we could break through that then
+we can see the world correctly.
+Peter Ladlow, welcome to the 85th episode of New Human Podcast.
+Thank you.
+I've been looking forward to this.
+Yeah, absolutely.
+Likewise.
+And from Mexico.
+I am in Mexico, yes.
+How are you doing with the pandemic in that part of the world?
+You know, they seem to have a better handle on it than we do in the United States.
+I mean, like things are really tight here, lots of precautions, people are following
+the rules.
+So I actually feel safer here than in the United States.
+Interesting.
+I want to talk a little about, well, before that, let's get to the work you've done,
+the lives you've lived and what do you mainly focus on nowadays?
+I ask everybody just to establish some kind of a perspective and the context so our audience
+know where your thoughts are coming from.
+Well, okay, let's start here.
+Let's start with graduate school.
+So in 1979, I moved to New York to go to grad school in philosophy at Columbia University.
+And my thought was I was going to do philosophy of language and I showed up and people were
+doing strange things like the philosophers were doing linguistics, by linguistics I mean
+linguistics in the sense of Chomsky's program and generative linguistics.
+And the linguists in the sort of vicinity were doing philosophy and I thought that was
+sort of weird.
+And I was a bit distracted from the program and I spent a lot of time downtown because
+a very distracting time to be in New York in 1979 when I arrived.
+And there was a lot going on and had been going on since like 1977 when punk came and
+really the birth of rap was in that period.
+But there was a movement that was known then or at least it's known now as No Wave, as
+in N-O, No Wave.
+And what was going on is that way down in the Lower East Side in Alphabet City, which
+at the time was completely bombed out, there were these kids I guess.
+And there were a bunch of musicians that decided they wanted to become filmmakers and there
+were a bunch of filmmakers that decided they wanted to become musicians.
+And so everyone was just doing things they didn't know how to do and the result was fantastic.
+So the best example of this is that there was a band that I really liked called Del
+Byzantines, Byzantines spelled T-E-N-Z.
+And I used to go and watch them a lot and the lead singer slash keyboardist was a guy
+by the name of Jim Jarmusch, who we now know as a very famous film director.
+I remember when his first movie came out, it was just a little low budget thing called
+Permanent Vacation.
+This was before his big breakout movie, which was Stranger Than Paradise, I guess.
+And it just blew my mind.
+I go, wow, that's like Jim Jarmusch, like my hero from Del Byzantines.
+And then it was sort of that where I got it that there were these people, everyone was
+doing, we have these musicians trying to make movies and filmmakers trying to start bands
+and it's not like they were working in a vacuum, they were still surrounded by musicians and
+filmmakers and all that stuff.
+And so then I got it.
+I just said, you know what, I really want to take a deeper dive into linguistics.
+And so I applied to go to MIT as a visiting scholar in the linguistics program and I really
+got into linguistics when I was there.
+I mean, I asked them to put me in housing with linguists or in an office with linguistics
+grad students.
+And at one point, I went and talked to the chair of the linguistics department.
+I said, I am really getting into linguistics.
+I'm thinking about like maybe transferring or like after I get my philosophy PhD, maybe
+I'll try and get a linguistics PhD.
+And he looks at me and goes, well, you're getting a PhD anyway.
+What do you care?
+It doesn't matter what your PhD says.
+If you want to learn linguistics, learn linguistics.
+That's it.
+And no one cares.
+I mean, linguists don't care.
+No one cares if your PhD is in philosophy or whatever.
+You just do linguistics.
+And that came as a kind of a revelation to me and it fueled subsequent work, which was
+often work that was not in my official area of expertise.
+So my first job out of grad school was in an artificial intelligence group at Honeywell.
+What year was this?
+So let's see, that would have been 1985, 86.
+It was the intelligent interface systems group at Honeywell.
+And those were the very early days.
+It was really the second iteration of artificial intelligence.
+And that was sort of interesting.
+And then I was offered a job in philosophy.
+Many things happened.
+I was offered a job in philosophy.
+I took it.
+But I retained interest in other things.
+And one of the very early things I was interested in was what was then becoming the internet.
+I mean, it was very early stages.
+And I edited a collection for MIT Press called High Noon on the Electronic Frontier.
+And that covered a number of conceptual issues that were already coming into place.
+One set of those issues had to do with cryptoanarchy, which I guess is something you want to talk
+about a little bit.
+And then a few years after that, right around 1999, I assembled the second collection, which
+was titled Cryptoanarchy Cyber States and Pyro Utopias.
+And while the first collection was very successful, the second one was not, or at least it was
+not successful until now, like 20 years later.
+Way ahead of its time.
+Well, I don't know if it was that or what it was.
+Yeah, I don't know what that was.
+So it's very interesting that after all these years, that project is getting some uptake.
+And I think a lot of it is fueled by what we see going on with cryptocurrencies and
+decentralized finance and things like that.
+And that's been it.
+I mean, right now, I'm involved in two different projects.
+One of them is kind of straight philosophical.
+That's a project where I've been looking at some work that the medieval logicians were
+doing.
+And by medieval logicians, I mean people you've probably heard of, like William of Ockham.
+He of the Razor and Abelard, he of the romance with Heloise.
+And they had this really interesting project, which was, they wanted to take, well, first
+of all, I mean, preface this by saying, you know, there's this myth about medieval logic,
+which is that they weren't doing anything except singing peons to Aristotle or something.
+And this is a myth that was perpetuated by people like Kant and Wittgenstein.
+But it's a complete myth.
+And what these guys were doing is they wanted to take Aristotle's logic, expand the scope
+to cover basically any sort of language that you use, and then they were going to take
+all of his rules of logic and reduce them down to two basic rules.
+I mean, it's like an incredible project.
+It's a mind blowing project.
+And it ran aground some, I don't know, like 600 years ago because they didn't have the
+tools to study language with the kind of fine logical detail that you need to.
+But now here we are at the development of lots of work in logic in the 20th century,
+and Chomsky showed how you could apply these tools to natural language.
+So the idea is that now we have the tools to explore these questions after they've
+been dormant for 600 years or so.
+And then the other project is I remain very interested in cryptocurrencies, and in particular
+a branch of cryptocurrency that's known as decentralized finance or DeFi, where you basically
+do all the things that the banking industry and the insurance industry and all those things
+that we consider to be part of serious real world finance, the question is whether you
+can replicate all of those functions in the cryptocurrency space.
+It seems like the beginning of Bitcoin, which now is how many years ago, like 12 years ago,
+it kind of introduced some kind of a practicality to the philosophical perspective towards decentralization
+and crypto anarchy.
+And it kind of blew up because of that, and the context kind of evolved with it, right?
+I think that's right.
+And I think that goes some ways to explaining why the initial iteration of my book on crypto
+anarchy didn't go anywhere, which was there was talk about digital cash in it.
+And there were versions of digital cash available.
+But they had not solved the big puzzle, which is called the double spending problem.
+And it took Satoshi to do that.
+And it required a technological breakthrough for it to really be feasible.
+And we have that now.
+Sorry, I just mute my microphone because of these dogs.
+Sometimes it's just I don't even hear them.
+Okay, good.
+How has the definition of linguistics changed from the time that you've begun up to this
+day?
+It seems to me that language is becoming such a frontier, because different political sides,
+different philosophical perspectives, they're fighting over how to define certain kind of
+terms.
+Let's say, for example, racism, racism means something to one side and means something
+to other sides.
+And they're fighting with each other that, for example, America is a racist country.
+No, America is not a racist country.
+But they're fighting with two complete different definitions of these terms.
+Yeah.
+No, that's exactly right.
+Actually, I have a book on that that came out a couple years ago.
+And it was called Living Words.
+And it was, I had some subtitle for it, but now I'm forgetting what the subtitle of my
+own book was.
+It was called Living Words.
+Wow, that's terrible.
+You don't even remember the title of your own book.
+I can tell you what it says.
+So the basic idea is that you don't really learn a language.
+It's not this thing that you sort of just take on full stop, but rather what we do is
+we build little micro languages together.
+So right now, you and I and your listeners are constructing a conversation together.
+We're going to introduce terms.
+We're going to get to understand each other better.
+And the idea is that it's what I called in the book, and presumably this is part of the
+subtitle, the dynamic lexicon is what I called it, meaning that word meanings are very malleable.
+They're living words.
+And so we have to think of them that way.
+And then a lot of what we do in a conversation is not, I have something to say, I'm going
+to say it, you're going to hear it, but rather we're engaged in this process in which we're
+shaping the meanings of the words that we're going to deploy with each other.
+So a lot of conversation that takes place is not here's some information, now you have
+it, but rather it's sort of us fine tuning the words that we're going to use to carry
+on further conversation.
+It's almost like lexical grooming that we engage in.
+And part of all of this is when we get into these cases where we have to argue about the
+meaning of what's really racism and what's really sexism, what is a woman, for example,
+does it include trans women?
+All of these things are what I called in the book, lexical warfare.
+And the idea is, well, what happens, you know, often we're in this position where we are
+actually litigating what the meaning of a term is going to be.
+And so there's no easy answers to how to do that.
+But what I try to do is look for certain norms that govern the right way to do it and the
+wrong way to do it.
+And hopefully, hopefully we are going to get better or have a better understanding of how
+to litigate these word meanings, especially when the cost is extremely high, because basically
+every ethical issue we engage in is on some level, a kind of debate about what a word
+is supposed to mean, you know, what is a person, you know, what is what is terrorism, what
+is what is freedom, you know, all of these things, basically everything you when you
+look at it, what you're doing is you're arguing about what the meaning of the word should
+be.
+Now, that doesn't mean any definition is equally good, because there are rules that sort of
+dictate or norms that dictate whether we are adjusting the meanings of those words correctly.
+I mean, Bill Clinton himself said that it depends on what is the definition of the word
+is.
+Yeah, I think he was, I think he was asking what they meant by the tense of that.
+But yeah, yeah, I mean, it can sound kind of shady.
+I mean, well, that's the thing, once you, you know, once you understand that you're
+going to be negotiating the meanings of terms, then you have to then you have to be careful
+because people can pull some really shady stuff with you.
+And people do it all the time.
+I mean, the government is the government for well, I don't mean to pick on a government
+or the government, but they're always trying to shift the meaning of a term, you know.
+So now, Antifa people are terrorists, you know, you know, it's always it's always going
+on.
+It's like an ongoing battle and you have to stay on your toes.
+This fluidity of words and terms.
+This is not a modern phenomenon.
+This must have existed throughout history, right?
+Yeah, yeah, yeah.
+We are where we are in this warfare that you're talking about, maybe because this process
+of litigation has been democratized by the use of different kind of devices that now
+people have their own voices that can be heard, that it didn't really matter maybe 100 years
+ago that there were different definitions of racism, the definition that would turn
+into a status quo was determined and established by a centralized structure of authority that
+had control over newspapers or different kind of media and that was the term.
+But now with these, you know, I always refer to these that we're like monkeys with machine
+guns.
+We don't really know the power of these things, but we are using them for our own biologically
+driven intentions.
+Yeah, I mean, I think I mean, it's hard to know exactly what the consequence of new media
+is going to be for this.
+For sure with the advent of television and so forth in the previous century, you might
+have thought, oh, wow, this is really great because now we can discuss alternative meanings.
+But what you got instead was more of a system of control.
+That is one understanding or one meaning of the term became quasi-official.
+I mean, it's not like we had some academy that was telling us what a word should mean,
+but because of corporate control of media in the United States, there was a kind of
+control of what words could mean in accepted media.
+Now that raises the question, now that we're all monkeys with our little computers in our
+hands, what is that going to mean?
+Is it going to mean we get a kind of fractionalization of different word meanings?
+And that could happen.
+And what you could get is a bunch of people descending into different bubbles where, you
+know, this cluster understands a word like freedom in this way.
+This cluster understands a word like freedom in a very different way.
+And now we're just talking past each other.
+So the real trick, I mean, it's easy to have a unified meaning of what a term is.
+And it's easy to have little clusters of different meanings.
+The hard part is getting these clusters to find common ground with each other and negotiate
+what the words ought to mean, right?
+And that is the skill that I think perhaps we have lost somewhere along the way.
+I mean, I don't know, I mean, any sort of historical story is going to be somewhat fantastical
+here.
+But I can imagine an earlier history and an earlier time when people got together in the
+bazaar or whatever, and they're not just negotiating the price for spices or whatever, right?
+Let's say we're on the Silk Road or something and we're negotiating prices, but we're also
+negotiating word meanings.
+And I tend to think that there wasn't necessarily set understandings of what a word is supposed
+to mean, right?
+But maybe with the 20th century, we began to have those kinds of set understandings.
+And even now, when we ghettoize ourselves into different bubbles inside of Facebook,
+I'm not sure that we are addressing important questions about not just what words mean to
+us and our friends, but what they ought to mean.
+Yeah, it was also a matter of documentation of them too, right?
+The idea that history is written by the victor, that what we are reading is not necessarily
+what had happened, is what has been written down and documented.
+And the difference right now is that this process of documentation or litigation that
+you're saying, it's been democratized.
+So it's not that there is any kind of a singular kind of a foundation, because there are different
+kind of needs, different kind of desires, different kind of...
+People are different.
+Equality, objectively, has no meaning, naturally speaking, at least to me.
+Equity is a different kind of a story, but the fact that you want to start everything
+at point zero, what are we going to do?
+Are we going to eventually genetically engineer everybody to start at the same ground with
+the same kind of...
+It's just impossible.
+Right.
+Impossible.
+We all start from different places, right?
+And so given that we're starting from different places, how do we engage with each other and
+create, in my terminology, micro-languages with each other so that we can communicate
+even though we begin from different starting places?
+And you mentioned a point earlier where when we look back historically, we often don't
+really understand how variegated language was and all the different forms in which it could
+be found, ranging from how things were written to the different understandings of word meanings.
+And hopefully, if nothing else, what the internet is going to give us is a vast repository where
+we're...
+A hundred years from now or a thousand years from now, we're going to be able to study
+the different ways in which people were using language in our time.
+And this depository now is being used for development of artificial intelligence as
+well, right?
+And let's think about this context in the big picture of what Marshall McLuhan said,
+that man becomes sex organs of the machines.
+We're basically feeding the machines to become whatever that they're going to become.
+And it seems like more and more aspects of our lives are becoming digitized.
+So this is not a process they're going to reverse at any point.
+It's just going to accelerate.
+I mean, it's very interesting to think about what is the nature of the symbiotic relationship
+we have with the internet, because it is taking on a big chunk of our cognitive function.
+I mean, it's onloading lots of our memory.
+And so you might ask a question, I mean, there's certain philosophers, like a guy named David
+Chalmers has asked this question, where exactly is...
+Extension.
+Extended mind.
+Exactly.
+And so, well, where is my mind?
+Well, where's my memory?
+I mean, that's an easy, you know, because like you asked me a question, I don't remember
+the...
+Well, a great example is you asked me the title of my book and I can't remember the
+subtitle.
+Well, I can't remember it.
+I just don't have my phone handy and I don't want to be rude and pick it up.
+But that's it.
+I just like offload a bunch of my memory onto my telephone or into the internet.
+And so we begin to create this very weird symbiotic relationship with a machine, but
+not just with our physical bodies, right?
+But actually our minds are...
+Much of our mental processing is being done externally.
+You know, people always talk about, oh, I want to get a computer inserted in my head.
+It's too late for all that.
+In effect, that's already...
+You don't have to put it in your head, right?
+The fact that you're relying on the internet and on Google or DuckDuckGo or whatever search
+engine you use, the fact that you're relying on that to reason and to carry on your cognitive
+functions shows that that fusion of your mind with the internet is to some extent already
+happened and you don't need to do sci-fi things like implant things into your head.
+So you're not on board with Elon Musk's Neuralink?
+No.
+I mean, it would be interesting to see what happens.
+I would expect something interesting to happen.
+And from an engineering problem, it'll be really fascinating.
+But from a philosophical issue, it's almost like, well, yeah, but it's kind of...
+We've already done that in a way, in the most interesting way, at the most philosophical
+level, it's already happened.
+One of the arguments...
+I've talked to a number of people about this.
+One of the arguments is that in order to find who we are, which is the way to find about
+the universe and everything else to look within inwardly, we require to develop higher levels
+of cognition, cognition ability, because we're doing really good compared to monkeys, but
+we could do way better.
+Whatever the definition of that better is, that's debatable.
+But the fact that what we're experiencing is not all there is.
+We can experience far more, let's say like in matrix kind of an environment.
+And to get there, we cannot rely on biology and trial and error driven process of evolution.
+Now that's very arrogant.
+Some people would say, well, you're playing God and you don't know how this going to affect
+and influence your environment and you can mess everything up.
+But at the same time, it has a spiritual kind of aspect to it too, that if I can know more
+and be more, why wouldn't I do it?
+I've never been on board with this kind of project.
+Because I feel that you can change your cognitive makeup.
+People think, well, all right, there must be a higher plane of reality that I can achieve.
+I could know things better.
+But it's always occurred to me that you might achieve a different way of thinking, but I
+don't know that...
+There's an interesting sense in which it's a higher plane.
+It's a different plane, right?
+And you might get there and you might look down at your previous life before you enhanced
+your mind with implants and so forth and you say, wow, that was really stupid.
+But that's not really evidence that you've achieved a higher plane, right?
+It may be evidence that you've achieved a plane of higher hubris or something like that.
+And the other element to it is I'm not convinced that we are even close to bumping up against
+natural limits to our own intelligence.
+Part of that is because I don't think our own intelligence is solely a function of what's
+going on inside of our heads.
+And this brings us back to the business about the extended mind.
+That my mind is in part a function of what's going on in the external world already.
+And if all these amazing things are happening in the internet and artificial intelligence
+and big data, and all of those can be construed as part of my mind.
+But furthermore, there are these methods of communication in which I can communicate and
+exchange ideas with people like you, right?
+I am very rapidly achieving higher and higher, I don't know, planes of consciousness is the
+right word, but certainly I'm learning a lot more and thinking in ways that I couldn't
+imagine thinking earlier, right?
+So to me that there are these avenues of sort of naturally growing that are much more interesting
+to me than to try and find some sort of imaginary wall to our intelligence or some sort of ceiling
+to our intelligence is a better way to put it.
+Which if we could break through that, then we can see the world correctly.
+Yeah, I totally agree.
+And it's very interesting, I mean, I would consider myself a transhumanist in a sense
+that I believe that humanity and technology, we have evolved together in a sense the way
+that Kubrick portrayed it in 2001 Space Odyssey.
+We found a tool and then we used it in order to obtain things for ourselves and then protecting
+those things against a different tribe and then a different tribe looked at us and they
+improved that tool a little bit and now we have International Space Station and reusable
+rockets and all that.
+But you're absolutely, I think, spot on with saying that we haven't even tapped into the
+full potential of our own cognition and ability and we cannot really make the claim otherwise
+when we have a variety of psychedelics completely illegal and hey, you cannot do that, don't
+you dare doing that and this is an interesting time we're talking about it because it's
+the second revolution of psychedelics that are happening right now.
+If really we're in the second revolution of, well, you know, it's funny you say that
+because I'm living in Mexico now and so, I mean, there are a lot of people that are
+experimenting with psychedelics but they have been for, you know, a thousand years, like
+the huichol with the peyote and so forth or if you go down to Brazil, lots of tribes and
+I mean, I actually have thoughts about psychedelics and their history with people which is that
+to some extent the human mind evolved to not really function that well, it's on its own
+like in isolation but we evolved to be able to function with the help of the things we
+find around us and in some sense that might be magic mushrooms or whatever the case might
+be.
+You're talking about the stoned ape theory?
+What's that?
+I don't know that theory.
+What?
+The stoned ape?
+That like almost every animal on the planet has a way of managing its mental health with
+the help of some form of drug, you know, from reindeers with their little red cap mushrooms
+to really, is there an actual theory with the name about stoned apes?
+Yeah, Terrence McKenna, Terrence McKenna's theory, stoned ape theory is that we basically,
+our brain evolved faster than the rest of our body because we started experimenting
+with psychedelics.
+I would say that we co-evolved with these substances, okay?
+So I don't know.
+I mean if you went back to early, early history, I believe we actually co-evolved with some
+of these substances and we can find them around on planet Earth right now because early human
+ancestors found them useful.
+And so to function correctly, cognitively, we needed these plants.
+We don't need them now.
+You know, we have Big Pharma that can help us, I suppose.
+But you know, if you try and, here again we get into this issue of the externalization
+of the human mind, right?
+It's not just what's in here and it's not just what we can connect with the internet.
+But once you start passing laws that prohibit people from using these substances, like peyote
+or whatever it might be, in a certain sense you're passing laws that are walling off parts
+of people's very own minds, if that makes sense to you.
+Yeah, absolutely.
+Yeah, I'm saying this is the second, I mean it's well established that we're going through
+a second psychedelic revolution because of organizations like MAPS, which is a multi-discipline
+multi-disciplinary association with psychedelic studies that they're pushing to legalize MDMA
+for example, to deal with depression and PTSD for, because there are more, for example,
+veterans are dying inside the United States than they're dying in the battlefield.
+And a lot of them get hooked on like opioids and stuff, but then they do like two sessions
+of ayahuasca and you know, it does magic for example for them.
+Interesting.
+Yeah.
+Interesting.
+It's a moral kind of argument.
+Yeah, I mean I'm not any sort of expert on this and I'm not, I mean I have my own way
+of managing my mental life, which involves a lot of time and the internet and with computers
+and so forth and gaming, but it's very clear to me that there are people that really need
+these substances and access to them and it's critical, it's a critical part of their mental
+lives.
+Yeah.
+And it's, it's, it's alien to deny that to people.
+Absolutely.
+Like say, well, you can't use this part of your brain.
+Yeah.
+Or explore it.
+Yeah.
+Or explore it.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+And so, but coming back to your point, I mean, yeah.
+So these are, I don't think of them as even tools.
+I think they are these, these, these substances, these natural substances are parts, critical
+parts of our mental lives.
+And so obviously if you deny yourself those elements to your mental life, you're going
+to set up certain limits to what you can and cannot think.
+And you start, you start placing, you start placing limits on, on your mental life.
+And that's when people start asking for things like, you know, I want to, I want implants
+or something like that.
+You don't need implants.
+You just, you just need the things that are already there and that's going to open up
+business that are so vast.
+I mean, we can't even begin to, we can't even begin to quantify the vastness of the spaces
+that are already available to us.
+I think the bridge that connects what we were talking about to back to the digital world
+and cyberspace, and I want to talk about crypto-anarchy, it really comes down to individual liberty
+that you, you will be able to determine who you are and what you're going to do with that
+information or data or whatever that determines you, that you represent in a cyberspace, for
+example.
+And I want to ask you about what is happening to the concept of individuality in the digital
+realm or cyberspace or metaverse and whether or not crypto-anarchy from your perspective
+is the soul, and I would argue that it should be decentralized crypto-anarchy, right, because
+I know that anarchy philosophically means that it's decentralized, but it seems like
+for humans you have to emphasize on key terms.
+Decentralized crypto-anarchy is the only way and only avenue in order to protect this sense
+of individuality, however it's going to be defined based on our evolution.
+Let me say that I am a bit concerned about all the talk of individualism that we get
+in the crypto sphere because it's onboarded a lot of libertarian talk and I'm sure that
+many of your listeners are libertarians and I have issues with libertarianism and talk
+of individualism and I would much rather frame all of this in terms of limits on what we
+could think, right, using a plural pronoun there, like, you know, what we can do, what
+we could think, and I don't – I think it's more helpful to think about what crypto-anarchy
+opens up to us in terms of possibilities for collaboration that otherwise couldn't happen
+because it has to be – in certain cases, it has to be hidden from maybe from the state,
+but the state is not the only problem here.
+It might have to be hidden from society as a whole because of certain negative attitudes
+that society has to the ideas that you're exchanging, right?
+So for me, if crypto-anarchy doesn't really open up a space for me to be me and I can
+do whatever the hell I want and I can think whatever I want, but it's more like it's
+opening up a space for us to engage in collective activities that we otherwise not have been
+able to do and that's going to benefit me because it's not just me sitting here in
+a vacuum but when I'm engaging with other people who now have this freedom as well,
+the freedom to negotiate new meanings and terms freely together, right, then that opens
+up another canvas for us to explore, right?
+Another unlimited canvas or at least a very vast canvas that's going to open up to us
+and allow us to explore.
+So individualism, I'd rather use a term like freedom and that would include not just
+individual freedom but collective freedom or community freedom, family freedom, you
+know.
+Freedom of association maybe would be a good term, umbrella term.
+Freedom of association?
+Not just freedom of association but I mean there's more to it than that because if we
+have, I mean freedom to associate is key, right, and I mean the internet allows us to
+associate from across distances and what Crypto Anarchy does is allows people to associate
+with us that might not otherwise be able to, right, because their government might not
+even think they should be online so they have to find other ways of getting online.
+I mean they might have to use Tor or something to not be spied on when they're online talking
+with us and then once and so that freedom as you say, freedom of association is going
+to be critical but then once we get there we also have other freedoms.
+We have these freedoms to exchange these ideas once we're associating and we have the freedom
+to not just associate but to work together and to keep modifying or I like the word modulate,
+to modulate word meanings with each other and that's key too.
+That is that language should not be a prison to us but now language is going to be something
+that we can, that's going to work for us instead of us working inside of a little cage that
+language has provided for us and getting together with other people is the first step to that,
+right, because if you're alone or you're with the same group of people all the time
+then you don't have those options.
+It's not going to be obvious how you should be expanding your language but once you have
+the opportunity to sort of interact with people in other places, people from other cultures,
+people with different ideas and different micro-languages, that's when things really
+start to happen.
+This relationship between language and us that you're saying that we're reverting in
+a way that language will work for us rather than we work for the pre-established, there
+are people who are benefiting from those pre-existed definitions of language.
+They are, yes they are, yes.
+Maybe government is one of the best examples of them, churches are another one, education
+system.
+People will make the case that patriarchy, people will say that you and I benefit because
+of the sort of the patriarchal nature of language and so there's a kind of sexism built into
+language itself and then there is this project which is what they would call, I think the
+fancy word that philosophers use is conceptual ameliorization but what they mean is we want
+to change the – people have imposed these word meanings on us and they're not helpful
+and what we have to do is sort of break these definitions or bend the definitions because
+we can't make any progress until we do that.
+So yeah, basically in any sphere it's not just government, it could be cultural, it
+could be religious, right?
+What is a religious person, what is a moral person?
+People use language to imprison other people and so a big part of freeing yourself and
+freeing your family and freeing your friends is to resist this.
+First of all, identify when people are using language to imprison you and secondly, finding
+the tools that allow you to resist it and to make the case for your view of how language
+actually should be shaped.
+So what's going to happen to those benefactors of this language prison in the coming years
+as information is becoming more and more democratized?
+Yeah, well, they're going to freak out, obviously.
+They're going to freak out and you could see this, I mean there's going to be a kind
+of linguistic conservatism, I don't mean that like Republican versus Democrat because they
+can both be conservative.
+Just hold on to what is.
+Yeah, yeah.
+And they're going to be pounding on tables saying, look, I have a dictionary right here
+and it says like, this is what a woman is, it can't be a trans person.
+No, I'm not making a case that trans women are women, I'm just saying the minute people
+open up a dictionary and says that's how you resolve it, those are the people that
+are falling back on a conservative sort of definition.
+And people are going to be saying, oh, this new definition is degeneracy.
+You're destroying language.
+This is another one you're going to hear.
+You're destroying language.
+Everything is going to fall apart because you're destroying language and you're not
+destroying language.
+You're destroying language, you keep it in a prison and you don't let it evolve, right?
+I mean, you keep it in a prison, it's like putting a tiger in a cage and just locking
+it up there and thinking that you are somehow preserving it by doing that.
+Well, you're not.
+You have to turn it loose.
+Do you think this point of authority to determine the definition and meanings of language is
+shifting from human governance and authority to artificial intelligence?
+I had not thought about that.
+Only artificial intelligence can inform these sorts of decisions.
+What would happen if an AI started telling us that, you know, you're using the definition
+of woman wrong or you're using the definition of freedom wrong?
+I don't know.
+The thing is that the way I perceive all of this is playing out is that there's certain
+people are going to come up and try and establish authority to you or establish their linguistic
+authority, okay?
+And there's a question, well, does that linguistic authority work here?
+So, you know, we get stranded on Gilligan's Island and the professor comes to us and says,
+well, no, actually a tomato is not a vegetable, it's a fruit, right?
+Well, okay, maybe he has some knowledge about science there.
+The question is, is that kind of authority relevant to how we talk about fruits and vegetables?
+Likewise, if an artificial intelligence came to us and said, well, I have all these reasons
+for thinking that, you know, a woman can't be a trans woman or that, you know, freedom
+had some sort of definition of freedom for us.
+He says that you have to serve the machine, but to be truly free, you have to serve the
+machine.
+And we're like, well, you know, you're a very smart AI, but like, you know, we don't
+necessarily have to take that on, right?
+And so it's still, even if there are smarter people out there, you know, we don't merely
+have the freedom to do this or we should have the freedom to do it, we also have the responsibility
+to say, well, look, I don't really, I don't know if I should onboard your definition just
+because you're smarter than me because I have my own reasons for defining words as I do.
+So maybe, you know, I have my own reasons for saying a tomato is a vegetable.
+And I don't really care what the artificial intelligence thinks about that.
+So at the end, so I guess my point is at the end of the day, we are going to have to still
+be responsible for deciding which authorities we're going to accept.
+And you know, I wrote a paper on this, but I actually never got around to writing.
+I gave a talk on this and it's one of my favorite things to think about, but I'm just inherently
+lazy about writing it down for some reason, which is about the issue of when you defer
+to authority, right?
+So it's a paper about deference.
+And so when you should defer to someone and when you shouldn't, but deference, not in
+like, should I cut my hair or should I, you know, salute a flag or something, but deference
+to somebody about word meaning, about what a word ought to mean.
+And it's not an easy topic.
+And so part of the idea I had is that no matter what the authority is, you have to issue a
+series of challenges to that authority, always.
+It doesn't matter even if it's like some cool kid in school, right, that's using a term
+and you think you should defer to that person about the meaning of a cool, a meaning of
+a term.
+Like suppose the meaning of the term is cool, what's cool?
+So there's some guy who looks like Arthur Frans Larell Fonsi from Happy Days.
+And we start, we defer to him, why?
+Is it because of his haircut?
+Is it because of his leather jacket?
+Well, even a character like Richie in Happy Days at certain points has got to challenge
+Fonsi.
+And so the idea is, well, when do you challenge these linguistic authorities?
+How do you challenge those linguistic authorities?
+And this is something that fascinates me because I have no idea how it's supposed to work or
+even how about we go about it.
+But it's a skill we have to acquire because it's critical.
+Because we're being surrounded by all these linguistic authorities.
+They don't always have our best interests in mind.
+They don't even have their own best interests in mind.
+And we have to know when they're like, you know, they're jumping the shark or something
+and sort of using a word like cool and correctly.
+We have to be able to, we need to defer to individuals at certain times, like doctors
+on the meaning of certain medical terms, for example, but we also have to be in a position
+where we can challenge them.
+And that is an art.
+And if I had rules for doing that, I would tell you what they are, but I'm not even sure
+there are rules.
+I think it's just some practice.
+Yeah.
+Exactly.
+And with this information, we have more uncertainty we are dealing with.
+And I want to go back to what you were saying about New York, that it was a very chaotic
+kind of an era that people were doing whatever they wanted to do and cool stuff were happening.
+It seems like we're going through the same kind of a period right now in a different
+kind of a way that people have access to devices to express themselves and challenge each other.
+And we don't, as you said, we don't really know what the rules are, but maybe there are
+no rules and good stuff happen as a consequence along the way.
+And we just have to learn to notice and realize those moments of harmony, enjoy them and just
+move on.
+Yeah, I agree with that, except I would say it is never the case that there are no rules.
+Sometimes you think there are no rules, but that's when you have to be really careful
+because that means you're not seeing the rules, right?
+It's like the, you know, the fish in the bowl thinks there's nothing out there, thinks it's
+completely free because it's just swimming around wherever it wants to go.
+And then those moments when you think that you're completely free, that's when you need
+to be most on guard.
+Yeah.
+That's awesome.
+Yeah, absolutely.
+What are your thoughts on simulation theory?
+I know I don't understand what these guys are talking about.
+And some of them are my best friends, honestly, because maybe they just are putting it in
+a way that I don't understand because I wouldn't call it simulation theory, meaning do we live
+in a simulation?
+Is that the question?
+Simulation hypothesis.
+I better say no theory.
+Yeah.
+Yeah.
+I mean, because the thing is simulations typically don't have the relevant properties of the
+thing they are simulating.
+So for example, I can simulate hurricanes using a computer, but it's not like if I open
+up the computer, there's going to be lots of wind and rain in there, right?
+Likewise, I might be able to simulate some anything using artificial intelligence, but
+it doesn't mean that anything like whatever consciousness would be happening in there.
+I think a better way to make the same point would be, well, what if we are synthesizing
+worlds?
+So you're not merely simulating them, but you're synthesizing them somehow using, maybe
+using computers, maybe you can synthesize a reality using computers or something like
+that.
+And at that point, my attitude is, well, it doesn't matter if it's synthetic or nonsynthetic
+and maybe it's just synthetic worlds all the way down, who knows?
+So I've never really been grabbed by that simulation theory stuff.
+It's interesting to me because you've written about consciousness as well, right?
+Very little.
+I mean, I've read a lot about consciousness and some of my very best friends write a lot
+about consciousness.
+And when they give these arguments about zombies and so forth, I worry because I think I must
+be a zombie because I don't know what the missing ingredient is supposed to be.
+And I've always been suspicious of talks about, you know, philosophers have these fancy words
+for that sort of ethereal extra secret ingredient X.
+Sometimes they call it qualia, sometimes they call it sense data, it's sort of like, well,
+when you see something green, there is this green mental patch that exists somehow in
+your mind in addition to the green thing itself.
+And I've always been a bit suspicious of that.
+You know, the philosopher Gilbert Ryle talked about this and he says, well, you know, people
+talk about seeing a mental image with the mind's eye, but, you know, people never talk
+about smelling mental images of smells with the mind's nose, for example.
+We imagine popcorn, right, the smell of popcorn or buttered popcorn or whatever, but we don't
+fall into this thing like, oh, there must be this thing that the mind's nose is smelling
+in my head or something like that.
+And I think, I can't get past the feeling that when we start talking about these sense
+data or qualia or conscious experience stuff, that we aren't inventing something that isn't
+there.
+I mean, I guess Dan Dennett has a view that's similar to this.
+So I mean, this might be exactly his view.
+So maybe I'm a Danettian about this.
+Another interesting way to look at it, I have a guest, I really like having him, Chris Nebar,
+who is a neuroscientist, but he's also a Taoist.
+And his whole thing is that we have a right side mind, left side mind, and all this need
+to categorize and make sense out of stuff is the product of the left side brain.
+And the right side is more of a curious childlike kind of a brain that it doesn't matter what
+it means.
+It doesn't matter in what category fits, it's just that you're experiencing it.
+So try to make sense out of something with half of our brain, it just means that we're
+just making sense of maybe half of the thing that exists based on our own categorization
+of it.
+Yeah, that's right.
+I think you need the interplay of the two things, right?
+That is, you know, I'm immediately thinking of talking about concepts without percepts
+are empty, percepts without concepts are blind.
+So it's sort of like, and so you need that kind of organizational element, or you don't
+have any experience at all.
+But then once you get things organized, right, conceptually, perceptually, and so forth,
+you have to you have to keep interrogating the conceptual apparatus you've built for
+yourself.
+And you have to keep tearing it down and challenging it with I forget which side left or right
+is going to do that.
+But I guess that's the left, the right side of the brain is going to do that.
+But that doesn't matter.
+So you have, you know, so you need the two, this kind of interplay between the two.
+You can't let either side sort of get lazy on you.
+Yeah, now, when I talked to Chris, the whole thing is that the West has been dominant by
+the left side of the brain that, you know, we just make sense out of everything and be
+convinced that this is it.
+But obviously, we have huge amount of problems here.
+It seems like Western cultures and societies have figured the surface really well.
+But don't you dare look beneath that because we have no answer for it.
+And you're going to go rogue if you if you'd be curious a little too much about them.
+Yeah, no, people get very uncomfortable, right?
+Because people and myself included, I mean, I like, I mean, I like it that much.
+But I do take some security when things are neatly organized, I know.
+And the concepts we're throwing around, we know what we mean.
+And, you know, we know what freedom means.
+We know what a woman is, we know what this and that is.
+And when those concepts start breaking down, it's, it's an uncomfortable feeling.
+And it is true that in the West, we do get we do like to lock down concepts, right?
+You know, it's a very weird thing.
+I mean, this is I think this is related.
+But if it's not, you could say this is not related.
+But I was at one point, I was reading literature from Japanese business schools.
+I just just because I thought it was interesting.
+And there were the people that were working for 7-Eleven in Japan.
+And the question was, how do you categorize the things that you have in your store?
+What you're going to order?
+What I mean, you think about it, it would never occur to you that that is a puzzle or
+a problem that needs to be solved, right?
+But you know, if you think, say you're in 7-Eleven USA, you know, these are the things
+that we're going to keep in our store, you're going to be left behind pretty quickly.
+Because the fact that we like things need to be organized in this way today, there's
+no guarantee that you know, the next generation of people coming along or this crop of immigrants
+or whatever, or however people are changing, these people using Hiawaska are going to want
+to categorize things in the same way.
+So what the business, these business school guys were looking at 7-Eleven Japan and looking
+at ways in which they maintain fluid categorization of the concepts of the things they were keeping
+on inventory and the things they were selling and the things they were ordering.
+And a lot of that involved not just having, you know, it involved having multiple people
+with different categorizations and throwing those people together.
+And so that when you have people with very different ideas, like I mean, I guess this
+brings us back to the Lower East Side of New York in 1979, when you get people with different
+ideas and different ways of categorizing the world, something new and interesting is going
+to come out of that.
+Yeah, Japan is such an, have you been?
+Yeah, yeah, but not, I mean, not nearly enough to really be any sort of authority on it.
+Yeah, I've been once and like three years ago and all my childhood, you know, in Iran,
+I watched a lot of anime and Japan for me was like India for hippies.
+I always wanted to go and it did not disappoint.
+And I always use it as an example of how organically they are adapting to technology.
+Like you go to a temple that's been built like thousand years ago and there's a robot
+priest in the corner that you can go and talk to and everybody's like, yeah, that's how
+it is.
+Yeah, no, I mean, that's my experience too, is they have this way of blending technology
+with culture that I don't necessarily see in the United States.
+I see it in some places, but technology seems more alien to it in the United States for
+some reason.
+It's something different.
+It's something alien to broader culture.
+I mean, with exceptions like in California and techno pagans and things like that.
+Yeah, absolutely.
+How do you see this coming decade shaping our civilization?
+Because what we're going through right now this year, it seems like a dent to our civilization
+and the sense of certainty and big changes are coming.
+Seems like it.
+How do you see it?
+I see it that like every 50 years we get a revolutionary period.
+Now I hear your dog is like that.
+The last round was in the late 60s and before that around 1917 and then you go back I suppose
+1848.
+Basically twice a century we get into these revolutionary periods and then people onboard
+new ideas.
+You get these conflicts.
+I think they're healthy conflicts.
+Well, I mean, I need to be careful.
+I mean, they're not always healthy conflicts.
+Sometimes they lead to like massive scale genocides.
+I know exactly what you mean.
+I totally agree with you.
+Big picture-wise.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+We're seeing a lot of changes and right now I'm spending a lot of time in the decentralized
+finance little subculture of the cryptocurrency business.
+These are the people that are basically building platforms that are going to eliminate banks.
+They're going to eliminate insurance companies.
+They are going to eliminate lending institutions.
+They are going to eliminate the money transfer.
+You want to mention the name of some of them is XRP one of them?
+No.
+XRP is-
+Not really decentralized.
+Yeah.
+It's the evil one because they sold their soul and they're providing a platform for
+transferring information between big banks.
+So let's start with everyone knows Bitcoin and then the second one people might know
+is Ethereum and the coin is called ETH.
+What is interesting about Ethereum is that- let me start with Bitcoin.
+If you think of Bitcoin as being this ledger that we all share, it's all over the world.
+We can see who has what or what account number has what.
+So it's this giant shared ledger and if you think about it, what it does is it gives us
+a way of keeping track of money, doing the function that a bank does with that and also
+allows us to transfer money.
+So it eliminates one institution of human trust, so that's the key thing.
+Absolutely.
+Centralized trust, typically involving a big corporation or a big bank like Chase or JPMorgan
+and Chase or whatever.
+Now when Ethereum came along, this kid who was then 18 years old named Vitalik Buterin-
+Who I met once in Toronto.
+You met him?
+I met him once.
+I used to co-organize Toronto transhumanist meetups and I came across this man, Corey
+something.
+He passed away unfortunately.
+He was one of the early investors in Ethereum and they had this place called Decentral on
+Spadina and King and I just stopped by to see the place and he invited us to organize
+it there and Vitalik was there and this was like a year before Ethereum was released and
+really quickly just said hi, shook his hand and that was it.
+Yeah.
+No, I mean you should listen to his podcast if you could get him on.
+He's amazing.
+If you look at some of the podcasts he does, he's very kind of somewhat robotic in style
+but everything he says is like-
+I would love to have them.
+Yeah, absolutely.
+So I actually got in on there.
+I had some Bitcoin.
+I was Bitcoin mining at the time and then I read about this project and it said, well
+like if you send us a Bitcoin, we'll give you 2000 ETH.
+I said, all right, what the hell, because like a Bitcoin was not worth anything at the
+time.
+It was like $250.
+I said, what the hell, I'll get sent $250, I get 2000 ETH.
+Because the project sounded amazing because the idea is just as you can record this information
+on a Bitcoin blockchain and it's there, the whole history of this ledger is there for
+everyone to look at, set in stone, Vitalik pointed out that, well, I can encode any amount
+of information.
+I'm going to build a blockchain where you could encode enough information so that you
+could encode in any computer program.
+Tokenize everything basically.
+Tokenize everything and not only that, but you could activate these things so we could
+build a contract that would execute itself.
+Smart contracts.
+You wouldn't need, right.
+So there you go.
+You don't need an organization of trust in order to hold the money for us or even make
+sure that the contract is executed.
+It just automatically gets executed.
+And given that the language is, as we say, Turing complete, any contract that you can
+write that's computable can be put into the blockchain.
+And people for the, I guess, Ethereum just had its fifth birthday a couple of weeks ago
+and it's taken some time for it to find its feet.
+But right now there is a segment of crypto called decentralized finance or DeFi in which
+people are now taking these tools and they are really going to town with these tools
+and really doing things like issuing loans.
+People are now putting mortgages on the blockchain.
+People are engaged in, well, obviously fancy things like futures and futures markets and
+so forth.
+Insurance.
+So the thinking is that eventually people are going to wake up to the idea that we don't
+need to pay some middleman to sit in a big fancy bank in a giant building on Fifth Avenue
+to do all this stuff and to hold our money and to invest that money in a carbon bubble
+or the military industrial complex or anything like that.
+You and I and all of our friends and people like us can just submit small amounts of money
+into these contracts and then we basically build our own hedge fund, for example.
+And we have like computers that are doing arbitrage for us.
+We don't need big fancy companies to do that.
+And so just as you don't see at Tower Records anymore, you don't have to go to Tower Records
+to buy music, it's very rare to see giant bookstores these days, you buy all that stuff
+on Amazon, Lord willing, these corporations, giant banks, giant insurance companies, they're
+all going to go the way of Tower Records as well.
+I totally agree.
+I had just briefly, I had John McAfee on.
+I saw that interview, yeah, that was hilarious.
+That was a trip.
+I was amazed that you were able to get into a word edgewise though because he'll keep
+rolling.
+Oh yeah.
+And in the beginning, he was like, just so you know, I keep drinking throughout the interview.
+So his thing, his thesis was that Bitcoin is going to go down and will do any other
+cryptocurrency that does not have anonymity into it.
+So I think he has a new coin.
+I'm not recommending it.
+He said Monero.
+Ghost also is something that I think he has developed himself or with a bunch of people
+he's been backing, but Monero, because of anonymity part of it.
+But I guess that goes back to libertarianism.
+That's more important to him than it is to us.
+But yeah, well, that'll be interesting.
+That's entirely possible.
+That's entirely possible, in which case, yeah, these coins that do a better job of mixing
+up the transactions.
+So for example, right now, it's very easy to decipher our transactions using Bitcoin
+because here's an account.
+It went from me to this account and people figure out it's mine, they figure out it's
+yours, and pretty soon they can reconstruct a network.
+But when you get to things like Monero, it's basically mixing the transactions up.
+So you don't really know who it's coming from or who it's going to.
+Excellent.
+Well, Peter, this was awesome.
+I was looking forward to this conversation and definitely didn't disappoint.
+What is next for you and where can our audience follow your work?
+You mentioned you were working on two projects.
+Yeah, let's see.
+You know, I have some basic website that just keeps track of the basic stuff.
+And I've just created a new Twitter account.
+And again, my extended mine is kind of offline here right now.
+So let's just have people start there.
+I think, you know, they know how to use the internet, they can find me.
+Excellent.
+Let me ask you, I actually look for you on Twitter because the final product you've seen
+my podcast, I put the Twitter handle on the bottom, I couldn't find yours.
+I think I found a post from a couple of years ago, but your account was deleted.
+So I'm going to add that to the notes after the show.
+Yeah, I think the Twitter account I'm using right now is brand new.
+I have like 10 followers, so you guys can help me out with this.
+Let me see.
+I think it's...
+Wait, I'm going to check right now.
+But the name is EJ Spode, as in letter E, letter J, Spode, S-P-O-D-E.
+And I'm just checking here right now to see if there is some underscore involved in that.
+EJ underscores Spode.
+Also, I have a couple of papers online under that pseudonym as well.
+I have a book review of the Kingdom of Language by Tom Wolfe and a paper actually, it's on
+Ethereum and this issue of trust and the limits of decentralized trust.
+And a couple of other papers under that name, but I've just fired up this Twitter account,
+EJ underscores Spode.
+Yeah, tell your listeners or watchers to add it so I have...
+It's really embarrassing because I only have like 10 followers at this point.
+Well, and Rome wasn't built overnight, so...
+Let me ask you the final question I ask all my guests, that if you come across an intelligent
+alien from a different civilization, what would you say is the worst thing humanity
+has done and what would you say is our greatest achievement?
+See, I need to watch your podcast to the very end because then I would be prepared for this.
+I'm glad you didn't because just getting caught off guard is one of the best moments of each
+episode.
+Yeah.
+So, okay.
+So, it's the best and worst of humanity.
+That's what I have to explain to this alien.
+Well, I think that the worst thing is that we imagine ourselves as being somehow above
+the natural realm and that we are somehow alien to the natural realm or we're somehow
+different from it.
+And maybe that's also the best thing because it means we're questioning who we are and
+even if we're getting it wrong and even if we're thinking we're special in a way that
+we're not, I mean, at least we're asking the question.
+So, the best thing is also the worst thing and let the alien ponder that and sort it
+out.
+Awesome.
+you
