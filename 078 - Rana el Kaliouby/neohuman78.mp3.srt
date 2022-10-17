@@ -1,0 +1,3052 @@
+1
+00:00:00,000 --> 00:00:06,480
+I just wonder once we're able to decode our emotions and quantify them, how can we apply
+
+2
+00:00:06,480 --> 00:00:13,000
+them in a way that augments our intelligence and gives us these superpowers across the
+
+3
+00:00:13,000 --> 00:00:16,000
+board?
+
+4
+00:00:16,000 --> 00:00:25,440
+Hello, and welcome to the 78th episode of Neohuman Podcasts.
+
+5
+00:00:25,440 --> 00:00:29,540
+I'm Agabahari, an ecologist on Twitter and Instagram, and you can follow the show on
+
+6
+00:00:29,540 --> 00:00:34,360
+LiveInLimbo.com, iTunes, YouTube, BitChute, and soon on Spotify.
+
+7
+00:00:34,360 --> 00:00:37,640
+And today with me, I have Rana El-Kalyoubi.
+
+8
+00:00:37,640 --> 00:00:39,200
+Welcome to Neohuman Podcasts, Rana.
+
+9
+00:00:39,200 --> 00:00:40,760
+Thank you for having me.
+
+10
+00:00:40,760 --> 00:00:41,760
+It's a pleasure.
+
+11
+00:00:41,760 --> 00:00:45,520
+Let's start with your background, the work you've done, the lives you've lived, and
+
+12
+00:00:45,520 --> 00:00:48,720
+what are you mainly focused on now these days?
+
+13
+00:00:48,720 --> 00:00:56,600
+Well, I am co-founder and CEO of an MIT startup called Affectiva, and we are on a mission
+
+14
+00:00:56,600 --> 00:01:02,200
+to humanize technology by building artificial emotional intelligence, so I can say a little
+
+15
+00:01:02,200 --> 00:01:03,480
+bit more about that.
+
+16
+00:01:03,480 --> 00:01:11,000
+But also, I just launched my book, Girl Decoded, and it's a memoir, so it's an intertwining
+
+17
+00:01:11,000 --> 00:01:14,360
+of my personal story and the story of the technology I've built.
+
+18
+00:01:14,360 --> 00:01:17,840
+Are you originally from Egypt?
+
+19
+00:01:17,840 --> 00:01:18,840
+That's right.
+
+20
+00:01:18,840 --> 00:01:21,560
+I was born in Egypt.
+
+21
+00:01:21,560 --> 00:01:28,840
+I'm Egyptian, now Egyptian-American, but then I also grew up in Kuwait and Abu Dhabi.
+
+22
+00:01:28,840 --> 00:01:35,600
+How old were you when you left the region?
+
+23
+00:01:35,600 --> 00:01:40,960
+I was born in Cairo, and then we were in Kuwait until the first Gulf War, so I was about 10
+
+24
+00:01:40,960 --> 00:01:43,920
+when we had to evacuate our home there.
+
+25
+00:01:43,920 --> 00:01:49,540
+And then I was in Abu Dhabi until I finished high school, studied computer science at the
+
+26
+00:01:49,540 --> 00:01:56,160
+American University in Cairo, and then moved to Cambridge University at about 19 years
+
+27
+00:01:56,160 --> 00:01:57,160
+old.
+
+28
+00:01:57,160 --> 00:01:59,520
+And I've been back and forth a lot since then.
+
+29
+00:01:59,520 --> 00:02:05,760
+Yeah, the reason I ask because it's very important, I think, to have the perspective about those
+
+30
+00:02:05,760 --> 00:02:10,240
+kind of societies with respect to technology and artificial intelligence and governance
+
+31
+00:02:10,240 --> 00:02:11,240
+and all of that.
+
+32
+00:02:11,240 --> 00:02:15,520
+And I want to talk to you about all of that in the next, hopefully, an hour, maybe a little
+
+33
+00:02:15,520 --> 00:02:16,840
+more.
+
+34
+00:02:16,840 --> 00:02:18,040
+But let's start with your book.
+
+35
+00:02:18,040 --> 00:02:23,060
+The book is called Geralt Dakota, The Scientist's Quest to Reclaim Our Humanity by Bringing
+
+36
+00:02:23,060 --> 00:02:26,500
+Emotional Intelligence to Technology.
+
+37
+00:02:26,500 --> 00:02:31,920
+What made you write a book, and what the book is all about, and what are you trying to express
+
+38
+00:02:31,920 --> 00:02:35,560
+mainly to the audience?
+
+39
+00:02:35,560 --> 00:02:41,700
+I would say I initially wanted to write the book because I wanted to really tell the world
+
+40
+00:02:41,700 --> 00:02:47,900
+about emotion AI and what are the applications of it and what are the ethical and moral implications.
+
+41
+00:02:47,900 --> 00:02:52,560
+And as I started writing the book, I also realized that my own path to coming to this
+
+42
+00:02:52,560 --> 00:02:58,480
+is really unique, and I had to overcome a lot of cultural and societal norms and find
+
+43
+00:02:58,480 --> 00:02:59,520
+my own voice.
+
+44
+00:02:59,520 --> 00:03:03,860
+So I really wanted to be a story about humanity and just kind of an inspirational story for
+
+45
+00:03:03,860 --> 00:03:10,520
+everybody out there that's trying to figure out their own career and kind of sense of
+
+46
+00:03:10,520 --> 00:03:11,520
+purpose.
+
+47
+00:03:11,520 --> 00:03:15,280
+What made you interested in artificial intelligence?
+
+48
+00:03:15,280 --> 00:03:20,920
+You know, it was really kind of this realization that technology changes the way we connect
+
+49
+00:03:20,920 --> 00:03:21,920
+as humans.
+
+50
+00:03:21,920 --> 00:03:23,400
+So it's a very human story.
+
+51
+00:03:23,400 --> 00:03:24,800
+It's not about the technology.
+
+52
+00:03:24,800 --> 00:03:27,360
+It's really about how we connect and communicate.
+
+53
+00:03:27,360 --> 00:03:33,160
+And when I first got to Cambridge University for my PhD, I realized I was spending so much
+
+54
+00:03:33,160 --> 00:03:40,560
+time on my device like all of us do, yet this machine had absolutely no clue how I was feeling.
+
+55
+00:03:40,560 --> 00:03:46,920
+And even worse, it was the main device I used to communicate with my family back home because
+
+56
+00:03:46,920 --> 00:03:52,520
+international calls were and still are very expensive.
+
+57
+00:03:52,520 --> 00:03:56,320
+And I realized that a lot of the richness of, you know, I come from the Middle East, so
+
+58
+00:03:56,320 --> 00:03:58,400
+we're very emotive and very expressive.
+
+59
+00:03:58,400 --> 00:04:02,840
+And I felt like all of the richness of this nonverbal communication kind of disappeared
+
+60
+00:04:02,840 --> 00:04:04,640
+in cyberspace.
+
+61
+00:04:04,640 --> 00:04:09,800
+And that got me, I started asking a question like, what if machines could understand human
+
+62
+00:04:09,800 --> 00:04:13,280
+emotions just like we do?
+
+63
+00:04:13,280 --> 00:04:14,480
+And that was 20 years ago.
+
+64
+00:04:14,480 --> 00:04:19,600
+So I've been on this journey for the past 20 years trying to build that.
+
+65
+00:04:19,600 --> 00:04:23,760
+I was looking forward to talk to you because I've talked to a number of people in the field
+
+66
+00:04:23,760 --> 00:04:29,680
+of AI, but every single one of them have been with respect to thinking side of our brain
+
+67
+00:04:29,680 --> 00:04:32,400
+and thinking side of, you know, the society.
+
+68
+00:04:32,400 --> 00:04:37,120
+The emotional AI, it was the first time that I heard about it.
+
+69
+00:04:37,120 --> 00:04:43,040
+And it's actually pretty consistent because IQ, I knew about since it was maybe four,
+
+70
+00:04:43,040 --> 00:04:45,160
+three, five, something like that.
+
+71
+00:04:45,160 --> 00:04:49,960
+But EQ, I learned about, which is emotional intelligence in my 20s.
+
+72
+00:04:49,960 --> 00:04:56,280
+So what is the definition of emotional AI and what are the implications of it?
+
+73
+00:04:56,280 --> 00:04:59,240
+Yeah, let's start with humans, you're absolutely right.
+
+74
+00:04:59,240 --> 00:05:05,680
+So if you look at the research in the past, like 60, 70 years, our IQ matters, your cognitive
+
+75
+00:05:05,680 --> 00:05:10,660
+intelligence matters, but actually your emotional intelligence matters just as much in day to
+
+76
+00:05:10,660 --> 00:05:11,840
+day life.
+
+77
+00:05:11,840 --> 00:05:16,540
+So people who have higher EQs, which is your emotional quotient, your ability to read and
+
+78
+00:05:16,540 --> 00:05:21,640
+understand and adapt to other people's emotions, they tend to be more likable.
+
+79
+00:05:21,640 --> 00:05:23,000
+They're more persuasive.
+
+80
+00:05:23,000 --> 00:05:24,360
+They're better managers.
+
+81
+00:05:24,360 --> 00:05:28,080
+They have more successful professional and personal lives.
+
+82
+00:05:28,080 --> 00:05:33,460
+And I believe that that's true for technology as well, especially technology that is mainstream
+
+83
+00:05:33,460 --> 00:05:36,240
+and interacts with us on a daily basis.
+
+84
+00:05:36,240 --> 00:05:37,240
+So you're right.
+
+85
+00:05:37,240 --> 00:05:42,520
+A lot of the focus on AI is about automation and being more efficient and more productive.
+
+86
+00:05:42,520 --> 00:05:43,520
+Okay.
+
+87
+00:05:43,520 --> 00:05:50,080
+But what about it being more humane and helping us be more human and more empathetic and more
+
+88
+00:05:50,080 --> 00:05:54,400
+connected with each other, which are very important parts of life as well.
+
+89
+00:05:54,400 --> 00:05:59,440
+And so that's been my focus to try and bring that EQ element into AI.
+
+90
+00:05:59,440 --> 00:06:05,240
+There's also the elements of automation with respect to emotional AI as well, right?
+
+91
+00:06:05,240 --> 00:06:09,840
+Let me just read for, because some people watch this, some people will listen to it.
+
+92
+00:06:09,840 --> 00:06:15,200
+This is a description of emotion measurement technology that is a technology that your
+
+93
+00:06:15,200 --> 00:06:21,320
+company pursues and says, effective as technology enables software application to use a webcam
+
+94
+00:06:21,320 --> 00:06:26,460
+to track a user's smirks, smiles, frowns, and furrows, which measures a user's level
+
+95
+00:06:26,460 --> 00:06:28,840
+of surprise, amusement, or confusion.
+
+96
+00:06:28,840 --> 00:06:34,720
+The technology also allows a person's heart rate to be measured from a webcam without
+
+97
+00:06:34,720 --> 00:06:38,160
+the person wearing a sensor.
+
+98
+00:06:38,160 --> 00:06:42,320
+So a lot of positive application, but I'm sure a lot of people are freaked out about
+
+99
+00:06:42,320 --> 00:06:47,520
+it too, because we are dealing with text-based and image-based and video-based kind of social
+
+100
+00:06:47,520 --> 00:06:51,480
+media and content creation at this point, and everybody's losing their mind at how
+
+101
+00:06:51,480 --> 00:06:57,760
+these data is being collected, who owns it, and all the biases that exist about interpreting
+
+102
+00:06:57,760 --> 00:06:59,120
+those data.
+
+103
+00:06:59,120 --> 00:07:07,240
+So I would imagine how is this going to affect every day kind of a person if you can look
+
+104
+00:07:07,240 --> 00:07:12,000
+at it from purely a user base, because this is a technology that you guys, I believe,
+
+105
+00:07:12,000 --> 00:07:16,040
+are licensing to different companies?
+
+106
+00:07:16,040 --> 00:07:17,040
+Kind of.
+
+107
+00:07:17,040 --> 00:07:18,040
+I can talk about the applications.
+
+108
+00:07:18,040 --> 00:07:19,040
+Okay.
+
+109
+00:07:19,040 --> 00:07:20,040
+Let's start with that.
+
+110
+00:07:20,040 --> 00:07:24,960
+And then I want to talk about in the societal scale, because it's not only going to be
+
+111
+00:07:24,960 --> 00:07:29,080
+a webcam, it's going to be, if there is a surveillance camera on the street, this will
+
+112
+00:07:29,080 --> 00:07:33,280
+be a technology that will be used there for good reasons and also negative reasons, because
+
+113
+00:07:33,280 --> 00:07:34,280
+it's a tool.
+
+114
+00:07:34,280 --> 00:07:35,280
+Right?
+
+115
+00:07:35,280 --> 00:07:38,000
+It depends on human intention how they want to use it.
+
+116
+00:07:38,000 --> 00:07:39,000
+Right.
+
+117
+00:07:39,000 --> 00:07:40,000
+Yes.
+
+118
+00:07:40,000 --> 00:07:41,600
+And I feel very passionately about that.
+
+119
+00:07:41,600 --> 00:07:47,360
+And we as a company have drawn a very clear line on where we want to see this technology
+
+120
+00:07:47,360 --> 00:07:53,840
+being used and where we will just not license the technology or build products for industries.
+
+121
+00:07:53,840 --> 00:07:59,440
+So I want to start with the positives first, because I really do think, I mean, I'm biased
+
+122
+00:07:59,440 --> 00:08:03,440
+because I'm passionate about this, but I really do think there are real transformative use
+
+123
+00:08:03,440 --> 00:08:05,720
+cases for this technology.
+
+124
+00:08:05,720 --> 00:08:11,380
+As a company, we're very focused on the automotive industry, where, you know, if you have a sensor
+
+125
+00:08:11,380 --> 00:08:17,960
+in the vehicle that can detect signs of distraction or signs of drowsiness, levels of drowsiness,
+
+126
+00:08:17,960 --> 00:08:23,640
+if you are moderately drowsy or severely drowsy or even asleep, we've seen examples of people
+
+127
+00:08:23,640 --> 00:08:25,680
+like literally driving while they're asleep.
+
+128
+00:08:25,680 --> 00:08:27,240
+Well, the car can take action.
+
+129
+00:08:27,240 --> 00:08:29,640
+The car can alert you.
+
+130
+00:08:29,640 --> 00:08:34,720
+It can even take more aggressive action, like, you know, if it's a Tesla, for example, and
+
+131
+00:08:34,720 --> 00:08:38,680
+it has semi-autonomous capabilities, it can say, well, you know what, I'm going to be
+
+132
+00:08:38,680 --> 00:08:42,000
+a better driver than you are right now because you're so tired.
+
+133
+00:08:42,000 --> 00:08:44,140
+I'm taking over control.
+
+134
+00:08:44,140 --> 00:08:51,400
+So I think this kind of human machine partnership, especially in the context of automotive, can
+
+135
+00:08:51,400 --> 00:08:53,520
+really increase the safety of our roads.
+
+136
+00:08:53,520 --> 00:08:58,640
+Another example is we now have child seat detectors and we can detect if there are children
+
+137
+00:08:58,640 --> 00:09:01,320
+left behind in the car.
+
+138
+00:09:01,320 --> 00:09:07,880
+This doesn't happen a lot, but when it happens, it's obviously horrific for the parents because
+
+139
+00:09:07,880 --> 00:09:12,580
+often these children just die of heat in the vehicle.
+
+140
+00:09:12,580 --> 00:09:19,520
+So that's another example where technology can act as the ears and eyes inside the car.
+
+141
+00:09:19,520 --> 00:09:20,880
+So that's one use case.
+
+142
+00:09:20,880 --> 00:09:21,880
+Another amazing use case.
+
+143
+00:09:21,880 --> 00:09:24,400
+So animals when they're being left in the car.
+
+144
+00:09:24,400 --> 00:09:25,400
+Absolutely.
+
+145
+00:09:25,400 --> 00:09:28,240
+That's another one too, exactly.
+
+146
+00:09:28,240 --> 00:09:32,640
+Another one, which I'm very passionate about is the whole area of health and especially
+
+147
+00:09:32,640 --> 00:09:34,080
+mental health.
+
+148
+00:09:34,080 --> 00:09:35,960
+We did a lot of work in autism.
+
+149
+00:09:35,960 --> 00:09:38,080
+It was the first project.
+
+150
+00:09:38,080 --> 00:09:41,600
+It was actually the project that brought me over to the United States.
+
+151
+00:09:41,600 --> 00:09:48,000
+So we were building like a Google Glass like device that can give real time feedback to
+
+152
+00:09:48,000 --> 00:09:55,040
+kids on the autism spectrum about like nonverbal signals and making face and eye contact.
+
+153
+00:09:55,040 --> 00:10:02,480
+We also have people who are looking into like early signs of Parkinson's.
+
+154
+00:10:02,480 --> 00:10:07,520
+You can use this to detect stress, anxiety, depression.
+
+155
+00:10:07,520 --> 00:10:09,040
+So there's really a lot of potential.
+
+156
+00:10:09,040 --> 00:10:10,440
+I'm not saying we're there yet.
+
+157
+00:10:10,440 --> 00:10:12,280
+There needs to be a lot more work to be done.
+
+158
+00:10:12,280 --> 00:10:15,440
+But it can, I mean, we're in front of our machines all the time.
+
+159
+00:10:15,440 --> 00:10:19,640
+So that could be an opportunity to really understand your baseline.
+
+160
+00:10:19,640 --> 00:10:24,440
+And if we start seeing a deviation from that, we can flag that to you or a family member
+
+161
+00:10:24,440 --> 00:10:26,100
+or a clinician.
+
+162
+00:10:26,100 --> 00:10:29,520
+So that's another area where it can be really transformative.
+
+163
+00:10:29,520 --> 00:10:34,120
+So what you said with respect to cars, it sounds like that it can be used as a bridge
+
+164
+00:10:34,120 --> 00:10:35,960
+to full autonomy.
+
+165
+00:10:35,960 --> 00:10:42,160
+Because by the time that cars can drive themselves, whatever state the driver is in, it doesn't
+
+166
+00:10:42,160 --> 00:10:44,180
+really matter because the car is in charge.
+
+167
+00:10:44,180 --> 00:10:49,480
+But we are, I don't know how far we are away from that.
+
+168
+00:10:49,480 --> 00:10:57,000
+But again, the issue of privacy, which I think we have to really move on beyond the conventional
+
+169
+00:10:57,000 --> 00:11:01,680
+definition of privacy, that it's non-existent at this point.
+
+170
+00:11:01,680 --> 00:11:03,640
+Because a lot of data is being collected.
+
+171
+00:11:03,640 --> 00:11:06,560
+But it's just a matter of who's collecting them.
+
+172
+00:11:06,560 --> 00:11:08,200
+How are they using them?
+
+173
+00:11:08,200 --> 00:11:13,000
+And also very important, I think, is that why aren't users getting paid for the data
+
+174
+00:11:13,000 --> 00:11:16,960
+that they're generating?
+
+175
+00:11:16,960 --> 00:11:17,960
+I hear you.
+
+176
+00:11:17,960 --> 00:11:20,560
+I'm absolutely on the same page with you.
+
+177
+00:11:20,560 --> 00:11:26,960
+So when we first started the company, my co-founder, who's an MIT professor, Rosalind Picard, and
+
+178
+00:11:26,960 --> 00:11:31,640
+I kind of sat around her kitchen table and we were like, OK, there are so many applications
+
+179
+00:11:31,640 --> 00:11:33,320
+of this technology.
+
+180
+00:11:33,320 --> 00:11:36,480
+What are we going to say yes to and what are we going to say no to?
+
+181
+00:11:36,480 --> 00:11:40,500
+And we decided on a set of core values to help us make these decisions.
+
+182
+00:11:40,500 --> 00:11:44,760
+So one is respecting that this is very personal data.
+
+183
+00:11:44,760 --> 00:11:50,280
+And so everything we do, we do on a consent and opt-in basis.
+
+184
+00:11:50,280 --> 00:11:54,400
+So any application where people don't know that they're being recorded or they're being
+
+185
+00:11:54,400 --> 00:11:58,100
+kind of tracked, then we basically decline that.
+
+186
+00:11:58,100 --> 00:12:00,760
+And that has implications on surveillance, for example.
+
+187
+00:12:00,760 --> 00:12:05,320
+We never do anything in the surveillance or security or lie detection space, because usually
+
+188
+00:12:05,320 --> 00:12:08,240
+people or consumers don't really know.
+
+189
+00:12:08,240 --> 00:12:11,520
+They might know that the cameras are there, but they don't really know how it's being
+
+190
+00:12:11,520 --> 00:12:12,520
+used.
+
+191
+00:12:12,520 --> 00:12:15,080
+The second is this transparency around usage.
+
+192
+00:12:15,080 --> 00:12:20,320
+I mean, even now with all of our devices, you get these long, like, five-page agreements
+
+193
+00:12:20,320 --> 00:12:25,840
+and you just click, I agree, because nobody reads them because they're too complicated
+
+194
+00:12:25,840 --> 00:12:27,760
+and they're not transparent.
+
+195
+00:12:27,760 --> 00:12:34,240
+And we're big advocates of just a very clear, plain English consenting form.
+
+196
+00:12:34,240 --> 00:12:35,920
+We're going to turn on the camera.
+
+197
+00:12:35,920 --> 00:12:37,620
+Here's how we're going to use the data.
+
+198
+00:12:37,620 --> 00:12:40,280
+Here's what you're getting in return for it.
+
+199
+00:12:40,280 --> 00:12:45,360
+I think we need more tech companies to kind of adopt that approach.
+
+200
+00:12:45,360 --> 00:12:49,120
+And then the third is what we're calling power asymmetry.
+
+201
+00:12:49,120 --> 00:12:56,540
+If you look around, a small number of companies and governments have access to the majority
+
+202
+00:12:56,540 --> 00:12:57,540
+of the data.
+
+203
+00:12:57,540 --> 00:12:59,720
+There's this power asymmetry.
+
+204
+00:12:59,720 --> 00:13:01,840
+And I think we need to rebalance that to your point.
+
+205
+00:13:01,840 --> 00:13:05,440
+Like, if I'm going to give up such personal data, like, what am I getting in return for
+
+206
+00:13:05,440 --> 00:13:06,440
+it?
+
+207
+00:13:06,440 --> 00:13:07,440
+And I think it could be monetary.
+
+208
+00:13:07,440 --> 00:13:12,400
+It could be other types of value, but we need to rebalance the power here.
+
+209
+00:13:12,400 --> 00:13:17,040
+Yeah, the reason I'm talking about the monetary aspect of it is because we're talking a lot
+
+210
+00:13:17,040 --> 00:13:24,680
+right now about how a lot of jobs are not going to come back, like 40% of jobs, supposedly.
+
+211
+00:13:24,680 --> 00:13:28,780
+And people are talking about universal basic income and how we can...
+
+212
+00:13:28,780 --> 00:13:35,820
+And I'm like, we are becoming our own careers just by generating data because these companies
+
+213
+00:13:35,820 --> 00:13:36,960
+are collecting data.
+
+214
+00:13:36,960 --> 00:13:39,760
+We're becoming trillionaires.
+
+215
+00:13:39,760 --> 00:13:46,240
+And users, not only they don't own their data, they're not getting anything in return.
+
+216
+00:13:46,240 --> 00:13:53,400
+So you might once in a while get like 1200 bucks check in the mail, which is just laughable
+
+217
+00:13:53,400 --> 00:13:55,400
+and think about, hey, how am I going to...
+
+218
+00:13:55,400 --> 00:14:01,680
+And it just seems like this process of automation and digitization, it's not going to stop with
+
+219
+00:14:01,680 --> 00:14:03,320
+where are we right now?
+
+220
+00:14:03,320 --> 00:14:06,160
+Because at some point, we're talking about emotional AI right now.
+
+221
+00:14:06,160 --> 00:14:12,440
+But what will happen when we have, at some point, nanobots monitoring inside of our body
+
+222
+00:14:12,440 --> 00:14:15,240
+for all the good reasons, right?
+
+223
+00:14:15,240 --> 00:14:22,800
+But we becoming this data generators, I don't want to misuse the term, but it really can
+
+224
+00:14:22,800 --> 00:14:29,120
+suggest that at some point, if there will be very few people at the top with these massive
+
+225
+00:14:29,120 --> 00:14:34,920
+corporations and companies, you will be slave data generators who are creating a lot of
+
+226
+00:14:34,920 --> 00:14:39,760
+opportunities and a lot of wealth for very few people and you get nothing in return.
+
+227
+00:14:39,760 --> 00:14:43,520
+So it's a big concern aside from the privacy aspect of it.
+
+228
+00:14:43,520 --> 00:14:45,400
+Yes, I agree with that.
+
+229
+00:14:45,400 --> 00:14:54,040
+And there has to be a different data model, a monetization and model here, business model.
+
+230
+00:14:54,040 --> 00:14:59,560
+One of the reasons I wrote the book is I really wanted the consumer, the average consumer
+
+231
+00:14:59,560 --> 00:15:02,960
+to be part of this conversation.
+
+232
+00:15:02,960 --> 00:15:08,040
+And what you find is because AI is such a black box and a lot of people have a lot of
+
+233
+00:15:08,040 --> 00:15:13,520
+misconceptions around what it is, how does it work, then the average consumer is not
+
+234
+00:15:13,520 --> 00:15:14,720
+part of this dialogue.
+
+235
+00:15:14,720 --> 00:15:21,360
+And I think as this evolves in terms of ethics and business models and who owns the data,
+
+236
+00:15:21,360 --> 00:15:25,880
+all of these dialogues, I think we need everybody around the table to ensure that it works for
+
+237
+00:15:25,880 --> 00:15:26,880
+all of us.
+
+238
+00:15:26,880 --> 00:15:32,800
+What are your thoughts on decentralization of data using blockchain?
+
+239
+00:15:32,800 --> 00:15:35,600
+I think that that is very interesting.
+
+240
+00:15:35,600 --> 00:15:42,200
+I haven't seen it done in our space, so there's probably actually some potential for innovation
+
+241
+00:15:42,200 --> 00:15:43,200
+there.
+
+242
+00:15:43,200 --> 00:15:45,520
+Yeah, but I do think that that is interesting.
+
+243
+00:15:45,520 --> 00:15:49,800
+Yeah, because the concept of trust itself, it seems like it's not really reliable to
+
+244
+00:15:49,800 --> 00:15:54,840
+say, well, we don't trust this CEO, let's replace him with another CEO.
+
+245
+00:15:54,840 --> 00:16:00,640
+It's just that transparency and the community owning the data that is being shared on a
+
+246
+00:16:00,640 --> 00:16:05,160
+decentralized basis seems like a more viable kind of an approach rather than relying on
+
+247
+00:16:05,160 --> 00:16:08,040
+any specific kind of individual.
+
+248
+00:16:08,040 --> 00:16:09,820
+Yeah, absolutely.
+
+249
+00:16:09,820 --> 00:16:14,940
+So the book is called Girl Decoded, a scientist quest to reclaim our humanity by bringing
+
+250
+00:16:14,940 --> 00:16:18,160
+emotional intelligence to a technology.
+
+251
+00:16:18,160 --> 00:16:23,920
+What are some of the elements of humanizing machines and technology from your perspective
+
+252
+00:16:23,920 --> 00:16:31,040
+that needs to be taken in a very solid kind of a steps moving into this crazy decade that
+
+253
+00:16:31,040 --> 00:16:34,280
+is ahead of us?
+
+254
+00:16:34,280 --> 00:16:36,760
+I think there's a few things.
+
+255
+00:16:36,760 --> 00:16:42,120
+So first of all, it's this kind of going back to this idea that we need to marry IQ and
+
+256
+00:16:42,120 --> 00:16:48,160
+EQ in all of our technology platforms and take a very human centered approach to designing
+
+257
+00:16:48,160 --> 00:16:49,160
+this.
+
+258
+00:16:49,160 --> 00:16:53,040
+So to designing, building and deploying it.
+
+259
+00:16:53,040 --> 00:16:58,800
+For me, when we sit around the table and design, what is the next version of a conversational
+
+260
+00:16:58,800 --> 00:16:59,920
+agent going to look like?
+
+261
+00:16:59,920 --> 00:17:04,680
+It can't just be about the transactional function of that device.
+
+262
+00:17:04,680 --> 00:17:09,160
+It has to also include the human elements and I think that's really important.
+
+263
+00:17:09,160 --> 00:17:16,520
+And then I really, if you kind of dissect how people communicate, only 10% of the way
+
+264
+00:17:16,520 --> 00:17:22,400
+we communicate is in the choice of words we use, 90% is nonverbal and it's split kind
+
+265
+00:17:22,400 --> 00:17:27,920
+of equally between your facial expressions, your hand gestures and your vocal intonations.
+
+266
+00:17:27,920 --> 00:17:32,840
+So I think, and especially now that we are connecting with this pandemic, a lot of our
+
+267
+00:17:32,840 --> 00:17:39,360
+communication is becoming virtual, whether in the way we conduct business or in the way
+
+268
+00:17:39,360 --> 00:17:44,680
+kids are learning or even patient doctors are connecting.
+
+269
+00:17:44,680 --> 00:17:50,160
+I think we're going to see a layer of innovation that incorporates emotion AI to quantify these
+
+270
+00:17:50,160 --> 00:17:56,000
+nonverbal signals and then you can draw all sorts of really interesting insights.
+
+271
+00:17:56,000 --> 00:18:01,920
+One example, actually two examples if you don't mind, because I feel very passionate
+
+272
+00:18:01,920 --> 00:18:02,920
+about those.
+
+273
+00:18:02,920 --> 00:18:09,840
+I've had to pivot away from what you would expect a book tour to look like and I've been
+
+274
+00:18:09,840 --> 00:18:16,400
+doing these virtual book events and these typically involve, I'm giving a Zoom or a
+
+275
+00:18:16,400 --> 00:18:21,240
+live stream to hundreds of people and I can't see any of them.
+
+276
+00:18:21,240 --> 00:18:25,280
+And it's so hard because you can't really rip off their energy the way you would in
+
+277
+00:18:25,280 --> 00:18:27,160
+a live auditorium.
+
+278
+00:18:27,160 --> 00:18:31,320
+But I imagine if emotion AI was integrated, you could get real time feedback.
+
+279
+00:18:31,320 --> 00:18:36,800
+I could just aggregate everybody's emotional engagement and I could see if they find, you
+
+280
+00:18:36,800 --> 00:18:41,360
+know what I say, interesting, are they engaged, are they totally confused, are they bored
+
+281
+00:18:41,360 --> 00:18:43,480
+to death?
+
+282
+00:18:43,480 --> 00:18:47,440
+So I think that's one area that's really powerful.
+
+283
+00:18:47,440 --> 00:18:49,480
+And then how we connect with our teams, right?
+
+284
+00:18:49,480 --> 00:18:56,920
+Like I have a global team and now that we're all kind of dispersed and working from home,
+
+285
+00:18:56,920 --> 00:19:03,320
+I just keep wondering like, is the team engaged, you know, are they committed, are they stressed?
+
+286
+00:19:03,320 --> 00:19:08,960
+And I just want to know because then I can be proactive as a leader, so I miss that.
+
+287
+00:19:08,960 --> 00:19:10,360
+That's fascinating.
+
+288
+00:19:10,360 --> 00:19:20,200
+I'm just thinking as a speaker, you can wear a glass and become a forensic psychologist,
+
+289
+00:19:20,200 --> 00:19:29,840
+a public speaking guru and it gives you real time data that you can tweak yourself according
+
+290
+00:19:29,840 --> 00:19:30,840
+to that.
+
+291
+00:19:30,840 --> 00:19:37,040
+And then the question would be what would be the difference between human response and
+
+292
+00:19:37,040 --> 00:19:43,100
+this information and data that is being collected and presented to humans by machines, right?
+
+293
+00:19:43,100 --> 00:19:49,240
+Because that's one of the arguments that Elon Musk is making for Neuralink that our biggest
+
+294
+00:19:49,240 --> 00:19:53,960
+disconnect with the machines is the rate of input.
+
+295
+00:19:53,960 --> 00:19:57,760
+That's so interesting.
+
+296
+00:19:57,760 --> 00:19:59,920
+That's a very big consideration.
+
+297
+00:19:59,920 --> 00:20:05,100
+For example, we generate, like our technology generates about like, you know, at 30 frames
+
+298
+00:20:05,100 --> 00:20:12,800
+a second, about 50 or 60 variables, right, and that's overwhelming, right?
+
+299
+00:20:12,800 --> 00:20:17,360
+So a big part of what we do is distilling all of that information to the top highlights,
+
+300
+00:20:17,360 --> 00:20:22,160
+like what is the key nuggets of data and it's actually non-trivial to your point.
+
+301
+00:20:22,160 --> 00:20:26,120
+It's really, it is really a hard part of the problem and how do you visualize it?
+
+302
+00:20:26,120 --> 00:20:27,960
+Do you want to show me a real time graph?
+
+303
+00:20:27,960 --> 00:20:28,960
+And who prioritizes it?
+
+304
+00:20:28,960 --> 00:20:34,400
+Is it going to be like a dumber AI or is there going to be like a third party human?
+
+305
+00:20:34,400 --> 00:20:43,160
+Yeah, that too, like, you know, in our automotive work, that actually comes up a lot, right?
+
+306
+00:20:43,160 --> 00:20:46,520
+Like when we're working with car companies or even social robotic companies and we give
+
+307
+00:20:46,520 --> 00:20:50,880
+them this data feed, they're like, whoa, what do we do with this?
+
+308
+00:20:50,880 --> 00:20:53,920
+Like, tell us what values to look at.
+
+309
+00:20:53,920 --> 00:20:59,880
+And you know, there's various ways you can do this with thresholding and whatnot, but
+
+310
+00:20:59,880 --> 00:21:06,840
+also reinforcement learning is another approach that automate some of that feedback loop around
+
+311
+00:21:06,840 --> 00:21:08,720
+what data matters the most.
+
+312
+00:21:08,720 --> 00:21:12,600
+So it's an unsolved problem, but it's a really fascinating one.
+
+313
+00:21:12,600 --> 00:21:13,600
+Yeah.
+
+314
+00:21:13,600 --> 00:21:14,600
+Yeah.
+
+315
+00:21:14,600 --> 00:21:19,040
+This problem of bias is a very important one because it leaks into ethics and morality
+
+316
+00:21:19,040 --> 00:21:20,440
+as well.
+
+317
+00:21:20,440 --> 00:21:24,640
+And then what kind of ethics and morality because the kind of ethics and morality that
+
+318
+00:21:24,640 --> 00:21:29,720
+we are dealing with here in the United States, even here, it's not unified, right?
+
+319
+00:21:29,720 --> 00:21:34,860
+You can go from community to community, they have their own priorities, but it's drastically
+
+320
+00:21:34,860 --> 00:21:40,240
+different when we go to Egypt, where you're from, or Iran, where I'm from.
+
+321
+00:21:40,240 --> 00:21:42,880
+And I just don't know, is there any?
+
+322
+00:21:42,880 --> 00:21:43,880
+Hang on.
+
+323
+00:21:43,880 --> 00:21:44,880
+Do you mind?
+
+324
+00:21:44,880 --> 00:21:45,880
+No, no, no.
+
+325
+00:21:45,880 --> 00:21:46,880
+Absolutely.
+
+326
+00:21:46,880 --> 00:21:47,880
+Can you open the lights?
+
+327
+00:21:47,880 --> 00:21:52,880
+Like, we have a sudden thunderstorm here, so like, like, it's just bizarre.
+
+328
+00:21:52,880 --> 00:21:53,880
+Yeah.
+
+329
+00:21:53,880 --> 00:21:58,880
+So I can't record right now because it's boring, and you can hear it in the center.
+
+330
+00:21:58,880 --> 00:21:59,880
+Yeah.
+
+331
+00:21:59,880 --> 00:22:01,320
+Can you hear the pouring in our recording?
+
+332
+00:22:01,320 --> 00:22:02,320
+No, not really.
+
+333
+00:22:02,320 --> 00:22:03,320
+No.
+
+334
+00:22:03,320 --> 00:22:04,320
+Okay.
+
+335
+00:22:04,320 --> 00:22:05,320
+So we're good.
+
+336
+00:22:05,320 --> 00:22:06,320
+Okay.
+
+337
+00:22:06,320 --> 00:22:07,320
+Okay.
+
+338
+00:22:07,320 --> 00:22:08,320
+Perfect.
+
+339
+00:22:08,320 --> 00:22:09,320
+Bye.
+
+340
+00:22:09,320 --> 00:22:10,320
+Sorry about that.
+
+341
+00:22:10,320 --> 00:22:11,320
+Yeah.
+
+342
+00:22:11,320 --> 00:22:12,320
+Here, weather is kind of weird, too.
+
+343
+00:22:12,320 --> 00:22:13,320
+We're in South Florida.
+
+344
+00:22:13,320 --> 00:22:14,320
+It's just a strange year.
+
+345
+00:22:14,320 --> 00:22:15,320
+Yeah.
+
+346
+00:22:15,320 --> 00:22:16,320
+Yeah, exactly.
+
+347
+00:22:16,320 --> 00:22:17,320
+Like, right.
+
+348
+00:22:17,320 --> 00:22:18,320
+Just a thunderstorm and the big skew of things.
+
+349
+00:22:18,320 --> 00:22:19,320
+It's fine.
+
+350
+00:22:19,320 --> 00:22:20,320
+So I apologize for interrupting.
+
+351
+00:22:20,320 --> 00:22:21,320
+No, it's all good.
+
+352
+00:22:21,320 --> 00:22:22,320
+Yeah.
+
+353
+00:22:22,320 --> 00:22:25,600
+Have you, have you come across any kind of this, I don't know where your technology
+
+354
+00:22:25,600 --> 00:22:31,120
+is being used as mainly United States or globally, but have you come across this difference between
+
+355
+00:22:31,120 --> 00:22:38,560
+priorities with respect to ethics and morality based on social values and cultural values?
+
+356
+00:22:38,560 --> 00:22:40,640
+Yes, we have.
+
+357
+00:22:40,640 --> 00:22:47,800
+So our technology is deployed in 90 countries around the world, and I also, I'm involved
+
+358
+00:22:47,800 --> 00:22:52,440
+with the World Economic Forum, so I'm a young global leader and I sat on the Global Future
+
+359
+00:22:52,440 --> 00:22:58,480
+Council for Robotics and AI for a number of years, was a very international council.
+
+360
+00:22:58,480 --> 00:23:03,440
+And I was just fascinated by how different countries have different values around ethics
+
+361
+00:23:03,440 --> 00:23:07,080
+and AI and privacy and all of these considerations.
+
+362
+00:23:07,080 --> 00:23:13,280
+So for example, our biggest competitor is a Chinese company and they have access to
+
+363
+00:23:13,280 --> 00:23:18,100
+a ton of data and a ton of funding and they're very aligned with their government.
+
+364
+00:23:18,100 --> 00:23:22,720
+And a lot of this is about access to data, as you know, right, especially in this AI
+
+365
+00:23:22,720 --> 00:23:23,600
+and technology space.
+
+366
+00:23:23,600 --> 00:23:29,740
+So and I, you know, I think it's really interesting.
+
+367
+00:23:29,740 --> 00:23:36,040
+We have very strong core values and we've decided to take a particular path and be advocates
+
+368
+00:23:36,040 --> 00:23:43,040
+for what we believe is ethical AI, but I recognize that it's not universal.
+
+369
+00:23:43,040 --> 00:23:48,280
+What we have found, though, is that like-minded businesses select us, right, because they
+
+370
+00:23:48,280 --> 00:23:54,280
+too care about ethics and they want to be seen as the kind of the ethics friendly company
+
+371
+00:23:54,280 --> 00:23:55,920
+to partner with.
+
+372
+00:23:55,920 --> 00:24:00,440
+That's been really true for car companies in particular.
+
+373
+00:24:00,440 --> 00:24:05,320
+So I don't know, I'm hopeful that, again, one reason why we need consumers to really
+
+374
+00:24:05,320 --> 00:24:10,120
+be educated about this is then consumers can have a strong voice and say, you know, I'm
+
+375
+00:24:10,120 --> 00:24:15,920
+going to buy technology from this company because they're ethical, but not this other
+
+376
+00:24:15,920 --> 00:24:20,280
+company because they don't meet kind of the ethics standards.
+
+377
+00:24:20,280 --> 00:24:27,080
+Yeah, also keeping big tech companies responsible for working with systems that are not necessarily
+
+378
+00:24:27,080 --> 00:24:28,920
+ethical, right?
+
+379
+00:24:28,920 --> 00:24:33,520
+Because it's interesting, you mentioned the Chinese company because now it's a huge contrast
+
+380
+00:24:33,520 --> 00:24:40,320
+between Western approach and the Chinese approach and then how the business interests sometimes
+
+381
+00:24:40,320 --> 00:24:48,920
+can jeopardize the ethical and the Western value kind of an approach and how we're going
+
+382
+00:24:48,920 --> 00:24:49,920
+to move forward.
+
+383
+00:24:49,920 --> 00:24:56,520
+As you said, you know, companies with more access to data will have a far greater chance
+
+384
+00:24:56,520 --> 00:25:00,360
+of dominating because that's, you know, why wouldn't you if you have a good technology,
+
+385
+00:25:00,360 --> 00:25:01,800
+why wouldn't you want to dominate?
+
+386
+00:25:01,800 --> 00:25:05,120
+So it seems like...
+
+387
+00:25:05,120 --> 00:25:09,740
+One other thing that you also brought up that is really important is bias, especially in
+
+388
+00:25:09,740 --> 00:25:10,740
+our space.
+
+389
+00:25:10,740 --> 00:25:15,760
+And you may have seen that in the news over the past 18 months or so.
+
+390
+00:25:15,760 --> 00:25:25,080
+Some facial recognition systems have been kind of criticized for discriminating or not
+
+391
+00:25:25,080 --> 00:25:32,120
+being accurate or being biased against certain subpopulations, including women of color,
+
+392
+00:25:32,120 --> 00:25:33,120
+right?
+
+393
+00:25:33,120 --> 00:25:37,060
+And the reason this is the case, if you look closely at it, is because the training data
+
+394
+00:25:37,060 --> 00:25:38,600
+is very homogeneous.
+
+395
+00:25:38,600 --> 00:25:41,480
+It's usually middle-aged white guys, right?
+
+396
+00:25:41,480 --> 00:25:43,840
+Why is that?
+
+397
+00:25:43,840 --> 00:25:48,360
+Well because that data seems to be the most readily accessible.
+
+398
+00:25:48,360 --> 00:25:56,920
+I mean, we at Affectiva, I have this kind of example anecdote where we work with a lot
+
+399
+00:25:56,920 --> 00:26:02,400
+of the car companies around the world and this one particular global brand, it's a global
+
+400
+00:26:02,400 --> 00:26:11,980
+automaker, luxury automaker based in Europe and they wanted us to test the accuracy of
+
+401
+00:26:11,980 --> 00:26:12,980
+our algorithm.
+
+402
+00:26:12,980 --> 00:26:17,640
+So they sent us a data set and we looked at the data set and it was literally like, you
+
+403
+00:26:17,640 --> 00:26:23,480
+know, East European, middle-aged, blue-eyed, blonde guys, right?
+
+404
+00:26:23,480 --> 00:26:29,180
+And we could have totally tested this data set, probably done great, and sent it back
+
+405
+00:26:29,180 --> 00:26:30,840
+to the car company and moved on.
+
+406
+00:26:30,840 --> 00:26:34,120
+But we had an internal meeting and we said, that's just not right.
+
+407
+00:26:34,120 --> 00:26:37,240
+This is a global car company.
+
+408
+00:26:37,240 --> 00:26:43,080
+It's almost our social and moral responsibility to flag that to them and educate them, right?
+
+409
+00:26:43,080 --> 00:26:48,200
+And so we sent back a report, we said, okay, you know, we really recommend that we go back
+
+410
+00:26:48,200 --> 00:26:55,200
+out and collect a more diverse data set with different ethnicities, different genders,
+
+411
+00:26:55,200 --> 00:27:00,300
+different age range ranges, even, you know, people wearing glasses or having beards like
+
+412
+00:27:00,300 --> 00:27:01,300
+you do, right?
+
+413
+00:27:01,300 --> 00:27:04,520
+Like there were very few people who looked like you in that data set.
+
+414
+00:27:04,520 --> 00:27:05,640
+And that's really important.
+
+415
+00:27:05,640 --> 00:27:11,080
+So we did that and I think that built a lot of credibility with that car company.
+
+416
+00:27:11,080 --> 00:27:15,080
+But it just made me realize that, and it was unintended, right?
+
+417
+00:27:15,080 --> 00:27:16,440
+It's not like they did that on purpose.
+
+418
+00:27:16,440 --> 00:27:22,680
+They just didn't think that the diversity of the data is important and it's so key.
+
+419
+00:27:22,680 --> 00:27:27,520
+And that's where the diversity of the team becomes even like really critical.
+
+420
+00:27:27,520 --> 00:27:30,720
+Because we're such a diverse team, we were able to say, hang on a second, nobody looks
+
+421
+00:27:30,720 --> 00:27:34,360
+like me in this data set, right?
+
+422
+00:27:34,360 --> 00:27:35,620
+That's not cool.
+
+423
+00:27:35,620 --> 00:27:43,800
+So I think bias is, to me actually, it's the number one biggest area for concern I have
+
+424
+00:27:43,800 --> 00:27:45,200
+around these technologies.
+
+425
+00:27:45,200 --> 00:27:49,200
+Because if we're not careful, we can just perpetuate all of the biases that exist in
+
+426
+00:27:49,200 --> 00:27:52,120
+society and just kind of replicate them at scale.
+
+427
+00:27:52,120 --> 00:27:54,080
+But bias can also be reversed, right?
+
+428
+00:27:54,080 --> 00:27:58,080
+In a sense that, hey, we want to focus on diversity, therefore we don't care how good
+
+429
+00:27:58,080 --> 00:28:03,160
+you are as a white team or a white CEO, we just want to replace you with like a brown
+
+430
+00:28:03,160 --> 00:28:05,640
+person or a black person, right?
+
+431
+00:28:05,640 --> 00:28:06,800
+Because that's also a problem.
+
+432
+00:28:06,800 --> 00:28:11,040
+It's a very human thing that we say, hey, we want to fix some problem and let's just
+
+433
+00:28:11,040 --> 00:28:13,680
+destroy all the structure that we already have.
+
+434
+00:28:13,680 --> 00:28:16,200
+We don't even care how well it's working.
+
+435
+00:28:16,200 --> 00:28:26,480
+So yeah, I mean, I think humans are very biased and we're not necessarily always objective.
+
+436
+00:28:26,480 --> 00:28:30,960
+And I think technology can bring a little bit more objectivity into this.
+
+437
+00:28:30,960 --> 00:28:39,200
+I mean, hiring is another area where humans are really biased and technology can help
+
+438
+00:28:39,200 --> 00:28:44,680
+reduce that bias, but we have to be careful about how we use it.
+
+439
+00:28:44,680 --> 00:28:49,560
+What you mentioned about facial recognition, the news came out last night that Amazon bans
+
+440
+00:28:49,560 --> 00:28:52,460
+police use of facial recognition technology for one year.
+
+441
+00:28:52,460 --> 00:28:57,040
+And I noticed in this article that on Monday, IBM said it was getting out of the facial
+
+442
+00:28:57,040 --> 00:28:59,240
+recognition business altogether.
+
+443
+00:28:59,240 --> 00:29:03,600
+So it's a very big deal what is happening with respect to facial recognition.
+
+444
+00:29:03,600 --> 00:29:10,220
+And I also want to mention to our audience, this is actually from MIT technology review,
+
+445
+00:29:10,220 --> 00:29:13,640
+that China has started a grand experiment in AI education.
+
+446
+00:29:13,640 --> 00:29:15,560
+It could reshape how the world learns.
+
+447
+00:29:15,560 --> 00:29:21,020
+And it's also very interesting with what you're doing, how the Chinese classrooms, they're
+
+448
+00:29:21,020 --> 00:29:28,240
+using machines and headbands and different kind of sensors to measure basically how focused
+
+449
+00:29:28,240 --> 00:29:33,040
+you are as a student, how, you know, with facial expressions and all of that.
+
+450
+00:29:33,040 --> 00:29:42,360
+So have you guys worked in any capacity and education area as well?
+
+451
+00:29:42,360 --> 00:29:43,360
+We have not.
+
+452
+00:29:43,360 --> 00:29:47,280
+It's not been an area of focus, but it's one that I'm actually really passionate about.
+
+453
+00:29:47,280 --> 00:29:53,720
+And I know that's where how you design the system and how you think about the user experience
+
+454
+00:29:53,720 --> 00:29:55,200
+becomes really important.
+
+455
+00:29:55,200 --> 00:29:59,040
+I don't know how the Chinese I don't know exactly how this Chinese company.
+
+456
+00:29:59,040 --> 00:30:02,280
+Let me read this very small segment.
+
+457
+00:30:02,280 --> 00:30:06,980
+These days, many students at Jin Hua Zhoushun Primary School in eastern China begin their
+
+458
+00:30:06,980 --> 00:30:10,400
+lessons not by opening textbooks, but by putting on headbands.
+
+459
+00:30:10,400 --> 00:30:15,560
+The headbands developed by startup BrainCo incorporated of Somerville, Massachusetts,
+
+460
+00:30:15,560 --> 00:30:20,680
+where you are, use three electrodes, one on the forehead and two behind the ears to detect
+
+461
+00:30:20,680 --> 00:30:25,760
+electrical activity in the brain sending the data to a teacher's computer, software generates
+
+462
+00:30:25,760 --> 00:30:30,960
+real time alerts about students attention levels and gives an analysis at the end of
+
+463
+00:30:30,960 --> 00:30:31,960
+each class.
+
+464
+00:30:31,960 --> 00:30:34,800
+Obviously, it's not going to be limited to only this kind of data and this kind of an
+
+465
+00:30:34,800 --> 00:30:41,680
+approach, but it gives us an idea that basically the A in AI, which I've been arguing for this
+
+466
+00:30:41,680 --> 00:30:46,160
+for a long time, instead of thinking of it as artificial intelligence, it is being seen
+
+467
+00:30:46,160 --> 00:30:52,360
+as augmented intelligence that you have a very powerful and reliable assistant that
+
+468
+00:30:52,360 --> 00:30:55,880
+does something that you can't even imagine like what you said, the amount of information
+
+469
+00:30:55,880 --> 00:31:01,680
+that your system generates 50 or 60 every second is just unimaginable for any human
+
+470
+00:31:01,680 --> 00:31:02,680
+to be able to do that.
+
+471
+00:31:02,680 --> 00:31:09,520
+But it has direct and real life consequences and positive consequences for students who
+
+472
+00:31:09,520 --> 00:31:11,320
+can learn better.
+
+473
+00:31:11,320 --> 00:31:13,280
+And it just seems like a really cool thing.
+
+474
+00:31:13,280 --> 00:31:16,080
+But at the same time, it comes with all the negative things because it's a tool.
+
+475
+00:31:16,080 --> 00:31:19,160
+It's a double-edged sword that you can use it in any kind of a direction.
+
+476
+00:31:19,160 --> 00:31:20,160
+Right.
+
+477
+00:31:20,160 --> 00:31:21,160
+And you can use exactly it.
+
+478
+00:31:21,160 --> 00:31:22,400
+And it's the way you design it.
+
+479
+00:31:22,400 --> 00:31:27,640
+If the teacher is going to use this data to reprimand students and really punish students
+
+480
+00:31:27,640 --> 00:31:30,640
+for not paying attention, then I'm not sure.
+
+481
+00:31:30,640 --> 00:31:39,120
+However, if the teacher is going to use the exact same data to identify that Joe, or that's
+
+482
+00:31:39,120 --> 00:31:45,920
+not a Chinese name, but a particular kid is really not engaged in this class and he or
+
+483
+00:31:45,920 --> 00:31:50,480
+she the teacher can really focus on that student to personalize the learning experience, I'm
+
+484
+00:31:50,480 --> 00:31:51,480
+all for that.
+
+485
+00:31:51,480 --> 00:31:52,480
+Right.
+
+486
+00:31:52,480 --> 00:31:58,800
+And especially again, I mean, I've been watching both my kids learn online over the last few
+
+487
+00:31:58,800 --> 00:32:00,040
+months.
+
+488
+00:32:00,040 --> 00:32:06,800
+It's terrible because class, the teacher can really gauge the level of interest and engagement
+
+489
+00:32:06,800 --> 00:32:11,400
+and it can, you know, she or he can adapt the learning experience online.
+
+490
+00:32:11,400 --> 00:32:12,560
+It's so hard to do that.
+
+491
+00:32:12,560 --> 00:32:18,600
+If you are, you know, if you're in a zoom classroom, it's really hard to assess level
+
+492
+00:32:18,600 --> 00:32:19,720
+of engagement.
+
+493
+00:32:19,720 --> 00:32:24,240
+Even worse, if you're doing asynchronous learning where you are just watching some video content
+
+494
+00:32:24,240 --> 00:32:29,640
+and learning math online, well, imagine if that learning experience, there was a little
+
+495
+00:32:29,640 --> 00:32:34,720
+chat bot that was monitoring your level of engagement and could notice for instance that
+
+496
+00:32:34,720 --> 00:32:41,520
+my 11 year old son was really fidgeting or losing interest or super confused or frustrated,
+
+497
+00:32:41,520 --> 00:32:44,760
+then it could interject the way an amazing teacher would.
+
+498
+00:32:44,760 --> 00:32:50,760
+So I think there's really incredible opportunities to democratize access to online learning in
+
+499
+00:32:50,760 --> 00:32:52,200
+particular.
+
+500
+00:32:52,200 --> 00:32:54,040
+You know, I grew up in the Middle East.
+
+501
+00:32:54,040 --> 00:32:59,840
+I was lucky that I had like access to amazing schools, but most people there don't have
+
+502
+00:32:59,840 --> 00:33:00,840
+that.
+
+503
+00:33:00,840 --> 00:33:02,640
+I mean, not just there, all around the world.
+
+504
+00:33:02,640 --> 00:33:08,600
+And I think technology can really, if you've got intelligent, like emotionally intelligent
+
+505
+00:33:08,600 --> 00:33:14,040
+learning systems, I think that could really be powerful in terms of engaging students
+
+506
+00:33:14,040 --> 00:33:15,640
+and increasing learning outcomes.
+
+507
+00:33:15,640 --> 00:33:16,640
+Yeah.
+
+508
+00:33:16,640 --> 00:33:19,320
+And on the personal basis, like one on one basis, right?
+
+509
+00:33:19,320 --> 00:33:24,280
+Because like what you were saying, I also went to school in Iran and my elementary school,
+
+510
+00:33:24,280 --> 00:33:27,720
+we were like 50 people in one class, right?
+
+511
+00:33:27,720 --> 00:33:28,720
+Right.
+
+512
+00:33:28,720 --> 00:33:32,920
+They just dumped something that they decided that, hey, this will work kind of a general
+
+513
+00:33:32,920 --> 00:33:39,520
+people because of the jobs that we need and screw the individual capabilities and abilities
+
+514
+00:33:39,520 --> 00:33:41,840
+and interests of these kids.
+
+515
+00:33:41,840 --> 00:33:47,160
+And here, even though it's like night and day, but it's not really that different because
+
+516
+00:33:47,160 --> 00:33:53,840
+you still rely on the perspective and the experience and again, bias of that individual
+
+517
+00:33:53,840 --> 00:33:57,920
+teacher who has to take care of maybe 20 students.
+
+518
+00:33:57,920 --> 00:34:00,800
+And she's like, well, this is how I've been doing it for the past 40 years.
+
+519
+00:34:00,800 --> 00:34:03,120
+Why do I need to change it?
+
+520
+00:34:03,120 --> 00:34:04,120
+Right, exactly.
+
+521
+00:34:04,120 --> 00:34:05,920
+And we have an opportunity with technology to augment.
+
+522
+00:34:05,920 --> 00:34:10,680
+I'm not saying we're going to replace teachers, but to your point about augmentation, augment
+
+523
+00:34:10,680 --> 00:34:16,600
+teachers with new data and with new tools that could help with this personalization.
+
+524
+00:34:16,600 --> 00:34:21,520
+I think that could be really powerful, but yeah, it has to be designed in the right way.
+
+525
+00:34:21,520 --> 00:34:24,560
+It's not about, you know, big brother, like, right?
+
+526
+00:34:24,560 --> 00:34:27,920
+Like we're now like going to survey all these kids and punish them.
+
+527
+00:34:27,920 --> 00:34:30,560
+Like if it's that, then I'm totally against it.
+
+528
+00:34:30,560 --> 00:34:32,560
+Which could totally be that, right?
+
+529
+00:34:32,560 --> 00:34:37,160
+We got to talk about it because it can be awesome or it can be what you mentioned with
+
+530
+00:34:37,160 --> 00:34:44,320
+respect to my beard and what we talked about about prioritizing this ocean of data to highlights.
+
+531
+00:34:44,320 --> 00:34:49,600
+Well, you know, if there is somebody who's not careful, they can look at me and like,
+
+532
+00:34:49,600 --> 00:34:55,040
+hey, we have in our data that's been prioritized by us that terrorists usually have this kind
+
+533
+00:34:55,040 --> 00:34:56,040
+of a beard.
+
+534
+00:34:56,040 --> 00:34:57,840
+So maybe this guy is a terrorist.
+
+535
+00:34:57,840 --> 00:34:59,160
+We're just going to put it here.
+
+536
+00:34:59,160 --> 00:35:01,600
+And you know, it's out of my control.
+
+537
+00:35:01,600 --> 00:35:03,000
+It's crude, right?
+
+538
+00:35:03,000 --> 00:35:04,000
+Yeah.
+
+539
+00:35:04,000 --> 00:35:05,000
+Seriously.
+
+540
+00:35:05,000 --> 00:35:06,000
+Yeah.
+
+541
+00:35:06,000 --> 00:35:07,000
+I know.
+
+542
+00:35:07,000 --> 00:35:08,000
+I know.
+
+543
+00:35:08,000 --> 00:35:09,000
+Like it's serious.
+
+544
+00:35:09,000 --> 00:35:10,000
+Well, I got it.
+
+545
+00:35:10,000 --> 00:35:11,000
+It is actually.
+
+546
+00:35:11,000 --> 00:35:12,000
+Yes.
+
+547
+00:35:12,000 --> 00:35:13,000
+Yeah.
+
+548
+00:35:13,000 --> 00:35:18,280
+One of the topics that we talked about is any technology works as well as a society
+
+549
+00:35:18,280 --> 00:35:21,120
+that adopts that technology.
+
+550
+00:35:21,120 --> 00:35:27,600
+How do you see this process of adopting to technology done here in the Western society
+
+551
+00:35:27,600 --> 00:35:33,440
+and in a society like in Egypt or in the Middle East?
+
+552
+00:35:33,440 --> 00:35:41,640
+I think this is where advocating for the thoughtful kind of what we call thoughtful regulation
+
+553
+00:35:41,640 --> 00:35:45,040
+of this technology becomes really key.
+
+554
+00:35:45,040 --> 00:35:48,000
+I do think there's a role for regulation here.
+
+555
+00:35:48,000 --> 00:35:52,760
+I don't think it should just be kept up to the individual companies or individual founders
+
+556
+00:35:52,760 --> 00:35:54,800
+like me.
+
+557
+00:35:54,800 --> 00:35:59,480
+I'm part of an organization called the Partnership on AI Consortium.
+
+558
+00:35:59,480 --> 00:36:07,000
+It was started by all the tech giants and now as well as Amnesty International and ACLU.
+
+559
+00:36:07,000 --> 00:36:11,280
+And now they have companies like Affectiva part of it too.
+
+560
+00:36:11,280 --> 00:36:17,240
+And the idea is we come together and we're trying to kind of build what is fair, accountable
+
+561
+00:36:17,240 --> 00:36:24,760
+and transparent and ethical AI and develop these best practices and work with other organizations
+
+562
+00:36:24,760 --> 00:36:30,240
+to implement them including legislation as well.
+
+563
+00:36:30,240 --> 00:36:34,880
+So I really think there needs to be a lot more conversation and a lot more work to be
+
+564
+00:36:34,880 --> 00:36:36,080
+done.
+
+565
+00:36:36,080 --> 00:36:43,240
+Now regarding how it's used in say the US versus a country like Egypt, yeah these are
+
+566
+00:36:43,240 --> 00:36:47,920
+very I mean there's cross-cultural differences in terms of what's acceptable and what's
+
+567
+00:36:47,920 --> 00:36:48,920
+not acceptable.
+
+568
+00:36:48,920 --> 00:36:53,480
+Again we've deployed our technology in 90 countries around the world.
+
+569
+00:36:53,480 --> 00:36:58,200
+We always ask for opt-in and we found that some countries the opt-in rates are really
+
+570
+00:36:58,200 --> 00:37:02,720
+high and in some other countries the opt-in rates are really low like Germany is our lowest
+
+571
+00:37:02,720 --> 00:37:03,720
+opt-in rate.
+
+572
+00:37:03,720 --> 00:37:04,720
+Really?
+
+573
+00:37:04,720 --> 00:37:05,720
+Wow.
+
+574
+00:37:05,720 --> 00:37:06,720
+Yeah.
+
+575
+00:37:06,720 --> 00:37:07,720
+Where is the highest?
+
+576
+00:37:07,720 --> 00:37:10,600
+I honestly don't know.
+
+577
+00:37:10,600 --> 00:37:13,600
+I don't know where the highest is.
+
+578
+00:37:13,600 --> 00:37:20,800
+Yeah I'm not sure but like they're kind of all hovering kind of around 80-90% and Germany
+
+579
+00:37:20,800 --> 00:37:22,840
+is at about 60%.
+
+580
+00:37:22,840 --> 00:37:29,280
+So there's a lot more mistrust of I don't know if it's mistrust of tech companies.
+
+581
+00:37:29,280 --> 00:37:32,640
+I don't know if it's you know not wanting to turn the camera on.
+
+582
+00:37:32,640 --> 00:37:35,120
+I don't know but I thought that was really interesting.
+
+583
+00:37:35,120 --> 00:37:40,080
+We had a really interesting experience with Google Glass when it came out and the way
+
+584
+00:37:40,080 --> 00:37:44,500
+that it came out we've been talking about that too that you couldn't even buy it.
+
+585
+00:37:44,500 --> 00:37:48,440
+It had to be given to you if you were selected and people didn't react to it that well you
+
+586
+00:37:48,440 --> 00:37:54,360
+know some of the people who were wearing Google Glass they were being attacked by people which
+
+587
+00:37:54,360 --> 00:37:58,960
+part of it is because of privacy but the other part is hey you're not human anymore.
+
+588
+00:37:58,960 --> 00:38:01,440
+You think you're better than us basically.
+
+589
+00:38:01,440 --> 00:38:06,080
+So that's what I mean by social adoption because for example when you look at Japan
+
+590
+00:38:06,080 --> 00:38:10,040
+the social adoption of technology there has been done very organically.
+
+591
+00:38:10,040 --> 00:38:14,960
+You go to a temple there is a robot priest that you can go and talk to and it's like
+
+592
+00:38:14,960 --> 00:38:19,480
+well that's how it is but there's a disconnect here right.
+
+593
+00:38:19,480 --> 00:38:25,520
+Some of it comes I guess from religious aspect of things that you know if you're a Christian
+
+594
+00:38:25,520 --> 00:38:29,060
+you say hey if you use a chip for example in your brain that's Markov the beast and
+
+595
+00:38:29,060 --> 00:38:31,960
+whatever I'm not saying right or wrong or whatever I think people should believe in
+
+596
+00:38:31,960 --> 00:38:36,440
+whatever they want to believe but there will be a point that obviously you're going to
+
+597
+00:38:36,440 --> 00:38:40,480
+be an empowered human being if you're using these kind of technologies and people who
+
+598
+00:38:40,480 --> 00:38:42,680
+are not using them will be falling behind.
+
+599
+00:38:42,680 --> 00:38:45,200
+This is just you know this is the bottom line.
+
+600
+00:38:45,200 --> 00:38:47,560
+Yeah yeah correct.
+
+601
+00:38:47,560 --> 00:38:51,400
+Actually on this Google Glass example we're now partnered with a company called Brain
+
+602
+00:38:51,400 --> 00:38:57,400
+Power and they use Google Glass and our technology as an augmentation tool for kids on the autism
+
+603
+00:38:57,400 --> 00:38:58,720
+spectrum.
+
+604
+00:38:58,720 --> 00:39:04,720
+So they've deployed about 400 of these around the US in US schools and homes and we're already
+
+605
+00:39:04,720 --> 00:39:09,600
+seeing that a lot of these kids you know they're improving in terms of eye and like reading
+
+606
+00:39:09,600 --> 00:39:11,720
+nonverbal communication.
+
+607
+00:39:11,720 --> 00:39:15,280
+The question is you know what happens when you take away the glasses does the learning
+
+608
+00:39:15,280 --> 00:39:17,240
+persist.
+
+609
+00:39:17,240 --> 00:39:22,800
+So again it's an example of a tool where you know if it's deployed in the right way it
+
+610
+00:39:22,800 --> 00:39:28,200
+can be really helpful but you do have to consider all of these social factors.
+
+611
+00:39:28,200 --> 00:39:32,400
+I mean when I started doing research in this area like 20 years ago when we you know remember
+
+612
+00:39:32,400 --> 00:39:40,920
+the days when we had like big rounded blurry webcams there was zero acceptance of cameras
+
+613
+00:39:40,920 --> 00:39:46,800
+right like they weren't ubiquitous we didn't really have a use case for them and now cameras
+
+614
+00:39:46,800 --> 00:39:53,600
+are everywhere like they're they're just part and parcel of our societal fabric.
+
+615
+00:39:53,600 --> 00:39:56,760
+You know the selfie movement right.
+
+616
+00:39:56,760 --> 00:40:01,240
+And I think that all this social acceptance has to be part of the equation you're absolutely
+
+617
+00:40:01,240 --> 00:40:04,320
+right and again very different across cultures.
+
+618
+00:40:04,320 --> 00:40:10,000
+Yeah just educating the people I guess to talk to them about it right because people
+
+619
+00:40:10,000 --> 00:40:15,040
+are resistant at first but when they feel like they're being left behind they rush
+
+620
+00:40:15,040 --> 00:40:19,320
+to stores to buy whatever it is that they want to buy but they use it but they end up
+
+621
+00:40:19,320 --> 00:40:25,760
+using it without really knowing why they're using it for.
+
+622
+00:40:25,760 --> 00:40:31,600
+You are a very impressive human being because you're in your early 40s if I'm not mistaken
+
+623
+00:40:31,600 --> 00:40:36,840
+and you're coming from a society that is very close with respect to women the entire Middle
+
+624
+00:40:36,840 --> 00:40:43,280
+East really and you're one of the very few people I would say relatively speaking who
+
+625
+00:40:43,280 --> 00:40:51,760
+is the leader of this new wave of artificial intelligence being built.
+
+626
+00:40:51,760 --> 00:40:59,280
+How would other girls and women can follow your footsteps and also I'm interested to
+
+627
+00:40:59,280 --> 00:41:05,600
+know how many other women relatively speaking are in the position where you are in the field
+
+628
+00:41:05,600 --> 00:41:07,680
+of artificial intelligence right now.
+
+629
+00:41:07,680 --> 00:41:12,880
+Yes I'll start by answering that question.
+
+630
+00:41:12,880 --> 00:41:17,600
+There's very few the answer is very few and we need a lot more so the intersection of
+
+631
+00:41:17,600 --> 00:41:23,540
+kind of women led AI company you know women and AI company and entrepreneur it's like
+
+632
+00:41:23,540 --> 00:41:27,680
+really tiny the Venn diagram is really tiny.
+
+633
+00:41:27,680 --> 00:41:32,120
+So I think we definitely need more women in leadership across the board but especially
+
+634
+00:41:32,120 --> 00:41:34,480
+in AI.
+
+635
+00:41:34,480 --> 00:41:40,440
+Now add to that the complexity that I am from the Middle East I have been again so lucky
+
+636
+00:41:40,440 --> 00:41:45,680
+that my parents supported my and my two sisters education I really owe everything to that
+
+637
+00:41:45,680 --> 00:41:51,160
+and I try to pay it forward with my kids for example I really do believe in the power of
+
+638
+00:41:51,160 --> 00:41:58,520
+education it's transformative but I also think that there are you know I grew up in a family
+
+639
+00:41:58,520 --> 00:42:05,320
+that supported my education but still had very strict gender roles and I had to I had
+
+640
+00:42:05,320 --> 00:42:10,280
+to really navigate that right like there was a lot of tensions throughout my career between
+
+641
+00:42:10,280 --> 00:42:17,200
+my role as you know my professional role and my aspirations and then my role as a mother
+
+642
+00:42:17,200 --> 00:42:22,880
+and a wife I'm now a divorcee so that didn't work out right.
+
+643
+00:42:22,880 --> 00:42:25,840
+So I had to really struggle with that.
+
+644
+00:42:25,840 --> 00:42:33,480
+My advice to young not just young but my advice to women out there who are trying to figure
+
+645
+00:42:33,480 --> 00:42:40,040
+that out is just really kind of I don't know for me it was really about learning to believe
+
+646
+00:42:40,040 --> 00:42:45,180
+in myself I have so much inner doubt it's not even funny right like I'm always doubting
+
+647
+00:42:45,180 --> 00:42:51,640
+myself and it's because of these deep cultural things that are ingrained in my brain that
+
+648
+00:42:51,640 --> 00:42:56,360
+basically say oh you know you can't be a CEO oh no no no no you can't go out and raise
+
+649
+00:42:56,360 --> 00:43:00,000
+money like that it's not gonna work right like all the time this voice in my head is
+
+650
+00:43:00,000 --> 00:43:04,640
+just putting me down you can't write a book nobody's gonna read it right well guess what
+
+651
+00:43:04,640 --> 00:43:09,440
+people are actually reading the book right so I just have I've had to learn to negotiate
+
+652
+00:43:09,440 --> 00:43:16,400
+with that inner voice in my head and it has stopped me a few times in my career for sure.
+
+653
+00:43:16,400 --> 00:43:23,920
+Yeah facing your fear is a very good step Joseph Campbell has a quote saying the cave
+
+654
+00:43:23,920 --> 00:43:30,400
+you're most afraid of has a treasure that you seek that I like that I'm gonna write
+
+655
+00:43:30,400 --> 00:43:34,640
+that yeah it's really good well please look it up but I'm pretty sure that it's Joseph
+
+656
+00:43:34,640 --> 00:43:41,440
+Campbell about the cave and the treasure and I keep saying it to my friends that whatever
+
+657
+00:43:41,440 --> 00:43:44,960
+do you afraid of the most that's the indicator that that's exactly what you're supposed
+
+658
+00:43:44,960 --> 00:43:48,920
+to be doing you know because the voice in here that's not necessarily your friend there's
+
+659
+00:43:48,920 --> 00:43:54,680
+actually one of my one of the books I really like is called run to the roar it's a it's
+
+660
+00:43:54,680 --> 00:44:01,360
+by a professional coach swash coach called Paul Asante and he talks about how you really
+
+661
+00:44:01,360 --> 00:44:06,760
+need to just face your like if there's something you're afraid of take it on and I kind of
+
+662
+00:44:06,760 --> 00:44:12,160
+like that yeah and also that kind of a fear that like you understand that because you're
+
+663
+00:44:12,160 --> 00:44:17,920
+also from that region that we are born into the pool of stuff that has been already determined
+
+664
+00:44:17,920 --> 00:44:24,480
+and decided for us and you know I I always say I was one second old I was labeled as
+
+665
+00:44:24,480 --> 00:44:31,720
+a Shia Muslim straight male Iranian and good luck changing any of them right every the
+
+666
+00:44:31,720 --> 00:44:37,480
+entire society and civilization will come after you if you decide to change any of them
+
+667
+00:44:37,480 --> 00:44:42,600
+but when you go through with it you realize that hey I'm I'm on my own I have my you
+
+668
+00:44:42,600 --> 00:44:49,640
+know my priorities a decision that I can make so it's also very interesting to me how machine
+
+669
+00:44:49,640 --> 00:44:56,680
+emotions and emotional analysis empowered by technology is going to separate things
+
+670
+00:44:56,680 --> 00:45:03,880
+that we are carrying emotionally but are not useful or productive for us yeah that is that's
+
+671
+00:45:03,880 --> 00:45:09,640
+an interesting way to think about it because I don't know my view is that it's not just
+
+672
+00:45:09,640 --> 00:45:14,360
+my view but we know that emotions cut across every aspect of our lives right like the way
+
+673
+00:45:14,360 --> 00:45:22,160
+we make decisions our health our memories which is an area I'm really fascinated by
+
+674
+00:45:22,160 --> 00:45:28,160
+and I just wonder once we're able to decode our emotions and quantify them how can we
+
+675
+00:45:28,160 --> 00:45:35,040
+apply them in a way that augments our intelligence and and gives us these superpowers right across
+
+676
+00:45:35,040 --> 00:45:41,960
+the board and I don't know like this is it's very new territory right like we still need
+
+677
+00:45:41,960 --> 00:45:47,680
+to figure that out yeah yeah I don't know it's really interesting I never thought about
+
+678
+00:45:47,680 --> 00:45:53,440
+it before saying it but this is interesting you know really interesting yeah yeah never
+
+679
+00:45:53,440 --> 00:45:59,120
+heard it framed that way do you know what I mean like I'm think about this one of reasons
+
+680
+00:45:59,120 --> 00:46:03,760
+I don't write down questions and I lose a lot of guests because of that because they're
+
+681
+00:46:03,760 --> 00:46:06,920
+like well send us some of the questions you want to ask because they want to be in comfort
+
+682
+00:46:06,920 --> 00:46:11,480
+zone and safe territories but I'm like I just don't like to do it because you know we have
+
+683
+00:46:11,480 --> 00:46:15,400
+this exchange and something emerges that I haven't even thought about that's the most
+
+684
+00:46:15,400 --> 00:46:21,560
+interesting part of all of this for me yeah that's like really interesting like this kind
+
+685
+00:46:21,560 --> 00:46:27,880
+of palette of emotions like which of those are relevant and which of those are yeah we'll
+
+686
+00:46:27,880 --> 00:46:32,240
+be able to measure them but but maybe it's useless I mean one thing that I've been thinking
+
+687
+00:46:32,240 --> 00:46:38,120
+a lot about in this field because it's so new people are fixated on a small subset of
+
+688
+00:46:38,120 --> 00:46:46,360
+emotions right like joy surprise anger fear and I'm just interested in the less celebrated
+
+689
+00:46:46,360 --> 00:46:53,040
+states like the state of wonder like what do people look like when they are in awe of
+
+690
+00:46:53,040 --> 00:46:57,360
+each other right when they're in spite when you watch a TED talk and you're inspired what
+
+691
+00:46:57,360 --> 00:47:03,720
+does your face look like we don't know we probably can collect the data and so things
+
+692
+00:47:03,720 --> 00:47:09,320
+like that I think it is just so much to discover about human how humans communicate and I and
+
+693
+00:47:09,320 --> 00:47:14,280
+I find that just really fascinating and exciting yeah I should also ask you we are going through
+
+694
+00:47:14,280 --> 00:47:20,200
+a secondary psychedelic revolution after the 60s they are making a comeback they have a
+
+695
+00:47:20,200 --> 00:47:26,160
+significant amount of benefits for soldiers who are coming back with PTSD for depression
+
+696
+00:47:26,160 --> 00:47:32,720
+and also for individuals to expand their mind if they decide to experiment with you know
+
+697
+00:47:32,720 --> 00:47:39,000
+whether it's LSD or psychedelic mushrooms have you thought about studying that area
+
+698
+00:47:39,000 --> 00:47:47,320
+because emotions are a huge part of you know you're an individual who've never experienced
+
+699
+00:47:47,320 --> 00:47:52,320
+psychedelics you take two grams of magic mushrooms psychedelic mushrooms and you are
+
+700
+00:47:52,320 --> 00:47:57,920
+experiencing a world that you did not even know existed and you're experiencing it right
+
+701
+00:47:57,920 --> 00:48:08,520
+here and right now the short answer is nope we have not we have not us but there has been
+
+702
+00:48:08,520 --> 00:48:14,780
+a little bit of work done with PTSD patients but it's more around in the in the context
+
+703
+00:48:14,780 --> 00:48:20,240
+of psychiatry and the clinical kind of interviewing of PTSD patients where this particular study
+
+704
+00:48:20,240 --> 00:48:30,040
+at USC found that virtual these patients were more forthcoming and open with a virtual agent
+
+705
+00:48:30,040 --> 00:48:35,040
+than they were with a real human doctor because they judged the doctor to be more judgmental
+
+706
+00:48:35,040 --> 00:48:39,160
+of them so that's very different than what you're saying but that's the only kind of
+
+707
+00:48:39,160 --> 00:48:45,360
+example where I've seen emotion AI kind of studied in that context but that's also really
+
+708
+00:48:45,360 --> 00:48:49,080
+fascinating yeah I think it's coming because I haven't experienced it myself so I'm like
+
+709
+00:48:49,080 --> 00:48:54,440
+oh you haven't you haven't no okay I'm not well I tell you I started experimenting when
+
+710
+00:48:54,440 --> 00:49:00,720
+I was 25 because you know I grew up in Iran and the worst thing for my mom was you do
+
+711
+00:49:00,720 --> 00:49:09,320
+drugs and it was just you know by the way yeah blanket statement drugs and obviously
+
+712
+00:49:09,320 --> 00:49:15,240
+there are some of them that are really really bad but certain psychedelics literally saved
+
+713
+00:49:15,240 --> 00:49:20,820
+my life because I went through a period of depression you know guilt and shame hey why
+
+714
+00:49:20,820 --> 00:49:27,480
+did you leave your mom and all of that and I started going see a psychologist psychotherapist
+
+715
+00:49:27,480 --> 00:49:32,080
+whatever and after the second session I was like well how long would it take for me to
+
+716
+00:49:32,080 --> 00:49:37,080
+describe who I am to this person this is never going to work out for me all right and this
+
+717
+00:49:37,080 --> 00:49:43,520
+was like more than ten years ago but it's becoming legal right so they legalize it in
+
+718
+00:49:43,520 --> 00:49:50,360
+Denver there's a place maps a multi-disciplinary association of psychedelic studies they've
+
+719
+00:49:50,360 --> 00:49:59,920
+been pushing for legalizing MDMA for PTSD and depression and they're looking to 2022
+
+720
+00:49:59,920 --> 00:50:06,720
+for a FDA approval and all that and I think these two can go together unbelievably well
+
+721
+00:50:06,720 --> 00:50:11,880
+because there are a lot of unknown aspect of this experience that when quantified a
+
+722
+00:50:11,880 --> 00:50:18,560
+lot of interesting things a lot of interesting unknowns can emerge as a result of it yeah
+
+723
+00:50:18,560 --> 00:50:23,640
+new territory what a fascinating world it is we're living in very how do you see the
+
+724
+00:50:23,640 --> 00:50:31,200
+world change in the next 10 years just for fun oh goodness um well can I even like think
+
+725
+00:50:31,200 --> 00:50:39,000
+about what's gonna happen next week but there's a bigger general trend right yeah yeah I really
+
+726
+00:50:39,000 --> 00:50:46,400
+believe that the de facto human machine interface is gonna mirror the de facto human to human
+
+727
+00:50:46,400 --> 00:50:50,400
+interface so the way we interact with machines will just be the way we interact with one
+
+728
+00:50:50,400 --> 00:50:56,400
+another through conversation through perception and through empathy and I believe that that
+
+729
+00:50:56,400 --> 00:51:05,000
+will not only transform human machine interactions but it will fundamentally really connect us
+
+730
+00:51:05,000 --> 00:51:09,200
+better with you like it will fundamentally change human to human communication as well
+
+731
+00:51:09,200 --> 00:51:14,880
+so I'm excited about that yeah awesome well the book is called girl decoded a scientist
+
+732
+00:51:14,880 --> 00:51:20,520
+quest to reclaim our humanity by bringing emotional intelligence to technology what
+
+733
+00:51:20,520 --> 00:51:27,840
+is next for you and where can our audience follow your work and future endeavors so I
+
+734
+00:51:27,840 --> 00:51:33,080
+am very easy to find on social media I've been doing a lot of live streams on LinkedIn
+
+735
+00:51:33,080 --> 00:51:40,960
+and you know Facebook and other platforms so please follow me there for affective I'm
+
+736
+00:51:40,960 --> 00:51:45,120
+just really heads down trying to bring our technology to the world and especially in
+
+737
+00:51:45,120 --> 00:51:52,720
+automotive so in the next few years your cars might have emotion in emotion AI enabled capabilities
+
+738
+00:51:52,720 --> 00:52:00,880
+which is very exciting and then for me personally I've realized with this book it's the beginning
+
+739
+00:52:00,880 --> 00:52:06,400
+of a journey I don't know what the journey is but my gut and my instinct just by seeing
+
+740
+00:52:06,400 --> 00:52:11,280
+how people are reacting to the book is that it's the beginning of a new conversation and
+
+741
+00:52:11,280 --> 00:52:17,240
+new connections so you know I'm kind of embarking on this new journey not knowing where it's
+
+742
+00:52:17,240 --> 00:52:21,600
+going to lead me but I'm excited about it this is your first book right my first book
+
+743
+00:52:21,600 --> 00:52:29,640
+that's awesome that I mean you you obviously are very capable and reliable kind of a leader
+
+744
+00:52:29,640 --> 00:52:35,880
+because you have perspective right you didn't come out of just you know a comfortable kind
+
+745
+00:52:35,880 --> 00:52:41,880
+of a situation you know you struggled and you've you know thought a lot about this so
+
+746
+00:52:41,880 --> 00:52:45,800
+I'm very happy that we had this conversation I was excited I don't usually get excited
+
+747
+00:52:45,800 --> 00:52:52,560
+talking to new people but it's for the good reason great so much for having yeah absolutely
+
+748
+00:52:52,560 --> 00:52:57,280
+let me ask you the last question that I ask all my guests that if you come across an intelligent
+
+749
+00:52:57,280 --> 00:53:02,280
+alien from a different civilization what would you say the worst thing humanity has done
+
+750
+00:53:02,280 --> 00:53:10,680
+and what would you say is their greatest achievement the worst thing humanity has done is just
+
+751
+00:53:10,680 --> 00:53:17,040
+this dehumanizing of each other like likely we live in this empathy crisis where for some
+
+752
+00:53:17,040 --> 00:53:23,400
+reason we've just dehumanized each other we don't think of you know we've detached from
+
+753
+00:53:23,400 --> 00:53:27,160
+these people in this other country or this either you know these people who live in the
+
+754
+00:53:27,160 --> 00:53:31,560
+middle of the United States like we've just dehumanized and it's led to this very polarized
+
+755
+00:53:31,560 --> 00:53:36,640
+world I'm hoping this pandemic will fix some of that so I think that's kind of the worst
+
+756
+00:53:36,640 --> 00:53:43,320
+thing we've done maybe because it has a lot of implications on what we build and how we
+
+757
+00:53:43,320 --> 00:53:49,880
+use technology against each other so so that's that best thing we've done what is the best
+
+758
+00:53:49,880 --> 00:54:00,280
+thing we've done I don't know that's a tough question I think actually I'm a huge traveler
+
+759
+00:54:00,280 --> 00:54:07,600
+it's part of who we are as a family and the ability to visit other cultures and other
+
+760
+00:54:07,600 --> 00:54:13,280
+countries and and you know you know for me to grow up in the Middle East and then be
+
+761
+00:54:13,280 --> 00:54:19,160
+able to end up in this country and I think that's really powerful so this kind of cross
+
+762
+00:54:19,160 --> 00:54:27,080
+border ability to travel and explore the ability to travel and explore I think would be my
+
+763
+00:54:27,080 --> 00:54:30,520
+best thing we have figured out as humans.
+

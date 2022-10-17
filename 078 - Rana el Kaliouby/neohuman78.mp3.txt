@@ -1,0 +1,763 @@
+I just wonder once we're able to decode our emotions and quantify them, how can we apply
+them in a way that augments our intelligence and gives us these superpowers across the
+board?
+Hello, and welcome to the 78th episode of Neohuman Podcasts.
+I'm Agabahari, an ecologist on Twitter and Instagram, and you can follow the show on
+LiveInLimbo.com, iTunes, YouTube, BitChute, and soon on Spotify.
+And today with me, I have Rana El-Kalyoubi.
+Welcome to Neohuman Podcasts, Rana.
+Thank you for having me.
+It's a pleasure.
+Let's start with your background, the work you've done, the lives you've lived, and
+what are you mainly focused on now these days?
+Well, I am co-founder and CEO of an MIT startup called Affectiva, and we are on a mission
+to humanize technology by building artificial emotional intelligence, so I can say a little
+bit more about that.
+But also, I just launched my book, Girl Decoded, and it's a memoir, so it's an intertwining
+of my personal story and the story of the technology I've built.
+Are you originally from Egypt?
+That's right.
+I was born in Egypt.
+I'm Egyptian, now Egyptian-American, but then I also grew up in Kuwait and Abu Dhabi.
+How old were you when you left the region?
+I was born in Cairo, and then we were in Kuwait until the first Gulf War, so I was about 10
+when we had to evacuate our home there.
+And then I was in Abu Dhabi until I finished high school, studied computer science at the
+American University in Cairo, and then moved to Cambridge University at about 19 years
+old.
+And I've been back and forth a lot since then.
+Yeah, the reason I ask because it's very important, I think, to have the perspective about those
+kind of societies with respect to technology and artificial intelligence and governance
+and all of that.
+And I want to talk to you about all of that in the next, hopefully, an hour, maybe a little
+more.
+But let's start with your book.
+The book is called Geralt Dakota, The Scientist's Quest to Reclaim Our Humanity by Bringing
+Emotional Intelligence to Technology.
+What made you write a book, and what the book is all about, and what are you trying to express
+mainly to the audience?
+I would say I initially wanted to write the book because I wanted to really tell the world
+about emotion AI and what are the applications of it and what are the ethical and moral implications.
+And as I started writing the book, I also realized that my own path to coming to this
+is really unique, and I had to overcome a lot of cultural and societal norms and find
+my own voice.
+So I really wanted to be a story about humanity and just kind of an inspirational story for
+everybody out there that's trying to figure out their own career and kind of sense of
+purpose.
+What made you interested in artificial intelligence?
+You know, it was really kind of this realization that technology changes the way we connect
+as humans.
+So it's a very human story.
+It's not about the technology.
+It's really about how we connect and communicate.
+And when I first got to Cambridge University for my PhD, I realized I was spending so much
+time on my device like all of us do, yet this machine had absolutely no clue how I was feeling.
+And even worse, it was the main device I used to communicate with my family back home because
+international calls were and still are very expensive.
+And I realized that a lot of the richness of, you know, I come from the Middle East, so
+we're very emotive and very expressive.
+And I felt like all of the richness of this nonverbal communication kind of disappeared
+in cyberspace.
+And that got me, I started asking a question like, what if machines could understand human
+emotions just like we do?
+And that was 20 years ago.
+So I've been on this journey for the past 20 years trying to build that.
+I was looking forward to talk to you because I've talked to a number of people in the field
+of AI, but every single one of them have been with respect to thinking side of our brain
+and thinking side of, you know, the society.
+The emotional AI, it was the first time that I heard about it.
+And it's actually pretty consistent because IQ, I knew about since it was maybe four,
+three, five, something like that.
+But EQ, I learned about, which is emotional intelligence in my 20s.
+So what is the definition of emotional AI and what are the implications of it?
+Yeah, let's start with humans, you're absolutely right.
+So if you look at the research in the past, like 60, 70 years, our IQ matters, your cognitive
+intelligence matters, but actually your emotional intelligence matters just as much in day to
+day life.
+So people who have higher EQs, which is your emotional quotient, your ability to read and
+understand and adapt to other people's emotions, they tend to be more likable.
+They're more persuasive.
+They're better managers.
+They have more successful professional and personal lives.
+And I believe that that's true for technology as well, especially technology that is mainstream
+and interacts with us on a daily basis.
+So you're right.
+A lot of the focus on AI is about automation and being more efficient and more productive.
+Okay.
+But what about it being more humane and helping us be more human and more empathetic and more
+connected with each other, which are very important parts of life as well.
+And so that's been my focus to try and bring that EQ element into AI.
+There's also the elements of automation with respect to emotional AI as well, right?
+Let me just read for, because some people watch this, some people will listen to it.
+This is a description of emotion measurement technology that is a technology that your
+company pursues and says, effective as technology enables software application to use a webcam
+to track a user's smirks, smiles, frowns, and furrows, which measures a user's level
+of surprise, amusement, or confusion.
+The technology also allows a person's heart rate to be measured from a webcam without
+the person wearing a sensor.
+So a lot of positive application, but I'm sure a lot of people are freaked out about
+it too, because we are dealing with text-based and image-based and video-based kind of social
+media and content creation at this point, and everybody's losing their mind at how
+these data is being collected, who owns it, and all the biases that exist about interpreting
+those data.
+So I would imagine how is this going to affect every day kind of a person if you can look
+at it from purely a user base, because this is a technology that you guys, I believe,
+are licensing to different companies?
+Kind of.
+I can talk about the applications.
+Okay.
+Let's start with that.
+And then I want to talk about in the societal scale, because it's not only going to be
+a webcam, it's going to be, if there is a surveillance camera on the street, this will
+be a technology that will be used there for good reasons and also negative reasons, because
+it's a tool.
+Right?
+It depends on human intention how they want to use it.
+Right.
+Yes.
+And I feel very passionately about that.
+And we as a company have drawn a very clear line on where we want to see this technology
+being used and where we will just not license the technology or build products for industries.
+So I want to start with the positives first, because I really do think, I mean, I'm biased
+because I'm passionate about this, but I really do think there are real transformative use
+cases for this technology.
+As a company, we're very focused on the automotive industry, where, you know, if you have a sensor
+in the vehicle that can detect signs of distraction or signs of drowsiness, levels of drowsiness,
+if you are moderately drowsy or severely drowsy or even asleep, we've seen examples of people
+like literally driving while they're asleep.
+Well, the car can take action.
+The car can alert you.
+It can even take more aggressive action, like, you know, if it's a Tesla, for example, and
+it has semi-autonomous capabilities, it can say, well, you know what, I'm going to be
+a better driver than you are right now because you're so tired.
+I'm taking over control.
+So I think this kind of human machine partnership, especially in the context of automotive, can
+really increase the safety of our roads.
+Another example is we now have child seat detectors and we can detect if there are children
+left behind in the car.
+This doesn't happen a lot, but when it happens, it's obviously horrific for the parents because
+often these children just die of heat in the vehicle.
+So that's another example where technology can act as the ears and eyes inside the car.
+So that's one use case.
+Another amazing use case.
+So animals when they're being left in the car.
+Absolutely.
+That's another one too, exactly.
+Another one, which I'm very passionate about is the whole area of health and especially
+mental health.
+We did a lot of work in autism.
+It was the first project.
+It was actually the project that brought me over to the United States.
+So we were building like a Google Glass like device that can give real time feedback to
+kids on the autism spectrum about like nonverbal signals and making face and eye contact.
+We also have people who are looking into like early signs of Parkinson's.
+You can use this to detect stress, anxiety, depression.
+So there's really a lot of potential.
+I'm not saying we're there yet.
+There needs to be a lot more work to be done.
+But it can, I mean, we're in front of our machines all the time.
+So that could be an opportunity to really understand your baseline.
+And if we start seeing a deviation from that, we can flag that to you or a family member
+or a clinician.
+So that's another area where it can be really transformative.
+So what you said with respect to cars, it sounds like that it can be used as a bridge
+to full autonomy.
+Because by the time that cars can drive themselves, whatever state the driver is in, it doesn't
+really matter because the car is in charge.
+But we are, I don't know how far we are away from that.
+But again, the issue of privacy, which I think we have to really move on beyond the conventional
+definition of privacy, that it's non-existent at this point.
+Because a lot of data is being collected.
+But it's just a matter of who's collecting them.
+How are they using them?
+And also very important, I think, is that why aren't users getting paid for the data
+that they're generating?
+I hear you.
+I'm absolutely on the same page with you.
+So when we first started the company, my co-founder, who's an MIT professor, Rosalind Picard, and
+I kind of sat around her kitchen table and we were like, OK, there are so many applications
+of this technology.
+What are we going to say yes to and what are we going to say no to?
+And we decided on a set of core values to help us make these decisions.
+So one is respecting that this is very personal data.
+And so everything we do, we do on a consent and opt-in basis.
+So any application where people don't know that they're being recorded or they're being
+kind of tracked, then we basically decline that.
+And that has implications on surveillance, for example.
+We never do anything in the surveillance or security or lie detection space, because usually
+people or consumers don't really know.
+They might know that the cameras are there, but they don't really know how it's being
+used.
+The second is this transparency around usage.
+I mean, even now with all of our devices, you get these long, like, five-page agreements
+and you just click, I agree, because nobody reads them because they're too complicated
+and they're not transparent.
+And we're big advocates of just a very clear, plain English consenting form.
+We're going to turn on the camera.
+Here's how we're going to use the data.
+Here's what you're getting in return for it.
+I think we need more tech companies to kind of adopt that approach.
+And then the third is what we're calling power asymmetry.
+If you look around, a small number of companies and governments have access to the majority
+of the data.
+There's this power asymmetry.
+And I think we need to rebalance that to your point.
+Like, if I'm going to give up such personal data, like, what am I getting in return for
+it?
+And I think it could be monetary.
+It could be other types of value, but we need to rebalance the power here.
+Yeah, the reason I'm talking about the monetary aspect of it is because we're talking a lot
+right now about how a lot of jobs are not going to come back, like 40% of jobs, supposedly.
+And people are talking about universal basic income and how we can...
+And I'm like, we are becoming our own careers just by generating data because these companies
+are collecting data.
+We're becoming trillionaires.
+And users, not only they don't own their data, they're not getting anything in return.
+So you might once in a while get like 1200 bucks check in the mail, which is just laughable
+and think about, hey, how am I going to...
+And it just seems like this process of automation and digitization, it's not going to stop with
+where are we right now?
+Because at some point, we're talking about emotional AI right now.
+But what will happen when we have, at some point, nanobots monitoring inside of our body
+for all the good reasons, right?
+But we becoming this data generators, I don't want to misuse the term, but it really can
+suggest that at some point, if there will be very few people at the top with these massive
+corporations and companies, you will be slave data generators who are creating a lot of
+opportunities and a lot of wealth for very few people and you get nothing in return.
+So it's a big concern aside from the privacy aspect of it.
+Yes, I agree with that.
+And there has to be a different data model, a monetization and model here, business model.
+One of the reasons I wrote the book is I really wanted the consumer, the average consumer
+to be part of this conversation.
+And what you find is because AI is such a black box and a lot of people have a lot of
+misconceptions around what it is, how does it work, then the average consumer is not
+part of this dialogue.
+And I think as this evolves in terms of ethics and business models and who owns the data,
+all of these dialogues, I think we need everybody around the table to ensure that it works for
+all of us.
+What are your thoughts on decentralization of data using blockchain?
+I think that that is very interesting.
+I haven't seen it done in our space, so there's probably actually some potential for innovation
+there.
+Yeah, but I do think that that is interesting.
+Yeah, because the concept of trust itself, it seems like it's not really reliable to
+say, well, we don't trust this CEO, let's replace him with another CEO.
+It's just that transparency and the community owning the data that is being shared on a
+decentralized basis seems like a more viable kind of an approach rather than relying on
+any specific kind of individual.
+Yeah, absolutely.
+So the book is called Girl Decoded, a scientist quest to reclaim our humanity by bringing
+emotional intelligence to a technology.
+What are some of the elements of humanizing machines and technology from your perspective
+that needs to be taken in a very solid kind of a steps moving into this crazy decade that
+is ahead of us?
+I think there's a few things.
+So first of all, it's this kind of going back to this idea that we need to marry IQ and
+EQ in all of our technology platforms and take a very human centered approach to designing
+this.
+So to designing, building and deploying it.
+For me, when we sit around the table and design, what is the next version of a conversational
+agent going to look like?
+It can't just be about the transactional function of that device.
+It has to also include the human elements and I think that's really important.
+And then I really, if you kind of dissect how people communicate, only 10% of the way
+we communicate is in the choice of words we use, 90% is nonverbal and it's split kind
+of equally between your facial expressions, your hand gestures and your vocal intonations.
+So I think, and especially now that we are connecting with this pandemic, a lot of our
+communication is becoming virtual, whether in the way we conduct business or in the way
+kids are learning or even patient doctors are connecting.
+I think we're going to see a layer of innovation that incorporates emotion AI to quantify these
+nonverbal signals and then you can draw all sorts of really interesting insights.
+One example, actually two examples if you don't mind, because I feel very passionate
+about those.
+I've had to pivot away from what you would expect a book tour to look like and I've been
+doing these virtual book events and these typically involve, I'm giving a Zoom or a
+live stream to hundreds of people and I can't see any of them.
+And it's so hard because you can't really rip off their energy the way you would in
+a live auditorium.
+But I imagine if emotion AI was integrated, you could get real time feedback.
+I could just aggregate everybody's emotional engagement and I could see if they find, you
+know what I say, interesting, are they engaged, are they totally confused, are they bored
+to death?
+So I think that's one area that's really powerful.
+And then how we connect with our teams, right?
+Like I have a global team and now that we're all kind of dispersed and working from home,
+I just keep wondering like, is the team engaged, you know, are they committed, are they stressed?
+And I just want to know because then I can be proactive as a leader, so I miss that.
+That's fascinating.
+I'm just thinking as a speaker, you can wear a glass and become a forensic psychologist,
+a public speaking guru and it gives you real time data that you can tweak yourself according
+to that.
+And then the question would be what would be the difference between human response and
+this information and data that is being collected and presented to humans by machines, right?
+Because that's one of the arguments that Elon Musk is making for Neuralink that our biggest
+disconnect with the machines is the rate of input.
+That's so interesting.
+That's a very big consideration.
+For example, we generate, like our technology generates about like, you know, at 30 frames
+a second, about 50 or 60 variables, right, and that's overwhelming, right?
+So a big part of what we do is distilling all of that information to the top highlights,
+like what is the key nuggets of data and it's actually non-trivial to your point.
+It's really, it is really a hard part of the problem and how do you visualize it?
+Do you want to show me a real time graph?
+And who prioritizes it?
+Is it going to be like a dumber AI or is there going to be like a third party human?
+Yeah, that too, like, you know, in our automotive work, that actually comes up a lot, right?
+Like when we're working with car companies or even social robotic companies and we give
+them this data feed, they're like, whoa, what do we do with this?
+Like, tell us what values to look at.
+And you know, there's various ways you can do this with thresholding and whatnot, but
+also reinforcement learning is another approach that automate some of that feedback loop around
+what data matters the most.
+So it's an unsolved problem, but it's a really fascinating one.
+Yeah.
+Yeah.
+This problem of bias is a very important one because it leaks into ethics and morality
+as well.
+And then what kind of ethics and morality because the kind of ethics and morality that
+we are dealing with here in the United States, even here, it's not unified, right?
+You can go from community to community, they have their own priorities, but it's drastically
+different when we go to Egypt, where you're from, or Iran, where I'm from.
+And I just don't know, is there any?
+Hang on.
+Do you mind?
+No, no, no.
+Absolutely.
+Can you open the lights?
+Like, we have a sudden thunderstorm here, so like, like, it's just bizarre.
+Yeah.
+So I can't record right now because it's boring, and you can hear it in the center.
+Yeah.
+Can you hear the pouring in our recording?
+No, not really.
+No.
+Okay.
+So we're good.
+Okay.
+Okay.
+Perfect.
+Bye.
+Sorry about that.
+Yeah.
+Here, weather is kind of weird, too.
+We're in South Florida.
+It's just a strange year.
+Yeah.
+Yeah, exactly.
+Like, right.
+Just a thunderstorm and the big skew of things.
+It's fine.
+So I apologize for interrupting.
+No, it's all good.
+Yeah.
+Have you, have you come across any kind of this, I don't know where your technology
+is being used as mainly United States or globally, but have you come across this difference between
+priorities with respect to ethics and morality based on social values and cultural values?
+Yes, we have.
+So our technology is deployed in 90 countries around the world, and I also, I'm involved
+with the World Economic Forum, so I'm a young global leader and I sat on the Global Future
+Council for Robotics and AI for a number of years, was a very international council.
+And I was just fascinated by how different countries have different values around ethics
+and AI and privacy and all of these considerations.
+So for example, our biggest competitor is a Chinese company and they have access to
+a ton of data and a ton of funding and they're very aligned with their government.
+And a lot of this is about access to data, as you know, right, especially in this AI
+and technology space.
+So and I, you know, I think it's really interesting.
+We have very strong core values and we've decided to take a particular path and be advocates
+for what we believe is ethical AI, but I recognize that it's not universal.
+What we have found, though, is that like-minded businesses select us, right, because they
+too care about ethics and they want to be seen as the kind of the ethics friendly company
+to partner with.
+That's been really true for car companies in particular.
+So I don't know, I'm hopeful that, again, one reason why we need consumers to really
+be educated about this is then consumers can have a strong voice and say, you know, I'm
+going to buy technology from this company because they're ethical, but not this other
+company because they don't meet kind of the ethics standards.
+Yeah, also keeping big tech companies responsible for working with systems that are not necessarily
+ethical, right?
+Because it's interesting, you mentioned the Chinese company because now it's a huge contrast
+between Western approach and the Chinese approach and then how the business interests sometimes
+can jeopardize the ethical and the Western value kind of an approach and how we're going
+to move forward.
+As you said, you know, companies with more access to data will have a far greater chance
+of dominating because that's, you know, why wouldn't you if you have a good technology,
+why wouldn't you want to dominate?
+So it seems like...
+One other thing that you also brought up that is really important is bias, especially in
+our space.
+And you may have seen that in the news over the past 18 months or so.
+Some facial recognition systems have been kind of criticized for discriminating or not
+being accurate or being biased against certain subpopulations, including women of color,
+right?
+And the reason this is the case, if you look closely at it, is because the training data
+is very homogeneous.
+It's usually middle-aged white guys, right?
+Why is that?
+Well because that data seems to be the most readily accessible.
+I mean, we at Affectiva, I have this kind of example anecdote where we work with a lot
+of the car companies around the world and this one particular global brand, it's a global
+automaker, luxury automaker based in Europe and they wanted us to test the accuracy of
+our algorithm.
+So they sent us a data set and we looked at the data set and it was literally like, you
+know, East European, middle-aged, blue-eyed, blonde guys, right?
+And we could have totally tested this data set, probably done great, and sent it back
+to the car company and moved on.
+But we had an internal meeting and we said, that's just not right.
+This is a global car company.
+It's almost our social and moral responsibility to flag that to them and educate them, right?
+And so we sent back a report, we said, okay, you know, we really recommend that we go back
+out and collect a more diverse data set with different ethnicities, different genders,
+different age range ranges, even, you know, people wearing glasses or having beards like
+you do, right?
+Like there were very few people who looked like you in that data set.
+And that's really important.
+So we did that and I think that built a lot of credibility with that car company.
+But it just made me realize that, and it was unintended, right?
+It's not like they did that on purpose.
+They just didn't think that the diversity of the data is important and it's so key.
+And that's where the diversity of the team becomes even like really critical.
+Because we're such a diverse team, we were able to say, hang on a second, nobody looks
+like me in this data set, right?
+That's not cool.
+So I think bias is, to me actually, it's the number one biggest area for concern I have
+around these technologies.
+Because if we're not careful, we can just perpetuate all of the biases that exist in
+society and just kind of replicate them at scale.
+But bias can also be reversed, right?
+In a sense that, hey, we want to focus on diversity, therefore we don't care how good
+you are as a white team or a white CEO, we just want to replace you with like a brown
+person or a black person, right?
+Because that's also a problem.
+It's a very human thing that we say, hey, we want to fix some problem and let's just
+destroy all the structure that we already have.
+We don't even care how well it's working.
+So yeah, I mean, I think humans are very biased and we're not necessarily always objective.
+And I think technology can bring a little bit more objectivity into this.
+I mean, hiring is another area where humans are really biased and technology can help
+reduce that bias, but we have to be careful about how we use it.
+What you mentioned about facial recognition, the news came out last night that Amazon bans
+police use of facial recognition technology for one year.
+And I noticed in this article that on Monday, IBM said it was getting out of the facial
+recognition business altogether.
+So it's a very big deal what is happening with respect to facial recognition.
+And I also want to mention to our audience, this is actually from MIT technology review,
+that China has started a grand experiment in AI education.
+It could reshape how the world learns.
+And it's also very interesting with what you're doing, how the Chinese classrooms, they're
+using machines and headbands and different kind of sensors to measure basically how focused
+you are as a student, how, you know, with facial expressions and all of that.
+So have you guys worked in any capacity and education area as well?
+We have not.
+It's not been an area of focus, but it's one that I'm actually really passionate about.
+And I know that's where how you design the system and how you think about the user experience
+becomes really important.
+I don't know how the Chinese I don't know exactly how this Chinese company.
+Let me read this very small segment.
+These days, many students at Jin Hua Zhoushun Primary School in eastern China begin their
+lessons not by opening textbooks, but by putting on headbands.
+The headbands developed by startup BrainCo incorporated of Somerville, Massachusetts,
+where you are, use three electrodes, one on the forehead and two behind the ears to detect
+electrical activity in the brain sending the data to a teacher's computer, software generates
+real time alerts about students attention levels and gives an analysis at the end of
+each class.
+Obviously, it's not going to be limited to only this kind of data and this kind of an
+approach, but it gives us an idea that basically the A in AI, which I've been arguing for this
+for a long time, instead of thinking of it as artificial intelligence, it is being seen
+as augmented intelligence that you have a very powerful and reliable assistant that
+does something that you can't even imagine like what you said, the amount of information
+that your system generates 50 or 60 every second is just unimaginable for any human
+to be able to do that.
+But it has direct and real life consequences and positive consequences for students who
+can learn better.
+And it just seems like a really cool thing.
+But at the same time, it comes with all the negative things because it's a tool.
+It's a double-edged sword that you can use it in any kind of a direction.
+Right.
+And you can use exactly it.
+And it's the way you design it.
+If the teacher is going to use this data to reprimand students and really punish students
+for not paying attention, then I'm not sure.
+However, if the teacher is going to use the exact same data to identify that Joe, or that's
+not a Chinese name, but a particular kid is really not engaged in this class and he or
+she the teacher can really focus on that student to personalize the learning experience, I'm
+all for that.
+Right.
+And especially again, I mean, I've been watching both my kids learn online over the last few
+months.
+It's terrible because class, the teacher can really gauge the level of interest and engagement
+and it can, you know, she or he can adapt the learning experience online.
+It's so hard to do that.
+If you are, you know, if you're in a zoom classroom, it's really hard to assess level
+of engagement.
+Even worse, if you're doing asynchronous learning where you are just watching some video content
+and learning math online, well, imagine if that learning experience, there was a little
+chat bot that was monitoring your level of engagement and could notice for instance that
+my 11 year old son was really fidgeting or losing interest or super confused or frustrated,
+then it could interject the way an amazing teacher would.
+So I think there's really incredible opportunities to democratize access to online learning in
+particular.
+You know, I grew up in the Middle East.
+I was lucky that I had like access to amazing schools, but most people there don't have
+that.
+I mean, not just there, all around the world.
+And I think technology can really, if you've got intelligent, like emotionally intelligent
+learning systems, I think that could really be powerful in terms of engaging students
+and increasing learning outcomes.
+Yeah.
+And on the personal basis, like one on one basis, right?
+Because like what you were saying, I also went to school in Iran and my elementary school,
+we were like 50 people in one class, right?
+Right.
+They just dumped something that they decided that, hey, this will work kind of a general
+people because of the jobs that we need and screw the individual capabilities and abilities
+and interests of these kids.
+And here, even though it's like night and day, but it's not really that different because
+you still rely on the perspective and the experience and again, bias of that individual
+teacher who has to take care of maybe 20 students.
+And she's like, well, this is how I've been doing it for the past 40 years.
+Why do I need to change it?
+Right, exactly.
+And we have an opportunity with technology to augment.
+I'm not saying we're going to replace teachers, but to your point about augmentation, augment
+teachers with new data and with new tools that could help with this personalization.
+I think that could be really powerful, but yeah, it has to be designed in the right way.
+It's not about, you know, big brother, like, right?
+Like we're now like going to survey all these kids and punish them.
+Like if it's that, then I'm totally against it.
+Which could totally be that, right?
+We got to talk about it because it can be awesome or it can be what you mentioned with
+respect to my beard and what we talked about about prioritizing this ocean of data to highlights.
+Well, you know, if there is somebody who's not careful, they can look at me and like,
+hey, we have in our data that's been prioritized by us that terrorists usually have this kind
+of a beard.
+So maybe this guy is a terrorist.
+We're just going to put it here.
+And you know, it's out of my control.
+It's crude, right?
+Yeah.
+Seriously.
+Yeah.
+I know.
+I know.
+Like it's serious.
+Well, I got it.
+It is actually.
+Yes.
+Yeah.
+One of the topics that we talked about is any technology works as well as a society
+that adopts that technology.
+How do you see this process of adopting to technology done here in the Western society
+and in a society like in Egypt or in the Middle East?
+I think this is where advocating for the thoughtful kind of what we call thoughtful regulation
+of this technology becomes really key.
+I do think there's a role for regulation here.
+I don't think it should just be kept up to the individual companies or individual founders
+like me.
+I'm part of an organization called the Partnership on AI Consortium.
+It was started by all the tech giants and now as well as Amnesty International and ACLU.
+And now they have companies like Affectiva part of it too.
+And the idea is we come together and we're trying to kind of build what is fair, accountable
+and transparent and ethical AI and develop these best practices and work with other organizations
+to implement them including legislation as well.
+So I really think there needs to be a lot more conversation and a lot more work to be
+done.
+Now regarding how it's used in say the US versus a country like Egypt, yeah these are
+very I mean there's cross-cultural differences in terms of what's acceptable and what's
+not acceptable.
+Again we've deployed our technology in 90 countries around the world.
+We always ask for opt-in and we found that some countries the opt-in rates are really
+high and in some other countries the opt-in rates are really low like Germany is our lowest
+opt-in rate.
+Really?
+Wow.
+Yeah.
+Where is the highest?
+I honestly don't know.
+I don't know where the highest is.
+Yeah I'm not sure but like they're kind of all hovering kind of around 80-90% and Germany
+is at about 60%.
+So there's a lot more mistrust of I don't know if it's mistrust of tech companies.
+I don't know if it's you know not wanting to turn the camera on.
+I don't know but I thought that was really interesting.
+We had a really interesting experience with Google Glass when it came out and the way
+that it came out we've been talking about that too that you couldn't even buy it.
+It had to be given to you if you were selected and people didn't react to it that well you
+know some of the people who were wearing Google Glass they were being attacked by people which
+part of it is because of privacy but the other part is hey you're not human anymore.
+You think you're better than us basically.
+So that's what I mean by social adoption because for example when you look at Japan
+the social adoption of technology there has been done very organically.
+You go to a temple there is a robot priest that you can go and talk to and it's like
+well that's how it is but there's a disconnect here right.
+Some of it comes I guess from religious aspect of things that you know if you're a Christian
+you say hey if you use a chip for example in your brain that's Markov the beast and
+whatever I'm not saying right or wrong or whatever I think people should believe in
+whatever they want to believe but there will be a point that obviously you're going to
+be an empowered human being if you're using these kind of technologies and people who
+are not using them will be falling behind.
+This is just you know this is the bottom line.
+Yeah yeah correct.
+Actually on this Google Glass example we're now partnered with a company called Brain
+Power and they use Google Glass and our technology as an augmentation tool for kids on the autism
+spectrum.
+So they've deployed about 400 of these around the US in US schools and homes and we're already
+seeing that a lot of these kids you know they're improving in terms of eye and like reading
+nonverbal communication.
+The question is you know what happens when you take away the glasses does the learning
+persist.
+So again it's an example of a tool where you know if it's deployed in the right way it
+can be really helpful but you do have to consider all of these social factors.
+I mean when I started doing research in this area like 20 years ago when we you know remember
+the days when we had like big rounded blurry webcams there was zero acceptance of cameras
+right like they weren't ubiquitous we didn't really have a use case for them and now cameras
+are everywhere like they're they're just part and parcel of our societal fabric.
+You know the selfie movement right.
+And I think that all this social acceptance has to be part of the equation you're absolutely
+right and again very different across cultures.
+Yeah just educating the people I guess to talk to them about it right because people
+are resistant at first but when they feel like they're being left behind they rush
+to stores to buy whatever it is that they want to buy but they use it but they end up
+using it without really knowing why they're using it for.
+You are a very impressive human being because you're in your early 40s if I'm not mistaken
+and you're coming from a society that is very close with respect to women the entire Middle
+East really and you're one of the very few people I would say relatively speaking who
+is the leader of this new wave of artificial intelligence being built.
+How would other girls and women can follow your footsteps and also I'm interested to
+know how many other women relatively speaking are in the position where you are in the field
+of artificial intelligence right now.
+Yes I'll start by answering that question.
+There's very few the answer is very few and we need a lot more so the intersection of
+kind of women led AI company you know women and AI company and entrepreneur it's like
+really tiny the Venn diagram is really tiny.
+So I think we definitely need more women in leadership across the board but especially
+in AI.
+Now add to that the complexity that I am from the Middle East I have been again so lucky
+that my parents supported my and my two sisters education I really owe everything to that
+and I try to pay it forward with my kids for example I really do believe in the power of
+education it's transformative but I also think that there are you know I grew up in a family
+that supported my education but still had very strict gender roles and I had to I had
+to really navigate that right like there was a lot of tensions throughout my career between
+my role as you know my professional role and my aspirations and then my role as a mother
+and a wife I'm now a divorcee so that didn't work out right.
+So I had to really struggle with that.
+My advice to young not just young but my advice to women out there who are trying to figure
+that out is just really kind of I don't know for me it was really about learning to believe
+in myself I have so much inner doubt it's not even funny right like I'm always doubting
+myself and it's because of these deep cultural things that are ingrained in my brain that
+basically say oh you know you can't be a CEO oh no no no no you can't go out and raise
+money like that it's not gonna work right like all the time this voice in my head is
+just putting me down you can't write a book nobody's gonna read it right well guess what
+people are actually reading the book right so I just have I've had to learn to negotiate
+with that inner voice in my head and it has stopped me a few times in my career for sure.
+Yeah facing your fear is a very good step Joseph Campbell has a quote saying the cave
+you're most afraid of has a treasure that you seek that I like that I'm gonna write
+that yeah it's really good well please look it up but I'm pretty sure that it's Joseph
+Campbell about the cave and the treasure and I keep saying it to my friends that whatever
+do you afraid of the most that's the indicator that that's exactly what you're supposed
+to be doing you know because the voice in here that's not necessarily your friend there's
+actually one of my one of the books I really like is called run to the roar it's a it's
+by a professional coach swash coach called Paul Asante and he talks about how you really
+need to just face your like if there's something you're afraid of take it on and I kind of
+like that yeah and also that kind of a fear that like you understand that because you're
+also from that region that we are born into the pool of stuff that has been already determined
+and decided for us and you know I I always say I was one second old I was labeled as
+a Shia Muslim straight male Iranian and good luck changing any of them right every the
+entire society and civilization will come after you if you decide to change any of them
+but when you go through with it you realize that hey I'm I'm on my own I have my you
+know my priorities a decision that I can make so it's also very interesting to me how machine
+emotions and emotional analysis empowered by technology is going to separate things
+that we are carrying emotionally but are not useful or productive for us yeah that is that's
+an interesting way to think about it because I don't know my view is that it's not just
+my view but we know that emotions cut across every aspect of our lives right like the way
+we make decisions our health our memories which is an area I'm really fascinated by
+and I just wonder once we're able to decode our emotions and quantify them how can we
+apply them in a way that augments our intelligence and and gives us these superpowers right across
+the board and I don't know like this is it's very new territory right like we still need
+to figure that out yeah yeah I don't know it's really interesting I never thought about
+it before saying it but this is interesting you know really interesting yeah yeah never
+heard it framed that way do you know what I mean like I'm think about this one of reasons
+I don't write down questions and I lose a lot of guests because of that because they're
+like well send us some of the questions you want to ask because they want to be in comfort
+zone and safe territories but I'm like I just don't like to do it because you know we have
+this exchange and something emerges that I haven't even thought about that's the most
+interesting part of all of this for me yeah that's like really interesting like this kind
+of palette of emotions like which of those are relevant and which of those are yeah we'll
+be able to measure them but but maybe it's useless I mean one thing that I've been thinking
+a lot about in this field because it's so new people are fixated on a small subset of
+emotions right like joy surprise anger fear and I'm just interested in the less celebrated
+states like the state of wonder like what do people look like when they are in awe of
+each other right when they're in spite when you watch a TED talk and you're inspired what
+does your face look like we don't know we probably can collect the data and so things
+like that I think it is just so much to discover about human how humans communicate and I and
+I find that just really fascinating and exciting yeah I should also ask you we are going through
+a secondary psychedelic revolution after the 60s they are making a comeback they have a
+significant amount of benefits for soldiers who are coming back with PTSD for depression
+and also for individuals to expand their mind if they decide to experiment with you know
+whether it's LSD or psychedelic mushrooms have you thought about studying that area
+because emotions are a huge part of you know you're an individual who've never experienced
+psychedelics you take two grams of magic mushrooms psychedelic mushrooms and you are
+experiencing a world that you did not even know existed and you're experiencing it right
+here and right now the short answer is nope we have not we have not us but there has been
+a little bit of work done with PTSD patients but it's more around in the in the context
+of psychiatry and the clinical kind of interviewing of PTSD patients where this particular study
+at USC found that virtual these patients were more forthcoming and open with a virtual agent
+than they were with a real human doctor because they judged the doctor to be more judgmental
+of them so that's very different than what you're saying but that's the only kind of
+example where I've seen emotion AI kind of studied in that context but that's also really
+fascinating yeah I think it's coming because I haven't experienced it myself so I'm like
+oh you haven't you haven't no okay I'm not well I tell you I started experimenting when
+I was 25 because you know I grew up in Iran and the worst thing for my mom was you do
+drugs and it was just you know by the way yeah blanket statement drugs and obviously
+there are some of them that are really really bad but certain psychedelics literally saved
+my life because I went through a period of depression you know guilt and shame hey why
+did you leave your mom and all of that and I started going see a psychologist psychotherapist
+whatever and after the second session I was like well how long would it take for me to
+describe who I am to this person this is never going to work out for me all right and this
+was like more than ten years ago but it's becoming legal right so they legalize it in
+Denver there's a place maps a multi-disciplinary association of psychedelic studies they've
+been pushing for legalizing MDMA for PTSD and depression and they're looking to 2022
+for a FDA approval and all that and I think these two can go together unbelievably well
+because there are a lot of unknown aspect of this experience that when quantified a
+lot of interesting things a lot of interesting unknowns can emerge as a result of it yeah
+new territory what a fascinating world it is we're living in very how do you see the
+world change in the next 10 years just for fun oh goodness um well can I even like think
+about what's gonna happen next week but there's a bigger general trend right yeah yeah I really
+believe that the de facto human machine interface is gonna mirror the de facto human to human
+interface so the way we interact with machines will just be the way we interact with one
+another through conversation through perception and through empathy and I believe that that
+will not only transform human machine interactions but it will fundamentally really connect us
+better with you like it will fundamentally change human to human communication as well
+so I'm excited about that yeah awesome well the book is called girl decoded a scientist
+quest to reclaim our humanity by bringing emotional intelligence to technology what
+is next for you and where can our audience follow your work and future endeavors so I
+am very easy to find on social media I've been doing a lot of live streams on LinkedIn
+and you know Facebook and other platforms so please follow me there for affective I'm
+just really heads down trying to bring our technology to the world and especially in
+automotive so in the next few years your cars might have emotion in emotion AI enabled capabilities
+which is very exciting and then for me personally I've realized with this book it's the beginning
+of a journey I don't know what the journey is but my gut and my instinct just by seeing
+how people are reacting to the book is that it's the beginning of a new conversation and
+new connections so you know I'm kind of embarking on this new journey not knowing where it's
+going to lead me but I'm excited about it this is your first book right my first book
+that's awesome that I mean you you obviously are very capable and reliable kind of a leader
+because you have perspective right you didn't come out of just you know a comfortable kind
+of a situation you know you struggled and you've you know thought a lot about this so
+I'm very happy that we had this conversation I was excited I don't usually get excited
+talking to new people but it's for the good reason great so much for having yeah absolutely
+let me ask you the last question that I ask all my guests that if you come across an intelligent
+alien from a different civilization what would you say the worst thing humanity has done
+and what would you say is their greatest achievement the worst thing humanity has done is just
+this dehumanizing of each other like likely we live in this empathy crisis where for some
+reason we've just dehumanized each other we don't think of you know we've detached from
+these people in this other country or this either you know these people who live in the
+middle of the United States like we've just dehumanized and it's led to this very polarized
+world I'm hoping this pandemic will fix some of that so I think that's kind of the worst
+thing we've done maybe because it has a lot of implications on what we build and how we
+use technology against each other so so that's that best thing we've done what is the best
+thing we've done I don't know that's a tough question I think actually I'm a huge traveler
+it's part of who we are as a family and the ability to visit other cultures and other
+countries and and you know you know for me to grow up in the Middle East and then be
+able to end up in this country and I think that's really powerful so this kind of cross
+border ability to travel and explore the ability to travel and explore I think would be my
+best thing we have figured out as humans.
