@@ -1,0 +1,709 @@
+I believe that we are machines and in the full formal definition of a machine, obviously
+we're not gears and oil.
+And so of course machines can have spiritual experiences because we are machines and we
+have them.
+Hello and welcome to the 79th episode of Neohuman Podcasts, I'm Agabahari Adygologist on Twitter
+and Instagram.
+You can follow this show on LiveInLimbo.com, iTunes, YouTube, BitChute, and at some point
+on Spotify.
+And today with me, I have Brad Templeton.
+Welcome to Neohuman Podcasts, Brad.
+Yes, hi, good to be here.
+Pleasure to have you.
+And just to give our audience some kind of a context where your thoughts and opinions
+are coming from, let's start with your background, the work you've done, the lives you've lived
+and what are you mainly focused on now these days?
+Oh, I mean, I have to do that.
+It's always much more self-aggrandizing when you have to do that.
+You get the host to do that.
+Well, I've done a lot of different things, all pretty much related to computers and high
+tech, but I started out in the software field, wrote a dozen software packages back in the
+80s, games and tools and things like that.
+Got probably, well, the other two things that made people know me were one was in the 80s,
+the internet was growing and I hosted what would be considered the first or one of the
+first blog type things, a publication of comedy that was the most widely read thing on the
+internet for many years.
+But then I also started the first dot com, the first business on the internet, an electronic
+newspaper back then, which I built during the 90s.
+That was started in Waterloo, Ontario, a town you may know, but I moved it to Silicon Valley.
+Since then, after selling that, I've been involved in a lot of different ventures and
+the nonprofit work.
+I was 20 years at the Electronic Frontier Foundation, which is a civil rights group.
+It does free speech, privacy, these things in the computer world.
+Forsythe Institute, an organization devoted to nanotechnology and futurist technologies,
+went to work on self-driving cars, got very interested in them, got invited to work on
+Google's self-driving car during its first few years.
+It's now known as Waymo.
+And let's see, also helped build a fake university called Singularity University, which tries
+to help people understand the effects of rapidly changing technology and that during the previous
+decade.
+And all along, I've been writing and talking and inventing in those fields.
+How has the internet world has changed and changed the world since its early days where
+you were there, present, right there?
+Not much.
+Really?
+No, of course not.
+I mean, I don't know how you can ask that's a very broad question.
+How has the internet changed the world?
+I mean, it's probably the, I mean, you could say the computer is the most significant invention
+of recent days because it sits underneath all those, but of the things the computer
+did, the internet probably changed people's lives more than any of them.
+And one obvious reaction that we're all experiencing right now is that if we had wanted to do a
+lockdown to stop a disease from spreading 20 years ago, what we're doing today, everyone
+working from home, everybody meeting all the time by video calls and so on, that would
+just not even be possible.
+So the lockdown wouldn't be possible.
+It might not be possible to fight that kind of disease.
+So that's just one example.
+I am one of several who, back in 2005, I wrote an essay saying, you know, a pandemic is going
+to come and at least this time, and I outlined all the things we're doing, we'll all be
+doing classes at home, we'll all be working at home and getting deliveries of everything
+we order online.
+And that has happened.
+Unfortunately, the other things that I predicted or advised didn't happen.
+So not everything changes, but you'll have to get a little more specific with a question
+like that.
+One of the reasons I ask is because this democratization of information seems to have brought a lot
+of liberty for people, but at the same time have brought a lot of confusion that some
+people are making the argument that we've never been this divided.
+But my argument is that we probably have always been this divided, but it just hasn't been
+heard.
+Now we have channels and access to those channels to be heard and, you know, contribute with
+our ideas and everybody seems to be, you know, basically ringing their own bells.
+Well I think what you say is true to an extent, but and I used to say it wholeheartedly.
+I don't say it so wholeheartedly now.
+I think that one thing that none of us, I would say none, I'm sure there were a few,
+but very few people accounted for, was the extent that propaganda could be a digital
+weapon.
+And so that, I think that has changed and is going to get worse.
+We're seeing that people, you know, countries, nations, and are attempting to use propaganda
+in an entirely new and different way.
+Targeting people individually, targeting people with just exactly the messages to push their
+buttons and get them to fight each other more than they would have fought each other in
+the past.
+Yes, we've always had differing opinions.
+We didn't tend to have our own facts so much and what's become clear is that populations
+are now isolating where they get the information from and each source is slanted in particular
+ways.
+It's, you know, mostly people in my community say, oh God, it's the right to have this
+worse and they're watching Fox News or whatever they're doing.
+But the truth is every side is getting its own particular collection of information.
+It's very hard to try and remove the biases from the media that you consume and, you know,
+we didn't anticipate that we anticipated, at least I anticipated that you would socialize
+with your friends online because I was doing that in the 1980s.
+In fact, it was one of the, what I'll call the great realizations of my life was back
+in a long time ago now, back in about 1981.
+I first got, oh, I've gotten on the ARPANET in 79 but I got on it for a day to day basis
+a year or two later and at that time everyone thought computer networks were for computers
+to talk to computers and, you know, exchange data, share files, that sort of stuff.
+And the epiphany was, wow, no, no, this is for people to talk to people.
+This is for our communication and not just for business but for socialization and a lot
+of the things in my career have been based on that epiphany and everyone else pretty
+much agrees with it today.
+But what was, should have seen more of the dark side of that, I guess.
+Yeah, I guess they come together, right?
+The light and darkness?
+They always do and in fact, you are, even the funny thing is you make this mistake even
+though you know the truth but it is a very common and foolish mistake to not look at
+any new technology and say, okay, what will bad people do with this?
+And I mean, we always think that, we always ask that question, we're always seeing bad
+people do things but I don't know why but we missed the idea that someone like Vladimir
+Putin would attempt to, you know, manipulate a country from the outside at a very deep
+detail and inside, you know, countries have done propaganda, they've done these sort of
+things but it was dropping leaflets from airplanes or having radio free, you know, radio stations.
+It was not the way it's become.
+It's also that the arbitration of good and bad has been democratized in a way that now
+a mob of people on Twitter can decide who is a bad person based on maybe one comment
+that that person has made 10 years ago, 15 years ago which brings a really big concern
+that how this whole thing is going to evolve considering how you mentioned we don't agree
+on facts anymore, how this world with all this arbitration of good and bad plus technologies
+like deep fake that are being easier and easier for people to just make up stuff from ground
+up is going to affect this sociopolitical, very fragile sociopolitical dynamic that we're
+dealing with right now.
+Well, you had two things in there.
+I'll briefly touch on deep fakes.
+While they're scary, if you think about it, of course, there's nothing in text which is
+inherently true.
+If someone sends you a written article saying something, you know that well, you know, anyone
+could write that and you have something in your brain that says I should see whether
+that's believable, I should see whether that's true.
+With video, you don't have that.
+You sort of think if I see it, it must be true and what I'm hoping is that we'll lose
+that sense that we'll see a video and we'll say okay, that's a video but, you know, videos
+are no more real than text and at least I hope because if not, if we start believing
+everything we see in video is true, we are going to get more riled up.
+But you touched on I think the deeper issue, one that we have not figured our way out of
+at all which is, you know, becoming mobs and this very tempting but dangerous vigilante
+justice which on the one hand, you think well, hey, that's just people expressing themselves.
+It's certainly allowed and it is but, you know, we actually have centuries of experience
+where we sort of laid down the principles of justice and how they should work.
+The idea of people having been presumed innocent until they're proven guilty and not being
+punished until that happens of metering out punishment to fit the crime and to perform
+not a retribution role but, you know, a deterrent and a rehabilitation role.
+Principles of evidence, principles of rights of the accused, rights of everyone involved
+and we built those systems of justice over hundreds of years because we saw what goes
+wrong when you don't apply those principles.
+Unfortunately, we have now discovered this new way to get not justice but retribution
+and we're clearly not being very good about it and we all feel very satisfied, haha, there's
+that person and I saw a video what looks like they were racist so I'm going to make them
+lose their job and I'm not saying people should be racist or we shouldn't be disapproving
+of people who are racist but sometimes the penalty is, you know, total annihilation from
+society for an offhand remark which is not appropriate meeting out of justice and I don't
+know actually what's going to be the solution to that.
+Now here's an example with respect to autonomous vehicle.
+There is the ethical dilemma with respect to autonomous cars that if you come across
+a crossroad, there is no ethical dilemma now just in this example that I'm trying to make
+a point out of, that you come across a crossroad and one is blocked, you can kill yourself
+for example and the other has a baby in it or an old man in it, which one would you choose?
+Now if this kind of mob mentality get into a justice system and say that, hey, if you
+for example kill a black person that is not okay but if you kill a white person that would
+be okay with an autonomous vehicle, would that be a possibility?
+I don't know about that one but getting back to your question of who the car would run
+over, that I do have an answer for which is they're keeping track of who asks that question
+and they're going to run over the people who ask that question.
+That is the plan.
+The reality is, does this happen to you a lot?
+Have you often been driving and had to decide whether to kill yourself or a baby?
+No, not at all.
+Have you ever heard of it happening to someone else?
+No, I've read a lot of arguments about it though.
+It is not a real thing.
+What it is, is it's a morbid fascination that we have with the idea of a machine deciding
+who lives and who dies.
+So for us, that used to be for gods, not even for people to decide and so as soon as you
+start saying, what if a machine is deciding who lives and who dies, everyone goes, oh
+wow, that's like deep, oh, got to figure that out.
+In fact, no, it's an extremely rare situation.
+I've been looking around and I can't say I've never found an instance where something like
+that happened but it's just not the kind of thing that's anywhere on anyone's priority
+list about what to program a car to do.
+And secondly, there's almost always already an answer in the law about where a car should
+go because the law is actually full of a thousand rules about where the car can go and who has
+right away and who's supposed to yield and so the car will first and foremost obey the
+law and so it's long time before anyone will have to imagine a car having to make that
+decision and so the fact that worrying about it is actually the ethical problem because
+if you spend a lot of time worrying about that, you're not worrying about the things
+that actually matter and might actually save people's lives.
+What are some of the more important factors and elements that matter with respect to autonomous
+vehicles?
+Well, I mean everyone is set on a goal of making the car so that it's safe enough on
+the roads to be accepted by the public and to not create great liability for the people
+who put it out there.
+There's actually nothing, I mean there are moral concerns going on but in fact there's
+just very practical concerns which is the first you've got to build a car that you can
+prove to yourself is safe enough to put out there.
+Actually, that's the first people you have to convince is that you yourselves have done
+it, you have to convince your lawyers, your company's board of directors that it's time
+to put this vehicle out on the road.
+So that's the challenge everyone's working for is how can they make it safe enough that
+we feel comfortable doing it.
+Obviously you want the public to feel comfortable with it as well.
+Right now you don't actually have to make the government feel comfortable with it.
+Someday you might have to but here's a little dark secret no one seems to know, it's already
+illegal to hit people.
+We don't actually need another law that say that, we've got that law down there, it's
+probably the most tested law in the world.
+There's no tort that's more common in courts than a car accident.
+Actually it's not in the courts that much because it's in insurance companies but effectively
+in that sense.
+So that's what you got to do and so now of course that breaks down into a lot of different
+problems.
+Right now if you were to ask people what's your hardest problem that you're working on,
+I think a lot of them would say we want to get the computer better at predicting what
+humans will do.
+So you're driving down the road, is that car going to suddenly change lanes?
+Is that guy going to step into the crosswalk?
+This is something that humans are better than computers at predicting what other humans
+are thinking.
+So that would be the one thing that people are sort of pushing on and people are working
+on all the other problems as well, making sure that you see and understand everything
+in the road, that you know you can handle lots and lots of unusual situations.
+These are key problems everyone is always trying to improve on and eventually people
+argue about what level of safety they want to achieve.
+Most people sort of dance around the idea of let's make it better than the average person
+and I don't think that's unreasonable.
+Some people want to be much better than the average person, I don't actually think that's
+the right path.
+I think perfection is certainly not attainable and therefore not the right goal to go for.
+I even think there are arguments that you could make it just as good as a teenager with
+a freshly admitted driver's license.
+Now people would say that's not very safe but we certainly allow that on the road and
+we do it because that's how we turn those teenagers into more mature, better drivers.
+But the one trick is that when we make a teenager better with a driving course or some experience,
+we only make one teenager better.
+If we let robots go out there and get their experience and improve, we make all the robots
+better at the same time, at least all the ones from the same company.
+Yeah on the social level it just seems to me that people's immediate problem with machines
+is that they're going to replace humans, whether it's labor or decision making or anything
+like that and then a lot of arguments are being made using or maybe taking advantage
+of that concern coming from the side that they're fundamentally against automation,
+against autonomous vehicles, they make the ethical or moral kind of an argument, right?
+Yeah, it's reasonable to worry about that.
+I think some of that worry is not justified, I think some of it is.
+So far the history of machines replacing humans is actually not nearly as scary as people
+imagine back in the Industrial Revolution.
+In fact a famous statistic which astounds people is that there are more bank tellers
+today than in 1970 and if you were to say name me a job where the machine replaced a
+human everyone say well bank teller I don't go in and you know get cash from the human
+being anymore.
+Those bank tellers aren't handing you cash anymore of course, they're doing other things.
+But in fact we actually haven't done that much.
+Now will that change?
+But we've predicted that machines will take all the jobs for 150 years, every 10 years
+a big nasty book will come out warning how oh my god the machines are going to take all
+the jobs and guess what?
+It's wrong every time.
+Now is it someday going to be right?
+Maybe, maybe and should we think about it?
+Sure we should think about it but we should also understand why we're always wrong when
+we make the prediction and try and figure out how we can tell that oh this is the time
+where we're no longer always wrong, this is the time where it really happens.
+Now when it comes to driving well we got two kinds of people making their learning or making
+their living from driving.
+We do have you know all the uber cab drivers that sort of thing in the world and I don't
+want to deprecate these people but the truth is they don't think of that as a career.
+They didn't when they were little kids say I want to grow up and be a cab driver all
+right.
+They do that because it's kind of handy gig work they can set the hours, it doesn't take
+a lot of skill, you basically can go out there and work when you want and you've got a car
+and you make some money and I think that those people will go and do something else like
+that if driving isn't that great a way to make money with it.
+Sure uber and lift and those companies discovered a way that people could make money that way
+and they enabled a lot of people to make money that way but that didn't even exist 11 years
+ago.
+So cab driving existed but it was a much smaller profession.
+Then there's professional truck drivers those are real there's about three million of those
+in the United States.
+Now in the professional truck driving industry and long-haul driving in particular the turnover
+every year is often more than 100 percent.
+Basically that people leave more people leave the job than there are jobs so that they only
+last less than a year in the job that's what it means you can you think how could it be
+more than 100 percent.
+They just don't want to do it right?
+It's grueling work.
+If you do it long haul you basically have to go out and for a week of sleeping in motels
+in the back of your truck you don't see your family.
+It's both boring and scary at the same time and yeah it pays it pays okay than most other
+jobs of that skill level because it only takes a month or so to get the training but no.
+So when they start driving the trucks which they will they're not going to put anybody
+out of work at first they're going to just replace the truck driving jobs that are sitting
+open which is a lot of them.
+Eventually they might sit and go after some of those career truck drivers and I do feel
+yeah it would be good to have some alternatives for them find some outs and maybe the government
+can do that maybe the companies can even do it.
+But among all the jobs that people will find replaced by machines these ones this is not
+a great answer if you're in them but these ones are not the top of the list of ones that
+people will worry about.
+Yeah people also are very worried about the manufacturing jobs and that is being misused
+or used or whatever you want to call it for political purposes all across board.
+You know manufacturing jobs weren't taken by robots manufacturing jobs were taken by
+cheaper workers China oh not just yeah China other countries Philippines Southeast Asia
+is the place right now used to people who used to think Japan was the place with the
+cheap workers of course Japan very quickly didn't have cheap workers and you know people
+in India Pakistan you know they're anywhere that especially that is there they speak English
+so help them do jobs for the Western world.
+Anyway yes that's going to continue there's going to be labor disruption I don't think
+anyone can alter that but let me give you two ways of thinking about machines doing
+human tasks which is that many people have published studies and they say we calculate
+that machines are right they don't do it yet but they're right to do like a third of the
+tasks that human beings do and some people get that and they respond by saying oh my
+god the computer is going to take my job what am I going to do I must admit that I respond
+to a different way saying when can I get that fantastic I don't want to do all those stupid
+boring things I have to do the computer could do that for me and sign me up and it's really
+a mix of both for most people and what's actually happened in the past in all the jobs is that
+the computer has done some of the boring or dangerous parts of it and the human beings
+have done the rest and employment has not counting coronavirus panics employment has
+grown and was until recently higher than it ever been in history and it wasn't the credit
+of Donald Trump he likes to pretend it was it was the march of progress that's actually
+made more and more jobs a hundred years ago half of the population worked in agriculture
+farming and now about two or three percent of the population work in agriculture farming
+so all those jobs disappeared half the jobs in the world went away and now more people
+are working than ever right new jobs were created because of the technological revolution
+some brand new jobs are created but actually most of those people are working in jobs that
+existed in some form or another but they're doing them in different ways like bank teller
+bank tellers are not handing you cash anymore right they're doing other parts of the banking
+job so let me read you a question that one of our readers and previous guest fritz harrell
+from ontario you're from canada originally right i am from ontario indeed yeah yeah amazing
+i live there 11 years in toronto he's wondering about your take on the long-term consequences
+of separating humans from the actual activity they're doing given we are the outcome of
+a long evolutionary process and this technological concentric distancing from an activity we
+are actually responsible for might have unexpected unexpected outcomes and then he's using the
+airbuses fly by wire computer controlled flight that left pilots unable to fly boeing's computer
+assisted aircraft safely which he thinks were part of the mcas mishaps in addition to a
+poor design decisions he has another part to his question but maybe you answer this
+one first well yeah i don't want to be too critical but that question seemed to dance
+around a lot of different things so i'm not sure what specific thing he wants to get at
+but i'll talk about a little bit about the boeing aircraft i mean so um i mean it was
+airbus of course that pioneered the idea of making aircraft be fly by wire at the time
+that they were founded everyone said you're crazy we can't make an aircraft that way and
+they did and they were very successful and boeing was of course the company not that
+did not pioneer that and their decision with the 737 max was actually uh i i thought it
+very different from that they wanted to make another vehicle that they could say was the
+same the 737 one most popular aircraft in the world every airline has a lot of them
+every pilot in the world is trained to fly the 737 and what they hoped is they could
+make a 737 with bigger engines and more and newer more efficient engines and make it so
+that any pilot could fly who knew how to fly the 737 that was what they hoped to do and
+that's what they got wrong uh they they figured the way to do that since they built actually
+a different aircraft which wouldn't fly the same as 737 and they tried to make it fly
+as a 737 by using the software system which is not entirely a wrong thing to try to do
+but they just didn't do it very well and they there were some areas where they didn't test
+it properly and it it um you know it goofed up and then the pilots were not trained on
+how to deal with it because that was the whole point of the 737 max no not no new training
+but very little new training needed for a 737 pilot take the wings it turns out there
+should have been more training and so some pilots uh didn't understand what was going
+on by the way there were pilots who had that happen to them and they uh dealt with it because
+they were more experienced pilots and uh so anyway and of course catastrophic for bowing
+uh but uh i'm the rest of the question rambled a little bit so i wasn't entirely i think
+the soul of this question goes back to what you said how human drivers are still better
+than machines and he's talking about the unseen consequences of replacing let's say human
+drivers who have we have evolved decades learning how to drive a car and watching our parents
+drive a car and seeing other drivers and this whole thing being replaced by the machines
+basically well so um that is actually an answer we'll give in the other direction by some
+of the for example waymo the company that i worked for in its early days google um yeah
+it was google at the time uh they have now been out there driving and testing their software
+well i don't know what the most recent number they published but i think it was around 20
+million miles of real road driving um so that's about 40 human lifetimes of experience in
+the sense that when anything unusual happens so these cars are out there driving themselves
+but they have people in them the people are making note if anything weird goes on they
+take over if they think there's a chance the software is going to not do the right thing
+and so their safety record is excellent they've had only one very slow crash that took place
+where it was the fault of the computer uh and by the way so you never you know there's
+never been a case of human being driving for 40 lifetimes well no one drives for 40 lifetimes
+but um human beings are not nearly that good they could drive for 40 lifetimes and never
+and only once have fault for a crash um now that's with the supervision there it's more
+like student drivers with a driving instructor sitting next to them ready to grab the wheel
+and so that's one reason they don't have the accidents but anyway they've been doing that
+and so they think they have seen more than any person could ever see in addition by the
+way they uh then have the car drive around in simulator you know a little video game
+basically uh and they've driven billions and billions and billions of miles and either
+way and most of the miles none of the miles they drive in simulator are boring they don't
+have it simulate driving on the freeway for an hour which is what humans have for most
+of our experience it spends that hour going through a hundred different crash situations
+and 200 strange other situations testing and it's going to do the right thing so actually
+there's a fair claim that these systems are far more experienced at driving than we are
+what they don't have they have experience what they don't have is uh you know the high
+level human thought and intuition uh which can solve problems never seen before so the
+answer to that is they feel now people can argue whether this is true or not but if you
+just pound at it long enough and you drive for 20 million miles or some other amount
+like that and do all these tests you reduce the probability of something you've never
+seen before happening you get it down to the point where you're you are seeing new things
+but you're handling them correctly and if we don't handle one correctly then you get
+very upset and you try and fix it and you find yourself getting to a level where that
+bad incident where something new happens and you don't handle it correctly and there's
+a crash is so rare that you're better than people and if you get to that level um which
+Waymo claims they are already in at least in the simple driving environment near Phoenix
+where they have an operating passenger service where vehicles are running around not right
+now with the virus but generally we're out running around with nobody in them picking
+up passengers taking them across town so uh you can do that once you've got to that level
+and then you get even better and you release it out to the world.
+Waymo is the same company that they partnered with Walmart for driverless trucks?
+They do they do have a they do have I believe a small partnership with Walmart doing deliveries
+I think Walmart's done one or two partnerships um but the other yes they are also making
+trucks as well that's correct.
+Do you think laws and regulations are in a way obstacles in a way of technological progress
+I think I read somewhere that the first car when it came out in late 19th century it was
+15 years later that they placed a first stop sign.
+Well that would make sense I mean there were no roads for cars back when those first cars
+arose and there were no gas stations and there's the famous story actually of Berta Benz the
+wife of Carl Benz who of course built the first commercial motorwagen and Berta uh it's
+maybe exaggerated but the story is she kind of snuck off with it and drove for about 60
+miles to another German town and she had to stop at a drugstore which actually had a supply
+of benzene there were no stations of course for this and it was all back dirt roads and
+so on so she did the first road trip including having to fix the vehicle on the way so a
+pioneer in her own way and it's certainly was a long time it yeah it took a while for
+I don't know if it was the law I mean there were a few rare cases it's not as common as
+people imagine but there were a few cases of very strange laws from people scared of
+the car.
+The funny story is that when the car did arrive actually the first cars were electric but
+pretty quickly they switched to running on benzene gasoline that the first cars to or
+when cars start arriving in New York City everyone praised them as oh my god we're
+going to end pollution with these and the reason they said that was the roads were full
+of a different kind of pollution from the thing that we used before cars yeah no they
+were the roads were deep and harsh it was an actual big problem and yes these things
+made a few bad smells in the air but nothing compared to the horses and so people were
+very happy about that.
+This dynamic between regulations and technology today though because the way that you talk
+about it and I totally agree with it that automating driving maybe it is an ethical
+choice that it can be made an argument because of it that it will cause less accidents it's
+better eventually than human drivers but there will be lawmakers who are paid special in
+United States lobbied by car companies let's say or a variety of special interests and
+lobbyists who are placing obstacles on the way of this progress.
+To an extent actually though because the car companies at least until recently and still
+to a large extent they want to win this technology fight they they're trying to build these vehicles
+they're scared of the startups being more nimble than they are smarter than them but
+they won't admit that so they're mostly for it although it doesn't mean that they wouldn't
+mind if it went a little bit slower and if it was a little bit harder for new companies
+to get in the game and for big companies to continue to win but other than that what we
+you know the people we've got try to do this though are Google and Apple you know and Ford
+and General Motors frankly when those companies want something I think it'll happen I think
+that they have the lobbying much more lobbying power than anyone else.
+Now nonetheless there's certainly legal efforts to slow things down and as I've said I think
+it's already illegal to not drive safely on the roads and so that those laws and the truth
+is all the companies are very afraid not just of the legal consequences of them hitting
+something but we saw that Uber of course did completely screw up what they were doing they
+did run someone over and that shut down their project which a project they had named was
+central to the success of their company and it shut down and it's they have like a couple
+of test cars out now and this is years later now it's just two years later now everyone
+stopped because of the pandemic but you know everyone realizes that they're investing billions
+in this thing and if they make a mistake like that it could just wipe it all out and so
+they're very strongly motivated to not make such a mistake obviously in the case of Uber
+not strongly enough and that is a long story we can get into if you want but because I
+probably studied that more than anybody outside of Uber or the NTSB and you know and it was
+in the end it was it was a it was human error but human error caused by management decisions
+poor management decisions.
+This is Uber.
+Yeah the Uber fatality now I mean obviously the software in the Uber car was not good
+enough to drive the roads that's pretty clear but that's not a mistake in the sense that
+all of the cars when they're prototypes go out there unable to drive and I have been
+in the Google car when it you know started acting erratically and I had to take the wheel
+every single vehicle no matter what the quality of the team making it goes through periods
+where it's necessary for the human being inside of it to take the wheel and stop it from hitting
+something fortunately very rarely a person but in some cases there have been many incidents
+where you someone had to take the wheel to stop what might have been an accident that
+hurt somebody so that's normal that's that's part of the game and as I said they've gone
+for this 40 human lifetimes without hitting anybody so it works if you do it well but
+it doesn't guarantee that people will do it well who were hired obviously a very poor
+choice of person to supervise the vehicle to make it worse everybody uses two people
+to supervise the vehicle and they decided to go to just one for reasons that are still
+debated and the person they hired paid no attention to her job and started watching
+a streaming show on her phone and so yeah yeah if your job is to watch the road and
+you're watching a streaming show on your phone people can get hurt and that is that is tragic
+but it is sadly not too remarkable in terms of of telling us that though the robots are
+dangerous I mean I won't say there's no lessons to be learned for how to operate robots there
+are lessons to be learned that uber and other people did learn them but everyone also learned
+the lesson a lesson that they all knew which is you cannot play it fast and loose the way
+that uber did because it can mean the end of everything you're trying to do what you
+said what you said about google also reminded me of google glass that when it came out it
+was it was so cutting edge and we were all like this is what we want to get you know
+it's it's like a very obvious step towards becoming a cyborg but people started attacking
+a lot of people who were wearing google glasses around san francisco area that they filmed
+it whether it was because they were threatened because of privacy reasons or because they
+were threatened because hey you you think you're better than me or something like that
+and that kind of shut it down for I don't know I know that they're still around but
+not my doctor is always wearing one when I go to the doctor and he says he says I have
+to ask if it's okay to use this and I say well I helped build it so I'm probably okay
+with it now I helped in a very very tiny way I was working at google x on the car and glass
+was the second project of google x where I sat with those people and you know contributed
+very tiny amounts to what they did but so no I mean glass was just a product that was
+I mean both too early and aimed a little bit wrong as happens when you're too early and
+I don't think there's any giant lesson from that I mean there are lessons to be sure the
+lesson as I make in a humorous way is that glass was designed to be super lightweight
+they wanted it to be really light and small and especially for that day I mean I think
+there's people who've done even better years since but at the time it was a remarkable
+engineering achievement to make it so light and small and the goal in fact was to make
+it so light that you would forget you had it on which you could I mean I wore it from
+time to time and I would forget it was on there I let you know I'd even go to the bathroom
+with it on I'd realize now probably that's not a cool thing to do but the joke was that
+it nobody else forgot you had it on anyone who looked at you said oh he's got that super
+geeky thing on his head one of the design factors was it was asymmetrical it was only
+on one side of your head the human eye is very noticing of that so nobody knows and
+so people just weren't very accepting of it it couldn't do very much because it was limited
+by how much power it would take to do things it had to run on a very small battery that
+fit in the arm of an eyeglass or a little box behind your ear and I don't think we've
+actually figured out the exact answer for how we would want to wear a computer well
+I don't have it on right now but I guess so I have smart watch that I wear some of the
+time I actually think the watch is a better form factor for these sort of things the watch
+doesn't take video because it's not up in a place to do so you know I see you're wearing
+a kind of amulet I actually think that wouldn't be a bad form factor what have you got there
+it's a yeah these two have been brought for me by my girlfriend from Hawaii and the first
+you're wearing it is art yes but I'm all in favor of you know if there will be a contact
+lens or Elon Musk Neuralink by the time it's a third fourth generation that you can somehow
+rely on it that it's not gonna you know it's not the first generation I'm all in favor
+of it because I think this is actually not a new process that we are merging with the
+machines is just becoming seamless well so the goal with glass was not to merge with
+machines by any stretch what they wanted to see happened with glass and you know unfortunately
+wasn't as exciting as they wanted it to be but they wanted to see what happened with
+what if you know what if a computer or a computer or the network was just really super available
+with very little effort very little time I mean obviously everyone's already got a phone
+in their pocket so you'd think boy isn't computing very available to you and it is but reaching
+into your pocket pulling out a phone unlocking it finding the app you want to run running
+the app getting an answer that is comparatively a lot to just having something in front of
+your eyes that you can just look at and see so anyway so the answer was yeah it wasn't
+as exciting for people who need to work hands-free like the doctor there's people like that using
+devices like Google Glass today and it's reasonably successful with them but will it be in a watch
+will it be an appendent will it be in a well contact lens sure but we don't know how to
+make we don't have the technology yet to make a contact lens to do what we need to do there
+other than to also have glasses with it to send the power to it because there's no way
+to store power in a contact lens you got to transmit the power safely to it and and will
+it be an implant in the brain well again lots of experimentation going on there but very
+very primitive right now maybe someday will be less primitive including Neuralink you
+know Neuralink doesn't say a lot about what they're doing so I can't really you know comment
+on it only in a very speculative way but actually I'll tell you the one thing about about things
+like Neuralink which makes it such a hard problem is we've already got this massive
+channel into the brain right here and to beat the ability of this thing to get information
+into the brain I mean that that's not happening for a long time I mean the eye the eye and
+the ear of you know obviously evolved to be this but they're extremely high bandwidth
+information channels which we're very tuned to work with so you toss a chip in your brain
+with a thousand electrodes and yeah you might be able to do some cool stuff but you're nothing
+compared to the eye what are your thoughts on merging with machines in general you're
+involved in Singularity University Ray Kurzweil has the date 2045 for Singularity yeah I don't
+know I think you should never name dates that's a that's a bad thing and it well whatever
+of course people have many different definitions of what a Singularity is actually Verna Vinci
+who was the person who coined the term and who I've known for many years I published
+one of his books in e-book form back good lord almost 30 years ago he eventually said
+that the idea of a singularity was actually like a mathematical singularity a metaphor
+for it as a point that you can't it's undefined that you cannot predict beyond that it's you
+don't have the equipment to predict what it means so which means it's not kind of pointless
+to talk about what it means because you are not equipped to do it maybe future you will
+be equipped to do it and and then more specifically of course of computer intelligence becoming
+so smart that it surpasses humans and that among the things that surpasses humans that
+is programming new intelligence so that it is also better at making its own descendants
+and that this could then happen so quickly that you quickly leave the abilities of humans
+behind it's very hard to predict when that would happen or if that would happen but yes
+we're we are going to get closer and closer machines and I do believe it is obviously
+possible to have intelligence in a machine because if you can have it in a sort of a
+wet tank of proteins inside bone I'm pretty sure you could have it in other things I'm
+nothing magical about our brains some people trying to imagine all the brain has some mystical
+ability to hold intelligence well obviously religions believe that religions believe that
+there's something outside the brain a soul bestowed from God or whoever is the origin
+of those things but if you're not taking that approach then there's nothing magical about
+the brain and so clearly that's not the only way that intelligence could exist and so eventually
+we will make one I mean we make intelligences all the time any man and woman can do it with
+the things around they have around the house but we are not aware of how we do it it just
+evolved but it's obviously possible to do it when we will understand how to do it is
+a less answered question but we keep seeing glimpses that we're getting closer to that
+but I'm not going to go so far as to agree with Ray's prediction very interesting perspective
+I haven't I've never heard the bone and the like if we can create intelligence in with
+our structure we certainly can it can be done within machines that's that's a very interesting
+comparison but we do it right I mean yeah unless you believe in the mystical soul coming
+into the body it is entirely the act of humans which makes more humans and more intelligences
+well mystical soul is just an attempt to answer the unanswerable basically right our attempt
+that we know what's going on it's a lot of things it is for many people though a strong
+desire to feel that we are more than yeah some people some people feel that and then
+they sense that they look at the world and they say it has to be more than flesh and
+bone other people you know feel they've had a religious experience to tell them that and
+so there are many people who think that and there are other people and I'm one of them
+who look at it and say actually I think it's freaking amazing that you can have intelligence
+from just that's it's not you know God is wondrous and amazing I'm saying it's wondrous
+and amazing that evolution could produce something like us and Einstein who though he was a religious
+man said a great thing he said the most incomprehensible thing about the universe is that it is comprehensible
+that that the remarkable thing is that something as amazing as the universe and of course it's
+amazing and many people say that's proof of God is that the universe is so amazing but
+the fact that the workings of the universe can at some level be understood inside the
+brain of a piece of the universe that's what Einstein was marveling at and I marvel at
+it with him yeah I totally agree the God term I've talked about a number of people mathematicians
+philosopher technologists it means nothing when people are saying it they don't even
+know what it means they just throw it out there to basically fill a gap of the unknown
+I'm not gonna go that hard I mean there are people who devote their lives to it my father
+before I was born devoted his life to it he became an agnostic but the Christian version
+of a God the Christian version he was he was of Christian but there are people from all
+kinds of faiths who all and many people who devoted themselves now there is a cynical
+but very rational explanation for it that the brain does seem to be a little bit primed
+to feel a spiritual connection and they've found for example there's areas in the brain
+that you can stimulate that cause people to have a religious experience so that they actually
+feel they've got direct contact with something spiritual and having directly experienced
+that then they it is not surprising that they believe it you think machines could have a
+similar kind of an experience yes I mean I don't think they'd have a part of the machine
+that you can stick electrodes in and it starts seeing God humans seem to have that some would
+argue ah God put that there well there should be a need for it right well I believe that
+we are machines and in the full formal definition of a machine obviously we're not gears in
+oil and so of course machines can have spiritual experiences because we are machines and we
+have them and machines that think as we do or think better than we do of course should
+be able to understand what spiritual means and now would they actually have the spiritual
+experience that comes to us because of what some might call a flaw in our brains they
+could be designed to I'm not sure I would design one that way but someone else might
+fair enough but would they be able to understand the things that we talk about when we talk
+about spirituality I would have to believe so if they are as smart as we are yeah let
+me just mention this when I said about God and people I don't mean to offend anybody
+I you know I I guess can be considered a spiritual person in my own way but my argument was that
+objectively speaking it's impossible to come up with kind of a definition that you would
+have everybody agreed upon because a Muslim God is a very different than a Christian God
+than a you know whatever higher being that Hindus believe in for example and majority
+of people in the world they don't believe in any specific version of a God well let
+me go more specific than this though I will tell you that I'm one of the people who believes
+that it is not out of the question that the first machine intelligences would be copied
+from human brains and this has become something the public's a little more aware of because
+Amazon recently released a TV series called upload where that's essential plot element
+this concept has been around in fiction and in speculation for many decades and the idea
+is that while we do not understand how intelligence works or how the brain works it's not impossible
+that first we'll understand how it works at the low level and simply copy the pattern
+that we don't understand but we can copy some people argue whether we can copy it or
+not but let's people here are positing that you could copy it into a non-bag of protein
+form into a wouldn't necessarily it wouldn't be a digital computer but it would be some
+kind of electronic form for example and that you would have then that human mind inside
+the silicon and that would be both an artificial brain and a natural intelligence in the and
+of course as a copy of you or I or anyone else it could certainly believe in God and
+talk to you about God all day exactly the same way the human that this he or she was
+copied from could let me read you the second part of the question that I read that how
+will the insurance business appropriate fault in a computer controlled car would it be the
+driver the car market and carmaker the software engineer who would it be funny because I just
+literally a few minutes ago came from a planning session for a debate that we'll be having
+online tomorrow on insurance and self-driving cars and I've actually spoken about that a
+lot where would that debate be it'll be of course virtual like what what website or it'll
+be this website called zoom-tank.com I'm not actually in this particular bait I'm usually
+in it but I'm in the planning committee and so the the answer is bad for the insurance
+companies which is that I don't think they actually have a role here now he's your friend
+is asking a question which a lot of people ask they just want to know who's at fault
+and the answer that's always been very obvious which is to say that first of all the computer
+makes a complete recording of anything that happened in three dimensions a recording far
+beyond any recording you've ever seen so in terms of who broke the law and who was at
+fault under the vehicle codes and so on that will be known within seconds you know look
+at the recording you'll say okay this guy did that that guy did that so in terms of
+legal fault that will be super simple and trivial and so if the software made a mistake
+the people who made or run the software will obviously be liable for it and no one's ever
+doubted that in fact so much of people never doubted that that most of the major companies
+including Google Volvo Mercedes all the big the big car companies not all of them but
+most of them have declared in advance of course we will be responsible if our car crashes
+and it's the fault of the car software we're not responsible if you run into it but you
+know if if it runs into something they're faulting how could it be any other way would
+you get into an uber if you had to sign a thing saying if this uber driver crashes I
+have to pay of course not you're not going to get into that car so of course they have
+to accept the responsibility for it so that a lot of people think like I hear that question
+a lot and it surprises me because to me and I think too many of the people the answer
+has been very straightforward are you familiar with defense distributed oh you mean Cody
+Wilson yes I met him interesting character how do you see this law lawsuit and the whole
+being able to print guns from the perspective of free speech and civil rights especially
+since you basically were at the top of electronic what is that the electronic frontier foundation
+yes we did a lawsuit over many years to get the courts to declare as they did that software
+is a form of expression and therefore protected by laws of free speech and so yeah the same
+applies to his files I would have to say even though they're even scarier I guess to people
+because he can make parts for guns or you can make parts for guns or the 3d printer
+so I'm not surprised it scares people I'm not surprised people are going after him but
+if you wanted to imagine a world where there are illegal files with things that must not
+be known that's a pretty scary world yeah it is speech though right
+it is it is yeah I mean and then I think we got the court so I shouldn't say yeah obviously
+because not yeah obviously because we did have to fight get a court to rule on that
+and have an eight-year fight but to us of course the case was pretty clear yeah I thought
+the genius of him was just blurring the line between the second amendment and the first
+amendment in such a meaningful way I read his book too it's not like he's right or
+left and I think this is beyond any kind of a political affiliation well you know as a
+Canadian you're probably not as much of a fan of the second amendment as most Americans
+are I'm a huge fan of second amendment because I'm coming from revolutionary Iran and I know
+that they distributed guns among the revolutionaries to take over the government and the first
+thing they did after the revolution succeeded it's like okay we're recalling all the guns
+the state has a monopoly on violence yeah no no I mean if you're in a obviously a dire
+situation as was the case in Iran but either during the Shah or later during the revolutionary
+government it's there's a reason why you want the public to defend themselves and in Canada
+actually of course there's a huge ownership of rifles among the population people think
+Canadians don't have guns no no we have lots of rifles what we don't have is handguns and
+it is clear that handguns are responsible for a significant increase in gun deaths in
+the United States I mean the numbers are just staggering so anyway but whether you're a
+fan of the second amendment or not people come to the defense of Cody Wilson because
+strictly for the first amendment question yeah all right let me this was a pleasure
+thank you so much for your time let me ask you the last question I ask all my guests
+that if you come across an intelligent alien from a different civilization what would you
+say is the worst thing humanity has done and what would you say is our greatest achievement
+well of course the intelligent alien already knows this in any real situation because any
+intelligent alien we're going to come across has got significantly greater capabilities
+than we have what is the worst and best thing that humans have done I mean I guess my answer
+on the worst thing is kind of boring right it's it's atrocity it's the long history
+of atrocity that we have it's the long history of you know like what happened you know we
+we study forever what happened in Germany in various other cases but to many ways you
+look at Rwanda where which happened in the modern world where we know the example of
+Germany and where you look at the Khmer Rouge in Cambodia where again we knew that example
+and it was modern times and it didn't take very much to pull away the veil and people
+would come out with their machetes right in Rwanda so the fact that and the fact that
+by the way Germans aren't really worse than us right we imagine okay oh yeah well they
+know the Germans were just they were all internal Nazis and so they did these horrible things
+no they were people not too different from the people today yeah people think it can
+be replicated here and repeated here in the US so yeah that's that that is still true
+as I would say is one of the things I think is the worst of us the best of us is what
+Einstein said that we have managed to actually get closer and closer to an understanding
+of the way the universe works that we're a piece of the universe and we keep doing that
+and we came up with science we came up with a way to actually make reliable information
+that we could test and repeat and test and repeat until it actually seemed like we had
+confidence it was true and that all of us know is true because we bet our lives on the
+truth of scientific principles every day everywhere we go and except when we're staying at home
+all day that's now we don't bet our lives on science every day well we still bet on
+the the food we eat is assured through these principles that we've devised so that grand
+achievement is the best bet.

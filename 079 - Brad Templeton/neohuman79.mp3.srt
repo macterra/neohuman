@@ -1,0 +1,2836 @@
+1
+00:00:00,000 --> 00:00:06,080
+I believe that we are machines and in the full formal definition of a machine, obviously
+
+2
+00:00:06,080 --> 00:00:08,720
+we're not gears and oil.
+
+3
+00:00:08,720 --> 00:00:12,880
+And so of course machines can have spiritual experiences because we are machines and we
+
+4
+00:00:12,880 --> 00:00:21,760
+have them.
+
+5
+00:00:21,760 --> 00:00:27,280
+Hello and welcome to the 79th episode of Neohuman Podcasts, I'm Agabahari Adygologist on Twitter
+
+6
+00:00:27,280 --> 00:00:28,280
+and Instagram.
+
+7
+00:00:28,280 --> 00:00:32,840
+You can follow this show on LiveInLimbo.com, iTunes, YouTube, BitChute, and at some point
+
+8
+00:00:32,840 --> 00:00:33,840
+on Spotify.
+
+9
+00:00:33,840 --> 00:00:36,360
+And today with me, I have Brad Templeton.
+
+10
+00:00:36,360 --> 00:00:38,320
+Welcome to Neohuman Podcasts, Brad.
+
+11
+00:00:38,320 --> 00:00:40,760
+Yes, hi, good to be here.
+
+12
+00:00:40,760 --> 00:00:42,000
+Pleasure to have you.
+
+13
+00:00:42,000 --> 00:00:45,720
+And just to give our audience some kind of a context where your thoughts and opinions
+
+14
+00:00:45,720 --> 00:00:49,600
+are coming from, let's start with your background, the work you've done, the lives you've lived
+
+15
+00:00:49,600 --> 00:00:51,880
+and what are you mainly focused on now these days?
+
+16
+00:00:51,880 --> 00:00:53,760
+Oh, I mean, I have to do that.
+
+17
+00:00:53,760 --> 00:00:57,640
+It's always much more self-aggrandizing when you have to do that.
+
+18
+00:00:57,640 --> 00:00:59,040
+You get the host to do that.
+
+19
+00:00:59,040 --> 00:01:03,760
+Well, I've done a lot of different things, all pretty much related to computers and high
+
+20
+00:01:03,760 --> 00:01:10,320
+tech, but I started out in the software field, wrote a dozen software packages back in the
+
+21
+00:01:10,320 --> 00:01:14,200
+80s, games and tools and things like that.
+
+22
+00:01:14,200 --> 00:01:19,560
+Got probably, well, the other two things that made people know me were one was in the 80s,
+
+23
+00:01:19,560 --> 00:01:25,000
+the internet was growing and I hosted what would be considered the first or one of the
+
+24
+00:01:25,000 --> 00:01:29,760
+first blog type things, a publication of comedy that was the most widely read thing on the
+
+25
+00:01:29,760 --> 00:01:32,720
+internet for many years.
+
+26
+00:01:32,720 --> 00:01:38,560
+But then I also started the first dot com, the first business on the internet, an electronic
+
+27
+00:01:38,560 --> 00:01:42,400
+newspaper back then, which I built during the 90s.
+
+28
+00:01:42,400 --> 00:01:50,040
+That was started in Waterloo, Ontario, a town you may know, but I moved it to Silicon Valley.
+
+29
+00:01:50,040 --> 00:01:54,120
+Since then, after selling that, I've been involved in a lot of different ventures and
+
+30
+00:01:54,120 --> 00:01:55,720
+the nonprofit work.
+
+31
+00:01:55,720 --> 00:02:00,160
+I was 20 years at the Electronic Frontier Foundation, which is a civil rights group.
+
+32
+00:02:00,160 --> 00:02:05,320
+It does free speech, privacy, these things in the computer world.
+
+33
+00:02:05,320 --> 00:02:10,920
+Forsythe Institute, an organization devoted to nanotechnology and futurist technologies,
+
+34
+00:02:10,920 --> 00:02:15,160
+went to work on self-driving cars, got very interested in them, got invited to work on
+
+35
+00:02:15,160 --> 00:02:18,440
+Google's self-driving car during its first few years.
+
+36
+00:02:18,440 --> 00:02:21,960
+It's now known as Waymo.
+
+37
+00:02:21,960 --> 00:02:31,600
+And let's see, also helped build a fake university called Singularity University, which tries
+
+38
+00:02:31,600 --> 00:02:36,600
+to help people understand the effects of rapidly changing technology and that during the previous
+
+39
+00:02:36,600 --> 00:02:38,040
+decade.
+
+40
+00:02:38,040 --> 00:02:44,440
+And all along, I've been writing and talking and inventing in those fields.
+
+41
+00:02:44,440 --> 00:02:49,600
+How has the internet world has changed and changed the world since its early days where
+
+42
+00:02:49,600 --> 00:02:52,800
+you were there, present, right there?
+
+43
+00:02:52,800 --> 00:02:53,800
+Not much.
+
+44
+00:02:53,800 --> 00:02:54,800
+Really?
+
+45
+00:02:54,800 --> 00:02:55,800
+No, of course not.
+
+46
+00:02:55,800 --> 00:03:00,240
+I mean, I don't know how you can ask that's a very broad question.
+
+47
+00:03:00,240 --> 00:03:03,880
+How has the internet changed the world?
+
+48
+00:03:03,880 --> 00:03:09,840
+I mean, it's probably the, I mean, you could say the computer is the most significant invention
+
+49
+00:03:09,840 --> 00:03:13,000
+of recent days because it sits underneath all those, but of the things the computer
+
+50
+00:03:13,000 --> 00:03:18,560
+did, the internet probably changed people's lives more than any of them.
+
+51
+00:03:18,560 --> 00:03:24,080
+And one obvious reaction that we're all experiencing right now is that if we had wanted to do a
+
+52
+00:03:24,080 --> 00:03:30,920
+lockdown to stop a disease from spreading 20 years ago, what we're doing today, everyone
+
+53
+00:03:30,920 --> 00:03:36,160
+working from home, everybody meeting all the time by video calls and so on, that would
+
+54
+00:03:36,160 --> 00:03:37,160
+just not even be possible.
+
+55
+00:03:37,160 --> 00:03:38,600
+So the lockdown wouldn't be possible.
+
+56
+00:03:38,600 --> 00:03:42,160
+It might not be possible to fight that kind of disease.
+
+57
+00:03:42,160 --> 00:03:45,240
+So that's just one example.
+
+58
+00:03:45,240 --> 00:03:52,080
+I am one of several who, back in 2005, I wrote an essay saying, you know, a pandemic is going
+
+59
+00:03:52,080 --> 00:03:55,760
+to come and at least this time, and I outlined all the things we're doing, we'll all be
+
+60
+00:03:55,760 --> 00:04:00,160
+doing classes at home, we'll all be working at home and getting deliveries of everything
+
+61
+00:04:00,160 --> 00:04:01,420
+we order online.
+
+62
+00:04:01,420 --> 00:04:02,420
+And that has happened.
+
+63
+00:04:02,420 --> 00:04:05,760
+Unfortunately, the other things that I predicted or advised didn't happen.
+
+64
+00:04:05,760 --> 00:04:10,940
+So not everything changes, but you'll have to get a little more specific with a question
+
+65
+00:04:10,940 --> 00:04:11,940
+like that.
+
+66
+00:04:11,940 --> 00:04:18,240
+One of the reasons I ask is because this democratization of information seems to have brought a lot
+
+67
+00:04:18,240 --> 00:04:22,600
+of liberty for people, but at the same time have brought a lot of confusion that some
+
+68
+00:04:22,600 --> 00:04:26,460
+people are making the argument that we've never been this divided.
+
+69
+00:04:26,460 --> 00:04:31,120
+But my argument is that we probably have always been this divided, but it just hasn't been
+
+70
+00:04:31,120 --> 00:04:32,280
+heard.
+
+71
+00:04:32,280 --> 00:04:36,840
+Now we have channels and access to those channels to be heard and, you know, contribute with
+
+72
+00:04:36,840 --> 00:04:42,080
+our ideas and everybody seems to be, you know, basically ringing their own bells.
+
+73
+00:04:42,080 --> 00:04:46,600
+Well I think what you say is true to an extent, but and I used to say it wholeheartedly.
+
+74
+00:04:46,600 --> 00:04:48,920
+I don't say it so wholeheartedly now.
+
+75
+00:04:48,920 --> 00:04:54,080
+I think that one thing that none of us, I would say none, I'm sure there were a few,
+
+76
+00:04:54,080 --> 00:05:00,400
+but very few people accounted for, was the extent that propaganda could be a digital
+
+77
+00:05:00,400 --> 00:05:02,080
+weapon.
+
+78
+00:05:02,080 --> 00:05:06,960
+And so that, I think that has changed and is going to get worse.
+
+79
+00:05:06,960 --> 00:05:13,040
+We're seeing that people, you know, countries, nations, and are attempting to use propaganda
+
+80
+00:05:13,040 --> 00:05:15,320
+in an entirely new and different way.
+
+81
+00:05:15,320 --> 00:05:20,000
+Targeting people individually, targeting people with just exactly the messages to push their
+
+82
+00:05:20,000 --> 00:05:25,400
+buttons and get them to fight each other more than they would have fought each other in
+
+83
+00:05:25,400 --> 00:05:26,400
+the past.
+
+84
+00:05:26,400 --> 00:05:30,120
+Yes, we've always had differing opinions.
+
+85
+00:05:30,120 --> 00:05:35,880
+We didn't tend to have our own facts so much and what's become clear is that populations
+
+86
+00:05:35,880 --> 00:05:41,120
+are now isolating where they get the information from and each source is slanted in particular
+
+87
+00:05:41,120 --> 00:05:42,120
+ways.
+
+88
+00:05:42,120 --> 00:05:47,680
+It's, you know, mostly people in my community say, oh God, it's the right to have this
+
+89
+00:05:47,680 --> 00:05:50,680
+worse and they're watching Fox News or whatever they're doing.
+
+90
+00:05:50,680 --> 00:05:54,880
+But the truth is every side is getting its own particular collection of information.
+
+91
+00:05:54,880 --> 00:06:01,280
+It's very hard to try and remove the biases from the media that you consume and, you know,
+
+92
+00:06:01,280 --> 00:06:05,000
+we didn't anticipate that we anticipated, at least I anticipated that you would socialize
+
+93
+00:06:05,000 --> 00:06:08,320
+with your friends online because I was doing that in the 1980s.
+
+94
+00:06:08,320 --> 00:06:13,080
+In fact, it was one of the, what I'll call the great realizations of my life was back
+
+95
+00:06:13,080 --> 00:06:16,840
+in a long time ago now, back in about 1981.
+
+96
+00:06:16,840 --> 00:06:22,560
+I first got, oh, I've gotten on the ARPANET in 79 but I got on it for a day to day basis
+
+97
+00:06:22,560 --> 00:06:28,840
+a year or two later and at that time everyone thought computer networks were for computers
+
+98
+00:06:28,840 --> 00:06:34,160
+to talk to computers and, you know, exchange data, share files, that sort of stuff.
+
+99
+00:06:34,160 --> 00:06:37,880
+And the epiphany was, wow, no, no, this is for people to talk to people.
+
+100
+00:06:37,880 --> 00:06:43,360
+This is for our communication and not just for business but for socialization and a lot
+
+101
+00:06:43,360 --> 00:06:46,840
+of the things in my career have been based on that epiphany and everyone else pretty
+
+102
+00:06:46,840 --> 00:06:48,960
+much agrees with it today.
+
+103
+00:06:48,960 --> 00:06:53,240
+But what was, should have seen more of the dark side of that, I guess.
+
+104
+00:06:53,240 --> 00:06:55,680
+Yeah, I guess they come together, right?
+
+105
+00:06:55,680 --> 00:06:57,760
+The light and darkness?
+
+106
+00:06:57,760 --> 00:07:02,600
+They always do and in fact, you are, even the funny thing is you make this mistake even
+
+107
+00:07:02,600 --> 00:07:07,940
+though you know the truth but it is a very common and foolish mistake to not look at
+
+108
+00:07:07,940 --> 00:07:12,520
+any new technology and say, okay, what will bad people do with this?
+
+109
+00:07:12,520 --> 00:07:15,800
+And I mean, we always think that, we always ask that question, we're always seeing bad
+
+110
+00:07:15,800 --> 00:07:20,720
+people do things but I don't know why but we missed the idea that someone like Vladimir
+
+111
+00:07:20,720 --> 00:07:27,040
+Putin would attempt to, you know, manipulate a country from the outside at a very deep
+
+112
+00:07:27,040 --> 00:07:31,840
+detail and inside, you know, countries have done propaganda, they've done these sort of
+
+113
+00:07:31,840 --> 00:07:37,700
+things but it was dropping leaflets from airplanes or having radio free, you know, radio stations.
+
+114
+00:07:37,700 --> 00:07:40,720
+It was not the way it's become.
+
+115
+00:07:40,720 --> 00:07:45,560
+It's also that the arbitration of good and bad has been democratized in a way that now
+
+116
+00:07:45,560 --> 00:07:50,000
+a mob of people on Twitter can decide who is a bad person based on maybe one comment
+
+117
+00:07:50,000 --> 00:07:56,020
+that that person has made 10 years ago, 15 years ago which brings a really big concern
+
+118
+00:07:56,020 --> 00:08:00,480
+that how this whole thing is going to evolve considering how you mentioned we don't agree
+
+119
+00:08:00,480 --> 00:08:07,060
+on facts anymore, how this world with all this arbitration of good and bad plus technologies
+
+120
+00:08:07,060 --> 00:08:11,600
+like deep fake that are being easier and easier for people to just make up stuff from ground
+
+121
+00:08:11,600 --> 00:08:18,200
+up is going to affect this sociopolitical, very fragile sociopolitical dynamic that we're
+
+122
+00:08:18,200 --> 00:08:19,200
+dealing with right now.
+
+123
+00:08:19,200 --> 00:08:21,720
+Well, you had two things in there.
+
+124
+00:08:21,720 --> 00:08:24,320
+I'll briefly touch on deep fakes.
+
+125
+00:08:24,320 --> 00:08:28,600
+While they're scary, if you think about it, of course, there's nothing in text which is
+
+126
+00:08:28,600 --> 00:08:29,600
+inherently true.
+
+127
+00:08:29,600 --> 00:08:34,440
+If someone sends you a written article saying something, you know that well, you know, anyone
+
+128
+00:08:34,440 --> 00:08:38,240
+could write that and you have something in your brain that says I should see whether
+
+129
+00:08:38,240 --> 00:08:40,720
+that's believable, I should see whether that's true.
+
+130
+00:08:40,720 --> 00:08:42,320
+With video, you don't have that.
+
+131
+00:08:42,320 --> 00:08:47,020
+You sort of think if I see it, it must be true and what I'm hoping is that we'll lose
+
+132
+00:08:47,020 --> 00:08:53,240
+that sense that we'll see a video and we'll say okay, that's a video but, you know, videos
+
+133
+00:08:53,240 --> 00:08:57,860
+are no more real than text and at least I hope because if not, if we start believing
+
+134
+00:08:57,860 --> 00:09:02,760
+everything we see in video is true, we are going to get more riled up.
+
+135
+00:09:02,760 --> 00:09:06,760
+But you touched on I think the deeper issue, one that we have not figured our way out of
+
+136
+00:09:06,760 --> 00:09:18,440
+at all which is, you know, becoming mobs and this very tempting but dangerous vigilante
+
+137
+00:09:18,440 --> 00:09:24,320
+justice which on the one hand, you think well, hey, that's just people expressing themselves.
+
+138
+00:09:24,320 --> 00:09:32,480
+It's certainly allowed and it is but, you know, we actually have centuries of experience
+
+139
+00:09:32,480 --> 00:09:35,720
+where we sort of laid down the principles of justice and how they should work.
+
+140
+00:09:35,720 --> 00:09:41,280
+The idea of people having been presumed innocent until they're proven guilty and not being
+
+141
+00:09:41,280 --> 00:09:47,240
+punished until that happens of metering out punishment to fit the crime and to perform
+
+142
+00:09:47,240 --> 00:09:55,400
+not a retribution role but, you know, a deterrent and a rehabilitation role.
+
+143
+00:09:55,400 --> 00:10:01,240
+Principles of evidence, principles of rights of the accused, rights of everyone involved
+
+144
+00:10:01,240 --> 00:10:07,160
+and we built those systems of justice over hundreds of years because we saw what goes
+
+145
+00:10:07,160 --> 00:10:10,280
+wrong when you don't apply those principles.
+
+146
+00:10:10,280 --> 00:10:16,760
+Unfortunately, we have now discovered this new way to get not justice but retribution
+
+147
+00:10:16,760 --> 00:10:23,320
+and we're clearly not being very good about it and we all feel very satisfied, haha, there's
+
+148
+00:10:23,320 --> 00:10:28,560
+that person and I saw a video what looks like they were racist so I'm going to make them
+
+149
+00:10:28,560 --> 00:10:34,640
+lose their job and I'm not saying people should be racist or we shouldn't be disapproving
+
+150
+00:10:34,640 --> 00:10:40,560
+of people who are racist but sometimes the penalty is, you know, total annihilation from
+
+151
+00:10:40,560 --> 00:10:48,800
+society for an offhand remark which is not appropriate meeting out of justice and I don't
+
+152
+00:10:48,800 --> 00:10:51,480
+know actually what's going to be the solution to that.
+
+153
+00:10:51,480 --> 00:10:53,960
+Now here's an example with respect to autonomous vehicle.
+
+154
+00:10:53,960 --> 00:10:58,720
+There is the ethical dilemma with respect to autonomous cars that if you come across
+
+155
+00:10:58,720 --> 00:11:04,680
+a crossroad, there is no ethical dilemma now just in this example that I'm trying to make
+
+156
+00:11:04,680 --> 00:11:09,120
+a point out of, that you come across a crossroad and one is blocked, you can kill yourself
+
+157
+00:11:09,120 --> 00:11:13,960
+for example and the other has a baby in it or an old man in it, which one would you choose?
+
+158
+00:11:13,960 --> 00:11:19,240
+Now if this kind of mob mentality get into a justice system and say that, hey, if you
+
+159
+00:11:19,240 --> 00:11:23,220
+for example kill a black person that is not okay but if you kill a white person that would
+
+160
+00:11:23,220 --> 00:11:27,480
+be okay with an autonomous vehicle, would that be a possibility?
+
+161
+00:11:27,480 --> 00:11:30,960
+I don't know about that one but getting back to your question of who the car would run
+
+162
+00:11:30,960 --> 00:11:36,840
+over, that I do have an answer for which is they're keeping track of who asks that question
+
+163
+00:11:36,840 --> 00:11:40,400
+and they're going to run over the people who ask that question.
+
+164
+00:11:40,400 --> 00:11:41,400
+That is the plan.
+
+165
+00:11:41,400 --> 00:11:45,200
+The reality is, does this happen to you a lot?
+
+166
+00:11:45,200 --> 00:11:48,360
+Have you often been driving and had to decide whether to kill yourself or a baby?
+
+167
+00:11:48,360 --> 00:11:49,720
+No, not at all.
+
+168
+00:11:49,720 --> 00:11:51,480
+Have you ever heard of it happening to someone else?
+
+169
+00:11:51,480 --> 00:11:55,080
+No, I've read a lot of arguments about it though.
+
+170
+00:11:55,080 --> 00:11:58,800
+It is not a real thing.
+
+171
+00:11:58,800 --> 00:12:02,880
+What it is, is it's a morbid fascination that we have with the idea of a machine deciding
+
+172
+00:12:02,880 --> 00:12:05,320
+who lives and who dies.
+
+173
+00:12:05,320 --> 00:12:12,120
+So for us, that used to be for gods, not even for people to decide and so as soon as you
+
+174
+00:12:12,120 --> 00:12:15,880
+start saying, what if a machine is deciding who lives and who dies, everyone goes, oh
+
+175
+00:12:15,880 --> 00:12:20,320
+wow, that's like deep, oh, got to figure that out.
+
+176
+00:12:20,320 --> 00:12:23,880
+In fact, no, it's an extremely rare situation.
+
+177
+00:12:23,880 --> 00:12:28,200
+I've been looking around and I can't say I've never found an instance where something like
+
+178
+00:12:28,200 --> 00:12:34,020
+that happened but it's just not the kind of thing that's anywhere on anyone's priority
+
+179
+00:12:34,020 --> 00:12:37,720
+list about what to program a car to do.
+
+180
+00:12:37,720 --> 00:12:43,120
+And secondly, there's almost always already an answer in the law about where a car should
+
+181
+00:12:43,120 --> 00:12:47,640
+go because the law is actually full of a thousand rules about where the car can go and who has
+
+182
+00:12:47,640 --> 00:12:52,000
+right away and who's supposed to yield and so the car will first and foremost obey the
+
+183
+00:12:52,000 --> 00:12:59,520
+law and so it's long time before anyone will have to imagine a car having to make that
+
+184
+00:12:59,520 --> 00:13:04,720
+decision and so the fact that worrying about it is actually the ethical problem because
+
+185
+00:13:04,720 --> 00:13:07,520
+if you spend a lot of time worrying about that, you're not worrying about the things
+
+186
+00:13:07,520 --> 00:13:10,160
+that actually matter and might actually save people's lives.
+
+187
+00:13:10,160 --> 00:13:14,840
+What are some of the more important factors and elements that matter with respect to autonomous
+
+188
+00:13:14,840 --> 00:13:15,840
+vehicles?
+
+189
+00:13:15,840 --> 00:13:21,240
+Well, I mean everyone is set on a goal of making the car so that it's safe enough on
+
+190
+00:13:21,240 --> 00:13:26,080
+the roads to be accepted by the public and to not create great liability for the people
+
+191
+00:13:26,080 --> 00:13:27,080
+who put it out there.
+
+192
+00:13:27,080 --> 00:13:31,360
+There's actually nothing, I mean there are moral concerns going on but in fact there's
+
+193
+00:13:31,360 --> 00:13:35,320
+just very practical concerns which is the first you've got to build a car that you can
+
+194
+00:13:35,320 --> 00:13:40,120
+prove to yourself is safe enough to put out there.
+
+195
+00:13:40,120 --> 00:13:43,920
+Actually, that's the first people you have to convince is that you yourselves have done
+
+196
+00:13:43,920 --> 00:13:48,080
+it, you have to convince your lawyers, your company's board of directors that it's time
+
+197
+00:13:48,080 --> 00:13:49,720
+to put this vehicle out on the road.
+
+198
+00:13:49,720 --> 00:13:53,400
+So that's the challenge everyone's working for is how can they make it safe enough that
+
+199
+00:13:53,400 --> 00:13:55,920
+we feel comfortable doing it.
+
+200
+00:13:55,920 --> 00:13:57,840
+Obviously you want the public to feel comfortable with it as well.
+
+201
+00:13:57,840 --> 00:14:01,560
+Right now you don't actually have to make the government feel comfortable with it.
+
+202
+00:14:01,560 --> 00:14:06,400
+Someday you might have to but here's a little dark secret no one seems to know, it's already
+
+203
+00:14:06,400 --> 00:14:08,260
+illegal to hit people.
+
+204
+00:14:08,260 --> 00:14:11,920
+We don't actually need another law that say that, we've got that law down there, it's
+
+205
+00:14:11,920 --> 00:14:16,560
+probably the most tested law in the world.
+
+206
+00:14:16,560 --> 00:14:20,840
+There's no tort that's more common in courts than a car accident.
+
+207
+00:14:20,840 --> 00:14:24,380
+Actually it's not in the courts that much because it's in insurance companies but effectively
+
+208
+00:14:24,380 --> 00:14:25,720
+in that sense.
+
+209
+00:14:25,720 --> 00:14:30,040
+So that's what you got to do and so now of course that breaks down into a lot of different
+
+210
+00:14:30,040 --> 00:14:31,040
+problems.
+
+211
+00:14:31,040 --> 00:14:34,880
+Right now if you were to ask people what's your hardest problem that you're working on,
+
+212
+00:14:34,880 --> 00:14:39,800
+I think a lot of them would say we want to get the computer better at predicting what
+
+213
+00:14:39,800 --> 00:14:41,400
+humans will do.
+
+214
+00:14:41,400 --> 00:14:45,360
+So you're driving down the road, is that car going to suddenly change lanes?
+
+215
+00:14:45,360 --> 00:14:49,360
+Is that guy going to step into the crosswalk?
+
+216
+00:14:49,360 --> 00:14:52,640
+This is something that humans are better than computers at predicting what other humans
+
+217
+00:14:52,640 --> 00:14:53,720
+are thinking.
+
+218
+00:14:53,720 --> 00:14:58,320
+So that would be the one thing that people are sort of pushing on and people are working
+
+219
+00:14:58,320 --> 00:15:01,280
+on all the other problems as well, making sure that you see and understand everything
+
+220
+00:15:01,280 --> 00:15:07,720
+in the road, that you know you can handle lots and lots of unusual situations.
+
+221
+00:15:07,720 --> 00:15:15,720
+These are key problems everyone is always trying to improve on and eventually people
+
+222
+00:15:15,720 --> 00:15:19,240
+argue about what level of safety they want to achieve.
+
+223
+00:15:19,240 --> 00:15:25,080
+Most people sort of dance around the idea of let's make it better than the average person
+
+224
+00:15:25,080 --> 00:15:26,080
+and I don't think that's unreasonable.
+
+225
+00:15:26,080 --> 00:15:29,160
+Some people want to be much better than the average person, I don't actually think that's
+
+226
+00:15:29,160 --> 00:15:30,160
+the right path.
+
+227
+00:15:30,160 --> 00:15:36,760
+I think perfection is certainly not attainable and therefore not the right goal to go for.
+
+228
+00:15:36,760 --> 00:15:40,680
+I even think there are arguments that you could make it just as good as a teenager with
+
+229
+00:15:40,680 --> 00:15:41,920
+a freshly admitted driver's license.
+
+230
+00:15:41,920 --> 00:15:48,120
+Now people would say that's not very safe but we certainly allow that on the road and
+
+231
+00:15:48,120 --> 00:15:55,480
+we do it because that's how we turn those teenagers into more mature, better drivers.
+
+232
+00:15:55,480 --> 00:16:00,600
+But the one trick is that when we make a teenager better with a driving course or some experience,
+
+233
+00:16:00,600 --> 00:16:02,720
+we only make one teenager better.
+
+234
+00:16:02,720 --> 00:16:06,960
+If we let robots go out there and get their experience and improve, we make all the robots
+
+235
+00:16:06,960 --> 00:16:10,440
+better at the same time, at least all the ones from the same company.
+
+236
+00:16:10,440 --> 00:16:15,800
+Yeah on the social level it just seems to me that people's immediate problem with machines
+
+237
+00:16:15,800 --> 00:16:20,720
+is that they're going to replace humans, whether it's labor or decision making or anything
+
+238
+00:16:20,720 --> 00:16:25,360
+like that and then a lot of arguments are being made using or maybe taking advantage
+
+239
+00:16:25,360 --> 00:16:31,320
+of that concern coming from the side that they're fundamentally against automation,
+
+240
+00:16:31,320 --> 00:16:36,200
+against autonomous vehicles, they make the ethical or moral kind of an argument, right?
+
+241
+00:16:36,200 --> 00:16:38,800
+Yeah, it's reasonable to worry about that.
+
+242
+00:16:38,800 --> 00:16:43,960
+I think some of that worry is not justified, I think some of it is.
+
+243
+00:16:43,960 --> 00:16:48,600
+So far the history of machines replacing humans is actually not nearly as scary as people
+
+244
+00:16:48,600 --> 00:16:51,200
+imagine back in the Industrial Revolution.
+
+245
+00:16:51,200 --> 00:16:55,400
+In fact a famous statistic which astounds people is that there are more bank tellers
+
+246
+00:16:55,400 --> 00:17:00,320
+today than in 1970 and if you were to say name me a job where the machine replaced a
+
+247
+00:17:00,320 --> 00:17:03,960
+human everyone say well bank teller I don't go in and you know get cash from the human
+
+248
+00:17:03,960 --> 00:17:04,960
+being anymore.
+
+249
+00:17:04,960 --> 00:17:11,280
+Those bank tellers aren't handing you cash anymore of course, they're doing other things.
+
+250
+00:17:11,280 --> 00:17:13,880
+But in fact we actually haven't done that much.
+
+251
+00:17:13,880 --> 00:17:14,880
+Now will that change?
+
+252
+00:17:14,880 --> 00:17:20,560
+But we've predicted that machines will take all the jobs for 150 years, every 10 years
+
+253
+00:17:20,560 --> 00:17:24,320
+a big nasty book will come out warning how oh my god the machines are going to take all
+
+254
+00:17:24,320 --> 00:17:25,320
+the jobs and guess what?
+
+255
+00:17:25,320 --> 00:17:26,720
+It's wrong every time.
+
+256
+00:17:26,720 --> 00:17:29,120
+Now is it someday going to be right?
+
+257
+00:17:29,120 --> 00:17:31,840
+Maybe, maybe and should we think about it?
+
+258
+00:17:31,840 --> 00:17:35,720
+Sure we should think about it but we should also understand why we're always wrong when
+
+259
+00:17:35,720 --> 00:17:39,720
+we make the prediction and try and figure out how we can tell that oh this is the time
+
+260
+00:17:39,720 --> 00:17:43,760
+where we're no longer always wrong, this is the time where it really happens.
+
+261
+00:17:43,760 --> 00:17:49,200
+Now when it comes to driving well we got two kinds of people making their learning or making
+
+262
+00:17:49,200 --> 00:17:50,280
+their living from driving.
+
+263
+00:17:50,280 --> 00:17:55,120
+We do have you know all the uber cab drivers that sort of thing in the world and I don't
+
+264
+00:17:55,120 --> 00:17:59,520
+want to deprecate these people but the truth is they don't think of that as a career.
+
+265
+00:17:59,520 --> 00:18:03,640
+They didn't when they were little kids say I want to grow up and be a cab driver all
+
+266
+00:18:03,640 --> 00:18:04,640
+right.
+
+267
+00:18:04,640 --> 00:18:07,720
+They do that because it's kind of handy gig work they can set the hours, it doesn't take
+
+268
+00:18:07,720 --> 00:18:11,240
+a lot of skill, you basically can go out there and work when you want and you've got a car
+
+269
+00:18:11,240 --> 00:18:15,080
+and you make some money and I think that those people will go and do something else like
+
+270
+00:18:15,080 --> 00:18:18,040
+that if driving isn't that great a way to make money with it.
+
+271
+00:18:18,040 --> 00:18:21,400
+Sure uber and lift and those companies discovered a way that people could make money that way
+
+272
+00:18:21,400 --> 00:18:26,720
+and they enabled a lot of people to make money that way but that didn't even exist 11 years
+
+273
+00:18:26,720 --> 00:18:27,840
+ago.
+
+274
+00:18:27,840 --> 00:18:32,280
+So cab driving existed but it was a much smaller profession.
+
+275
+00:18:32,280 --> 00:18:36,160
+Then there's professional truck drivers those are real there's about three million of those
+
+276
+00:18:36,160 --> 00:18:38,700
+in the United States.
+
+277
+00:18:38,700 --> 00:18:43,560
+Now in the professional truck driving industry and long-haul driving in particular the turnover
+
+278
+00:18:43,560 --> 00:18:47,120
+every year is often more than 100 percent.
+
+279
+00:18:47,120 --> 00:18:51,440
+Basically that people leave more people leave the job than there are jobs so that they only
+
+280
+00:18:51,440 --> 00:18:54,120
+last less than a year in the job that's what it means you can you think how could it be
+
+281
+00:18:54,120 --> 00:18:55,120
+more than 100 percent.
+
+282
+00:18:55,120 --> 00:18:57,680
+They just don't want to do it right?
+
+283
+00:18:57,680 --> 00:18:59,680
+It's grueling work.
+
+284
+00:18:59,680 --> 00:19:05,600
+If you do it long haul you basically have to go out and for a week of sleeping in motels
+
+285
+00:19:05,600 --> 00:19:08,640
+in the back of your truck you don't see your family.
+
+286
+00:19:08,640 --> 00:19:15,720
+It's both boring and scary at the same time and yeah it pays it pays okay than most other
+
+287
+00:19:15,720 --> 00:19:23,320
+jobs of that skill level because it only takes a month or so to get the training but no.
+
+288
+00:19:23,320 --> 00:19:28,240
+So when they start driving the trucks which they will they're not going to put anybody
+
+289
+00:19:28,240 --> 00:19:32,040
+out of work at first they're going to just replace the truck driving jobs that are sitting
+
+290
+00:19:32,040 --> 00:19:34,320
+open which is a lot of them.
+
+291
+00:19:34,320 --> 00:19:38,360
+Eventually they might sit and go after some of those career truck drivers and I do feel
+
+292
+00:19:38,360 --> 00:19:42,700
+yeah it would be good to have some alternatives for them find some outs and maybe the government
+
+293
+00:19:42,700 --> 00:19:45,120
+can do that maybe the companies can even do it.
+
+294
+00:19:45,120 --> 00:19:51,240
+But among all the jobs that people will find replaced by machines these ones this is not
+
+295
+00:19:51,240 --> 00:19:55,240
+a great answer if you're in them but these ones are not the top of the list of ones that
+
+296
+00:19:55,240 --> 00:19:56,240
+people will worry about.
+
+297
+00:19:56,240 --> 00:20:02,040
+Yeah people also are very worried about the manufacturing jobs and that is being misused
+
+298
+00:20:02,040 --> 00:20:05,960
+or used or whatever you want to call it for political purposes all across board.
+
+299
+00:20:05,960 --> 00:20:10,840
+You know manufacturing jobs weren't taken by robots manufacturing jobs were taken by
+
+300
+00:20:10,840 --> 00:20:17,120
+cheaper workers China oh not just yeah China other countries Philippines Southeast Asia
+
+301
+00:20:17,120 --> 00:20:21,880
+is the place right now used to people who used to think Japan was the place with the
+
+302
+00:20:21,880 --> 00:20:27,840
+cheap workers of course Japan very quickly didn't have cheap workers and you know people
+
+303
+00:20:27,840 --> 00:20:33,540
+in India Pakistan you know they're anywhere that especially that is there they speak English
+
+304
+00:20:33,540 --> 00:20:39,760
+so help them do jobs for the Western world.
+
+305
+00:20:39,760 --> 00:20:43,760
+Anyway yes that's going to continue there's going to be labor disruption I don't think
+
+306
+00:20:43,760 --> 00:20:47,760
+anyone can alter that but let me give you two ways of thinking about machines doing
+
+307
+00:20:47,760 --> 00:20:52,000
+human tasks which is that many people have published studies and they say we calculate
+
+308
+00:20:52,000 --> 00:20:56,320
+that machines are right they don't do it yet but they're right to do like a third of the
+
+309
+00:20:56,320 --> 00:21:00,880
+tasks that human beings do and some people get that and they respond by saying oh my
+
+310
+00:21:00,880 --> 00:21:05,080
+god the computer is going to take my job what am I going to do I must admit that I respond
+
+311
+00:21:05,080 --> 00:21:09,720
+to a different way saying when can I get that fantastic I don't want to do all those stupid
+
+312
+00:21:09,720 --> 00:21:14,880
+boring things I have to do the computer could do that for me and sign me up and it's really
+
+313
+00:21:14,880 --> 00:21:19,920
+a mix of both for most people and what's actually happened in the past in all the jobs is that
+
+314
+00:21:19,920 --> 00:21:24,600
+the computer has done some of the boring or dangerous parts of it and the human beings
+
+315
+00:21:24,600 --> 00:21:31,320
+have done the rest and employment has not counting coronavirus panics employment has
+
+316
+00:21:31,320 --> 00:21:35,600
+grown and was until recently higher than it ever been in history and it wasn't the credit
+
+317
+00:21:35,600 --> 00:21:40,320
+of Donald Trump he likes to pretend it was it was the march of progress that's actually
+
+318
+00:21:40,320 --> 00:21:45,520
+made more and more jobs a hundred years ago half of the population worked in agriculture
+
+319
+00:21:45,520 --> 00:21:50,840
+farming and now about two or three percent of the population work in agriculture farming
+
+320
+00:21:50,840 --> 00:21:58,880
+so all those jobs disappeared half the jobs in the world went away and now more people
+
+321
+00:21:58,880 --> 00:22:03,440
+are working than ever right new jobs were created because of the technological revolution
+
+322
+00:22:03,440 --> 00:22:07,440
+some brand new jobs are created but actually most of those people are working in jobs that
+
+323
+00:22:07,440 --> 00:22:11,880
+existed in some form or another but they're doing them in different ways like bank teller
+
+324
+00:22:11,880 --> 00:22:16,560
+bank tellers are not handing you cash anymore right they're doing other parts of the banking
+
+325
+00:22:16,560 --> 00:22:23,920
+job so let me read you a question that one of our readers and previous guest fritz harrell
+
+326
+00:22:23,920 --> 00:22:29,160
+from ontario you're from canada originally right i am from ontario indeed yeah yeah amazing
+
+327
+00:22:29,160 --> 00:22:35,040
+i live there 11 years in toronto he's wondering about your take on the long-term consequences
+
+328
+00:22:35,040 --> 00:22:40,720
+of separating humans from the actual activity they're doing given we are the outcome of
+
+329
+00:22:40,720 --> 00:22:47,000
+a long evolutionary process and this technological concentric distancing from an activity we
+
+330
+00:22:47,000 --> 00:22:51,880
+are actually responsible for might have unexpected unexpected outcomes and then he's using the
+
+331
+00:22:51,880 --> 00:22:58,200
+airbuses fly by wire computer controlled flight that left pilots unable to fly boeing's computer
+
+332
+00:22:58,200 --> 00:23:04,160
+assisted aircraft safely which he thinks were part of the mcas mishaps in addition to a
+
+333
+00:23:04,160 --> 00:23:08,600
+poor design decisions he has another part to his question but maybe you answer this
+
+334
+00:23:08,600 --> 00:23:13,280
+one first well yeah i don't want to be too critical but that question seemed to dance
+
+335
+00:23:13,280 --> 00:23:16,880
+around a lot of different things so i'm not sure what specific thing he wants to get at
+
+336
+00:23:16,880 --> 00:23:23,400
+but i'll talk about a little bit about the boeing aircraft i mean so um i mean it was
+
+337
+00:23:23,400 --> 00:23:27,680
+airbus of course that pioneered the idea of making aircraft be fly by wire at the time
+
+338
+00:23:27,680 --> 00:23:32,280
+that they were founded everyone said you're crazy we can't make an aircraft that way and
+
+339
+00:23:32,280 --> 00:23:35,920
+they did and they were very successful and boeing was of course the company not that
+
+340
+00:23:35,920 --> 00:23:42,720
+did not pioneer that and their decision with the 737 max was actually uh i i thought it
+
+341
+00:23:42,720 --> 00:23:47,160
+very different from that they wanted to make another vehicle that they could say was the
+
+342
+00:23:47,160 --> 00:23:51,800
+same the 737 one most popular aircraft in the world every airline has a lot of them
+
+343
+00:23:51,800 --> 00:23:56,240
+every pilot in the world is trained to fly the 737 and what they hoped is they could
+
+344
+00:23:56,240 --> 00:24:02,560
+make a 737 with bigger engines and more and newer more efficient engines and make it so
+
+345
+00:24:02,560 --> 00:24:07,440
+that any pilot could fly who knew how to fly the 737 that was what they hoped to do and
+
+346
+00:24:07,440 --> 00:24:12,840
+that's what they got wrong uh they they figured the way to do that since they built actually
+
+347
+00:24:12,840 --> 00:24:17,740
+a different aircraft which wouldn't fly the same as 737 and they tried to make it fly
+
+348
+00:24:17,740 --> 00:24:22,440
+as a 737 by using the software system which is not entirely a wrong thing to try to do
+
+349
+00:24:22,440 --> 00:24:27,580
+but they just didn't do it very well and they there were some areas where they didn't test
+
+350
+00:24:27,580 --> 00:24:33,320
+it properly and it it um you know it goofed up and then the pilots were not trained on
+
+351
+00:24:33,320 --> 00:24:38,720
+how to deal with it because that was the whole point of the 737 max no not no new training
+
+352
+00:24:38,720 --> 00:24:43,400
+but very little new training needed for a 737 pilot take the wings it turns out there
+
+353
+00:24:43,400 --> 00:24:47,680
+should have been more training and so some pilots uh didn't understand what was going
+
+354
+00:24:47,680 --> 00:24:52,600
+on by the way there were pilots who had that happen to them and they uh dealt with it because
+
+355
+00:24:52,600 --> 00:24:58,240
+they were more experienced pilots and uh so anyway and of course catastrophic for bowing
+
+356
+00:24:58,240 --> 00:25:02,640
+uh but uh i'm the rest of the question rambled a little bit so i wasn't entirely i think
+
+357
+00:25:02,640 --> 00:25:06,660
+the soul of this question goes back to what you said how human drivers are still better
+
+358
+00:25:06,660 --> 00:25:13,360
+than machines and he's talking about the unseen consequences of replacing let's say human
+
+359
+00:25:13,360 --> 00:25:18,720
+drivers who have we have evolved decades learning how to drive a car and watching our parents
+
+360
+00:25:18,720 --> 00:25:23,480
+drive a car and seeing other drivers and this whole thing being replaced by the machines
+
+361
+00:25:23,480 --> 00:25:29,760
+basically well so um that is actually an answer we'll give in the other direction by some
+
+362
+00:25:29,760 --> 00:25:34,720
+of the for example waymo the company that i worked for in its early days google um yeah
+
+363
+00:25:34,720 --> 00:25:39,960
+it was google at the time uh they have now been out there driving and testing their software
+
+364
+00:25:39,960 --> 00:25:43,200
+well i don't know what the most recent number they published but i think it was around 20
+
+365
+00:25:43,200 --> 00:25:50,880
+million miles of real road driving um so that's about 40 human lifetimes of experience in
+
+366
+00:25:50,880 --> 00:25:54,840
+the sense that when anything unusual happens so these cars are out there driving themselves
+
+367
+00:25:54,840 --> 00:25:59,800
+but they have people in them the people are making note if anything weird goes on they
+
+368
+00:25:59,800 --> 00:26:04,240
+take over if they think there's a chance the software is going to not do the right thing
+
+369
+00:26:04,240 --> 00:26:09,640
+and so their safety record is excellent they've had only one very slow crash that took place
+
+370
+00:26:09,640 --> 00:26:14,360
+where it was the fault of the computer uh and by the way so you never you know there's
+
+371
+00:26:14,360 --> 00:26:18,840
+never been a case of human being driving for 40 lifetimes well no one drives for 40 lifetimes
+
+372
+00:26:18,840 --> 00:26:24,120
+but um human beings are not nearly that good they could drive for 40 lifetimes and never
+
+373
+00:26:24,120 --> 00:26:28,600
+and only once have fault for a crash um now that's with the supervision there it's more
+
+374
+00:26:28,600 --> 00:26:32,720
+like student drivers with a driving instructor sitting next to them ready to grab the wheel
+
+375
+00:26:32,720 --> 00:26:38,160
+and so that's one reason they don't have the accidents but anyway they've been doing that
+
+376
+00:26:38,160 --> 00:26:43,200
+and so they think they have seen more than any person could ever see in addition by the
+
+377
+00:26:43,200 --> 00:26:46,960
+way they uh then have the car drive around in simulator you know a little video game
+
+378
+00:26:46,960 --> 00:26:51,840
+basically uh and they've driven billions and billions and billions of miles and either
+
+379
+00:26:51,840 --> 00:26:55,560
+way and most of the miles none of the miles they drive in simulator are boring they don't
+
+380
+00:26:55,560 --> 00:27:00,160
+have it simulate driving on the freeway for an hour which is what humans have for most
+
+381
+00:27:00,160 --> 00:27:05,080
+of our experience it spends that hour going through a hundred different crash situations
+
+382
+00:27:05,080 --> 00:27:10,560
+and 200 strange other situations testing and it's going to do the right thing so actually
+
+383
+00:27:10,560 --> 00:27:15,880
+there's a fair claim that these systems are far more experienced at driving than we are
+
+384
+00:27:15,880 --> 00:27:20,680
+what they don't have they have experience what they don't have is uh you know the high
+
+385
+00:27:20,680 --> 00:27:25,840
+level human thought and intuition uh which can solve problems never seen before so the
+
+386
+00:27:25,840 --> 00:27:31,040
+answer to that is they feel now people can argue whether this is true or not but if you
+
+387
+00:27:31,040 --> 00:27:35,720
+just pound at it long enough and you drive for 20 million miles or some other amount
+
+388
+00:27:35,720 --> 00:27:40,440
+like that and do all these tests you reduce the probability of something you've never
+
+389
+00:27:40,440 --> 00:27:45,040
+seen before happening you get it down to the point where you're you are seeing new things
+
+390
+00:27:45,040 --> 00:27:49,480
+but you're handling them correctly and if we don't handle one correctly then you get
+
+391
+00:27:49,480 --> 00:27:54,400
+very upset and you try and fix it and you find yourself getting to a level where that
+
+392
+00:27:54,400 --> 00:27:57,600
+bad incident where something new happens and you don't handle it correctly and there's
+
+393
+00:27:57,600 --> 00:28:04,840
+a crash is so rare that you're better than people and if you get to that level um which
+
+394
+00:28:04,840 --> 00:28:09,840
+Waymo claims they are already in at least in the simple driving environment near Phoenix
+
+395
+00:28:09,840 --> 00:28:13,840
+where they have an operating passenger service where vehicles are running around not right
+
+396
+00:28:13,840 --> 00:28:18,840
+now with the virus but generally we're out running around with nobody in them picking
+
+397
+00:28:18,840 --> 00:28:23,800
+up passengers taking them across town so uh you can do that once you've got to that level
+
+398
+00:28:23,800 --> 00:28:27,000
+and then you get even better and you release it out to the world.
+
+399
+00:28:27,000 --> 00:28:31,480
+Waymo is the same company that they partnered with Walmart for driverless trucks?
+
+400
+00:28:31,480 --> 00:28:35,840
+They do they do have a they do have I believe a small partnership with Walmart doing deliveries
+
+401
+00:28:35,840 --> 00:28:41,240
+I think Walmart's done one or two partnerships um but the other yes they are also making
+
+402
+00:28:41,240 --> 00:28:43,320
+trucks as well that's correct.
+
+403
+00:28:43,320 --> 00:28:48,440
+Do you think laws and regulations are in a way obstacles in a way of technological progress
+
+404
+00:28:48,440 --> 00:28:54,360
+I think I read somewhere that the first car when it came out in late 19th century it was
+
+405
+00:28:54,360 --> 00:28:59,120
+15 years later that they placed a first stop sign.
+
+406
+00:28:59,120 --> 00:29:03,640
+Well that would make sense I mean there were no roads for cars back when those first cars
+
+407
+00:29:03,640 --> 00:29:10,400
+arose and there were no gas stations and there's the famous story actually of Berta Benz the
+
+408
+00:29:10,400 --> 00:29:17,640
+wife of Carl Benz who of course built the first commercial motorwagen and Berta uh it's
+
+409
+00:29:17,640 --> 00:29:22,920
+maybe exaggerated but the story is she kind of snuck off with it and drove for about 60
+
+410
+00:29:22,920 --> 00:29:29,280
+miles to another German town and she had to stop at a drugstore which actually had a supply
+
+411
+00:29:29,280 --> 00:29:33,640
+of benzene there were no stations of course for this and it was all back dirt roads and
+
+412
+00:29:33,640 --> 00:29:38,960
+so on so she did the first road trip including having to fix the vehicle on the way so a
+
+413
+00:29:38,960 --> 00:29:46,640
+pioneer in her own way and it's certainly was a long time it yeah it took a while for
+
+414
+00:29:46,640 --> 00:29:50,920
+I don't know if it was the law I mean there were a few rare cases it's not as common as
+
+415
+00:29:50,920 --> 00:29:55,480
+people imagine but there were a few cases of very strange laws from people scared of
+
+416
+00:29:55,480 --> 00:29:57,160
+the car.
+
+417
+00:29:57,160 --> 00:30:02,080
+The funny story is that when the car did arrive actually the first cars were electric but
+
+418
+00:30:02,080 --> 00:30:08,320
+pretty quickly they switched to running on benzene gasoline that the first cars to or
+
+419
+00:30:08,320 --> 00:30:12,600
+when cars start arriving in New York City everyone praised them as oh my god we're
+
+420
+00:30:12,600 --> 00:30:16,600
+going to end pollution with these and the reason they said that was the roads were full
+
+421
+00:30:16,600 --> 00:30:21,240
+of a different kind of pollution from the thing that we used before cars yeah no they
+
+422
+00:30:21,240 --> 00:30:27,760
+were the roads were deep and harsh it was an actual big problem and yes these things
+
+423
+00:30:27,760 --> 00:30:31,960
+made a few bad smells in the air but nothing compared to the horses and so people were
+
+424
+00:30:31,960 --> 00:30:34,080
+very happy about that.
+
+425
+00:30:34,080 --> 00:30:38,460
+This dynamic between regulations and technology today though because the way that you talk
+
+426
+00:30:38,460 --> 00:30:43,520
+about it and I totally agree with it that automating driving maybe it is an ethical
+
+427
+00:30:43,520 --> 00:30:49,080
+choice that it can be made an argument because of it that it will cause less accidents it's
+
+428
+00:30:49,080 --> 00:30:54,200
+better eventually than human drivers but there will be lawmakers who are paid special in
+
+429
+00:30:54,200 --> 00:30:59,980
+United States lobbied by car companies let's say or a variety of special interests and
+
+430
+00:30:59,980 --> 00:31:05,100
+lobbyists who are placing obstacles on the way of this progress.
+
+431
+00:31:05,100 --> 00:31:11,840
+To an extent actually though because the car companies at least until recently and still
+
+432
+00:31:11,840 --> 00:31:17,480
+to a large extent they want to win this technology fight they they're trying to build these vehicles
+
+433
+00:31:17,480 --> 00:31:22,240
+they're scared of the startups being more nimble than they are smarter than them but
+
+434
+00:31:22,240 --> 00:31:29,320
+they won't admit that so they're mostly for it although it doesn't mean that they wouldn't
+
+435
+00:31:29,320 --> 00:31:32,740
+mind if it went a little bit slower and if it was a little bit harder for new companies
+
+436
+00:31:32,740 --> 00:31:37,040
+to get in the game and for big companies to continue to win but other than that what we
+
+437
+00:31:37,040 --> 00:31:42,560
+you know the people we've got try to do this though are Google and Apple you know and Ford
+
+438
+00:31:42,560 --> 00:31:47,680
+and General Motors frankly when those companies want something I think it'll happen I think
+
+439
+00:31:47,680 --> 00:31:53,280
+that they have the lobbying much more lobbying power than anyone else.
+
+440
+00:31:53,280 --> 00:31:59,560
+Now nonetheless there's certainly legal efforts to slow things down and as I've said I think
+
+441
+00:31:59,560 --> 00:32:06,160
+it's already illegal to not drive safely on the roads and so that those laws and the truth
+
+442
+00:32:06,160 --> 00:32:12,480
+is all the companies are very afraid not just of the legal consequences of them hitting
+
+443
+00:32:12,480 --> 00:32:17,080
+something but we saw that Uber of course did completely screw up what they were doing they
+
+444
+00:32:17,080 --> 00:32:24,240
+did run someone over and that shut down their project which a project they had named was
+
+445
+00:32:24,240 --> 00:32:29,920
+central to the success of their company and it shut down and it's they have like a couple
+
+446
+00:32:29,920 --> 00:32:38,360
+of test cars out now and this is years later now it's just two years later now everyone
+
+447
+00:32:38,360 --> 00:32:45,580
+stopped because of the pandemic but you know everyone realizes that they're investing billions
+
+448
+00:32:45,580 --> 00:32:49,840
+in this thing and if they make a mistake like that it could just wipe it all out and so
+
+449
+00:32:49,840 --> 00:32:53,440
+they're very strongly motivated to not make such a mistake obviously in the case of Uber
+
+450
+00:32:53,440 --> 00:33:00,400
+not strongly enough and that is a long story we can get into if you want but because I
+
+451
+00:33:00,400 --> 00:33:08,520
+probably studied that more than anybody outside of Uber or the NTSB and you know and it was
+
+452
+00:33:08,520 --> 00:33:16,320
+in the end it was it was a it was human error but human error caused by management decisions
+
+453
+00:33:16,320 --> 00:33:17,320
+poor management decisions.
+
+454
+00:33:17,320 --> 00:33:18,320
+This is Uber.
+
+455
+00:33:18,320 --> 00:33:24,280
+Yeah the Uber fatality now I mean obviously the software in the Uber car was not good
+
+456
+00:33:24,280 --> 00:33:30,880
+enough to drive the roads that's pretty clear but that's not a mistake in the sense that
+
+457
+00:33:30,880 --> 00:33:36,360
+all of the cars when they're prototypes go out there unable to drive and I have been
+
+458
+00:33:36,360 --> 00:33:41,560
+in the Google car when it you know started acting erratically and I had to take the wheel
+
+459
+00:33:41,560 --> 00:33:45,200
+every single vehicle no matter what the quality of the team making it goes through periods
+
+460
+00:33:45,200 --> 00:33:50,360
+where it's necessary for the human being inside of it to take the wheel and stop it from hitting
+
+461
+00:33:50,360 --> 00:33:56,880
+something fortunately very rarely a person but in some cases there have been many incidents
+
+462
+00:33:56,880 --> 00:34:00,480
+where you someone had to take the wheel to stop what might have been an accident that
+
+463
+00:34:00,480 --> 00:34:05,280
+hurt somebody so that's normal that's that's part of the game and as I said they've gone
+
+464
+00:34:05,280 --> 00:34:10,600
+for this 40 human lifetimes without hitting anybody so it works if you do it well but
+
+465
+00:34:10,600 --> 00:34:16,880
+it doesn't guarantee that people will do it well who were hired obviously a very poor
+
+466
+00:34:16,880 --> 00:34:21,720
+choice of person to supervise the vehicle to make it worse everybody uses two people
+
+467
+00:34:21,720 --> 00:34:25,440
+to supervise the vehicle and they decided to go to just one for reasons that are still
+
+468
+00:34:25,440 --> 00:34:31,160
+debated and the person they hired paid no attention to her job and started watching
+
+469
+00:34:31,160 --> 00:34:37,240
+a streaming show on her phone and so yeah yeah if your job is to watch the road and
+
+470
+00:34:37,240 --> 00:34:42,520
+you're watching a streaming show on your phone people can get hurt and that is that is tragic
+
+471
+00:34:42,520 --> 00:34:50,600
+but it is sadly not too remarkable in terms of of telling us that though the robots are
+
+472
+00:34:50,600 --> 00:34:57,400
+dangerous I mean I won't say there's no lessons to be learned for how to operate robots there
+
+473
+00:34:57,400 --> 00:35:02,000
+are lessons to be learned that uber and other people did learn them but everyone also learned
+
+474
+00:35:02,000 --> 00:35:06,080
+the lesson a lesson that they all knew which is you cannot play it fast and loose the way
+
+475
+00:35:06,080 --> 00:35:11,200
+that uber did because it can mean the end of everything you're trying to do what you
+
+476
+00:35:11,200 --> 00:35:15,840
+said what you said about google also reminded me of google glass that when it came out it
+
+477
+00:35:15,840 --> 00:35:19,720
+was it was so cutting edge and we were all like this is what we want to get you know
+
+478
+00:35:19,720 --> 00:35:25,400
+it's it's like a very obvious step towards becoming a cyborg but people started attacking
+
+479
+00:35:25,400 --> 00:35:31,200
+a lot of people who were wearing google glasses around san francisco area that they filmed
+
+480
+00:35:31,200 --> 00:35:35,880
+it whether it was because they were threatened because of privacy reasons or because they
+
+481
+00:35:35,880 --> 00:35:39,120
+were threatened because hey you you think you're better than me or something like that
+
+482
+00:35:39,120 --> 00:35:43,640
+and that kind of shut it down for I don't know I know that they're still around but
+
+483
+00:35:43,640 --> 00:35:48,920
+not my doctor is always wearing one when I go to the doctor and he says he says I have
+
+484
+00:35:48,920 --> 00:35:53,820
+to ask if it's okay to use this and I say well I helped build it so I'm probably okay
+
+485
+00:35:53,820 --> 00:36:00,880
+with it now I helped in a very very tiny way I was working at google x on the car and glass
+
+486
+00:36:00,880 --> 00:36:04,580
+was the second project of google x where I sat with those people and you know contributed
+
+487
+00:36:04,580 --> 00:36:11,680
+very tiny amounts to what they did but so no I mean glass was just a product that was
+
+488
+00:36:11,680 --> 00:36:16,000
+I mean both too early and aimed a little bit wrong as happens when you're too early and
+
+489
+00:36:16,000 --> 00:36:23,080
+I don't think there's any giant lesson from that I mean there are lessons to be sure the
+
+490
+00:36:23,080 --> 00:36:31,000
+lesson as I make in a humorous way is that glass was designed to be super lightweight
+
+491
+00:36:31,000 --> 00:36:35,600
+they wanted it to be really light and small and especially for that day I mean I think
+
+492
+00:36:35,600 --> 00:36:39,760
+there's people who've done even better years since but at the time it was a remarkable
+
+493
+00:36:39,760 --> 00:36:44,440
+engineering achievement to make it so light and small and the goal in fact was to make
+
+494
+00:36:44,440 --> 00:36:48,440
+it so light that you would forget you had it on which you could I mean I wore it from
+
+495
+00:36:48,440 --> 00:36:53,040
+time to time and I would forget it was on there I let you know I'd even go to the bathroom
+
+496
+00:36:53,040 --> 00:36:59,280
+with it on I'd realize now probably that's not a cool thing to do but the joke was that
+
+497
+00:36:59,280 --> 00:37:03,800
+it nobody else forgot you had it on anyone who looked at you said oh he's got that super
+
+498
+00:37:03,800 --> 00:37:09,000
+geeky thing on his head one of the design factors was it was asymmetrical it was only
+
+499
+00:37:09,000 --> 00:37:15,360
+on one side of your head the human eye is very noticing of that so nobody knows and
+
+500
+00:37:15,360 --> 00:37:19,840
+so people just weren't very accepting of it it couldn't do very much because it was limited
+
+501
+00:37:19,840 --> 00:37:23,320
+by how much power it would take to do things it had to run on a very small battery that
+
+502
+00:37:23,320 --> 00:37:30,520
+fit in the arm of an eyeglass or a little box behind your ear and I don't think we've
+
+503
+00:37:30,520 --> 00:37:35,200
+actually figured out the exact answer for how we would want to wear a computer well
+
+504
+00:37:35,200 --> 00:37:39,160
+I don't have it on right now but I guess so I have smart watch that I wear some of the
+
+505
+00:37:39,160 --> 00:37:43,800
+time I actually think the watch is a better form factor for these sort of things the watch
+
+506
+00:37:43,800 --> 00:37:48,240
+doesn't take video because it's not up in a place to do so you know I see you're wearing
+
+507
+00:37:48,240 --> 00:37:52,640
+a kind of amulet I actually think that wouldn't be a bad form factor what have you got there
+
+508
+00:37:52,640 --> 00:37:59,600
+it's a yeah these two have been brought for me by my girlfriend from Hawaii and the first
+
+509
+00:37:59,600 --> 00:38:04,440
+you're wearing it is art yes but I'm all in favor of you know if there will be a contact
+
+510
+00:38:04,440 --> 00:38:11,240
+lens or Elon Musk Neuralink by the time it's a third fourth generation that you can somehow
+
+511
+00:38:11,240 --> 00:38:15,580
+rely on it that it's not gonna you know it's not the first generation I'm all in favor
+
+512
+00:38:15,580 --> 00:38:20,160
+of it because I think this is actually not a new process that we are merging with the
+
+513
+00:38:20,160 --> 00:38:26,800
+machines is just becoming seamless well so the goal with glass was not to merge with
+
+514
+00:38:26,800 --> 00:38:32,040
+machines by any stretch what they wanted to see happened with glass and you know unfortunately
+
+515
+00:38:32,040 --> 00:38:36,080
+wasn't as exciting as they wanted it to be but they wanted to see what happened with
+
+516
+00:38:36,080 --> 00:38:40,840
+what if you know what if a computer or a computer or the network was just really super available
+
+517
+00:38:40,840 --> 00:38:45,040
+with very little effort very little time I mean obviously everyone's already got a phone
+
+518
+00:38:45,040 --> 00:38:50,760
+in their pocket so you'd think boy isn't computing very available to you and it is but reaching
+
+519
+00:38:50,760 --> 00:38:55,380
+into your pocket pulling out a phone unlocking it finding the app you want to run running
+
+520
+00:38:55,380 --> 00:39:02,520
+the app getting an answer that is comparatively a lot to just having something in front of
+
+521
+00:39:02,520 --> 00:39:09,540
+your eyes that you can just look at and see so anyway so the answer was yeah it wasn't
+
+522
+00:39:09,540 --> 00:39:16,740
+as exciting for people who need to work hands-free like the doctor there's people like that using
+
+523
+00:39:16,740 --> 00:39:22,280
+devices like Google Glass today and it's reasonably successful with them but will it be in a watch
+
+524
+00:39:22,280 --> 00:39:28,240
+will it be an appendent will it be in a well contact lens sure but we don't know how to
+
+525
+00:39:28,240 --> 00:39:33,600
+make we don't have the technology yet to make a contact lens to do what we need to do there
+
+526
+00:39:33,600 --> 00:39:36,760
+other than to also have glasses with it to send the power to it because there's no way
+
+527
+00:39:36,760 --> 00:39:43,400
+to store power in a contact lens you got to transmit the power safely to it and and will
+
+528
+00:39:43,400 --> 00:39:47,320
+it be an implant in the brain well again lots of experimentation going on there but very
+
+529
+00:39:47,320 --> 00:39:54,240
+very primitive right now maybe someday will be less primitive including Neuralink you
+
+530
+00:39:54,240 --> 00:39:58,680
+know Neuralink doesn't say a lot about what they're doing so I can't really you know comment
+
+531
+00:39:58,680 --> 00:40:06,560
+on it only in a very speculative way but actually I'll tell you the one thing about about things
+
+532
+00:40:06,560 --> 00:40:12,000
+like Neuralink which makes it such a hard problem is we've already got this massive
+
+533
+00:40:12,000 --> 00:40:17,680
+channel into the brain right here and to beat the ability of this thing to get information
+
+534
+00:40:17,680 --> 00:40:23,960
+into the brain I mean that that's not happening for a long time I mean the eye the eye and
+
+535
+00:40:23,960 --> 00:40:29,740
+the ear of you know obviously evolved to be this but they're extremely high bandwidth
+
+536
+00:40:29,740 --> 00:40:35,200
+information channels which we're very tuned to work with so you toss a chip in your brain
+
+537
+00:40:35,200 --> 00:40:40,280
+with a thousand electrodes and yeah you might be able to do some cool stuff but you're nothing
+
+538
+00:40:40,280 --> 00:40:45,320
+compared to the eye what are your thoughts on merging with machines in general you're
+
+539
+00:40:45,320 --> 00:40:52,200
+involved in Singularity University Ray Kurzweil has the date 2045 for Singularity yeah I don't
+
+540
+00:40:52,200 --> 00:40:59,080
+know I think you should never name dates that's a that's a bad thing and it well whatever
+
+541
+00:40:59,080 --> 00:41:04,440
+of course people have many different definitions of what a Singularity is actually Verna Vinci
+
+542
+00:41:04,440 --> 00:41:10,440
+who was the person who coined the term and who I've known for many years I published
+
+543
+00:41:10,440 --> 00:41:20,640
+one of his books in e-book form back good lord almost 30 years ago he eventually said
+
+544
+00:41:20,640 --> 00:41:26,080
+that the idea of a singularity was actually like a mathematical singularity a metaphor
+
+545
+00:41:26,080 --> 00:41:30,960
+for it as a point that you can't it's undefined that you cannot predict beyond that it's you
+
+546
+00:41:30,960 --> 00:41:35,240
+don't have the equipment to predict what it means so which means it's not kind of pointless
+
+547
+00:41:35,240 --> 00:41:41,120
+to talk about what it means because you are not equipped to do it maybe future you will
+
+548
+00:41:41,120 --> 00:41:49,600
+be equipped to do it and and then more specifically of course of computer intelligence becoming
+
+549
+00:41:49,600 --> 00:41:54,320
+so smart that it surpasses humans and that among the things that surpasses humans that
+
+550
+00:41:54,320 --> 00:42:00,640
+is programming new intelligence so that it is also better at making its own descendants
+
+551
+00:42:00,640 --> 00:42:04,960
+and that this could then happen so quickly that you quickly leave the abilities of humans
+
+552
+00:42:04,960 --> 00:42:11,120
+behind it's very hard to predict when that would happen or if that would happen but yes
+
+553
+00:42:11,120 --> 00:42:15,200
+we're we are going to get closer and closer machines and I do believe it is obviously
+
+554
+00:42:15,200 --> 00:42:19,160
+possible to have intelligence in a machine because if you can have it in a sort of a
+
+555
+00:42:19,160 --> 00:42:24,880
+wet tank of proteins inside bone I'm pretty sure you could have it in other things I'm
+
+556
+00:42:24,880 --> 00:42:29,680
+nothing magical about our brains some people trying to imagine all the brain has some mystical
+
+557
+00:42:29,680 --> 00:42:34,040
+ability to hold intelligence well obviously religions believe that religions believe that
+
+558
+00:42:34,040 --> 00:42:39,280
+there's something outside the brain a soul bestowed from God or whoever is the origin
+
+559
+00:42:39,280 --> 00:42:44,680
+of those things but if you're not taking that approach then there's nothing magical about
+
+560
+00:42:44,680 --> 00:42:51,480
+the brain and so clearly that's not the only way that intelligence could exist and so eventually
+
+561
+00:42:51,480 --> 00:42:56,040
+we will make one I mean we make intelligences all the time any man and woman can do it with
+
+562
+00:42:56,040 --> 00:43:02,440
+the things around they have around the house but we are not aware of how we do it it just
+
+563
+00:43:02,440 --> 00:43:08,760
+evolved but it's obviously possible to do it when we will understand how to do it is
+
+564
+00:43:08,760 --> 00:43:13,640
+a less answered question but we keep seeing glimpses that we're getting closer to that
+
+565
+00:43:13,640 --> 00:43:17,680
+but I'm not going to go so far as to agree with Ray's prediction very interesting perspective
+
+566
+00:43:17,680 --> 00:43:24,840
+I haven't I've never heard the bone and the like if we can create intelligence in with
+
+567
+00:43:24,840 --> 00:43:31,520
+our structure we certainly can it can be done within machines that's that's a very interesting
+
+568
+00:43:31,520 --> 00:43:36,260
+comparison but we do it right I mean yeah unless you believe in the mystical soul coming
+
+569
+00:43:36,260 --> 00:43:41,360
+into the body it is entirely the act of humans which makes more humans and more intelligences
+
+570
+00:43:41,360 --> 00:43:45,880
+well mystical soul is just an attempt to answer the unanswerable basically right our attempt
+
+571
+00:43:45,880 --> 00:43:50,640
+that we know what's going on it's a lot of things it is for many people though a strong
+
+572
+00:43:50,640 --> 00:43:59,840
+desire to feel that we are more than yeah some people some people feel that and then
+
+573
+00:43:59,840 --> 00:44:03,160
+they sense that they look at the world and they say it has to be more than flesh and
+
+574
+00:44:03,160 --> 00:44:11,520
+bone other people you know feel they've had a religious experience to tell them that and
+
+575
+00:44:11,520 --> 00:44:14,480
+so there are many people who think that and there are other people and I'm one of them
+
+576
+00:44:14,480 --> 00:44:19,240
+who look at it and say actually I think it's freaking amazing that you can have intelligence
+
+577
+00:44:19,240 --> 00:44:24,080
+from just that's it's not you know God is wondrous and amazing I'm saying it's wondrous
+
+578
+00:44:24,080 --> 00:44:31,160
+and amazing that evolution could produce something like us and Einstein who though he was a religious
+
+579
+00:44:31,160 --> 00:44:37,320
+man said a great thing he said the most incomprehensible thing about the universe is that it is comprehensible
+
+580
+00:44:37,320 --> 00:44:45,720
+that that the remarkable thing is that something as amazing as the universe and of course it's
+
+581
+00:44:45,720 --> 00:44:50,680
+amazing and many people say that's proof of God is that the universe is so amazing but
+
+582
+00:44:50,680 --> 00:44:55,240
+the fact that the workings of the universe can at some level be understood inside the
+
+583
+00:44:55,240 --> 00:44:59,880
+brain of a piece of the universe that's what Einstein was marveling at and I marvel at
+
+584
+00:44:59,880 --> 00:45:06,640
+it with him yeah I totally agree the God term I've talked about a number of people mathematicians
+
+585
+00:45:06,640 --> 00:45:11,760
+philosopher technologists it means nothing when people are saying it they don't even
+
+586
+00:45:11,760 --> 00:45:17,040
+know what it means they just throw it out there to basically fill a gap of the unknown
+
+587
+00:45:17,040 --> 00:45:20,800
+I'm not gonna go that hard I mean there are people who devote their lives to it my father
+
+588
+00:45:20,800 --> 00:45:26,520
+before I was born devoted his life to it he became an agnostic but the Christian version
+
+589
+00:45:26,520 --> 00:45:34,280
+of a God the Christian version he was he was of Christian but there are people from all
+
+590
+00:45:34,280 --> 00:45:40,800
+kinds of faiths who all and many people who devoted themselves now there is a cynical
+
+591
+00:45:40,800 --> 00:45:45,520
+but very rational explanation for it that the brain does seem to be a little bit primed
+
+592
+00:45:45,520 --> 00:45:50,320
+to feel a spiritual connection and they've found for example there's areas in the brain
+
+593
+00:45:50,320 --> 00:45:56,640
+that you can stimulate that cause people to have a religious experience so that they actually
+
+594
+00:45:56,640 --> 00:46:01,200
+feel they've got direct contact with something spiritual and having directly experienced
+
+595
+00:46:01,200 --> 00:46:07,040
+that then they it is not surprising that they believe it you think machines could have a
+
+596
+00:46:07,040 --> 00:46:14,120
+similar kind of an experience yes I mean I don't think they'd have a part of the machine
+
+597
+00:46:14,120 --> 00:46:21,040
+that you can stick electrodes in and it starts seeing God humans seem to have that some would
+
+598
+00:46:21,040 --> 00:46:27,360
+argue ah God put that there well there should be a need for it right well I believe that
+
+599
+00:46:27,360 --> 00:46:33,360
+we are machines and in the full formal definition of a machine obviously we're not gears in
+
+600
+00:46:33,360 --> 00:46:39,400
+oil and so of course machines can have spiritual experiences because we are machines and we
+
+601
+00:46:39,400 --> 00:46:48,200
+have them and machines that think as we do or think better than we do of course should
+
+602
+00:46:48,200 --> 00:46:55,960
+be able to understand what spiritual means and now would they actually have the spiritual
+
+603
+00:46:55,960 --> 00:47:01,160
+experience that comes to us because of what some might call a flaw in our brains they
+
+604
+00:47:01,160 --> 00:47:05,840
+could be designed to I'm not sure I would design one that way but someone else might
+
+605
+00:47:05,840 --> 00:47:12,760
+fair enough but would they be able to understand the things that we talk about when we talk
+
+606
+00:47:12,760 --> 00:47:18,160
+about spirituality I would have to believe so if they are as smart as we are yeah let
+
+607
+00:47:18,160 --> 00:47:24,200
+me just mention this when I said about God and people I don't mean to offend anybody
+
+608
+00:47:24,200 --> 00:47:30,680
+I you know I I guess can be considered a spiritual person in my own way but my argument was that
+
+609
+00:47:30,680 --> 00:47:36,440
+objectively speaking it's impossible to come up with kind of a definition that you would
+
+610
+00:47:36,440 --> 00:47:41,200
+have everybody agreed upon because a Muslim God is a very different than a Christian God
+
+611
+00:47:41,200 --> 00:47:46,940
+than a you know whatever higher being that Hindus believe in for example and majority
+
+612
+00:47:46,940 --> 00:47:52,240
+of people in the world they don't believe in any specific version of a God well let
+
+613
+00:47:52,240 --> 00:47:56,240
+me go more specific than this though I will tell you that I'm one of the people who believes
+
+614
+00:47:56,240 --> 00:48:01,360
+that it is not out of the question that the first machine intelligences would be copied
+
+615
+00:48:01,360 --> 00:48:05,760
+from human brains and this has become something the public's a little more aware of because
+
+616
+00:48:05,760 --> 00:48:12,040
+Amazon recently released a TV series called upload where that's essential plot element
+
+617
+00:48:12,040 --> 00:48:17,440
+this concept has been around in fiction and in speculation for many decades and the idea
+
+618
+00:48:17,440 --> 00:48:23,200
+is that while we do not understand how intelligence works or how the brain works it's not impossible
+
+619
+00:48:23,200 --> 00:48:30,120
+that first we'll understand how it works at the low level and simply copy the pattern
+
+620
+00:48:30,120 --> 00:48:34,480
+that we don't understand but we can copy some people argue whether we can copy it or
+
+621
+00:48:34,480 --> 00:48:40,240
+not but let's people here are positing that you could copy it into a non-bag of protein
+
+622
+00:48:40,240 --> 00:48:44,240
+form into a wouldn't necessarily it wouldn't be a digital computer but it would be some
+
+623
+00:48:44,240 --> 00:48:50,400
+kind of electronic form for example and that you would have then that human mind inside
+
+624
+00:48:50,400 --> 00:48:59,360
+the silicon and that would be both an artificial brain and a natural intelligence in the and
+
+625
+00:48:59,360 --> 00:49:05,360
+of course as a copy of you or I or anyone else it could certainly believe in God and
+
+626
+00:49:05,360 --> 00:49:10,440
+talk to you about God all day exactly the same way the human that this he or she was
+
+627
+00:49:10,440 --> 00:49:16,520
+copied from could let me read you the second part of the question that I read that how
+
+628
+00:49:16,520 --> 00:49:22,320
+will the insurance business appropriate fault in a computer controlled car would it be the
+
+629
+00:49:22,320 --> 00:49:28,560
+driver the car market and carmaker the software engineer who would it be funny because I just
+
+630
+00:49:28,560 --> 00:49:33,500
+literally a few minutes ago came from a planning session for a debate that we'll be having
+
+631
+00:49:33,500 --> 00:49:38,440
+online tomorrow on insurance and self-driving cars and I've actually spoken about that a
+
+632
+00:49:38,440 --> 00:49:45,520
+lot where would that debate be it'll be of course virtual like what what website or it'll
+
+633
+00:49:45,520 --> 00:49:49,960
+be this website called zoom-tank.com I'm not actually in this particular bait I'm usually
+
+634
+00:49:49,960 --> 00:49:56,640
+in it but I'm in the planning committee and so the the answer is bad for the insurance
+
+635
+00:49:56,640 --> 00:50:01,760
+companies which is that I don't think they actually have a role here now he's your friend
+
+636
+00:50:01,760 --> 00:50:05,960
+is asking a question which a lot of people ask they just want to know who's at fault
+
+637
+00:50:05,960 --> 00:50:10,960
+and the answer that's always been very obvious which is to say that first of all the computer
+
+638
+00:50:10,960 --> 00:50:15,040
+makes a complete recording of anything that happened in three dimensions a recording far
+
+639
+00:50:15,040 --> 00:50:19,640
+beyond any recording you've ever seen so in terms of who broke the law and who was at
+
+640
+00:50:19,640 --> 00:50:25,200
+fault under the vehicle codes and so on that will be known within seconds you know look
+
+641
+00:50:25,200 --> 00:50:29,160
+at the recording you'll say okay this guy did that that guy did that so in terms of
+
+642
+00:50:29,160 --> 00:50:36,760
+legal fault that will be super simple and trivial and so if the software made a mistake
+
+643
+00:50:36,760 --> 00:50:41,440
+the people who made or run the software will obviously be liable for it and no one's ever
+
+644
+00:50:41,440 --> 00:50:46,280
+doubted that in fact so much of people never doubted that that most of the major companies
+
+645
+00:50:46,280 --> 00:50:50,960
+including Google Volvo Mercedes all the big the big car companies not all of them but
+
+646
+00:50:50,960 --> 00:50:56,160
+most of them have declared in advance of course we will be responsible if our car crashes
+
+647
+00:50:56,160 --> 00:51:00,920
+and it's the fault of the car software we're not responsible if you run into it but you
+
+648
+00:51:00,920 --> 00:51:05,480
+know if if it runs into something they're faulting how could it be any other way would
+
+649
+00:51:05,480 --> 00:51:09,600
+you get into an uber if you had to sign a thing saying if this uber driver crashes I
+
+650
+00:51:09,600 --> 00:51:13,760
+have to pay of course not you're not going to get into that car so of course they have
+
+651
+00:51:13,760 --> 00:51:19,000
+to accept the responsibility for it so that a lot of people think like I hear that question
+
+652
+00:51:19,000 --> 00:51:23,360
+a lot and it surprises me because to me and I think too many of the people the answer
+
+653
+00:51:23,360 --> 00:51:32,400
+has been very straightforward are you familiar with defense distributed oh you mean Cody
+
+654
+00:51:32,400 --> 00:51:41,840
+Wilson yes I met him interesting character how do you see this law lawsuit and the whole
+
+655
+00:51:41,840 --> 00:51:47,360
+being able to print guns from the perspective of free speech and civil rights especially
+
+656
+00:51:47,360 --> 00:51:54,720
+since you basically were at the top of electronic what is that the electronic frontier foundation
+
+657
+00:51:54,720 --> 00:52:00,400
+yes we did a lawsuit over many years to get the courts to declare as they did that software
+
+658
+00:52:00,400 --> 00:52:06,240
+is a form of expression and therefore protected by laws of free speech and so yeah the same
+
+659
+00:52:06,240 --> 00:52:09,840
+applies to his files I would have to say even though they're even scarier I guess to people
+
+660
+00:52:09,840 --> 00:52:15,960
+because he can make parts for guns or you can make parts for guns or the 3d printer
+
+661
+00:52:15,960 --> 00:52:21,880
+so I'm not surprised it scares people I'm not surprised people are going after him but
+
+662
+00:52:21,880 --> 00:52:25,460
+if you wanted to imagine a world where there are illegal files with things that must not
+
+663
+00:52:25,460 --> 00:52:30,240
+be known that's a pretty scary world yeah it is speech though right
+
+664
+00:52:30,240 --> 00:52:35,400
+it is it is yeah I mean and then I think we got the court so I shouldn't say yeah obviously
+
+665
+00:52:35,400 --> 00:52:39,720
+because not yeah obviously because we did have to fight get a court to rule on that
+
+666
+00:52:39,720 --> 00:52:46,120
+and have an eight-year fight but to us of course the case was pretty clear yeah I thought
+
+667
+00:52:46,120 --> 00:52:50,120
+the genius of him was just blurring the line between the second amendment and the first
+
+668
+00:52:50,120 --> 00:52:54,880
+amendment in such a meaningful way I read his book too it's not like he's right or
+
+669
+00:52:54,880 --> 00:53:01,120
+left and I think this is beyond any kind of a political affiliation well you know as a
+
+670
+00:53:01,120 --> 00:53:05,000
+Canadian you're probably not as much of a fan of the second amendment as most Americans
+
+671
+00:53:05,000 --> 00:53:10,260
+are I'm a huge fan of second amendment because I'm coming from revolutionary Iran and I know
+
+672
+00:53:10,260 --> 00:53:14,800
+that they distributed guns among the revolutionaries to take over the government and the first
+
+673
+00:53:14,800 --> 00:53:19,160
+thing they did after the revolution succeeded it's like okay we're recalling all the guns
+
+674
+00:53:19,160 --> 00:53:24,840
+the state has a monopoly on violence yeah no no I mean if you're in a obviously a dire
+
+675
+00:53:24,840 --> 00:53:29,920
+situation as was the case in Iran but either during the Shah or later during the revolutionary
+
+676
+00:53:29,920 --> 00:53:37,600
+government it's there's a reason why you want the public to defend themselves and in Canada
+
+677
+00:53:37,600 --> 00:53:42,720
+actually of course there's a huge ownership of rifles among the population people think
+
+678
+00:53:42,720 --> 00:53:47,960
+Canadians don't have guns no no we have lots of rifles what we don't have is handguns and
+
+679
+00:53:47,960 --> 00:53:54,480
+it is clear that handguns are responsible for a significant increase in gun deaths in
+
+680
+00:53:54,480 --> 00:53:58,840
+the United States I mean the numbers are just staggering so anyway but whether you're a
+
+681
+00:53:58,840 --> 00:54:02,960
+fan of the second amendment or not people come to the defense of Cody Wilson because
+
+682
+00:54:02,960 --> 00:54:07,960
+strictly for the first amendment question yeah all right let me this was a pleasure
+
+683
+00:54:07,960 --> 00:54:12,880
+thank you so much for your time let me ask you the last question I ask all my guests
+
+684
+00:54:12,880 --> 00:54:16,840
+that if you come across an intelligent alien from a different civilization what would you
+
+685
+00:54:16,840 --> 00:54:24,320
+say is the worst thing humanity has done and what would you say is our greatest achievement
+
+686
+00:54:24,320 --> 00:54:31,040
+well of course the intelligent alien already knows this in any real situation because any
+
+687
+00:54:31,040 --> 00:54:34,600
+intelligent alien we're going to come across has got significantly greater capabilities
+
+688
+00:54:34,600 --> 00:54:45,320
+than we have what is the worst and best thing that humans have done I mean I guess my answer
+
+689
+00:54:45,320 --> 00:54:49,960
+on the worst thing is kind of boring right it's it's atrocity it's the long history
+
+690
+00:54:49,960 --> 00:54:57,520
+of atrocity that we have it's the long history of you know like what happened you know we
+
+691
+00:54:57,520 --> 00:55:03,520
+we study forever what happened in Germany in various other cases but to many ways you
+
+692
+00:55:03,520 --> 00:55:08,280
+look at Rwanda where which happened in the modern world where we know the example of
+
+693
+00:55:08,280 --> 00:55:12,400
+Germany and where you look at the Khmer Rouge in Cambodia where again we knew that example
+
+694
+00:55:12,400 --> 00:55:17,600
+and it was modern times and it didn't take very much to pull away the veil and people
+
+695
+00:55:17,600 --> 00:55:25,680
+would come out with their machetes right in Rwanda so the fact that and the fact that
+
+696
+00:55:25,680 --> 00:55:32,240
+by the way Germans aren't really worse than us right we imagine okay oh yeah well they
+
+697
+00:55:32,240 --> 00:55:36,800
+know the Germans were just they were all internal Nazis and so they did these horrible things
+
+698
+00:55:36,800 --> 00:55:40,800
+no they were people not too different from the people today yeah people think it can
+
+699
+00:55:40,800 --> 00:55:46,560
+be replicated here and repeated here in the US so yeah that's that that is still true
+
+700
+00:55:46,560 --> 00:55:55,680
+as I would say is one of the things I think is the worst of us the best of us is what
+
+701
+00:55:55,680 --> 00:56:03,360
+Einstein said that we have managed to actually get closer and closer to an understanding
+
+702
+00:56:03,360 --> 00:56:09,720
+of the way the universe works that we're a piece of the universe and we keep doing that
+
+703
+00:56:09,720 --> 00:56:15,280
+and we came up with science we came up with a way to actually make reliable information
+
+704
+00:56:15,280 --> 00:56:19,280
+that we could test and repeat and test and repeat until it actually seemed like we had
+
+705
+00:56:19,280 --> 00:56:24,840
+confidence it was true and that all of us know is true because we bet our lives on the
+
+706
+00:56:24,840 --> 00:56:29,040
+truth of scientific principles every day everywhere we go and except when we're staying at home
+
+707
+00:56:29,040 --> 00:56:32,680
+all day that's now we don't bet our lives on science every day well we still bet on
+
+708
+00:56:32,680 --> 00:56:39,760
+the the food we eat is assured through these principles that we've devised so that grand
+
+709
+00:56:39,760 --> 00:57:06,640
+achievement is the best bet.
+
