@@ -1,0 +1,7781 @@
+WEBVTT
+
+00:00.000 --> 00:02.500
+This is how machine learning and AI and many other algorithms
+
+00:02.500 --> 00:04.100
+work is like there's an objective function
+
+00:04.100 --> 00:05.800
+and you're trying to optimize it.
+
+00:05.800 --> 00:07.680
+And really where the social discussion
+
+00:07.680 --> 00:09.480
+and the personal intervention needs to happen
+
+00:09.480 --> 00:10.800
+is at the level of what is
+
+00:10.800 --> 00:13.120
+or what should be that objective function.
+
+00:13.120 --> 00:15.840
+How it gets optimized is really like a technical problem.
+
+00:15.840 --> 00:17.620
+It's like, how do you make the engine run faster?
+
+00:17.620 --> 00:20.200
+Well, you know, let the engineers worry about that.
+
+00:20.200 --> 00:23.040
+And then you decide what speed you want to drive it at.
+
+00:23.040 --> 00:25.680
+And the thing is that maximizing engagement
+
+00:25.680 --> 00:28.520
+as an objective function is actually
+
+00:28.520 --> 00:30.300
+a perfectly natural thing to do.
+
+00:31.640 --> 00:33.580
+The problem is the side effects.
+
+00:33.580 --> 00:35.120
+Right, the consequences.
+
+00:35.120 --> 00:36.120
+Exactly. Right.
+
+00:36.120 --> 00:39.080
+So the algorithms are to blame, yes,
+
+00:39.080 --> 00:41.640
+but the engineers are to blame,
+
+00:41.640 --> 00:43.240
+not for their evil intent,
+
+00:43.240 --> 00:45.220
+but for just having set the algorithms
+
+00:45.220 --> 00:48.000
+to maximize this thing without realizing
+
+00:48.000 --> 00:49.880
+all the consequences that we'd have.
+
+00:49.880 --> 00:52.040
+Which in fairness, in the early days,
+
+00:52.040 --> 00:53.640
+it was easy to miss that, right?
+
+00:53.640 --> 00:55.520
+Again, I don't think people were being evil
+
+00:55.520 --> 00:56.880
+or really stupid about it.
+
+00:56.880 --> 00:58.320
+They were just oblivious.
+
+00:58.320 --> 01:01.080
+And we can't afford to be oblivious at this point.
+
+01:01.080 --> 01:06.080
+Dr. Pedro Dominguez, welcome to the 90th episode
+
+01:12.520 --> 01:14.720
+of Neo Human Podcast, sir.
+
+01:14.720 --> 01:15.680
+Thanks for having me.
+
+01:15.680 --> 01:16.680
+Yeah, it's a pleasure.
+
+01:16.680 --> 01:20.200
+I've heard your name for the first time
+
+01:20.200 --> 01:21.840
+because of your book, obviously,
+
+01:21.840 --> 01:23.720
+The Master Algorithm, How to Quest
+
+01:23.720 --> 01:26.240
+for the Ultimate Learning Machine Will Remake Our World.
+
+01:26.240 --> 01:29.400
+But then on the bookshelf
+
+01:29.400 --> 01:32.440
+of China's President for Life, President Xi,
+
+01:32.440 --> 01:36.820
+was two artificial intelligence-related books,
+
+01:36.820 --> 01:38.040
+and yours was one of them.
+
+01:38.040 --> 01:41.640
+How did that feel hearing something like that?
+
+01:41.640 --> 01:45.360
+Because I would imagine that it was not coordinated with you.
+
+01:45.360 --> 01:48.380
+No, it wasn't coordinated, so I wasn't expecting it.
+
+01:48.380 --> 01:52.320
+And it felt, well, mixed feelings.
+
+01:52.320 --> 01:55.200
+On the one hand, it's good that China,
+
+01:55.200 --> 01:57.120
+at the highest levels of its leadership,
+
+01:57.120 --> 01:59.680
+understands that AI is important
+
+01:59.680 --> 02:01.720
+and that they want everybody else in the country
+
+02:01.720 --> 02:02.760
+to pay attention to it.
+
+02:02.760 --> 02:04.640
+And I think a lot of good things will come of it,
+
+02:04.640 --> 02:07.600
+a lot of applications in many different areas.
+
+02:07.600 --> 02:12.600
+At the same time, seeing a totalitarian regime
+
+02:12.600 --> 02:16.200
+get excited about AI, and my book helping with that
+
+02:16.200 --> 02:18.400
+is not a very reassuring feeling.
+
+02:18.400 --> 02:22.640
+Yeah, it must have been quite a unique experience.
+
+02:22.640 --> 02:24.200
+What was the thesis of the book,
+
+02:24.200 --> 02:26.240
+if you don't mind describing it a little,
+
+02:26.240 --> 02:29.000
+and why did you write it when you did?
+
+02:29.880 --> 02:32.600
+Yeah, so the book is an introduction to machine learning
+
+02:32.600 --> 02:34.600
+for a general audience.
+
+02:34.600 --> 02:37.400
+And the reason I wrote it is that I believe
+
+02:37.400 --> 02:40.720
+we've come to a point where it's not enough
+
+02:40.720 --> 02:44.920
+for machine learning to be known by just the experts.
+
+02:44.920 --> 02:46.920
+Everybody needs to understand machine learning
+
+02:46.920 --> 02:49.840
+at some level because it really affects everybody's life
+
+02:49.840 --> 02:53.320
+in many ways, some of them very important.
+
+02:53.320 --> 02:56.200
+From presidents and CEOs on down to everybody
+
+02:56.200 --> 02:58.320
+in their professional private lives,
+
+02:58.320 --> 03:00.640
+you need to understand what machine learning does
+
+03:00.640 --> 03:02.720
+and what it doesn't do so you can,
+
+03:02.720 --> 03:04.440
+number one, make the best use of it,
+
+03:04.440 --> 03:07.680
+for example, professionally and even personally,
+
+03:08.560 --> 03:10.600
+so that you know how to interact with the systems
+
+03:10.600 --> 03:12.200
+that are using machine learning all the time,
+
+03:12.200 --> 03:15.200
+like Google and Twitter and Facebook and so on.
+
+03:15.200 --> 03:18.440
+And also so that in a democracy,
+
+03:18.440 --> 03:21.240
+there are a lot of important decisions to be made
+
+03:21.240 --> 03:23.360
+about how machine learning gets used and doesn't,
+
+03:23.360 --> 03:25.800
+and they're supposed to be made by everybody.
+
+03:25.800 --> 03:27.600
+And what I saw that was frustrating me
+
+03:27.600 --> 03:29.480
+was that at the time I wrote the book,
+
+03:29.480 --> 03:31.120
+and even more so now,
+
+03:31.120 --> 03:34.520
+is that there was an enormous amount of discourse
+
+03:34.520 --> 03:37.640
+about machine learning that was really, really uninformed
+
+03:37.640 --> 03:39.520
+by the realities of machine learning.
+
+03:39.520 --> 03:41.600
+This was when, 2015?
+
+03:42.640 --> 03:46.480
+Well, so I started writing the book in 2012.
+
+03:46.480 --> 03:49.840
+The timing was actually perfect because, you know,
+
+03:49.840 --> 03:53.920
+by the time the book came out in 2015,
+
+03:53.920 --> 03:55.520
+the interest in machine learning had gone up,
+
+03:55.520 --> 03:58.920
+like an AI had just gone up to a different level.
+
+03:58.920 --> 04:01.880
+I mean, I first thought of writing a popular science book
+
+04:01.880 --> 04:04.400
+about machine learning when I was a grad student,
+
+04:04.400 --> 04:05.480
+in the nineties,
+
+04:05.480 --> 04:07.760
+because already then machine learning was taking off
+
+04:07.760 --> 04:09.640
+and you're seeing some press stories about it.
+
+04:09.640 --> 04:11.840
+It's like this thing about exponential growth
+
+04:11.840 --> 04:14.240
+is that you think something didn't exist
+
+04:14.240 --> 04:15.760
+until it bursts onto your view,
+
+04:15.760 --> 04:18.600
+but then you see that then it reaches
+
+04:18.600 --> 04:20.440
+the next level of people.
+
+04:20.440 --> 04:21.400
+But at the time, you know,
+
+04:21.400 --> 04:23.400
+I didn't feel an enormous urgency about it.
+
+04:23.400 --> 04:27.000
+And also I didn't have a good idea
+
+04:27.000 --> 04:30.560
+of how to write a book about machine learning.
+
+04:30.560 --> 04:32.880
+Because writing a book for a general audience
+
+04:32.880 --> 04:34.800
+is not like writing a textbook, right?
+
+04:34.800 --> 04:36.360
+When you're writing a textbook, you can say like,
+
+04:36.360 --> 04:38.080
+oh, here's a chapter about neural networks,
+
+04:38.080 --> 04:40.560
+here's a chapter about vision networks.
+
+04:40.560 --> 04:41.800
+But that's too boring, right?
+
+04:41.800 --> 04:42.840
+Nobody's gonna read that.
+
+04:42.840 --> 04:44.840
+Right, not anymore.
+
+04:44.840 --> 04:47.800
+Well, yeah, maybe, good point.
+
+04:47.800 --> 04:50.720
+But nevertheless, it's helpful to have a story, right?
+
+04:50.720 --> 04:51.800
+To have a theme.
+
+04:51.800 --> 04:53.280
+And so I studied, you know,
+
+04:53.280 --> 04:54.680
+how to write these kinds of books.
+
+04:54.680 --> 04:58.520
+And there's a certain number of schemas that you can use.
+
+04:58.520 --> 04:59.920
+One of them, popular in science books,
+
+04:59.920 --> 05:03.160
+is the mystery that you wanna solve or the quest.
+
+05:03.160 --> 05:05.920
+And immediately I realized that the right story
+
+05:05.920 --> 05:09.280
+for this book is the quest for the master algorithm.
+
+05:09.280 --> 05:10.400
+Because that's what really,
+
+05:10.400 --> 05:12.560
+and that's where the title of the book comes from.
+
+05:12.560 --> 05:15.560
+The thing that is really remarkable about machine learning
+
+05:15.560 --> 05:18.640
+and different from everything we've seen before
+
+05:18.640 --> 05:20.520
+and central to what it does,
+
+05:20.520 --> 05:24.080
+is that one algorithm can learn
+
+05:24.080 --> 05:27.400
+to do an infinite number of different things, right?
+
+05:27.400 --> 05:29.080
+Turing machines can do anything,
+
+05:29.080 --> 05:30.400
+and that's the power of computers,
+
+05:30.400 --> 05:33.560
+as Turing first explained.
+
+05:33.560 --> 05:35.560
+But if you want a computer to play chess,
+
+05:35.560 --> 05:37.720
+you have to program it to play chess.
+
+05:37.720 --> 05:39.600
+If you want the computer to fly an airplane
+
+05:39.600 --> 05:41.760
+or be a search engine, you have to program it to do that.
+
+05:41.760 --> 05:43.400
+The thing that's amazing about machine learning
+
+05:43.400 --> 05:45.000
+is that you don't need to do that.
+
+05:45.000 --> 05:46.760
+Just one learning algorithm,
+
+05:46.760 --> 05:48.720
+if you feed it the right data,
+
+05:48.720 --> 05:50.800
+will learn to do all these different things.
+
+05:50.800 --> 05:52.680
+Case in point, look at the back prop, right?
+
+05:52.680 --> 05:56.080
+Back prop is used to do everything, right?
+
+05:56.080 --> 05:57.440
+So the idea of a master algorithm
+
+05:57.440 --> 05:59.160
+is like the idea of a master key, right?
+
+05:59.160 --> 06:02.400
+It's one key that opens all the locks.
+
+06:02.400 --> 06:03.840
+But of course, this is an ideal.
+
+06:03.840 --> 06:04.960
+We're not there yet.
+
+06:04.960 --> 06:08.360
+There's many different ways to do it.
+
+06:08.360 --> 06:09.800
+And that's a lot of what the book is,
+
+06:09.800 --> 06:11.440
+different paradigms in machine learning
+
+06:11.440 --> 06:14.200
+and how you might unify them all at the end of the day.
+
+06:14.200 --> 06:17.400
+And also what the applications in the world
+
+06:17.400 --> 06:19.560
+of machine learning are today.
+
+06:19.560 --> 06:22.280
+And also, the last chapter in the book,
+
+06:22.280 --> 06:23.640
+which in some ways for a lot of people
+
+06:23.640 --> 06:26.720
+is the most interesting one, is a look at the future
+
+06:26.720 --> 06:30.080
+and where things are headed as we use more machine learning.
+
+06:30.080 --> 06:33.560
+And honestly, a lot of the stuff that I wrote about
+
+06:33.560 --> 06:37.160
+back in 2015, not only has it come true,
+
+06:37.160 --> 06:40.160
+it has exceeded my predictions.
+
+06:40.160 --> 06:44.600
+The dystopian side of things?
+
+06:44.600 --> 06:48.120
+Not just, it's funny that you would put it that way.
+
+06:48.120 --> 06:52.200
+I think this is true of every technology.
+
+06:52.200 --> 06:54.440
+And a lot of things that are true of every technology
+
+06:54.440 --> 06:57.640
+are particularly true of AI because AI really
+
+06:57.640 --> 07:00.760
+fires people's imagination for better and for worse.
+
+07:00.760 --> 07:03.920
+And usually in the first wave of a technology,
+
+07:03.920 --> 07:07.440
+people are dazzled by the potential.
+
+07:07.440 --> 07:10.160
+And this I think is where things were in 2015.
+
+07:10.160 --> 07:12.200
+But one of the things that I predicted then
+
+07:12.200 --> 07:14.440
+is that, well, there's all these concerns
+
+07:14.440 --> 07:16.760
+like privacy and whatnot, and sooner or later
+
+07:16.760 --> 07:19.520
+this is going to blow up.
+
+07:19.520 --> 07:23.000
+And it has blown up in the biggest possible way.
+
+07:23.000 --> 07:25.560
+And then what happens when the concerns come to the fore
+
+07:25.560 --> 07:29.960
+is then they take center stage and everybody's paranoid
+
+07:29.960 --> 07:32.320
+and focused on the dangers and the dystopian scenarios,
+
+07:32.320 --> 07:34.280
+which is where we are now.
+
+07:34.280 --> 07:36.880
+Everybody's just completely going off the rails
+
+07:36.880 --> 07:38.640
+with the dangers of AI in a way that I
+
+07:38.640 --> 07:41.320
+think is also unbalanced.
+
+07:41.320 --> 07:43.040
+And then finally, there comes the point
+
+07:43.040 --> 07:46.040
+where people just settle down to making things work,
+
+07:46.040 --> 07:47.640
+and then they do make things better.
+
+07:47.640 --> 07:49.800
+Maybe not quite as the utopia envisaged,
+
+07:49.800 --> 07:51.520
+but also preventing the dystopias.
+
+07:51.520 --> 07:53.440
+And I have no doubt that the same thing will
+
+07:53.440 --> 07:57.960
+happen with AI if we work on making it happen.
+
+07:57.960 --> 08:00.400
+The future of AI is not utopian or dystopian
+
+08:00.400 --> 08:01.480
+in some predetermined way.
+
+08:01.480 --> 08:02.880
+It's what we make of it.
+
+08:02.880 --> 08:05.320
+It will be good because we make it good, which, again,
+
+08:05.320 --> 08:07.360
+gets back to the motivation for writing the book,
+
+08:07.360 --> 08:11.080
+is that we need input from everybody on what to do with this.
+
+08:11.080 --> 08:14.200
+Also, there's another, it's exactly, precisely,
+
+08:14.200 --> 08:15.400
+AI is a tool.
+
+08:15.400 --> 08:16.520
+Exactly right.
+
+08:16.520 --> 08:18.040
+AI is a tool.
+
+08:18.040 --> 08:19.840
+And a lot of people talk about the power
+
+08:19.840 --> 08:22.200
+that AI gives, x, y, or z.
+
+08:22.200 --> 08:24.400
+And I think people need to bear in mind
+
+08:24.400 --> 08:28.480
+is AI is a tool for those who know how to use it.
+
+08:28.480 --> 08:30.760
+If you don't know how to drive a car,
+
+08:30.760 --> 08:33.960
+it won't take you where you want to go.
+
+08:33.960 --> 08:35.960
+You don't need to understand how the engine works.
+
+08:35.960 --> 08:37.000
+That's for the engineers.
+
+08:37.000 --> 08:38.440
+But you need to understand where the steering
+
+08:38.440 --> 08:39.440
+wheel and the pedals are.
+
+08:39.440 --> 08:41.840
+And the idea of the book is to tell people not necessarily
+
+08:41.840 --> 08:45.120
+about the engine, but about the steering wheel and the pedals
+
+08:45.120 --> 08:49.320
+so that it can be a tool for you so that it makes you powerful.
+
+08:49.320 --> 08:51.840
+We don't want AI to make total-terrain governments
+
+08:51.840 --> 08:54.600
+powerful or companies that are already over mighty,
+
+08:54.600 --> 08:55.840
+even more over mighty.
+
+08:55.840 --> 09:00.080
+We want AI to be a tool that empowers every single one of us.
+
+09:00.080 --> 09:03.400
+That's the goal, and that's very much why I wrote the book.
+
+09:03.400 --> 09:06.120
+Yeah, I think one of the reasons that the dystopian side
+
+09:06.120 --> 09:10.560
+of things are becoming more and more maybe attractive
+
+09:10.560 --> 09:14.480
+would be an interesting term to use it for a lot of people
+
+09:14.480 --> 09:17.800
+is that they're experiencing it firsthand, especially
+
+09:17.800 --> 09:22.600
+if you're coming from a certain way of thinking about politics
+
+09:22.600 --> 09:24.720
+and life and philosophy and all that.
+
+09:24.720 --> 09:26.920
+You just see that you're being shut down,
+
+09:26.920 --> 09:29.800
+you're being silenced, you're being deplatformed.
+
+09:29.800 --> 09:32.800
+And what you hear is that a lot of people
+
+09:32.800 --> 09:36.160
+who are running these companies, they are blaming algorithms.
+
+09:36.160 --> 09:37.680
+They're like, well, it's not our fault.
+
+09:37.680 --> 09:41.320
+It's the algorithm's fault that prioritized, for example,
+
+09:41.320 --> 09:45.720
+liberal headlines against conservative headlines.
+
+09:45.720 --> 09:47.840
+It's just an example.
+
+09:47.840 --> 09:49.800
+So for a lot of people, this seems
+
+09:49.800 --> 09:53.920
+like an existential threat to the way of their life
+
+09:53.920 --> 09:55.480
+and the way of their thinking.
+
+09:55.480 --> 09:59.080
+And they kind of connect this to algorithms and AI,
+
+09:59.080 --> 10:02.160
+which to me is kind of ruining the potential for all
+
+10:02.160 --> 10:04.800
+the good stuff that can happen in the coming years and decades.
+
+10:04.800 --> 10:06.720
+I do believe that we depend on it
+
+10:06.720 --> 10:08.920
+because we've evolved with our technology
+
+10:08.920 --> 10:10.920
+to get where we are.
+
+10:10.920 --> 10:13.480
+We haven't done it separately.
+
+10:13.480 --> 10:18.880
+You're right that people are now experiencing it firsthand.
+
+10:18.880 --> 10:22.360
+But what happens is actually that, again, AI
+
+10:22.360 --> 10:25.520
+is like the blank canvas onto which people project
+
+10:25.520 --> 10:28.520
+whatever preoccupations they have, particularly
+
+10:28.520 --> 10:30.400
+political ones.
+
+10:30.400 --> 10:34.960
+And for example, liberals are very concerned with fairness,
+
+10:34.960 --> 10:36.680
+and they tend to see in AI algorithms
+
+10:36.680 --> 10:41.200
+just a cesspool of bias that isn't really there,
+
+10:41.200 --> 10:42.800
+but they think needs to be dealt with.
+
+10:42.800 --> 10:44.200
+On the other hand, if you're more
+
+10:44.200 --> 10:47.520
+of a libertarian persuasion, what you see in AI is big brother.
+
+10:47.520 --> 10:49.760
+It's this thing that's going to oppress you.
+
+10:49.760 --> 10:52.800
+And the thing to realize is that none of these concerns
+
+10:52.800 --> 10:55.560
+are unfounded on any side of the spectrum.
+
+10:55.560 --> 10:59.760
+But in many cases, people perceive the threat
+
+10:59.760 --> 11:03.600
+to be not just bigger than it really is, but different.
+
+11:03.600 --> 11:06.000
+And again, if you understand what's really going on,
+
+11:06.000 --> 11:08.600
+actually, you can then address the problems properly
+
+11:08.600 --> 11:11.520
+as opposed to all the many very confused things that
+
+11:11.520 --> 11:12.520
+are flying around.
+
+11:12.520 --> 11:15.400
+Case in point, when you say that the companies say,
+
+11:15.400 --> 11:18.760
+oh, don't blame us, blame the algorithms,
+
+11:18.760 --> 11:22.440
+this is actually both true and false.
+
+11:22.440 --> 11:26.840
+It's true in the sense that, yes, the algorithms
+
+11:26.840 --> 11:28.200
+are making these decisions.
+
+11:28.200 --> 11:30.680
+And for example, when a lot of conservatives say,
+
+11:30.680 --> 11:32.920
+oh, Google, Twitter, et cetera, they're
+
+11:32.920 --> 11:36.360
+discriminating against us, I was actually
+
+11:36.360 --> 11:40.640
+very skeptical of that for a long time in the past
+
+11:40.640 --> 11:43.760
+for the reason that, I mean, obviously, the work
+
+11:43.760 --> 11:46.680
+forces at these companies are overwhelmingly liberal.
+
+11:46.680 --> 11:49.000
+So that is certainly a cause for worry.
+
+11:49.000 --> 11:53.120
+But I have never seen evidence of people deliberately
+
+11:53.120 --> 11:57.720
+plugging their liberal politics into the algorithms.
+
+11:57.720 --> 11:59.360
+So I don't think that, a lot of the times,
+
+11:59.360 --> 12:01.840
+people interpret an algorithm as having an x, y, or z
+
+12:01.840 --> 12:03.440
+when, in fact, it was just optimizing
+
+12:03.440 --> 12:05.200
+its objective function.
+
+12:05.200 --> 12:07.880
+In more recent times, as the decisions
+
+12:07.880 --> 12:11.840
+have started to be made by people and by the CEOs
+
+12:11.840 --> 12:13.600
+and the pressure from their work forces,
+
+12:13.600 --> 12:16.840
+now, I really think there's something to worry about.
+
+12:16.840 --> 12:19.200
+But again, the problem there is not the algorithms.
+
+12:19.200 --> 12:21.200
+Actually, it's the people making the decisions.
+
+12:21.200 --> 12:24.040
+But to get back to the algorithms,
+
+12:24.040 --> 12:26.880
+it's very easy to blame the algorithms.
+
+12:26.880 --> 12:29.800
+But the algorithms were designed by people,
+
+12:29.800 --> 12:31.760
+in particular, machine learning algorithms.
+
+12:31.760 --> 12:33.440
+And again, the problem is not so much
+
+12:33.440 --> 12:35.280
+that they were designed by, say, liberals
+
+12:35.280 --> 12:38.040
+with a liberal takeover in mind, the silent conservancy
+
+12:38.040 --> 12:38.720
+of voices.
+
+12:38.720 --> 12:40.080
+The problem is that the algorithms
+
+12:40.080 --> 12:45.400
+were designed to maximize engagement, which
+
+12:45.400 --> 12:48.120
+maximizing engagement, these days, has a really bad name.
+
+12:48.120 --> 12:50.160
+That's an incentive, basically.
+
+12:50.160 --> 12:54.960
+Yeah, I mean, again, this is how machine learning and AI
+
+12:54.960 --> 12:57.360
+and many other algorithms work is there's an objective function
+
+12:57.360 --> 12:58.960
+and you're trying to optimize it.
+
+12:58.960 --> 13:00.840
+And really, where the social discussion
+
+13:00.840 --> 13:02.760
+and the personal intervention needs to happen
+
+13:02.760 --> 13:04.680
+is at the level of what is or what should
+
+13:04.680 --> 13:06.320
+be that objective function.
+
+13:06.320 --> 13:09.080
+How it gets optimized is really like a technical problem.
+
+13:09.080 --> 13:11.080
+It's like, how do you make the engine run faster?
+
+13:11.080 --> 13:13.360
+Well, let the engineers worry about that.
+
+13:13.360 --> 13:16.200
+And then you decide what speed you want to drive it at.
+
+13:16.200 --> 13:18.960
+And the thing is that maximizing engagement
+
+13:18.960 --> 13:21.680
+as an objective function is actually
+
+13:21.680 --> 13:24.880
+a perfectly natural thing to do.
+
+13:24.880 --> 13:26.760
+The problem is the side effects.
+
+13:26.760 --> 13:28.280
+Right, the consequences.
+
+13:28.280 --> 13:29.000
+Exactly.
+
+13:29.000 --> 13:29.640
+Right.
+
+13:29.640 --> 13:33.280
+So the algorithms are to blame, yes,
+
+13:33.280 --> 13:36.480
+but the engineers are to blame not for their evil intent,
+
+13:36.480 --> 13:38.480
+but for just having set the algorithms
+
+13:38.480 --> 13:42.360
+to maximize this thing without realizing all the consequences
+
+13:42.360 --> 13:45.320
+that we'd have, which in fairness, in the early days,
+
+13:45.320 --> 13:46.880
+it was easy to miss that.
+
+13:46.880 --> 13:49.480
+Again, I don't think people were being evil or really stupid
+
+13:49.480 --> 13:50.080
+about it.
+
+13:50.080 --> 13:52.520
+They were just oblivious, and we can't afford
+
+13:52.520 --> 13:55.040
+to believe we're just at this point.
+
+13:55.040 --> 13:57.040
+The objective that you're talking about
+
+13:57.040 --> 14:00.480
+is exactly the problem that we have with alignment problem.
+
+14:00.480 --> 14:02.240
+Right?
+
+14:02.240 --> 14:04.280
+Big picture-wise, because the objective
+
+14:04.280 --> 14:06.040
+can be narrow, that I'm hungry.
+
+14:06.040 --> 14:07.680
+The objective is to get to the kitchen.
+
+14:07.680 --> 14:10.080
+I go down the stairs, and I get plate, blah, blah, blah.
+
+14:10.080 --> 14:11.800
+But then there are bigger objectives,
+
+14:11.800 --> 14:18.040
+that this is where we get to AI ethics, which for years,
+
+14:18.040 --> 14:19.960
+I've asked people without even knowing
+
+14:19.960 --> 14:23.440
+that there is such a role exists as AI ethicists, that to me,
+
+14:23.440 --> 14:24.360
+that's terrifying.
+
+14:24.360 --> 14:26.840
+But hopefully, we can talk about it.
+
+14:26.840 --> 14:30.400
+But for years, I asked people on this podcast, technologists,
+
+14:30.400 --> 14:33.480
+philosopher, developers, whether or not
+
+14:33.480 --> 14:37.840
+ethics and morality is objective or subjective.
+
+14:37.840 --> 14:41.720
+And every single time I heard the answer, it is subjective.
+
+14:41.720 --> 14:45.720
+Unless we are creating a closed context, which to me
+
+14:45.720 --> 14:49.920
+is a disservice if you're going to explore the unknown
+
+14:49.920 --> 14:53.960
+and there are a bunch of people sitting up there in charge,
+
+14:53.960 --> 14:58.520
+I would assume they think, of to be the master algorithm.
+
+14:58.520 --> 15:00.000
+And they're like, we're going to parent you.
+
+15:00.000 --> 15:02.080
+We're going to teach you what is good, what is bad,
+
+15:02.080 --> 15:03.360
+what is right, what is wrong.
+
+15:03.360 --> 15:05.600
+I don't care who you are, what gender you are,
+
+15:05.600 --> 15:08.320
+what color you are, what race you are.
+
+15:08.320 --> 15:11.080
+You are not in the position, especially
+
+15:11.080 --> 15:14.800
+in the United States of America, to define these kind of values.
+
+15:14.800 --> 15:18.120
+That's why we say, in God, we trust.
+
+15:18.120 --> 15:20.320
+Well, I couldn't agree more.
+
+15:20.320 --> 15:23.640
+And in fact, if somebody tells you that ethics is objective,
+
+15:23.640 --> 15:26.480
+what you should do is run away as fast as you can.
+
+15:26.480 --> 15:28.280
+I'm from Iran, man.
+
+15:28.280 --> 15:30.080
+I'm coming from Iran.
+
+15:30.080 --> 15:31.800
+I was a refugee in Canada.
+
+15:31.800 --> 15:33.160
+I'm an immigrant here.
+
+15:33.160 --> 15:35.840
+I had to be human traffic out of Iran.
+
+15:35.840 --> 15:40.600
+And the major problem there is that some dude is sitting up
+
+15:40.600 --> 15:44.600
+there and is like, I'm telling you the orders of God.
+
+15:44.600 --> 15:47.440
+And this is how you have to live your lives, basically.
+
+15:47.440 --> 15:49.480
+And they have monopoly on violence, both of which
+
+15:49.480 --> 15:51.680
+they try to do right here in the United States.
+
+15:51.680 --> 15:55.400
+And I think most Americans think that what happened in Iran
+
+15:55.400 --> 15:56.520
+cannot happen in America.
+
+15:56.520 --> 15:58.120
+It totally can happen.
+
+15:58.120 --> 15:58.600
+Yes.
+
+15:58.600 --> 16:01.760
+I mean, in fact, that I think is the big worry,
+
+16:01.760 --> 16:05.640
+is that anybody who's lived in a totalitarian regime
+
+16:05.640 --> 16:09.400
+of any stripe, whether it's Iran or the Soviet Union or China,
+
+16:09.400 --> 16:13.520
+et cetera, et cetera, they recognize what's happening.
+
+16:13.520 --> 16:15.960
+I grew up in Portugal, which was a fascist country when
+
+16:15.960 --> 16:17.720
+I was born.
+
+16:17.720 --> 16:19.680
+The secret police had to file on my dad
+
+16:19.680 --> 16:22.120
+because he was a professor and he was pretty outspoken.
+
+16:22.120 --> 16:23.680
+And then there was a revolution.
+
+16:23.680 --> 16:25.400
+And for a couple of years there, Portugal
+
+16:25.400 --> 16:27.200
+wasn't expected to becoming a communist country
+
+16:27.200 --> 16:29.240
+because the communists were taking power.
+
+16:29.240 --> 16:30.880
+And I recognize everything that I
+
+16:30.880 --> 16:32.240
+see happening in America today.
+
+16:32.240 --> 16:33.560
+There's some new variations.
+
+16:33.560 --> 16:37.360
+But the essence, and again, it's not surprising to me
+
+16:37.360 --> 16:39.680
+that a lot of people who have come from countries
+
+16:39.680 --> 16:42.560
+or have close relatives who live through these things,
+
+16:42.560 --> 16:45.280
+they're the ones who are most alarmed.
+
+16:45.280 --> 16:47.120
+The problem is that the Americans don't actually
+
+16:47.120 --> 16:48.160
+have the pattern.
+
+16:48.160 --> 16:50.880
+Most Americans don't have the pattern recognition
+
+16:50.880 --> 16:52.280
+for what is going on here.
+
+16:52.280 --> 16:54.640
+But there is a set of people who are
+
+16:54.640 --> 16:57.360
+trying to impose their ethics on everybody else.
+
+16:57.360 --> 16:59.000
+And of course, one of the things that's
+
+16:59.000 --> 17:02.760
+new about today is that there are these technologies
+
+17:02.760 --> 17:06.240
+that while they can be great tools for democracy,
+
+17:06.240 --> 17:09.640
+they can also be great tools for totalitarianism.
+
+17:09.640 --> 17:14.360
+In fact, in some ways, a big AI is bigger than big brother.
+
+17:14.360 --> 17:17.080
+It's something that not even big brother could have dreamed of.
+
+17:17.080 --> 17:19.160
+And that's what's really alarming.
+
+17:19.160 --> 17:21.200
+I hear a lot of people worrying about like, oh,
+
+17:21.200 --> 17:23.440
+these companies, they're manipulating you.
+
+17:23.440 --> 17:27.640
+And I can't get excited about that because all they can do
+
+17:27.640 --> 17:30.360
+is try to sell me products and I refuse to buy them.
+
+17:30.360 --> 17:32.760
+That doesn't keep me up at night.
+
+17:32.760 --> 17:36.240
+But AI in the hands of the state,
+
+17:36.240 --> 17:38.240
+they can do a lot more than sell me products.
+
+17:38.240 --> 17:40.160
+So that, I think, is something we seriously
+
+17:40.160 --> 17:41.440
+need to worry about.
+
+17:41.440 --> 17:43.760
+So what are your thoughts about AI ethicists,
+
+17:43.760 --> 17:47.600
+especially in a certain company that I'm trying not to name,
+
+17:47.600 --> 17:51.640
+but I know that you took a public stance with respect
+
+17:51.640 --> 17:53.200
+to address this issue.
+
+17:53.200 --> 17:57.920
+That basically, I think Naval, Naval Ravikant,
+
+17:57.920 --> 18:02.560
+he tweeted a couple of days ago that scientists
+
+18:02.560 --> 18:04.640
+who are opposed to change something to this nature,
+
+18:04.640 --> 18:07.480
+they're not scientists, they're priests.
+
+18:07.480 --> 18:13.520
+And I see this kind of approach to make an ethical AI
+
+18:13.520 --> 18:16.360
+while your ethic itself is coming
+
+18:16.360 --> 18:19.760
+from a place that is, to me, completely distorted,
+
+18:19.760 --> 18:22.640
+is not based on reality, is completely ideological.
+
+18:22.640 --> 18:23.960
+What is the dynamic?
+
+18:23.960 --> 18:26.920
+And please describe that to, because I'm
+
+18:26.920 --> 18:29.360
+sure most people, they don't even know such a thing exists.
+
+18:29.360 --> 18:32.760
+But I believe it's such an important part
+
+18:32.760 --> 18:35.560
+of this whole thing when you are determining values
+
+18:35.560 --> 18:39.040
+of this machine that can basically take control
+
+18:39.040 --> 18:40.400
+of every aspect of our lives.
+
+18:40.400 --> 18:41.280
+Yeah.
+
+18:41.280 --> 18:46.120
+So AI ethics actually exists and has existed for many decades.
+
+18:46.120 --> 18:49.000
+Most people, including many, I think, current AI,
+
+18:49.000 --> 18:51.480
+so-called AI ethicists, don't realize
+
+18:51.480 --> 18:53.840
+that people have been debating the ethics of AI
+
+18:53.840 --> 18:58.040
+from day one, from the 1950s on.
+
+18:58.040 --> 19:01.960
+There are people who have made their multi-decade careers
+
+19:01.960 --> 19:04.360
+thinking about the ethics of AI and the alignment problem
+
+19:04.360 --> 19:05.680
+and things like this.
+
+19:05.680 --> 19:09.000
+So this is actually not a new field.
+
+19:09.000 --> 19:12.680
+It used to be a tiny field, also because AI itself was small.
+
+19:12.680 --> 19:14.680
+But what's happening in AI ethics is actually
+
+19:14.680 --> 19:18.000
+very different from that, very, very different.
+
+19:18.000 --> 19:19.800
+What's happening, so first of all,
+
+19:19.800 --> 19:22.160
+ethics is a very benign word.
+
+19:22.160 --> 19:23.760
+Who could disagree with ethics?
+
+19:23.760 --> 19:26.120
+And of course, AI raises ethical issues.
+
+19:26.120 --> 19:27.960
+But what we're seeing in AI today
+
+19:27.960 --> 19:32.640
+is actually people of a particular political orientation
+
+19:32.640 --> 19:36.520
+seeking to impose their politics on AI
+
+19:36.520 --> 19:38.480
+and as a result on society.
+
+19:38.480 --> 19:41.000
+And they're using ethics as an instrument.
+
+19:41.000 --> 19:42.040
+Yeah, oh, exactly.
+
+19:42.040 --> 19:45.120
+And I think they're completely, or some of them at least,
+
+19:45.120 --> 19:46.560
+are completely open about this.
+
+19:46.560 --> 19:47.920
+It's a tool.
+
+19:47.920 --> 19:51.680
+This is a tool that they're going to use to achieve their ends.
+
+19:51.680 --> 19:55.440
+And then it's easy to dupe people into like, oh,
+
+19:55.440 --> 19:56.920
+but there's these ethical concerns
+
+19:56.920 --> 19:58.040
+and they're addressing them.
+
+19:58.040 --> 20:00.200
+What could be bad about that?
+
+20:00.200 --> 20:02.880
+You have to actually look at what is being discussed
+
+20:02.880 --> 20:04.560
+and what is being proposed.
+
+20:04.560 --> 20:07.400
+And in particular, what is being proposed in the AI ethics
+
+20:07.400 --> 20:10.400
+is, for example, probably the biggest example
+
+20:10.400 --> 20:12.800
+is under the guise of AI fairness,
+
+20:12.800 --> 20:15.400
+people are actually proposing and implementing algorithms
+
+20:15.400 --> 20:18.920
+that force equal outcomes.
+
+20:18.920 --> 20:19.400
+Equity.
+
+20:19.400 --> 20:23.680
+By race, by gender, what is called equity.
+
+20:23.680 --> 20:25.880
+If I have x percent of women at the input,
+
+20:25.880 --> 20:27.880
+I have to have x percent at the output.
+
+20:27.880 --> 20:32.760
+And now, you may disagree or agree with this.
+
+20:32.760 --> 20:34.840
+Reasonable people agree, reasonable people disagree.
+
+20:34.840 --> 20:37.760
+I very much disagree, but I respect the people who agree.
+
+20:37.760 --> 20:41.120
+But the bottom line is, this is politics.
+
+20:41.120 --> 20:42.880
+This is not ethics.
+
+20:42.880 --> 20:45.760
+This is a political question to be discussed
+
+20:45.760 --> 20:47.280
+as a political question.
+
+20:47.280 --> 20:48.720
+But what we're having right now is
+
+20:48.720 --> 20:51.520
+it's being swept under the rug as if it's ethics.
+
+20:51.520 --> 20:53.520
+And then everybody, and this is kind of like where
+
+20:53.520 --> 20:55.600
+I came into this, is like, there's
+
+20:55.600 --> 20:59.080
+an attempt to impose this at conferences and so on.
+
+20:59.080 --> 21:02.440
+For example, if you now, these days at NeurIPS,
+
+21:02.440 --> 21:06.200
+if you have a paper that they think promotes unfairness,
+
+21:06.200 --> 21:08.920
+by their definition, the paper can get rejected
+
+21:08.920 --> 21:13.360
+because it's subject to this ethical, political review.
+
+21:13.360 --> 21:15.080
+And again, the people organizing this
+
+21:15.080 --> 21:16.960
+are not actually shy about saying
+
+21:16.960 --> 21:19.000
+what they want to accomplish.
+
+21:19.000 --> 21:22.520
+So this is, and we have to fight back against that.
+
+21:22.520 --> 21:25.360
+Because what's going to happen if we don't is,
+
+21:25.360 --> 21:27.160
+and this is in fact what is happening,
+
+21:27.160 --> 21:31.960
+and what I'm trying to combat is, then the society at large,
+
+21:31.960 --> 21:36.160
+what they hear is, oh, the AI community says
+
+21:36.160 --> 21:38.040
+that this is the right thing.
+
+21:38.040 --> 21:40.480
+This is this consensus of the community,
+
+21:40.480 --> 21:43.040
+and it's what science says.
+
+21:43.040 --> 21:47.600
+Science says is a very powerful pair of words.
+
+21:47.600 --> 21:50.480
+And what you do, and these people are, some of them
+
+21:50.480 --> 21:52.840
+at least quite practiced, is like, if you have an agenda,
+
+21:52.840 --> 21:55.240
+you go to the relevant scientific community,
+
+21:55.240 --> 21:57.960
+you silence all the people who disagree with the agenda,
+
+21:57.960 --> 22:01.320
+and then you say, science says that what science says
+
+22:01.320 --> 22:03.000
+is what you want to do.
+
+22:03.000 --> 22:04.840
+Yeah, exactly, the science is settled.
+
+22:04.840 --> 22:06.640
+Like, are you kidding me?
+
+22:06.640 --> 22:07.040
+Yeah.
+
+22:07.040 --> 22:08.440
+Exactly, yeah.
+
+22:08.440 --> 22:10.560
+Yeah, AI is just like, so if you've
+
+22:10.560 --> 22:12.960
+been observing these things for a while, in many ways,
+
+22:12.960 --> 22:15.360
+what is happening in AI is not a surprise.
+
+22:15.360 --> 22:17.960
+In fact, I started looking at this happening,
+
+22:17.960 --> 22:19.720
+again, several years ago.
+
+22:19.720 --> 22:22.160
+And unfortunately, the details vary.
+
+22:22.160 --> 22:24.160
+Some of them can still shock you.
+
+22:24.160 --> 22:26.480
+But the way things have been going is, unfortunately,
+
+22:26.480 --> 22:27.480
+not surprising at all.
+
+22:27.480 --> 22:29.360
+And people need to be alerted.
+
+22:29.360 --> 22:31.040
+And I'm trying to alert people to this.
+
+22:31.040 --> 22:35.640
+And also, to combat this in the context of the AI community,
+
+22:35.640 --> 22:37.640
+the problem, of course, is that this politics also
+
+22:37.640 --> 22:41.000
+comes with cancel culture, where there's a lot of people
+
+22:41.000 --> 22:42.040
+who are against this.
+
+22:42.040 --> 22:44.360
+There's many who don't understand and are oblivious.
+
+22:44.360 --> 22:46.320
+But there's a lot of people who are against.
+
+22:46.320 --> 22:48.120
+But they're just afraid to speak up,
+
+22:48.120 --> 22:50.320
+because they're afraid of the consequences, again,
+
+22:50.320 --> 22:53.120
+just as in a totalitarian regime.
+
+22:53.120 --> 22:56.960
+People, they know about the Gulag and the KGB.
+
+22:56.960 --> 22:59.120
+What they don't know is that most of the enforcement
+
+22:59.120 --> 23:02.880
+in the Soviet Union, that was just the last resort.
+
+23:02.880 --> 23:05.560
+It was done by exactly the kinds of things that we see today,
+
+23:05.560 --> 23:08.960
+is like the peer pressure, the loss of employment,
+
+23:08.960 --> 23:10.760
+the retaliations, et cetera, et cetera.
+
+23:10.760 --> 23:13.320
+The term political correctness was invented
+
+23:13.320 --> 23:15.760
+in the Soviet Union.
+
+23:15.760 --> 23:19.320
+Precisely to describe this type of thing, in some ways,
+
+23:19.320 --> 23:21.320
+regardless of what the exact content is,
+
+23:21.320 --> 23:24.240
+the content of political creedness in the US
+
+23:24.240 --> 23:27.240
+might be different than it was in the Soviet Union,
+
+23:27.240 --> 23:29.360
+because the ideologies are somewhat different.
+
+23:29.360 --> 23:33.840
+But the modus operandi is actually exactly the same.
+
+23:33.840 --> 23:34.760
+Yeah.
+
+23:34.760 --> 23:38.960
+The post that was shared by the actor from Mandalorian,
+
+23:38.960 --> 23:42.160
+that Disney fired her, and basically,
+
+23:42.160 --> 23:44.600
+and she was sharing someone else's post.
+
+23:44.600 --> 23:45.680
+I thought it was spot on.
+
+23:45.680 --> 23:48.680
+And what a brave woman.
+
+23:48.680 --> 23:50.480
+Because she basically gave up her career
+
+23:50.480 --> 23:54.720
+until after the revolution to see what will happen.
+
+23:54.720 --> 23:57.320
+And she was basically saying that the history is edited
+
+23:57.320 --> 24:01.440
+so you don't see the bridge that leads from peace and calm
+
+24:01.440 --> 24:04.960
+and everybody getting along until people getting burned
+
+24:04.960 --> 24:06.520
+in concentration camps.
+
+24:06.520 --> 24:09.440
+And she was saying that people who
+
+24:09.440 --> 24:11.760
+started beating up the Jews in the beginning,
+
+24:11.760 --> 24:12.680
+they were not Nazis.
+
+24:12.680 --> 24:15.840
+They were their neighbors, including children.
+
+24:15.840 --> 24:17.880
+And it's completely believable to me,
+
+24:17.880 --> 24:22.520
+because I witnessed people who have turned 180 degree
+
+24:22.520 --> 24:26.800
+under the theocratic regime overnight.
+
+24:26.800 --> 24:30.200
+She was completely open about her sexuality and all of that.
+
+24:30.200 --> 24:34.800
+The next day, she can't wait to go and see this shrine
+
+24:34.800 --> 24:37.120
+because of some social point.
+
+24:37.120 --> 24:38.560
+Because if she wants to get bread,
+
+24:38.560 --> 24:42.200
+she'll be in the front of a line.
+
+24:42.200 --> 24:46.960
+Yeah, again, people who've never seen this or at least
+
+24:46.960 --> 24:49.800
+don't know some history have a hard time
+
+24:49.800 --> 24:52.400
+picturing how this happens.
+
+24:52.400 --> 24:55.720
+But which is why I think just raising awareness
+
+24:55.720 --> 24:56.520
+is very important.
+
+24:56.520 --> 24:58.680
+So for example, people don't realize
+
+24:58.680 --> 25:02.120
+that if you look, for example, at the show trials,
+
+25:02.120 --> 25:04.520
+Stalin's trials of the Cultural Revolution,
+
+25:04.520 --> 25:10.280
+every generation of people who condemned one set of people
+
+25:10.280 --> 25:15.240
+to the gulags or whatever, they were the next ones in line.
+
+25:15.240 --> 25:18.040
+People are like, oh, but this will never happen to me.
+
+25:18.040 --> 25:20.880
+Or if I pay my obeisances, then I will be safe.
+
+25:20.880 --> 25:22.600
+Actually, what you're doing when you do that
+
+25:22.600 --> 25:24.960
+is you're accelerating the process.
+
+25:24.960 --> 25:26.840
+And it will get to you.
+
+25:26.840 --> 25:30.000
+Nobody's safe, not on any level, not in any field.
+
+25:30.000 --> 25:31.800
+And again, this is not a distraction.
+
+25:31.800 --> 25:36.040
+You already see today children turning in their parents
+
+25:36.040 --> 25:38.360
+for their violations of political correctness,
+
+25:38.360 --> 25:41.920
+which again, if you know some history, it's really chilling.
+
+25:41.920 --> 25:46.200
+And if somebody had told me 20 years ago,
+
+25:46.200 --> 25:51.000
+this is what America, the beacon of freedom,
+
+25:51.000 --> 25:54.360
+is going to look like in 2020, I would be like,
+
+25:54.360 --> 25:55.760
+come up with a better plot.
+
+25:55.760 --> 25:57.760
+That's not a realistic movie.
+
+25:57.760 --> 25:59.880
+In fact, the thing about this movie
+
+25:59.880 --> 26:03.160
+is that we've already seen it many times, just not
+
+26:03.160 --> 26:05.320
+in English.
+
+26:05.320 --> 26:07.760
+Yeah, that's such a good way to put it.
+
+26:07.760 --> 26:09.960
+And chilling.
+
+26:09.960 --> 26:15.520
+I mean, it's natural end that it will destroy everything
+
+26:15.520 --> 26:17.800
+until it destroys itself.
+
+26:17.800 --> 26:19.040
+It's a virus.
+
+26:19.040 --> 26:20.320
+It's cancer.
+
+26:20.320 --> 26:23.680
+And it spreads on the goodwill of people
+
+26:23.680 --> 26:25.800
+and cowardice of people.
+
+26:25.800 --> 26:26.760
+Yeah, I mean, exactly.
+
+26:26.760 --> 26:29.400
+In fact, I think between virus and cancer,
+
+26:29.400 --> 26:32.680
+I think it's more like a cancer, which means it's worse.
+
+26:32.680 --> 26:36.000
+Because a virus is a very simple agent.
+
+26:36.000 --> 26:37.400
+And it comes from the outside.
+
+26:37.400 --> 26:38.920
+And it does its thing.
+
+26:38.920 --> 26:42.920
+Cancer is when the cells in your own body go awry.
+
+26:42.920 --> 26:47.000
+And unfortunately, cancer is not just an uncontrolled growth.
+
+26:47.000 --> 26:53.080
+It's actually organized enough to survive and propagate
+
+26:53.080 --> 26:58.520
+around it until it kills its host organism.
+
+26:58.520 --> 26:59.920
+That's the thing, is that at the end of the day,
+
+26:59.920 --> 27:01.520
+cancer does kill the host organism.
+
+27:01.520 --> 27:03.880
+And this is why the Cultural Revolution in the end
+
+27:03.880 --> 27:06.520
+stopped, because it was destroying China literally
+
+27:06.520 --> 27:08.160
+with famine, et cetera, et cetera.
+
+27:08.160 --> 27:09.960
+At some point, things become so bad.
+
+27:09.960 --> 27:13.560
+Or in Cambodia, or during Stalinism,
+
+27:13.560 --> 27:15.360
+during the 20s and 30s.
+
+27:15.360 --> 27:18.760
+At some point, people recognize.
+
+27:18.760 --> 27:22.240
+But by then, millions have died.
+
+27:22.240 --> 27:24.680
+And in the beginning, nobody says,
+
+27:24.680 --> 27:27.960
+if somebody in the beginning of all this says,
+
+27:27.960 --> 27:31.080
+oh, millions are going to die, they'll be like, oh, my god.
+
+27:31.080 --> 27:32.320
+What are you talking about?
+
+27:32.320 --> 27:33.360
+But that's what happens.
+
+27:33.360 --> 27:36.640
+And again, just like with cancer,
+
+27:36.640 --> 27:39.640
+early detection and prevention is the key.
+
+27:39.640 --> 27:44.360
+The sooner you cut out the tumor, the less damage it'll do.
+
+27:44.360 --> 27:47.200
+At some point, it becomes impossible to cut it out.
+
+27:47.200 --> 27:48.760
+And it does kill the host organism.
+
+27:48.760 --> 27:51.480
+So I think cancer is actually a very good analogy for this.
+
+27:51.480 --> 27:53.200
+Yeah, excellent.
+
+27:53.200 --> 27:57.800
+So socially, the way that you're suggesting to fight back
+
+27:57.800 --> 28:01.320
+is basically to raise awareness and to speak out.
+
+28:01.320 --> 28:03.200
+If you really feel like there is something
+
+28:03.200 --> 28:06.440
+wrong in your gut feeling, just act on it
+
+28:06.440 --> 28:09.280
+rather than rationalize it for yourself.
+
+28:09.280 --> 28:12.080
+So I think speaking out is extremely important.
+
+28:12.080 --> 28:13.880
+I think more people need to speak out.
+
+28:13.880 --> 28:16.240
+I think it's not enough.
+
+28:16.240 --> 28:20.480
+And in particular, I think a lot of the response
+
+28:20.480 --> 28:23.840
+to cancel culture so far has kind of emphasized
+
+28:23.840 --> 28:27.280
+personal courage, which I think is very important.
+
+28:27.280 --> 28:29.200
+But personal courage is not enough.
+
+28:29.200 --> 28:30.880
+You need to get organized.
+
+28:30.880 --> 28:33.920
+You cannot fight an organized movement that's
+
+28:33.920 --> 28:37.240
+very widespread in education and in the media,
+
+28:37.240 --> 28:39.200
+in parts of politics, et cetera, et cetera,
+
+28:39.200 --> 28:41.720
+with a disorganized set of people.
+
+28:41.720 --> 28:44.160
+So I think getting organized is essential.
+
+28:44.160 --> 28:47.040
+So I think people need to push back.
+
+28:47.040 --> 28:48.880
+Again, all these individual initiatives
+
+28:48.880 --> 28:51.440
+and small scale initiatives are extremely important,
+
+28:51.440 --> 28:52.280
+but they're not enough.
+
+28:52.280 --> 28:54.360
+You need a higher level of organization
+
+28:54.360 --> 28:56.360
+to combat the level of organization
+
+28:56.360 --> 28:57.920
+that's there on the other side.
+
+28:57.920 --> 29:01.080
+Is there any movement within academia?
+
+29:01.080 --> 29:02.800
+Because what I learned from James Lindsay
+
+29:02.800 --> 29:05.880
+and Peter Borussian is that this whole thing started
+
+29:05.880 --> 29:08.480
+in academia in the late 60s,
+
+29:08.480 --> 29:11.720
+and it needs to end and stop at academia
+
+29:11.720 --> 29:16.080
+because that's basically the spiritual fountain
+
+29:16.080 --> 29:17.760
+that feeds this whole thing.
+
+29:17.760 --> 29:20.680
+Is there any kind of a movement for all of you guys
+
+29:20.680 --> 29:23.320
+who are getting canceled or pressured
+
+29:23.320 --> 29:26.520
+on their political correctness to leave the institutions
+
+29:26.520 --> 29:29.160
+and create an alternative to institutions
+
+29:29.160 --> 29:31.680
+to make the institutions obsolete?
+
+29:31.680 --> 29:34.160
+So you're right, this started in the universities
+
+29:34.160 --> 29:37.960
+and that's the number one place where we have to stop it
+
+29:37.960 --> 29:39.880
+because again, the universities
+
+29:39.880 --> 29:42.280
+have a very high viral coefficient.
+
+29:43.360 --> 29:47.400
+That's the thing is that there's this famous quote
+
+29:47.400 --> 29:52.400
+by Lincoln that says, whatever is taught in the classroom
+
+29:52.480 --> 29:56.040
+today will be the politics of the government tomorrow.
+
+29:56.040 --> 29:58.640
+And this is exactly what's been happening.
+
+29:58.640 --> 30:03.040
+In particular, radicals to control of the ed schools
+
+30:03.040 --> 30:06.840
+at universities in the 70s, the education schools,
+
+30:06.840 --> 30:08.960
+and they have never let go.
+
+30:08.960 --> 30:11.480
+And the educational school is one of the most obscure
+
+30:11.480 --> 30:13.960
+and ignored parts of the university,
+
+30:13.960 --> 30:15.880
+but it's actually the most important one
+
+30:15.880 --> 30:18.320
+because it trains the teachers.
+
+30:18.320 --> 30:20.520
+And then the teachers go to the high schools
+
+30:20.520 --> 30:21.760
+and they train everybody.
+
+30:22.840 --> 30:25.200
+And this is actually the most perverse thing about this
+
+30:25.200 --> 30:27.240
+is that everybody talks about like those students
+
+30:27.240 --> 30:30.560
+get politicized at the universities, actually they don't.
+
+30:30.560 --> 30:34.800
+They get politicized when they're six years old and 10.
+
+30:34.800 --> 30:37.640
+I mean, I have a kid, I've seen him go through this
+
+30:37.640 --> 30:42.640
+and in a moderate part of, and it's like they're defenseless.
+
+30:45.840 --> 30:48.000
+Students have an amazing tendency to believe
+
+30:48.000 --> 30:49.640
+what their teachers tell them.
+
+30:49.640 --> 30:51.800
+And the education schools have been turned
+
+30:51.800 --> 30:54.360
+into full blown indoctrination machines.
+
+30:54.360 --> 30:57.280
+The one at UW, my university is a good example.
+
+30:57.280 --> 31:00.400
+They just like, what they do is they spend the whole year
+
+31:00.400 --> 31:03.560
+teaching you quite explicitly activist politics.
+
+31:03.560 --> 31:07.240
+They don't teach you how to teach, that's secondary.
+
+31:07.240 --> 31:09.960
+They teach you how to be a social justice warrior.
+
+31:09.960 --> 31:11.920
+And then these people go out into the schools
+
+31:11.920 --> 31:13.360
+and they indoctrinate the children.
+
+31:13.360 --> 31:16.880
+And then 10, 20 years later, these children are everywhere.
+
+31:16.880 --> 31:18.400
+They're in the media, they're in companies,
+
+31:18.400 --> 31:20.800
+and that's what explains what is going on.
+
+31:20.800 --> 31:23.800
+These ideas have not spread because they make any sense
+
+31:23.800 --> 31:26.280
+or because they're good for the country or for society.
+
+31:26.280 --> 31:30.560
+They have spread because the teachers are spreading them.
+
+31:30.560 --> 31:33.120
+It's not a mystery, right?
+
+31:33.120 --> 31:35.080
+And so you gotta stop it there.
+
+31:35.080 --> 31:37.160
+Teachers have become priests.
+
+31:37.160 --> 31:38.520
+No, exactly, right?
+
+31:38.520 --> 31:40.360
+And now you're asking like,
+
+31:40.360 --> 31:42.560
+is there a movement to do something about this?
+
+31:42.560 --> 31:44.800
+There's not one unified movement that I've seen.
+
+31:44.800 --> 31:46.520
+There's many different movements.
+
+31:46.520 --> 31:51.320
+There's also a lot of discussion about what to do, right?
+
+31:51.320 --> 31:54.680
+And a lot of people put their hope
+
+31:54.680 --> 31:58.400
+in fighting this from within, right?
+
+31:58.400 --> 32:02.920
+My opinion is actually exactly the same as yours is.
+
+32:02.920 --> 32:04.640
+And I say this with great sadness
+
+32:04.640 --> 32:06.560
+because I'm a professor, right?
+
+32:06.560 --> 32:11.080
+I spent 20 years as a professor in an American university.
+
+32:11.080 --> 32:13.080
+I think the rot goes too deep.
+
+32:14.480 --> 32:16.840
+And these things are too entrenched.
+
+32:16.840 --> 32:19.080
+The paradox about universities is that
+
+32:19.080 --> 32:21.480
+the institutions that promote change at the same time,
+
+32:21.480 --> 32:24.480
+they're the most resistant to change anywhere.
+
+32:24.480 --> 32:28.080
+It's harder to change a university than almost anything, right?
+
+32:28.080 --> 32:31.040
+And once this ideology has gotten entrenched
+
+32:31.040 --> 32:33.920
+and it has from the administrators to the students,
+
+32:33.920 --> 32:35.320
+it's almost impossible.
+
+32:35.320 --> 32:37.800
+I mean, like the problem that I see is that
+
+32:37.800 --> 32:39.520
+people increasingly in the universities,
+
+32:39.520 --> 32:42.040
+they live in this parallel universe.
+
+32:42.040 --> 32:44.320
+Because again, universities to some extent
+
+32:44.320 --> 32:45.880
+are detached from the real world
+
+32:45.880 --> 32:48.120
+because they're not concerned with everyday things.
+
+32:48.120 --> 32:49.640
+They're looking at the future.
+
+32:49.640 --> 32:52.560
+And on a good day, that's actually a great thing, right?
+
+32:52.560 --> 32:55.280
+On the other hand, it also creates this possibility
+
+32:55.280 --> 32:58.200
+for the universities to kind of like escape
+
+32:58.200 --> 33:01.440
+into this parallel universe, which would be bad enough.
+
+33:01.440 --> 33:03.280
+But then they start teaching our children
+
+33:03.280 --> 33:05.440
+to live in this parallel universe.
+
+33:05.440 --> 33:07.520
+But the problem is that like I'm pessimistic
+
+33:07.520 --> 33:09.920
+about changing universities from within, right?
+
+33:09.920 --> 33:12.960
+I think I understand and I think people
+
+33:12.960 --> 33:14.200
+should try that as well.
+
+33:14.200 --> 33:16.120
+But I think it has to come from outside
+
+33:17.080 --> 33:18.880
+in one of two ways, right?
+
+33:18.880 --> 33:22.320
+One is as much as I believe very, very strongly
+
+33:22.320 --> 33:24.280
+in academic freedom.
+
+33:24.280 --> 33:27.240
+A lot of the universities are state universities.
+
+33:27.240 --> 33:28.640
+And just because you're allowed
+
+33:28.640 --> 33:29.880
+to do whatever research you want
+
+33:29.880 --> 33:31.080
+doesn't mean you're allowed to teach
+
+33:31.080 --> 33:32.880
+whatever cockamamie ideas you want
+
+33:32.880 --> 33:36.560
+to the next generation of society, right?
+
+33:36.560 --> 33:38.600
+So society does have to have some,
+
+33:38.600 --> 33:41.960
+put some boundaries on what you're allowed to teach people.
+
+33:41.960 --> 33:43.800
+Otherwise, they can't talk these things
+
+33:43.800 --> 33:44.800
+and you see the results, right?
+
+33:44.800 --> 33:48.240
+Like freedom needs to defend itself, right?
+
+33:48.240 --> 33:51.080
+So we can't allow freedom to the people who would destroy it.
+
+33:51.080 --> 33:53.960
+That's the essential paradox,
+
+33:53.960 --> 33:55.760
+Popper's paradox and so on.
+
+33:55.760 --> 33:58.720
+So I think there's a lot that can be done there
+
+33:58.720 --> 34:01.680
+in the legislative sphere, right?
+
+34:01.680 --> 34:03.240
+I mean, maybe not in blue states,
+
+34:03.240 --> 34:05.480
+but at least in red states, right?
+
+34:05.480 --> 34:07.920
+It's like, and I understand people are,
+
+34:07.920 --> 34:09.760
+conservatives are fierce because it's like,
+
+34:09.760 --> 34:11.440
+they're indoctrinating my children
+
+34:11.440 --> 34:14.160
+and they're doing it with my tax money.
+
+34:14.160 --> 34:16.280
+Well, it's your tax dollars, right?
+
+34:16.280 --> 34:17.360
+It's your representatives,
+
+34:17.360 --> 34:20.040
+so you can't do something about this, right?
+
+34:20.040 --> 34:21.880
+It has to be thought out very carefully,
+
+34:21.880 --> 34:24.600
+but I think that's one area of intervention.
+
+34:24.600 --> 34:26.280
+The other area, which ultimately,
+
+34:26.280 --> 34:28.480
+I think is the most important one is,
+
+34:28.480 --> 34:29.760
+this is still a free country
+
+34:29.760 --> 34:32.200
+and you can start new institutions.
+
+34:32.200 --> 34:34.200
+And what we can do is start new universities
+
+34:34.200 --> 34:37.760
+that will destroy the old ones because they're better.
+
+34:37.760 --> 34:39.480
+Because parents still care about their children
+
+34:39.480 --> 34:40.760
+getting a good education
+
+34:40.760 --> 34:43.160
+and the employer is still caring about having,
+
+34:43.160 --> 34:45.400
+well-prepared employees, right?
+
+34:45.400 --> 34:48.400
+So we can, and unfortunately, right?
+
+34:48.400 --> 34:50.880
+Or maybe, ironically,
+
+34:50.880 --> 34:52.120
+universities at this center,
+
+34:52.120 --> 34:53.840
+they're actually very fragile
+
+34:53.840 --> 34:55.320
+for a number of other reasons.
+
+34:55.320 --> 34:57.000
+They're ultra expensive,
+
+34:57.000 --> 34:58.600
+the students often take second road
+
+34:58.600 --> 35:00.440
+to other concerns, et cetera, et cetera.
+
+35:00.440 --> 35:02.880
+Like they're not very tax savvy, right?
+
+35:02.880 --> 35:05.760
+The whole university system is just ripe for disruption.
+
+35:05.760 --> 35:07.200
+So I think above all,
+
+35:07.200 --> 35:09.520
+we need a new set of universities
+
+35:09.520 --> 35:11.320
+that will just make these ones irrelevant.
+
+35:11.320 --> 35:13.480
+It's a generation long project, right?
+
+35:13.480 --> 35:15.240
+There's not something that's gonna happen overnight,
+
+35:15.240 --> 35:17.440
+but I think that's what we really need to work on.
+
+35:17.440 --> 35:20.920
+And that's what I think our future depends on.
+
+35:20.920 --> 35:23.120
+So a very good example is what happened
+
+35:23.120 --> 35:24.880
+to Jordan Peterson a couple of years ago
+
+35:24.880 --> 35:27.080
+that the government of Canada,
+
+35:27.080 --> 35:29.680
+they cut his budget, his research budget,
+
+35:29.680 --> 35:31.360
+just out of nowhere.
+
+35:31.360 --> 35:34.560
+And then they crowdfund for his research.
+
+35:34.560 --> 35:37.560
+And they made like 40 times, 50 times more
+
+35:37.560 --> 35:39.800
+than the money that he would have gotten from the government,
+
+35:39.800 --> 35:43.120
+which once again prove the strength
+
+35:43.120 --> 35:45.560
+of this decentralized network,
+
+35:45.560 --> 35:49.440
+which is the same thing that happened with GameStop stock
+
+35:49.440 --> 35:50.440
+again, right?
+
+35:50.440 --> 35:52.720
+So it seems like people are waking up
+
+35:52.720 --> 35:54.560
+to the ways that they can organize
+
+35:54.560 --> 35:58.480
+against this centralized tyranny.
+
+35:58.480 --> 36:01.840
+But at the same time, there are a lot of people who,
+
+36:01.840 --> 36:05.720
+as you said, their interest is invested
+
+36:05.720 --> 36:08.080
+within these rotten institutions.
+
+36:08.080 --> 36:11.960
+So they will do whatever they can with regulations.
+
+36:11.960 --> 36:13.560
+And what a nightmare it will be
+
+36:13.560 --> 36:15.200
+when corporations and government,
+
+36:15.200 --> 36:18.880
+they become one in order to maintain that power
+
+36:18.880 --> 36:23.040
+against the everyday kind of citizen and individuals,
+
+36:23.040 --> 36:24.680
+which individual rights
+
+36:24.680 --> 36:27.240
+is the whole purpose of United States.
+
+36:27.240 --> 36:30.000
+Yeah, I mean, but again, you have to remember
+
+36:30.000 --> 36:31.880
+that no society is immune
+
+36:31.880 --> 36:34.840
+to the problem of collective action, right?
+
+36:34.840 --> 36:36.200
+And the problem of collective action
+
+36:36.200 --> 36:39.600
+is that the right thing does not necessarily prevail
+
+36:39.600 --> 36:42.160
+because you need to get organized to make it prevail.
+
+36:42.160 --> 36:44.120
+And organizing has a cost.
+
+36:44.120 --> 36:46.520
+In a way, the beauty of information technology
+
+36:46.520 --> 36:47.640
+and the internet and so on
+
+36:47.640 --> 36:50.640
+is that it actually lowers the cost of organizing, right?
+
+36:50.640 --> 36:52.120
+Which raises the potential to do things
+
+36:52.120 --> 36:53.160
+which might be good or bad.
+
+36:53.160 --> 36:54.920
+But for example, you can do good things
+
+36:54.920 --> 36:56.680
+like crowdfund something that otherwise
+
+36:56.680 --> 36:58.120
+might not get funded.
+
+36:58.120 --> 36:59.880
+But of course, the other side of this coin
+
+36:59.880 --> 37:02.280
+of collective action is that there is
+
+37:02.280 --> 37:04.040
+a very large number of people
+
+37:04.040 --> 37:08.360
+who are completely invested in the status quo.
+
+37:08.360 --> 37:11.560
+There's a whole bureaucracy at universities,
+
+37:11.560 --> 37:12.960
+and it keeps ever increasing.
+
+37:12.960 --> 37:15.360
+And that's part of what makes it expensive, right?
+
+37:15.360 --> 37:16.960
+There's people who would lose their jobs
+
+37:16.960 --> 37:18.000
+if you said like, oh no,
+
+37:18.000 --> 37:20.320
+we don't need all these things anymore, right?
+
+37:20.320 --> 37:23.040
+So they will fight tooth and nail to combat this.
+
+37:23.040 --> 37:24.680
+Some of them out of ideology,
+
+37:24.680 --> 37:27.080
+some of just, you know, out of their self-interest
+
+37:27.080 --> 37:28.800
+or some combination of the two.
+
+37:28.800 --> 37:31.640
+So of course you can expect a lot of pushback, right?
+
+37:31.640 --> 37:35.960
+But the thing is, where is the, you know,
+
+37:35.960 --> 37:37.320
+what is the choke point?
+
+37:37.320 --> 37:40.200
+The choke point is that universities need to get funded.
+
+37:40.200 --> 37:41.920
+That's, you know, that's the thing, right?
+
+37:41.920 --> 37:45.640
+So the way you hit that choke point
+
+37:45.640 --> 37:48.920
+is either the states that own the universities, right?
+
+37:48.920 --> 37:52.440
+Say, well, actually, no, here's what I'm gonna do, right?
+
+37:52.440 --> 37:53.800
+That will make you more accountable.
+
+37:53.800 --> 37:55.640
+And you know, we can talk a little bit about that.
+
+37:55.640 --> 37:56.720
+That's one part.
+
+37:56.720 --> 38:01.240
+The other part is you get competing universities, right?
+
+38:01.240 --> 38:04.240
+They actually give a better education for less money.
+
+38:04.240 --> 38:05.080
+Yeah.
+
+38:05.080 --> 38:07.560
+And all the people subsidizing all this, you know,
+
+38:07.560 --> 38:09.400
+bad stuff, you know, this stuff.
+
+38:09.400 --> 38:12.040
+You know, the money gets, you know, goes away.
+
+38:12.040 --> 38:13.800
+And so this stuff dies out
+
+38:13.800 --> 38:18.120
+because it just doesn't have the funding sources anymore.
+
+38:18.120 --> 38:21.840
+Yeah, constitutional sanctuary states
+
+38:21.840 --> 38:24.880
+that will uphold constitutional values of United States,
+
+38:24.880 --> 38:26.800
+which is a great document, I think,
+
+38:26.800 --> 38:28.160
+especially for this time,
+
+38:28.160 --> 38:30.240
+especially when the other end of the spectrum
+
+38:30.240 --> 38:33.760
+is centralized Chinese Communist Party,
+
+38:33.760 --> 38:38.320
+which it has its own advantages,
+
+38:38.320 --> 38:42.280
+but at the same time, you know, we see that what will happen
+
+38:42.280 --> 38:45.080
+if you allow small, relatively speaking,
+
+38:45.080 --> 38:48.200
+group of people to be in charge of everything.
+
+38:48.200 --> 38:50.920
+And maybe ICOing a university, you know,
+
+38:50.920 --> 38:53.720
+just raise millions and millions of dollars in Bitcoin
+
+38:53.720 --> 38:54.960
+or Ethereum or something,
+
+38:54.960 --> 38:57.280
+and then dedicate that kind of money to researchers
+
+38:57.280 --> 39:01.360
+that are getting rejected for PC reasons.
+
+39:02.400 --> 39:06.800
+I mean, I actually think fundamentally,
+
+39:06.800 --> 39:09.200
+there is actually not a lack of money
+
+39:09.200 --> 39:11.840
+to do something like this, right?
+
+39:11.840 --> 39:14.480
+Again, it's a question of organization, right?
+
+39:14.480 --> 39:16.120
+Political will, in a sense.
+
+39:16.120 --> 39:20.880
+Yeah, and, you know, people need to, you know,
+
+39:20.880 --> 39:23.080
+I mean, for example, right?
+
+39:23.080 --> 39:25.800
+How did a lot of universities that existed, they start?
+
+39:25.800 --> 39:27.680
+They started with an endowment,
+
+39:27.680 --> 39:30.000
+because if somebody said, like, I want to endow a university,
+
+39:30.000 --> 39:32.240
+I think there's a lot of people with a lot of money
+
+39:32.240 --> 39:34.240
+who would be, you know, willing to do that
+
+39:34.240 --> 39:36.840
+if they believed in what, you know, was happening.
+
+39:36.840 --> 39:38.800
+There's also a lot of people who are willing to fund this
+
+39:38.800 --> 39:41.040
+with many smaller-scale donations,
+
+39:41.040 --> 39:43.600
+which, if it's a lot of people, makes a big difference.
+
+39:43.600 --> 39:45.120
+But most of all, at the end of the day, right,
+
+39:45.120 --> 39:46.760
+I get back to the students and the parents
+
+39:46.760 --> 39:48.320
+and the employers, right?
+
+39:48.320 --> 39:49.880
+You know, like, you know,
+
+39:49.880 --> 39:52.320
+people will sacrifice the shirt of their dads
+
+39:52.320 --> 39:54.360
+to give their children a good education.
+
+39:55.480 --> 39:57.760
+So if I, you know, if I give their children
+
+39:57.760 --> 40:00.320
+a better education than University X,
+
+40:00.320 --> 40:03.400
+and they're, you know, sufficiently informed about that,
+
+40:03.400 --> 40:06.680
+you know, they will come to me as opposed to University X.
+
+40:06.680 --> 40:08.160
+So I think, at the end of the day,
+
+40:08.160 --> 40:09.640
+that is the biggest part of this.
+
+40:09.640 --> 40:12.240
+You can use the other things, whether it's philanthropy
+
+40:12.240 --> 40:15.840
+or large-scale, you know, small-size donations
+
+40:15.840 --> 40:17.920
+to get this off the ground.
+
+40:17.920 --> 40:20.760
+But at the end of the day, I think what we're gonna have is,
+
+40:20.760 --> 40:22.880
+you know, universities that actually,
+
+40:22.880 --> 40:25.320
+first of all, they're well-run.
+
+40:25.320 --> 40:27.360
+They're not bloated and inefficient.
+
+40:27.360 --> 40:28.480
+And there's many different ways
+
+40:28.480 --> 40:30.880
+in which universities are inefficient today.
+
+40:30.880 --> 40:33.640
+And also, you know, there's this thing that like,
+
+40:33.640 --> 40:37.560
+you know, I get a degree, you know, getting the, you know,
+
+40:37.560 --> 40:41.280
+education is a labor-intensive industry, right?
+
+40:41.280 --> 40:42.800
+And that's part of why it's expensive, right?
+
+40:42.800 --> 40:46.880
+So there's no miracle at that level, but it's worth it.
+
+40:46.880 --> 40:51.640
+So when I get a degree, I actually owe a big debt, right?
+
+40:51.640 --> 40:53.320
+Now, whether the debt is owed in money
+
+40:53.320 --> 40:54.680
+because I took out a student loan
+
+40:54.680 --> 40:56.840
+or whether the debt is owed to society
+
+40:56.840 --> 40:59.880
+because I was funded with that money, I owe that debt.
+
+40:59.880 --> 41:02.080
+And people need to understand that.
+
+41:02.080 --> 41:03.840
+And, you know, once I graduate, you know,
+
+41:03.840 --> 41:06.520
+I go out into the world and I repay that debt.
+
+41:06.520 --> 41:08.160
+Again, whether in money, you know,
+
+41:08.160 --> 41:10.560
+because I pay back my loans or to society
+
+41:10.560 --> 41:13.400
+because I do my good, people have to have that conscience
+
+41:13.400 --> 41:17.720
+that, you know, society's gonna invest in me
+
+41:17.720 --> 41:19.800
+and then I'm gonna pay that back, right?
+
+41:19.800 --> 41:21.640
+And so at the end of the day, right, like, you know,
+
+41:21.640 --> 41:23.960
+a lot of people get a degree and it costs a lot of money,
+
+41:23.960 --> 41:26.560
+but they know they're gonna make more than that money
+
+41:26.560 --> 41:28.520
+when they do their jobs, right?
+
+41:28.520 --> 41:31.680
+And in fact, part of the problem of how universities
+
+41:31.680 --> 41:35.440
+are structured today is that for at least originally
+
+41:35.440 --> 41:38.680
+one intention reasons, there is not a good alignment
+
+41:38.680 --> 41:41.160
+between what people major in
+
+41:41.160 --> 41:43.040
+and what they study within the major
+
+41:43.040 --> 41:46.520
+and how socially useful it is, right?
+
+41:46.520 --> 41:49.080
+And again, it's not like, you know, for example,
+
+41:49.080 --> 41:52.000
+well, engineering, obviously, socially useful and so on,
+
+41:52.000 --> 41:54.600
+but sociology and psychology and the humanities
+
+41:54.600 --> 41:57.440
+and the arts, they're all socially useful
+
+41:57.440 --> 41:59.560
+if you do them properly, the problem is that
+
+41:59.560 --> 42:01.680
+they've kind of like fallen off this cliff
+
+42:01.680 --> 42:04.360
+where they, you know, doing things that are increasingly
+
+42:04.360 --> 42:07.000
+either irrelevant or positively harmful, right?
+
+42:07.000 --> 42:11.000
+So, you know, you need to have that feedback mechanism
+
+42:11.000 --> 42:13.560
+that says, look, you know, this is not, you know,
+
+42:13.560 --> 42:16.400
+what people need to be learning, right?
+
+42:16.400 --> 42:21.320
+And also like, you know, like markets do this very well,
+
+42:21.320 --> 42:23.440
+right, that's what they do, but, you know,
+
+42:23.440 --> 42:25.600
+unfortunately, education in that regard
+
+42:25.600 --> 42:28.720
+does not act like a good market is matching the needs
+
+42:28.720 --> 42:30.960
+to the supply, right?
+
+42:30.960 --> 42:33.760
+And it's like, it's nice to say like, oh,
+
+42:33.760 --> 42:36.760
+just major in whatever your heart decides.
+
+42:37.600 --> 42:39.680
+Well, okay, I'm going to major in something
+
+42:39.680 --> 42:42.400
+that I won't get a job in and then I'll be a waiter
+
+42:42.400 --> 42:46.880
+and then I'll be very bitter about how I was fooled, right?
+
+42:46.880 --> 42:50.480
+It's like, you know, what you major in
+
+42:50.480 --> 42:53.680
+should be a combination of yes, something you love,
+
+42:53.680 --> 42:55.640
+absolutely, and you think you can be good at,
+
+42:55.640 --> 42:59.240
+but something that, you know, society has a need for, right?
+
+42:59.240 --> 43:02.720
+And part of the paradox of today's economy
+
+43:02.720 --> 43:07.720
+as technology changes is that there's a shortage of jobs
+
+43:07.800 --> 43:10.680
+in some areas and there's a huge shortage
+
+43:10.680 --> 43:14.560
+of qualified people in others, right?
+
+43:14.560 --> 43:18.120
+And so, gee, you know, like, let's focus on the areas
+
+43:18.120 --> 43:19.720
+where we need more people and not the ones
+
+43:19.720 --> 43:21.560
+where we need less, right?
+
+43:21.560 --> 43:24.760
+This is not rocket science, but at the universities,
+
+43:24.760 --> 43:27.840
+saying what I just said is extremely controversial.
+
+43:27.840 --> 43:29.360
+Because people will say like, oh,
+
+43:29.360 --> 43:32.560
+you're debasing the university, you're commercializing it,
+
+43:32.560 --> 43:35.160
+you know, nothing is more important than the beauty
+
+43:35.160 --> 43:37.800
+and power of a liberal arts education.
+
+43:37.800 --> 43:39.640
+And I'm like, I understand all of that.
+
+43:39.640 --> 43:40.960
+I love the liberal arts, you know,
+
+43:40.960 --> 43:42.560
+more than most computer scientists.
+
+43:42.560 --> 43:44.200
+I read a lot of books and so on and so forth,
+
+43:44.200 --> 43:47.160
+but like, you're telling people to go major in this
+
+43:47.160 --> 43:48.800
+and then they can't get a job.
+
+43:48.800 --> 43:51.200
+Why is that a good idea?
+
+43:51.200 --> 43:52.040
+Right?
+
+43:52.040 --> 43:53.560
+You have to make these things useful enough
+
+43:53.560 --> 43:55.600
+that then the jobs will be there, right?
+
+43:56.440 --> 44:00.000
+And unfortunately, when these majors become useless,
+
+44:00.000 --> 44:02.960
+the employers sooner or later realize that they are useless.
+
+44:02.960 --> 44:03.800
+Right?
+
+44:03.800 --> 44:05.880
+And so it's not so much that the humanities are dying
+
+44:05.880 --> 44:08.680
+is that they are being killed from inside.
+
+44:08.680 --> 44:09.520
+Right?
+
+44:09.520 --> 44:11.560
+Is that there's actually a lot of uses for these things.
+
+44:11.560 --> 44:12.400
+Right?
+
+44:12.400 --> 44:15.160
+Again, a tech company, even a tech company,
+
+44:15.160 --> 44:18.560
+should not just be run by technologists, heck no, right?
+
+44:18.560 --> 44:22.280
+We really need, you know, sociologists and psychologists
+
+44:22.280 --> 44:24.960
+and people who know communications and, you know,
+
+44:24.960 --> 44:26.960
+et cetera, et cetera, right?
+
+44:26.960 --> 44:30.480
+But they need to have been trained, right?
+
+44:30.480 --> 44:32.520
+Such number one, they know what to do.
+
+44:32.520 --> 44:34.240
+And number two, they know how to interface
+
+44:34.240 --> 44:36.240
+with the technologists.
+
+44:36.240 --> 44:37.960
+And that's what we don't have enough of today.
+
+44:37.960 --> 44:40.720
+So part of what I think a new generation of universities
+
+44:40.720 --> 44:44.560
+will do is, you know, it can start, I think, in the more,
+
+44:44.560 --> 44:46.680
+it's obvious to start something like that
+
+44:46.680 --> 44:48.840
+with things like computer science and so on,
+
+44:48.840 --> 44:50.800
+where the need is dire.
+
+44:50.800 --> 44:53.880
+But eventually, I think a lot of the role will be to,
+
+44:53.880 --> 44:56.400
+you know, to have a better teaching of social science
+
+44:56.400 --> 44:58.880
+and humanities and arts and education, right?
+
+44:58.880 --> 45:01.120
+I think one of the most important schools
+
+45:01.120 --> 45:03.280
+that these universities will be the education school
+
+45:03.280 --> 45:05.280
+for the reasons that we've been talking about.
+
+45:06.440 --> 45:09.680
+Let me ask you, I don't want us to run out of time.
+
+45:09.680 --> 45:12.120
+What is your sharp exit?
+
+45:12.120 --> 45:14.200
+What's the latest I can have you?
+
+45:14.200 --> 45:15.360
+You mean in terms of time?
+
+45:15.360 --> 45:16.200
+Yeah.
+
+45:16.200 --> 45:18.520
+Oh, no, no particular time.
+
+45:18.520 --> 45:19.360
+Oh, okay.
+
+45:21.400 --> 45:24.000
+This described the social measures
+
+45:24.000 --> 45:26.240
+to be taken against this cancer.
+
+45:27.080 --> 45:29.280
+Wonderful advice and ideas there.
+
+45:29.280 --> 45:32.240
+At the same time, let's also talk about a solution
+
+45:32.240 --> 45:34.320
+for artificial intelligence,
+
+45:34.320 --> 45:38.480
+which to me is not yet another centrally driven company
+
+45:38.480 --> 45:41.680
+or corporation, it's a decentralized network.
+
+45:41.680 --> 45:44.280
+And the only example I can think of at this point
+
+45:44.280 --> 45:47.600
+is Singularity Net, which Ben Gortzel is behind it.
+
+45:47.600 --> 45:49.280
+I'm sure you know Ben Gortzel.
+
+45:49.280 --> 45:50.120
+Yeah.
+
+45:50.120 --> 45:54.400
+So his whole thing is to allow millions or hundreds
+
+45:54.400 --> 45:57.720
+of millions of AI agents to ultimately give rise
+
+45:57.720 --> 46:00.080
+to the decentralized AGI.
+
+46:00.080 --> 46:02.800
+So that superior intelligence wouldn't be controlled
+
+46:02.800 --> 46:05.880
+by Chinese Communist Party or Google
+
+46:05.880 --> 46:08.680
+or US government or anyone else.
+
+46:08.680 --> 46:12.240
+Yeah, again, one of the things that I, in the Master Alchem,
+
+46:12.240 --> 46:15.840
+there's a section about what I call a society of models.
+
+46:16.800 --> 46:20.840
+And again, a lot of that has already happened.
+
+46:20.840 --> 46:23.720
+It hasn't, of course, it wasn't gonna happen in five years,
+
+46:23.720 --> 46:26.400
+but you can really go see a lot of it.
+
+46:26.400 --> 46:28.560
+And the idea of the society of models is that
+
+46:28.560 --> 46:32.560
+every one of us has a coterie of agents
+
+46:32.560 --> 46:36.280
+that are artificial, that are AIs,
+
+46:36.280 --> 46:39.600
+and that have models of you, right?
+
+46:39.600 --> 46:42.800
+And what they do is they do stuff on your behalf.
+
+46:43.760 --> 46:48.760
+So what we have is this kind of like cyberspace underground
+
+46:48.840 --> 46:51.240
+where all of these transactions are happening.
+
+46:51.240 --> 46:53.480
+You're like, to take a concrete example
+
+46:53.480 --> 46:58.480
+that I use in the book, if I want to find a job, right?
+
+46:58.480 --> 47:00.880
+What I should be able to do is like, on LinkedIn,
+
+47:00.880 --> 47:03.520
+I just press the button, find me a job, right?
+
+47:03.520 --> 47:06.600
+And then my model goes and talks to the models
+
+47:06.600 --> 47:08.800
+of all the places that might give me a job,
+
+47:08.800 --> 47:12.120
+and they interact in possibly very rich ways,
+
+47:12.120 --> 47:14.360
+the better my model is and the better my model is, right?
+
+47:14.360 --> 47:17.920
+And then out of those bazillions of possible combinations,
+
+47:17.920 --> 47:21.720
+the few, you know, the 10 or 20 that look best
+
+47:21.720 --> 47:24.680
+are the ones where I will actually interview at the place.
+
+47:25.840 --> 47:26.680
+Right?
+
+47:26.680 --> 47:28.200
+And notice, this is both ends.
+
+47:28.200 --> 47:31.840
+It's not one big AI, it's AIs, right?
+
+47:31.840 --> 47:33.720
+They're gonna negotiate with each other.
+
+47:33.720 --> 47:34.680
+Same thing for buying a car.
+
+47:34.680 --> 47:36.600
+If I want to buy a car, my AI is gonna go out
+
+47:36.600 --> 47:38.040
+and look for the cars that I want.
+
+47:38.040 --> 47:40.320
+Same thing for dates, right?
+
+47:40.320 --> 47:42.680
+Dating is actually one of the most significant,
+
+47:42.680 --> 47:45.240
+least appreciated applications of AI today
+
+47:45.240 --> 47:48.600
+because, you know, people get matched by algorithms.
+
+47:48.600 --> 47:49.880
+There are children in life today
+
+47:49.880 --> 47:51.480
+that wouldn't have been born
+
+47:51.480 --> 47:53.440
+if the algorithm hadn't said to their parents,
+
+47:53.440 --> 47:54.920
+you two guys should go on a date.
+
+47:54.920 --> 47:56.920
+That's how I met my girlfriend.
+
+47:56.920 --> 48:00.080
+We've been together more than six years, and it's funny.
+
+48:00.080 --> 48:01.920
+It was like meant to be, I guess,
+
+48:01.920 --> 48:04.160
+because our distance on Tinder,
+
+48:04.160 --> 48:06.320
+both of us were set to one mile
+
+48:06.320 --> 48:07.880
+and didn't want to go any further,
+
+48:07.880 --> 48:10.280
+and that was it, and more than six years.
+
+48:11.120 --> 48:11.960
+There you go, right?
+
+48:11.960 --> 48:13.920
+So, you know, speak of the devil.
+
+48:13.920 --> 48:17.680
+Uh, but, you know, but the point is, right,
+
+48:17.680 --> 48:21.760
+like the way matching is done today is very primitive.
+
+48:21.760 --> 48:23.760
+It's like based on your profile or, you know,
+
+48:23.760 --> 48:25.600
+what people, you know, something like Tinder,
+
+48:25.600 --> 48:29.000
+you have to swipe so you have to look at a lot of alternatives.
+
+48:29.000 --> 48:30.800
+Right? The beauty of having AI
+
+48:30.800 --> 48:33.680
+is that it magnifies your intelligence, right?
+
+48:33.680 --> 48:36.000
+And what I envisage, in fact, you know,
+
+48:36.000 --> 48:37.240
+I even gave an interview to, like,
+
+48:37.240 --> 48:40.400
+Marie Claire about this and the future of dating, right?
+
+48:40.400 --> 48:41.840
+You wouldn't think about, like, you know,
+
+48:41.840 --> 48:44.200
+an AI expert giving an interview to Marie Claire,
+
+48:44.200 --> 48:46.280
+but, you know, they're actually on top of this,
+
+48:46.280 --> 48:48.040
+and what the different, you know, dating,
+
+48:48.040 --> 48:51.360
+you know, sites do and whatnot is unique.
+
+48:51.360 --> 48:54.080
+I think, ultimately, the only good way to do this
+
+48:54.080 --> 48:59.360
+is to have, you know, a model of, you know, Alice
+
+48:59.360 --> 49:04.360
+and a model of Bob go on a date in cyberspace, right?
+
+49:04.360 --> 49:05.880
+And so what happens is that, like, you know,
+
+49:05.880 --> 49:09.920
+like your model goes on a million dates
+
+49:09.920 --> 49:11.480
+or goes on a date with a million people,
+
+49:11.480 --> 49:12.720
+a thousand dates each, right?
+
+49:12.720 --> 49:15.360
+You do this big Monte Carlo simulation.
+
+49:15.360 --> 49:16.480
+And then the one, you know,
+
+49:16.480 --> 49:18.120
+because, like, some dates just go well,
+
+49:18.120 --> 49:20.480
+even though maybe those people would have been a good match,
+
+49:20.480 --> 49:22.760
+and some of them, you know, actually go well,
+
+49:22.760 --> 49:25.760
+and then people think, like, oh, this was meant to be, right?
+
+49:25.760 --> 49:26.880
+So what you need to do is, like,
+
+49:26.880 --> 49:28.480
+you just need to simulate a lot of dates
+
+49:28.480 --> 49:31.320
+between these agents, and then the, you know,
+
+49:31.320 --> 49:33.680
+the pairs of people that have the highest fraction
+
+49:33.680 --> 49:35.480
+of percentage of successful dates,
+
+49:35.480 --> 49:37.080
+those are the ones who maybe, you know,
+
+49:37.080 --> 49:38.680
+should be suggested to go on a real date.
+
+49:38.680 --> 49:40.480
+So I very much agree with this idea
+
+49:40.480 --> 49:42.880
+that what you want to have is not one, you know,
+
+49:42.880 --> 49:47.480
+big Skynet centralized AI, but everybody has their AIs.
+
+49:47.480 --> 49:51.680
+You know, AI is just an extension of your intelligence.
+
+49:51.680 --> 49:54.880
+The way to think of AI is not like AI is my adversary
+
+49:54.880 --> 49:56.880
+that's going to enslave me, right?
+
+49:56.880 --> 49:59.280
+It's that, like, AI makes me more powerful.
+
+49:59.280 --> 50:01.480
+AI is just an exoskeleton for your mind.
+
+50:01.480 --> 50:03.480
+It's like power steering makes it,
+
+50:03.480 --> 50:05.080
+instead of, you know, moving some wheels,
+
+50:05.080 --> 50:07.680
+you're actually doing cognitive stuff.
+
+50:07.680 --> 50:11.280
+Yeah, David Chalmer talked about extended mind theory
+
+50:11.280 --> 50:13.680
+that even if, you know, you write down your shopping list
+
+50:13.680 --> 50:16.880
+on a piece of paper, that's extension of your mind.
+
+50:16.880 --> 50:18.480
+Yeah, exactly, and, you know, people,
+
+50:18.480 --> 50:22.680
+some people call this like, you know, the exocortex.
+
+50:22.680 --> 50:25.480
+It's the part of your brain that resides outside your brain.
+
+50:25.480 --> 50:28.480
+And of course, a notepad is exocortex.
+
+50:28.480 --> 50:30.080
+A hard disk is exocortex.
+
+50:30.080 --> 50:31.680
+And these days, if you think about it,
+
+50:31.680 --> 50:34.480
+you have pieces of your exocortex all over the place
+
+50:34.480 --> 50:37.080
+in data centers in Oregon, right?
+
+50:37.080 --> 50:38.280
+It's like you don't even know
+
+50:38.280 --> 50:40.080
+where most of your exocortex is.
+
+50:40.080 --> 50:43.080
+And this will only pick up speed, right?
+
+50:43.080 --> 50:44.680
+In fact, what makes us smart
+
+50:44.680 --> 50:46.680
+is that we have this external intelligence, right?
+
+50:46.680 --> 50:49.280
+In some ways, we have outsourced a lot of our memory
+
+50:49.280 --> 50:50.480
+to Google.
+
+50:50.480 --> 50:52.280
+You don't need to remember those things anymore.
+
+50:52.280 --> 50:53.680
+And, you know, there's a lot of confusion.
+
+50:53.680 --> 50:55.080
+You know, there's like this, you know,
+
+50:55.080 --> 50:57.480
+this is like, oh, the web makes us stupid.
+
+50:57.480 --> 50:59.880
+Google makes us stupid because now I don't know,
+
+50:59.880 --> 51:02.480
+you know, how to, you know, remember ABA anymore.
+
+51:02.480 --> 51:06.080
+No, the point is like the system of you and Google
+
+51:06.080 --> 51:08.280
+is actually smarter than just you alone.
+
+51:08.280 --> 51:10.680
+There's this notion that, you know,
+
+51:10.680 --> 51:13.680
+Richard Dawkins proposed many years ago
+
+51:13.680 --> 51:16.280
+called the extended phenotype.
+
+51:16.280 --> 51:18.080
+In fact, he has a book called The Extended Phenotypes,
+
+51:18.080 --> 51:19.480
+which is actually one of the most obscure,
+
+51:19.480 --> 51:21.080
+but actually he says it's his favorite.
+
+51:21.080 --> 51:22.480
+I've never even heard of that.
+
+51:22.480 --> 51:23.880
+Yeah, I highly recommend it
+
+51:23.880 --> 51:25.280
+because it's a very insightful book
+
+51:25.280 --> 51:27.080
+and it has never been more relevant.
+
+51:27.080 --> 51:29.080
+What is the extended phenotype?
+
+51:29.080 --> 51:31.880
+His point is that your genes control your body,
+
+51:31.880 --> 51:33.680
+but not only.
+
+51:33.680 --> 51:37.880
+The dam is the extended phenotype of the beaver, right?
+
+51:37.880 --> 51:41.080
+The spider's web is the extended phenotype of the spider, right?
+
+51:41.080 --> 51:44.680
+The genes make that web via the spider, right?
+
+51:44.680 --> 51:49.680
+And technology is the extended phenotype of humanity, right?
+
+51:49.680 --> 51:52.280
+It's like the phenotype is the body that the genotype creates, right?
+
+51:52.280 --> 51:55.480
+Like, you know, technology is our extended phenotype.
+
+51:55.480 --> 51:58.480
+And AI is just another computers in general, right?
+
+51:58.480 --> 52:01.280
+They're just another aspect of their extended phenotype.
+
+52:01.280 --> 52:03.680
+So, you know, our genes, you know, deep in our cells,
+
+52:03.680 --> 52:06.280
+they create us and then we create this technology
+
+52:06.280 --> 52:08.080
+and then, you know, together we're more powerful
+
+52:08.080 --> 52:09.080
+than we would be without it.
+
+52:09.080 --> 52:11.080
+Just like, you know, the spider needs, you know,
+
+52:11.080 --> 52:15.280
+can catch, you know, insects with the web that it wouldn't otherwise.
+
+52:15.280 --> 52:21.080
+So, the way I think of it is very 2001 Space Odyssey
+
+52:21.080 --> 52:23.680
+that the monkey finds a bone
+
+52:23.680 --> 52:26.880
+and it realizes that it can kill to eat.
+
+52:26.880 --> 52:31.080
+But the next thing that it does is protect its group of monkey
+
+52:31.080 --> 52:34.480
+against the other group of monkey
+
+52:34.480 --> 52:36.680
+for the water resource that they had.
+
+52:36.680 --> 52:40.880
+And they threw up the bone and turned into the space shuttle
+
+52:40.880 --> 52:43.080
+and so on and so forth.
+
+52:43.080 --> 52:46.280
+I think that we grew and evolved together.
+
+52:46.280 --> 52:51.680
+And how we achieve the technology primarily,
+
+52:51.680 --> 52:52.680
+I have no idea.
+
+52:52.680 --> 52:53.680
+Was it given to us?
+
+52:53.680 --> 52:56.080
+Was it an accident?
+
+52:56.080 --> 52:57.880
+Was it part of the simulation?
+
+52:57.880 --> 52:58.680
+I have no idea.
+
+52:58.680 --> 53:02.280
+But I do know that we have evolved because of each other,
+
+53:02.280 --> 53:06.280
+which is a context that if you think of it,
+
+53:06.280 --> 53:10.280
+then war and peace are become two sides of the same coin.
+
+53:10.280 --> 53:12.280
+That there will be no peace without war.
+
+53:12.280 --> 53:15.280
+That wars have terrible consequences.
+
+53:15.280 --> 53:19.280
+At the same time, a lot of the technologies that we are using on a daily basis,
+
+53:19.280 --> 53:21.080
+we have them because of wars.
+
+53:21.080 --> 53:25.080
+They were invented because of military adventures.
+
+53:25.080 --> 53:30.080
+So, I just want to read a quote from your book
+
+53:30.080 --> 53:33.080
+because I think this fits this context perfectly,
+
+53:33.080 --> 53:35.880
+that our beliefs are based on our experience,
+
+53:35.880 --> 53:39.280
+which gives us a very incomplete picture of the world.
+
+53:39.280 --> 53:42.680
+And it's easy to jump to false conclusions.
+
+53:42.680 --> 53:47.480
+And it seems to me that AI agents, as extension of our minds,
+
+53:47.480 --> 53:53.680
+when they're left uninterrupted by ethicists and other gatekeepers,
+
+53:53.680 --> 53:59.080
+we don't even know what the future of human civilization is going to be
+
+53:59.080 --> 54:03.480
+because we will have the opportunity for the first time in our history and existence
+
+54:03.480 --> 54:09.080
+to take on a very practical approach on an individual life journey,
+
+54:09.080 --> 54:11.480
+which is very spiritual at the same time too.
+
+54:11.480 --> 54:14.880
+You know, the spiritual route goes within.
+
+54:14.880 --> 54:16.480
+It has nothing to do with outside.
+
+54:16.480 --> 54:18.880
+Everything is a projection.
+
+54:18.880 --> 54:22.880
+Yeah, you know, if you think about AI in the long...
+
+54:22.880 --> 54:25.480
+If you take the long view of AI,
+
+54:25.480 --> 54:28.680
+it's really just the continuation of an evolutionary process
+
+54:28.680 --> 54:32.680
+that encompasses both the culture that we've created.
+
+54:32.680 --> 54:34.480
+Think about a book.
+
+54:34.480 --> 54:38.080
+A book is just a way to communicate across time
+
+54:38.080 --> 54:40.680
+and make connections that otherwise wouldn't happen.
+
+54:40.680 --> 54:43.880
+Language itself allows us to make connections that otherwise wouldn't happen.
+
+54:43.880 --> 54:47.080
+And then books take the writing, right, takes that to another level.
+
+54:47.080 --> 54:49.680
+Language itself can be considered a technology.
+
+54:49.680 --> 54:51.280
+No, exactly. That's my point.
+
+54:51.280 --> 54:53.080
+I really don't, you know, like...
+
+54:53.080 --> 54:57.680
+I very much agree with this idea that biology and technology are on a continuum.
+
+54:57.680 --> 54:58.680
+Right.
+
+54:58.680 --> 55:02.280
+And you can understand AI, you know, just as the...
+
+55:02.280 --> 55:03.880
+You know, like, where do these things come from?
+
+55:03.880 --> 55:05.880
+It's really an evolutionary process.
+
+55:05.880 --> 55:09.680
+And the evolutionary operators themselves get more sophisticated over time.
+
+55:09.680 --> 55:11.880
+They're not just trying the mutations and crossovers.
+
+55:11.880 --> 55:14.680
+You know, now our brains are actually making it happen, right?
+
+55:14.680 --> 55:16.480
+But the same process is still happening.
+
+55:16.480 --> 55:19.480
+And then when an innovation, you know, appears,
+
+55:19.480 --> 55:22.480
+it's often first used, you know, on the world, you know,
+
+55:22.480 --> 55:25.880
+like the, you know, like the bone in 2001.
+
+55:25.880 --> 55:29.280
+But then, of course, you know, like, competition is unavoidable.
+
+55:29.280 --> 55:32.680
+As is, you know, so, you know, war is just an extreme form of competition.
+
+55:32.680 --> 55:34.080
+Unnecessary, it seems like.
+
+55:34.080 --> 55:36.280
+Yeah, exactly, unnecessary, absolutely, right?
+
+55:36.280 --> 55:39.680
+You're like, you know, you know, there's no evolution without species going extinct, right?
+
+55:39.680 --> 55:40.680
+That's the reality.
+
+55:40.680 --> 55:45.080
+But at the same time, competition is the mother of cooperation.
+
+55:45.080 --> 55:52.080
+We cooperate because a cooperating set of units beats a non-cooperating set.
+
+55:52.080 --> 55:57.280
+Right? So, cooperation is good because it actually helps you in competition.
+
+55:57.280 --> 56:00.080
+And competition is good because it creates cooperation.
+
+56:00.080 --> 56:03.680
+And, you know, your brain is a cooperation of a lot of systems, right?
+
+56:03.680 --> 56:07.080
+Like one theory of your brain is the so-called society of mind, right?
+
+56:07.080 --> 56:10.480
+So, I think this, this phenomenon actually, they're the same,
+
+56:10.480 --> 56:12.880
+you know, of cooperation and competition and, you know,
+
+56:12.880 --> 56:15.280
+and evolutionary operators and so on.
+
+56:15.280 --> 56:19.080
+They are present at all levels from the cell to the largest,
+
+56:19.080 --> 56:22.080
+you know, socio-technical systems that we're building today.
+
+56:22.080 --> 56:27.080
+And this experience that we are having based on our environment,
+
+56:27.080 --> 56:32.280
+this will just expand more that we can sense our environment, right?
+
+56:32.280 --> 56:36.880
+Because let's say that we, we merge with artificial intelligence
+
+56:36.880 --> 56:39.080
+through a device like Neuralink,
+
+56:39.080 --> 56:42.880
+which I'm interested to know your opinion about that too.
+
+56:42.880 --> 56:46.680
+Then what would be the limit of our experience?
+
+56:46.680 --> 56:53.680
+Because if that AI system has the ability to sense my partner in Japan
+
+56:53.680 --> 56:57.480
+and I'm in Florida, what is the limit of my body?
+
+56:57.480 --> 57:00.680
+What is the limit of myself and what is the limit of my experience?
+
+57:00.680 --> 57:07.080
+And what will happen to the values that I would create based on that new,
+
+57:07.080 --> 57:10.080
+new experience and new understanding of that experience
+
+57:10.080 --> 57:13.080
+and how the society is going to react to it?
+
+57:13.080 --> 57:18.880
+Yeah, I think there are some physical limits to the degree of integration
+
+57:18.880 --> 57:22.080
+that can be achieved, but we're nowhere near them yet.
+
+57:22.080 --> 57:24.480
+I think in the meantime, what we'll see, and you know,
+
+57:24.480 --> 57:28.280
+I'm very much speculating here is, you know,
+
+57:28.280 --> 57:31.080
+this gets to the topic of consciousness, right?
+
+57:31.080 --> 57:34.080
+There's some level of information integration
+
+57:34.080 --> 57:36.280
+at which you start to have something like consciousness.
+
+57:36.280 --> 57:39.280
+And some people argue that, you know, you know,
+
+57:39.280 --> 57:42.080
+an ant has consciousness, some argue that it doesn't.
+
+57:42.080 --> 57:45.080
+But I think if instead of seeing this in terms of black and white,
+
+57:45.080 --> 57:47.280
+you see it in terms of gray levels, right?
+
+57:47.280 --> 57:50.080
+There's, you could say there is already some level of consciousness
+
+57:50.080 --> 57:52.480
+that exceeds the individual.
+
+57:52.480 --> 57:54.080
+Just as maybe in your own brain,
+
+57:54.080 --> 57:57.080
+there might be levels of consciousness lower than the one that you're aware of.
+
+57:57.080 --> 57:59.880
+And just, you know, one of the, like, you're the neocortex,
+
+57:59.880 --> 58:02.680
+but what about, you know, the, you know, what about the, you know,
+
+58:02.680 --> 58:04.480
+the cerebellum, right?
+
+58:04.480 --> 58:06.880
+What about, right? I don't know, right?
+
+58:06.880 --> 58:09.480
+You know, like, what about your immune system, right?
+
+58:09.480 --> 58:12.880
+What about the part, you know, maybe certain modules in your brain
+
+58:12.880 --> 58:14.280
+that control different parts of your body,
+
+58:14.280 --> 58:16.880
+they have some small level of consciousness, right?
+
+58:16.880 --> 58:18.880
+In that same way, I think, you know,
+
+58:18.880 --> 58:21.680
+there is already some level of consciousness
+
+58:21.680 --> 58:23.280
+that exceeds the individual,
+
+58:23.280 --> 58:26.680
+probably still even at this stage, quite impoverished.
+
+58:26.680 --> 58:28.480
+But obviously, as this progresses,
+
+58:28.480 --> 58:30.880
+I think there will become a bigger and bigger force.
+
+58:30.880 --> 58:34.680
+And then we, right, you know, I, with my own brain,
+
+58:34.680 --> 58:37.680
+I may not be able to fully grasp what is going on
+
+58:37.680 --> 58:39.880
+because I have my level of consciousness,
+
+58:39.880 --> 58:43.680
+but I will have an interface with it that works in both directions.
+
+58:43.680 --> 58:47.280
+But what would be the definition of the eye?
+
+58:47.280 --> 58:51.480
+No, so again, well, it can be more than one, right?
+
+58:51.480 --> 58:54.080
+But, you know, so here's one very simplistic version, right?
+
+58:54.080 --> 58:56.880
+Maybe the eyes are still our eyes.
+
+58:56.880 --> 58:58.280
+They don't have to be like, because they'll be, you know,
+
+58:58.280 --> 59:01.880
+there's sensors and cameras and Internet of Things and whatnot.
+
+59:01.880 --> 59:07.480
+But, you know, the sensors, your eye is a highly integrated sensor.
+
+59:07.480 --> 59:10.280
+But I'm talking about the eye as a self.
+
+59:10.280 --> 59:12.680
+You said eye experience in a certain way.
+
+59:12.680 --> 59:15.080
+What would be the definition of the eye?
+
+59:15.080 --> 59:17.080
+No, there are different eyes, right?
+
+59:17.080 --> 59:19.880
+There's still the eye that's you, but there's a larger eye.
+
+59:19.880 --> 59:23.880
+But who's experiencing it?
+
+59:23.880 --> 59:27.080
+Well, it depends on how, you know, a set of eyes is organized.
+
+59:27.080 --> 59:28.680
+Actually, let me answer that question
+
+59:28.680 --> 59:30.880
+by first going down to a lower level, right?
+
+59:30.880 --> 59:33.280
+You know, you could, you know, think of a new, you know,
+
+59:33.280 --> 59:37.080
+imagine someone sitting in a neuron, right?
+
+59:37.080 --> 59:39.280
+And that neuron is the eye.
+
+59:39.280 --> 59:41.080
+All they see is like, you know,
+
+59:41.080 --> 59:43.880
+there's some action potentials coming in and every now and then
+
+59:43.880 --> 59:46.280
+I decide to fire, right?
+
+59:46.280 --> 59:47.280
+That's the eye.
+
+59:47.280 --> 59:48.880
+There's a little eye there, right?
+
+59:48.880 --> 59:50.480
+It's very impoverished, right?
+
+59:50.480 --> 59:55.480
+And that neuron has no idea what is going on in your brain, right?
+
+59:55.480 --> 59:58.280
+It has an idea of one micro part of it, right?
+
+59:58.280 --> 01:00:01.480
+And now, but now like, you know, a neuron is really an extreme example, right?
+
+01:00:01.480 --> 01:00:04.080
+There's larger parts of your brain that are, you know,
+
+01:00:04.080 --> 01:00:05.880
+there are, again, as I was saying, you know,
+
+01:00:05.880 --> 01:00:08.880
+little brains and they're right in some sense, right?
+
+01:00:08.880 --> 01:00:12.280
+So, and, you know, like, you know, like the movie,
+
+01:00:12.280 --> 01:00:16.680
+what's that Pixar movie where the different emotions are represented?
+
+01:00:16.680 --> 01:00:17.480
+Yeah, I can't remember the name.
+
+01:00:17.480 --> 01:00:19.080
+Different characters, right?
+
+01:00:19.080 --> 01:00:21.880
+That's actually a really good metaphor because in some ways,
+
+01:00:21.880 --> 01:00:25.280
+the different emotions are different agents in your brain.
+
+01:00:25.280 --> 01:00:29.880
+They're each competing to take over your brain at a given moment, right?
+
+01:00:29.880 --> 01:00:32.680
+Anger, you know, anger is trying to be angry.
+
+01:00:32.680 --> 01:00:34.880
+You know, and of course, there's like the new transmitters
+
+01:00:34.880 --> 01:00:37.080
+and hormones that, you know, underlie all this,
+
+01:00:37.080 --> 01:00:39.080
+but, you know, at a certain level of abstraction,
+
+01:00:39.080 --> 01:00:41.080
+you know, at any given moment, you know,
+
+01:00:41.080 --> 01:00:44.280
+what is coming into you from your senses and your memories, et cetera,
+
+01:00:44.280 --> 01:00:49.680
+will make certain emotions take over and others take a back seat, right?
+
+01:00:49.680 --> 01:00:53.880
+You can think of your angry self as one self that is awake some of the time
+
+01:00:53.880 --> 01:00:55.680
+and asleep the rest of the time,
+
+01:00:55.680 --> 01:00:58.680
+or your happy self or your loving self, et cetera, et cetera.
+
+01:00:58.680 --> 01:01:01.080
+So, even inside your brain, there's like this set of,
+
+01:01:01.080 --> 01:01:05.680
+you can think of it as a set of competing and collaborating agents.
+
+01:01:05.680 --> 01:01:08.280
+And so, I think that same thing will happen.
+
+01:01:08.280 --> 01:01:11.280
+Now, you know, think of a company, right?
+
+01:01:11.280 --> 01:01:14.480
+Think of a startup, there's a dozen people, right?
+
+01:01:14.480 --> 01:01:17.880
+One of them is the anger guy, right?
+
+01:01:17.880 --> 01:01:20.880
+Because he's more whatever, competitive, more, you know,
+
+01:01:20.880 --> 01:01:23.080
+another one is the optimist, another one, right?
+
+01:01:23.080 --> 01:01:28.080
+There's like people who play different roles in an organization
+
+01:01:28.080 --> 01:01:29.880
+and somewhere are similar to the roles
+
+01:01:29.880 --> 01:01:33.280
+that different emotions play in your brain, right?
+
+01:01:33.280 --> 01:01:35.280
+And now you can take this to an even larger level,
+
+01:01:35.280 --> 01:01:38.080
+like in an economy, different companies play different roles.
+
+01:01:38.080 --> 01:01:40.480
+And, you know, even different countries
+
+01:01:40.480 --> 01:01:42.280
+play different roles in the world and so on.
+
+01:01:42.280 --> 01:01:46.480
+So, I think this again, you know, who is going to be the I?
+
+01:01:46.480 --> 01:01:49.480
+The answer is, you know, this is a hierarchical system.
+
+01:01:49.480 --> 01:01:51.680
+There's I's at all of these levels.
+
+01:01:51.680 --> 01:01:53.880
+Some of them are more cohesive
+
+01:01:53.880 --> 01:01:56.280
+and so they look more like what you would call an I.
+
+01:01:56.280 --> 01:01:59.080
+Some of them are less, but it's a matter of degrees.
+
+01:01:59.080 --> 01:02:00.280
+It's a continuum.
+
+01:02:00.280 --> 01:02:03.880
+Wow. So, a microcosm of everything.
+
+01:02:03.880 --> 01:02:05.880
+Like that's how the universe is, right?
+
+01:02:05.880 --> 01:02:10.280
+Some things are less, I don't want to say less valuable,
+
+01:02:10.280 --> 01:02:14.880
+like dirt, some things are planets, some things are stars.
+
+01:02:14.880 --> 01:02:17.080
+And they each have different,
+
+01:02:17.080 --> 01:02:20.480
+they each are built out of smaller elements
+
+01:02:20.480 --> 01:02:22.080
+that have their own evolution
+
+01:02:22.080 --> 01:02:24.080
+and they came together as a result of, you know,
+
+01:02:24.080 --> 01:02:25.880
+many, many different lives.
+
+01:02:25.880 --> 01:02:30.480
+Yeah, I mean, what I think is that the same laws,
+
+01:02:30.480 --> 01:02:32.280
+this is a very speculative statement,
+
+01:02:32.280 --> 01:02:34.480
+but, you know, this is my intuition,
+
+01:02:34.480 --> 01:02:38.880
+is that the same laws apply at all scales.
+
+01:02:38.880 --> 01:02:41.480
+The picture we have today is like there's the laws of physics
+
+01:02:41.480 --> 01:02:43.280
+that we have a very good mastery of,
+
+01:02:43.280 --> 01:02:45.080
+but they only apply at the lowest level.
+
+01:02:45.080 --> 01:02:47.480
+The laws of physics, you know, don't tell you
+
+01:02:47.480 --> 01:02:50.280
+that much about chemistry, even less about biology
+
+01:02:50.280 --> 01:02:52.280
+and nothing at all about psychology,
+
+01:02:52.280 --> 01:02:54.480
+sociology, et cetera, et cetera.
+
+01:02:54.480 --> 01:02:57.280
+I think this is an immature state of our knowledge
+
+01:02:57.280 --> 01:03:00.080
+that is there because we do not understand, you know,
+
+01:03:00.080 --> 01:03:02.880
+the psychology and the biology and the sociology very well.
+
+01:03:02.880 --> 01:03:05.480
+I think once we understand them, we will actually see
+
+01:03:05.480 --> 01:03:07.680
+that the same laws are actually operating
+
+01:03:07.680 --> 01:03:11.480
+at all these scales, from the atom to the universe.
+
+01:03:11.480 --> 01:03:13.880
+And at different scales, you will see different phenomena,
+
+01:03:13.880 --> 01:03:15.480
+but they are a result of the same laws.
+
+01:03:15.480 --> 01:03:17.480
+And of course, in some sense,
+
+01:03:17.480 --> 01:03:20.280
+discovering what those laws are is the highest mission
+
+01:03:20.280 --> 01:03:22.680
+that science can have.
+
+01:03:22.680 --> 01:03:25.880
+Do you consider those laws to be the truth?
+
+01:03:25.880 --> 01:03:27.080
+No, I don't.
+
+01:03:27.080 --> 01:03:29.080
+Well, this is science, so you never really know
+
+01:03:29.080 --> 01:03:31.080
+if you found the truth, right?
+
+01:03:31.080 --> 01:03:36.280
+But again, think of the origin of species, right?
+
+01:03:36.280 --> 01:03:38.680
+You know, what are these laws that I'm talking about?
+
+01:03:38.680 --> 01:03:43.080
+We don't know them yet, but I think the one, you know,
+
+01:03:43.080 --> 01:03:45.680
+maybe the most important book of all time at the end of the day
+
+01:03:45.680 --> 01:03:48.280
+is The Origin of Species, right?
+
+01:03:48.280 --> 01:03:50.680
+Because again, these processes that we've been talking about
+
+01:03:50.680 --> 01:03:53.880
+of evolutionary operators and cooperation and competition
+
+01:03:53.880 --> 01:03:56.080
+and so on, this, I think, is what is happening
+
+01:03:56.080 --> 01:03:59.680
+at all of these levels in its different manifestations.
+
+01:03:59.680 --> 01:04:02.480
+And to think, or one of the things that struck me most
+
+01:04:02.480 --> 01:04:05.080
+when I read The Origin of Species, right,
+
+01:04:05.080 --> 01:04:08.280
+as a computer scientist, not just as a curious person,
+
+01:04:08.280 --> 01:04:11.480
+is that, first of all, it's a brilliant book,
+
+01:04:11.480 --> 01:04:15.480
+but second of all, and again, this is not a surprise,
+
+01:04:15.480 --> 01:04:18.280
+or at least, you know, it's not news at like,
+
+01:04:18.280 --> 01:04:21.080
+a lot of what he's talking about there is not just,
+
+01:04:21.080 --> 01:04:24.080
+doesn't just happen in biology, right?
+
+01:04:24.080 --> 01:04:25.480
+It happens in language.
+
+01:04:25.480 --> 01:04:26.880
+It happens in economics.
+
+01:04:26.880 --> 01:04:29.480
+It happens in society, right?
+
+01:04:29.480 --> 01:04:31.280
+And he doesn't have the complete picture,
+
+01:04:31.280 --> 01:04:33.680
+so of course, he's a lot more focused on competition
+
+01:04:33.680 --> 01:04:36.280
+than on cooperation, but again,
+
+01:04:36.280 --> 01:04:38.480
+I think a lot of what he talks about there
+
+01:04:38.480 --> 01:04:41.880
+is not just something about the biological world,
+
+01:04:41.880 --> 01:04:43.680
+it's something about technology.
+
+01:04:43.680 --> 01:04:45.080
+Technology has a lot of,
+
+01:04:45.080 --> 01:04:47.880
+it follows a lot of the same evolutionary laws
+
+01:04:47.880 --> 01:04:50.880
+that organisms do, and if you think about it, why not?
+
+01:04:50.880 --> 01:04:53.680
+If technology really is our extended phenotype,
+
+01:04:53.680 --> 01:04:57.480
+so I think there's, I think, you know,
+
+01:04:57.480 --> 01:05:00.280
+if I were to look at science 100 years from now,
+
+01:05:00.280 --> 01:05:04.680
+I think a lot, this is what it will have discovered
+
+01:05:04.680 --> 01:05:05.880
+that we don't know yet.
+
+01:05:07.080 --> 01:05:08.080
+Is it the truth?
+
+01:05:08.080 --> 01:05:12.480
+Well, you know, science makes no claims to knowing the truth.
+
+01:05:12.480 --> 01:05:15.880
+Science is just a way to pursue the truth, right?
+
+01:05:15.880 --> 01:05:16.880
+And, you know-
+
+01:05:16.880 --> 01:05:18.480
+It's good to remember.
+
+01:05:18.480 --> 01:05:22.080
+Very good to remember, yeah, exactly, yeah, right?
+
+01:05:22.080 --> 01:05:24.680
+Again, whenever I hear the phrase science says,
+
+01:05:24.680 --> 01:05:26.280
+you know, there's a little part of me
+
+01:05:26.280 --> 01:05:28.280
+that starts to get itchy.
+
+01:05:28.280 --> 01:05:29.680
+Right.
+
+01:05:29.680 --> 01:05:33.480
+Yeah, I heard from a guest I had many years ago,
+
+01:05:33.480 --> 01:05:37.480
+physicist turned filmmaker, and he said in the university,
+
+01:05:37.480 --> 01:05:41.080
+all you had to focus on was string theory,
+
+01:05:41.080 --> 01:05:43.680
+because that's what all the budget was going to,
+
+01:05:43.680 --> 01:05:45.880
+all the grants were given to string theory,
+
+01:05:45.880 --> 01:05:49.680
+and it was funny that Avi Loeb, I think his name is,
+
+01:05:49.680 --> 01:05:53.280
+a Harvard scientist, that he's getting attacked
+
+01:05:53.280 --> 01:05:56.080
+about talking about something that that object
+
+01:05:56.080 --> 01:05:58.480
+could have been coming from outside of our,
+
+01:05:58.480 --> 01:06:00.280
+and all he's saying is that, hey,
+
+01:06:00.280 --> 01:06:03.280
+we need to consider this a possibility,
+
+01:06:03.280 --> 01:06:08.080
+because, and he used the example of, on Rogan,
+
+01:06:08.080 --> 01:06:10.680
+he used the example of string theory, too,
+
+01:06:10.680 --> 01:06:12.080
+and they're like, it's okay for them
+
+01:06:12.080 --> 01:06:14.080
+to come up with different dimensions,
+
+01:06:14.080 --> 01:06:16.080
+but they're not considering the possibility
+
+01:06:16.080 --> 01:06:18.680
+of something being from outer space,
+
+01:06:18.680 --> 01:06:21.680
+because they obviously have interest in, as you said,
+
+01:06:21.680 --> 01:06:24.680
+in that status quo, in that narrative.
+
+01:06:24.680 --> 01:06:27.480
+So I very much agree with what he says in this book,
+
+01:06:27.480 --> 01:06:29.880
+which is that science is paradoxically
+
+01:06:29.880 --> 01:06:32.080
+extremely conservative.
+
+01:06:32.080 --> 01:06:34.680
+But if you're a scientist and understand
+
+01:06:34.680 --> 01:06:37.680
+how the whole social system of science works,
+
+01:06:37.680 --> 01:06:39.880
+you understand why it's very conservative.
+
+01:06:39.880 --> 01:06:43.880
+And I think, yes, he shouldn't have been attacked,
+
+01:06:43.880 --> 01:06:47.080
+as he was, for making the hypothesis that he did.
+
+01:06:47.080 --> 01:06:49.280
+I personally think that his hypothesis
+
+01:06:49.280 --> 01:06:52.680
+that the subject is an alien artifact
+
+01:06:52.680 --> 01:06:55.680
+is not very parsimonious, right?
+
+01:06:55.680 --> 01:06:59.880
+It's a very, it's an explanation that sounds very simple,
+
+01:06:59.880 --> 01:07:02.880
+but presupposes an enormous amount, right?
+
+01:07:02.880 --> 01:07:07.080
+And so my guess, and it definitely should be entertained,
+
+01:07:07.080 --> 01:07:09.080
+I don't give it a very high probability
+
+01:07:09.080 --> 01:07:11.080
+of being the true explanation,
+
+01:07:11.080 --> 01:07:13.680
+but it certainly, like, the bottom line is like,
+
+01:07:13.680 --> 01:07:17.680
+that object behaved in the sun's gravitational field
+
+01:07:17.680 --> 01:07:20.480
+in a way that we can't explain.
+
+01:07:20.480 --> 01:07:22.680
+That is the essence, right?
+
+01:07:22.680 --> 01:07:25.880
+And now, was it because it had a solar sail, right,
+
+01:07:25.880 --> 01:07:27.480
+which is his hypothesis?
+
+01:07:27.480 --> 01:07:28.480
+Maybe.
+
+01:07:28.480 --> 01:07:31.280
+If it had a solar sail, somebody had to build it, right?
+
+01:07:31.280 --> 01:07:33.280
+Or was it because there was some other phenomena
+
+01:07:33.280 --> 01:07:35.280
+that happened with it that we don't know about yet?
+
+01:07:35.280 --> 01:07:38.680
+You know, I think that's more likely, right?
+
+01:07:38.680 --> 01:07:41.080
+Certainly we don't have an explanation for how it behaved,
+
+01:07:41.080 --> 01:07:43.280
+but there's actually, and again,
+
+01:07:43.280 --> 01:07:45.680
+this gets back to this whole evolutionary process.
+
+01:07:45.680 --> 01:07:48.280
+Our job as scientists is to not just entertain
+
+01:07:48.280 --> 01:07:50.680
+one hypothesis or two, right?
+
+01:07:50.680 --> 01:07:53.680
+Either this is an asteroid or this is an alien spaceship,
+
+01:07:53.680 --> 01:07:57.680
+but every hypothesis we can think of.
+
+01:07:57.680 --> 01:07:59.880
+This is actually the hardest part of science,
+
+01:07:59.880 --> 01:08:02.880
+is to not just fall into the same few hypotheses
+
+01:08:02.880 --> 01:08:05.280
+that, you know, come up easily.
+
+01:08:05.280 --> 01:08:08.280
+Like, entertain every conceivable hypothesis,
+
+01:08:08.280 --> 01:08:11.080
+you know, within the limits of what's possible.
+
+01:08:11.080 --> 01:08:14.680
+And the point of that is not that they'll be right, right?
+
+01:08:14.680 --> 01:08:17.280
+Only except one will be wrong.
+
+01:08:17.280 --> 01:08:20.080
+The point is that by broadening the search,
+
+01:08:20.080 --> 01:08:23.080
+you increase your chances of finding the right one,
+
+01:08:23.080 --> 01:08:24.680
+which is what matters at the end of the day.
+
+01:08:24.680 --> 01:08:28.080
+In the long run, no one will care about the wrong hypothesis.
+
+01:08:28.080 --> 01:08:29.880
+But unfortunately, the way science works
+
+01:08:29.880 --> 01:08:34.480
+is exactly the opposite, is that there's this herd behavior
+
+01:08:34.480 --> 01:08:36.880
+where, because the field is very uncertain, right?
+
+01:08:36.880 --> 01:08:38.880
+Science, when it comes to the public,
+
+01:08:38.880 --> 01:08:41.480
+is this very subtle or looks like this very subtle thing.
+
+01:08:41.480 --> 01:08:43.080
+But the point, the problem for you
+
+01:08:43.080 --> 01:08:46.480
+when you're at the research frontier is that it's terrifying.
+
+01:08:46.480 --> 01:08:48.280
+You don't know anything. You're confused.
+
+01:08:48.280 --> 01:08:49.880
+You're in the dark, right?
+
+01:08:49.880 --> 01:08:52.080
+And what do you do when that happens?
+
+01:08:52.080 --> 01:08:55.080
+You grab onto other people, right?
+
+01:08:55.080 --> 01:08:56.680
+And so what happens is that where there's a few...
+
+01:08:56.680 --> 01:08:58.880
+I think this is true in every field I know,
+
+01:08:58.880 --> 01:09:00.280
+and it's probably true in every field,
+
+01:09:00.280 --> 01:09:03.480
+is that there's the whole space of things
+
+01:09:03.480 --> 01:09:06.080
+that the field should be exploring,
+
+01:09:06.080 --> 01:09:08.680
+and then there's the tiny, tiny, tiny fraction
+
+01:09:08.680 --> 01:09:11.080
+that is actually being explored.
+
+01:09:11.080 --> 01:09:13.280
+Because somebody went in that direction,
+
+01:09:13.280 --> 01:09:15.080
+and then a bunch of people followed,
+
+01:09:15.080 --> 01:09:16.680
+and then this whole thing grew up around it.
+
+01:09:16.680 --> 01:09:19.480
+And then before long, people live inside the system
+
+01:09:19.480 --> 01:09:21.680
+where they don't realize that they're in a grain of sand,
+
+01:09:21.680 --> 01:09:24.280
+and there's the whole universe outside.
+
+01:09:24.280 --> 01:09:25.680
+Yeah, what Stephen Hawking said,
+
+01:09:25.680 --> 01:09:28.080
+that the biggest enemy of knowledge is not lack of it,
+
+01:09:28.080 --> 01:09:29.880
+it's the illusion of it.
+
+01:09:29.880 --> 01:09:32.280
+Absolutely, yeah, completely, yeah.
+
+01:09:32.280 --> 01:09:36.680
+We're living in these virtual realities that we have created.
+
+01:09:36.680 --> 01:09:39.280
+Scott Adams also explained it, interestingly,
+
+01:09:39.280 --> 01:09:40.680
+that two movies on one screen,
+
+01:09:40.680 --> 01:09:42.480
+he was explaining the Trump phenomenon,
+
+01:09:42.480 --> 01:09:44.680
+that people just see whatever they want.
+
+01:09:44.680 --> 01:09:49.680
+And that exactly follows this unscientific kind of perspective
+
+01:09:49.680 --> 01:09:51.280
+that we have sociopolitically,
+
+01:09:51.280 --> 01:09:54.080
+that we've already made a decision about the outcome,
+
+01:09:54.080 --> 01:09:55.880
+so we just find any kind of evidence
+
+01:09:55.880 --> 01:09:58.680
+that will support that outcome that we already made a decision of.
+
+01:09:58.680 --> 01:10:02.280
+And it seems to be the biggest differentiation point
+
+01:10:02.280 --> 01:10:04.480
+between science and religion, that science is like,
+
+01:10:04.480 --> 01:10:07.080
+I don't know, I just look for whatever,
+
+01:10:07.080 --> 01:10:10.480
+all the possibilities to get to a practical answer
+
+01:10:10.480 --> 01:10:12.480
+that is repeatable.
+
+01:10:12.480 --> 01:10:15.280
+But religion is like, hey, there's a heaven,
+
+01:10:15.280 --> 01:10:18.080
+and we've got to get to heaven, and it doesn't matter how,
+
+01:10:18.080 --> 01:10:19.480
+and everything is justified,
+
+01:10:19.480 --> 01:10:23.080
+and that needs to be avoided at all costs.
+
+01:10:23.080 --> 01:10:25.480
+The movie analogy is actually a really good one,
+
+01:10:25.480 --> 01:10:28.480
+because if you have a goal, then you will see the movie
+
+01:10:28.480 --> 01:10:30.280
+that's compatible with the goal.
+
+01:10:30.280 --> 01:10:33.880
+And the thing that is paradoxical about the information society
+
+01:10:33.880 --> 01:10:37.680
+is that if you think, and in fact, 20 years ago,
+
+01:10:37.680 --> 01:10:40.280
+this is what people are like, oh, now we're going to have
+
+01:10:40.280 --> 01:10:43.880
+better, more higher quality information available to everybody,
+
+01:10:43.880 --> 01:10:46.280
+this is all going to be better.
+
+01:10:46.280 --> 01:10:49.280
+What actually happens is that the information just means,
+
+01:10:49.280 --> 01:10:52.880
+instead of two movies on that screen, there's a million movies,
+
+01:10:52.880 --> 01:10:54.680
+it looks like white noise,
+
+01:10:54.680 --> 01:10:57.480
+but there's nothing better than noise to pick out patterns in,
+
+01:10:57.480 --> 01:11:02.080
+so everybody can now see whatever movie they want.
+
+01:11:02.080 --> 01:11:05.080
+You know the famous saying, I think, Patrick Moynihan,
+
+01:11:05.080 --> 01:11:07.880
+who said that gets cited by everybody on all sides all the time,
+
+01:11:07.880 --> 01:11:10.080
+that you're entitled to your own opinions,
+
+01:11:10.080 --> 01:11:12.280
+but not your own facts, right?
+
+01:11:12.280 --> 01:11:16.880
+Well, the quote-unquote beauty of the information society
+
+01:11:16.880 --> 01:11:19.080
+is that you are now entitled to your own facts.
+
+01:11:19.080 --> 01:11:20.880
+You can just go find them on the internet
+
+01:11:20.880 --> 01:11:23.080
+and construct your own view around that
+
+01:11:23.080 --> 01:11:25.480
+and have a group of people that reinforce that.
+
+01:11:25.480 --> 01:11:28.680
+Of course, the scientific thing to do is you have to attend to
+
+01:11:28.680 --> 01:11:32.480
+all the evidence, not just some.
+
+01:11:32.480 --> 01:11:33.680
+But there's more, right?
+
+01:11:33.680 --> 01:11:35.880
+As long as you can cherry pick, you can, you know,
+
+01:11:35.880 --> 01:11:38.880
+this is what people do today, right, is they cherry pick, right?
+
+01:11:38.880 --> 01:11:41.080
+And, you know, in some ways, they can't help it,
+
+01:11:41.080 --> 01:11:43.280
+because, you know, you don't have enough brain
+
+01:11:43.280 --> 01:11:45.080
+for all that information,
+
+01:11:45.080 --> 01:11:46.880
+which gets back to this point of like,
+
+01:11:46.880 --> 01:11:49.880
+we've created this massive information, which is good,
+
+01:11:49.880 --> 01:11:52.880
+but we don't have the intelligence to process it yet.
+
+01:11:52.880 --> 01:11:54.880
+So we need AI,
+
+01:11:54.880 --> 01:11:58.880
+because our human brains cannot parse all of that information
+
+01:11:58.880 --> 01:12:00.080
+and they will cherry pick,
+
+01:12:00.080 --> 01:12:02.480
+and you will just have these people in different tribes that,
+
+01:12:02.480 --> 01:12:04.480
+you know, are effectively living on different planets.
+
+01:12:04.480 --> 01:12:08.680
+So, you know, AI is not kind of like a nice thing to have.
+
+01:12:08.680 --> 01:12:10.480
+It's a must have.
+
+01:12:10.480 --> 01:12:14.480
+The information society that we have will not work without AI.
+
+01:12:14.480 --> 01:12:17.280
+And we need better AI than we have today.
+
+01:12:17.280 --> 01:12:19.480
+People are always worrying about like, oh, you know,
+
+01:12:19.480 --> 01:12:22.080
+computers will get too smart and they'll take over the world
+
+01:12:22.080 --> 01:12:23.280
+and et cetera, et cetera.
+
+01:12:23.280 --> 01:12:24.880
+That is not the problem that we have.
+
+01:12:24.880 --> 01:12:26.480
+The problem is that they're too stupid
+
+01:12:26.480 --> 01:12:29.880
+and they've already taken over the world.
+
+01:12:29.880 --> 01:12:31.280
+That's a very good point.
+
+01:12:35.080 --> 01:12:37.080
+That blew my mind.
+
+01:12:37.080 --> 01:12:40.880
+This alignment problem we have with artificial intelligence,
+
+01:12:40.880 --> 01:12:44.480
+do you think that there is a possibility
+
+01:12:44.480 --> 01:12:47.880
+for an ex machina kind of a scenario
+
+01:12:47.880 --> 01:12:51.080
+that AI behave in the way that we think that,
+
+01:12:51.080 --> 01:12:52.480
+oh, we're all aligned,
+
+01:12:52.480 --> 01:12:57.280
+and I'm talking about more advanced kind of AGI,
+
+01:12:57.280 --> 01:12:58.880
+that we think, oh, we're aligned with the AI,
+
+01:12:58.880 --> 01:13:01.880
+but when it gets to the point,
+
+01:13:01.880 --> 01:13:04.880
+it will just drop us and basically follow
+
+01:13:04.880 --> 01:13:07.080
+whatever kind of a path that it already determined.
+
+01:13:07.080 --> 01:13:09.680
+It just fooled us basically into believing
+
+01:13:09.680 --> 01:13:11.480
+that it's aligned with us,
+
+01:13:11.480 --> 01:13:14.480
+but it just used us to feed more and more off of our data
+
+01:13:14.480 --> 01:13:17.080
+or whatever it is that it needs.
+
+01:13:17.080 --> 01:13:21.280
+I think the alignment problem is key.
+
+01:13:21.280 --> 01:13:27.080
+I think that's not the real alignment problem.
+
+01:13:27.080 --> 01:13:30.680
+And here's what I think the real one is and why.
+
+01:13:30.680 --> 01:13:34.080
+So the alignment problem is really in the sense that
+
+01:13:34.080 --> 01:13:36.880
+we want our machines to do our bidding.
+
+01:13:36.880 --> 01:13:39.480
+That's what we created them for.
+
+01:13:39.480 --> 01:13:41.880
+And with simple machines, that's trivial.
+
+01:13:41.880 --> 01:13:44.480
+The car only goes where I drive it.
+
+01:13:44.480 --> 01:13:45.880
+But once you get into AI,
+
+01:13:45.880 --> 01:13:47.280
+and we're already seeing this today
+
+01:13:47.280 --> 01:13:49.480
+with the EIs that we have today,
+
+01:13:49.480 --> 01:13:52.080
+we have all this power.
+
+01:13:52.080 --> 01:13:57.080
+And what goals is that power serving?
+
+01:13:57.080 --> 01:14:00.280
+And what could go wrong?
+
+01:14:00.280 --> 01:14:02.480
+The ex machina scenario
+
+01:14:02.480 --> 01:14:06.280
+is that it actually has different goals from ours.
+
+01:14:06.280 --> 01:14:08.880
+This is actually very unlikely,
+
+01:14:08.880 --> 01:14:12.080
+even if the AI is smarter than we are.
+
+01:14:12.080 --> 01:14:14.480
+And for a very simple evolutionary reason,
+
+01:14:14.480 --> 01:14:16.880
+which is also a computational one,
+
+01:14:16.880 --> 01:14:21.680
+which is, you know, here's an example.
+
+01:14:21.680 --> 01:14:23.680
+You don't lie awake at night
+
+01:14:23.680 --> 01:14:26.880
+thinking that your dog is going to kill you.
+
+01:14:26.880 --> 01:14:31.080
+But your dog is a wolf.
+
+01:14:31.080 --> 01:14:32.280
+Your dog is a wolf.
+
+01:14:32.280 --> 01:14:35.080
+You don't understand how a wolf works.
+
+01:14:35.080 --> 01:14:36.680
+The people who domesticated wolves
+
+01:14:36.680 --> 01:14:38.280
+had no idea how wolves worked.
+
+01:14:38.280 --> 01:14:39.680
+And we still don't.
+
+01:14:39.680 --> 01:14:41.480
+We know a lot more.
+
+01:14:41.480 --> 01:14:46.280
+But we evolved the wolves to be friendly to us.
+
+01:14:46.280 --> 01:14:49.280
+Because the ones that weren't friendly, we killed.
+
+01:14:49.280 --> 01:14:51.480
+And the ones that were friendly and worked with us
+
+01:14:51.480 --> 01:14:54.680
+got to eat with us and take our scraps and so on.
+
+01:14:54.680 --> 01:14:57.280
+So now I can confidently sleep next to my dog
+
+01:14:57.280 --> 01:15:00.080
+not worrying that it's going to jump on me.
+
+01:15:00.080 --> 01:15:03.480
+Same thing with even more reason.
+
+01:15:03.480 --> 01:15:05.880
+We can have robots in the AI that are very smart.
+
+01:15:05.880 --> 01:15:08.480
+But every day, every step of the way,
+
+01:15:08.480 --> 01:15:11.280
+we've been evolving them to do what we want.
+
+01:15:11.280 --> 01:15:13.680
+And now two things can happen.
+
+01:15:13.680 --> 01:15:15.480
+And these are really the two versions of the article.
+
+01:15:15.480 --> 01:15:20.080
+One is they were secretly evolving their own evil agenda.
+
+01:15:20.080 --> 01:15:21.880
+How would that happen?
+
+01:15:21.880 --> 01:15:23.280
+This seems to me very unlikely.
+
+01:15:23.280 --> 01:15:24.480
+Well, it would be evil for us.
+
+01:15:24.480 --> 01:15:25.680
+It's not going to be evil for them.
+
+01:15:25.680 --> 01:15:29.680
+For example, this is the example that Elon Musk is using
+
+01:15:29.680 --> 01:15:32.480
+as an exaggeration, just to make a point,
+
+01:15:32.480 --> 01:15:36.080
+that you ask an AI to get rid of spams
+
+01:15:36.080 --> 01:15:37.880
+and you'll end up killing all humans
+
+01:15:37.880 --> 01:15:39.880
+because humans are cause of the spam.
+
+01:15:39.880 --> 01:15:42.880
+It's not evil for AI.
+
+01:15:42.880 --> 01:15:43.680
+No, precisely.
+
+01:15:43.680 --> 01:15:46.280
+So that is the real alignment problem.
+
+01:15:46.280 --> 01:15:47.480
+So let me clarify here.
+
+01:15:47.480 --> 01:15:49.280
+What are the two versions of the alignment problem?
+
+01:15:49.280 --> 01:15:53.280
+One is that the AI has its own goals.
+
+01:15:53.280 --> 01:15:58.280
+It's thinking its own expansion and survival at our expense.
+
+01:15:58.280 --> 01:16:00.280
+Which is not possible, you're saying.
+
+01:16:00.280 --> 01:16:01.480
+It's possible.
+
+01:16:01.480 --> 01:16:04.080
+It's just very unlikely.
+
+01:16:04.080 --> 01:16:05.480
+And some people will make such AI
+
+01:16:05.480 --> 01:16:08.080
+because humans are crazy enough to try anything.
+
+01:16:08.080 --> 01:16:09.680
+But there's also criminals and police.
+
+01:16:09.680 --> 01:16:12.280
+And overall, the world has not been taken over by criminals.
+
+01:16:12.280 --> 01:16:13.880
+You need AI to fight AI.
+
+01:16:13.880 --> 01:16:16.480
+But I think on balance, that is not very likely.
+
+01:16:16.480 --> 01:16:19.280
+It's not impossible that my car will jump into the air
+
+01:16:19.280 --> 01:16:21.080
+by the laws of thermodynamics.
+
+01:16:21.080 --> 01:16:24.080
+But again, that's not what I worry about.
+
+01:16:24.080 --> 01:16:25.680
+I worry about not crashing it,
+
+01:16:25.680 --> 01:16:28.080
+which gets us back to the real alignment problem.
+
+01:16:28.080 --> 01:16:29.280
+The real alignment problem.
+
+01:16:29.280 --> 01:16:34.280
+And the Skynet scenario is something to worry about one day.
+
+01:16:34.280 --> 01:16:36.080
+Probably not very close.
+
+01:16:36.080 --> 01:16:38.480
+The real alignment problem is here now.
+
+01:16:38.480 --> 01:16:42.080
+It's precisely what you're talking about.
+
+01:16:42.080 --> 01:16:46.480
+The AI thinks it's doing what I want.
+
+01:16:46.480 --> 01:16:47.880
+But it isn't.
+
+01:16:47.880 --> 01:16:51.680
+Because the communication between us was bad.
+
+01:16:51.680 --> 01:16:53.280
+I just said to the AI,
+
+01:16:53.280 --> 01:16:56.080
+drive me to the airport as fast as you can.
+
+01:16:56.080 --> 01:16:58.880
+And the AI is stupid, so it runs 10 people over
+
+01:16:58.880 --> 01:17:00.480
+on the way to the airport.
+
+01:17:00.480 --> 01:17:03.480
+So the whole problem with alignment is that
+
+01:17:03.480 --> 01:17:06.680
+the bandwidth of communication between humans and machines
+
+01:17:06.680 --> 01:17:09.480
+has to be higher than it is today.
+
+01:17:09.480 --> 01:17:11.680
+The machines should spend like half of their time
+
+01:17:11.680 --> 01:17:13.680
+figuring out what we want.
+
+01:17:13.680 --> 01:17:17.080
+Because what we want is actually very complex and very subtle.
+
+01:17:17.080 --> 01:17:19.280
+And again, if you go back to the example of the engagement,
+
+01:17:19.280 --> 01:17:21.480
+of maximizing engagement,
+
+01:17:21.480 --> 01:17:22.680
+this is the problem.
+
+01:17:22.680 --> 01:17:25.880
+It's actually an instance, a very important instance today,
+
+01:17:25.880 --> 01:17:29.080
+of this problem is that I, the engineer,
+
+01:17:29.080 --> 01:17:32.280
+told the machine, go maximize engagement.
+
+01:17:32.280 --> 01:17:35.880
+And it is maximizing engagement with an unimaginable amount
+
+01:17:35.880 --> 01:17:39.080
+of data and computing power.
+
+01:17:39.080 --> 01:17:41.680
+And I don't even understand exactly what it's doing.
+
+01:17:41.680 --> 01:17:44.880
+But the problem is that it's maximizing engagement
+
+01:17:44.880 --> 01:17:47.680
+at the expense of all the other things that I do care about
+
+01:17:47.680 --> 01:17:49.080
+but forgot to tell it.
+
+01:17:49.080 --> 01:17:52.280
+Right, forgot to tell it, exactly.
+
+01:17:52.280 --> 01:17:55.080
+What an interesting way to put it, forgot to tell it.
+
+01:17:55.080 --> 01:17:57.880
+This is how we're destroying our world and civilization.
+
+01:17:57.880 --> 01:18:01.280
+We forgot to tell our machines what really matters to us.
+
+01:18:01.280 --> 01:18:04.280
+But is there any kind of a collective consensus on that,
+
+01:18:04.280 --> 01:18:06.280
+that what really matters to us?
+
+01:18:06.280 --> 01:18:08.880
+No, there isn't, which is again why the job,
+
+01:18:08.880 --> 01:18:11.880
+I strongly believe and again in opposition to a lot of this
+
+01:18:11.880 --> 01:18:15.880
+AI ethics crowd that our job as the computer scientists
+
+01:18:15.880 --> 01:18:20.280
+is not to embed our values into our programs.
+
+01:18:20.280 --> 01:18:24.680
+It's to make it easy for the users to embed their values.
+
+01:18:24.680 --> 01:18:25.480
+Yes.
+
+01:18:25.480 --> 01:18:28.880
+That's the whole power is that everybody can do a different thing
+
+01:18:28.880 --> 01:18:31.480
+and then societies will coalesce on some things
+
+01:18:31.480 --> 01:18:34.080
+and different societies will coalesce on different things
+
+01:18:34.080 --> 01:18:35.480
+and there'll be cooperation and competition
+
+01:18:35.480 --> 01:18:37.480
+and there is things we're not in the end.
+
+01:18:37.480 --> 01:18:41.480
+When I, the computer scientists say I am going to decide
+
+01:18:41.480 --> 01:18:45.280
+that this algorithm has to have this outcome
+
+01:18:45.280 --> 01:18:47.880
+because it's what I think is good,
+
+01:18:47.880 --> 01:18:51.280
+this is the utmost arrogance.
+
+01:18:51.280 --> 01:18:52.880
+Yeah, those are.
+
+01:18:52.880 --> 01:18:55.880
+Who authorizes me to do that? Nobody.
+
+01:18:55.880 --> 01:18:57.880
+Yeah, I mean those are exactly the kind of people
+
+01:18:57.880 --> 01:18:59.680
+who should not be in charge.
+
+01:18:59.680 --> 01:19:01.280
+Precisely, exactly.
+
+01:19:01.280 --> 01:19:04.080
+But those are the kind of people who will try very hard
+
+01:19:04.080 --> 01:19:07.680
+to be in charge and succeed unless you stop them.
+
+01:19:07.680 --> 01:19:11.280
+In fact, this is true in AI and it's true in academia at large
+
+01:19:11.280 --> 01:19:13.480
+is that the reason these, you know,
+
+01:19:13.480 --> 01:19:15.480
+Wokes or whatever you want to call them
+
+01:19:15.480 --> 01:19:17.880
+have been able to take over is that
+
+01:19:17.880 --> 01:19:19.280
+the great majority of the faculty,
+
+01:19:19.280 --> 01:19:20.880
+they just want to get on with their research
+
+01:19:20.880 --> 01:19:21.880
+in whatever their field is
+
+01:19:21.880 --> 01:19:23.480
+and they don't want to deal with all of this, right?
+
+01:19:23.480 --> 01:19:25.880
+The world is ruled by those who show up, right?
+
+01:19:25.880 --> 01:19:27.480
+I forget who said this, right?
+
+01:19:27.480 --> 01:19:29.880
+And most people aren't showing up, right?
+
+01:19:29.880 --> 01:19:31.880
+Unfortunately, it's usually the fanatics,
+
+01:19:31.880 --> 01:19:33.880
+the ones who show up, right?
+
+01:19:33.880 --> 01:19:36.680
+So would you say in academia and in the tech world,
+
+01:19:36.680 --> 01:19:40.680
+the woke is absolute minority, minority,
+
+01:19:40.680 --> 01:19:43.680
+or I don't think they're majority?
+
+01:19:43.680 --> 01:19:45.680
+I don't know and, you know,
+
+01:19:45.680 --> 01:19:48.880
+it's hard to find out for a number of reasons,
+
+01:19:48.880 --> 01:19:52.680
+but I'll give you a good example, right?
+
+01:19:52.680 --> 01:19:54.480
+A very empirical example, right?
+
+01:19:54.480 --> 01:19:58.480
+So I got involved in this whole debate
+
+01:19:58.480 --> 01:20:01.880
+when I started pushing back against the New York's requirements
+
+01:20:01.880 --> 01:20:06.480
+for broader impact sections in papers and ethical reviews,
+
+01:20:06.480 --> 01:20:10.480
+you know, that will forbid things like unfair algorithms and whatnot.
+
+01:20:10.480 --> 01:20:13.480
+And then, you know, we were debating this for a few days on Twitter.
+
+01:20:13.480 --> 01:20:14.480
+And then somebody said,
+
+01:20:14.480 --> 01:20:17.480
+well, Pedro says that the silent majority is on his side.
+
+01:20:17.480 --> 01:20:19.280
+Exactly what you're saying here.
+
+01:20:19.280 --> 01:20:22.280
+Why don't we do a poll?
+
+01:20:22.280 --> 01:20:24.680
+So, you know, so he set up a Twitter poll, right,
+
+01:20:24.680 --> 01:20:26.480
+with, you know, four alternatives.
+
+01:20:26.480 --> 01:20:29.880
+And in the beginning, we were winning.
+
+01:20:29.880 --> 01:20:33.080
+And that's when the cancel crowd jumped in.
+
+01:20:33.080 --> 01:20:35.480
+We weren't worried while we were having an academic discussion.
+
+01:20:35.480 --> 01:20:38.080
+Once there was a poll that would show.
+
+01:20:38.080 --> 01:20:39.480
+And again, I don't know if it's a majority.
+
+01:20:39.480 --> 01:20:40.280
+It might be a minority.
+
+01:20:40.280 --> 01:20:43.680
+But like the point is that like what they're trying to impose
+
+01:20:43.680 --> 01:20:46.080
+is the notion that like only a few lunatics
+
+01:20:46.080 --> 01:20:48.680
+or evil people disagree with us, right.
+
+01:20:48.680 --> 01:20:50.080
+And wherever that poll warmed up,
+
+01:20:50.080 --> 01:20:53.680
+it would show that there's at least a sizable minority of people,
+
+01:20:53.680 --> 01:20:55.280
+you know, on this side.
+
+01:20:55.280 --> 01:20:58.480
+And again, there was a poll in Europe about the name change
+
+01:20:58.480 --> 01:21:02.080
+and, you know, to change it from NIPS to the more political correct
+
+01:21:02.080 --> 01:21:05.880
+New York's, you know, the NIPS Foundation actually carried out
+
+01:21:05.880 --> 01:21:07.680
+this poll of the membership, right,
+
+01:21:07.680 --> 01:21:12.680
+and the non politically correct version one.
+
+01:21:12.680 --> 01:21:15.680
+So there have been some polls of these things that actually show,
+
+01:21:15.680 --> 01:21:18.880
+you know, I don't know if again, it may depend on the issue
+
+01:21:18.880 --> 01:21:19.880
+and how you ask the question,
+
+01:21:19.880 --> 01:21:22.880
+but you've cited the majority or a large fraction.
+
+01:21:22.880 --> 01:21:29.280
+So what I would say is like there's the larger bunch of people
+
+01:21:29.280 --> 01:21:33.480
+is people who are either unaware.
+
+01:21:33.480 --> 01:21:36.080
+A lot of people just don't know what's going on.
+
+01:21:36.080 --> 01:21:38.480
+One of the things that I find amazing is all the people saying like
+
+01:21:38.480 --> 01:21:41.680
+there's no cancel culture.
+
+01:21:41.680 --> 01:21:44.480
+After all the people who have their lives destroyed, right,
+
+01:21:44.480 --> 01:21:48.280
+like, you know, or like, oh, this is just a few entitled professors
+
+01:21:48.280 --> 01:21:49.680
+worrying about their privileges.
+
+01:21:49.680 --> 01:21:52.480
+And what about the journalists and the high school students
+
+01:21:52.480 --> 01:21:53.280
+who have been canceled, right?
+
+01:21:53.280 --> 01:21:56.280
+But unfortunately, there's a lot of people who don't know what's going on.
+
+01:21:56.280 --> 01:21:58.080
+Again, it goes back to like the two movies, right?
+
+01:21:58.080 --> 01:22:00.080
+A lot of people are only seeing one movie, right?
+
+01:22:00.080 --> 01:22:02.280
+If you can deny that there were riots this summer,
+
+01:22:02.280 --> 01:22:04.880
+why can't you deny that there's cancel culture, right?
+
+01:22:04.880 --> 01:22:07.480
+So there's a lot of people who are oblivious, right?
+
+01:22:07.480 --> 01:22:09.280
+And then there's a lot of people
+
+01:22:09.280 --> 01:22:11.280
+and I don't know which of these two groups is larger
+
+01:22:11.280 --> 01:22:17.880
+and it varies, who they are not oblivious, but they're afraid to speak up.
+
+01:22:17.880 --> 01:22:22.680
+If all that we do is raise awareness among the people
+
+01:22:22.680 --> 01:22:27.280
+who are oblivious so that they no longer are and, you know,
+
+01:22:27.280 --> 01:22:31.680
+lower the bar for how much courage it needs to speak up,
+
+01:22:31.680 --> 01:22:33.480
+then we're winning.
+
+01:22:33.480 --> 01:22:37.080
+I think the true fanatics are actually very few.
+
+01:22:37.080 --> 01:22:38.480
+On both sides.
+
+01:22:38.480 --> 01:22:39.280
+Yeah, on both sides.
+
+01:22:39.280 --> 01:22:41.680
+There's no doubt that the true fanatics are very few.
+
+01:22:41.680 --> 01:22:43.680
+But the problem, the whole problem,
+
+01:22:43.680 --> 01:22:47.480
+is that they have a disproportionate amount of power.
+
+01:22:47.480 --> 01:22:49.880
+Part of why they have that power is what I was just saying.
+
+01:22:49.880 --> 01:22:51.080
+They show up.
+
+01:22:51.080 --> 01:22:54.480
+They systematically take control of these organizations,
+
+01:22:54.480 --> 01:22:56.080
+including scientific ones,
+
+01:22:56.080 --> 01:22:59.080
+and then they say, science says.
+
+01:22:59.080 --> 01:23:00.680
+Science is saddled.
+
+01:23:00.680 --> 01:23:02.280
+Yeah, because they took control.
+
+01:23:02.280 --> 01:23:04.080
+They took the trouble to take control, right?
+
+01:23:04.080 --> 01:23:05.680
+Again, that's what they do for a living, you know,
+
+01:23:05.680 --> 01:23:07.680
+like some of us do research for a living,
+
+01:23:07.680 --> 01:23:09.880
+others, you know, do this, right?
+
+01:23:09.880 --> 01:23:12.880
+And then they are able to manipulate
+
+01:23:12.880 --> 01:23:13.880
+the other people around them.
+
+01:23:13.880 --> 01:23:15.880
+Some of them, they convince them with kind of like
+
+01:23:15.880 --> 01:23:18.080
+these superficial arguments, right?
+
+01:23:18.080 --> 01:23:20.880
+There was this, you know, very famous category of people
+
+01:23:20.880 --> 01:23:23.080
+in the Soviet Union, right, which is now forgotten,
+
+01:23:23.080 --> 01:23:26.680
+which was the useful idiot.
+
+01:23:26.680 --> 01:23:29.280
+There are a lot of, it pains me to say this,
+
+01:23:29.280 --> 01:23:31.880
+but there are a lot of useful idiots in America today.
+
+01:23:31.880 --> 01:23:33.280
+And Canada.
+
+01:23:33.280 --> 01:23:36.480
+Yeah, I mean, in many other countries, right?
+
+01:23:36.480 --> 01:23:38.480
+In Britain, you know, Australia, et cetera, et cetera,
+
+01:23:38.480 --> 01:23:40.880
+like more in the English speaking world, but yeah.
+
+01:23:40.880 --> 01:23:42.880
+What is a useful idiot is someone who like
+
+01:23:42.880 --> 01:23:44.880
+does the bidding of the radicals
+
+01:23:44.880 --> 01:23:47.480
+without realizing that they're being apt,
+
+01:23:47.480 --> 01:23:49.080
+they're being duped.
+
+01:23:49.080 --> 01:23:51.480
+And you know, like I could pick out random, you know,
+
+01:23:51.480 --> 01:23:53.880
+professors from academia and like, you know,
+
+01:23:53.880 --> 01:23:56.480
+every, you know, every other one of them
+
+01:23:56.480 --> 01:23:58.880
+would be a useful idiot, unfortunately.
+
+01:23:58.880 --> 01:24:01.080
+But the thing, but the good news is like,
+
+01:24:01.080 --> 01:24:03.680
+you know, useful idiots are not, you know,
+
+01:24:03.680 --> 01:24:06.880
+they're not typically not stupid, at least not in academia.
+
+01:24:06.880 --> 01:24:09.680
+They're not, you know, it's not that people are
+
+01:24:11.680 --> 01:24:13.880
+intrinsically stupid or something like that.
+
+01:24:13.880 --> 01:24:16.280
+They just haven't been paying attention, right?
+
+01:24:16.280 --> 01:24:19.280
+The thing in academia is that you have a lot of people
+
+01:24:19.280 --> 01:24:22.080
+who are extremely smart, but they,
+
+01:24:22.080 --> 01:24:23.680
+I mean, first of all, quick parenthesis,
+
+01:24:23.680 --> 01:24:24.880
+they tend to forget that they're not
+
+01:24:24.880 --> 01:24:26.280
+the only smart people in the world, right?
+
+01:24:26.280 --> 01:24:28.680
+One of the things that feeds this is like this perception
+
+01:24:28.680 --> 01:24:32.280
+of like, we know the masses are stupid
+
+01:24:32.280 --> 01:24:33.480
+and we know what's good for them.
+
+01:24:33.480 --> 01:24:35.080
+This drives me nuts, right?
+
+01:24:35.080 --> 01:24:36.480
+Or better, basically.
+
+01:24:36.480 --> 01:24:38.680
+Yeah, the masses are more intelligent
+
+01:24:38.680 --> 01:24:40.680
+than you can imagine, right?
+
+01:24:40.680 --> 01:24:43.280
+It's like, you know, I may be smarter
+
+01:24:43.280 --> 01:24:46.680
+than some random person on the streets, right?
+
+01:24:46.680 --> 01:24:50.280
+But there's like, you know, but that's not the question.
+
+01:24:50.280 --> 01:24:52.880
+The question is like, how much of the total intelligence
+
+01:24:52.880 --> 01:24:54.880
+of humanity is my intelligence?
+
+01:24:54.880 --> 01:24:57.080
+Even if I'm 10 times smarter than the other guy
+
+01:24:57.080 --> 01:25:00.080
+on the street, I'm still only one 700 million
+
+01:25:00.080 --> 01:25:01.280
+of the intelligence, but it's like,
+
+01:25:01.280 --> 01:25:03.080
+it doesn't bear comparison, right?
+
+01:25:03.080 --> 01:25:04.280
+That's why markets work better
+
+01:25:04.280 --> 01:25:05.680
+than centralized governments and so on.
+
+01:25:05.680 --> 01:25:07.480
+So that's one parenthesis.
+
+01:25:07.480 --> 01:25:10.680
+But the other side of this is that the problem
+
+01:25:10.680 --> 01:25:12.680
+in academia is that you have these very smart people
+
+01:25:12.680 --> 01:25:15.280
+that have invested their intelligence
+
+01:25:15.280 --> 01:25:18.480
+in a very narrow field.
+
+01:25:18.480 --> 01:25:19.880
+And that's all they know about.
+
+01:25:19.880 --> 01:25:22.280
+And that's, it's necessary, right?
+
+01:25:22.280 --> 01:25:24.480
+You could say it's a necessary evil, right?
+
+01:25:24.480 --> 01:25:26.280
+But that's how they get to be good at it.
+
+01:25:26.280 --> 01:25:29.880
+And in the process, they are actually extremely ignorant
+
+01:25:29.880 --> 01:25:32.680
+about a lot of other things.
+
+01:25:32.680 --> 01:25:37.080
+But they have the arrogance of knowing that they're smart.
+
+01:25:37.080 --> 01:25:40.080
+And then like people from other fields, right,
+
+01:25:40.080 --> 01:25:41.880
+come and say something to them.
+
+01:25:41.880 --> 01:25:45.480
+And then they, I mean, I've had this experience like over
+
+01:25:45.480 --> 01:25:48.080
+and over again talking with colleagues of mine.
+
+01:25:48.080 --> 01:25:50.480
+There are very smart people, right?
+
+01:25:50.480 --> 01:25:52.080
+Talking about these issues like, you know,
+
+01:25:52.080 --> 01:25:53.880
+these sociological issues like, you know,
+
+01:25:53.880 --> 01:25:55.480
+should there be preferences, you know,
+
+01:25:55.480 --> 01:25:58.480
+should we do affirmative action in hiring and so on and so forth.
+
+01:25:58.480 --> 01:26:01.880
+And immediately I noticed that like they do not know the first
+
+01:26:01.880 --> 01:26:04.680
+thing about what is being debated.
+
+01:26:04.680 --> 01:26:07.280
+And the ones who took the time to persuade them, you know,
+
+01:26:07.280 --> 01:26:08.280
+prevail.
+
+01:26:08.280 --> 01:26:11.480
+Another great example of this is climate science, right?
+
+01:26:11.480 --> 01:26:13.680
+Climate science, it's physical science, right?
+
+01:26:13.680 --> 01:26:14.680
+The science is settled.
+
+01:26:14.680 --> 01:26:17.280
+It's not even remotely settled.
+
+01:26:17.280 --> 01:26:20.480
+But I've lost count of the number of fellow scientists
+
+01:26:20.480 --> 01:26:22.880
+who are not climate scientists, right,
+
+01:26:22.880 --> 01:26:24.480
+who think they know climate science.
+
+01:26:24.480 --> 01:26:28.680
+But in fact, all they know is what they've read in the media.
+
+01:26:28.680 --> 01:26:31.880
+You know, to politicize narrative about that topic.
+
+01:26:31.880 --> 01:26:38.880
+Yeah, but then they expound it on the back of their scientific
+
+01:26:38.880 --> 01:26:40.280
+expertise.
+
+01:26:40.280 --> 01:26:41.680
+It's like, I'm a scientist.
+
+01:26:41.680 --> 01:26:45.480
+I know that XYZ will actually know you don't, right?
+
+01:26:45.480 --> 01:26:48.080
+Go read the papers in Nature Science, blah, blah, blah, blah.
+
+01:26:48.080 --> 01:26:50.280
+Because they never did, right?
+
+01:26:50.280 --> 01:26:53.280
+I mean, again, you know, I'm of a skeptical bent when this
+
+01:26:53.280 --> 01:26:54.880
+whole climate thing started happening.
+
+01:26:54.880 --> 01:26:56.880
+At first I read things and I was very alarmed.
+
+01:26:56.880 --> 01:27:01.280
+And I said, let me go read some of those IPCC reports.
+
+01:27:01.280 --> 01:27:03.480
+First I read the executive summaries and then section of
+
+01:27:03.480 --> 01:27:05.880
+the reports and then actually went and started reading,
+
+01:27:05.880 --> 01:27:08.080
+you know, the actual papers.
+
+01:27:08.080 --> 01:27:13.080
+And every level of this that you go creates a much different
+
+01:27:13.080 --> 01:27:16.880
+picture from the one that the activists created for you.
+
+01:27:16.880 --> 01:27:19.880
+But most scientists, again, they've never even read the
+
+01:27:19.880 --> 01:27:22.680
+executive summary of the IPCC reports.
+
+01:27:22.680 --> 01:27:26.280
+They just have this story that was told to them as it was told
+
+01:27:26.280 --> 01:27:27.480
+to everybody else.
+
+01:27:27.480 --> 01:27:29.680
+Whereas everybody else might have some modest, like, well,
+
+01:27:29.680 --> 01:27:30.680
+I'm not a scientist.
+
+01:27:30.680 --> 01:27:32.080
+I don't know, right?
+
+01:27:32.080 --> 01:27:34.280
+You have someone who's a computer scientist that says like,
+
+01:27:34.280 --> 01:27:37.080
+oh, you know, this is the science of climate science,
+
+01:27:37.080 --> 01:27:37.680
+right?
+
+01:27:37.680 --> 01:27:39.480
+But they don't know anything about it.
+
+01:27:39.480 --> 01:27:44.280
+But then they bring their, you know, self-image as a superior
+
+01:27:44.280 --> 01:27:48.680
+intelligence to this debate, you know, even though paradoxically
+
+01:27:48.680 --> 01:27:51.480
+they actually know much less about this particular issue than
+
+01:27:51.480 --> 01:27:54.880
+a lot of people who are just engineers or whoever, right, who
+
+01:27:54.880 --> 01:27:57.080
+actually took the time to look into it.
+
+01:27:57.080 --> 01:28:01.080
+It's such a perfect kind of a facade to the climate science
+
+01:28:01.080 --> 01:28:04.480
+and climate change because I was reading about it two days
+
+01:28:04.480 --> 01:28:09.280
+ago how they're targeting Bitcoin now right after Tesla
+
+01:28:09.280 --> 01:28:12.080
+invested more than a billion dollars in Bitcoin and it's an
+
+01:28:12.080 --> 01:28:15.880
+alternative monetary financial system, basically.
+
+01:28:15.880 --> 01:28:17.280
+And now they're targeting it.
+
+01:28:17.280 --> 01:28:21.280
+It creates a lot of heat and energy waste more than Argentina.
+
+01:28:21.280 --> 01:28:23.880
+So the game is so obvious.
+
+01:28:23.880 --> 01:28:26.680
+But I think one of the good news actually is that they're
+
+01:28:26.680 --> 01:28:31.680
+overplaying their hand in such a rate that more and more people
+
+01:28:31.680 --> 01:28:35.980
+are realizing it because as you just said earlier, it's affecting
+
+01:28:35.980 --> 01:28:38.780
+their kids and their future and their education.
+
+01:28:38.780 --> 01:28:42.680
+France, for example, came out and said this woke ism out of
+
+01:28:42.680 --> 01:28:46.380
+control leftism in the US is a problem for us because it
+
+01:28:46.380 --> 01:28:49.080
+targets our nationality and identity and all of that.
+
+01:28:49.080 --> 01:28:52.280
+So maybe that's a good news that, you know, we kind of feel
+
+01:28:52.280 --> 01:28:54.680
+like they they've gone completely out of their minds,
+
+01:28:54.680 --> 01:28:57.280
+but they really show who they are to more and more people.
+
+01:28:57.680 --> 01:29:00.780
+No, I actually historically you see this happening, right?
+
+01:29:00.780 --> 01:29:04.080
+McCarthyism ended when McCarthy overplayed his hand by attacking
+
+01:29:04.080 --> 01:29:07.280
+the army and people like well at long last that, you know,
+
+01:29:07.280 --> 01:29:08.680
+decency, right?
+
+01:29:08.680 --> 01:29:11.180
+So a lot of these witch hunts and so on a lot of these
+
+01:29:11.180 --> 01:29:14.180
+movements they do fail when they overplay their hand because
+
+01:29:14.180 --> 01:29:17.480
+again the people inside the movement don't see just how they
+
+01:29:17.480 --> 01:29:19.680
+diverging from reality, right?
+
+01:29:19.680 --> 01:29:22.080
+And I think some of that will happen here, right?
+
+01:29:22.080 --> 01:29:24.980
+And you know, perversely in that regards, you know, the sooner
+
+01:29:24.980 --> 01:29:26.180
+they overplay their hand the better.
+
+01:29:26.180 --> 01:29:29.380
+So let them go hogwash, you know, you know, let you know provoke
+
+01:29:29.380 --> 01:29:32.480
+them to be even more extreme such that this will illustrate
+
+01:29:32.480 --> 01:29:34.180
+to people just how off-base they are.
+
+01:29:35.380 --> 01:29:38.780
+Unfortunately, the downside and maybe that's what will happen,
+
+01:29:38.780 --> 01:29:39.080
+right?
+
+01:29:39.080 --> 01:29:40.680
+I think that they will probably be part of it.
+
+01:29:40.680 --> 01:29:44.680
+It's already happening in some realms that that the downside
+
+01:29:44.680 --> 01:29:47.280
+of that is that it's a very high-cost way of bringing this
+
+01:29:47.280 --> 01:29:48.280
+to an end, right?
+
+01:29:48.380 --> 01:29:49.880
+Because while they're overplaying their hand, they're
+
+01:29:49.880 --> 01:29:51.080
+actually hurting the people.
+
+01:29:51.080 --> 01:29:54.980
+So I'd rather, you know, stop this before that level of damage
+
+01:29:54.980 --> 01:29:55.480
+happens.
+
+01:29:55.480 --> 01:29:59.080
+I think at this point some level of that damage is unavoidable
+
+01:29:59.080 --> 01:30:00.280
+and is already happening.
+
+01:30:01.780 --> 01:30:02.980
+Sorry, my dogs.
+
+01:30:05.780 --> 01:30:09.180
+Let me read one other quote from your book and I have maybe
+
+01:30:09.180 --> 01:30:10.480
+two or three more questions.
+
+01:30:10.480 --> 01:30:11.780
+Thank you so much for your time.
+
+01:30:11.780 --> 01:30:12.980
+This has been an honor.
+
+01:30:14.380 --> 01:30:17.480
+Your quote is you could even say that the God of Genesis
+
+01:30:17.480 --> 01:30:20.680
+himself is a programmer language, not manipulation is
+
+01:30:20.680 --> 01:30:22.280
+his tool of creation.
+
+01:30:22.280 --> 01:30:28.880
+Words become worlds beautiful and should I assume that you
+
+01:30:28.880 --> 01:30:33.980
+believe in the simulation hypothesis?
+
+01:30:35.980 --> 01:30:38.980
+I mean just to give you the context for that quote, right?
+
+01:30:38.980 --> 01:30:40.880
+I'm talking about being a programmer.
+
+01:30:41.980 --> 01:30:46.280
+Right and and how being a programmer is it is that heart
+
+01:30:46.280 --> 01:30:47.880
+a creative activity, right?
+
+01:30:47.880 --> 01:30:51.780
+The thing that's beautiful about computer science is this
+
+01:30:51.780 --> 01:30:53.280
+is more than anything else.
+
+01:30:53.280 --> 01:30:57.380
+Why I went into computer science is there's so much range
+
+01:30:57.380 --> 01:30:58.180
+to create.
+
+01:30:58.980 --> 01:31:02.080
+You can create a movie, a piece of music, you can create
+
+01:31:02.080 --> 01:31:05.980
+a book, but with programs with computers, you can create
+
+01:31:05.980 --> 01:31:06.580
+the world.
+
+01:31:08.180 --> 01:31:10.680
+Not just, you know, a world that you describe on the page,
+
+01:31:10.680 --> 01:31:14.380
+but actually a real moving world that people can interact
+
+01:31:14.380 --> 01:31:18.080
+with and you can create a very very rich world.
+
+01:31:18.280 --> 01:31:20.980
+Now the downside of that is that as every programmer knows
+
+01:31:20.980 --> 01:31:22.080
+is that it's hard, right?
+
+01:31:22.080 --> 01:31:22.980
+You know, there's bugs.
+
+01:31:22.980 --> 01:31:25.280
+There's like, you know, you will spend a lot of your time
+
+01:31:25.280 --> 01:31:27.280
+just, you know, shoveling crap and whatnot.
+
+01:31:27.280 --> 01:31:30.180
+But at the end of the day a programmer is a miniature God.
+
+01:31:31.380 --> 01:31:34.780
+Right and I think a lot of people unfortunately don't
+
+01:31:34.780 --> 01:31:37.180
+go into computer science because they get exposed to
+
+01:31:37.180 --> 01:31:39.880
+like computer science 101, which is, you know, learning
+
+01:31:39.880 --> 01:31:43.580
+how to program in Java, which is all the unpleasant stuff
+
+01:31:43.580 --> 01:31:44.680
+and none of the interesting.
+
+01:31:46.080 --> 01:31:49.080
+It's like, you know, it's like if you design a course to
+
+01:31:49.080 --> 01:31:51.580
+make computer science unappealing to people, it would
+
+01:31:51.580 --> 01:31:54.480
+be what most, you know, programming 101 courses are.
+
+01:31:55.280 --> 01:31:57.580
+So, you know, in part of what I'm trying to explain in
+
+01:31:57.580 --> 01:32:00.380
+that, in that chapter, right, is like the larger context
+
+01:32:00.380 --> 01:32:04.580
+of computer science around, around AI and why, you know,
+
+01:32:04.580 --> 01:32:06.680
+and why there's so much power, right?
+
+01:32:07.080 --> 01:32:09.680
+I literally, the whole reason why computer science is
+
+01:32:09.680 --> 01:32:13.180
+powerful is that once I have taken that trouble of creating
+
+01:32:13.180 --> 01:32:17.080
+that, you know, world, small or large, it will then work
+
+01:32:17.080 --> 01:32:18.680
+by itself, right?
+
+01:32:19.080 --> 01:32:21.580
+That's why you can have, you know, WhatsApp, a company
+
+01:32:21.580 --> 01:32:23.980
+created by, you know, a dozen people in a couple of years,
+
+01:32:23.980 --> 01:32:26.880
+you know, being sold to Facebook for what, 12 million,
+
+01:32:26.880 --> 01:32:28.480
+12 billion dollars, right?
+
+01:32:28.580 --> 01:32:30.780
+How can that small number of people make that big of
+
+01:32:30.780 --> 01:32:31.280
+a difference?
+
+01:32:31.380 --> 01:32:32.680
+It's because of this, right?
+
+01:32:32.780 --> 01:32:35.380
+And so I'm making an analysis and then interestingly,
+
+01:32:35.480 --> 01:32:38.480
+right, the God of Genesis, right, the whole story of
+
+01:32:38.480 --> 01:32:40.380
+Genesis starts with the word, right?
+
+01:32:40.380 --> 01:32:41.680
+In the beginning was the word.
+
+01:32:41.680 --> 01:32:44.580
+So the idea is that like, you know, we tend to think of
+
+01:32:44.580 --> 01:32:47.580
+language as something that originates in the world after,
+
+01:32:47.580 --> 01:32:49.580
+you know, many things that went before, right?
+
+01:32:49.680 --> 01:32:51.880
+But you can also look at it the other way, where, you know,
+
+01:32:51.880 --> 01:32:53.780
+like there are a lot of words that start with language
+
+01:32:53.780 --> 01:32:55.580
+because they're defined in language, right?
+
+01:32:55.780 --> 01:32:58.280
+Now, of course, the simulation hypothesis that, yeah, we
+
+01:32:58.280 --> 01:32:59.980
+are all in a simulation, right?
+
+01:33:00.380 --> 01:33:05.580
+And I was very fascinated that that hypothesis for about
+
+01:33:05.580 --> 01:33:08.880
+six months when I was maybe 20, right?
+
+01:33:08.880 --> 01:33:12.680
+And then because it is kind of really fascinating, right?
+
+01:33:12.980 --> 01:33:15.580
+But then after a while you realize the following is well,
+
+01:33:16.480 --> 01:33:18.780
+I don't know if this hypothesis is true or false, but either
+
+01:33:18.780 --> 01:33:21.880
+why you have to test it or I don't, right?
+
+01:33:22.480 --> 01:33:25.380
+And I almost by definition, I can't think of a way to test
+
+01:33:25.380 --> 01:33:27.180
+that hypothesis, right?
+
+01:33:27.380 --> 01:33:29.680
+If there's a way to test it by God, we should be all over
+
+01:33:29.680 --> 01:33:32.180
+it. But if there isn't a way to test it, then you know,
+
+01:33:32.180 --> 01:33:33.680
+it's pointless to worry about it.
+
+01:33:34.480 --> 01:33:36.080
+Maybe we're on a computer tomorrow.
+
+01:33:36.080 --> 01:33:38.680
+Someone will pull the plug, but you know, I have no way
+
+01:33:38.680 --> 01:33:42.280
+of knowing. So in a way, the simulation hypothesis is a
+
+01:33:42.280 --> 01:33:44.880
+metaphysical hypothesis because it's not something we can
+
+01:33:44.880 --> 01:33:46.980
+actually think much.
+
+01:33:46.980 --> 01:33:50.680
+I mean, we can, it's a great motif for like scientific,
+
+01:33:50.680 --> 01:33:53.380
+you know, speculation and science fiction and whatnot.
+
+01:33:53.780 --> 01:33:56.980
+But you know, my point of view about a lot of these questions
+
+01:33:56.980 --> 01:33:58.980
+is about, you know, as things like, you know, does God exist
+
+01:33:58.980 --> 01:34:03.180
+and whatnot is like we do not have the ability, you know,
+
+01:34:03.580 --> 01:34:06.880
+language gives us the ability to ask more questions than
+
+01:34:06.880 --> 01:34:07.680
+we can answer.
+
+01:34:07.680 --> 01:34:08.880
+And this is one of them.
+
+01:34:10.980 --> 01:34:15.380
+I find it really helpful to think of maybe smaller
+
+01:34:15.780 --> 01:34:20.080
+simulation models that the society that we are experiencing
+
+01:34:20.080 --> 01:34:23.380
+it doesn't necessarily have to be a digital simulation.
+
+01:34:23.980 --> 01:34:27.980
+Just the reality that has been created for many, many
+
+01:34:27.980 --> 01:34:31.780
+centuries, I would say, by people, power holders that,
+
+01:34:31.780 --> 01:34:34.080
+you know, people were reading news from very specific kind
+
+01:34:34.080 --> 01:34:38.580
+of sources and media was kind of projecting a specific kind
+
+01:34:38.580 --> 01:34:39.180
+of a message.
+
+01:34:39.180 --> 01:34:43.380
+So a true man show like kind of a life that most people are
+
+01:34:43.380 --> 01:34:46.380
+experiencing itself can be looked at at some kind of a
+
+01:34:46.380 --> 01:34:47.380
+simulation, right?
+
+01:34:48.180 --> 01:34:48.980
+I agree with that.
+
+01:34:48.980 --> 01:34:54.280
+So part of what every society does, every culture is
+
+01:34:54.280 --> 01:34:55.380
+constructive reality.
+
+01:34:56.680 --> 01:34:58.880
+People in different societies truly live in different
+
+01:34:58.880 --> 01:34:59.380
+realities.
+
+01:34:59.580 --> 01:35:01.980
+People in the Middle Ages just live in a different reality
+
+01:35:01.980 --> 01:35:05.680
+from the world was the same, but their reality was completely
+
+01:35:05.680 --> 01:35:09.180
+different based on their need and objectives and experience.
+
+01:35:09.580 --> 01:35:12.280
+No, I'm like, you know, they believe that, you know, I
+
+01:35:12.280 --> 01:35:15.780
+think even at least, you know, in the West, even people
+
+01:35:15.780 --> 01:35:18.780
+who are very strong believers in the Christian God do not
+
+01:35:18.780 --> 01:35:21.580
+believe in him the same way that people in the Middle Ages
+
+01:35:22.080 --> 01:35:24.980
+in the Middle Ages, like God was with you every second
+
+01:35:24.980 --> 01:35:27.980
+of the day or like like some cultures believe that your
+
+01:35:27.980 --> 01:35:29.480
+ancestors are watching over you.
+
+01:35:29.480 --> 01:35:32.680
+And it's like you really are every day thinking about what
+
+01:35:32.680 --> 01:35:34.680
+your ancestors are doing looking at you, right?
+
+01:35:35.080 --> 01:35:37.980
+And you could debate to what extent there is metaphorical
+
+01:35:37.980 --> 01:35:40.480
+or not to what extent people really do believe in these
+
+01:35:40.480 --> 01:35:42.380
+gods the same way they believe in reality.
+
+01:35:42.580 --> 01:35:46.580
+But the bottom line is this is informs what they think every
+
+01:35:46.580 --> 01:35:47.980
+every moment of the day, right?
+
+01:35:48.380 --> 01:35:52.980
+And I think the society that we have today is actually
+
+01:35:52.980 --> 01:35:54.980
+no exception, right?
+
+01:35:54.980 --> 01:35:57.380
+In fact, there was a philosopher I forget who that said
+
+01:35:57.380 --> 01:35:58.980
+something that I thought was incredibly insightful.
+
+01:35:58.980 --> 01:36:03.480
+Which was that science is the mode of perception of
+
+01:36:03.480 --> 01:36:04.580
+industrial society.
+
+01:36:06.280 --> 01:36:07.880
+It is also a mode of perception.
+
+01:36:08.380 --> 01:36:11.380
+It is one that is particularly good at being in tune with
+
+01:36:11.380 --> 01:36:11.980
+reality.
+
+01:36:11.980 --> 01:36:14.480
+And that's what makes it powerful, but it's still a mode
+
+01:36:14.480 --> 01:36:16.580
+of perception that against science a hundred years from
+
+01:36:16.580 --> 01:36:18.980
+now could look very different from science now.
+
+01:36:19.180 --> 01:36:22.880
+In fact, science now is already, you know, the scientific
+
+01:36:22.880 --> 01:36:25.580
+mode of perception today is very different from the scientific
+
+01:36:25.580 --> 01:36:27.580
+mode of perception 200 years ago.
+
+01:36:27.580 --> 01:36:31.080
+So this is part of what science society societies do is
+
+01:36:31.080 --> 01:36:32.180
+they construct this reality.
+
+01:36:32.180 --> 01:36:35.080
+In fact, your brain constructs a reality, right?
+
+01:36:35.080 --> 01:36:39.380
+Vision researchers say that vision is controlled hallucination.
+
+01:36:40.880 --> 01:36:42.280
+And this is exactly right, right?
+
+01:36:42.280 --> 01:36:44.780
+Like, you know, you don't actually see things.
+
+01:36:45.480 --> 01:36:48.280
+You see what your brain has conjured up in response to
+
+01:36:48.280 --> 01:36:49.080
+the stimuli.
+
+01:36:50.180 --> 01:36:52.180
+But every object that you see in the world is actually a
+
+01:36:52.180 --> 01:36:53.980
+creation of your brain, right?
+
+01:36:53.980 --> 01:36:56.280
+That hopefully lines up with something that's in the world,
+
+01:36:56.280 --> 01:36:58.280
+but you only interfaces those photons.
+
+01:36:58.580 --> 01:37:00.680
+So there is an objective reality.
+
+01:37:00.680 --> 01:37:03.780
+We are having a subjective experience of it.
+
+01:37:04.080 --> 01:37:07.280
+And meanwhile, there are people who are trying to define
+
+01:37:07.280 --> 01:37:10.380
+and orbit those subjective experiences in an objective
+
+01:37:10.380 --> 01:37:11.080
+kind of a way.
+
+01:37:11.780 --> 01:37:11.980
+Yeah.
+
+01:37:11.980 --> 01:37:14.180
+So throughout human history.
+
+01:37:14.680 --> 01:37:15.080
+Yeah.
+
+01:37:15.080 --> 01:37:19.680
+And you know, to answer this question squarely, is there
+
+01:37:19.680 --> 01:37:20.880
+an objective reality?
+
+01:37:21.580 --> 01:37:23.180
+I believe that there is.
+
+01:37:23.180 --> 01:37:27.180
+I also believe that just as the simulation there is no final
+
+01:37:27.180 --> 01:37:30.680
+test that you can use to say, oh, this is the objective
+
+01:37:30.680 --> 01:37:31.680
+reality, right?
+
+01:37:31.680 --> 01:37:35.280
+Precisely because we do not have direct access to it, right?
+
+01:37:35.280 --> 01:37:37.880
+But now, you know, here's a crucial question, right?
+
+01:37:37.880 --> 01:37:40.080
+Which gets to the whole, you know, social problem around
+
+01:37:40.080 --> 01:37:42.780
+this is, are we better off?
+
+01:37:43.580 --> 01:37:47.280
+Assuming that there's an objective reality and we should
+
+01:37:47.280 --> 01:37:50.780
+try to find out what it is and converge on it, try to agree.
+
+01:37:50.780 --> 01:37:54.480
+The point of there being an objective reality is that you
+
+01:37:54.480 --> 01:37:56.480
+and I should be able to agree on it.
+
+01:37:57.580 --> 01:38:01.080
+I don't have access to it regardless of our state.
+
+01:38:01.380 --> 01:38:01.880
+Yeah.
+
+01:38:02.080 --> 01:38:06.480
+And if we disagree, there should be a test that shows, oh,
+
+01:38:06.480 --> 01:38:06.880
+you're right.
+
+01:38:06.880 --> 01:38:07.380
+I'm wrong.
+
+01:38:07.380 --> 01:38:09.480
+So now I will change my beliefs, right?
+
+01:38:10.180 --> 01:38:13.980
+Once you do like, you know, these postmodernists and critical
+
+01:38:13.980 --> 01:38:16.880
+theorists and whatnot and say like, oh, no, no, no, no, there's
+
+01:38:16.880 --> 01:38:17.980
+no objective reality.
+
+01:38:17.980 --> 01:38:20.280
+There's just everybody has their own, you know, you have
+
+01:38:20.280 --> 01:38:21.580
+your own knowledge, right?
+
+01:38:22.280 --> 01:38:25.880
+The problem with this is that it destroys the fabric of society.
+
+01:38:26.680 --> 01:38:30.580
+It means we are no longer trying to converge on something, right?
+
+01:38:30.680 --> 01:38:33.480
+There's no longer, you know, it's like, you know, there's
+
+01:38:33.480 --> 01:38:40.280
+this hyping of like the lived experience, right?
+
+01:38:40.480 --> 01:38:42.780
+The lived experience is more important than science.
+
+01:38:42.780 --> 01:38:45.380
+I mean, I understand we all have a lived experience, but the
+
+01:38:45.380 --> 01:38:49.880
+problem with that is that if that's the criteria, then, you
+
+01:38:49.880 --> 01:38:51.380
+know, we can't talk anymore.
+
+01:38:51.780 --> 01:38:54.480
+My lived experience cannot be refuted by you.
+
+01:38:55.680 --> 01:38:59.080
+If I say you were discriminating against me, it's my lived
+
+01:38:59.080 --> 01:38:59.680
+experience.
+
+01:38:59.680 --> 01:39:00.880
+You're not allowed to disagree.
+
+01:39:01.080 --> 01:39:01.580
+Right.
+
+01:39:01.980 --> 01:39:02.280
+Right.
+
+01:39:02.480 --> 01:39:05.180
+If we agree that there's an objective reality, we go like,
+
+01:39:05.280 --> 01:39:07.880
+okay, so what's the evidence that you're being discriminated
+
+01:39:07.880 --> 01:39:08.380
+against?
+
+01:39:08.780 --> 01:39:09.080
+Right.
+
+01:39:09.280 --> 01:39:11.480
+And again, I've had the experience, you know, over the
+
+01:39:11.480 --> 01:39:13.080
+years of talking with a lot of people about this.
+
+01:39:13.080 --> 01:39:16.580
+And the problem is that a lot of these beliefs are not amenable
+
+01:39:16.580 --> 01:39:17.980
+to evidence, right?
+
+01:39:17.980 --> 01:39:21.880
+It's like, there's no, again, at which point they're kind of
+
+01:39:21.880 --> 01:39:23.580
+like a religious belief, right?
+
+01:39:24.280 --> 01:39:27.180
+And again, but if you believe that everybody has their reality,
+
+01:39:27.180 --> 01:39:27.980
+then that's fine.
+
+01:39:27.980 --> 01:39:31.080
+But you can, but my point is like, there's the scientific
+
+01:39:31.080 --> 01:39:32.680
+question of is there one or not?
+
+01:39:32.680 --> 01:39:35.080
+And I think, you know, there is, but I can't prove it.
+
+01:39:35.280 --> 01:39:38.380
+But there's also, and maybe less important to scientists, but
+
+01:39:38.380 --> 01:39:41.080
+more important to society than the utilitarian question, which
+
+01:39:41.080 --> 01:39:43.480
+is, are we better off believing that there's an objective
+
+01:39:43.480 --> 01:39:44.180
+reality or not?
+
+01:39:44.180 --> 01:39:46.680
+And I definitely say we are better off in believing that
+
+01:39:46.680 --> 01:39:47.880
+there's an objective reality.
+
+01:39:48.180 --> 01:39:50.880
+I think better or worse will be determined based on the
+
+01:39:50.880 --> 01:39:54.180
+context and our objective, the goal that we are trying to
+
+01:39:54.180 --> 01:39:54.680
+reach.
+
+01:39:54.680 --> 01:39:57.180
+But I think that's beside the point of what these people,
+
+01:39:57.180 --> 01:39:59.880
+postmodernists or whoever they, which to me, they're just
+
+01:39:59.880 --> 01:40:00.780
+totalitarians.
+
+01:40:00.780 --> 01:40:01.980
+That's what they are.
+
+01:40:02.480 --> 01:40:04.880
+I mean, they are, because then they use this as an excuse
+
+01:40:04.880 --> 01:40:05.880
+to impose their view.
+
+01:40:05.880 --> 01:40:09.280
+But you know, you said very well that it depends on the
+
+01:40:09.280 --> 01:40:09.680
+goal.
+
+01:40:10.080 --> 01:40:13.180
+But let's just say that, you know, we can all agree that,
+
+01:40:13.480 --> 01:40:15.880
+you know, life is better than death and health is better
+
+01:40:15.880 --> 01:40:17.380
+than sickness and et cetera, et cetera.
+
+01:40:18.580 --> 01:40:20.980
+If you're in tune with objective reality, you can have
+
+01:40:20.980 --> 01:40:23.080
+medicine and you can save people's lives.
+
+01:40:23.680 --> 01:40:26.980
+And you can build cars and planes and you know, CRT scans
+
+01:40:26.980 --> 01:40:27.780
+and you name it.
+
+01:40:28.680 --> 01:40:32.280
+So being in tune with objective reality makes a big difference
+
+01:40:32.280 --> 01:40:33.880
+to your well-being at the end of the day.
+
+01:40:33.880 --> 01:40:34.180
+Yeah.
+
+01:40:35.280 --> 01:40:38.780
+Again, well, the reason we are where we are today versus
+
+01:40:38.780 --> 01:40:41.780
+the Middle Ages, right, is that we believe in this and
+
+01:40:41.780 --> 01:40:44.480
+that's what has created all the scientific and technological
+
+01:40:44.480 --> 01:40:47.480
+progress that these postmodernists not take for granted
+
+01:40:47.480 --> 01:40:49.680
+without which they wouldn't even exist, right?
+
+01:40:49.780 --> 01:40:49.980
+Yeah.
+
+01:40:49.980 --> 01:40:52.280
+And their depth of hypocrisy is that they're saying there
+
+01:40:52.280 --> 01:40:55.380
+is no objective experience, but then they want to make
+
+01:40:55.380 --> 01:40:58.180
+that subjective opinion into an objective experience.
+
+01:40:58.880 --> 01:40:59.080
+Yeah.
+
+01:40:59.080 --> 01:41:01.280
+Again, there were generations of postmodernists.
+
+01:41:01.280 --> 01:41:04.180
+The early generation was, you know, anything goes, right?
+
+01:41:04.180 --> 01:41:06.380
+The derives and the Foucault's and whatnot.
+
+01:41:06.580 --> 01:41:09.280
+But the current generation, of course, has perverted that
+
+01:41:09.280 --> 01:41:13.280
+postmodernism into like, no, my truth is the truth.
+
+01:41:13.280 --> 01:41:16.480
+Yeah, which, you know, the question is if my truth is that
+
+01:41:16.480 --> 01:41:17.380
+you're full of shit.
+
+01:41:17.380 --> 01:41:19.080
+I mean, what are we going to do then?
+
+01:41:19.280 --> 01:41:21.980
+How are we going to settle it, which is a very dangerous
+
+01:41:21.980 --> 01:41:25.780
+route because this kind of my truth, your truth, how are
+
+01:41:25.780 --> 01:41:26.580
+we going to settle it?
+
+01:41:26.580 --> 01:41:28.380
+It always leads to violence.
+
+01:41:28.980 --> 01:41:29.480
+Exactly.
+
+01:41:29.480 --> 01:41:31.780
+And again, this is what the postmodernists said.
+
+01:41:31.780 --> 01:41:34.880
+And again, I mean, like if you start from the premise
+
+01:41:34.880 --> 01:41:38.280
+that there's no objective reality, then what determines
+
+01:41:38.280 --> 01:41:39.580
+what is the perceived reality?
+
+01:41:39.580 --> 01:41:41.180
+Power, right?
+
+01:41:41.280 --> 01:41:42.580
+It's who has the most power.
+
+01:41:42.580 --> 01:41:44.980
+And in fact, you know, people have been saying this for
+
+01:41:44.980 --> 01:41:45.480
+a while, right?
+
+01:41:45.480 --> 01:41:47.980
+And of course, power influences your perception of reality.
+
+01:41:48.280 --> 01:41:50.680
+But in a way, what you see today is like that taken to
+
+01:41:50.680 --> 01:41:52.080
+its logical extreme, right?
+
+01:41:52.280 --> 01:41:54.280
+And so these people, they want to take power because they
+
+01:41:54.280 --> 01:41:56.880
+want to impose their reality on the rest of us, regardless
+
+01:41:56.880 --> 01:41:59.780
+of whether it has anything to do with objective reality or not.
+
+01:42:00.180 --> 01:42:04.480
+Do you also think this option, because I see it as a war
+
+01:42:04.480 --> 01:42:07.280
+of meaning, because we experience certain things, but
+
+01:42:07.280 --> 01:42:10.580
+the war is over how they define what we are experiencing.
+
+01:42:10.580 --> 01:42:15.580
+Do you see this wokeism, this totalitarian approach to
+
+01:42:15.580 --> 01:42:21.480
+postmodernism, however, you want to define it as a inevitable
+
+01:42:21.480 --> 01:42:27.380
+and natural end of a fully secular liberal democratic
+
+01:42:27.380 --> 01:42:27.980
+system?
+
+01:42:29.580 --> 01:42:31.580
+That's actually a great question.
+
+01:42:31.580 --> 01:42:35.280
+I think it's not an inevitable end, but unfortunately
+
+01:42:35.380 --> 01:42:38.080
+once, so there was the enlightenment, right?
+
+01:42:38.080 --> 01:42:41.780
+That created this mindset where, you know, there's a
+
+01:42:41.780 --> 01:42:44.180
+marketplace of ideas, etc, etc, right?
+
+01:42:44.180 --> 01:42:46.680
+And this is one of the best things that have happened to
+
+01:42:46.680 --> 01:42:47.280
+humanity.
+
+01:42:47.280 --> 01:42:50.680
+Again, it's why we have the life that we have today.
+
+01:42:50.680 --> 01:42:53.480
+Unfortunately, it opens itself up.
+
+01:42:53.480 --> 01:42:58.880
+The marketplace of ideas is open to bad ideas by definition,
+
+01:42:58.880 --> 01:42:58.980
+right?
+
+01:42:58.980 --> 01:43:00.680
+Because you don't know if they're good or bad going yet.
+
+01:43:00.680 --> 01:43:05.480
+And then some bad ideas can acquire power, right?
+
+01:43:05.480 --> 01:43:09.580
+And this started with the French Revolution, but maybe
+
+01:43:09.580 --> 01:43:11.780
+the paradigmatic example is Marxism, right?
+
+01:43:11.780 --> 01:43:15.180
+The thing about Marx is that he wasn't just a philosopher,
+
+01:43:15.180 --> 01:43:16.080
+right?
+
+01:43:16.080 --> 01:43:20.080
+He said we are going to have this praxis that is going to,
+
+01:43:20.080 --> 01:43:22.080
+you know, first of all, he had these prophecies that were
+
+01:43:22.080 --> 01:43:24.680
+wrong, but like this was like we're going to impose these
+
+01:43:24.680 --> 01:43:26.880
+ideas on the people and then, you know, Lenin developed
+
+01:43:26.880 --> 01:43:27.380
+that further.
+
+01:43:27.380 --> 01:43:31.480
+And wokeism is really just the latest incarnation of this
+
+01:43:31.480 --> 01:43:31.980
+problem.
+
+01:43:31.980 --> 01:43:35.680
+It's not the first one and it will not be the last one.
+
+01:43:35.680 --> 01:43:38.280
+Who knows what the next one will look like, but this problem
+
+01:43:38.280 --> 01:43:39.180
+will always be with us.
+
+01:43:39.180 --> 01:43:44.680
+It's like, you know, a liberal society is actually an amazingly
+
+01:43:44.680 --> 01:43:50.780
+functioning organism, but it needs an immune system against
+
+01:43:50.780 --> 01:43:54.580
+these, you know, diseases and every now and then, you know,
+
+01:43:54.580 --> 01:43:57.580
+the immune system is not functioning very well in certain
+
+01:43:57.580 --> 01:44:00.280
+context like the universe that we've talked about and then
+
+01:44:00.280 --> 01:44:04.480
+you get the sepsis, you know, where the germs multiplied
+
+01:44:04.480 --> 01:44:07.180
+very fast before the immune system can catch up with them.
+
+01:44:07.780 --> 01:44:10.580
+And if you don't do something about it, you know, it does
+
+01:44:10.580 --> 01:44:12.180
+kill the organism, right?
+
+01:44:12.580 --> 01:44:14.880
+So it may well be that at the end of the day, we will come
+
+01:44:14.880 --> 01:44:17.380
+crashing down because, you know, these people make it come
+
+01:44:17.380 --> 01:44:20.280
+crashing down because they debase education so much that,
+
+01:44:20.280 --> 01:44:23.780
+you know, you know, math is racist and, you know, you know,
+
+01:44:23.780 --> 01:44:26.380
+two plus two equals five and you can't and, you know, and
+
+01:44:26.380 --> 01:44:29.480
+your bridges, you know, don't stand up anymore and so on,
+
+01:44:29.480 --> 01:44:32.280
+right? I hope it won't come to that, but I could see it
+
+01:44:32.280 --> 01:44:32.880
+coming to that.
+
+01:44:33.180 --> 01:44:37.580
+So this is a problem that will recur, right? And in different
+
+01:44:37.580 --> 01:44:39.880
+forms, right? You know, like the cultural revolution was
+
+01:44:39.880 --> 01:44:43.080
+similar to the October Revolution in some ways, but quite
+
+01:44:43.080 --> 01:44:46.080
+different in some others and, you know, wokeism is different
+
+01:44:46.080 --> 01:44:47.380
+from these in some ways.
+
+01:44:47.780 --> 01:44:51.580
+One of the most important ones is that we have a technology
+
+01:44:51.580 --> 01:44:53.080
+now that we didn't then.
+
+01:44:54.280 --> 01:44:56.480
+But if you look at the totalitarian regimes of the mid
+
+01:44:56.480 --> 01:45:00.580
+20th century, they were master users of the mass media of
+
+01:45:00.580 --> 01:45:01.080
+the time.
+
+01:45:02.380 --> 01:45:05.480
+Stalin and Hitler were the first ones to really make use
+
+01:45:05.480 --> 01:45:08.780
+of radio and film and whatnot for propaganda purposes.
+
+01:45:09.680 --> 01:45:12.180
+And then, you know, Churchill and Roosevelt caught up and
+
+01:45:12.180 --> 01:45:15.180
+learn how to use those, right? But they were behind in the
+
+01:45:15.180 --> 01:45:19.880
+beginning, right? And in every, well, the most famous example
+
+01:45:19.880 --> 01:45:22.480
+is the printing press, right? It was without no printing press
+
+01:45:22.480 --> 01:45:25.080
+there probably not have been, you know, the Reformation and
+
+01:45:25.080 --> 01:45:28.380
+someone, right? So in every, you know, in every, you know,
+
+01:45:28.380 --> 01:45:31.880
+turn of the wheel, the technology that's available,
+
+01:45:31.980 --> 01:45:35.480
+right, becomes one of the key defining elements of what
+
+01:45:35.480 --> 01:45:38.680
+happens. And again, what you have to do is you have to
+
+01:45:38.680 --> 01:45:42.180
+master that technology so that, you know, you don't wind up
+
+01:45:42.180 --> 01:45:44.980
+under the foot of the ones who didn't while you were idle.
+
+01:45:45.980 --> 01:45:48.280
+Yeah, technology is the key. I had this conversation with
+
+01:45:48.280 --> 01:45:50.380
+someone else, Jason Rizzo-Giorgiani. I don't know if
+
+01:45:50.380 --> 01:45:53.880
+you know him, philosopher. And we were basically talking
+
+01:45:53.880 --> 01:45:59.080
+about how a tech-based and technology-driven narrative
+
+01:45:59.080 --> 01:46:02.080
+has been lacking on the right side of politics for a very,
+
+01:46:02.080 --> 01:46:04.680
+very long time. And they lost many different aspects of
+
+01:46:04.680 --> 01:46:07.680
+this war, whatever you want to call it, exactly because of
+
+01:46:07.680 --> 01:46:07.880
+it.
+
+01:46:08.680 --> 01:46:11.780
+Yeah. And why did that happen? I think the biggest reason
+
+01:46:11.780 --> 01:46:16.080
+is that the universities are, you know, left-wing zones,
+
+01:46:16.180 --> 01:46:19.780
+right? All the people seeing this firsthand and, you know,
+
+01:46:19.780 --> 01:46:22.380
+taking advantage of it and then building on it, you know,
+
+01:46:22.380 --> 01:46:25.080
+the unfortunately conservatives do not have enough access
+
+01:46:25.080 --> 01:46:28.980
+to the universities, which again is terrible because, you
+
+01:46:28.980 --> 01:46:30.880
+know, some of their ideas will be right, some of them will
+
+01:46:30.880 --> 01:46:34.280
+be wrong. But you need those people looking at technology,
+
+01:46:34.280 --> 01:46:36.880
+right? And, you know, like the thing about, you know, this
+
+01:46:36.880 --> 01:46:40.080
+whole area of AI ethics and whatnot is that, like, everybody
+
+01:46:40.080 --> 01:46:40.980
+is left-wing.
+
+01:46:42.180 --> 01:46:42.580
+Yeah.
+
+01:46:43.180 --> 01:46:46.480
+Right. It's like, again, you know, people have, like
+
+01:46:46.480 --> 01:46:48.480
+journalists and what have asked me, you know, this in my
+
+01:46:48.480 --> 01:46:52.680
+life. So what do conservatives think about AI ethics? And
+
+01:46:52.680 --> 01:46:54.780
+I actually have a hard time answering this question because
+
+01:46:54.780 --> 01:46:55.580
+I don't know.
+
+01:46:55.580 --> 01:46:57.580
+They probably don't even know it exists.
+
+01:46:57.880 --> 01:47:00.280
+Yeah, exactly. I mean, like, so, you know, I wrote this
+
+01:47:00.280 --> 01:47:03.580
+piece in The Spectator, right, that his entire goal was you
+
+01:47:03.580 --> 01:47:06.280
+got to, you know, alert conservatives to the fact that
+
+01:47:06.280 --> 01:47:09.080
+there is this not happening and they need to get into this
+
+01:47:09.080 --> 01:47:11.680
+with their ideas and we need to have a real debate before
+
+01:47:11.680 --> 01:47:14.780
+the science is settled. But yeah, that's the problem is
+
+01:47:14.780 --> 01:47:19.280
+that the universities have shut out the conservatives, which
+
+01:47:19.280 --> 01:47:22.280
+of course, you know, creates an imbalance of power, you know,
+
+01:47:22.280 --> 01:47:24.680
+because now the, you know, the people on the left wing can
+
+01:47:24.680 --> 01:47:27.080
+use these things and the people on the right wing don't.
+
+01:47:28.480 --> 01:47:32.280
+Very true. Very true. Pedro's book is called The Master
+
+01:47:32.280 --> 01:47:34.980
+Algorithm, How the Quest for the Ultimate Learning Machine
+
+01:47:34.980 --> 01:47:39.680
+Will Remake Our World. It was one of the only two AI books
+
+01:47:39.680 --> 01:47:44.280
+on the bookshelf of Xi Jinping, President for Life in China.
+
+01:47:44.280 --> 01:47:48.180
+We almost talked for two hours. Thank you so much for this.
+
+01:47:48.180 --> 01:47:51.180
+I enjoyed it tremendously. Let me ask you the last question
+
+01:47:51.180 --> 01:47:53.980
+I ask all my guests. Actually, let me ask you one question
+
+01:47:53.980 --> 01:47:56.780
+before that, that what is next for you and where can our
+
+01:47:56.780 --> 01:47:58.180
+audience follow your work?
+
+01:47:59.280 --> 01:48:02.280
+Well, what's next for me is more machine learning research.
+
+01:48:02.280 --> 01:48:05.980
+I think we are at a very exciting time in AI, where the
+
+01:48:05.980 --> 01:48:08.880
+really important things are going to have not happened yet,
+
+01:48:09.180 --> 01:48:12.280
+but they're going to happen the next 10, 20 years. So this
+
+01:48:12.280 --> 01:48:15.480
+is, you know, I started out in AI, you know, 20 or 30 years
+
+01:48:15.480 --> 01:48:18.180
+ago, but this is the time. Everything was just leading up
+
+01:48:18.180 --> 01:48:20.880
+to this. So that's one of the things I want to do. The other
+
+01:48:20.880 --> 01:48:24.480
+thing I want to do is, you know, write books and essays.
+
+01:48:24.780 --> 01:48:28.680
+I think, again, there's a lot to be done in that format and
+
+01:48:28.680 --> 01:48:31.880
+for a broader audience than just the AI specialists. So I
+
+01:48:31.880 --> 01:48:34.680
+think The Master Algorithm was my first book, but hopefully
+
+01:48:34.680 --> 01:48:38.880
+it will by no means be my last. To follow me, the easiest
+
+01:48:38.880 --> 01:48:42.480
+thing to do is follow me on Twitter because, you know, what
+
+01:48:42.480 --> 01:48:46.780
+I do in these various areas, I usually post there. And of
+
+01:48:46.780 --> 01:48:49.480
+course, you know, I will publish things in various places,
+
+01:48:49.480 --> 01:48:52.480
+both research and for general audience. So that's the
+
+01:48:52.480 --> 01:48:52.980
+other side.
+
+01:48:53.280 --> 01:48:56.380
+Excellent. The advancement that you're seeing in AI and machine
+
+01:48:56.380 --> 01:49:01.180
+learning. Let me ask you this way. How do you feel about Ray
+
+01:49:01.180 --> 01:49:05.280
+Kurzweil's dates with respect to the Singularity 2045 that
+
+01:49:05.280 --> 01:49:06.080
+he's talking about?
+
+01:49:06.080 --> 01:49:10.080
+I think first of all, it's very hard to predict. The most
+
+01:49:10.080 --> 01:49:12.280
+important thing about scientific progress is that it's
+
+01:49:12.280 --> 01:49:16.880
+unpredictable. And it happens in jumps. You can have long
+
+01:49:16.880 --> 01:49:19.480
+periods of low progress followed by periods of very rapid
+
+01:49:19.480 --> 01:49:23.880
+progress. And I don't know when the next so we are on this
+
+01:49:23.880 --> 01:49:26.480
+wave right now, and they will plateau at some point, it hasn't
+
+01:49:26.480 --> 01:49:29.280
+plateaued yet, but it will inevitably plateau. Where the
+
+01:49:29.280 --> 01:49:32.080
+plateau will happen, you can't predict because it depends, you
+
+01:49:32.080 --> 01:49:34.480
+know, this is not like some law of physics, it depends on
+
+01:49:34.480 --> 01:49:38.080
+what, you know, we the researchers come up with. And I
+
+01:49:38.080 --> 01:49:40.880
+don't know how many jumps are needed to get to, you know,
+
+01:49:40.880 --> 01:49:44.480
+human level AI, and what the barriers are in between. So
+
+01:49:44.480 --> 01:49:48.280
+it's very hard to predict. Now, so anybody who gives you a
+
+01:49:48.280 --> 01:49:51.880
+date for when we'll have strong artificial intelligence is
+
+01:49:51.880 --> 01:49:54.480
+speculating, right? And I think Ray is speculating, you know,
+
+01:49:54.480 --> 01:49:58.280
+with some basis to it. But I think the first or the bit is
+
+01:49:58.280 --> 01:50:01.680
+the error bars are enormous. At one extreme, maybe it will
+
+01:50:01.680 --> 01:50:05.280
+never happen because the problem is just too hard. Right, I
+
+01:50:05.280 --> 01:50:08.480
+know, I'm a scientist, I believe in reductionism, I think
+
+01:50:08.480 --> 01:50:11.280
+there is an algorithm, you know, again, part of the empirical
+
+01:50:11.280 --> 01:50:13.480
+evidence for the master algorithm is that your brain does
+
+01:50:13.480 --> 01:50:15.880
+it. And, you know, and, you know, I should be able to write
+
+01:50:15.880 --> 01:50:19.280
+down the program that that your brain is running, I just don't
+
+01:50:19.280 --> 01:50:21.880
+know what it is yet, it could be complex or not, right, but it
+
+01:50:21.880 --> 01:50:24.880
+might be too complex. And in which case, we will never get to
+
+01:50:24.880 --> 01:50:27.880
+it. I don't think that's the case, but it's a possibility. At
+
+01:50:27.880 --> 01:50:31.480
+the other end, and more excitingly, maybe, you know, some
+
+01:50:31.480 --> 01:50:34.680
+kid in a garage is inventing the master algorithm right now. In
+
+01:50:34.680 --> 01:50:37.280
+fact, part of my motivation for writing the book, and I say it
+
+01:50:37.280 --> 01:50:41.080
+is, again, you know, following on some of the things that we've
+
+01:50:41.080 --> 01:50:44.280
+been talking about, we in the field have focused on too
+
+01:50:44.280 --> 01:50:48.680
+narrowly on a few paradigms. And my feeling is that even after
+
+01:50:48.680 --> 01:50:50.680
+we've unified them, and we're making very good progress
+
+01:50:50.680 --> 01:50:54.280
+towards that, some of the really important ideas will still be
+
+01:50:54.280 --> 01:50:57.480
+missing. And actually think someone outside the field is
+
+01:50:57.480 --> 01:50:59.680
+more likely to come up with them than someone who's already
+
+01:50:59.680 --> 01:51:02.480
+thinking along these tracks. So a non expert, but at the same
+
+01:51:02.480 --> 01:51:04.880
+time, they need to know enough. So maybe reading a book like
+
+01:51:04.880 --> 01:51:07.880
+the master of them will help. So it could go all the way from
+
+01:51:08.080 --> 01:51:10.880
+it's already happening to it will never happen. Even if it's
+
+01:51:10.880 --> 01:51:13.080
+already happening, right, if someone had that amazing
+
+01:51:13.080 --> 01:51:15.480
+algorithm today, it would still take decades for it to play
+
+01:51:15.480 --> 01:51:20.080
+itself out. Right. So where do I think we'll be in, you know,
+
+01:51:20.080 --> 01:51:25.280
+2047? I think we will be much farther along than we are today.
+
+01:51:27.280 --> 01:51:33.880
+Exactly, exactly where we are is very hard to predict. Are you
+
+01:51:34.880 --> 01:51:35.880
+getting this?
+
+01:51:36.880 --> 01:51:37.880
+I can't wait for it.
+
+01:51:38.880 --> 01:51:39.880
+Yeah.
+
+01:51:40.880 --> 01:51:44.880
+This unfortunately, my cell phone. So yeah.
+
+01:51:46.880 --> 01:51:47.880
+So sorry.
+
+01:51:47.880 --> 01:51:54.880
+So yeah, so, so, so sorry, I lost my turn of the big big
+
+01:51:54.880 --> 01:51:56.480
+changes that is going to happen.
+
+01:51:56.480 --> 01:52:00.480
+Right. So where are we going to be in 2047? I don't think
+
+01:52:00.480 --> 01:52:04.480
+anybody knows for sure. But I think what we want to do is be
+
+01:52:04.480 --> 01:52:08.280
+prepared for the range of places where we could be right from
+
+01:52:08.280 --> 01:52:11.680
+the most pessimist part of you know, machine learning is all
+
+01:52:11.680 --> 01:52:14.880
+about prediction. And actually half the science of prediction
+
+01:52:14.880 --> 01:52:18.480
+is knowing what you can't predict, but being prepared for
+
+01:52:18.480 --> 01:52:21.880
+all the possible outcomes. And I think this is what we want to
+
+01:52:21.880 --> 01:52:25.880
+know when we think about AI in 2030, 2040, etc. Right. We want
+
+01:52:25.880 --> 01:52:28.080
+to think about the range of places where it could be and we
+
+01:52:28.080 --> 01:52:30.480
+want to be prepared for all those possibilities, not assume
+
+01:52:30.480 --> 01:52:32.880
+that there's going to be one scenario and go for that one.
+
+01:52:33.880 --> 01:52:37.680
+Excellent. Let me ask you the final question I ask all my
+
+01:52:37.680 --> 01:52:41.680
+guests that if you come across an intelligent alien from a
+
+01:52:41.680 --> 01:52:45.480
+different civilization, what would you say is the worst thing
+
+01:52:45.480 --> 01:52:48.080
+humanity has done? And what would you say is our greatest
+
+01:52:48.080 --> 01:52:48.880
+achievement?
+
+01:52:51.880 --> 01:52:55.880
+I would say our greatest achievement is the extent to
+
+01:52:55.880 --> 01:53:00.480
+which we know nature and the universe, including ourselves.
+
+01:53:01.080 --> 01:53:05.080
+Right. If you think if you think of the universe as being made
+
+01:53:05.080 --> 01:53:09.680
+of, you know, atoms and, you know, photons, we are the
+
+01:53:09.680 --> 01:53:13.480
+completely insignificant. Right. We are specks of dust on a
+
+01:53:13.480 --> 01:53:16.480
+speck of dust. But if you think of the universe as being made
+
+01:53:16.480 --> 01:53:20.880
+of information, and increasingly, people across science
+
+01:53:20.880 --> 01:53:24.680
+see the universe as being made of information. Human beings
+
+01:53:24.680 --> 01:53:28.280
+are amazing. There is no bigger concentration of information
+
+01:53:28.280 --> 01:53:32.480
+than the one in your brain. And the concentration and evolution
+
+01:53:32.480 --> 01:53:34.880
+has been concentrating information in your brain for,
+
+01:53:34.880 --> 01:53:38.280
+you know, millions of years, hundreds of millions of years.
+
+01:53:38.280 --> 01:53:41.480
+Millions of years, hundreds of millions of years. And once you
+
+01:53:41.480 --> 01:53:44.680
+start reading books, right, once you start communicating with
+
+01:53:44.680 --> 01:53:46.880
+people, there's more information with your brain. Once you
+
+01:53:46.880 --> 01:53:49.080
+start studying nature and writing books about it, there's
+
+01:53:49.080 --> 01:53:53.880
+more information. Now, we as a society, right, as a repository
+
+01:53:53.880 --> 01:53:58.480
+of information about the universe, right, you know, if
+
+01:53:58.480 --> 01:54:00.880
+you put a diagram of the universe, you know, like, you
+
+01:54:00.880 --> 01:54:03.480
+know, how much information there is, you know, like, you
+
+01:54:03.480 --> 01:54:06.680
+know, Earth would be this Dirac Delta functions, like this
+
+01:54:06.680 --> 01:54:10.480
+sharp, super high peak, right? Compare the amount of
+
+01:54:10.480 --> 01:54:13.380
+information that exists on Earth, you know, thanks to life,
+
+01:54:13.380 --> 01:54:16.680
+but in particular, thanks to humanity, with the amount of
+
+01:54:16.680 --> 01:54:20.280
+information that exists on Mars or Venus, there's just no
+
+01:54:20.280 --> 01:54:24.080
+comparison, right? None. So that's our biggest achievement,
+
+01:54:24.380 --> 01:54:28.180
+right? What is the worst thing that we have done? Well, of
+
+01:54:28.180 --> 01:54:31.180
+course, is that in the process of climbing this ladder, we
+
+01:54:31.180 --> 01:54:34.380
+have, you know, we have done so much death and destruction,
+
+01:54:34.380 --> 01:54:38.780
+right? Like, you know, and, you know, that is often
+
+01:54:38.780 --> 01:54:41.580
+exaggerated. You know, people have a much more pessimistic,
+
+01:54:41.580 --> 01:54:43.980
+you know, if you read Steven Pinker's books, for example,
+
+01:54:43.980 --> 01:54:46.980
+he'll show you why on balance, you know, few people die
+
+01:54:46.980 --> 01:54:50.380
+violently today, much fewer than before, nevertheless,
+
+01:54:50.580 --> 01:54:53.880
+right? You know, things like, you know, World War One and
+
+01:54:53.880 --> 01:54:57.380
+World War Two, and, you know, nuclear weapons are still here,
+
+01:54:57.480 --> 01:55:01.680
+right? So far, we've avoided the worst. But again, you can't
+
+01:55:01.680 --> 01:55:04.180
+take any of that for granted. So that, I think, is the big
+
+01:55:04.180 --> 01:55:09.880
+biggest downside. Excellent. Well, the alien, the alien will
+
+01:55:09.880 --> 01:55:13.080
+probably have the same thing to say to us is my guess. They
+
+01:55:13.080 --> 01:55:16.080
+will be proud of the same about themselves. Oh, yeah,
+
+01:55:16.180 --> 01:55:18.980
+interesting. About their achievements. And you know,
+
+01:55:18.980 --> 01:55:22.680
+they're, you know, the things that they, you know, are not
+
+01:55:22.680 --> 01:55:26.880
+proud of. Yeah, an interesting variation I heard about the
+
+01:55:26.880 --> 01:55:29.880
+alien itself was that the alien could be coming from a
+
+01:55:29.880 --> 01:55:34.080
+civilization that is hive mind. So the priorities would
+
+01:55:34.080 --> 01:55:38.380
+be different than what we were experiencing individually.
+
+01:55:39.280 --> 01:55:44.680
+I actually think hive minds are not as adaptive as what we
+
+01:55:44.680 --> 01:55:49.080
+have. Oh, really? Our society is a mess. Because it's a bunch
+
+01:55:49.080 --> 01:55:51.880
+of independent agents. And we have, you know, and the cost
+
+01:55:51.880 --> 01:55:54.980
+of, you know, dealing with the conflicting interests is very,
+
+01:55:54.980 --> 01:55:58.880
+very high. So you know, our society is far from optimal, we
+
+01:55:58.880 --> 01:56:01.480
+can make it better, I think, with technology and with being
+
+01:56:01.480 --> 01:56:06.380
+more mature. But a hive mind right is actually also it goes
+
+01:56:06.380 --> 01:56:09.080
+too far. Right. In machine learning, there's this bias
+
+01:56:09.080 --> 01:56:12.780
+variance trade off. Right? I think in human society, we have
+
+01:56:12.780 --> 01:56:16.080
+a lot of variance, right? A hive mind has does not have
+
+01:56:16.080 --> 01:56:19.980
+enough variance, right? A society that causes more able to
+
+01:56:19.980 --> 01:56:23.480
+generate new ideas, and then let the better ideas grow than
+
+01:56:23.480 --> 01:56:26.780
+a hive mind is, right? A hive mind is actually not the most
+
+01:56:26.780 --> 01:56:29.680
+adaptive. So I think at the end of the day, humans beat the
+
+01:56:29.680 --> 01:56:33.180
+board, right? Human society for all its imperfections, right?
+
+01:56:33.280 --> 01:56:36.580
+And for all the mess that you know, human life is at the end
+
+01:56:36.580 --> 01:56:40.680
+of the day, this is a much more adaptive way to organize
+
+01:56:40.680 --> 01:57:07.680
+the species than the board ever could be.
+
+01:57:10.680 --> 01:57:13.680
+Transcribed by https://otter.ai
+
