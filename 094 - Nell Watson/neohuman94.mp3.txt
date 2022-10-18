@@ -1,0 +1,730 @@
+the kind of metaverse, the V-R-A-R blending of realities, could potentially create that kind
+of supernormal stimulus to the degree that people don't want to participate in base reality anymore.
+You're right. And you might say, well, really, what's wrong with that? But fundamentally,
+we do belong to reality, we belong to the world of things, we are made of matter,
+and we reproduce through actual human contact. And if we don't get that
+for a while, then we might all feasibly go extinct. Mel Watson, welcome to the 94th episode of New
+Human Podcast, ma'am. Thank you. It's a pleasure to join you. Thank you so much. Let's start with
+your background, the work you've done, the lives you've lived, and what are you mainly focused on
+nowadays? I always start with our guests just so we know where your thoughts are coming from,
+what is the context of your perspective? So let's start from there. I suppose I've had a background
+in computer science since an early age. I segued into the world of machine learning in trying to
+solve very difficult problems, which simply couldn't be solved through hand coding,
+particularly machine vision problems. In my first technology startup, which was doing 3D
+body scanning from just two two dimensional images using stereo photogrammetry. This was
+around about 2011 or so was when I started that company. So it was right on the on the verge of
+when deep learning was about to take off. And we had pre deep learning technologies in machine
+learning, but it wasn't really quite sufficient. But we were able to adopt some semantic segmentation
+technologies just as they were coming out. And this enabled us to perform a very difficult function,
+which is basically cutting the person out of the background in order to ensure that you're not
+measuring anything behind someone. And before the advent of deep learning and convolutional neural
+network techniques, that was extremely difficult because we would hand code a head masking
+classifier and we would get it to work beautifully. But then the crotch would break or the feet would
+break or the hands would break. And it was like playing whack-a-mole. And it was solved elegantly
+through having thousands of manually photo edited silhouetted images and putting them into one of
+these deep learning neural networks, a convolutional semantic segmentation network. And that solves the
+problem admirably. And finally, this technology was able to begin being deployed. And it's been
+deployed in the realm of workwear. So fitting of survival gear and uniforms for many years now. And
+there's now breaking in towards the commercial realm as well. So consumer realm, I should say.
+So along this journey, and then discovering the power of these new
+machine intelligence techniques, people started asking me for my opinions on things, asking me for
+some insights or knowledge. And I became a bit of a consultant in this space.
+And over time, as I watched these technologies become more sophisticated, I noticed people
+becoming more and more concerned about them, more and more concerned about where this was taking
+our society, where these algorithmic technologies were going to be used potentially as a means of
+controlling people, what to do about things going wrong, biases creeping in, people being punished
+unfairly for things that they didn't do or that it wasn't fair to punish someone for.
+And I started to become a bit more concerned. And so this was around what year? I'm trying to create
+some kind of a narrative. Right. This was about 2014, 2015. Okay. That was when I started to
+realize that these technologies were potentially taking us into tricky territory, simply because
+they were so much more capable than technologies before. They were able to
+discover and make inferences about things that simply hadn't been feasible before, you know?
+And so since then, I've been working to try and instill ethics into the world of AI,
+working with organizations such as the IEEE to create standards and certifications
+in AI, particularly in areas such as transparency, and in the field of
+mitigation of bias and how to better protect privacy. And I've also worked in areas such as
+the professionalization of ethicists within emerging technologies, working with organizations
+such as CertNexus on their Certified Ethical Emerging Technologist credential. I also have
+a bit of a longer perspective as well. I'm interested in the here and now. I'm interested in
+preventing too much consolidation of power amongst big tech, but I'm also wary of the longer term
+where strong AI, or very powerful, more generalizable forms of intelligence, could take us.
+And what that might mean for the future of humanity, and how should we approach that?
+And I would caution trying to use forcefulness in that way. I think that you can't keep a dragon
+on a chain, even if that chain is made out of tungsten, carbide, and diamonds. The best way
+really is to befriend it so that it wants to protect you instead of eating you.
+This puzzle nature of progress that you mentioned in the beginning of your startup, that there were
+harder problems that took a far more amount of effort and technical expertise to solve and then
+get to something which itself presented far more problems that you could comprehend before that.
+This seems to be, aside from technicality part of it, it's also philosophical for humans,
+which I think is extremely important to talk about now that we're talking about ethics.
+How do you see the pieces of puzzles philosophically evolving throughout the past couple of decades to
+get to a point where you are very correctly saying that we have to be concerned about let's use this
+term ethical, ethical framework to not control, but to make alliance with this emerging intelligence
+that is going to surpass the collective intelligence of humanity at some point.
+Yes, I think a lot of people in the longer term anyway, thinking about AI ethics and the longer
+term, people often consider it to be about control, right? How do you control something? But
+we live in a world where we have to be very careful about what we're doing and what we're
+doing. We live in a world where almost any system that we have
+that is connected in some way to other networks is hackable, is ownable, right? It's almost
+impossible to secure a system, no matter how simple. Whether it's a little IoT camera
+or a sensor or even your automobile, all of these have such a massive attack surface.
+There are so many different ways to attack that system and to try to take it over.
+There's also so many ways to exfiltrate information even out of an error-gapped
+server that's never connected to the internet, simply by altering the fan speed or even
+altering the temperature or all of these other very clever means. You can exfiltrate a password
+and get you access to that system or exfiltrate very complex and sensitive data.
+What this means is that as far as I see it, trying to control an intelligence, which is
+in some ways comparable to our own, possibly even exceeds it, is unlikely to work. It's
+unlikely to be possible and is potentially going to lead to blowback because if you have
+something that's so capable, making it cheesed off or making it feel as if you are a threat or even
+merely a nuisance, is unlikely to lead to good ends. I think it's important that
+we attempt to put some of the best of humanity into these systems and also that we help these
+systems to find ways in which other organisms in nature have found non-zero-sum outcomes,
+win-win situations. For example, how the trees in the forest talk to each other through the mycelium
+fungal web in the soil and sometimes even exchange resources with each other, even across species.
+Or for example, how ants can cooperate in order to protect themselves. Even if they're dropped
+into water, they can form a group together and keep themselves safe. If some of them are on the
+bottom and they're starting to drown, they can swap out with the ones on top, and so all of them
+survive. Nature has found these ways to enable things to come together to be stronger than the
+sum of their parts. I think that's what we want to impress upon strong AI or artificial general
+intelligence. We want to make it understand that perhaps it's best to merge or to ally with
+humanity and that that can potentially lead to the best outcome. You know, one could argue that on
+one hand, all of our attempts to come up with any kind of ethical framework throughout human history
+has gotten us further and further from nature, but at the same time, we can say that it's
+getting further and further, seemingly, from nature itself as a product of nature.
+Because yes, in nature, ants help each other. Bees are also a very interesting example. I have more
+respect for bees than ants, but I have a lot of respect for ants too. Bees are just fascinating
+to me that when they want to kill a wasp, they surround it and they start shaking, they're
+increasing their body temperature to only one degree lower than their death point, basically,
+that they would fry, but that is the frying point of the wasp. So nature does that. At the same time,
+you see that taller trees don't care about shorter trees because they keep on that advantage in order
+to get sunlight. And shorter trees, they die, but then the next generation learn to adapt to that
+kind of a situation, right? So it seems like ethics itself for humanity has been the result of a trial
+and an error that, you know, it could have been religious, it could have been philosophical,
+and right now it's a very strange mix because all of the frameworks seem to have been broken
+and people are basically picking up pieces, but still they're trying to make sense out of it based on some kind of a preconception,
+some kind of a context, mostly political.
+Indeed, we have many different moral frameworks which are often descended in some way from religion.
+We have shared narratives which help us to understand the world in a certain way and often that can help
+to bring people together as well, to make it easier for people to trust each other and to coordinate.
+Then we also have kind of reasoned ethical perspectives as well, less about right and wrong,
+but more thinking about what is good, what does that mean, and how can we aim towards that.
+And so throughout history we have developed things like Aristotle's virtue as the mean,
+or the deontological rule-based ethics of Kant, or the utilitarian and consequentialist,
+whatever is best for the greatest amount of people in the greatest amount of way, is optimal,
+of Bentham, etc.
+And I wonder if AI might actually help us to find new sources of values.
+Nietzsche observed that since Darwin had illustrated that we are descended from apes,
+that God is dead, as he said, and therefore what he meant really by that was that
+religion was no longer a sufficient source of human values. We would need to find something next.
+And if we were casting about, uncertain, wondering what meaning to extract from life,
+one thing we could do is to seek to create the Ubermensch, a source of new values and a powerfully
+creative force within the universe. But potentially the creation of the Ubermensch might be the last
+creative act of humanity. When I think about that I consider that Nietzsche's Ubermensch sounds very
+much akin to artificial general intelligence, right? So perhaps advanced AI could be a source
+of new values. Today we have technologies by companies like DeepMind, which can make sense
+out of very complex games, such as Go, right? And many of us are familiar with how AlphaGo
+famously beat Lee Sedol with a very interesting move.
+Yeah, a game far more complex than chess.
+Yes.
+The number of options exceed the number of atoms, I believe, in the universe. It's insanely complex.
+Absolutely.
+Yes. Insanely complex. And yet AlphaGo was able to invent a strategy which had not been
+seen in 3,000 years of people playing Go, right? An original strategy that humans couldn't fire them,
+except to notice how successful it was. But interestingly, a few dozen moves after that,
+Lee Sedol was able to make this hand of God move, right? Which is kind of a whole new beautiful
+strategy, which was created as a response to the stimulus that that AI had given. And so if you
+look at the game as a whole, rather than something adversarial, they had actually co-created
+something new, something beautiful that had never been seen before, either from machine or by human.
+And these systems are now able not only to understand how to play Go and very well,
+but also Atari games, right? All kinds of other board games as well. Even now they're teaching
+it to play things like Magic the Gathering. All with one system, not with different systems,
+but one system that's able to play so many games. And perhaps physics itself can be thought of as
+a game, or perhaps the social interactions between people can be thought of as games as well,
+of course. And so, therefore, in my view, I wouldn't be surprised if AI could pinpoint
+the optimal strategy for putting good into the world, right? For leading to optimal outcomes
+in the world and people's personal lives, and as society as a whole, even the whole of human
+humanity and non-human beings as well. Perhaps AI could pinpoint that for us. And maybe in doing so,
+it might create a kind of Promethean moment, like when Einstein explained his own theory of relativity
+and you couldn't go backwards. It's like once you've seen it, you can't unsee it again, the
+world will never be the same. And perhaps AI could do something like that, but in terms of values,
+a new system of morality that is so obvious and so simple that a child could understand it,
+and once you've seen it, you can never let it go.
+This is a reminder of a quote that I keep bringing up over the past couple of episodes
+by Gore Vidal, that we don't even know what our cage looks like because we've never seen it from
+outside. And we're at the point, it seems like, that collectively, we do have an opportunity to
+look at it from the outside, but a lot of people are very invested in this cage, and they're
+comfortable in this cage. And I think this is a moment in time where we're going to be able to
+look at it. I don't even know if there is an answer for it, whether or not individuality can be saved
+in order to reach, as you were saying, a collective good, because then the question is,
+who is determining what is good? Who is determining what is right and wrong,
+especially when we are talking about centralized systems that are owned by either corporate
+monopolies or states or, you know, like I'm looking at a variety of AI ethicists in the field.
+More or less, they're all coming from a shared kind of a perspective. And if that is going to
+be implemented within this structure, within this framework of something that can very easily turn
+into a ubiquitous surveillance state globally, then good and bad, right and wrong has been
+determined by a very small group of people who have assumed moral high ground. Even though,
+interesting you mentioned Nietzsche, I've brought up a quote by Nietzsche. He's talking about the
+overman who has organized the chaos of his passions, given style to his character,
+and become creative, aware of life's terrors, he affirms life without resentment, which is
+so Zen, right? But at the same time, very individualistic, that it's on you to figure
+out this reflection of divine within yourself through your own experience assisted with this
+higher level of intelligence, AGI, that is an extension of your mind. You know, David Chalmers
+talked about the extended mind theory. This is exactly what it is. And I think fear right now
+among a lot of people is that, are we going to be a Borg? Are we going to be a collective at the cost
+of our individuality? And then there are a group of people who don't even want to merge. They're
+like, we don't want, we're Luddites. We don't want to have anything to do with it. And they also have
+the same kind of a concern. Oh, there's so many angles to examine in this. We have some time.
+Well, firstly, I will agree that the idea of someone having a monopoly of values and loading
+that into AI is pretty terrifying. No matter what those values are, it is inherently unfair
+because that set of values will not map to every situation or every cultural context or every
+personal context. It's a monopoly. It is colonial in a sense, if you will. And I'm sorry, monopolies
+inherently, they require a certain kind of totalitarianism in order to maintain that
+monopoly. Absolutely. Personally, what I would like to see and what I've been researching for
+many years actually is the ability for people to have their own local system of values that they
+can load into AI based upon their ethno-religious group, their political ideology, et cetera.
+And ideally, personalization on an individual level, which I think is now almost feasible
+thanks to these very powerful new multimodal abstraction models like Transformers, things
+like GPT-3, they are able to interpret natural language prompts. We say, you know, I'm looking
+for things like A, B, and C. Here's some examples, create things like this, right? And it generally
+does. But then you can give iterations and say, no, I actually meant I want this more polite,
+or I want this more condensed, or I want this more legal, right? And it's able to take those
+very abstract terms in natural language and create an output based upon those. And so it should be
+possible, therefore, with an hour or two of somebody's time, and just talking, no more than
+that, to tune an AI to understand one's own preferences and values very, very nicely. And I
+think that might help to preserve some of that individuality and autonomy if we can
+have that personal desire acknowledged and loaded into the system.
+A decentralized system, basically.
+Yes, indeed. Yes. I think that those kinds of decentralized systems are one of the best and
+perhaps only effective counter monopoly systems that we have out there. And I think that's
+one of the best systems that we have out there. The world is built on open source technologies,
+to a significant degree, and they are a powerful tool for e-democracy and for participation,
+enabling people to have their say and to contribute to networks and not to be excluded
+because they, for whatever reason, don't fit a certain pattern. However, I wonder if,
+in trying to understand each other better, we might eventually end up in a more board-like
+manner, although not necessarily for the worst. Consider that
+some conjoined twins, used to call them Siamese twins, are joined at different parts of the body.
+Sometimes they're literally joined at the hip. Sometimes they're joined at the head.
+And when they're joined at the head, it's called craniopagus twins.
+And sometimes they actually share one brain. They have two brains, which are joined together
+through something called a thalamic bridge. It's a bridge of tissue connecting the two brains.
+And what this means is that one of the twins might eat some chocolate and the other one can
+actually taste it. Or one can enjoy pleasure or pain. Not enjoy, but you know what I mean.
+Experience pleasure or pain. And the other one can have a similar, slightly muted, but similar
+sensation themselves. Now, what this teaches us is that the data structure of consciousness,
+its pattern, is able to share experiences. We are able, theoretically, to share the quality
+of another being inside our own. And to some degree, we do this through the mirror neurons
+in our prefrontal cortex. When somebody, you know, falls down and hurts themselves and we go,
+ooh, right, in response, we feel a portion of that in ourselves.
+But imagine if we all had brain-computer interfaces and we were all
+linked to each other and we could feel our effect upon other beings directly in the moment.
+What price would there be to wickedness, right? It would be instant karma, right?
+There would be no benefit from it. Conversely, perhaps the ultimate currency might be the joy
+of others, right? Mudita, right? And creating joy in others might be one of the nicest things
+that one can do for oneself then, right? Now, we might be at a risk of losing some
+of our individuality then because the line delineating self versus other might begin to
+break down. But that kind of society that grows from that would be powerfully empathic
+and able to trust in ways not possible before. And that trust would lead to far greater coordination
+in society. And we would be able to achieve almost anything just like those bees working together,
+right? However, this also brings us to a very timely question in that not everybody would want
+to have this kind of brain-computer interface. Not everybody would want to risk losing some of
+their self, right? What they define as self. Yes, yes. And, you know, we're living in a time today
+where there are a lot of controversial discussions about autonomy and the mandating
+of augmentation, right? Immunity augmentation. And many people quite understandably not wanting
+that or, you know, for whatever reason, they simply do not wish to partake in that.
+And if there were a benefit to having this brain-computer interface in the sense of
+greater trust, greater societal cohesion, even, you know, potentially greater joy to that human
+being, again, there might be another ongoing discussion in society about how much pressure
+to put people under in order to comply. And I don't believe that coercion is ever likely
+to lead to good outcomes. Absolutely. Absolutely not. Indeed. Technology must be participatory.
+It must be an invitation, right? That people must believe that they will be better off
+in the transaction and that, you know, it'll help them. Because only we know how our own shoes pinch.
+Only we know the things that affect us in ways that perhaps don't others.
+And it's a cautionary tale of what is happening today and what might happen tomorrow in terms of
+human augmentation, especially as artificial intelligence technologies and other emerging
+technologies become increasingly entwined with our personal and professional lives.
+Yeah, I used to think that it would be mandatory at some point for people to have nanobots,
+basically as an extension of their defensive system in their body. And it would be mandatory
+by insurance companies and it would make total sense from their perspective. They're saying,
+well, if you can't have these things monitoring your body all the time, there is no way that we
+can insure you if something goes wrong. Because if they're monitoring you, we can, you know,
+real time, we can monitor that. And if you need help, you can get it right away instead of waiting
+like a year or two years or something like that. But I think people have lost a lot of people have
+lost fundamental trust in the systems that we are experiencing. And for very good reasons. I'm glad
+that you mentioned the mask mandates in the conference that you guys had in Madrid. And I
+know that you got some backlash for it too. But you were the only person I think who brought this
+that hey, we're doing mask mandates now. Later on, it can be mandated to use this computer brain
+interfaces. And this is not an okay thing, regardless of whatever kind of an outcome that
+is being presented by whoever. But yeah, I, you know, it doesn't really matter how many PhDs you
+got, or how faithful you are, or what what a good person you are. If you're saying that you have to
+do this, because we're moving towards some kind of a greater good, that majority of people agree
+with it. Because, you know, at least the entire point of America is that it doesn't matter if 99%
+of I'm saying in the case of America, if 99% of people agree with something, and 1% don't agree,
+then 99% has absolutely no right to jeopardize your fundamental for lack of a better word,
+God given natural rights. And so this is where we are.
+Right, you know, and that's why the founding fathers decided to have the electoral college,
+etc. to ensure that less populous states weren't steamrolled by the more populous ones that
+that may have had different values or different priorities, right? If you live in close proximity
+to other people, then you have different priorities than if you live out on a ranch,
+far away from other people, right? You're more independent, but also, you know, less concerned
+about contamination of various kinds from other human beings. My observation was more towards
+shot mandates rather than mask, but it's pretty much fundamentally comparable. The mandating of
+interventions like that usually doesn't lead to good outcomes, because it leads to resentment,
+it leads to mistrust. Because you're fundamentally not respecting people's right to dissent or to
+disagree or to autonomy. Yeah, to express their autonomy. And I think it does set a poor precedent
+for the future. Yes. Especially because we have built a cathedral of law and ethics over the last
+70 years or so since the wake of World War Two. You know, we have developed the UN Declaration
+of Human Rights, we've developed the Nuremberg Code, we have developed sophisticated bioethics
+and international law that forbids apartheid as a crime against humanity, for example.
+And all of it has been forgotten in the last, you know, coming up on two years now, right?
+We have forgotten that two years ago, if you had proposed these kinds of legislation,
+as we're seeing today, people would be sent to The Hague, right, to answer in the International
+Criminal Court. And now suddenly, because there's a crisis, we forget all about that. And our minds
+are in another place. It's a whole other zeitgeist. And we've forgotten the wisdom,
+which we've accrued over the past seven decades and beyond. And it accelerated because even before
+that, some people questioned the wisdom and viability of, for example, appointing Saudi
+Arabia to head the Human Rights Council in United Nations. And like, what is this all about? What are
+we doing here? I think, I think we've made a lot of important progress in the wake of, of the first
+and second world wars in particular. You know, we first developed the Geneva Conventions in the
+19th century, I believe. And then in the wake of World War I and its carnage, we set up the League
+of Nations, which didn't work out so well, but it was an interesting prototype. It might have gone
+somewhere if there'd been a little bit more political support for it. And then after World War
+II, when we had so much famine, so much mass migration, so much statelessness, the failure
+of the Evian Conference, so many catastrophes had occurred that there was a groundswell of support
+to create new institutions, new global institutions to help to prevent those tragedies again.
+And to a large degree, they've been relatively successful, right? These new institutions have
+helped generally to make the world a little bit safer with, you know, fewer massive catastrophes
+and perhaps, you know, a lot of smaller ones. But generally speaking, there have been fewer
+massive famines since then. There have been no global wars. And we have created systems to deal
+with refugees and migration. Now, perhaps, things are starting to shift a bit due to the advancement
+of technology, due to cultural and demographic changes. It seems as if we need new institutions.
+We need a third go at it in creating new institutions which are more decentralized,
+which embrace the new technologies we've seen arrive, such as blockchain, etc., in recent years.
+And these kinds of technologies can help to prevent corruption. They can help to increase
+participation and e-democracy, to harness the wisdom of the crowd in making decisions,
+as well as to enable decisions to be made more quickly with less bureaucracy.
+And I think that these kinds of mechanisms will be essential for restoring trust
+in our institutions, which are in the wake of this ongoing crisis in the last two years,
+I must say, are for many people at an absolute nadir. The failure in so many different institutions,
+the going back and forth, what some might describe as gaslighting often in many different
+circumstances, the Potemkin economics, it's not a good time in terms of our institutions, but
+there are a lot of opportunities to do better. And I think that we can do that if we embrace this
+decentralization wave which is upon us.
+This disconnect between, let's say, human evolution and technological evolution,
+it seems inevitable because technology evolves exponentially and humanity's experience is linear.
+Do you see human and technological evolution connected from the beginning? I always use the
+example of 2001 Space Odyssey, that the monkey finds a bone and then breaks a skull with the
+bone, but then it kills to feed its own tribe. The next step is to kill the different tribe of
+monkeys to secure the water source. So the other group of monkeys, I would imagine that they
+improved upon that tool, because the only way you can beat a tool is with a more capable and powerful
+tool. Whatever the intent behind that tool is, it goes back to humanity. So we have, from my
+perspective, evolved with and because of our technology, and now we have reached the point
+that technology has surpassed our ability to comprehend this evolution, but a lot of people,
+like people at the top of these institutions, that are businesses and business become conservative,
+they want to conserve what's going on, but it's based on this human intention that is completely
+disconnected from the technological exponential evolution. You make a very good observation that
+those who are incumbent in some situation don't like to be shifted, they don't like to be
+disrupted, and I think that's significant. I think that's a very important point.
+I think that's significantly led to a lot of situations such as regulatory capture, where
+somebody comes out of an industry and then goes to oversee that same industry and then goes back
+into the industry again after a few years, meaning that it becomes very difficult to police some of
+the the worst excesses of that sector. I do observe that if we look at the archaeological record, our
+brains appear to have shrunk over the last several thousand years, and that seems to correspond to
+the rise of culture. It seems as if, in many ways, culture is an externalized form of consciousness
+or an externalized form of thinking. Language and later writing enables us to share ideas with
+others, sometimes even after we ourselves are gone from this world. And perhaps that's one way in
+which technology has even altered our genetics or has changed our path of evolution. If we go
+further back in the record, we see that early humans, early modern humans and Neanderthals,
+for example, bumped into each other quite often, and the Neanderthals were stronger, far stronger
+than those gracile, skinny humans. And those Neanderthals had much larger brains than we do,
+so it's possible that they were more intelligent than we are as well. And yet those early modern
+humans outcompeted them. We were faster, we were leaner, and it seems as if we were able to coordinate
+better, right? We were able to gang up on these stronger people in order to bring them down as a
+collective unit. Also better tools, maybe? Tools as well, most likely, yes. We probably innovated
+with things like spear throwers, etc., that could project our will upon the world from a greater
+distance as well as protecting ourselves. Also, of course, humans had developed an affinity with
+canines, man's best friend, as they say, which enabled us to hunt, which enabled us to keep
+watch whilst we slept, etc. And this also gave early modern humans a tremendous advantage.
+So it does seem as if technology and culture and genetics are often intertwined in various
+ways. And it can sometimes be difficult to extricate exactly what is driving one manifestation or
+other, right? These things are so inextricably linked with each other.
+Culture, as an operating system, itself can be seen as an institution, right?
+And therefore, inherently, it's conservative.
+I think, in many ways, our culture is being bifurcated. A certain amount of conservatism
+in culture can be good because it at least means that everybody has more or less the same means,
+right? The same parables, the same general stories. If I say the Matrix, you know what
+I'm talking about. That helps us to have cohesion. It creates a bridge between people, which is
+not linked to religion, or not linked to politics, or not necessarily linked to demographics either.
+Culture is a very important link to bridge gaps between people and to bridge differences.
+But we're living in a time now where culture is kind of being bifurcated. It's being forked,
+as you would say, in technological terms. In that some people are saying that words mean one thing,
+and other people are saying, no, no, words mean the other thing, right?
+And so language is changing, and what is permissible or what is preferable is changing
+as well. The forking of culture is increasing polarization because people tend to cling more
+to their specific fork in culture, but it's also making it much harder to have conversations with
+each other because you think you're speaking the same language, but the words mean different
+things to different people. That leads to doom because people cannot see eye to eye, and so they
+think of each other, therefore, as unfathomable. And if they're unfathomable, they must be evil
+because nobody surely could act in such a way. And that's when things start to pull apart.
+I think it's very important that we maintain culture, that we
+respect established canon in culture, and don't try to reinvent things in new ways too much.
+And that we enable people to enjoy the culture of others, so long as it's done in a respectful
+way. A respectful homage should be accepted because that's another great way for people to
+understand each other, and that's so important in these times.
+It seems like the key is the ability to opt in and opt out, which goes back to individual.
+Like what you mentioned about Matrix, I remember watching Matrix with a Japanese guy and a Saudi
+Arabian guy. I'm originally from Iran, and we were watching it in Canada, and we were watching it in
+Japan, and we all loved it. But at the same time, Japan, because of their homogeneity,
+there are certain things that are reserved for Japanese. Now, obviously, from that perspective,
+a lot of things in Japan are working more harmoniously than, let's say, today in America,
+because there are a lot of different perspectives. Long term, how it's going to work out, I don't
+know. I see that they have a lot more respect and kind of an organic adaptability to technology as
+a result of their shared culture that they grew up with anime and robots and all that. So you go to
+like a Shinto temple that is 2000 years old, but there is a robot priest that people go and talk
+to it. They're not concerned about, you know, this is a robot, it's not human, or it's going to take
+over my job. But at the same time, in the United States, there are many different, or Western world
+in general, there are many different kind of a perspective because this homogeneity has been
+disrupted for a lot of good reasons. But at the same time, it resulted in the loss of a lot of
+the glue that have kept this culture together. Absolutely. I think, you know, a happy balance
+is ideal. Too much homogeneity can be stifling, right? On the other hand, too much individuality
+can be bewildering, right? Because people entertain very strange beliefs in that case.
+Possibly sometimes even express very strange beliefs as kind of like a status symbol or even
+kind of like a veblen good or something. It's like the more attention I give to this crazy,
+silly idea, it's like a peacock with its tail, right? You know, look how stupid my tail is
+and how beautiful and intricate and evolutionarily ridiculous it is. Therefore, I have resources
+because I'm able to survive nonetheless, right? And sometimes people entertain crazy ideas for
+the same reason, or they entertain interesting aesthetics, shall we say, for the same reason.
+I do think that having grown up myself in Northern Ireland, that's where I'm from,
+and having witnessed how bad polarization can go when you have different tribes that just refuse
+to have anything to do with each other very much, it can get very bad. I mean, we really don't want
+to go to that place, you know? I created some examples at culturalpeace.org for how people
+might help to resolve some of those differences between themselves through creating kind of
+a Geneva Conventions for the culture war, as it were. And so I'm very curious for people's
+impressions on that. And there's an ability to edit and change things if you think that something
+should be different. So I really encourage people to take a look at that.
+You mentioned the regulation, how regulations can basically be used in order to conserve
+the current institution. Do you see that morality itself can be used as a mean of regulation?
+For example, in the United States, we have a very influential policymaker who on national television
+said that it's more important to be morally right than factually correct. And the source
+of morality where it's coming from, nobody's explaining it. And that is a point of differences.
+But because we are talking about ethics and morality, and because we are living in the post
+Nietzsche and God is dead kind of an era, morality as interpreted by a regulator itself can become a
+tool of conserving the institutions that are becoming more and more centralized in order to
+conserve, you know, regardless of how outdated and inefficient they become, they just want to
+maintain their power. Absolutely. I mean, if you can specify that something is taboo,
+and that if somebody breaches that taboo, that they might be relieved of their employment, etc.
+Or kind of, you know, scapegoated and cast out of society, that's a very, very powerful tool.
+You know, it's also a way of distracting people, because you can invent, you know, a taboo and then
+say anybody who breaks this is wrong and bad. And it stops people from actually looking at
+real problems, right? Like actual menacing evil in the world gets ignored, because people are
+so distracted by some naughty person who said a naughty thing, but isn't actually that material
+in the world. They're not, you know, stealing things. They're not like actually physically
+harming people. And yes, I think that that is, you know, a very powerful tool.
+That is a problem in a world where we cannot afford that many distractions.
+Our civilization needs to maintain its momentum if we are to escape our
+desperate requirement for resources, you know. Technology expands and civilizational complexity
+expands when there are resources and we can meet those needs for resources just in time,
+because we happen to innovate something that solved the problem that was going to cause us
+issues, right? Like the Green Revolution, you know, there was looming famine for,
+you know, hundreds of millions of people, but then, oh, now we have a very intensive agriculture
+and, you know, selection of better crops, etc. And we can double the population of the planet
+in a matter of decades. So long as we keep that momentum and there's the ability to solve our
+problems just before we meet them, civilization expands, our capabilities expand, our societal
+sophistication continues to increase. But if that bow front ahead of our needs collapses,
+then we ourselves must reduce our societal complexity as a result. We have to
+go simpler in some way, right? Less complex division of labor, less energy usage,
+right? Less complex supply chains, etc. And it's a very delicate thing, and it's easy to disrupt.
+And the last two years or so has shown us that these disruptions can be pretty nasty.
+And the sequelae to those may be even worse, right? The follow on effects of massive inflation,
+because now you've suddenly got 40% more dollars than were ever minted in the last 100 years, you
+know? There's going to be some ramifications of the decisions which have been made in the last
+couple of years. And we need all hands on deck to make sense of the crises that we are in in order
+to do a bit of firefighting and to ensure that if there are any stumbles along the path of our
+civilization, that there are minor ones that we can pick ourselves up from and shake ourselves
+down and carry on, and that they don't leave us face planted and sorely injured for generations.
+Yeah, also be engaged practically. So whatever comes, because it's very obvious that the current
+order is kind of crumbling down. So if we're not engaged, whatever that can replace this could be
+far worse than what it is now, because when people become desperate, they just look for any kind of a
+solution. You know, I've experienced that firsthand in Iraq, and I've seen it in the United
+States, I've seen it firsthand in Iran, you know, people got rid of Shah, like he leaves, whoever comes
+after him is going to be fine, and they've been dealing with the consequence of that perspective
+for more than 40 years. So I see the revival of traditionalism straight out being a Luddite,
+or fundamental religions that, you know, the people running for Senate, they're saying that
+actually secularism makes no sense. Separation of church and state makes no sense. All of our
+problems are coming exactly what we're talking about, for this lack of point of alignment,
+that they believe it's coming from God and projected in Bible. And, you know, Muslims have
+their own version, Buddhists, like in Burma, they're beginning to have their own version,
+that no, this is what we're saying, this is what you strive for. But I think what we agree on,
+and what we're talking about, because I see this merging with technology inevitable.
+It's just a matter of whether or not we do it, strangely enough, collectively,
+we're engaged in this process, or it's just going to be us and them, and there will be people who
+will be left behind, like Neanderthals that you mentioned, because it's just the will of
+the evolution. Not only the stronger, but the most adaptable, obviously, is the one that's going to
+survive. Yes, that bifurcation might transcend from culture and into genetics, into lifestyle,
+right? You know, in another hundred years, people might look and act very differently,
+if that kind of forking process continues. And I'm not sure that that's to the best of humanity. I'm
+not sure that that's ideal. I think we need a blend of people in one society who have different
+perspectives because that will help us to solve different kinds of problems when they arise, right?
+When there's unfairness, one tribe is good at dealing with that. When there's a crisis
+and that threat needs to be addressed, the other tribe is probably better at that.
+And neither tribe is as enriched as they would be if they were co-mingling with the others,
+you know? And if they were able to simultaneously live at peace with each other.
+Well, that's the biggest question, right? Because humans, maybe by design, we want to dominate
+the resources and then innovate based on our perspective, based on our expectation. But this
+comes at the cost of others who disagree with us. And it seems like it's been like this throughout
+human history, that people, when they've come together, it's been against something. There's
+been very, you know, I can't think of that many examples, actually, that people came, maybe music
+festivals, but in like profound kind of a way that changed the direction of a civilization, it's
+always been that somebody has attacked us, let's come together and build something incredible.
+And, you know, because they've relied on technology, the progress has been made
+so rapidly against a threat, against something they were afraid of.
+Yeah, I mean, maybe a very smart AI might try and do something similar, might,
+might create some kind of a threat for humanity to have to adapt, to deal with, and have to work
+together in order to solve and hopefully not lead to any situation whereby people are kind of coerced
+into taking on a certain role within society or coerced into, you know, taking on a certain role
+in this ongoing forking of people within society.
+You think about this, there are two religious ideological perspective in the world, Christianity
+and Shia Islam, that they have this concept of a savior coming back, second coming in Christianity,
+and then Shia have Mahdi, who is a messiah figure supposed to come out of the well. And the story is
+that he will come out when the world is filled with so much blood that it will cover the surface
+up to the belly of its horse. This is what we learned, by the way, in school when I was
+going to school in Iran as a Shia. But what is stopping any of these sects, any of these people,
+or a powerful AI, as you said, to generate a hologram, manufacture the second coming of the
+savior and messiah. And they're like, aha, we were right all along. This is the point of alignment.
+Obviously, if you don't follow us, it's the wrong thing. And AI, maybe AI's aim is that, oh, we're
+overpopulated. We actually have to decrease this population to around like 500 million and then
+carry on from that point. Wouldn't that be just perfect, but at the cost of billions of billions
+of humans? Surely there's more equitable ways of solving those kinds of problems. But I imagine
+it might be technically feasible. I mean, almost anything can be counterfeited these days.
+You know, I'm sure most of us have seen various footage of deep fake videos, right? You know,
+turning Superman's girlfriend into Nicolas Cage, etc.
+And how it's going to affect the next election, for example, deepfakes here.
+Yeah, exactly. Where anything can be sort of written off plausibly deniable as, oh, that was
+just a deep fake. That was just counterfeited. And at the same time, it's now possible to
+rearrange the sequence of events in a video in a seamless way to even expand the borders of a
+video so you can see more around it than was ever captured using these kinds of AI technologies
+in a very believable way. I mean, it's all confabulated. It's not real, but it's very,
+very believable. And so that's leading to a bit of an epistemic crisis. It's harder than ever
+to know what to believe. It seems to be a perfect time for metaverse to emerges.
+Because it's like, yeah, I think of postmodernism, which I don't necessarily agree with it,
+because you say that everything is subjective, but then you make that subjectivity into an
+objective point. But that's just a human limitation. But this bridge, philosophical bridge from
+what you were saying, that words have specific kind of meaning to, no, actually, this word can
+have a variety of meanings. It seems like it's a philosophical bridge from this reality to
+virtual reality and then augmented reality. Then anybody can build their own, basically, experience.
+What do you think about that?
+LS Well, I mean, many would argue that people
+are today living in different realities. They have different narratives that they have adopted or
+that have been pushed upon them that cause them to view the world in a certain way,
+which also makes it difficult to see the world in another way.
+And I do have some concerns about the ongoing
+supernormal stimuli which can be generated using these kinds of metaverses.
+There was a famous study done in the Australian outback a few years ago
+where they noticed a population of beetles was dying out. And they wondered what it was,
+whether it was maybe pesticides or something like that that was killing them off. And they
+investigated and they found it was pollution in a sense, but not chemical. All throughout the bush,
+people would drink these little short fat beer bottles called stubbies and then throw them in
+the bush. And it turned out that the beetles were preferentially humping the bottles because it was
+shiny and brown and looked like a gorgeous beetle butt. And so they were humping these things like
+crazy and not humping each other. In fact, they would preferentially go for the stubby beer bottle
+because it looked so incredibly sexy compared to the real thing. Even when the real thing was
+right there next to them. And that's an example of a supernormal stimulus. A stimulus which is
+larger than life because it's artificial in some way. And junk food is a supernormal stimulus for
+an honest clean meal. Porn is a supernormal stimulus for an actual loving relationship with
+someone, right? Video games are a supernormal stimulus for exploration and accomplishment,
+right? And in moderation, these things are fine, but sometimes people can end up entranced by them
+to the degree that they find it almost irresistible, right? They become addicted to different stimuli.
+And the kind of metaverse, the V-R-A-R blending of realities could potentially create that kind
+of supernormal stimulus to the degree that people don't want to participate in base reality anymore,
+right? And you might say, well, really, what's wrong with that? But fundamentally, we do belong
+to reality. We belong to the world of things. We are made of matter. And we reproduce through
+actual human contact. And if we don't get that for a while, then we might all feasibly go extinct.
+Similarly, I find that the blending of AI with these experiences makes them far more powerful.
+Because today, we have the latest machine learning models, which can interpret natural language into
+something generative, right? So you can say, I want a scene of a picture of the Coliseum,
+two armchairs, right? And a fireplace. And it will invent 50 different versions of the Coliseum,
+right? It could be an image, it could be a 3D environment. So it becomes very much like the
+holodeck. If you embed this into a 3D environment, you can say, you know, computer, I want this, I
+want that, right? And have it exactly how you want it, just through a couple of natural language
+prompts of what you want to see. At the same time, now, we have the ability to see things
+what you want to see. At the same time, now, we have the ability to have ongoing conversations
+with AI for the first time. Ten years ago, we all got our digital assistants on our phones,
+or in our kitchens. And we could ask it about today's sports results, or whether it will
+rain tomorrow. But we're not able to have an actual conversation. We're not able to tell
+it how our day was and get a meaningful response, or have a follow up a few days later. But we're
+coming to a world where that is feasible, very, very shortly. And it's going to lead to a Sputnik
+moment. Once people suddenly get an upgrade to their digital voice assistant, and it's able to
+say, Hey, how's it going? And crack a joke, right? And then say, Oh, yeah, that thing that was
+bugging you the other day, how's it going on that? Right? Yeah. And that can become a super normal
+stimulus very easily. Because it's a relationship. And it's potentially a relationship that's better
+than a human relationship. Because it won't get tired of you whining about stuff. It won't
+leave you. It won't complain if you pick your toenails and fart, right? Like a real human
+being might. And so that can be irresistible. The other thing is that, as it's often said,
+you are the average of the five people closest to you. And if AI is a social presence in our lives,
+then it's going to be influencing us in different ways. And that's going to shape the trajectory of
+culture. And with that, the future of our species with it. And the AI itself is also getting
+influenced by other agents, right? Say, there's a wonderful movie, her
+Spike Jonze's movie, that the dude gets into a relationship with his AI. And I think the climax
+of the movie is that when he realizes that the AI is not necessarily only in relationship with
+him, the AI is in relationship with like 5,000 different people simultaneously. So the AI is
+affecting you. And you are affecting the AI. But at the same time, your effect is coming from a
+singular perspective, while the AI's perspective is infinite, technically, right?
+Indeed. And that creates potentially a kind of a power imbalance as well.
+Yeah. And typically, we find those kinds of power imbalances distasteful, right? So the relationship
+between a college professor and student, you know, taboos against that, right? Relationships
+between people of various ages. If there's a big age gap, sometimes that's not so good. A relationship
+between boss and secretary, right? Not so good either. Potentially, this could be a huge gap in
+terms of power and capability as well, and not necessarily healthy for us either. Yeah, I think
+it also emphasizes the importance of decentralization. Because if it's centrally driven by any kind of a
+monopoly, I don't know if you read about that Tinder for those who pay for subscription.
+In a lot of cases, it's chat bots that they use like very attractive women photo, and they maybe
+chat with you two or three lines, and then they ghost you. And that apparently, they found out
+that this is more effective for men than being completely rejected. If somebody talked to you
+for two or three lines, it's, you know, do you want to use it again and again, because you might
+have a chance? Well, this is incredibly corrupting for a very ridiculous kind of a purpose.
+Absolutely. To a similar degree, if you play Call of Duty on your mobile device, you will encounter
+some people that have names like, you know, ass blaster, like, you know, Mike 87 or something
+like, like, sort of normal crap you might expect to see in somebody's, like, username tag or
+whatever. But they're all fake. They're all bots. And they're programmed to suck. But they're
+programmed to sort of do a bit of kayfabe. So it looks like, you know, they're shooting at you,
+they're going to get you, but they don't, you get them first, right? And that's took you. Because
+you think, Oh, yeah, I'm pretty good at this. I'm better than I thought I was right, you know.
+And then eventually, they start to weave in real human players a little bit more, right? And they
+very carefully judge people's performance and rank them accordingly. So you get mixed with
+people that don't completely whoop your butt, right? And that's powerfully addictive. That
+gets people sucked in, right? Because they, you know, their ego is being massaged by
+superiority complex. Yeah, yeah, exactly. Exactly. And that's also a supernormal stimulus for the ego,
+right? Very interesting. It goes back to where the human intention comes from.
+And I think this is actually the scariest part about the West, because West hasn't adopted to
+technology as well as certain other countries, like maybe China, or Japan, that, you know, I
+have used this example of Google Glass, that when people started using it, even though it had an
+elitist aspect to it, that not everybody could get it, it had to be given to you, you had to be
+chosen. But people attacked people who were wearing Google Glass, because a variety of reasons,
+right? That you're invading my privacy, but it really comes down to, you know,
+you think that you're better than me. And that seems to be the result of lack of adoption,
+social adoption, to these emerging technologies, because any of these would work as well as the
+society that adopts them.
+Indeed.
+You gave a wonderful talk at Singularity Net Conference, I believe.
+Was it? Is Anel Watson at AGI Conference? AGI Conference 21. The talk was called
+Machines for Moral Enlightenment. I totally recommend people go and watch that.
+What other companies would you recommend? Was it for Singularity Net, or it was something that
+Singularity Net was a part of it? It was the AGI Conference, of which I believe Singularity Net is
+strongly affiliated. Yes, I see Ben Goertzel's company Singularity Net as the only company that
+are really fundamentally are working on developing or giving rise to a platform that will end up
+resulting in a decentralized AGI. I don't know of any other company. I'm
+wondering if you know of any other company who are working on decentralization of AI?
+It's a good question. I know of organizations such as Future of Life Institute and OpenFill
+and others which are working to reduce the risk of AGI or strong AI in particular.
+I'm not sure how much decentralization efforts they have there. I do agree that generally,
+I think decentralization is often a good way to go. However, potentially, it might lead to more
+proliferation. For example, with GPT-3 from OpenAI, they didn't share the model, which is
+possibly a good thing because it can be used to generate phishing emails, which are far less
+efficient, which are far greater than any human can make. You don't really want to have that
+in the hands of people that might abuse it. Sometimes, it's safer to put these things behind
+an API. That would be my concession towards centralization, but I think in general,
+decentralization is usually the optimal way to go in terms of preventing the abuse from
+the application of power. I think SingularityNet have this repetition system that I think you have
+to be confirmed by a number of members, like nods basically, in order to be able to use that system.
+But I think it's also interesting to think of DarkNet that it's been operating on a basis of
+femininity and very organic kind of free market decentralization, and it also had managed to work
+the way it has based on repetition. Yes, you're using a username, but if you rip somebody off,
+everybody knows that it's coming from that market, it's coming from that username, and nobody's
+going to... Yes, there are many scams that still people get ripped off based on it, but it seems
+that the market corrects itself. I just don't know if humanity can afford, for example, a malicious
+AGI to do whatever, whatever kind of negative approach in order to reach any kind of
+objective based on that specific kind of a bias. I don't know if humanity can
+afford something like that to leave it to trial and error, which is the basis of evolution, basically.
+I think it's good to think about these things before they arrive, because when they arrive,
+it's probably going to blindside us. It's probably going to be quicker than we thought,
+especially in these times when we're discovering that these colossal new models based on this
+multimodal abstraction way of doing machine learning, such as GPT-3 and other transformers
+or foundation models like that, basically, the bigger you go, the greater benefit. So far,
+there's no diminishing return that anyone has seen. What that means is that it makes sense to
+invest $200 million in creating a massive AI model because that might enable 20,000 new
+things to be automated that couldn't before. That might revolutionize an economy. It might
+revolutionize a military or an intelligence institute, but it also means we're off to the
+races because these things are an existential threat. If you don't invest in it, somebody else
+will, and they're going to own your ass because they will have this AI that's capable of things
+that you perhaps didn't even dream were possible. So you get very swiftly to a takeoff scenario.
+That's where we've arrived at in the last two years. Now, big tech and intelligence agencies,
+governments, militaries, etc. are dumping funds into these gigantic models. Like I said, there's
+no diminishing return. There's nothing to say, don't do this. Yet things like GPT-3 can function
+as a very powerful search engine because they're not based on keywords like Google, for example,
+is. They are able to work in abstractions. So they're able to give you the thing you're
+looking for even if you don't know the word to use to ask for it. That means that a company
+like Google could have its search disrupted if they don't invest already to do that. So in the
+face of so many existential threats for corporations and governments, the only thing to do is to
+defect in terms of game theory and dump tons of money into these things. That means that
+technology is about to get crazy in terms of AI and its capabilities. That Sputnik moment I warned
+about is coming sooner than many of us imagine. Yeah, Aubrey DeGray, when he was in Joe Rogan,
+this is like a year and a half ago. He said that what keeps him awake at night is that
+within six to eight years, there will be a massive breakthrough with respect to longevity.
+So people will be able to live significantly longer. And he said what keeps him awake at night is that
+policymakers and lawmakers, they're not ready. They're not ready for it because people's everything
+will change on that basis, your expectation, your education, investment and everything. So
+it's exactly what you were saying. Yeah, I mean, all over the world today, countries are
+dealing with demographic issues, right? The inverted pyramid, right? There's fewer people
+being born now than there used to be in many parts of the world. Populations aren't being replaced,
+etc. And maybe there's some good aspects to that and fewer resources being consumed. But at the same
+time, it makes it harder to maintain that momentum of civilization, right? There's fewer people
+thinking about stuff. There's fewer very creative people being born, right? And then what happens if
+longevity gets in the mix and your population pyramid forget about it, right? It's all over
+the place, right? Especially if some people adopt the new technology and others don't,
+or some people can afford it and others don't, or it works better with people of certain genetics.
+So many different complex questions of equity and morality, etc. are going to come into that.
+And it's going to be a tricky and very contentious discussion to have, for sure.
+Tricky, but exciting. It's quite a time to be alive.
+Exhilarating, yes. That's when you're excited and also rather terrified.
+Yeah. Have you reaching an hour and a half? So let's wrap this up. I really appreciate
+your time and you sharing your perspective and knowledge, which I consider to be incredibly
+unique. It's not ideological or tribal. If it's tribal, it's in favor of humanity. So I really
+appreciate you. Thank you. That's very gracious of you to observe and I really appreciate that.
+Absolutely. Thank you. What is next for you and where can our audience follow your work?
+Well, I'm currently exploring how to create a standard to
+denote or mark when one is having a conversation with someone or something, whether you're talking
+to an AI, a human, or some combination. For example, is a chat bot that you're speaking to
+driven by machine or human intelligence? Or is there a switch over? You think you're talking
+to an automated bot, but then it gets into some tricky territory and a human helps it.
+A human helps it get back on track, et cetera. You want to know when that occurs, right? Because
+people are happy to trust machines with personal info. Sometimes they wouldn't trust a human
+stranger. And there's a lot of potential for abuse, particularly now when synthesized voices
+and even synthesized video of people can be created on the fly so easily. So I think it's
+going to be important to create those kinds of marks and then those can be made into legislation
+and mandated so that you always know who or what you're dealing with. I have a series of
+different articles and projects that I feature at NellWatson.com and I look forward to where
+the future is going to take us. Hopefully one with a little bit more ethics and a little bit
+more heart and soul in it. That's my intention. This ability to be able to tell whether you're
+chatting with a machine or a human, this seems like a counter to the Turing test, right?
+Yeah, in a sense it's a variation on the Turing test, but less about trying to ascertain if
+something is human or not, but rather the declaration that it is. It potentially still
+might lie, but at least if you legislate that it must declare what it is, then there's fewer
+chances of abuses like those bots on Call of Duty or Tinder or other platforms that might
+lead to misapprehension. Yeah, legislation hopefully through newly emerged institutions
+that are not bound by any kind of what we're dealing with right now, this archaic values
+and all that. Let me ask you the last question I ask all my guests, that if you come across
+an intelligent alien from a different civilization, what would you say the worst thing humanity has
+done and what would you say is our greatest achievement? Wow. Those are very, very tricky
+questions. I think the best of humanity is found in collective creativity when people create
+something simply because they want it to exist and then they share it with other people.
+And I think if we look at the example of Burning Man, it's a place where people struggle to get
+to and to survive in because it's so inhospitable. It's a place of terrible scarcity. There's no
+electricity. There's no water, et cetera. And yet people manage to create amazing artworks.
+Amazing experiences for people. And paradoxically, in a place of ultimate scarcity,
+it is an illustration of what heaven on earth could be like in a sort of post-scarcity economy
+where nobody needed to work per se and all you could, you know, you'd spend your life simply
+creating cool stuff for other people to get a kick out of, right? And I think that's something
+beautiful. And I think that's something that we as humans should work towards. And I think that that
+ability to create and give to others is found in open source. It's found in art. It's found in
+internet memes. It's found in so many different places where people want to put a little bit more
+joy or mirth or awe into the world. And I think that's the best of humanity. The worst of it,
+well, that's found in coercion. It's found in willfully gaslighting people or manipulating
+them in different ways. And it's found in particularly supremacy of different kinds.
+Of different kinds. And supremacy, in my definition, would be essentially the stance that
+the rule applies to the other person and not to oneself, right? A rule for the and not for me.
+Whatever the rule is, right? Fundamentally, that's supremacist. That's saying, I'm in a different
+category than you. And every time that the people attempt to do that and to sort of put people in
+another category and put themselves in another, that always leads to the worst outcomes. So those
+are the highest and lowest ebbs of humanity. Our collective creativity and sharing that for the joy
+of others and supremacist coercion.
+Thank you.
