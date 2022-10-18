@@ -1,0 +1,1968 @@
+1
+00:00:00,000 --> 00:00:06,960
+moving beyond the earth, leaving the solar system, moving to other stars, leaving the earth behind,
+
+2
+00:00:06,960 --> 00:00:15,760
+are our obligations to ourselves, our obligations to the earth itself, our obligations to life,
+
+3
+00:00:16,720 --> 00:00:25,440
+our obligations to the universe, and, even though Stephen doesn't use explicitly religious words,
+
+4
+00:00:25,440 --> 00:00:35,360
+our obligation to God. Now, this is the ethos that I recommend, which is basically a reformulation
+
+5
+00:00:36,320 --> 00:00:45,040
+of the Cosmic ethos in a language that is more understandable to people here and now.
+
+6
+00:00:45,040 --> 00:00:57,600
+Julia Prisco, welcome back to New Human Podcast, this time the 98th episode, sir.
+
+7
+00:00:59,680 --> 00:01:04,480
+Thank you very much for having me again. I enjoyed our last conversation last year.
+
+8
+00:01:04,480 --> 00:01:11,840
+Yes, indeed. It was right after the first launch of astronauts with SpaceX reusable rocket,
+
+9
+00:01:11,840 --> 00:01:22,240
+which I know you're very adamant in following what's going on with respect to space exploration
+
+10
+00:01:22,240 --> 00:01:28,000
+and SpaceX and all that, and that was my second launch that I saw, and I recently just saw my
+
+11
+00:01:28,000 --> 00:01:33,200
+fifth launch, which every single time it really is a spiritual experience, which again is good to
+
+12
+00:01:33,200 --> 00:01:37,760
+talk to you because you're talking about science technology, but also about spirituality and
+
+13
+00:01:37,760 --> 00:01:47,040
+religious aspect of what is going on in our civilization. So, congratulations for your new
+
+14
+00:01:47,040 --> 00:01:53,920
+book, which is the main reason we're having this discussion. Future is Spaceflight Meditations,
+
+15
+00:01:53,920 --> 00:01:58,960
+which came out recently, I believe, and it's available on Amazon and everywhere else. The
+
+16
+00:01:58,960 --> 00:02:03,680
+digital and printed books are available. And audiobook, is it also available?
+
+17
+00:02:03,680 --> 00:02:12,960
+Uh, no, no, not audio book yet. Um, so we're gonna, also because, uh, you know, I understand
+
+18
+00:02:12,960 --> 00:02:20,080
+that many people like audio book, the things here. I like, I like, I love reading so very much
+
+19
+00:02:20,720 --> 00:02:27,760
+that, you know, for me, uh, depriving myself of the pleasure of reading, uh, written words
+
+20
+00:02:27,760 --> 00:02:35,520
+is unthinkable. And, uh, well, but I do know that many people like, uh, like audio books.
+
+21
+00:02:35,520 --> 00:02:42,960
+Yeah. By the way, let me just get a copy. Great. I also show it, um, as we talk about it. Yeah,
+
+22
+00:02:42,960 --> 00:02:50,880
+wonderful. And this is a follow-up. Would it be fair to say that this is a follow-up to your first
+
+23
+00:02:50,880 --> 00:03:00,880
+book, Tales of the Touring Church? It's much less general. Uh, I would, uh, I prefer to say that it
+
+24
+00:03:00,880 --> 00:03:08,400
+is a zoom on one, uh, chapter in Tales of the Touring Church, the chapter where I discuss
+
+25
+00:03:09,200 --> 00:03:15,840
+space exploration. And since I believe, uh, that chapter is one of the most important in
+
+26
+00:03:15,840 --> 00:03:22,800
+Tales of the Touring Church, I thought to expand it, uh, in a standalone book. We're definitely
+
+27
+00:03:22,800 --> 00:03:27,360
+going to talk about it, but as I mentioned before we start recording, we'll go in public.
+
+28
+00:03:27,360 --> 00:03:32,640
+I want to talk to you about a blog post that you had that, uh, the title is, I have resigned from
+
+29
+00:03:32,640 --> 00:03:39,680
+the IEET board of directors. Would you mind if I read just the beginning of your post just so our
+
+30
+00:03:39,680 --> 00:03:51,600
+audience can have some kind of a opinion? Um, uh, um, I was kind of hoping to avoid that, but anyway,
+
+31
+00:03:51,600 --> 00:03:57,520
+let's go. Please do. I have resigned from the board of directors of the Institute for Ethics and
+
+32
+00:03:57,520 --> 00:04:04,000
+Emerging Technologies, IEET. I have resigned in protest against a recent decision which hasn't
+
+33
+00:04:04,000 --> 00:04:09,840
+been publicly announced yet. Like much of today's liberal left, the IEET has embraced certain
+
+34
+00:04:09,840 --> 00:04:15,760
+currently fashionable by dangerously toxic trends, identity politics, Me Too, cancel culture. These
+
+35
+00:04:15,760 --> 00:04:21,920
+trends start with good sentiments, but become toxic and dangerous when pushed to unreasonable
+
+36
+00:04:21,920 --> 00:04:27,920
+and often ridiculous extremes. And the reason I wanted to start with this is because I believe
+
+37
+00:04:27,920 --> 00:04:35,120
+that what's going on with respect to an underlaying of technological debate and developments that we
+
+38
+00:04:35,120 --> 00:04:42,160
+are dealing with, there is a war of ethos. There is a war of philosophical aspect of what it is that
+
+39
+00:04:42,160 --> 00:04:45,840
+we are doing, what is the purpose of it, where we are headed and why we are doing what we are
+
+40
+00:04:45,840 --> 00:04:54,000
+doing. And so I think this is related because in many fields, especially AI ethics, this is
+
+41
+00:04:54,000 --> 00:05:01,840
+almost entirely occupied by people who are coming from that political perspective, that
+
+42
+00:05:01,840 --> 00:05:06,640
+philosophical perspective that you can call it far left, extreme left, whatever you want to call it,
+
+43
+00:05:06,640 --> 00:05:14,480
+so liberal left as you're calling it. So I just want you to very generally talk a little about it
+
+44
+00:05:14,480 --> 00:05:21,920
+before we get into your book, just so we know what was the problem with this organization, not exactly
+
+45
+00:05:21,920 --> 00:05:26,720
+but just let's hear it from you.
+
+46
+00:05:29,200 --> 00:05:39,440
+Okay, and as a matter of fact, I do discuss these things in the book as well. And my last book,
+
+47
+00:05:39,440 --> 00:05:47,840
+Future is the Space Flight Meditation, is one of the very few writings in which I have gone
+
+48
+00:05:47,840 --> 00:05:56,800
+into any kind of detail about what I think of what's happening in the world of politics
+
+49
+00:05:56,800 --> 00:06:04,960
+and especially culture. I don't really like to discuss these things and in fact I almost never
+
+50
+00:06:04,960 --> 00:06:17,760
+write about this for essentially two reasons. The first is that it's a complete waste of time
+
+51
+00:06:17,760 --> 00:06:30,160
+because as things are today, you will not persuade anyone when discussing the politics and
+
+52
+00:06:30,160 --> 00:06:37,760
+culture. Nobody will persuade you. What will happen instead is that you will start calling
+
+53
+00:06:37,760 --> 00:06:44,800
+each other names and I just don't have the time for that. It's a complete waste of time. I prefer
+
+54
+00:06:44,800 --> 00:06:51,760
+to dedicate my time to other things. But there is also another reason why I'm kind of reluctant
+
+55
+00:06:52,640 --> 00:07:01,920
+to discuss these things and it is that, you know, the world in which we live today is so
+
+56
+00:07:05,120 --> 00:07:09,600
+toxically polarized. For example, in the United States
+
+57
+00:07:09,600 --> 00:07:16,960
+we have a situation where 40 percent of the people hate and are hated by the other 40 percent.
+
+58
+00:07:17,920 --> 00:07:25,440
+It's a very heated situation. It's not good. It's not healthy. It's not something that can lead us
+
+59
+00:07:25,440 --> 00:07:37,920
+anywhere good. So I kind of feel that my responsibility as a citizen is to stay in the
+
+60
+00:07:37,920 --> 00:07:48,960
+is to stay away from this debate. I don't want to contribute to blowing on a fire
+
+61
+00:07:50,000 --> 00:07:59,360
+that could become a very dangerous one so that I normally stay out of these things. In my writings
+
+62
+00:07:59,360 --> 00:08:06,240
+I focus on other things. In my social media posts on Facebook and Twitter I also focus on other
+
+63
+00:08:06,240 --> 00:08:14,880
+things. I almost entirely ignore politics just like every now and then because, you know, I think
+
+64
+00:08:14,880 --> 00:08:26,720
+this is the responsible thing to do. Let's just talk of something else and let's just discuss
+
+65
+00:08:26,720 --> 00:08:37,920
+something else. Now concerning this IEET episode, let's just say that there was a decision
+
+66
+00:08:39,920 --> 00:08:47,040
+taken by a very narrow majority vote by the rest of the vote
+
+67
+00:08:47,040 --> 00:08:58,080
+and I did not agree at all with this decision. My disagreement was so strong that I resigned
+
+68
+00:08:58,080 --> 00:09:04,320
+from the board and I was kind of sad of doing that because, you know, I had been one of the
+
+69
+00:09:04,960 --> 00:09:10,560
+co-founders of the Institute of Ethics and Emerging Technologies back in 2004
+
+70
+00:09:10,560 --> 00:09:18,480
+and I was full of enthusiasm at that time because I thought the Institute would
+
+71
+00:09:19,280 --> 00:09:30,320
+really amount to something one day but now that it has fallen to cancel culture I don't think
+
+72
+00:09:30,320 --> 00:09:39,040
+it's likely to go anywhere and here again I have better things to do with my time and so I preferred
+
+73
+00:09:39,040 --> 00:09:50,400
+to part ways as friendly as possible of course but I was just not interested in continuing to be part
+
+74
+00:09:51,520 --> 00:10:01,120
+of that organization. Now coming to what exactly was the episode that
+
+75
+00:10:01,120 --> 00:10:11,920
+prompted me to resign from the IEET. I'm not at liberty to say it and I'm not at liberty to say it
+
+76
+00:10:11,920 --> 00:10:26,320
+because it was a discussion among the board of an organization and the discussion led to a decision
+
+77
+00:10:26,320 --> 00:10:35,840
+that has never been communicated to the public as far as I am aware so that, you know, since
+
+78
+00:10:37,360 --> 00:10:48,480
+it's not a public decision I'm not at liberty to comment on it. Now of course many people have
+
+79
+00:10:48,480 --> 00:11:00,880
+guessed correctly exactly what decision I was talking about and let's just say that it's not
+
+80
+00:11:00,880 --> 00:11:08,480
+that difficult to guess. Yeah I think a lot of us want to leave politicization alone just so we can
+
+81
+00:11:08,480 --> 00:11:14,080
+do the stuff that we like but the problem is that the politicization by totalitarians is not leaving
+
+82
+00:11:14,080 --> 00:11:19,840
+us alone, you know, to do whatever we want to do so everything is being politicized and I think it
+
+83
+00:11:19,840 --> 00:11:25,520
+goes back to again a discussion that we had the first time that we talked about I think we
+
+84
+00:11:25,520 --> 00:11:30,080
+disagreed with respect to for example Mormon Transhumanist Association that you said that
+
+85
+00:11:30,080 --> 00:11:39,680
+it's actually a beneficial thing for religions to adopt into or religions to yeah adopt a modern
+
+86
+00:11:39,680 --> 00:11:45,840
+technological kind of a framework within themselves and this seems to be to be the same thing that
+
+87
+00:11:46,400 --> 00:11:53,040
+certain kind of people from certain political perspectives they are basically monopolizing
+
+88
+00:11:53,680 --> 00:12:00,000
+on their ethos on their perspective and then using technology in order to empower that and this is
+
+89
+00:12:00,000 --> 00:12:04,560
+affecting every single one of us ultimately that's that's one of the reasons that I wanted to start
+
+90
+00:12:04,560 --> 00:12:16,960
+with this. I can agree with that and there's also another reason why one unfortunately cannot keep
+
+91
+00:12:16,960 --> 00:12:27,360
+so far from politics as one would wish it is when you know the things that really interest you depend
+
+92
+00:12:27,360 --> 00:12:39,120
+on political decisions that may or may not be made and this is exactly the case of space flight
+
+93
+00:12:39,120 --> 00:12:48,000
+and this is the reason why I do discuss political and cultural issues in my book because you know
+
+94
+00:12:48,000 --> 00:13:01,920
+it's very good that private space flight operators like Elon Musk or Jeff Bezos are doing all the
+
+95
+00:13:01,920 --> 00:13:13,200
+wonderful things that they are doing but I'm not too optimistic when it comes to
+
+96
+00:13:13,200 --> 00:13:17,920
+to their ability to do these things
+
+97
+00:13:20,240 --> 00:13:33,600
+not only without government support but even in presence of some kind of opposition from the
+
+98
+00:13:33,600 --> 00:13:47,920
+political world and this is a very likely a risk that we will be facing you are reading of course
+
+99
+00:13:47,920 --> 00:14:03,200
+of this declaration that of influences that you know this space program of billionaires are not
+
+100
+00:14:03,200 --> 00:14:12,240
+something good and this and that and blah blah and I think there is a very real danger that
+
+101
+00:14:12,240 --> 00:14:20,560
+uh in countries like the United States the administration may become more and more hostile
+
+102
+00:14:21,760 --> 00:14:32,240
+to private commercial space flight ventures and at the same time of course we cannot
+
+103
+00:14:33,680 --> 00:14:41,680
+rely on the government alone to take us back to the moon and then beyond because you know
+
+104
+00:14:41,680 --> 00:14:47,200
+we have been waiting for that for 50 years and that hasn't happened which means that this will
+
+105
+00:14:47,200 --> 00:14:58,880
+not happen without some being uh changing factor like the advent of private space flight so I do
+
+106
+00:14:58,880 --> 00:15:10,800
+not think that our expansion into space can proceed at this moment without at least some
+
+107
+00:15:10,800 --> 00:15:19,120
+moderate support from the government and that means that unfortunately politics is still very
+
+108
+00:15:19,120 --> 00:15:31,440
+much related to space flight and of course culture overall is also very much related to space flight
+
+109
+00:15:31,440 --> 00:15:39,520
+and these are things that I could not ignore in a book dedicated to space flight as simple as that
+
+110
+00:15:39,520 --> 00:15:46,640
+yeah absolutely do you see this competition and conflict that is going on between US and China
+
+111
+00:15:46,640 --> 00:15:53,760
+help development of further and further technology that I would imagine that you're considering
+
+112
+00:15:53,760 --> 00:16:00,000
+space exploration to be the objective and goal of all of these technological advancements that
+
+113
+00:16:00,000 --> 00:16:10,480
+we're experiencing correct not only space exploration space expansion is not exploration
+
+114
+00:16:10,480 --> 00:16:18,000
+for the sake of science it's much deeper than that it is that we need to expand our habitat
+
+115
+00:16:18,000 --> 00:16:32,000
+our human habitat beyond uh this uh planet and uh you know is not exploring a mass to see what mass
+
+116
+00:16:32,000 --> 00:16:42,000
+is like is like it's more uh settling mass to enable large numbers of people to eventually live
+
+117
+00:16:42,000 --> 00:16:51,520
+there and then move beyond so yes space expansion is uh what I'm really interested in do you see the
+
+118
+00:16:51,520 --> 00:16:58,560
+conflict between US and China helps this space expansion as a matter of um survival if not
+
+119
+00:16:58,560 --> 00:17:11,360
+if not anything else yes it's uh it is really a matter of survival and uh you know helps uh uh it
+
+120
+00:17:11,360 --> 00:17:21,280
+can help in uh two different ways one is that you know uh China will just go to the moon and
+
+121
+00:17:21,280 --> 00:17:29,520
+will just colonize mass and uh this is the possibility that over the rest of this century
+
+122
+00:17:29,520 --> 00:17:39,760
+it will be China that uh leads human expansion in the solar system if this happens I think this is
+
+123
+00:17:39,760 --> 00:17:49,280
+good I mean what it's important for me is that humanity expands beyond the earth now whether
+
+124
+00:17:49,280 --> 00:18:00,000
+that humanity is American humanity or Chinese humanity or African or whatever is a very secondary
+
+125
+00:18:00,000 --> 00:18:08,160
+consideration to me the important thing is that we do it as human beings who does it first it's
+
+126
+00:18:08,160 --> 00:18:19,680
+less important and this is one of the reasons why I'm a while uh I mean I'm not a fan of today's China
+
+127
+00:18:20,720 --> 00:18:27,360
+on the contrary I am very critical of today's China because you know I keep reading about this
+
+128
+00:18:30,800 --> 00:18:34,560
+how do they call it social control system something like that
+
+129
+00:18:34,560 --> 00:18:42,800
+that they basically want social credit score what they basically want to achieve is a society
+
+130
+00:18:42,800 --> 00:18:53,040
+where everyone is monitored from the cradle to the grave 24 seven every day by the government
+
+131
+00:18:55,360 --> 00:19:02,480
+and of course they will be monitoring the compliance of the citizens to all that the
+
+132
+00:19:02,480 --> 00:19:10,400
+Chinese communist party thinks is good and well I think this is no good I'm not a fan of that kind
+
+133
+00:19:10,400 --> 00:19:19,920
+of social organization not at all but while I'm not a fan of the social organization system of
+
+134
+00:19:19,920 --> 00:19:34,400
+today's China you know I am a fan of humanity moving to settle space so if it is inevitable
+
+135
+00:19:35,440 --> 00:19:44,480
+that China takes the lead then I say okay why not welcome to China now of course for me
+
+136
+00:19:44,480 --> 00:19:55,280
+uh this is a easier to say than for an American because I'm not an American so I have
+
+137
+00:20:01,200 --> 00:20:09,200
+had and still have a great admiration for America I'm not a citizen I do not live in America so that
+
+138
+00:20:09,200 --> 00:20:18,560
+you know if it's America or China if you ask me that okay well I would like to see a continued
+
+139
+00:20:18,560 --> 00:20:29,520
+leadership of America but if it has to be China so be it but going back to America what I think
+
+140
+00:20:29,520 --> 00:20:41,280
+is that at this moment the only thing that can revitalize the US space program and make sure
+
+141
+00:20:41,280 --> 00:20:52,880
+that it stays vital is competition with China uh this example competition is good if there is
+
+142
+00:20:52,880 --> 00:21:05,120
+an immediate and credible threat that China could be about to achieve space supremacy in the
+
+143
+00:21:05,120 --> 00:21:14,080
+cislunar space and of course convert that space supremacy into geopolitical and even military
+
+144
+00:21:14,080 --> 00:21:23,600
+advantage here on the earth that I think would be something that no American administration regardless
+
+145
+00:21:24,480 --> 00:21:36,560
+of its political color could ever afford to ignore and I think that is happening now
+
+146
+00:21:36,560 --> 00:21:47,120
+and I think it is good I mean without uh China I'm not very optimistic about the US administration
+
+147
+00:21:47,760 --> 00:21:56,400
+to give any damn about space with China they have to yeah that's a very good point space maximalism
+
+148
+00:21:56,400 --> 00:22:02,880
+basically now whatever is going to happen is going to happen for as long as we get to where we are
+
+149
+00:22:02,880 --> 00:22:10,080
+supposed to be getting which is popularizing the solar system first and then beyond with humanity
+
+150
+00:22:11,920 --> 00:22:18,480
+yes I think this is a good time to read the beginning of your book and then get some
+
+151
+00:22:19,360 --> 00:22:25,520
+ideas from you that why this was right now was the right time to write and publish this book
+
+152
+00:22:25,520 --> 00:22:32,960
+you're saying in the introduction we must strenuously push toward our cosmic destiny among
+
+153
+00:22:32,960 --> 00:22:40,160
+the stars beginning to expand beyond the earth before it's too late is our most important task
+
+154
+00:22:40,160 --> 00:22:45,600
+at this moment in history many actors have important roles to play and there's room for
+
+155
+00:22:45,600 --> 00:22:52,160
+everyone space flight will also help find viable solutions for current developmental environmental
+
+156
+00:22:52,160 --> 00:22:59,440
+and social problems but the road to the stars is full of impediments and roadblocks we will not
+
+157
+00:22:59,440 --> 00:23:06,640
+advance as fast as we wish therefore we must keep our moods strenuous and our drive strong we need
+
+158
+00:23:06,640 --> 00:23:13,360
+an optimistic space flight culture oriented to the future with energizing visions of interplanetary
+
+159
+00:23:13,360 --> 00:23:19,760
+interstellar and cosmic futures we also need a futurist space philosophy which I totally agree
+
+160
+00:23:19,760 --> 00:23:26,880
+and that's exactly why I said that this war over the ethos that is now being politicized is essential
+
+161
+00:23:26,880 --> 00:23:30,960
+with respect to our technological advancement and space expansion
+
+162
+00:23:33,920 --> 00:23:42,000
+well you have read the first two paragraphs of the book and after that perhaps there is no need
+
+163
+00:23:42,000 --> 00:23:51,920
+that you read the rest of the book because what I wanted is to say in these very short paragraphs
+
+164
+00:23:51,920 --> 00:23:58,720
+exactly what the book was about but no I'm joking I think that's the thesis that is the thesis of
+
+165
+00:23:58,720 --> 00:24:08,000
+your very other right right right yes I'm saying the most important things here at first
+
+166
+00:24:08,000 --> 00:24:17,680
+that you know moving beyond the earth leaving all over the solar system one day
+
+167
+00:24:18,560 --> 00:24:27,600
+leaving even the solar system beyond and moving to other stars is you know it is the most important
+
+168
+00:24:27,600 --> 00:24:34,480
+thing because it's what we have to do it's built in our genes that's what humans do
+
+169
+00:24:34,480 --> 00:24:44,640
+and it's also kind of an obligation to the earth to life and to the very universe an obligation that
+
+170
+00:24:44,640 --> 00:24:53,040
+we have to bring life out there of course there is other life out there but we have something to add
+
+171
+00:24:53,040 --> 00:25:05,200
+but we have something to add and adding this something that we can add is an existential
+
+172
+00:25:05,200 --> 00:25:16,240
+imperative for humanity so this is my consideration number one now it's a philosophical position
+
+173
+00:25:16,240 --> 00:25:27,840
+and I cannot expect everyone else to automatically agree with my philosophical position if I don't
+
+174
+00:25:27,840 --> 00:25:38,480
+persuade them first and persuading them has to be based on arguments that they can accept
+
+175
+00:25:38,480 --> 00:25:50,000
+that they can accept that's why I dedicate a big part of the book to describe some
+
+176
+00:25:51,040 --> 00:25:59,920
+practical benefits in terms of economy in terms of national security in terms of environmental
+
+177
+00:25:59,920 --> 00:26:12,720
+protection social justice that space flight will bring I tried to persuade those who do not
+
+178
+00:26:13,360 --> 00:26:20,160
+immediately relate to my overall philosophical position that we must
+
+179
+00:26:21,280 --> 00:26:26,320
+expand into space because we must expand into space because it's our cosmic destiny
+
+180
+00:26:26,320 --> 00:26:34,800
+so this was the second important thing the third important thing is a reflection on the history
+
+181
+00:26:34,800 --> 00:26:44,320
+of the last few decades you know where you are younger than me a little bit and yeah you are not
+
+182
+00:26:44,320 --> 00:26:55,360
+on July 20 1969 you are not even alive I was I was 11 years old and I was watching this extreme
+
+183
+00:26:55,360 --> 00:27:05,600
+extremely bad quality video image on a black and white tv and it was like oh this is our future
+
+184
+00:27:05,600 --> 00:27:13,680
+and this is my future I was a kid I thought that when I turned 25 or 30 there would be a city on
+
+185
+00:27:13,680 --> 00:27:19,840
+the moon where I could move to this is where we landed on I'm just saying for people who don't know
+
+186
+00:27:19,840 --> 00:27:29,600
+yes yeah yeah we had so many great expectations all the hits of my generation and we have been
+
+187
+00:27:29,600 --> 00:27:39,760
+frustrated because after 1972 we have never been back to the moon now we might be back to the moon
+
+188
+00:27:41,520 --> 00:27:49,440
+before the end of this decade perhaps I'm not even 100% sure of that so maybe things are moving
+
+189
+00:27:49,440 --> 00:27:58,000
+again but one thing is true is that it has taken a lot more than we thought and things will continue
+
+190
+00:27:58,000 --> 00:28:11,920
+to be that way I mean is inevitable then in a complex world with technology finance politics
+
+191
+00:28:11,920 --> 00:28:18,480
+and culture and all that we will not advance as fast as we would like to advance on the road to
+
+192
+00:28:18,480 --> 00:28:28,000
+the stars but we need to keep our enthusiasm alive and here is where I come to the paramount
+
+193
+00:28:28,000 --> 00:28:42,320
+importance of cultural factors we need to uh engineer cultural factors that uh permit
+
+194
+00:28:42,320 --> 00:28:51,760
+a sustainable space program over the next few decades regardless of the roadblocks and
+
+195
+00:28:51,760 --> 00:28:59,520
+difficulties and lack of money and political opposition that we will inevitably encounter
+
+196
+00:29:00,800 --> 00:29:02,640
+this is the importance of
+
+197
+00:29:05,360 --> 00:29:11,920
+popularizing space this is the importance of good science fiction this is the importance of new
+
+198
+00:29:11,920 --> 00:29:19,440
+spiritual movements related to the space expansion of humanity these things are extremely important
+
+199
+00:29:20,560 --> 00:29:28,800
+and uh this is uh what my own work is mostly related to
+
+200
+00:29:30,960 --> 00:29:35,280
+you had mentioned in the book that you start writing it right after the first launch of
+
+201
+00:29:35,280 --> 00:29:43,440
+astronauts by space x reusable rocket right what made you think that this is the right time
+
+202
+00:29:43,440 --> 00:29:47,920
+to write this book and who exactly are you talking to is the general public or is this
+
+203
+00:29:47,920 --> 00:29:54,560
+a specific group of um people with influence and power what was the what was the objective
+
+204
+00:29:54,560 --> 00:30:07,440
+and what inspired it when it did uh you know if the those in the general public want to read my
+
+205
+00:30:07,440 --> 00:30:19,520
+book i can only be happy of that at the same time i understand that those who do not already agree
+
+206
+00:30:19,520 --> 00:30:31,840
+with me on most things may find it difficult to relate personally to my book because i say
+
+207
+00:30:32,480 --> 00:30:43,200
+very clearly that to me space flight is important in itself i say that space flight is the most
+
+208
+00:30:43,200 --> 00:30:50,320
+important thing and that is my philosophical position uh many people won't like that
+
+209
+00:30:51,520 --> 00:30:56,560
+from many comments that i've received many people actually don't like that
+
+210
+00:30:58,320 --> 00:31:08,800
+uh so that uh the book is mostly directed at space enthusiasts like me who do share
+
+211
+00:31:08,800 --> 00:31:15,360
+my philosophical convictions and i give them a lot of
+
+212
+00:31:17,600 --> 00:31:26,480
+practical arguments and consideration in support of space flight the support of human expansion
+
+213
+00:31:26,480 --> 00:31:36,480
+into space because i hope that they can use these arguments and considerations when talking to others
+
+214
+00:31:36,480 --> 00:31:47,360
+uh so i'm not credible too many because i am too much of a space enthusiast but perhaps some of my
+
+215
+00:31:47,360 --> 00:32:03,680
+readers are for example uh you know there is some kind of uh tension between uh enthusiasm for space
+
+216
+00:32:03,680 --> 00:32:14,400
+enthusiasm for space and enthusiasm for things like protecting the environment from
+
+217
+00:32:15,280 --> 00:32:23,360
+climate change these are seen entirely entirely erroneously in my opinion as too conflicting
+
+218
+00:32:23,360 --> 00:32:37,360
+the goals on the contrary i offer some arguments to understand that these are not conflicting
+
+219
+00:32:37,920 --> 00:32:48,800
+goals but on the contrary they are complementary goals that reinforce each other and in particular
+
+220
+00:32:48,800 --> 00:33:01,280
+no space expanding into space is really the only way to protect the environment of the earth
+
+221
+00:33:01,280 --> 00:33:07,920
+in the long term and here i'm talking of things like for example uh offshoring
+
+222
+00:33:07,920 --> 00:33:18,080
+some heavily polluting the heavy industry to space i'm talking of things like uh extracting the
+
+223
+00:33:18,080 --> 00:33:25,120
+energy from space and using it on the earth throughout uh the last few days there have been
+
+224
+00:33:25,120 --> 00:33:36,080
+for example uh papers about space-based solar power and this is another consideration if
+
+225
+00:33:36,080 --> 00:33:44,480
+is another consideration if we can extract energy up there and use it and use it down here that
+
+226
+00:33:44,480 --> 00:33:50,480
+means we don't have to extract the energy down here in the first place there is the possibility
+
+227
+00:33:50,480 --> 00:34:02,800
+and that is specifically related to the moon that mining the moon for helium-3 could provide
+
+228
+00:34:02,800 --> 00:34:11,680
+inexhaustible reserves of fuels for future nuclear fusion reactors and in the last few days
+
+229
+00:34:12,320 --> 00:34:19,680
+interesting synchronicity we are also hearing a lot of the fact that nuclear fusion is becoming a
+
+230
+00:34:19,680 --> 00:34:27,840
+viable operational technology at the end you know these are so many things that are conspiring
+
+231
+00:34:27,840 --> 00:34:38,560
+to put it like that to make people understand that if we want to protect the environment
+
+232
+00:34:38,560 --> 00:34:47,200
+of the earth then we need to expand into space beyond the earth that will only be beneficial
+
+233
+00:34:47,200 --> 00:34:55,200
+for the planet so that this is an entire chapter of my book and it's something that you know if you
+
+234
+00:34:55,200 --> 00:35:05,440
+have some environmentalist friends of the people who are fans of uh Greta Thunberg for example
+
+235
+00:35:06,000 --> 00:35:14,240
+you can use these arguments to persuade them that space is good for the environment of the earth
+
+236
+00:35:14,240 --> 00:35:18,800
+and then they can use these arguments to persuade other people and so on
+
+237
+00:35:18,800 --> 00:35:26,720
+I think one of the problems that these um a lot of people do have to even begin to comprehend
+
+238
+00:35:26,720 --> 00:35:34,160
+the value and viability of the idea of space expansion goes back to inequality and class
+
+239
+00:35:34,160 --> 00:35:38,720
+issues here on earth because for a lot of people it's a matter of how they're going to survive the
+
+240
+00:35:38,720 --> 00:35:44,560
+next day and so even talking about this the space is kind of they take it as offensive because
+
+241
+00:35:44,560 --> 00:35:49,280
+they're like we don't even care you know we just want to survive and raise our family and so when
+
+242
+00:35:49,280 --> 00:35:53,200
+you're focusing on space it means that you're ignoring all the problems that we are dealing
+
+243
+00:35:53,200 --> 00:35:59,440
+with here on earth and so you know i'm being called the leftist for talking about inequality
+
+244
+00:35:59,440 --> 00:36:06,480
+and like for example i'm absolutely in favor of ubi uh in you know as at so i mean they're
+
+245
+00:36:06,480 --> 00:36:12,720
+inevitably you know we are dealing with explosion of technological tools because they're
+
+246
+00:36:12,720 --> 00:36:19,360
+advancing exponentially and our experience is linear but at the same time i understand if i
+
+247
+00:36:19,360 --> 00:36:24,000
+talk to somebody about space expansion that person look at me in a very strange way and like i just
+
+248
+00:36:24,000 --> 00:36:27,360
+want my kid to survive a school and i be able to pay my rent
+
+249
+00:36:30,480 --> 00:36:35,120
+and this is a point that i completely understand and here again
+
+250
+00:36:35,120 --> 00:36:41,520
+um i made that many considerations in the book to show that it is not so
+
+251
+00:36:44,320 --> 00:36:51,440
+uh expanding into space does not in the long term
+
+252
+00:36:53,360 --> 00:36:59,840
+take uh important resources away from important things that we should
+
+253
+00:36:59,840 --> 00:37:08,960
+do here on the earth on the contrary uh space expansion is an enabler for all these things
+
+254
+00:37:09,680 --> 00:37:12,160
+and you know uh an analogy
+
+255
+00:37:15,040 --> 00:37:24,800
+that could be done is uh what happened in the united states in the 19th century where uh
+
+256
+00:37:24,800 --> 00:37:35,040
+people started to move west no uh it's not like everyone was happy in new york it's not like
+
+257
+00:37:35,040 --> 00:37:44,640
+everyone had enough to eat in new york uh but and it was a very wise move the government decided to
+
+258
+00:37:44,640 --> 00:37:50,480
+encourage and they had to spend money on this of course they decided to spend money on the
+
+259
+00:37:50,480 --> 00:37:56,960
+encourage and they had to spend money on this of course they decided to encourage a mass
+
+260
+00:37:57,760 --> 00:38:04,720
+uh movement toward the west they did that with financial incentives and things like that
+
+261
+00:38:06,080 --> 00:38:15,760
+and you know that didn't directly change the condition of uh the poor people in new york
+
+262
+00:38:15,760 --> 00:38:24,080
+not uh directly and not immediately but eventually it did what happened eventually is that the
+
+263
+00:38:24,080 --> 00:38:34,240
+expansion of the united states toward the pacific ocean uh was one of the factors that made the
+
+264
+00:38:34,240 --> 00:38:43,920
+united states the most advanced economy in the world and you know there are still some uh
+
+265
+00:38:43,920 --> 00:38:52,320
+people who go hungry in new york today but i think we can agree that there are not as many
+
+266
+00:38:52,320 --> 00:39:05,680
+as the people who went hungry uh 150 years ago so that ultimately the expansion of the habitat of the
+
+267
+00:39:05,680 --> 00:39:16,160
+of the u.s population that was only living on the east coast it has uh eventually resulted in
+
+268
+00:39:16,160 --> 00:39:24,880
+economic prosperity for everyone this is one example another example is much closer to us in time
+
+269
+00:39:24,880 --> 00:39:37,680
+in time and uh it is uh the development of internet technology that started in the 60s
+
+270
+00:39:38,320 --> 00:39:47,920
+with the financial support of the government then went kind of invisible for a couple of decades
+
+271
+00:39:47,920 --> 00:39:55,680
+and then started to explode in the early 80s a few years after that we started to see the
+
+272
+00:39:55,680 --> 00:40:05,200
+first mobile phones now uh perhaps you don't remember the first uh mobile phones oh i should have
+
+273
+00:40:08,640 --> 00:40:15,280
+taken one of my first mobile phones that i still have to show it on camera it was uh it was break
+
+274
+00:40:15,280 --> 00:40:26,320
+size yeah it was heavy as a brick i had to buy a special carrying case for it because of course
+
+275
+00:40:26,320 --> 00:40:31,040
+it didn't fit in my pocket and of course it costed a hell of a lot this was one year
+
+276
+00:40:34,000 --> 00:40:40,960
+this must have been a 90 this must have been like 94 95 something like that
+
+277
+00:40:40,960 --> 00:40:48,160
+and uh something that many people say is that well okay these things that you have to pay
+
+278
+00:40:48,160 --> 00:40:56,000
+two thousand dollars for a mobile phone is an insult to the poor and i can i can understand
+
+279
+00:40:56,800 --> 00:41:04,240
+if some people felt insulted seeing the others on the road with an expensive mobile phone
+
+280
+00:41:04,240 --> 00:41:10,560
+but what we used to say is that okay look we are at a very early stage of a new technology
+
+281
+00:41:10,560 --> 00:41:19,920
+what will happen because that's the evolution of important technologies that the price of these
+
+282
+00:41:19,920 --> 00:41:27,520
+things will go down and down and down and at the same time the performance of these things will go
+
+283
+00:41:27,520 --> 00:41:35,680
+up and this even if we cannot see exactly how right now will entirely change the world
+
+284
+00:41:35,680 --> 00:41:41,040
+in a couple of decades and that is exactly what happened because now a mobile phone doesn't cost
+
+285
+00:41:41,040 --> 00:41:50,480
+money i mean if you don't want to spend money the phone company will give you the mobile phone for
+
+286
+00:41:50,480 --> 00:41:57,840
+free if you have a contract with them and the performance of the phones you know is uh
+
+287
+00:41:57,840 --> 00:42:09,200
+is uh phenomenally better and it was uh 20 years ago and now i don't think i know anyone
+
+288
+00:42:09,200 --> 00:42:18,800
+doesn't have a mobile phone and at least if we stay in the western world this is also true in the
+
+289
+00:42:18,800 --> 00:42:29,200
+uh most under-privileged inner cities in the u.s and europe essentially everyone has a mobile phone
+
+290
+00:42:30,240 --> 00:42:37,440
+and uh the impact of everyone having a mobile phone is overall good
+
+291
+00:42:38,960 --> 00:42:45,680
+i'm persuaded of that and the same will happen with space now space flight cost a lot of money
+
+292
+00:42:45,680 --> 00:42:54,960
+and at times is difficult to see to see exactly uh why we are going to space and what we are
+
+293
+00:42:54,960 --> 00:43:03,840
+going to space for but just give time to time just wait for a few decades and it seems evident
+
+294
+00:43:03,840 --> 00:43:12,320
+from so many early warning signs that we can see right now that in a few decades you know it will be
+
+295
+00:43:12,320 --> 00:43:23,440
+it will be very evident inside why we decided to expand into outer space and it will be evident
+
+296
+00:43:24,000 --> 00:43:33,680
+that the overall impact on humanity will have been good i'm sure of that yeah um another example of
+
+297
+00:43:33,680 --> 00:43:39,600
+people being offended by expensive new technology was uh google glass that when it came out we
+
+298
+00:43:39,600 --> 00:43:45,360
+talked a lot about that in this podcast that when it came out people were being attacked who were
+
+299
+00:43:45,360 --> 00:43:51,120
+wearing them there were also an aspect of like an elitist aspect to it that you couldn't just go out
+
+300
+00:43:51,120 --> 00:43:57,280
+and buy it you had to be chosen and be given those devices and this is almost 10 years ago that people
+
+301
+00:43:57,280 --> 00:44:02,240
+were being attacked around silicon valley in san francisco all these big tech buses were being
+
+302
+00:44:02,240 --> 00:44:09,360
+attacked and now politically this is coming from the right there is a backlash against technology
+
+303
+00:44:09,360 --> 00:44:14,240
+altogether and there is a revival of traditionalism they're saying we have to go back to traditional
+
+304
+00:44:14,240 --> 00:44:20,320
+roots and they all seem to be connected in a sense that technology is evolving exponentially
+
+305
+00:44:20,320 --> 00:44:26,080
+and we we can't even comprehend it if we are not seeing the big picture and a lot of people not
+
+306
+00:44:26,080 --> 00:44:33,040
+only they get offended they get really scared and this being scared has real world political social
+
+307
+00:44:33,040 --> 00:44:38,240
+and cultural consequences that can affect what you're saying the advancement of technology is
+
+308
+00:44:38,240 --> 00:44:44,160
+not as fast as maybe we want it to be or as it needs to be in order for us to survive as a species
+
+309
+00:44:44,160 --> 00:44:54,880
+as a civilization i prefer to be optimist and the thing that even if things will be difficult
+
+310
+00:44:54,880 --> 00:45:02,560
+i prefer to hope that we will make it and even more important than that i prefer to do all the
+
+311
+00:45:02,560 --> 00:45:12,960
+little things that i can do to get closer to that objective but you know uh back to the tension
+
+312
+00:45:12,960 --> 00:45:24,000
+between uh technology and our cultural traditions i don't think that there has to be an opposition
+
+313
+00:45:24,000 --> 00:45:33,840
+i think we can uh advance technology even advance technology uh very fast
+
+314
+00:45:37,360 --> 00:45:46,960
+uh within our uh cultural traditions i mean it would be a long discussion but uh i'm not
+
+315
+00:45:46,960 --> 00:45:53,920
+i'm not immediately persuaded that it is not the case do you feel the same way about democracy as a
+
+316
+00:45:53,920 --> 00:46:01,600
+system of governance because you mentioned china advancing really quickly it in a way is as a
+
+317
+00:46:01,600 --> 00:46:08,080
+consequence of a central structure of authority that they have and here in the u.s. all the places
+
+318
+00:46:08,080 --> 00:46:13,680
+basically that are developing and doing research about these technological advancements they are
+
+319
+00:46:13,680 --> 00:46:19,840
+being run as centralized uh points of authority centralized structures of authority like whether
+
+320
+00:46:19,840 --> 00:46:32,960
+it's darpa or a spacex or google i'm not um i'm not really fundamentalist in this i think there
+
+321
+00:46:32,960 --> 00:46:45,440
+is room for many different organizational models you know i do tend to have a slight preference
+
+322
+00:46:45,440 --> 00:46:54,160
+myself for decentralized models but if it happens that you know the weakest solution
+
+323
+00:46:54,160 --> 00:47:02,560
+to an important problem can only come from a centralized structure then i would say why not
+
+324
+00:47:02,560 --> 00:47:08,160
+this is the same kind of reasoning that i was making before saying that you know
+
+325
+00:47:08,160 --> 00:47:16,880
+uh government support is still necessary for spaceflight and space expansion we cannot i mean
+
+326
+00:47:16,880 --> 00:47:26,880
+there is uh nothing bad in the idea of government itself does nothing bad about the idea of
+
+327
+00:47:26,880 --> 00:47:33,440
+government itself i guess it's just a form of government no yes it's the focus is a
+
+328
+00:47:35,360 --> 00:47:42,320
+is a management thing some organizational structure can be better than other
+
+329
+00:47:42,320 --> 00:47:50,800
+organizational structures for some specific purposes and that's it not really fundamentalist
+
+330
+00:47:50,800 --> 00:47:56,880
+here i welcome uh many different possibilities it just seems like the long-term big picture kind
+
+331
+00:47:56,880 --> 00:48:03,360
+of view is maybe incompatible with the system that people run on the basis of being elected
+
+332
+00:48:03,360 --> 00:48:08,960
+and then re-elected rather than being focused on some kind of an objective and determine policy
+
+333
+00:48:08,960 --> 00:48:14,000
+on that basis rather than you know determining policy based on the next century rather than the
+
+334
+00:48:14,000 --> 00:48:22,000
+next four years this is this is the reason i'm saying but right but yeah i understand this point
+
+335
+00:48:22,000 --> 00:48:34,240
+but um you know here again it comes down to whether we are intelligent and pragmatic enough
+
+336
+00:48:34,240 --> 00:48:42,480
+to work together with the people who do not think in exactly the same way as we do
+
+337
+00:48:44,080 --> 00:48:52,480
+and as a matter of fact you know uh reading the news now and especially through the social media
+
+338
+00:48:53,840 --> 00:49:01,840
+you can develop the impression that you know people on the left will never accept
+
+339
+00:49:01,840 --> 00:49:07,120
+or to work together with people on the right and the other way but you know it hasn't always been
+
+340
+00:49:07,120 --> 00:49:14,720
+like that as a matter of fact this is quite a new development that has accelerated in the last few
+
+341
+00:49:14,720 --> 00:49:24,800
+years in the past it was a perfectly normal thing for example in the united states for uh
+
+342
+00:49:24,800 --> 00:49:34,880
+for uh democrats and republicans to push a bill that uh was good for both
+
+343
+00:49:38,720 --> 00:49:49,280
+um that were i mean this is really an important thing in fact uh you know um
+
+344
+00:49:49,280 --> 00:49:58,880
+um space flight the advancement of space flight needs bipartisan support
+
+345
+00:50:00,080 --> 00:50:03,040
+otherwise the rocket just doesn't take off
+
+346
+00:50:05,600 --> 00:50:13,920
+uh from the inception of a space uh program to its completion it does
+
+347
+00:50:13,920 --> 00:50:23,120
+take a long time it may be 10 it may be 15 years it may be decades and you know this can only be
+
+348
+00:50:23,120 --> 00:50:31,280
+compatible with uh a system like in the united states or many western democracies where the color
+
+349
+00:50:31,280 --> 00:50:39,440
+of the government changes every few years it can only be compatible with this if there is bipartisan
+
+350
+00:50:39,440 --> 00:50:54,320
+support and in fact i think this is uh if uh we keep talking of uh government space there has to be
+
+351
+00:50:54,320 --> 00:51:04,960
+bipartisan support but since the government can also impact the space uh commercial space
+
+352
+00:51:04,960 --> 00:51:13,920
+could also impact the space uh commercial sector you know uh the government could kill
+
+353
+00:51:14,800 --> 00:51:24,480
+elon musk with over regulation anytime so that uh you know it's not only that we need bipartisan
+
+354
+00:51:24,480 --> 00:51:34,800
+support for government space program we need bipartisan support for space flight it's safe
+
+355
+00:51:34,800 --> 00:51:42,080
+even in the private sector especially in the united states in western europe and uh you know the
+
+356
+00:51:43,040 --> 00:51:57,040
+exhortation that um uh i give many time in this book is that you know uh politicians uh i'm not
+
+357
+00:51:57,040 --> 00:52:02,640
+going to read but i'm trying to quote from memory or something like that i say somewhere that
+
+358
+00:52:02,640 --> 00:52:12,000
+politicians of the left and politicians of the right should just uh uh let go of the
+
+359
+00:52:13,280 --> 00:52:20,800
+toxic aspects of their respective ideologies should just let go of their hatred for each other
+
+360
+00:52:21,360 --> 00:52:30,880
+and just sit the fuck down to define programs that uh everyone is willing to live with
+
+361
+00:52:30,880 --> 00:52:39,040
+for a while this is exactly what needs to happen in space in the west now in china they don't have
+
+362
+00:52:39,040 --> 00:52:49,440
+this problem or at least this problem is not apparent so that yes as you were saying uh china
+
+363
+00:52:49,440 --> 00:53:01,120
+can think long term but this doesn't mean that we cannot think long term and you know uh the
+
+364
+00:53:01,120 --> 00:53:13,360
+chinese can think long term in their own way uh their way is not our way so we must learn to think
+
+365
+00:53:13,360 --> 00:53:24,400
+long term in our way and not ready to let democracy go you know uh when you first started talking
+
+366
+00:53:24,400 --> 00:53:34,000
+about democracy came to my mind my two favorite descriptions of democracy so the first i don't
+
+367
+00:53:34,000 --> 00:53:45,360
+know who said that first is that democracy are uh two uh wolves and the lamb deciding
+
+368
+00:53:45,360 --> 00:53:51,280
+democratically by majority vote what to have one of the founding fathers i don't exactly remember
+
+369
+00:53:51,280 --> 00:54:01,520
+who but one of the founding fathers said it uh perhaps somebody important say that and uh the
+
+370
+00:54:01,520 --> 00:54:09,840
+uh the other and i think it was uh sir winston churchill who said it first is that democracy is
+
+371
+00:54:09,840 --> 00:54:20,320
+the worst system of uh government with the exception of all the other systems so that you
+
+372
+00:54:20,320 --> 00:54:29,520
+know even uh in view of the structural weakness of uh democracy that is quite evident in the story of
+
+373
+00:54:29,520 --> 00:54:38,720
+the two wolves and the lamb i still think democracy is better than the alternatives
+
+374
+00:54:38,720 --> 00:54:45,920
+that we have been trying so far so i just found that it was said by benjamin franklin democracy
+
+375
+00:54:45,920 --> 00:54:51,600
+is two wolves and lambs voting on what to have for lunch liberty is well armed lamb contesting the
+
+376
+00:54:51,600 --> 00:54:59,440
+vote i'm a big fan of the second amendment i think it's it's makes a very different uh
+
+377
+00:54:59,440 --> 00:55:05,440
+apparent different and very obvious different when um the populace are i didn't know i
+
+378
+00:55:07,520 --> 00:55:14,400
+i didn't know the second half of the citation yeah but what you're saying is totally sensible
+
+379
+00:55:14,400 --> 00:55:19,600
+because space flight and the space expansion is about humanity it's not about left and right
+
+380
+00:55:19,600 --> 00:55:26,240
+democrat and republican these are all blocks that we are passing through to get to the point of
+
+381
+00:55:26,240 --> 00:55:34,400
+of first surviving as one humanity and then expanding into you know we might be human plus
+
+382
+00:55:34,960 --> 00:55:39,840
+or whatever that comes next after humanity just that it seems like there is a battle right now
+
+383
+00:55:39,840 --> 00:55:44,800
+about what is the definition of humanity and therefore what is the goal of humanity that's
+
+384
+00:55:44,800 --> 00:55:51,440
+where we are it seems like it and i think you're a very um valuable kind of a perspective because
+
+385
+00:55:51,440 --> 00:55:58,160
+you're bringing spirituality and quote unquote god into it because that is the ultimate uh purpose
+
+386
+00:55:58,160 --> 00:56:04,000
+and ultimate ethos of what humanity as a collective regardless of whatever kind of ideology we have
+
+387
+00:56:04,000 --> 00:56:12,480
+can strive towards and can um can build towards that kind of an objective that is god-given for
+
+388
+00:56:12,480 --> 00:56:23,200
+lack of a better term right um we don't even have to use explicitly the term god i mean uh
+
+389
+00:56:23,920 --> 00:56:28,560
+you finished the book with some people won't yes yes yes i do
+
+390
+00:56:30,640 --> 00:56:36,880
+i finished the book with a quite um unconventional concept of god
+
+391
+00:56:36,880 --> 00:56:44,800
+unconventional in the sense that my god is not a supernatural god and uh i think the concept of
+
+392
+00:56:44,800 --> 00:56:52,800
+supernatural doesn't make any sense to me because if you define nature as all that exists then
+
+393
+00:56:52,800 --> 00:56:58,960
+supernatural doesn't exist by definition so everything is uh uh natural now of course
+
+394
+00:56:58,960 --> 00:57:08,080
+that we may have to expand your definition of uh nature to make room for things that do exist in
+
+395
+00:57:08,080 --> 00:57:20,720
+nature so uh there is an overall organizational principle in the universe that kind of uh pulls
+
+396
+00:57:20,720 --> 00:57:30,320
+the universe above toward the increasing levels of complexity and uh you know generates uh
+
+397
+00:57:31,360 --> 00:57:37,600
+intelligent life well first it generates non-intelligent life then it generates
+
+398
+00:57:37,600 --> 00:57:44,960
+intelligent life then it may generate one day super intelligent life and one aspect of this
+
+399
+00:57:44,960 --> 00:57:54,720
+uh principle of uh increasing complexity and penetration of consciousness and intelligence
+
+400
+00:57:55,280 --> 00:58:02,480
+in the whole universe one aspect of this is that we must go to space we must leave the earth we must
+
+401
+00:58:03,280 --> 00:58:11,520
+bring our dna our uh calcification of the universe we must go to space we must leave the earth
+
+402
+00:58:11,520 --> 00:58:22,560
+our dna our culture everywhere in the universe among the stars this is a
+
+403
+00:58:24,560 --> 00:58:33,040
+a universal principle that you don't have to call god but you can call god if you want
+
+404
+00:58:33,040 --> 00:58:45,280
+and uh i think this is what uh uh traditional religions refer
+
+405
+00:58:47,280 --> 00:58:56,880
+to in the most abstract parts of their theology then besides that you have the evolution of
+
+406
+00:58:56,880 --> 00:59:03,680
+evolution of super intelligent itself you know we will go to the stars we'll expand among the stars
+
+407
+00:59:04,640 --> 00:59:14,880
+and uh humanity itself uh uh will be changed we will uh edit our genome we will perhaps uh
+
+408
+00:59:14,880 --> 00:59:23,040
+upload our minds to uh computational systems much more powerful than a biological uh brain
+
+409
+00:59:23,040 --> 00:59:34,880
+we will do all these things and we will ascend toward god-like uh levels and conditions that uh
+
+410
+00:59:36,400 --> 00:59:45,360
+uh we probably are not even are not even able to imagine now and so many countless other alien
+
+411
+00:59:45,840 --> 00:59:52,000
+civilizations in the universe must have done exactly the same things and this is another reason
+
+412
+00:59:52,000 --> 01:00:03,600
+why you must go to the stars to find uh teachers among the stars civilization much more advanced
+
+413
+01:00:03,600 --> 01:00:14,240
+than ours and uh one of the things that i have in the last chapter of my book that you were
+
+414
+01:00:14,240 --> 01:00:24,480
+referring to is a wonderful quote by Stanley Kubrick the director of 2001 space odyssey
+
+415
+01:00:25,840 --> 01:00:33,360
+where uh you know i don't remember to quote by heart but uh if you read the book just read it
+
+416
+01:00:33,360 --> 01:00:42,480
+is uh you know he's saying in very few words that out there in the universe there exist uh beings
+
+417
+01:00:42,480 --> 01:00:50,000
+uh so inconceivably advanced from our point of view that we can only call them gods
+
+418
+01:00:51,280 --> 01:01:00,320
+whatever else would uh whatever other name will be a lack of honesty so there are uh gods out there
+
+419
+01:01:00,320 --> 01:01:10,240
+and this is another religious concept what um stanley cubrick did not say but his uh
+
+420
+01:01:10,240 --> 01:01:18,960
+collaborator Arthur C. Clarke uh did say that is that we ourselves if we are lucky and if we do
+
+421
+01:01:19,760 --> 01:01:26,400
+things well we ourselves may become a god-like civilization in the future
+
+422
+01:01:27,760 --> 01:01:37,920
+and that again is among the ultimate objectives of our quest to go to the stars we have to go to the
+
+423
+01:01:37,920 --> 01:01:44,880
+stars out there to do all that yeah and now there are philosophical and there i say religious
+
+424
+01:01:44,880 --> 01:01:50,560
+attempts are being made in order to create some kind of an ethos on the on this exact basis that
+
+425
+01:01:50,560 --> 01:01:56,880
+you're saying whether it's simulation hypothesis or theory or jason georgiani's prometheism
+
+426
+01:01:57,760 --> 01:02:04,400
+yeah these are all coming from traditional religions breaking the mold and moving towards
+
+427
+01:02:04,400 --> 01:02:10,400
+whatever that is coming next which i think they're very valuable yes in fact i've been
+
+428
+01:02:10,400 --> 01:02:18,560
+listening to your interviews with uh jason georgiani and your two separate interviews
+
+429
+01:02:18,560 --> 01:02:29,440
+with the recent work yes basically when ritz says that his version of the simulation hypothesis
+
+430
+01:02:29,440 --> 01:02:38,800
+is a necessary adaptation of the metaphors that the religion use to communicate to people
+
+431
+01:02:38,800 --> 01:02:45,120
+i think he's uh totally right one moment i think i need to put the power cable
+
+432
+01:02:49,760 --> 01:02:50,320
+here we go
+
+433
+01:02:52,960 --> 01:02:57,120
+amazing i had jason georgiani twice i don't know if you listen to both of them
+
+434
+01:02:57,120 --> 01:03:06,480
+uh no yeah i had them i'll look for them yeah the first one was when his prometheism book came out
+
+435
+01:03:06,480 --> 01:03:14,880
+maybe a few months ago and the second one was after that yeah after that he wrote a book uh called
+
+436
+01:03:14,880 --> 01:03:21,920
+closer encounters about ufos and this came out basically as a response to the government the
+
+437
+01:03:21,920 --> 01:03:29,040
+us government report on ufos oh i need to read i really like him i mean he's a very controversial
+
+438
+01:03:29,040 --> 01:03:36,880
+kind of a figure because of you know some of his views but uh i think he's extremely unique and he
+
+439
+01:03:36,880 --> 01:03:43,200
+dares going to places that you know not that many people i don't think you know can't even begin
+
+440
+01:03:43,200 --> 01:03:52,400
+you know can't even begin comprehending the possibility of them i like his book maybe i didn't
+
+441
+01:03:52,400 --> 01:03:59,680
+100 percent of it but i certainly did like a good 80 percent of it yeah excellent well this is a
+
+442
+01:03:59,680 --> 01:04:04,080
+pleasure that you've been listening to the interviews that i've done with them two of my
+
+443
+01:04:04,080 --> 01:04:10,560
+favorite guests definitely what are some of the characteristics of the ethos that you would
+
+444
+01:04:10,560 --> 01:04:17,120
+recommend for humanity to have in order to move uh to the point that we can decide as humanity
+
+445
+01:04:17,120 --> 01:04:21,760
+rather than left and right black and white you know democrat and republican and all that
+
+446
+01:04:27,920 --> 01:04:28,480
+is uh
+
+447
+01:04:28,480 --> 01:04:42,080
+uh i don't have a name for it the name that comes closer to my mind is cosmism is uh from
+
+448
+01:04:43,760 --> 01:04:52,000
+the russian cosmist philosophical movements that was uh that started in russia between the end of
+
+449
+01:04:52,000 --> 01:05:01,840
+19th century and the beginning of the 20th century but uh you know they they used a language that
+
+450
+01:05:02,800 --> 01:05:12,480
+we find very much outdated now and if you read the writings of a russian cosmist philosopher
+
+451
+01:05:12,480 --> 01:05:23,200
+you wouldn't understand much and perhaps you wouldn't like what you read thinking of
+
+452
+01:05:24,160 --> 01:05:27,040
+more contemporary examples
+
+453
+01:05:27,040 --> 01:05:31,040
+because
+
+454
+01:05:40,480 --> 01:05:47,280
+talk of an excellent book written uh to me one moment i just need to tell my wife to
+
+455
+01:05:48,400 --> 01:05:50,960
+turn the water off yeah it was background noise
+
+456
+01:05:50,960 --> 01:06:00,080
+uh there was there is an author called steven wolf who wrote a great book called the obligation
+
+457
+01:06:00,640 --> 01:06:08,960
+by the way if you never had steve on the podcast you should definitely on on the show you should
+
+458
+01:06:08,960 --> 01:06:19,680
+definitely have him it's a very short book and uh he says much better perhaps the same things
+
+459
+01:06:19,680 --> 01:06:25,680
+that i say that you know all the things that we have been discussing uh moving beyond the earth
+
+460
+01:06:25,680 --> 01:06:32,880
+leaving the solar system moving to other stars leaving the earth behind are our obligation
+
+461
+01:06:33,760 --> 01:06:42,560
+to ourselves our obligation to the earth itself our obligation to life our obligation to the
+
+462
+01:06:42,560 --> 01:06:51,120
+universe and even so steven doesn't uh use explicitly religious words our obligation to god
+
+463
+01:06:52,160 --> 01:07:03,680
+now this is the ethos that i recommend which is basically a reformulation of the cosmist ethos
+
+464
+01:07:03,680 --> 01:07:15,840
+in a language that is more understandable to people here and now let's fill this obligation
+
+465
+01:07:15,840 --> 01:07:25,440
+that we have to ourselves into the universe around us to contribute to awaken the universe
+
+466
+01:07:25,440 --> 01:07:35,600
+to life consciousness super intelligence and perhaps god-like nature this is our obligation
+
+467
+01:07:35,600 --> 01:07:43,040
+this is what we are here for when uh earlier you said of course there are excuse me of course
+
+468
+01:07:43,040 --> 01:07:48,160
+there are other lives beyond earth on what basis do you say that on what kind of life
+
+469
+01:07:48,160 --> 01:07:55,360
+on what kind of life are you talking about conscious life or just like bacterial life or bacteria
+
+470
+01:07:55,360 --> 01:08:03,440
+bacteria i guess it could be conscious too but you know what i mean bacterial life and animal life
+
+471
+01:08:03,440 --> 01:08:10,960
+and the human life life and conscious life and super conscious life there is room for all possible
+
+472
+01:08:10,960 --> 01:08:20,400
+uh source of life as a matter of fact i'm persuaded that no life is not an accident it's not uh the
+
+473
+01:08:20,400 --> 01:08:28,320
+result of uh excuse me one moment i have to pay my life again that uh she wants to cook dinner so
+
+474
+01:08:30,000 --> 01:08:37,760
+things just happened just yeah just a five uh just five more minutes after that
+
+475
+01:08:37,760 --> 01:08:45,520
+okay but this uh but this thing about life is important you know uh life is not a random
+
+476
+01:08:45,520 --> 01:08:53,920
+accidents that happened as a result of a random fluctuation that uh happened but could not
+
+477
+01:08:54,720 --> 01:09:05,120
+have happened i have a completely different view i think that the very loss of fundamental physics
+
+478
+01:09:05,120 --> 01:09:13,760
+are wired to eventually reduce complexity life consciousness intelligence
+
+479
+01:09:15,520 --> 01:09:22,400
+super intelligence and godliness it could not have been another way it has to be this way
+
+480
+01:09:23,600 --> 01:09:34,000
+one consequence is that there is life everywhere it's not ruled out that we will find some
+
+481
+01:09:34,000 --> 01:09:38,720
+elementary examples of life here in the solar system for example there is a mission
+
+482
+01:09:42,160 --> 01:09:47,760
+planned to one of the ice moons in the outer solar system that may have an ocean
+
+483
+01:09:51,200 --> 01:09:59,280
+which may have more life we will find something in the solar system and when we eventually move out
+
+484
+01:09:59,280 --> 01:10:08,080
+to the stars we will find all sorts of life from simple life to societies like
+
+485
+01:10:10,880 --> 01:10:17,680
+our human civilization to inconceivably more advanced alien societies we will find all that
+
+486
+01:10:18,640 --> 01:10:24,480
+great i'm not gonna keep you much further from the delicious dinner that i'm sure your wife is
+
+487
+01:10:24,480 --> 01:10:30,000
+preparing it my best to your wife as well julio prisco's book thank you very much book is called
+
+488
+01:10:30,000 --> 01:10:36,480
+future with space flight meditations uh check him out all over uh internet wonderful i'm also
+
+489
+01:10:36,480 --> 01:10:43,920
+showing uh showing the cover and the amazon page and all that um just please share your message
+
+490
+01:10:43,920 --> 01:10:54,880
+to the humanity as the final saying of this episode of podcast
+
+491
+01:10:54,880 --> 01:11:13,840
+uh let's just go to space
+
+492
+01:11:24,880 --> 01:11:29,840
+so
+
