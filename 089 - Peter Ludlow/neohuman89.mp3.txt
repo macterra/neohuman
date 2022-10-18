@@ -1,0 +1,542 @@
+You know a few years ago you would have thought it crazy to say well there aren't going to be any more like record stores or there aren't going to be any more books you know book Barnes and Noble bookstores or something like that or you know if you remember the day when we had travel agents and we had to go somewhere you went to visit the travel agent.
+No one does that anymore they do all that online now all that was done with centralized.
+Centralized computing platforms are placed in it and now we're doing it with a decentralized platform but.
+What we're going to see is that the the unraveling that we saw with things like the music industry the publishing industry.
+The newspaper industry for example all of these things had to radically change because of the internet well now we have another iteration of the internet and it's coming directly at traditional finance and things are going to move very very very rapidly.
+Peter lot low welcome back to near human podcast after a few episodes.
+Yeah yeah it's an honor to be back yeah I haven't done much because I honestly.
+I'm getting away from a routine of any kind and if there is something interesting or someone interesting pops up I'm more than happy and willing to talk but there is no need to do like one one a week or anything like that because I think anything that needed to be said has been said already you know this is the age of experiencing.
+Yeah yeah yeah I hear you I hear you so for those of our audience who are not familiar with what you're doing just a very quick introduction to who peter lot low is according to peter lot low.
+Well the last time I talked to you I started out by talking about my formative years as a grad student in New York and if you recall I talked about how I had become impressed by this group of people downtown that were the filmmakers and the no wave musicians and the musicians became filmmakers and the filmmakers became musicians the weirdos what's that the weirdos yeah yeah.
+I'm.
+And then I said something about how that I that sort of got me going on on this sort of intersection of linguistics and philosophy.
+And and so that drives a lot of what I do which is work on things that I don't know anything about but I'm always sort of for some reason attracted to these areas where there are people coming from.
+Completely different fields and it occurred to me after we talked about that that that's exactly what's going on in this decentralized finance space or this defy space which is that you have this.
+Bunch of people sort of coming in from different areas so you have the tech people coming in you have the finance people coming in and you have these legal people coming in to so it's making for an interesting mix and I'm glad you wanted to talk about these recent developments.
+Yeah we stayed in touch since the last time you were on mainly about John McAfee I think yeah sharing articles and stuff but then we also talked about defy and then the whole GameStop thing happen that for most of most people it just goes right above their head they don't even want to know about it exactly because of that because they don't want to say that they we don't know what's going on but it's such an interesting thing to talk about.
+A revolutionary thing that is happening especially considering how I have the US national debt clock right in front of me which is over 27 trillion 27.8 trillion soon to be 28 trillion and I think.
+This is a very important and interesting time considering socio-political dynamic in the US as well to talk about how this facade and illusion of stability that system tried to create so hard and at any cost can be brought down by members of a forum that.
+I believe the last article that I share with you was how the Goldman Sachs and interactive brokers executives are claiming that Wall Street bets tend a trend that could take down the system.
+Yeah so what's going on Peter.
+It absolutely could but it's I mean the thing is that there is you put it correctly there's this illusion of stability but everything is very very fragile and all it really takes is one black swan event to bring everything down you know we talked about Raul Paul who is a former hedge fund guy I guess he's still a hedge fund guy.
+That is a Mac so called macro investor and he published an emergency podcast about this right that that he thought that that GameStop business was going to trigger a meltdown so like on a on a weekend he's he was right he was like ready to see everything fall apart like on Monday of this this this current week before we.
+Go further would you describe it for people who don't know what's going on with respect to GameStop that what happened and what does that imply.
+Yeah so there were these hedge funds that were short selling GameStop what does that mean it means they were borrowing the stock and then selling it so it's not stock that they actually own but they borrow it to sell it.
+Why are they doing that they're doing that because they believe that GameStop is in a tenuous economic position why isn't it a tenuous economic position well because no one goes to brick and mortar stores anymore and also because you can download games you don't have to go to these stores.
+However in reddit there is a group called Wall Street that's and the people in Wall Street that's apparently felt nostalgic about GameStop and a few other things so among the things being shorted was not just GameStop but AMC the movie theater chain et cetera and they decided that the people in Wall Street that this reddit group decided that they were going to fight back and they were going to fight back.
+They were going to buy these stocks in the face of this this shorting this this shorting by the hedge funds and what happened one has a certain deadline to fulfill the contract that they're obligated to fulfill yeah yeah yeah yeah and then you know they're paying interest so you know it's it's a dangerous thing to short a stock because.
+Your exposure is kind of potentially infinite because as long as the price of the stock keeps going up you have to steep keep covering your covering your position and so the redditors were buying up they were buying up AMC they were buying up GameStop and the hedge funds got their basically they got their faces melted off.
+And so they were buying this stuff using Robin Hood and then Robin Hood came to the defense of the of the hedge funds and stop people from buying anymore stock so they allowed people to sell these stocks like GameStop but not to buy them with predictable results that the price cratered at that point and then a lot of a lot of users a lot of the clients of a lot of the clients of Robin Hood got burned.
+It also revealed a certain truth which is that you know they weren't really the clients of Robin Hood you know they might have thought they were but the thing is they weren't paying to do any of those transactions and the first rule of social media and the internet these days is that if you're not paying for the product who's the product you're the product you're the product exactly so the deal is that those people that were using Robin Hood they learned the hard way that the
+that they were the product and what was happening is that Robin Hood was selling selling data to hedge funds like Citadel and as my understanding is that they were not just selling it but they were selling it real time so that hedge funds could front run these trades so that is if I place a trade in in on or a bunch of my friends place a trade.
+On Robin Hood that data is seen immediately and it's handed to the hedge funds that are into high speed trading so they can buy it and then dump on us right it's it's somewhat gross but it is what it is and so that was the deal with the Wall Street bets and you know Raul Paul and some other people in finance sort of big time finance people thought that this could actually be the trigger that could bring down the whole house of cards.
+Because it could have generated a cascading effect you know if if that hedge fund starts to go over under then it has to start covering its positions it's got to start selling and then the worry was that it would initiate a cascading effect of of cells that would blow out other positions that are either long and short.
+And that would yield to more selling and then you know eventually we're down to like you know trading with fish hooks and ammunition or crypto crypto that was that was that you get the fish hooks ammunition canned goods and crypto Robin Hood I think I think it was Robin Hood that they also limited the buying ability of Dogecoin.
+Yeah yeah that was another one yeah which you know first of all the shorting of stock Elon Musk tweeted that you cannot sell the house you don't own you cannot sell the car you don't own but you can't sell the stock that you don't own but that is not to benefit you as the people that is to benefit very small group of I mean that is the definition of elites basically.
+Yeah there are there have been people complaining about short naked short selling you know shorting something that you don't actually hold and I mean it's another thing if you own it and you want to short it because then you're protecting your position and I think no one is objecting to short selling they're objecting to this idea that you borrow the stock to short it and then the really weird thing was that in this GameStop case I mean it turns out that you're not going to be able to sell the house you're
+there was more stock sold than actually existed so it was like the amount of shorted GameStop was like one point five three
+times the amount of GameStop that actually exists and if you think about it that it's like if that can happen then you're just in a hopeless situation because people can sell more stock than actually exists that's just gonna
+that's just gonna drive you to ruin and that is that is the complaint that a number of these people have i mean another person who famously complain about this is patrick bern used to run.
+Well guess he's still principal owner overstock.com i mean for years he was complaining about people naked short selling on his company.
+Yeah it's really interesting I think what's being disrupted at the core of all of these things is the concept of trust the trust in a middle man that a lot of people really you know you're born into it that you trust something outside of yourself it can be family it can be culture it can be education that you receive at school and you know how you receive that information is interpreted based on the intention of biases of people
+or the structure that you're a part of or consider you to be a part of it you know I use the example of religion in certain cases like an Islam you born into it and there's no way out of it and you're assumed as a member of that religion doesn't matter if you believe that's a justifiable kind of a thing to do or not so it seems like.
+Yes the house of cards is falling apart but that cannot necessarily be a bad thing if this whole thing has been an illusion.
+It will be I mean I don't know if it's gonna be a good thing or a bad thing it will be a different thing I mean you know the Chinese.
+I mean you know the Chinese it's not a problem but it's what is it may you lend it's an insult may you live an interesting time we certainly are the house of cards collapses we will be living in interesting times that's for sure and maybe something better emerges from it or.
+You know it's it's always dangerous because you don't know what you're going to see next I mean sometimes in these periods of instability something pretty terrible can emerge from it like happen in the first half of the twentieth century and we had.
+Lots of totalitarian movements emerge from these periods of crisis and so while the current system is untenable.
+And it looks like it's quite fragile and could come tumbling down at any minute I don't think anybody knows what what we're going to get next yeah.
+Yeah it's the reason I'm saying it's not necessarily a bad thing I don't mean that it's a good thing it's just something that is going beyond dependence on any centralized kind of a structure of authority or trust.
+Yeah see that's a good point and I like the trust point because the thing the thing is we we not only trusted these.
+So called middlemen but we had to we really didn't have a choice because these we need agents of trust in order for me to send money from me to you for us to engage in any sort of contract and what's happening with these with crypto currencies and decentralized finance is that.
+These middlemen are being eliminated by trustless contracts right basically by mathematics and computational systems and so forth so we didn't have a choice before we had to trust these people and they didn't really do anything to deserve our trust certainly banks did nothing to earn our trust and.
+And now that we have alternatives emerging very rapidly we may get a very different picture and we may find that those those institutions may be expecting us to continue with our trust but they're going to be disappointed if that's the expectation yeah.
+One way to maybe see some kind of a silver lining is that because we are going through this period of disruption then the solution which, in this case can be decentralization will be speed up basically increase in adoption because people will begin looking for alternatives and I think it's a very good argument that crypto currencies haven't really addressed in the last few years.
+The ease that regular customer need to do their things like with banking apps it's easy you know and it even that it took regular people many many years to go from going to the actual brick and mortar kind of a bank to use the app and a lot of people made the argument that going from that to.
+Let's say trading or buying or selling cryptocurrency at this point is not that tangible and it's not that feasible for majority of people but I think that will change exactly because of this because you've seen that the value of the money that you count on if it's a US dollar or Canadian dollar or whatever it's going down Bitcoin is going up for example and then you wonder why is this happening and when you understand the philosophy behind it at least.
+At least as much as you need to make sense out of what is happening then the adoption can happen right.
+Yeah I think so I think certainly on the room for both the ins for both institutions and retail there is a big kind of learning curve here and people are developing apps that are going to make this easier to do.
+But those apps are meaningless unless we have something there waiting for us once we get on board and I think what's really interesting actually since we last talked is is the kind of explosion of work that's being done in defy in in in creating alternatives to banking so you know if you want to get a loan I mean it is it's really an ugly process if you want to go to the bank and borrow some money you know they want to know who you are they want to know your entire history.
+They're going to charge you exorbitant rates likewise if you put a little bit of money into the bank they're they're not you know they're going to give you an interest rate of like what is it now point zero six percent or something like that but if you go into defy right now and if you put in money.
+I mean they're paying like ten percent fifteen percent I mean it varies a lot but I mean it's it's a real return on the money and more than that you could easily borrow money so here's an easy way to do it in some of these platforms you just put in some collateral in bitcoin or whatever and they say okay.
+I will loan you twenty percent of that money boom you make it with the contract you do it in ten seconds you don't have to go talk to a bank officer you don't have to like go through all the humiliation of applying for it you've got your bitcoin or you've got your aetherium or you've got your xrp whatever you have you go in you deposit it in the contract you take your money which will be like a US dollar stable coin let's say like a tethered US dollar stable coin let's say like a tethered US dollar stable
+dollar and take it take it out by a car you know it's that easy and so once people start wrapping their minds around this they go like why was I messing around going to a bank and and you know sitting in the waiting for bankers hours you have to wait for the you know the banker to be there sit in the little stuffy little bank and then talk in this sort of humiliating setting and so forth no I'm just going to log on I can do it I can read twenty seconds right now I can do it I can deposit.
+Bitcoin I can take out some some US dollar stable coins and boom I can go out and buy a car that's it it's that simple and so I as far as I can tell the entire US sort of worldwide financial banking system is going to be gone very rapidly or it's going to it's going to have to adopt to this and take it on very very quickly so it might I know it sounds crazy to say that.
+But you know a few years ago you would have thought it crazy to say well there aren't going to be any more like record stores or there aren't going to be any more books you know book Barnes and Noble book stores or something like that or you know if you remember the day when we had travel agents and we had to go somewhere you went to visit the travel agent no one does that anymore they do all that online now all that was done with centralized centralized computing
+platforms replacing it and now we're doing it with a decentralized platform but but what we're going to see is that the unraveling that we saw with things like the music industry the publishing industry the newspaper industry for example all of these things had to radically change because of the internet well now we have another
+iteration of the internet and it's coming directly at traditional finance and things are going to move very very very rapidly yeah I talked about you know the app parlor that came out as an alternative to Twitter and all that I keep telling people that it was not an alternative because
+centralization cannot be an alternate alternative for centralization and as we saw it they brought the whole thing down within hours and people are like oh they colluded all right they did it what are you going to do about it there's nothing you can do about it yeah so what we'll get well this is the other development now which is you know for whatever reason people are well for many reasons people are upset at big tech and a lot of people
+Trump supporters in particular lately have been upset about this what they perceive to be the censorious nature of of Twitter and Facebook etc and you know this will generate a kind of move to these decentralized social media platforms it's no good to have something like parlor was just you know one centralized
+you know one guy running the show and everything is sitting there on a Amazon cloud server or something like that I mean it's like this there's like one point of failure there so what we're going to see are these social media applications emerging on the blockchain there are a couple of them now
+there's one called voice which is built on the EOS blockchain but no one really uses EOS so no one really knows about it so they're not here yet or if they're here they're just tiny at this point hidden away but probably in the next few years we're going to start seeing the social media
+alternatives to centralized social media platforms and these are going to be housed online in in on the blockchain so they're going to be more censorship resistant when this happens so there's a lot going on it's not just in finance but probably
+the blockchain technology is coming for big tech and social centralized social media as well yeah I think it goes back to the concept of trust somebody was talking about how this time is similar to when Martin Luther
+translated Bible for the first time and allowed you know ordinary Christians to be able to read the Bible by themselves again going beyond that point of trust and authority that a lot of people would say that he was placed there
+as a matter of monopolizing on that power on that divine power otherwise Jesus's message had nothing to do with you have to follow this priest
+and even his resurrection had nothing to do with physical resurrection but all of this was twisted in order for you as a follower to depend on this middleman for hundreds of years until you could really make sense out of the message by yourself
+yes that is true a lot of the trust relationships of trust that we're in are simply because we don't have a choice now the worry about this is going to be well look we're going to end up being we're going to end up trusting somebody here
+and the people we end up trusting are probably going to be computer programmers you know so someone is writing so someone is going to be writing the code for whatever this alternative to facebook or parlor ends up being and someone is going to be
+writing the code for the new banking system
+that is going to replace JP Morgan Chase etc.
+Now it's true that everything is going to be there and we can all look at it's there on the blockchain
+written in solidity code the solidity programming language
+but are you fluent in solidity and life and solidity no i mean i guess we could learn it but for a lot of people like us we're going to need to trust somebody to tell us that yes this is code is doing what it's supposed to do
+so you know i wrote a paper about this sometime ago in the early days of aetherium and and the thought was that the system this new system is done i actually eliminate trust they're not exactly trustless
+but they reposition trust they're moving it somewhere else hopefully in a better direction but it's important to sort of always be alert to the fact that
+you have a new boss as it were and someone if not a boss at least someone in whom you have to place your trust
+and the people that you have to trust now are for at least the time being are these devs and whatever auditing firms are auditing these these online contracts and telling you that they're trustworthy
+yeah i think big picture of that is about artificial intelligence that at some point we have such level and scale of digitization that understanding it and making sense out of it would go beyond human capability
+i had a guest she's working on emotional intelligence for artificial intelligence and she was telling me about how their system in their driverless cars or right now when drivers are driving
+they identify 50 plus different emotions and information based on facial expression that to most people it's not even it's invisible it just slightest kind of movement then my question was that who's making sense out of 50 plus expression per second
+machine has to make sense out of that and then the machine context of good and bad right and wrong is not defined right so i think it goes beyond programmers and it gets to what they're called now ai ethicists
+that in google there is a civil war going on about their ai department because there are ai ethicists who are coming from certain kind of a worldview very activist political minded and at the same time it makes me wonder
+whether or not that would be a disservice to the progress of ai and it really is there's no i don't think there is any answer that are we going to allow artificial intelligence to roam freely and learn based on whatever and we just merge with it or are we
+going to rely on people who claim that they are actually the righteous ones they're actually the ones who know what's best for humanity and allow them to limit this new system new intelligence just so it will be aligned with human desires
+according to them as defined by that small group of people that is an interesting question right i actually know somebody who is a philosopher working for google and so you probably if you know whatever whoever is doing this work
+ai ethicists or whatever and it's a small group of people and then you might wonder why we are taking their words for it and that's
+we lost Peter it seems like there we go
+right on welcome back to Peter ladlow again so i wanted to say something about ai and the thing is that not only we're going to have like ai running our cars for example but right now in defy on the blockchain we have these decentralized autonomous organizations
+daos are down and and so for the most part there there's someone in charge of some developer that's in charge of like where these things go and maybe people vote on where they should go so they're decentralized in a way but someone is the key holder
+right that's going to actually launch the contracts or do whatever needs to be done with the contracts that are executed on the blockchain by this virtual corporate inception of it right because it will ultimately will be automated
+ultimately yes but the ones that exist now i mean someone is driving the car as it were someone is driving that that decentralized autonomous organization so so far they're not really decentralized
+there a little bit decentralized be in the sense that there are these governance tokens and if you own a share of the company you get to vote on it
+but there's nothing that says that the devs actually have to listen to what you're voting on and sometimes they don't i mean sometimes they just do whatever they want to do okay voting
+so your little governance tokens are technically they're inert however it is possible to structure this in such a way either that
+the you do your vote actually matters that is your voting on an actual piece of software right and there's no developer in the mix there right that you have to trust
+but an interesting thing happened a few months ago which was that there was a dow which was a it was one that was involved in lending money and generating interest on money that you deposited
+and something happened where i can't remember this was an accident or what but the the keys to drive the dow were accidentally burned and so i think so right now there is this decentralized autonomous organization that no one has any control over
+and it's going to be living on the blockchain for as long as the internet lives yeah all right so now wild it is wild yeah yeah yeah and so people can still interact with it if they want to you know
+so you could set up a little ai thing a learning ai give it a learning algorithm could set up several of these turn them loose burn the keys and you would have these decentralized corporations now that are run by ai's that would last that will outlast all of us
+right they're just good there's no there's no shutting them down and i find that to be pretty fascinating now no one as far as i know there are no ethicists talking about how these decentralized organizations ought to be structured
+what i just said is not entirely true because when you go into the governance groups for these dogs there are debates about what should and could be done and sometimes there are explicit ethical questions that people debate
+so there are people that are debating these ethical issues and it's not like you appoint a committee of ethicists to decide how it should proceed but the way it proceeds now is that there is a debate people raise an ethical issue about should we do this or should our da do this
+and then and then ultimately there's a vote on it right now the votes are structured so that the people with the most tokens have the most power the most voting power but that at least means that it's not the ethical decisions are not placed in the hands of a chosen few
+you actually have a spot where you debate the ethics of of what people are about to do
+i'm i i tend to find that i'm usually on the losing end of these debates but uh but they're it's interesting to engage in it's sort of philosophy in practice and uh it is somewhat decentralized although the power mostly rests with the people who the big whales that have the most tokens that have the most uh the most shares in the decentralized autonomous organization
+yeah i think it's obviously philosophy but it's becoming more and more practical because the only reason that you would want to have this say ethically speaking on any kind of an ai system is if that system is centralized that that would be the the ethics and morality within which that system will operate because if it's decentralized
+then let's say that you're familiar with a gi right uh singularity net ben gorsals so his whole thing is we are developing this platform that will give rise to a decentralized a gi the artificial general intelligence will not be centralized by either google or us government or a chinese communist party
+it will it will belong to whoever who needs uh to use it and it will attain information from all different agents from you know millions and millions of different applications that have their own system of governance and i think this is actually becoming more sensible from now on for most people
+because nevada just passed a bill that would allow tech companies to create governments they come up with their own basically rules and governance ideals and which is really interesting i'm just going to read a little a little part of it plan legislation to establish new
+business areas in nevada would allow technology companies to effectively form separate local governments the zones would permit companies with large areas of land to form governments carrying the same authority as counties including the ability to impose taxes form school districts and courts and provide government services
+my mind was blown that this is happening in nevada in the middle of all of this uh push for further and further centralized control by federal government and here we are which seems to be very timely and spot on that this is exactly what needs to happen now what will constitute a tech company that's a different story because if they can shut down
+parlor was a tech company who decided that parlor parlor shouldn't exist anymore you know so that's a problem what do you think what do you make of this so say there's some tech company controls my neighborhood google takes over i mean is that a good thing
+well google is doing it right now in part of toronto and that is not a good thing because people have no say in it whether or not they want to live in that area they already are living in it they're you know using everything that they've been using it but google has planted the smart city basically to
+harvest data and those are the areas that probably social credit system will kick in at first because they have more information on them but what this bill is saying is that let's say you and me form a tech company and they consider it to be a tech company
+and then we go and buy 200 acres of land and we basically create our own jurisdiction that would have as much power according to this as counties
+so we can be like we have our own token we allow autonomous cars we allow any kind of transhumanist experimentation and whatever and people also earn dividend based on their data contribution
+you know there's an old tradition of this with like company towns in the nineteen fifties it was a real phenomenon there were actually some some supreme one of the cases went to the supreme court
+because the the company that was in effect running the town
+was um censoring some i think i believe they were jehovah's witnesses that were out and about and the company the company said no you can't do that we can tell you whatever to do and it went all the way to the supreme court
+the supreme court ruled that well you know when you're a company town like that you're taking on all the functions of government so you have to respect the constitution of the united states when you get that much power over community
+but it i mean it's an interesting idea um i don't know if it's a great idea i mean i would like the idea much better if i knew that the people that were living in these company towns were free to move to another company town that is if they could shop for them
+that's not always the case you know people are bound to certain localities for for various reasons um i i tend to i tend to believe that we are often so concerned about governments and nation states and the power that they have an exercise
+that we're not always sensitive to the also very dangerous power that corporations can have over us we're seeing that recently with the power that the tech companies have accumulated um i i would be very nervous about
+about tech companies taking control of a local community in the way that we're envisioning here oh after monopolies i absolutely agree with you yeah i think one of the reasons that corporations become monopoly are because of um state nations or nation states that a federal government
+monopoly yeah yeah like google or amazon they wouldn't be as gigantic as they are without their elements inside dc that they try to challenge um what is that article 230 section 230 for many many months but nobody even wanted to address it and then you look at how much of
+uh or how many of these people in dc have gotten how much from each of these tech companies and you realize what what the game is really about it has nothing to do with the consumer yeah the thing with the tech companies though is that they it's sort of inevitable
+uh that they are going to accumulate massive power simply because of the network effect yeah so the one that guys the most network is going to get more nodes it's going to grow exponentially because the more people are that are that are in the network the more people
+that get attracted to the network and the more powerful the network becomes so i think that i think that the emergence of these sort of tech giants is not because of anything taking place in washington except that nobody did in washington
+anything in washington do buffer this effect you know um and no one has been serious about anti-trust legislation for these kinds of companies for a long long time and now they're merging together federal government and these tech companies
+yeah because when you have a powerful network the thing you want to be is part of that network yeah right and it's really weird it's an autonomous kind of process it's not something where
+little bald white men are sitting in it and you know around a mahogany desk planning this out is is just a kind of the natural way that things are now organizing themselves when you can create networks so easily with the help of the internet
+and so the more powerful the network it becomes a kind of attractor to other networks so everyone wants to be part of the board as it were
+it the ability to self-govern the example that i had in mind was seedetting
+familiar where see steading
+oh yeah yeah concept of creating permanent dwelling at c coles used to address outside a territory claim by any government determines a blend of c and homesteading a home sitting is basically self-sufficiency
+that they have their own institute and you know because US Constitution allowed
+the centralization of governance and I think it's a really interesting platform
+especially when there is a Chinese Communist Party on the other side of the
+spectrum to create a contrast and maybe this will be a push for states to take
+more control for themselves rather than the federal government and then there
+will be smaller tech companies if they be allowed to emerge and function that
+they'll be able to say buy a hundred acres of land because land is relatively
+cheap in the US as well and in the middle of nowhere and you create your
+own or maybe as an objective you set it down that you want to create a move
+towards that direction little by little well here's the thing first of all we
+were talking about tech companies like they're here to stay and I'm not sure
+that's true so once you get into things like decentralized finance is there
+actually something like a bank that exists you know now let's let's just take
+a platform there's one called Ave AAVE which is developed the head developer is
+a guy in Finland okay but the other developers are scattered all over the
+world so in some sense is not really located anywhere some of these platforms
+no one even knows who the developers are or where they are right so you know we
+think of corporations in the sense of well they're incorporated like well
+there's this fiction that there's these embodied things but once we get to
+things like decentralized autonomous organizations they don't really exist
+anywhere they don't need to be anywhere now is there any reason for them to buy
+some land in Iowa for example and create a city for the people there no
+there's really no reason for that their people could be in Mexico and Estonia
+and Latvia and and Brazil so so then the question is well what what will what will
+corporations look like I mean maybe the whole idea of a corporation goes the way
+of of you know like a tower a tower record store or something like that they
+are you know we got rid of the brick-and-mortar things but maybe we also
+get rid of the the corporation as this embodied individual it's sort of
+interesting I mentioned Ave which is this finished blockchain project and Ave
+actually is finished for a spirit or ghost or something like that so you have
+this sort of weird ghostly organization now that exists is it a corporation well
+it doesn't really exist anywhere it doesn't care who you are it doesn't care
+who I am it loan us money we can borrow money we can loan we can we can deposit
+money with them and it's all it's all secured by the contract it do they have
+any need for land I don't think so you know do they have any need for a city of
+some sort yeah but what if what if the startup is about building cities hey
+okay so that's that is an interesting idea so then right so well I mean there
+are these people that are working on the rethinking of what is a city and and I
+think what I know I am I mean I don't have a big enough brain to sort of
+rethink this I met an architect who actually works on this his name was
+Carlo Ratti and I think he's at MIT and also in Italy somewhere and his whole
+thing is sort of well how do you how do you rethink what a city is for example
+in in this sort of context could you think of cities as being completely
+diffused and online somehow well what what would that mean or could you think
+of a city as being in a virtual a virtual world for example or do you want
+to think of the city as being like a bunch of individuals that have like
+information flowing between them in some particular way and now say you want to
+build a city where people can live together I think this is what you're
+talking about or a village or a colony whatever yeah yeah yeah yeah let's build
+a commune of artists or or trans humanists or something like that I mean
+definitely possible now the question is what with all this new technology and
+this sort of revolution and I thinking about what is a corporation or what is
+a city how will that change what a commune would look like in the future I
+mean I tried to think about this in in that book I edited crypto-anarchy cyber
+states and pirate utopias I mean that was the sort of headline idea well what
+does a cyber state look like you know how are the governance structures created
+how does it protect itself how does it defend itself how does it protect itself
+from outside interference and so forth and I I didn't have the answer to those
+questions then and I I still don't have the answer to those questions yeah I
+think a lot of it comes down to the gridlock of humanity that we you know we
+have a tool we build stuff with it and we destroy stuff with it and that is
+like a dilemma at the core of who we are yeah you think you know the internet
+comes in and you think it's going to be this thing that opens up free expression
+and liberates this and so forth and it becomes like the greatest tool for the
+surveillance ever invented you know and so the danger is everyone sees all the
+positive potential that's coming out of blockchain technology and decentralized
+you know autonomous organizations and trustless systems but we're not very
+good at anticipating the evil side of these things when when they when they
+come into existence and you know we have this idea of like utopian communities
+but and the thought is well maybe this will make those utopian communities
+easier to build and sustain and yes that's possible but it's also possible
+these technologies end up unraveling those kinds of communities and making
+them harder to construct yeah absolutely we just don't know I guess I don't know
+yeah no no neither do I times that's the thing yeah there's a group of people who
+in you know insists that they do know and they want to prove it to everyone
+else yeah well they can insist I mean that's the thing right now there are so
+many I mean it's exciting that there's so many smart people coming into this
+space to sort of rethink finance rethink communities online and so forth but when
+you get really smart people together and they start inventing stuff at that point
+it becomes very very difficult to predict what comes next yeah so it you
+know in 2007 would you have predict Satoshi's white paper and the emergence
+of Bitcoin and all of that no you know when I first saw the World Wide Web for
+the first time I thought what what is this you know what what am I gonna do
+with this you know and so you know I don't think we saw right away what the
+internet was going to be about it took I mean this is true of all inventions it
+goes back to things like the phonograph Edison thought that his invention of the
+phonograph was going to be used as a kind of dictaphone so that so that people
+could you know record things for their secretaries to transcribe right he
+couldn't imagine the entertainment end of that so we're in this period that's
+going to be full of lots of inventions and we don't know what those inventions
+are going to be we probably can't know what they're going to be and as often
+the case is going to be lots of promise a promise of dismantling the old order
+of finance which has been grotesque in its unfairness now the question is will
+it will it construct something better will it help bank the the unbanked in
+the world will it make easier for people in Nigeria for example to get money to
+start a business will it eliminate onerous debts that people have to pay
+to you know when they borrow money will it will it eliminate these incredible
+expenses to transmit money you know for immigrants to transfer money to Mexico
+for example in Guatemala I mean the rates are outrageous you know will will
+it make the situation better for those people it has that promise but I mean my
+experience with these things lately is with the internet and everything else is
+that in spite of the promise there's also always something very creepy and and
+anti-liberating that comes with it either control or surveillance or or some such
+thing and and so I'm like equal parts excited and equal parts mortified by
+what is to come so as a philosopher I had this I asked the same question a
+manure a scientist as a philosopher do you think tyranny is closer to the
+default state of human nature or liberty because I look at children and they're
+the biggest tyrants ever and they don't even understand that it's wrong that hey
+it is what I want and if you don't give it to me I'm gonna break stuff and cry
+and do all of those things is perfectly normal there must be some kind of an
+exterior force to move them away from that kind of a perspective so I began
+thinking about tyranny if you just allow people to go they move towards
+tyranny because it's closer to their nature but it requires foundations and
+the structures to build to erect liberty for lack of a better term I tend you get
+this debate about whether people are inherently libertarian or tyrannical which
+system they prefer I tend to think that the natural state is one of flux we even
+Plato talked about this you would get this cycle you know from tyranny to this
+to oligarchy to to democracy and then back to tyranny right and and I think
+that certain humans are disposed to one system and certain to another and
+humanity as a whole kind of oscillates between these two different systems now
+whether that's good or bad or avoidable I don't know but that is the state of
+things is that we oscillate between these systems and we are in a stage of
+oscillation right now I mean you know I I don't know exactly what these periods
+are but you know I'm inclined to say that
+maybe every 50 years maybe ever a hundred year every 50 years we got a
+kind of revolutionary moment so if you think about 1968 for example with lots
+of revolutionary periods going on around the world and then you go back to 1917
+1920s with the rise of totalitarian movements and you go back to 1848 with
+uprisings throughout Europe and so you keep going back to these revolutionary
+moments and often these revolutionary moments involve some sort of shift
+between being between tyranny and and liberty one direction or the other mm-hmm
+yeah I don't think it's good and bad it just says this just who we are I think
+it's bad but it's like you know it's like complaining when it rains on your
+picnic you know I can't I know it's not much I can do exactly do you think these
+cycles that you're saying always have had something to do with technology
+that's an interesting thought I mean suppose I'm right that there's a there
+was a revolutionary movement in the late 1960s was that because of the emergence
+of tele media certain media also LSD itself for example this technology I
+consider technology anything that quantify an idea that's a good point
+that could have been a big part of it yes that could have been a big part of
+it yes and that you're quite correct to call that a technology yeah because the
+way I'm looking at this we have evolved with and because of our technology and
+our technology has evolved with and because of us but what has happened is
+that we evolved linearly but our technology evolves exponentially and at
+some point I don't know exactly when but it it increased the speed of progress
+and advancement technologically speaking far beyond our capability of being able
+to catch up with it that's why I consider smartphones and social media in
+the hands of humans like monkeys with machine guns we don't know what to do
+with them we're amazed by them we do whatever we can do with them but they
+are just advancing and progressing much much faster than we do that's why I
+think Neuralink is a really really interesting thing if it's done and
+implemented in a decentralized kind of a way because if it's done centrally then
+that would be also the biggest instrument of slavery and human and human civilization
+that would be something yes that would be something you know I rewatched our
+previous interview to prep for this and we did talk about this the monkeys with
+the phones and all yes and you know I used to think that technology was
+pulling away from us very very rapidly and clearly there's a sense in which it
+is on the other hand if you combine that with this idea which we also talked
+about which was the X external theory of mind right and if you thought of well if
+you think like David Chalmers does that you know your phone is an extension of
+your mind then actually you know as this phone gets more and more powerful it is
+an extension of your mind it is a part of your mind so you are growing with
+that phone but if it's not interpreted if it's interpreted then it is your
+conditional mind condition on the satisfaction of the person who's
+interpreting that information like when I'm searching for something on Google if
+the algorithm is really going to show me what I would want to see not what the
+bar the algorithms bosses want me to see then that would be absolutely correct
+oh I see
+that's an interesting point then if I have bunch of electrodes in my head and
+that would let's say control when I'm when I feel shame and anger but the rest
+of the stuff I decide for myself it will ultimately affect every aspect of my
+experience so if the idea is that well here here we have this phone and and
+geez it is an extension of my mind but on the other hand there are these apps
+on it that are are basically using using behavior well sorry using behavioral
+economics to manipulate me and so it it's like although it's making me in some
+sense smarter it is also taking away my agency and thereby making me dumber at
+the same time so it's sort of like it it's it's taking my mind away in the
+same sense that it might be adding adding to it if that makes any sense yeah
+I think it creates a matrix it creates there's a quote by Gore Vidal that we
+don't even know what our cage looks like because we've never seen it from the
+outside so when people are not familiar with what is being done to them through
+information and tailoring of information that is not tailored to them but it's
+tailored to some kind of an outside bias and agenda and interest then they don't
+realize it they think that they're making the decision this is what they
+like this is what they don't like but more you learn about the cage and when
+you have the opportunity to peek from outside of it then I think that's a
+different story because throughout history we have done that you know there
+are people who've peeked outside of the cages and the simulation that can be
+social it doesn't necessarily have to be technological they peeked from outside
+of it and then they brought back certain information on certain rays of light for
+other people to realize that hey what we're experiencing is not all there is
+it's a condition kind of an experience that has been designed and contained
+based on the interest and agenda of our betters superiors right so what would
+the good version of this story be that let's say that we didn't have a
+centralized Apple we have a decentralized system and so whatever
+software is in my phone it's completely decentralized and it's actually among
+other things it would probably pay me for the attention I give to something
+it's not for the data that we contribute exactly yeah yeah yeah so so it is now
+now I can do all the surfing I want to do no one's steering me to do it I'm
+getting paid to do the surfing is that am I in a more liberated condition in
+that in that scenario and the individual basis I think you are but nothing will
+work like that because it's like we're going to school to be prepared for very
+specific determined funnels throughout society we're not like we're not going to
+Montessori a school all of us that they will tell us hey you do whatever you
+want to do you want to play play right because the society wouldn't wouldn't
+operate on that basis well I mean this is one of the promises I don't know if
+it can keep the promises I mean this is one of the promises of blockchain
+technology and media that would exist upon it which is that there's no
+centralized owner of all this no one so each of each individual on there is the
+owner of the data right um so you are now free to sell your data for and that
+that data would be you know it's a piece of data that I'm looking at something
+right it's a piece of data that I'm watching Wheel of Fortune on TV and I
+can sell that data no one has any let's say no one has any particular well I
+don't know I mean I don't know really I don't have it figured out but this does
+seem to be that there is a kind of liberating potential in in here
+potentially yeah yeah yeah yeah and technologically I think we can go
+beyond all other limitations that has been put on our shoulder because of our
+again I'm not saying it's fully bad or fully good but when you're born into a
+culture there are certain things that are placed on your shoulder for the rest
+of your life unless you become conscious of them and make a choice that hey I was
+born in Iran maybe I like Persian food but I don't like Persian jealousy for
+example right but it's been on my shoulder all my life because that's what
+I learned that's the society that I grew up in and then I went to school they
+told me certain things that they wanted me to learn in order to serve the bigger
+context that they had in mind right which they themselves like teachers and
+principals and all that they themselves could have been just an auto autopilot
+mode that hey this is the right thing to do this is this is what we have to do
+day after day after day after day and I think this big of a shock to a system is
+waking a lot of people up to realize that a lot of structures centralized
+structures of authorities that they had relied on and identified with they're
+basically sandcastles and they're falling apart yes I mean it's interesting
+that you put the point about how we are raised within certain kinds of religious
+or ethical communities and so forth I mean this was a people don't talk about
+that very much but like John Stuart Mill did talk about it and on Liberty he
+says well there are many many sources of oppression I mean it might be a
+government it could be a corporation but it could also be the church it could
+just be the neighbor the moors of the community the you know just the attitudes
+of your community can also be a source of oppression your own family your own
+family can be a source of oppression yes yeah so the question is with these
+changes that are coming you know will that liberate us from the full spectrum
+of causes of oppression yeah that's a very good question I don't think we know
+the answer I don't know the answer there we'll have to talk again in a few after
+things fall apart we'll get together I never saw that coming yeah I was
+watching someone on just a clip from Glenn Beck yesterday is the economist he
+was talking about the crash of a market is coming within the next 45 days and he
+believed that this will be the end of central banks the same way that Catholic
+Church basically collapsed when it did that they will lose all control because
+this this is a kind of a damage that he was saying we burst the housing bubble
+in 2008 this is the everything bubble that is going to burst and it will have
+a massive effect on all these institutions it will be very interesting
+if all the central banks go under yeah whether
+whether that could happen I mean I don't know it's you mean there's stirrings of
+this you know I mean you do have alternatives now you know we do have
+Bitcoin out there you don't need to rely on someone to print print money for you
+you know so maybe maybe the age of sovereign currencies is coming to the
+end yeah this reminds me of what Buckminster Fuller said that it's
+basically pointless to fight an existing system you build a better alternative
+that make the existing system obsolete Bitcoin is the best example of that
+yeah you don't tear apart the boat you're on unless you have a better
+boat to get exactly yeah so that's I mean we will see if if these blockchain
+protocols and the decentralized finance really work out then things are going to
+get very very interesting very fast because then we're going to have clear
+alternatives to the financial system and you there will be a real question about
+whether we need central banks at all yeah hey let's talk just briefly I know
+we've been talking gone on and off so for a while this tokenization and
+decentralization that we're talking about we mainly talked about in finance
+but it goes well beyond finance for example there was an example of a
+Manhattan apartment a 30 million dollar real estate property in Manhattan that
+got tokenized with blockchain and now what is happening is the crypto art
+scene with NFTs they're non non fungible tokens and it's mind-blowing and amazing
+would you explain a little bit of what is going on with that respect in the
+world of for example digital art and the potential of this thing moving forward
+sure the basic idea is that you can tokenize anything so the the best
+example of NFTs non fungible tokens is if you remember crypto kitties yes where
+you could you you had a bunch of these little did you do you have crypto kitties
+I don't know I don't even know if I can't go back to the site because when
+it came out I got a bunch of them and traded and I haven't used it in like
+maybe two years do you remember your wallet address no they must be yeah so
+there are these cats and you could breed them and then it was sort of using some
+algorithm or generate new cats and then you you know they each of them is
+identifiable there's only one such cat because it's sort of like linked to a
+location on the blockchain as it were and it's like and it also shows that I
+own that crypto kitty so you know someone could like obviously Photoshop
+or you know do a screen capture and create a cat that looks just like mine
+but it's not my crypto kitty so I could I could create a work of art likewise and
+I know the ownership is determined in the blockchain itself I own this piece
+of art now someone can do a screen capture of that they could send it out
+but I'm the one who owns the quote-unquote official just like you can
+have lots of photo you know you could have lots of copies of the Mona Lisa
+but there's only one similarly we can we can show this ownership on the
+blockchain and it is it's a lot of fun it's a lot of fun to track these these
+crypto artists that are creating these NFTs and some of them are really cool if
+you if you on Twitter you can follow a bunch of them and they'll show you their
+work I'm intending to not follow them because then I want to spend money on
+them and it's you know it's it gets to be an expensive hobby now in the real
+estate case the idea is that I could let's say buy a building that's 30
+million dollars well no before we get to that let's go to artwork let's say that
+someone wanted a painting that's 30 30 million dollars we could tokenize that
+we could we could split up the token right so that I could have like a tenth
+of a percent of this painting right so someone could have a fancy painting none
+of us can actually afford it we could all get together and own like a some
+sort of share how do you know that I own it well it's right there on the
+blockchain now the reason this is interesting in real estate is because if
+you live in a part of the world other than say the United States and certain
+very developed countries the issue of title to property is not always clear so
+here in Mexico for example there are lots of little title companies all over
+the place they're called notarios and they keep a record of who owns what but
+they're not always honest players right so if some narco goes into the office
+and says you're gonna give me that land and then you know they'll just change it
+and that's it okay so the question is we have this really obsolete system for
+keeping track of who owns what well what if you move that to the blockchain
+right so that everyone on the blockchain can see well anyone with access to the
+blockchain which means everybody can look and see who owns what property when
+they bought it who they bought it from how much they paid for it etc all of
+that information is in this kind of immutable record now that I actually I'm
+talking to someone here next week about this because they're working on a deal
+in Mexico where they want they have some real estate investments that they want
+to tokenize in exactly this way put it on the blockchain let people buy a
+fractional share in certain kinds of property in in in the on the Caribbean
+coast here okay so so any sort of thing could have a tokenized representative so
+any sort of stock for example so one of the things that people have done is
+create virtual versions of GameStop Tesla and so forth so you that you can
+trade these synthetic versions of these assets you don't have to trade you don't
+have to trade the quote-unquote real-world version of it you can trade
+the synthetic version of it and the synthetic version uses oracles to track
+the price of the so-called real-world version of the asset so so that allows
+some very speedy trading right so like it's not a big process I have to go to
+my broker I don't have it you know you and I could just swap these things right
+now I'll give you my Tesla for you give me your GameStop boom we do it right
+like that so so what's going to happen is that there are these exchanges
+distributed exchanges no one owns them right uniswap is one there's a prime
+example and people are trading crypto on those but you could trade anything you
+can trade a tokenized version of anything on it you could trade real
+estate on it you could trade stocks on it you could trade anything that's
+tokenizable which is basically anything so one thing you could do is like you
+say say you see an artist on YouTube for example or or I don't know
+twitch or anywhere right and you see an artist and you really like this artist
+and what you could do is buy a share in that artists right the artist could
+issue tokens and I'm gonna buy it now right because we're betting on the
+future of that artist so artists and performers could tokenize themselves in
+order to raise money or to get to and then people you know early people that
+find these people early right could ultimately benefit from that so it's
+like it's like finding a small cap corporation or a small cap crypto early
+right so lots of possibilities and so the way we engage with artists the way
+that artists get paid the way that stocks are traded the way all of these
+things are going to radically radically change this is a much more radical
+revolution than we got with the internet I mean it is it's the most radical
+revolution we've seen in a long time I mean maybe since the invention of
+agriculture you know I mean it's at that level so you're gonna have like
+industrial well sorry invention of agriculture I suppose the Industrial
+Revolution the internet maybe but I think this sort of blockchain technology
+is much much bigger than the internet because it actually changes how it sort
+of tears apart these silos where all the information was kept it tears apart the
+silos where all the power was stored and distributes that and as I said it's
+very promising but like always we don't know where the danger is yet yeah
+because the other side of it are powers who are losing power as a consequence of
+this revolution so they will do anything they can yes like a movie and in the
+good characters and bad characters what are the bad guys going to do now so what
+do you think about the bad guys going to do I mean one of the things you do is
+you try and throw regulations at people you can try and ban Bitcoin you could
+try and ban you know countries try to ban cryptocurrencies we'll see if that
+works yeah or you try and regulate them or so you know what one of the things
+that people try and do is absorb absorb it you know a lot of these banks are
+going to be sitting on top of the blockchain very very soon they're gonna
+get permission to do things on the blockchain and so then what happens when
+they enter that game you know because they're not gonna die then I guess they
+all say we're gonna go away no they are they're going to once they can't beat it
+that then they're going to try and absorb it somehow yeah very interesting
+decade ahead yes very interesting since you listened to the last episode we
+talked about have you changed your mind about the last question the alien I love
+my last question I love my answer to the last question okay right on yeah I
+forgot what it was though but I remember that I love it so the question was so
+the so the question was wait so the question was that you come across and
+it's the best thing what's the best thing and the worst thing of humanity
+yeah of humanity and what do you think now no I'm trying to remember the best
+thing was also the worst thing right all that I said well what is it that I said
+that was the best I remember but I tell you this you and two other guests like
+three right after each other they said something that it was also the best and
+and the worst and for me it was really interesting it was because I was
+thinking about dropping the question I got myself to a point that there is no
+good and bad but it depends on the perspective and the context but you guys
+three of you and you know all three prominence people but from different
+fields was like you know this this thing is the best one but it's also can be the
+worst one yeah dude I wish I remembered what I said impressed with myself or
+whatever it was I said hey it's exactly what we talked to me but I'll have to
+rewatch the interview yeah exactly what we talked about I think throughout this
+episode that what all these promises that are brought because of technology
+can also lead to very nightmarish hellish kind of places so the spirit
+carries on I think from that episode to now yeah definitely and it's a hell that
+we can't even imagine yet that's the yeah we don't know what we don't know
+that's that's the most important part all right man this was at least we know
+well probably don't know it we don't know yeah what did they say that there
+are things we know we know there are things we know we don't know and there
+are things we don't know that we don't know yeah and I think that's that's
+mostly that's most of what's out there we don't know what we don't know yeah
+we're gonna find out
+you
