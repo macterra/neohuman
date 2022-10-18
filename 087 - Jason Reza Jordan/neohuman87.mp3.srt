@@ -1,0 +1,4624 @@
+1
+00:00:00,000 --> 00:00:03,600
+The worst thing that can happen is the Chinese take the lead in genetic engineering.
+
+2
+00:00:03,600 --> 00:00:06,500
+They take the lead in nanotech and AI development.
+
+3
+00:00:06,500 --> 00:00:10,880
+And the way in which they roll out these technologies, which have the potential to fundamentally
+
+4
+00:00:10,880 --> 00:00:18,160
+alter the parameters of human existence, are ways that are going to lead to the degradation
+
+5
+00:00:18,160 --> 00:00:24,200
+of human individuality, to the degeneration of the potential for genius and innovative
+
+6
+00:00:24,200 --> 00:00:25,440
+creative thought.
+
+7
+00:00:25,440 --> 00:00:33,240
+I can well imagine the Chinese using gene editing to recalibrate the human being into
+
+8
+00:00:33,240 --> 00:00:40,080
+something more, quote unquote, cooperative, into a more cooperative citizen, which also
+
+9
+00:00:40,080 --> 00:00:44,440
+by the same token is less capable of independent innovative thought.
+
+10
+00:00:44,440 --> 00:00:53,760
+And that would be an utter catastrophe.
+
+11
+00:00:53,760 --> 00:01:00,880
+Jason Reza-Giorgiani, PhD, welcome to the 87th episode of Neo Human Podcast, sir.
+
+12
+00:01:00,880 --> 00:01:02,320
+It's a pleasure to be with you, Aga.
+
+13
+00:01:02,320 --> 00:01:04,520
+Yeah, I'm looking forward to this conversation.
+
+14
+00:01:04,520 --> 00:01:12,560
+And kudos and shout out to Julia Prisco, who recommended your book, which I really want
+
+15
+00:01:12,560 --> 00:01:20,640
+to talk about the book called Prometheism, which is the beginning of a movement, I believe,
+
+16
+00:01:20,640 --> 00:01:22,920
+called the Prometheus Movement, right?
+
+17
+00:01:22,920 --> 00:01:28,000
+Yeah, it's a synthesis of the words Prometheus and theism, Prometheism.
+
+18
+00:01:28,000 --> 00:01:29,000
+Excellent.
+
+19
+00:01:29,000 --> 00:01:33,800
+So, I mainly want to talk about that, but I also want to talk about politics and Iran.
+
+20
+00:01:33,800 --> 00:01:36,320
+And let's see where the conversation leads us.
+
+21
+00:01:36,320 --> 00:01:37,320
+Absolutely.
+
+22
+00:01:37,320 --> 00:01:38,320
+Shoot.
+
+23
+00:01:38,320 --> 00:01:41,440
+Yeah, let's start with your background, though, just so we have some kind of a context that
+
+24
+00:01:41,440 --> 00:01:45,440
+where your thoughts are coming from, you know, the work you've done, the lives you've lived
+
+25
+00:01:45,440 --> 00:01:48,520
+and what are you mainly focused on now these days?
+
+26
+00:01:48,520 --> 00:01:56,160
+Well, I did my master's at NYU and my master's, first of all, I'm born and raised in New York
+
+27
+00:01:56,160 --> 00:01:57,160
+City.
+
+28
+00:01:57,160 --> 00:02:03,440
+So, I'm a lifelong native New Yorker and I'm of Persian paternal descent.
+
+29
+00:02:03,440 --> 00:02:10,920
+And my mother is an American of many generations who ultimately hails from Northern European
+
+30
+00:02:10,920 --> 00:02:17,780
+background, a lot of Celtic and a lot of Nordic blood in her background.
+
+31
+00:02:17,780 --> 00:02:20,160
+But her family has been in America for many generations.
+
+32
+00:02:20,160 --> 00:02:24,920
+In fact, they've been New Yorkers as well for a couple of generations.
+
+33
+00:02:24,920 --> 00:02:27,840
+So, that's my family background.
+
+34
+00:02:27,840 --> 00:02:30,200
+And you know, I went to school here in New York.
+
+35
+00:02:30,200 --> 00:02:39,280
+I did an MA thesis on universal human rights and the problem of Islamic democracy at NYU.
+
+36
+00:02:39,280 --> 00:02:45,560
+And there I was analyzing the philosophical foundations of the UDHR, the UN Universal
+
+37
+00:02:45,560 --> 00:02:52,160
+Declaration of Human Rights, and showing how it's internally contradictory because its
+
+38
+00:02:52,160 --> 00:03:04,160
+provision for an unqualified freedom of religion allows so-called Islamic democracies to undermine
+
+39
+00:03:04,160 --> 00:03:09,200
+the human rights of minorities who are dissenting within that society.
+
+40
+00:03:09,200 --> 00:03:15,480
+And so, I was trying to expose this loophole in the UDHR, going back even into the drafting
+
+41
+00:03:15,480 --> 00:03:20,280
+debates in Paris and in San Francisco that produced the Universal Declaration and showing
+
+42
+00:03:20,280 --> 00:03:25,160
+how there were representatives from various countries, oddly enough, including the Soviet
+
+43
+00:03:25,160 --> 00:03:29,040
+Union, who understood that this was a serious problem that would undermine the coherence
+
+44
+00:03:29,040 --> 00:03:30,560
+of the declaration.
+
+45
+00:03:30,560 --> 00:03:40,000
+And they wanted a very carefully worded, qualified freedom of religion that would protect universal
+
+46
+00:03:40,000 --> 00:03:47,880
+human rights from some, how could I put it, disingenuous attempt to use freedom of religion
+
+47
+00:03:47,880 --> 00:03:55,660
+to then institute something like Sharia law and divest citizens of their other basic rights
+
+48
+00:03:55,660 --> 00:04:00,520
+like the equality of women or freedom of conscience, freedom of expression, freedom of the press,
+
+49
+00:04:00,520 --> 00:04:01,520
+so on and so forth.
+
+50
+00:04:01,520 --> 00:04:04,160
+So, that was my MA thesis work.
+
+51
+00:04:04,160 --> 00:04:09,920
+And then I did a PhD at the State University of New York on philosophy of science and technology.
+
+52
+00:04:09,920 --> 00:04:17,920
+And there, I was looking at the empirical evidence from basically a century of research
+
+53
+00:04:17,920 --> 00:04:26,140
+in parapsychology to argue in favor of something like Heidegger's thesis about the ontological
+
+54
+00:04:26,140 --> 00:04:31,960
+priority of technology over science, that when you look at an existential level, when
+
+55
+00:04:31,960 --> 00:04:35,960
+you look at technology and science, you see that people usually have the relationship
+
+56
+00:04:35,960 --> 00:04:42,960
+between them backwards, that technology is not applied theoretical science.
+
+57
+00:04:42,960 --> 00:04:47,200
+Technological innovation is not an application of what is understood through some kind of
+
+58
+00:04:47,200 --> 00:04:50,160
+putatively pure theoretical scientific research.
+
+59
+00:04:50,160 --> 00:04:54,120
+Actually, theoretical science is grounded on technology.
+
+60
+00:04:54,120 --> 00:05:03,040
+And in fact, the human existence itself emerges from out of our pre-human hominid relationship
+
+61
+00:05:03,040 --> 00:05:05,000
+with technology.
+
+62
+00:05:05,000 --> 00:05:08,480
+So technology is the more existentially primary phenomenon.
+
+63
+00:05:08,480 --> 00:05:12,560
+And I used the evidence from parapsychology to argue that and to argue against overly
+
+64
+00:05:12,560 --> 00:05:16,680
+reductive materialistic paradigms in science.
+
+65
+00:05:16,680 --> 00:05:21,760
+And then the upshot of my doctoral dissertation, which developed into my book, Prometheus and
+
+66
+00:05:21,760 --> 00:05:26,560
+Atlas, from out of which I developed the core thesis of my book, Prometheus and Atlas, was
+
+67
+00:05:26,560 --> 00:05:34,040
+that Heidegger was right to suggest that technology has, I suppose, what you would call a spiritual
+
+68
+00:05:34,040 --> 00:05:41,000
+essence, that there is a spirit of technology, a motivating spirit or genius, a spectral
+
+69
+00:05:41,000 --> 00:05:43,120
+essence of technology.
+
+70
+00:05:43,120 --> 00:05:48,440
+And I argued that that spectral essence of technology is Promethean in nature.
+
+71
+00:05:48,440 --> 00:05:57,960
+So on the other side of the exhaustion and implosion of these reductive materialist models
+
+72
+00:05:57,960 --> 00:06:04,000
+in science is a potential rediscovery of the Promethean spirit that was the wellspring
+
+73
+00:06:04,000 --> 00:06:09,480
+of technoscientific innovation from the start, particularly in Western civilization, but
+
+74
+00:06:09,480 --> 00:06:11,920
+in the Indo-European world at large, really.
+
+75
+00:06:11,920 --> 00:06:13,040
+Very interesting.
+
+76
+00:06:13,040 --> 00:06:17,560
+The relationship between science and technology, the way that you described it, reminded me
+
+77
+00:06:17,560 --> 00:06:22,960
+of how we are using mathematics to figure out how the universe works, but it doesn't
+
+78
+00:06:22,960 --> 00:06:26,840
+mean that the universe works according to mathematics, it's just that we have a tool
+
+79
+00:06:26,840 --> 00:06:32,040
+that we can discover this unknown that we might end up having many other tools other
+
+80
+00:06:32,040 --> 00:06:38,240
+than mathematics, but this is something that reveals something that has been there for
+
+81
+00:06:38,240 --> 00:06:41,040
+perhaps much longer that we can't even comprehend.
+
+82
+00:06:41,040 --> 00:06:42,040
+Indeed.
+
+83
+00:06:42,040 --> 00:06:47,360
+And in my beginning in my doctoral work and then very substantively in Prometheus and
+
+84
+00:06:47,360 --> 00:06:54,920
+Atlas, I look at the deep structure of mathematical thought and connect it to the archetype of
+
+85
+00:06:54,920 --> 00:07:02,240
+Prometheus, because Prometheus' very name means forethought, and the Greek term from
+
+86
+00:07:02,240 --> 00:07:06,760
+which we get mathematics, mathesis, is in the name of Prometheus.
+
+87
+00:07:06,760 --> 00:07:15,440
+That's the methane in Prometheus, and so mathematics is really about casting a net
+
+88
+00:07:15,440 --> 00:07:25,080
+over the world, a net of abstraction that allows you to understand something about things
+
+89
+00:07:25,080 --> 00:07:27,560
+that you haven't even researched yet.
+
+90
+00:07:27,560 --> 00:07:32,280
+So it is a kind of projective anticipation.
+
+91
+00:07:32,280 --> 00:07:34,160
+Mathematics is ultimately not about number crunching.
+
+92
+00:07:34,160 --> 00:07:42,060
+At its deepest level, what it is is a mentality that allows you to capture phenomena within
+
+93
+00:07:42,060 --> 00:07:48,760
+a grid and then project forward from what's happening to what will happen in the future.
+
+94
+00:07:48,760 --> 00:07:56,480
+It's an anticipatory resoluteness that grasps the world in a very abstract fashion.
+
+95
+00:07:56,480 --> 00:08:03,040
+And that's really an expression of the human will to gain mastery and dominance over nature
+
+96
+00:08:03,040 --> 00:08:06,740
+with a view to securing the conditions for human flourishing.
+
+97
+00:08:06,740 --> 00:08:11,800
+And I don't think it's an accident that that mentality came from out of the Caucasian world.
+
+98
+00:08:11,800 --> 00:08:15,960
+I say the Caucasian world not to limit it to Europe, but also to include Iran, because
+
+99
+00:08:15,960 --> 00:08:21,480
+really the first instance of this kind of mathematical mentality in its essence is with
+
+100
+00:08:21,480 --> 00:08:22,480
+Zoroastrianism.
+
+101
+00:08:22,480 --> 00:08:26,400
+It's really in Zarathustra that you see this kind of future-oriented mentality in the first
+
+102
+00:08:26,400 --> 00:08:27,400
+place.
+
+103
+00:08:27,400 --> 00:08:31,520
+And it's also not coincidental that the other great bastion of technological science in
+
+104
+00:08:31,520 --> 00:08:37,680
+the world besides Europe was Iran in the medieval period, in what was the European medieval
+
+105
+00:08:37,680 --> 00:08:38,680
+period.
+
+106
+00:08:38,680 --> 00:08:43,480
+And so in the Caucasian world at large, whether it's Europe or whether it's Iran, I don't
+
+107
+00:08:43,480 --> 00:08:47,240
+think it's an accident that that was the cradle from out of which this mathematical mentality
+
+108
+00:08:47,240 --> 00:08:51,960
+developed, because it's a part of the world where you have very adverse climate conditions,
+
+109
+00:08:51,960 --> 00:08:57,160
+you have extreme seasonal weather, and people had to learn how to prepare for long cold
+
+110
+00:08:57,160 --> 00:08:58,440
+winters.
+
+111
+00:08:58,440 --> 00:09:05,840
+And so this goes again back to the forethought that's characteristic of Prometheus.
+
+112
+00:09:05,840 --> 00:09:14,000
+Before we move any further, you were the co-founder, I was reading, of Alt-Right Corporation.
+
+113
+00:09:14,000 --> 00:09:15,000
+Is that right?
+
+114
+00:09:15,000 --> 00:09:16,000
+That's correct.
+
+115
+00:09:16,000 --> 00:09:20,840
+Okay, so this term Alt-Right, we never understood what exactly it means, because the moment
+
+116
+00:09:20,840 --> 00:09:25,400
+anybody brought it up, everybody said, oh, shut up, you're Nazi, racist, but you're very
+
+117
+00:09:25,400 --> 00:09:30,280
+familiar, I'm sure, with all of these labels that have been given to me as well, that I'm
+
+118
+00:09:30,280 --> 00:09:35,320
+a Middle Eastern, former refugee, current immigrant, and somehow I'm a bigot and a racist
+
+119
+00:09:35,320 --> 00:09:39,360
+and an Islamophobe and all those things, just to dare questioning these things.
+
+120
+00:09:39,360 --> 00:09:44,640
+So let's define this term Alt-Right and then talk a little about Alt-Right Corporation
+
+121
+00:09:44,640 --> 00:09:50,320
+and how any of that interject into your perspective and philosophical worldview.
+
+122
+00:09:50,320 --> 00:09:54,560
+Yeah, long story short, I'll give you the nutshell version of it.
+
+123
+00:09:54,560 --> 00:10:00,600
+So Alt-Right is an abbreviation of alternative right, of course.
+
+124
+00:10:00,600 --> 00:10:08,560
+And this term was actually coined by a Jewish intellectual, Paul Gottfried, and Richard
+
+125
+00:10:08,560 --> 00:10:12,400
+Spencer took it over from him, okay?
+
+126
+00:10:12,400 --> 00:10:20,400
+So Richard Spencer had been using this term Alt-Right beginning, I think, in 2014, 2015,
+
+127
+00:10:20,400 --> 00:10:25,080
+something like that, but it hadn't really caught on very much.
+
+128
+00:10:25,080 --> 00:10:30,000
+And there was this phenomenon in Europe which was much more significant called the new right,
+
+129
+00:10:30,000 --> 00:10:37,920
+nouvelle droite, and my book, Prometheus and Atlas, had been published by the leading
+
+130
+00:10:37,920 --> 00:10:44,000
+new right, nouvelle droite publisher, Arctos Media, in 2016.
+
+131
+00:10:44,000 --> 00:10:47,560
+Which you're the founder of, Arctos Media?
+
+132
+00:10:47,560 --> 00:10:52,880
+No, no, no, no, I became editor-in-chief of Arctos for about a year, and I'll get into
+
+133
+00:10:52,880 --> 00:10:54,840
+how that happened.
+
+134
+00:10:54,840 --> 00:10:57,120
+So alternative right is an alternative to what?
+
+135
+00:10:57,120 --> 00:11:05,400
+It's an alternative to the mainstream establishment so-called right wing.
+
+136
+00:11:05,400 --> 00:11:09,320
+And the mainstream establishment, and one of the reasons that it considers itself an
+
+137
+00:11:09,320 --> 00:11:17,680
+alternative to this is because from the Alt-Right perspective, these modes of political thought
+
+138
+00:11:17,680 --> 00:11:20,080
+are not really on the right.
+
+139
+00:11:20,080 --> 00:11:22,200
+So what are we talking about?
+
+140
+00:11:22,200 --> 00:11:28,640
+Conservatism, okay, so evangelicals who are inclined toward a certain kind of conservatism
+
+141
+00:11:28,640 --> 00:11:32,960
+in the United States, that's one position that's been characterized as right within
+
+142
+00:11:32,960 --> 00:11:37,680
+the establishment, you know, a large portion of Congress in the United States basically
+
+143
+00:11:37,680 --> 00:11:45,360
+subscribes to that political doctrine of a kind of very mainstream conservatism and one
+
+144
+00:11:45,360 --> 00:11:54,160
+that's inclined toward accepting the moral ideology of evangelical Christianity as the
+
+145
+00:11:54,160 --> 00:11:56,920
+basis for legislation.
+
+146
+00:11:56,920 --> 00:12:02,720
+Then you have libertarians, who may not be so favorably inclined toward Christianity,
+
+147
+00:12:02,720 --> 00:12:09,240
+but who are often characterized as on the right because of their very staunch opposition
+
+148
+00:12:09,240 --> 00:12:14,700
+to socialism, to social welfare policies, they're wanting to extremely limit the functions
+
+149
+00:12:14,700 --> 00:12:18,840
+of government and, you know, they're very strong emphasis on, let's say, the right to
+
+150
+00:12:18,840 --> 00:12:24,840
+bear arms and, you know, to protect your private property and your sort of domestic sphere
+
+151
+00:12:24,840 --> 00:12:29,840
+from government interference by any and all means necessary.
+
+152
+00:12:29,840 --> 00:12:35,520
+So you have libertarians, you have conservatives who form kind of a mainstream right, and then
+
+153
+00:12:35,520 --> 00:12:40,960
+you also have the neoconservatives, the neocons, who are a third sort of branch of the mainstream
+
+154
+00:12:40,960 --> 00:12:46,920
+right that the alt-right was presenting itself as an alternative to.
+
+155
+00:12:46,920 --> 00:12:50,640
+And the alt-right's problem with the neocons in particular is that the neocons tend to
+
+156
+00:12:50,640 --> 00:12:59,440
+be advocates of, you know, perpetual worldwide military intervention.
+
+157
+00:12:59,440 --> 00:13:05,840
+So they have a program of, you know, serial regime change in various countries carried
+
+158
+00:13:05,840 --> 00:13:10,960
+out by the United States, and these regime change efforts, you know, are extremely costly
+
+159
+00:13:10,960 --> 00:13:17,020
+and detrimental to seeing to all kinds of domestic needs, whether it's a deterioration
+
+160
+00:13:17,020 --> 00:13:22,720
+of infrastructure domestically or other programs that would, you know, benefit American citizens.
+
+161
+00:13:22,720 --> 00:13:28,360
+When we waste $3 trillion in Iraq basically to remove, I mean, look, you and I are from
+
+162
+00:13:28,360 --> 00:13:30,840
+a Persian background, so I mean, we hate Saddam Hussein.
+
+163
+00:13:30,840 --> 00:13:35,840
+Saddam Hussein was a horrible person, okay, who was responsible for, you know, the massacre
+
+164
+00:13:35,840 --> 00:13:38,920
+of about half a million innocent Iranian civilians.
+
+165
+00:13:38,920 --> 00:13:44,760
+Be that as it may, you know, stepping back and looking at it relatively objectively,
+
+166
+00:13:44,760 --> 00:13:50,840
+Saddam Hussein was a secular authoritarian leader, and this $3 trillion was burned to
+
+167
+00:13:50,840 --> 00:13:57,280
+replace him with a Shiite theocracy on the one hand and a Sunni fundamentalist Islamic
+
+168
+00:13:57,280 --> 00:13:59,260
+state, on the other hand, okay?
+
+169
+00:13:59,260 --> 00:14:07,160
+So the alt-right also considered itself an alternative to this kind of pathological neocon
+
+170
+00:14:07,160 --> 00:14:14,820
+impulse to engage in all these regime change endeavors that are of little benefit to the
+
+171
+00:14:14,820 --> 00:14:19,160
+American people, in fact, quite likely detrimental to the United States over the long term.
+
+172
+00:14:19,160 --> 00:14:24,060
+Of course, you know, these interventions in Iraq and Syria also catalyzed the mass migration
+
+173
+00:14:24,060 --> 00:14:28,400
+into Europe, which has been catastrophic for Europe, mass migration of, you know, people
+
+174
+00:14:28,400 --> 00:14:32,720
+from the Middle East and North Africa into Europe, including the Libyan attempt at regime
+
+175
+00:14:32,720 --> 00:14:34,120
+change.
+
+176
+00:14:34,120 --> 00:14:45,200
+So the alt-right was an extremely amorphous rubric to categorize any one of a number of
+
+177
+00:14:45,200 --> 00:14:50,800
+right-wing positions that are alternatives to these mainstream types of the political
+
+178
+00:14:50,800 --> 00:14:57,120
+right, whether it's an alternative to libertarianism or to conservatism or to neoconservatism,
+
+179
+00:14:57,120 --> 00:14:59,360
+which is actually not really conservative.
+
+180
+00:14:59,360 --> 00:15:05,480
+It's like a classical liberal position, one that some people trace back to Leo Strauss.
+
+181
+00:15:05,480 --> 00:15:11,840
+In any case, the alt-right did not have any cohesive or coherent identity other than being
+
+182
+00:15:11,840 --> 00:15:17,520
+defined against these mainstream forms of quote unquote right-wing politics in the United
+
+183
+00:15:17,520 --> 00:15:19,120
+States.
+
+184
+00:15:19,120 --> 00:15:25,800
+And so it was very much up for grabs when I got involved, you know, in 2016, as Trump
+
+185
+00:15:25,800 --> 00:15:33,320
+was running for office, I was encouraged because my book Prometheus and Atlas did so well in
+
+186
+00:15:33,320 --> 00:15:36,320
+the Arctos community in the European Nouvelle-Droite.
+
+187
+00:15:36,320 --> 00:15:40,620
+And because I also had a following in the United States that came largely from my work
+
+188
+00:15:40,620 --> 00:15:45,120
+in parapsychology and, you know, Prometheus and Atlas being sort of very well received
+
+189
+00:15:45,120 --> 00:15:52,660
+by the parapsychology research community, I was encouraged to play a mediating role
+
+190
+00:15:52,660 --> 00:15:59,480
+in integrating three major institutions in what became the alternative right.
+
+191
+00:15:59,480 --> 00:16:06,340
+So Arctos Press, the leading press of the Nouvelle-Droite in Europe, Red Ice Radio
+
+192
+00:16:06,340 --> 00:16:13,160
+and Television, which was a program that dealt with parapsychology subjects, UFOs, you know,
+
+193
+00:16:13,160 --> 00:16:19,620
+all kinds of sort of fringe subject matters, but which took a hard right political turn
+
+194
+00:16:19,620 --> 00:16:21,900
+around 2015.
+
+195
+00:16:21,900 --> 00:16:26,080
+And I had had a relationship with, you know, Hendrik Palmgren, the head of Red Ice Radio
+
+196
+00:16:26,080 --> 00:16:31,200
+and Television, based on, you know, our common interest in the types of subjects covered
+
+197
+00:16:31,200 --> 00:16:33,040
+in Prometheus and Atlas.
+
+198
+00:16:33,040 --> 00:16:35,120
+So I was being published by Arctos.
+
+199
+00:16:35,120 --> 00:16:40,560
+I was involved with Red Ice and then, you know, I was encouraged, you know, to reach
+
+200
+00:16:40,560 --> 00:16:46,800
+out to Richard Spencer, whose conference, NPI conference in the fall of 2016, I attended
+
+201
+00:16:46,800 --> 00:16:48,440
+as a representative of Arctos.
+
+202
+00:16:48,440 --> 00:16:50,040
+This was in D.C.
+
+203
+00:16:50,040 --> 00:16:54,800
+Yes, this became the infamous Hale-Gate conference, you know, Hale-Trump, Hale-Victory and so
+
+204
+00:16:54,800 --> 00:16:59,640
+forth with the Roman salute, which I'm not going to make on camera right now.
+
+205
+00:16:59,640 --> 00:17:02,520
+So because we don't need a secondary defamation.
+
+206
+00:17:02,520 --> 00:17:07,840
+But I was encouraged to integrate these three organizations into something called the Alt-Right
+
+207
+00:17:07,840 --> 00:17:09,720
+Corporation.
+
+208
+00:17:09,720 --> 00:17:18,160
+And my main motivation in doing that at that moment was to make sure that this Alt-Right
+
+209
+00:17:18,160 --> 00:17:25,520
+did not wind up sinking into the swamp of white nationalism and the kind of, you know,
+
+210
+00:17:25,520 --> 00:17:32,520
+ghetto of racially narrow minded identity politics.
+
+211
+00:17:32,520 --> 00:17:37,480
+I had a vision, especially considering we were integrating a European organization with
+
+212
+00:17:37,480 --> 00:17:43,880
+an American organization and considering the fact that at the same time, like three months,
+
+213
+00:17:43,880 --> 00:17:48,760
+four months before I got involved with Richard Spencer and I also accepted the position as
+
+214
+00:17:48,760 --> 00:17:54,440
+editor in chief of Arctos, about four months before that in the late spring of 2016, I
+
+215
+00:17:54,440 --> 00:17:58,260
+had gotten involved with an organization called the Persian Renaissance Foundation, informally
+
+216
+00:17:58,260 --> 00:18:00,120
+known as the Iranian Renaissance.
+
+217
+00:18:00,120 --> 00:18:05,360
+And so my vision was to, and I laid this out in some detail in my book, World State of
+
+218
+00:18:05,360 --> 00:18:08,320
+Emergency, my second book in 2017.
+
+219
+00:18:08,320 --> 00:18:16,340
+My vision was to create a pan Indo-European alliance, which would have a European wing,
+
+220
+00:18:16,340 --> 00:18:24,620
+an American wing, and then connect to future neo-Zoroastrian or neo-Mithraic Iran and India.
+
+221
+00:18:24,620 --> 00:18:29,920
+And then ultimately end in, oh, go all the way through Russia as well, through Eurasia
+
+222
+00:18:29,920 --> 00:18:35,400
+and end in the Buddhist East with Japan being the principal representative of the Buddhist
+
+223
+00:18:35,400 --> 00:18:36,400
+East.
+
+224
+00:18:36,400 --> 00:18:46,440
+So America, Europe, Russia, Iran, India, and Japan as sort of nodes in a global Indo-European
+
+225
+00:18:46,440 --> 00:18:56,400
+network that would promote an alternative loosely right wing political philosophy that
+
+226
+00:18:56,400 --> 00:19:01,340
+would guide humanity through the impending technological singularity in the most constructive
+
+227
+00:19:01,340 --> 00:19:02,340
+way possible.
+
+228
+00:19:02,340 --> 00:19:03,560
+That was my vision.
+
+229
+00:19:03,560 --> 00:19:09,160
+But unfortunately, the people who had encouraged me to play this mediating, unifying role in
+
+230
+00:19:09,160 --> 00:19:14,240
+the alt-right never came through with their significant capital investment that they promised.
+
+231
+00:19:14,240 --> 00:19:20,800
+And so long story short, I lost control of the corporation and my associates really went
+
+232
+00:19:20,800 --> 00:19:26,320
+in their own direction, particularly Richard Spencer, who initially was very much on board
+
+233
+00:19:26,320 --> 00:19:28,060
+with this Indo-European vision.
+
+234
+00:19:28,060 --> 00:19:32,320
+But then as the funding didn't come through and as he continued to be caricatured in the
+
+235
+00:19:32,320 --> 00:19:37,600
+mainstream media as this white nationalist leader, he unfortunately decided to reaffirm
+
+236
+00:19:37,600 --> 00:19:40,840
+that cardboard cutout that had been made of him.
+
+237
+00:19:40,840 --> 00:19:44,680
+Because I think in some way it was like a vicious cycle where the more attention he
+
+238
+00:19:44,680 --> 00:19:49,080
+got from playing that role, the more he felt like he should reaffirm it.
+
+239
+00:19:49,080 --> 00:19:50,080
+That's the objective though.
+
+240
+00:19:50,080 --> 00:19:51,080
+Yeah.
+
+241
+00:19:51,080 --> 00:19:52,080
+Right?
+
+242
+00:19:52,080 --> 00:19:53,080
+Yeah.
+
+243
+00:19:53,080 --> 00:19:54,080
+Well, it wasn't my objective.
+
+244
+00:19:54,080 --> 00:19:55,080
+No, no, no.
+
+245
+00:19:55,080 --> 00:19:57,800
+The objective of people who are putting labels on people like Spencer and you.
+
+246
+00:19:57,800 --> 00:19:58,800
+Exactly.
+
+247
+00:19:58,800 --> 00:19:59,800
+So he fell right into the trap.
+
+248
+00:19:59,800 --> 00:20:01,040
+He fell right into the trap.
+
+249
+00:20:01,040 --> 00:20:07,000
+And unfortunately, I wasn't given the material resources to be able to resist that any more
+
+250
+00:20:07,000 --> 00:20:08,000
+than I did.
+
+251
+00:20:08,000 --> 00:20:13,160
+And at a certain point, specifically when Charlottesville happened, I couldn't endorse
+
+252
+00:20:13,160 --> 00:20:15,120
+the direction that the organization was going in.
+
+253
+00:20:15,120 --> 00:20:16,120
+And so I resigned.
+
+254
+00:20:16,120 --> 00:20:19,880
+I resigned also from my position as editor-in-chief of Arktos.
+
+255
+00:20:19,880 --> 00:20:24,000
+And then within about, and I predicted this, I did an interview with NBC right after I
+
+256
+00:20:24,000 --> 00:20:28,780
+resigned from the Alt-Right Corporation and I predicted that the organization would be
+
+257
+00:20:28,780 --> 00:20:33,320
+embroiled in infighting and it would disintegrate and implode within a very short time after
+
+258
+00:20:33,320 --> 00:20:34,320
+I left.
+
+259
+00:20:34,320 --> 00:20:35,320
+And that's in fact what happened.
+
+260
+00:20:35,320 --> 00:20:39,920
+I think it lasted about six to eight months after my resignation and then imploded.
+
+261
+00:20:39,920 --> 00:20:41,040
+Yeah.
+
+262
+00:20:41,040 --> 00:20:48,200
+Such is a story of human civilization that it's really, really difficult to bring people
+
+263
+00:20:48,200 --> 00:20:56,200
+together, especially when there is establishment mainstream status quo kind of a force that
+
+264
+00:20:56,200 --> 00:21:01,560
+is playing the arbiter that I've never heard anybody describe Alt-Right the way that you
+
+265
+00:21:01,560 --> 00:21:02,560
+did.
+
+266
+00:21:02,560 --> 00:21:07,080
+And I've never heard until maybe two weeks ago that Steve Bannon start talking about
+
+267
+00:21:07,080 --> 00:21:11,840
+the purpose of the populist movement today to prevent people who are in charge today
+
+268
+00:21:11,840 --> 00:21:15,120
+to be in charge when the singularity happens.
+
+269
+00:21:15,120 --> 00:21:20,320
+But other than that, this is the first time I'm hearing any kind of a directive and any
+
+270
+00:21:20,320 --> 00:21:27,600
+kind of a coherent technologically based argument and direction coming from the right.
+
+271
+00:21:27,600 --> 00:21:34,040
+And I think this is a huge gap that exists within the right that they're not talking
+
+272
+00:21:34,040 --> 00:21:35,200
+about.
+
+273
+00:21:35,200 --> 00:21:40,800
+What are we going to do in this coming decade to create some kind of a viable alternative?
+
+274
+00:21:40,800 --> 00:21:44,880
+Because the far left is taking over Google AI department.
+
+275
+00:21:44,880 --> 00:21:50,100
+There's a civil war going on right there right now, which I'm mind blown.
+
+276
+00:21:50,100 --> 00:21:51,800
+Nobody's talking about it.
+
+277
+00:21:51,800 --> 00:21:57,920
+They're targeting all the right places while the other side is talking about you can't
+
+278
+00:21:57,920 --> 00:21:59,560
+even get the election rights.
+
+279
+00:21:59,560 --> 00:22:02,800
+That is so obviously flawed.
+
+280
+00:22:02,800 --> 00:22:05,040
+Well you mentioned Steve Bannon.
+
+281
+00:22:05,040 --> 00:22:12,480
+This is a book that I would recommend to people who are interested in Steve Bannon.
+
+282
+00:22:12,480 --> 00:22:15,560
+I'm not entirely happy with the portrayal of me in this book.
+
+283
+00:22:15,560 --> 00:22:23,400
+I think this guy did a pretty good job overall, but about 30 pages of this book are focused
+
+284
+00:22:23,400 --> 00:22:26,400
+on my efforts to unify the alt-right.
+
+285
+00:22:26,400 --> 00:22:32,360
+And the reason I wind up making an appearance in this book is because those who promised
+
+286
+00:22:32,360 --> 00:22:38,040
+the capital investment in the alt-right corporation had actually, I mean this is what they claimed.
+
+287
+00:22:38,040 --> 00:22:42,640
+They had intended to make me a liaison between the alt-right and the White House.
+
+288
+00:22:42,640 --> 00:22:45,000
+And Steve Bannon was supposed to be the interface person.
+
+289
+00:22:45,000 --> 00:22:49,760
+I was supposed to be the guy who would go into the White House and talk to Steve Bannon
+
+290
+00:22:49,760 --> 00:22:56,320
+in a kind of respectable fashion on behalf of some more colorful characters in the alt-right.
+
+291
+00:22:56,320 --> 00:23:00,440
+And so it doesn't surprise me at all that Bannon would make these remarks about preparing
+
+292
+00:23:00,440 --> 00:23:05,960
+a political ideology that would be adequate to handling the challenges of the technological
+
+293
+00:23:05,960 --> 00:23:06,960
+singularity.
+
+294
+00:23:06,960 --> 00:23:10,960
+Because in fact that was exactly the discussion taking place when it was proposed that I act
+
+295
+00:23:10,960 --> 00:23:13,320
+as this liaison.
+
+296
+00:23:13,320 --> 00:23:19,880
+So yes, I mean, you know, big tech is in bed with the Chinese.
+
+297
+00:23:19,880 --> 00:23:25,800
+And you know, whether it's Google, who's effectively, you know, a front for the CIA, or whether
+
+298
+00:23:25,800 --> 00:23:31,400
+it's, you know, Facebook or Twitter or whatever, these companies are, or Amazon, these companies
+
+299
+00:23:31,400 --> 00:23:33,880
+are in bed with the Chinese.
+
+300
+00:23:33,880 --> 00:23:38,620
+And the worst thing that could possibly happen is for the Chinese to take the lead in developing
+
+301
+00:23:38,620 --> 00:23:40,600
+genetic engineering as they are right now.
+
+302
+00:23:40,600 --> 00:23:44,200
+I mean, they are literally, I think last week a story came out that they're genetically
+
+303
+00:23:44,200 --> 00:23:46,440
+engineering super soldiers.
+
+304
+00:23:46,440 --> 00:23:48,520
+And that was widely reported in the mainstream media.
+
+305
+00:23:48,520 --> 00:23:52,440
+So the worst thing that could happen is the Chinese take the lead in genetic engineering.
+
+306
+00:23:52,440 --> 00:23:55,340
+They take the lead in nanotech and AI development.
+
+307
+00:23:55,340 --> 00:23:59,720
+And the way in which they roll out these technologies, which have the potential to fundamentally
+
+308
+00:23:59,720 --> 00:24:05,400
+alter the parameters of human existence, are ways in which, are ways that are going to
+
+309
+00:24:05,400 --> 00:24:12,400
+lead to the degradation of human individuality, to the degeneration of the potential for genius
+
+310
+00:24:12,400 --> 00:24:14,280
+and innovative creative thought.
+
+311
+00:24:14,280 --> 00:24:22,100
+I can well imagine the Chinese using gene editing to recalibrate the human being into
+
+312
+00:24:22,100 --> 00:24:28,920
+something more, quote unquote, cooperative, into a more cooperative citizen, which also
+
+313
+00:24:28,920 --> 00:24:33,280
+by the same token is less capable of independent innovative thought.
+
+314
+00:24:33,280 --> 00:24:36,440
+So that would be an utter catastrophe.
+
+315
+00:24:36,440 --> 00:24:38,160
+And they're doing it right now.
+
+316
+00:24:38,160 --> 00:24:39,160
+They're doing it right now.
+
+317
+00:24:39,160 --> 00:24:40,440
+This is not science fiction.
+
+318
+00:24:40,440 --> 00:24:41,440
+Yeah.
+
+319
+00:24:41,440 --> 00:24:48,360
+And look, if we're left with a bunch of evangelical conservatives who are already interested in
+
+320
+00:24:48,360 --> 00:24:55,400
+bombing abortion clinics as our only resistance, we're screwed because there's no way that
+
+321
+00:24:55,400 --> 00:25:00,160
+a Luddite regressive right wing is going to be able to compete with the Chinese.
+
+322
+00:25:00,160 --> 00:25:06,440
+We need an archeo-futuristic right wing political ideology that is capable of embracing the
+
+323
+00:25:06,440 --> 00:25:09,720
+full scope of potential of these emerging technologies.
+
+324
+00:25:09,720 --> 00:25:10,720
+Yep.
+
+325
+00:25:10,720 --> 00:25:11,720
+That's exactly what it is.
+
+326
+00:25:11,720 --> 00:25:19,040
+And I'm not optimistic about, you know, I love United States, but I don't know what
+
+327
+00:25:19,040 --> 00:25:20,040
+it is.
+
+328
+00:25:20,040 --> 00:25:26,480
+Is it the openness of the system, or is it just a cultural, the evaluation of the culture
+
+329
+00:25:26,480 --> 00:25:29,760
+that exists in the system that a lot of it is religious?
+
+330
+00:25:29,760 --> 00:25:35,760
+Because Chinese have this opportunity to do genetic engineering without having this dead
+
+331
+00:25:35,760 --> 00:25:39,120
+end of do not interfere in God's business.
+
+332
+00:25:39,120 --> 00:25:43,200
+You know, while nobody else is talking about, well, it could be God's business that allow
+
+333
+00:25:43,200 --> 00:25:47,440
+us to genetically experiment with humanity, you know?
+
+334
+00:25:47,440 --> 00:25:51,440
+Like God's business don't end at any certain kind of a point.
+
+335
+00:25:51,440 --> 00:25:54,960
+So certainly not a Promethean God.
+
+336
+00:25:54,960 --> 00:26:00,880
+So please describe this Promethean God, because when I read, I haven't read the entire book,
+
+337
+00:26:00,880 --> 00:26:05,360
+but I read Julia Prisco's review and I read some excerpts of it.
+
+338
+00:26:05,360 --> 00:26:10,920
+It seems like it's a new, for lack of a better term, it's a new religion and a philosophy
+
+339
+00:26:10,920 --> 00:26:15,360
+merge into one for this coming age that has already begun.
+
+340
+00:26:15,360 --> 00:26:16,360
+Yeah.
+
+341
+00:26:16,360 --> 00:26:21,320
+So when you look at the myth of Prometheus, you know, there are certain principle characteristics
+
+342
+00:26:21,320 --> 00:26:29,280
+or basic elements of this archetype that could be the basis for developing a new socio-political
+
+343
+00:26:29,280 --> 00:26:31,000
+vision, right?
+
+344
+00:26:31,000 --> 00:26:36,120
+And so Prometheus, he's not just an enlightener God, the God who brings, you know, the fire
+
+345
+00:26:36,120 --> 00:26:39,320
+of the forge and the light of science to humanity.
+
+346
+00:26:39,320 --> 00:26:40,960
+He's also the creator of humanity.
+
+347
+00:26:40,960 --> 00:26:44,040
+You know, in Greek mythology, it's not Zeus who creates humanity.
+
+348
+00:26:44,040 --> 00:26:45,640
+It's actually Prometheus.
+
+349
+00:26:45,640 --> 00:26:50,020
+So you know, this whole vision we get in the Ridley Scott films of the engineers having
+
+350
+00:26:50,020 --> 00:26:55,220
+created humanity in their own image, that's very much in line with the Prometheus myth.
+
+351
+00:26:55,220 --> 00:26:59,900
+So when I, and then Prometheus is of course also the first martyr God.
+
+352
+00:26:59,900 --> 00:27:04,800
+You know, it's asked backwards to say that Prometheus is a Christ-like figure because
+
+353
+00:27:04,800 --> 00:27:10,460
+actually the image of Christ as a God who martyrs himself for humanity, for his children,
+
+354
+00:27:10,460 --> 00:27:17,000
+is something that's, it's basically being aped from the Prometheus myth.
+
+355
+00:27:17,000 --> 00:27:22,400
+Christ is aping Prometheus in so far as he's a God who sacrifices himself for his children.
+
+356
+00:27:22,400 --> 00:27:29,800
+So when I look at the whole structure of the Prometheus myth and then, you know, it's important
+
+357
+00:27:29,800 --> 00:27:35,720
+not to neglect the fact that the very first installment of this, you know, long story
+
+358
+00:27:35,720 --> 00:27:42,560
+arc of Prometheus before even the creation of humanity is that Prometheus rebels against
+
+359
+00:27:42,560 --> 00:27:44,080
+his fellow Titans.
+
+360
+00:27:44,080 --> 00:27:46,320
+So this guy, he's an inveterate rebel.
+
+361
+00:27:46,320 --> 00:27:53,880
+He rebels against his fellow Titans against Kronos or Saturn and helps Zeus come to power
+
+362
+00:27:53,880 --> 00:27:59,480
+and helps to install the Olympians only to realize that Zeus is almost as bad as Kronos
+
+363
+00:27:59,480 --> 00:28:06,200
+and then he schemes on behalf of humanity against Olympus and aims to also overthrow
+
+364
+00:28:06,200 --> 00:28:07,660
+Zeus.
+
+365
+00:28:07,660 --> 00:28:12,040
+So this is the God who's a rebel against all gods.
+
+366
+00:28:12,040 --> 00:28:17,600
+And so when I look at this whole story arc from Prometheus rebelling against the Titans,
+
+367
+00:28:17,600 --> 00:28:22,280
+helping Zeus come to power but then turning against Zeus being the creator of humanity
+
+368
+00:28:22,280 --> 00:28:28,280
+and then someone who gifts humanity with the fire of technological innovation and the light
+
+369
+00:28:28,280 --> 00:28:36,000
+of scientific knowledge after Zeus subjugates humanity to, you know, slavery and enforced
+
+370
+00:28:36,000 --> 00:28:41,640
+ignorance and then ultimately Prometheus being willing to be chained to the Caucasus mountains
+
+371
+00:28:41,640 --> 00:28:48,120
+and have his liver pecked out every day as a martyr god for humanity, certain basic characteristics
+
+372
+00:28:48,120 --> 00:28:53,680
+of Prometheus jump out at me that could be formulated into principles that would serve
+
+373
+00:28:53,680 --> 00:28:57,360
+as the basis for a new socio-political vision.
+
+374
+00:28:57,360 --> 00:28:59,800
+And I would lay those out in the following way.
+
+375
+00:28:59,800 --> 00:29:01,800
+I'd say there are about seven of them.
+
+376
+00:29:01,800 --> 00:29:06,920
+The first one would be Prometheus as forethought.
+
+377
+00:29:06,920 --> 00:29:10,880
+You know, the reason his, because his very name means forethought.
+
+378
+00:29:10,880 --> 00:29:15,640
+The reason his liver is being pecked out by Zeus's eagle is because the liver was used
+
+379
+00:29:15,640 --> 00:29:17,200
+for fortune telling in Greece.
+
+380
+00:29:17,200 --> 00:29:21,520
+It was like, you know, like tea leaf readers reading tea leaves.
+
+381
+00:29:21,520 --> 00:29:28,080
+So our people who look into crystal balls, a form of augury and fortune telling of prophesying
+
+382
+00:29:28,080 --> 00:29:33,760
+in archaic Greece was looking into the blackness of the liver by candlelight.
+
+383
+00:29:33,760 --> 00:29:42,400
+And so Prometheus is the god of forethought and the one who's always thinking ahead.
+
+384
+00:29:42,400 --> 00:29:43,400
+Prometheus is a creator.
+
+385
+00:29:43,400 --> 00:29:46,520
+He's the creator of humanity.
+
+386
+00:29:46,520 --> 00:29:47,840
+Prometheus is also an enlightener.
+
+387
+00:29:47,840 --> 00:29:54,360
+He fits into the category of all the enlightener gods like Quetzalcoatl or Enki or Ahura Mazda.
+
+388
+00:29:54,360 --> 00:30:00,320
+He is an enlightener god who brings, you know, science and technology to otherwise benighted
+
+389
+00:30:00,320 --> 00:30:02,520
+humanity.
+
+390
+00:30:02,520 --> 00:30:09,480
+And Prometheus is also the god of exploration.
+
+391
+00:30:09,480 --> 00:30:15,580
+And this comes across particularly clearly in Shelley's rendition of Prometheus, Mary
+
+392
+00:30:15,580 --> 00:30:20,560
+Shelley's rendition of Prometheus, namely Frankenstein or the modern Prometheus.
+
+393
+00:30:20,560 --> 00:30:27,680
+There's a whole story within a story presented in that novel that's about, you know, Walton's
+
+394
+00:30:27,680 --> 00:30:32,700
+seafaring quest of exploration, breaking the Arctic ice and, you know, trying to conquer
+
+395
+00:30:32,700 --> 00:30:34,000
+the North Pole.
+
+396
+00:30:34,000 --> 00:30:38,040
+That's another aspect of the Frankenstein story that's often missed in popular culture
+
+397
+00:30:38,040 --> 00:30:45,400
+is that the quest of Dr. Frankenstein to re-engineer humanity is sort of complemented by this story
+
+398
+00:30:45,400 --> 00:30:47,520
+of Arctic exploration.
+
+399
+00:30:47,520 --> 00:30:54,480
+And so the explorer is analogized with the, you know, intrepid scientific genius working
+
+400
+00:30:54,480 --> 00:30:55,980
+in his laboratory.
+
+401
+00:30:55,980 --> 00:31:01,520
+And so I would say the exploration that's quintessentially characteristic of the Faustian
+
+402
+00:31:01,520 --> 00:31:06,080
+West is another, you know, aspect of the Prometheus mythos.
+
+403
+00:31:06,080 --> 00:31:10,480
+I mean, it's astonishing if you look at the history of exploration of explorers, you know,
+
+404
+00:31:10,480 --> 00:31:17,320
+mountain climbers, ocean explorers, all people who, you know, penetrated the Amazon jungle.
+
+405
+00:31:17,320 --> 00:31:21,960
+Almost all of them are from an Indo-European background.
+
+406
+00:31:21,960 --> 00:31:28,360
+So this is also another characteristic of the Prometheus myth, of the Prometheus archetype.
+
+407
+00:31:28,360 --> 00:31:35,600
+And then, you know, this will to enlightenment and this boundless exploration always yields
+
+408
+00:31:35,600 --> 00:31:44,160
+revolution because it is a resistance to the kind of stasis and stagnation characteristic
+
+409
+00:31:44,160 --> 00:31:46,000
+of different types of tyranny.
+
+410
+00:31:46,000 --> 00:31:48,720
+And so Prometheus is also, of course, the rebel.
+
+411
+00:31:48,720 --> 00:31:52,960
+He's the inveterate rebel who rebels against the Titans and then against the Olympians
+
+412
+00:31:52,960 --> 00:31:59,560
+and who inspires humanity's rebellion in the name of self-determination and being the masters
+
+413
+00:31:59,560 --> 00:32:02,600
+of our own destiny.
+
+414
+00:32:02,600 --> 00:32:18,880
+But then, you know, that rebelliousness is perhaps most interestingly expressed in the
+
+415
+00:32:18,880 --> 00:32:21,440
+trickster aspect of Prometheus.
+
+416
+00:32:21,440 --> 00:32:26,160
+Prometheus is also analogous to Loki and to the Coyote in Native American culture and
+
+417
+00:32:26,160 --> 00:32:31,220
+even to Hermes within the Olympian pantheon insofar as he's a trickster figure, the god
+
+418
+00:32:31,220 --> 00:32:32,940
+of machination.
+
+419
+00:32:32,940 --> 00:32:37,760
+And there's a way in which, and I think Heidegger has this very right, if you look at the phenomenon
+
+420
+00:32:37,760 --> 00:32:42,840
+of technological science historically, you can see technological science itself as a
+
+421
+00:32:42,840 --> 00:32:49,140
+kind of trickery or machination, a cunning or contrivance that involves various kinds
+
+422
+00:32:49,140 --> 00:32:51,120
+of duplicity and deception.
+
+423
+00:32:51,120 --> 00:32:55,960
+But it's a deception that's motivated by the will to resist a superior power.
+
+424
+00:32:55,960 --> 00:32:58,560
+It's like, you know, David versus Goliath.
+
+425
+00:32:58,560 --> 00:33:03,240
+And interestingly, you know, in Ridley Scott's Prometheus prequels to his Alien films, he
+
+426
+00:33:03,240 --> 00:33:07,280
+names the android who is this Promethean figure David.
+
+427
+00:33:07,280 --> 00:33:09,880
+So it's the machinations of David against Goliath.
+
+428
+00:33:09,880 --> 00:33:16,980
+It's using cunning and slyness and stealth in order to outwit, you know, a power that's
+
+429
+00:33:16,980 --> 00:33:19,200
+superior in terms of brute force.
+
+430
+00:33:19,200 --> 00:33:21,780
+You also see this as a characteristic of the Promethean.
+
+431
+00:33:21,780 --> 00:33:25,980
+And then finally, there's, you know, as I mentioned earlier, the willingness to sacrifice
+
+432
+00:33:25,980 --> 00:33:33,700
+oneself for the sake of humanity, this kind of ultra humanism and altruism that we see
+
+433
+00:33:33,700 --> 00:33:40,080
+in Prometheus being willing to be bound in the Caucasus and, you know, suffer a fate
+
+434
+00:33:40,080 --> 00:33:45,840
+worse than death by, you know, having his liver torn out and regenerated every night
+
+435
+00:33:45,840 --> 00:33:48,940
+and pecked out again the next day by Zeus's eagle.
+
+436
+00:33:48,940 --> 00:33:55,200
+So the will to self sacrifice and ultimately martyrdom, you know, an idea that's very
+
+437
+00:33:55,200 --> 00:34:01,420
+significant in Persian culture, in our shared Persian culture, Shahadat, is also one key
+
+438
+00:34:01,420 --> 00:34:04,720
+element or facet of the Prometheus archetype.
+
+439
+00:34:04,720 --> 00:34:13,360
+So these seven, I would say, aspects of the Promethean ethos can be the basis for generating
+
+440
+00:34:13,360 --> 00:34:17,560
+the architecture, the architectonic of a new socio-political worldview.
+
+441
+00:34:17,560 --> 00:34:20,100
+Which is centralized in nature, right?
+
+442
+00:34:20,100 --> 00:34:24,920
+Because there is a point of alignment that these are the ideals that we are striving
+
+443
+00:34:24,920 --> 00:34:25,920
+for.
+
+444
+00:34:25,920 --> 00:34:26,920
+Yes.
+
+445
+00:34:26,920 --> 00:34:29,080
+So, yeah, please.
+
+446
+00:34:29,080 --> 00:34:31,560
+It's a point of orientation.
+
+447
+00:34:31,560 --> 00:34:34,520
+So I'm not a fan of democracy.
+
+448
+00:34:34,520 --> 00:34:40,280
+And every day I'm kind of proven right to myself that democracy is not a way forward.
+
+449
+00:34:40,280 --> 00:34:45,720
+And it seems like beyond this period that where we're going with respect to U.S. socio-political
+
+450
+00:34:45,720 --> 00:34:52,500
+gridlock right now, there is going to be something that is going to be somehow centralized.
+
+451
+00:34:52,500 --> 00:34:57,420
+That some kind of an authority is going to determine the direction, is going to be the
+
+452
+00:34:57,420 --> 00:35:01,800
+arbiter of meanings of all these terms that we are saying bravery.
+
+453
+00:35:01,800 --> 00:35:05,400
+Who is there to define bravery, right?
+
+454
+00:35:05,400 --> 00:35:10,140
+So how do you see we're moving forward here in the United States in the coming decade
+
+455
+00:35:10,140 --> 00:35:15,040
+from the Prometheus kind of a perspective?
+
+456
+00:35:15,040 --> 00:35:18,080
+And where are we right now with respect to everything that you said?
+
+457
+00:35:18,080 --> 00:35:24,360
+Because obviously these are all the quote-unquote good qualities that humanity should consider.
+
+458
+00:35:24,360 --> 00:35:28,600
+But we seem to have the kind of the problem that artificial intelligence right now has,
+
+459
+00:35:28,600 --> 00:35:30,240
+which is the alignment problem.
+
+460
+00:35:30,240 --> 00:35:36,720
+There is no point of, there is no goal, there is no objective for the entire humanity as
+
+461
+00:35:36,720 --> 00:35:39,200
+a civilization to move towards.
+
+462
+00:35:39,200 --> 00:35:40,440
+I agree with you entirely.
+
+463
+00:35:40,440 --> 00:35:44,640
+See, the problem is the United States of America was never intended to be a democracy.
+
+464
+00:35:44,640 --> 00:35:45,640
+That's right.
+
+465
+00:35:45,640 --> 00:35:50,100
+And if you go back and you read the writings of the founding fathers, whether it's James
+
+466
+00:35:50,100 --> 00:35:57,480
+Madison or Benjamin Franklin or Alexander Hamilton, these men loathed democracy.
+
+467
+00:35:57,480 --> 00:36:03,480
+They thought it was the most vile and incompetent form of government in history, okay?
+
+468
+00:36:03,480 --> 00:36:07,560
+And what they were actually trying to do, they considered democracy a quote, tyranny
+
+469
+00:36:07,560 --> 00:36:09,600
+of the majority, unquote.
+
+470
+00:36:09,600 --> 00:36:14,640
+And what they were actually trying to do was to protect the individual against the mob.
+
+471
+00:36:14,640 --> 00:36:17,880
+Which is the entire purpose of United States, basically.
+
+472
+00:36:17,880 --> 00:36:21,680
+That's the entire purpose of the United States, okay?
+
+473
+00:36:21,680 --> 00:36:26,880
+The rights that are enshrined in the Constitution of the United States, in the Bill of Rights,
+
+474
+00:36:26,880 --> 00:36:31,360
+and even more fundamentally, the rights that are the opening words of the true Constitution
+
+475
+00:36:31,360 --> 00:36:35,520
+of the United States, namely the Declaration of Independence, right, life, liberty, and
+
+476
+00:36:35,520 --> 00:36:37,880
+the pursuit of happiness.
+
+477
+00:36:37,880 --> 00:36:43,720
+These rights are rights belonging to the individual that are sacrosanct and to be protected against
+
+478
+00:36:43,720 --> 00:36:45,160
+the will of the majority.
+
+479
+00:36:45,160 --> 00:36:51,000
+The system was supposed to be such that even a 95%, you know, or 99% majority of people
+
+480
+00:36:51,000 --> 00:36:57,560
+in society cannot strip you of certain basic rights that are, quote unquote, God-given,
+
+481
+00:36:57,560 --> 00:37:00,720
+not in the sense that they have anything to do with the biblical revelation.
+
+482
+00:37:00,720 --> 00:37:05,000
+And if anyone thinks that, they should read Thomas Paine, read The Rights of Man or The
+
+483
+00:37:05,000 --> 00:37:11,040
+Age of Reason, you know, the writings of the neglected founding father of the U.S., whose
+
+484
+00:37:11,040 --> 00:37:15,760
+only sin was that he said publicly what the rest of them thought privately, right?
+
+485
+00:37:15,760 --> 00:37:23,560
+So the God-giveness of these rights has to do with this deist metaphysics where the human
+
+486
+00:37:23,560 --> 00:37:27,960
+mind is a microcosm of the cosmic order.
+
+487
+00:37:27,960 --> 00:37:34,600
+And so, you know, for us to be able to flourish and to expand out into the cosmos and fulfill
+
+488
+00:37:34,600 --> 00:37:45,480
+our human potential, we need to have a sociopolitical system that allows us to develop the reason
+
+489
+00:37:45,480 --> 00:37:51,360
+within us that reflects the macrocosmic order, the microcosm in which the cosmic order is
+
+490
+00:37:51,360 --> 00:37:53,600
+reflected in an embryonic form.
+
+491
+00:37:53,600 --> 00:37:59,340
+I mean, that was the way of thinking of the founding fathers, which is very much more
+
+492
+00:37:59,340 --> 00:38:06,440
+in line with kind of Promethean archetype than it is with anything in the revealed religions.
+
+493
+00:38:06,440 --> 00:38:15,040
+In any case, if you read Carl Schmitt, whose preeminent student, Leo Strauss, wound up
+
+494
+00:38:15,040 --> 00:38:20,000
+being a very influential political philosophy professor at the University of Chicago, if
+
+495
+00:38:20,000 --> 00:38:26,960
+you read Carl Schmitt in his writings on the concept of the political, the crisis of parliamentary
+
+496
+00:38:26,960 --> 00:38:35,720
+democracy, you see how liberals only made an alliance with Democrats because they were
+
+497
+00:38:35,720 --> 00:38:38,840
+both against the monarchy in the 1700s.
+
+498
+00:38:38,840 --> 00:38:43,480
+You had two very distinct schools of political thought, Democrats in the vein of Jean-Jacques
+
+499
+00:38:43,480 --> 00:38:47,160
+Rousseau, people who wanted to bring back democracy in some sense.
+
+500
+00:38:47,160 --> 00:38:50,600
+And you had liberals like John Stuart Mill.
+
+501
+00:38:50,600 --> 00:38:55,840
+And these two political tendencies were actually very much opposed to one another and stood
+
+502
+00:38:55,840 --> 00:38:58,740
+in very serious tension with one another.
+
+503
+00:38:58,740 --> 00:39:06,520
+But they made this kind of provisional alliance in order to defeat monarchy and to transform
+
+504
+00:39:06,520 --> 00:39:14,440
+feudal society into the kind of society based on free enterprise that we've had since then.
+
+505
+00:39:14,440 --> 00:39:18,000
+And so they created this hodgepodge liberal democracy.
+
+506
+00:39:18,000 --> 00:39:24,560
+This is a fundamentally incoherent ideology, liberal democracy, because the whole point
+
+507
+00:39:24,560 --> 00:39:30,820
+of liberal liberalism in the classical sense, not this crap that passes for liberalism today,
+
+508
+00:39:30,820 --> 00:39:36,480
+but the whole point of advocating for political liberty is to protect the rights of the individual.
+
+509
+00:39:36,480 --> 00:39:41,040
+Whereas a democracy inherently is based on the idea of majority rule.
+
+510
+00:39:41,040 --> 00:39:44,520
+And the other thing about democracy that most people don't understand is that when you look
+
+511
+00:39:44,520 --> 00:39:51,540
+at the really sophisticated theorists of democracy in the modern age, like Jean-Jacques Rousseau,
+
+512
+00:39:51,540 --> 00:39:58,280
+you see that they knew that democracy going all the way back to the classical Greeks is
+
+513
+00:39:58,280 --> 00:40:04,760
+always based on an implicit acceptance of a certain religious ideology.
+
+514
+00:40:04,760 --> 00:40:10,740
+You cannot have coherent decision making by a majority in a parliament or in a congress
+
+515
+00:40:10,740 --> 00:40:13,420
+unless they all believe in the same religion.
+
+516
+00:40:13,420 --> 00:40:17,700
+And this is something that hasn't been understood that democracy, I wrote about this at length
+
+517
+00:40:17,700 --> 00:40:19,920
+in World State of Emergency.
+
+518
+00:40:19,920 --> 00:40:22,640
+Democracy is inherently theocratic.
+
+519
+00:40:22,640 --> 00:40:26,280
+It doesn't have to be a literal theocracy like the Islamic Republic of Iran, but there
+
+520
+00:40:26,280 --> 00:40:30,680
+needs to be a tacit acceptance of a certain religious ethos so that you have coherent
+
+521
+00:40:30,680 --> 00:40:33,120
+long-term decision making in the polity.
+
+522
+00:40:33,120 --> 00:40:36,120
+A point of alignment.
+
+523
+00:40:36,120 --> 00:40:40,840
+And so then what happens to the minority of dissenters in a society, those individuals
+
+524
+00:40:40,840 --> 00:40:42,840
+who don't subscribe to the dominant religion?
+
+525
+00:40:42,840 --> 00:40:44,600
+Well, they get persecuted.
+
+526
+00:40:44,600 --> 00:40:51,120
+They get persecuted and ultimately, like Socrates, executed by a democratic assembly.
+
+527
+00:40:51,120 --> 00:40:55,320
+And so liberalism and democracy were strange bedfellows to begin with.
+
+528
+00:40:55,320 --> 00:40:59,000
+And I think what we're seeing right now in the United States is the disintegration and
+
+529
+00:40:59,000 --> 00:41:01,160
+collapse of liberal democracy.
+
+530
+00:41:01,160 --> 00:41:05,360
+And what we need to do is think about what kind of ideology ought to replace liberal
+
+531
+00:41:05,360 --> 00:41:12,120
+democracy and what I would like to see is a kind of political ideology where liberty
+
+532
+00:41:12,120 --> 00:41:18,520
+is central to the system that's proposed to replace the current system.
+
+533
+00:41:18,520 --> 00:41:24,320
+And the emphasis should therefore be placed on the liberal aspect of the American founding
+
+534
+00:41:24,320 --> 00:41:27,640
+ideology rather than on its democratic aspect.
+
+535
+00:41:27,640 --> 00:41:33,360
+And so we need assuring up of the rights of the individual, but that also cannot happen
+
+536
+00:41:33,360 --> 00:41:40,280
+without acknowledging some kind of point of orientation, which will not tyrannize over
+
+537
+00:41:40,280 --> 00:41:46,560
+society the way that the Democrats' acceptance of a theology, tacit acceptance of a theology
+
+538
+00:41:46,560 --> 00:41:51,520
+would tyrannize overall members of society, but it would be a kind of spiritual ethos
+
+539
+00:41:51,520 --> 00:41:57,840
+that actually protects differentiation and individuation and encourages the cultivation
+
+540
+00:41:57,840 --> 00:42:07,960
+and flourishing of the individual, a kind of supra religion or transcendent spirituality
+
+541
+00:42:07,960 --> 00:42:13,160
+which accommodates religious diversity within certain bounds.
+
+542
+00:42:13,160 --> 00:42:18,480
+You cannot allow religions to thrive in a society which are inherently intolerant religions.
+
+543
+00:42:18,480 --> 00:42:23,680
+I mean, this idea that freedom of religion extends to people who believe in religions
+
+544
+00:42:23,680 --> 00:42:31,760
+so dogmatic that they believe in executing those who are, you know, kofars or apostates
+
+545
+00:42:31,760 --> 00:42:36,040
+or whatever, that kind of freedom of religion is fundamentally incoherent.
+
+546
+00:42:36,040 --> 00:42:41,040
+It's the Achilles heel that's going to be the downfall of any political system.
+
+547
+00:42:41,040 --> 00:42:46,380
+And so it needs to be understood that, yes, there should be, you know, people should explore
+
+548
+00:42:46,380 --> 00:42:52,780
+spirituality in ways that are individualistic, that, you know, promote dynamism and diversity
+
+549
+00:42:52,780 --> 00:43:01,520
+in society, but that cannot extend to sects or cults that are in favor of forcing a certain
+
+550
+00:43:01,520 --> 00:43:08,840
+religious ideology onto society and persecuting or even executing people who are considered
+
+551
+00:43:08,840 --> 00:43:10,920
+apostates.
+
+552
+00:43:10,920 --> 00:43:16,900
+So when it comes to Islam, that poses a very significant problem for us, you know, in terms
+
+553
+00:43:16,900 --> 00:43:20,860
+of how we're going to restructure, say, the political system of the United States and
+
+554
+00:43:20,860 --> 00:43:23,940
+ultimately provide a model for the whole world.
+
+555
+00:43:23,940 --> 00:43:28,540
+It's a problem for us considering that, demographically speaking, Islam will be the dominant religion
+
+556
+00:43:28,540 --> 00:43:31,280
+on this planet within the next 30 years.
+
+557
+00:43:31,280 --> 00:43:32,940
+So this is really interesting.
+
+558
+00:43:32,940 --> 00:43:37,940
+First of all, about nonsensical terms, Islamic Republic is another one of those nonsensical
+
+559
+00:43:37,940 --> 00:43:41,500
+terms that we have been dealing with in Iran.
+
+560
+00:43:41,500 --> 00:43:48,740
+And I talked about this many times in this podcast that before the success of a revolution,
+
+561
+00:43:48,740 --> 00:43:54,420
+there was an alliance between Marxists and leftists and Islamists around their common
+
+562
+00:43:54,420 --> 00:43:58,180
+enemy that was this capitalism and America and Shah.
+
+563
+00:43:58,180 --> 00:44:04,540
+I actually still have this book right here, Answer to History, that he talks about it.
+
+564
+00:44:04,540 --> 00:44:05,980
+He goes on and on and on.
+
+565
+00:44:05,980 --> 00:44:11,300
+And it's really interesting how he talks about students in universities, how they don't understand
+
+566
+00:44:11,300 --> 00:44:14,980
+anything about life and everything has been given to them.
+
+567
+00:44:14,980 --> 00:44:18,960
+And it's like, you know, we're going through a twilight zone because it's the exact same
+
+568
+00:44:18,960 --> 00:44:23,220
+thing that is happening in the United States right now, which suggests to me this goes
+
+569
+00:44:23,220 --> 00:44:32,340
+much deeper into human nature rather than being the outcome of any socio-political,
+
+570
+00:44:32,340 --> 00:44:34,580
+modern socio-political system.
+
+571
+00:44:34,580 --> 00:44:38,420
+Yeah, people don't want freedom.
+
+572
+00:44:38,420 --> 00:44:39,820
+People are terrified of freedom.
+
+573
+00:44:39,820 --> 00:44:45,800
+I mean, by people, I mean what Heidegger called Das Mann, the majority, the mass, the mob.
+
+574
+00:44:45,800 --> 00:44:46,920
+They don't want freedom.
+
+575
+00:44:46,920 --> 00:44:47,920
+Because they want security.
+
+576
+00:44:47,920 --> 00:44:48,920
+Is that it?
+
+577
+00:44:48,920 --> 00:44:49,920
+They want security.
+
+578
+00:44:49,920 --> 00:44:50,920
+Right.
+
+579
+00:44:50,920 --> 00:44:55,980
+They want just like, you know, physical security, the kind of security of, you know, whatever.
+
+580
+00:44:55,980 --> 00:44:59,700
+That's going to be guaranteed by a political regime, economic security in terms of social
+
+581
+00:44:59,700 --> 00:45:01,260
+welfare.
+
+582
+00:45:01,260 --> 00:45:04,220
+Most fundamentally, they want psychological security.
+
+583
+00:45:04,220 --> 00:45:13,220
+They want, you know, some kind of a belief system that will give them a sense of tranquility
+
+584
+00:45:13,220 --> 00:45:21,660
+and, you know, you know, it kind of, you know, inner calm and stability.
+
+585
+00:45:21,660 --> 00:45:27,060
+People generally do not want to constantly be challenged to expand their horizons.
+
+586
+00:45:27,060 --> 00:45:33,260
+And so, you know, the burden, burdensome task that is placed on our shoulders is how to
+
+587
+00:45:33,260 --> 00:45:41,220
+develop a socio-political system that's Promethean in nature when the majority of society is
+
+588
+00:45:41,220 --> 00:45:47,740
+very threatened by that, where the majority of society wants, you know, a kind of dogma
+
+589
+00:45:47,740 --> 00:45:53,380
+that you find in, you know, Christian evangelical interpretations of the Bible or Catholic traditionalist
+
+590
+00:45:53,380 --> 00:45:58,500
+interpretations of the Bible, where the majority of society might even feel more comfortable
+
+591
+00:45:58,500 --> 00:46:04,900
+with the kind of Confucian values that China wants to promote on a planetary scale than
+
+592
+00:46:04,900 --> 00:46:11,660
+they would feel with a, you know, Promethean socio-political vision.
+
+593
+00:46:11,660 --> 00:46:13,100
+So it's a problem.
+
+594
+00:46:13,100 --> 00:46:17,380
+It's a serious problem that we're going to face in terms of, you know, how to govern
+
+595
+00:46:17,380 --> 00:46:26,860
+a population that is really terrified of freedom and how to salvage the American project, which
+
+596
+00:46:26,860 --> 00:46:30,140
+was about defending, you know, human freedom.
+
+597
+00:46:30,140 --> 00:46:35,380
+But I think, really, we're in the eleventh hour right now, I mean, because we are coming
+
+598
+00:46:35,380 --> 00:46:41,060
+up against a moment that, you know, I think you can legitimately characterize as the end
+
+599
+00:46:41,060 --> 00:46:46,020
+of history, a kind of spike on the, you know, exponentially...
+
+600
+00:46:46,020 --> 00:46:47,020
+Human history, though, right?
+
+601
+00:46:47,020 --> 00:46:48,020
+Human history.
+
+602
+00:46:48,020 --> 00:46:49,020
+Yeah.
+
+603
+00:46:49,020 --> 00:46:52,620
+The end of human history and potentially the beginning of a post-human history, right?
+
+604
+00:46:52,620 --> 00:46:57,380
+We're approaching a moment when we're going to pass through some kind of a great filter.
+
+605
+00:46:57,380 --> 00:47:02,860
+And I want to make sure that we do get to that moment, that there is no artificial controlled
+
+606
+00:47:02,860 --> 00:47:08,940
+demolition of advanced industrial society and a kind of forced return to a neo-agrarian,
+
+607
+00:47:08,940 --> 00:47:14,020
+neo-feudal way of life and an imposition of traditional values, whether they're in the
+
+608
+00:47:14,020 --> 00:47:18,580
+form of Catholic traditionalism or whether it's Confucianist traditionalism or some kind
+
+609
+00:47:18,580 --> 00:47:20,220
+of global Islamic caliphate.
+
+610
+00:47:20,220 --> 00:47:24,820
+I want to make sure that we make it to the technological singularity and that the people
+
+611
+00:47:24,820 --> 00:47:31,460
+who pass through that great filter are the people who are actually interested in being
+
+612
+00:47:31,460 --> 00:47:38,380
+free and in cultivating themselves to the maximum.
+
+613
+00:47:38,380 --> 00:47:44,780
+So on Islam, I had this conversation with someone from The Federalist that I don't understand
+
+614
+00:47:44,780 --> 00:47:49,660
+how Islam is not in contradiction to the United States Constitution.
+
+615
+00:47:49,660 --> 00:47:55,820
+I understand it's a controversial thing to say, but the First Amendment, freedom of religion
+
+616
+00:47:55,820 --> 00:48:03,260
+and separation of church and state that comes with it is not at all consistent with a religion
+
+617
+00:48:03,260 --> 00:48:05,740
+that demands submission.
+
+618
+00:48:05,740 --> 00:48:06,980
+Islam means to submit.
+
+619
+00:48:06,980 --> 00:48:08,700
+Muslim is the one who has submitted.
+
+620
+00:48:08,700 --> 00:48:14,900
+So it's a very valid question to ask if a practicing Muslim ends up in the Congress,
+
+621
+00:48:14,900 --> 00:48:19,560
+whether or not you're loyal to Islam or you're loyal to United States of America.
+
+622
+00:48:19,560 --> 00:48:22,740
+Practicing Muslims have no place in the United States of America, period, let alone in the
+
+623
+00:48:22,740 --> 00:48:24,340
+United States Congress.
+
+624
+00:48:24,340 --> 00:48:31,900
+I analyzed this in an essay called A Critique of Shiite Esotericism, A Critique of Shiite
+
+625
+00:48:31,900 --> 00:48:33,340
+Esotericism.
+
+626
+00:48:33,340 --> 00:48:39,800
+In my book, my anthology Lovers of Sophia, one of the essays in there, looks at the kind
+
+627
+00:48:39,800 --> 00:48:44,180
+of Shiite Esotericism that's supposedly the basis for the Islamic Republic that Ayatollah
+
+628
+00:48:44,180 --> 00:48:49,320
+Khomeini specialized in in his seminary years and so forth.
+
+629
+00:48:49,320 --> 00:48:53,540
+And it shows how this is not really authentic Islam.
+
+630
+00:48:53,540 --> 00:48:59,580
+And you know, this kind of Shiite Esotericism is not even authentic Shiaism of the Arab
+
+631
+00:48:59,580 --> 00:49:03,980
+kind that, you know, originated in Iraq during the time of, you know, after the martyrdom
+
+632
+00:49:03,980 --> 00:49:07,220
+of Hussein and so forth.
+
+633
+00:49:07,220 --> 00:49:13,860
+Shiite Esotericism is a kind of crypto-Zoroastrianism or crypto-mythraism.
+
+634
+00:49:13,860 --> 00:49:21,220
+And if you actually look at the Qur'an in detail, you see that it includes an entire
+
+635
+00:49:21,220 --> 00:49:22,860
+political constitution.
+
+636
+00:49:22,860 --> 00:49:27,380
+It is not just a religious text, the Qur'an is actually a political constitution which
+
+637
+00:49:27,380 --> 00:49:30,860
+was used to govern Medina in Muhammad's lifetime.
+
+638
+00:49:30,860 --> 00:49:36,420
+And there's nothing about, you know, the power struggle between, you know, Ali, you know,
+
+639
+00:49:36,420 --> 00:49:41,380
+Hassan and Hussein on the one hand and the Sunni caliphs on the other hand that would
+
+640
+00:49:41,380 --> 00:49:47,700
+suggest in any way that the Sharia which is proposed, not proposed, the Sharia which is
+
+641
+00:49:47,700 --> 00:49:54,060
+mandated in the Qur'an itself would in any way be abrogated by fatwas of ayatollahs or
+
+642
+00:49:54,060 --> 00:49:57,620
+subsequent interpretations by mystics or anything of the kind.
+
+643
+00:49:57,620 --> 00:50:03,780
+The transformation of Islam in that direction within the Persianate world was an attempt
+
+644
+00:50:03,780 --> 00:50:09,260
+by Persians to preserve their own pre-Islamic mysticism.
+
+645
+00:50:09,260 --> 00:50:16,420
+And you know, it was so effective within Iran and, you know, in sort of catalyzing the so-called
+
+646
+00:50:16,420 --> 00:50:21,940
+Islamic golden age that a lot of Western intellectuals have been mesmerized by this and confused into
+
+647
+00:50:21,940 --> 00:50:24,600
+thinking that this is actually Islam.
+
+648
+00:50:24,600 --> 00:50:31,380
+If you look at, you know, what is in the Qur'an, it's clear and people, I really refer to that
+
+649
+00:50:31,380 --> 00:50:35,980
+essay where I quote chapter and verse to just make this crystal clear.
+
+650
+00:50:35,980 --> 00:50:39,980
+Within the Qur'an, you are not allowed to disbelieve in Islam once you are born into
+
+651
+00:50:39,980 --> 00:50:48,180
+the Islamic community and believing in Islam is not just a testimony of faith, it is adherence
+
+652
+00:50:48,180 --> 00:50:58,700
+to a political code, a doctrine of jurisprudence that includes things like, you know, draconian
+
+653
+00:50:58,700 --> 00:51:05,500
+punishments for theft, the institutionalization of women's inferiority in society, all kinds
+
+654
+00:51:05,500 --> 00:51:06,500
+of property laws.
+
+655
+00:51:06,500 --> 00:51:07,500
+Yeah.
+
+656
+00:51:07,500 --> 00:51:08,500
+ISIS.
+
+657
+00:51:08,500 --> 00:51:09,500
+Yeah.
+
+658
+00:51:09,500 --> 00:51:10,500
+Yeah.
+
+659
+00:51:10,500 --> 00:51:11,500
+What was that?
+
+660
+00:51:11,500 --> 00:51:13,180
+ISIS.
+
+661
+00:51:13,180 --> 00:51:17,340
+Almost everything that ISIS practiced in Iraq or that the Taliban practiced in Afghanistan
+
+662
+00:51:17,340 --> 00:51:22,980
+is based right in the Qur'an itself and the Sharia law code that was promulgated by Muhammad
+
+663
+00:51:22,980 --> 00:51:25,820
+in his lifetime and used to govern Medina.
+
+664
+00:51:25,820 --> 00:51:27,020
+This is a fact.
+
+665
+00:51:27,020 --> 00:51:31,940
+And so again, to go back to what I was saying earlier, it's incoherent to understand freedom
+
+666
+00:51:31,940 --> 00:51:37,940
+of religion as a right that would include toleration and acceptance of people who are
+
+667
+00:51:37,940 --> 00:51:41,940
+fundamentally intolerant and want to strip everybody else of their freedom of religion.
+
+668
+00:51:41,940 --> 00:51:43,020
+This makes no sense whatsoever.
+
+669
+00:51:43,020 --> 00:51:50,060
+Now, I would say this is also true of certain like Judeo-Christian sects that are, you know,
+
+670
+00:51:50,060 --> 00:51:54,620
+firmly grounded in the Old Testament and that, you know, believe in using, I don't know,
+
+671
+00:51:54,620 --> 00:52:00,340
+the Book of Leviticus or Exodus or something to develop a quote unquote biblical republic.
+
+672
+00:52:00,340 --> 00:52:01,860
+Those people shouldn't be tolerated.
+
+673
+00:52:01,860 --> 00:52:02,860
+Neither.
+
+674
+00:52:02,860 --> 00:52:07,380
+But demographically speaking, they're a lot less of a threat than Muslims are.
+
+675
+00:52:07,380 --> 00:52:12,300
+And the Bible as a text is fundamentally different from the Qur'an insofar as it was composed
+
+676
+00:52:12,300 --> 00:52:17,840
+by tens of different authors over the course of hundreds of years and includes many internal
+
+677
+00:52:17,840 --> 00:52:19,820
+contradictions as a result of that.
+
+678
+00:52:19,820 --> 00:52:23,180
+The Qur'an is much more like, you know, Mao's little red book.
+
+679
+00:52:23,180 --> 00:52:29,180
+It is a doctrinal document produced by one man with one vision at a particular time.
+
+680
+00:52:29,180 --> 00:52:37,540
+And yet he very clearly mandated that that vision be immutable and eternally applicable,
+
+681
+00:52:37,540 --> 00:52:41,660
+at least until, you know, the apocalypse.
+
+682
+00:52:41,660 --> 00:52:48,060
+So yeah, you're absolutely right that Islam in its authentic form doesn't belong in American
+
+683
+00:52:48,060 --> 00:52:51,740
+society, let alone that Muslims should be serving in the United States Congress and
+
+684
+00:52:51,740 --> 00:52:53,780
+taking their oath of office on the Qur'an.
+
+685
+00:52:53,780 --> 00:52:57,860
+It's absolutely preposterous and it's a fundamental threat to the republic.
+
+686
+00:52:57,860 --> 00:52:58,860
+It really is.
+
+687
+00:52:58,860 --> 00:53:03,020
+Ayaan Hirsi Ali said, the tolerance of intolerance is cowardice.
+
+688
+00:53:03,020 --> 00:53:04,180
+That's exactly what it is.
+
+689
+00:53:04,180 --> 00:53:10,060
+But Peter Boghossian was talking about there is a move in Jiu-Jitsu that it's like this,
+
+690
+00:53:10,060 --> 00:53:14,340
+that you hold on to your one arm that the other one can be.
+
+691
+00:53:14,340 --> 00:53:19,140
+And he said that this one, I'm sorry, this one is the far left, is a progressive left
+
+692
+00:53:19,140 --> 00:53:22,080
+that is hold on to the Islamists and the fundamentalists.
+
+693
+00:53:22,080 --> 00:53:25,100
+For as long as this stays here, nothing can be done here.
+
+694
+00:53:25,100 --> 00:53:29,460
+So it seems like, again, we're going back to this progressive left, the end of which
+
+695
+00:53:29,460 --> 00:53:37,540
+is centralized system of tyranny and new feudalism with Chinese Communist Party at the top.
+
+696
+00:53:37,540 --> 00:53:38,860
+It seems like it.
+
+697
+00:53:38,860 --> 00:53:39,860
+That's exactly right.
+
+698
+00:53:39,860 --> 00:53:46,500
+And, you know, this kind of deracinated identity politics is being used to promote that agenda,
+
+699
+00:53:46,500 --> 00:53:50,820
+which is one of the reasons why from the beginning of my involvement in the alt-right, I was
+
+700
+00:53:50,820 --> 00:53:55,460
+trying to take it away from identity politics in this kind of really narrow minded ghettoized
+
+701
+00:53:55,460 --> 00:54:04,500
+sense and toward a grand vision of, you know, Indo-European shared destiny and a kind of,
+
+702
+00:54:04,500 --> 00:54:11,420
+you know, ethos that would be able to orient all of humanity in a way that allows us to
+
+703
+00:54:11,420 --> 00:54:14,740
+successfully navigate the technological singularity.
+
+704
+00:54:14,740 --> 00:54:18,860
+Are you familiar with Aubrey de Grey?
+
+705
+00:54:18,860 --> 00:54:20,980
+The gerontologist.
+
+706
+00:54:20,980 --> 00:54:23,700
+He has a very long beard and long hair.
+
+707
+00:54:23,700 --> 00:54:25,540
+He is the founder of Sense Foundation.
+
+708
+00:54:25,540 --> 00:54:28,140
+They're working on longevity and immortality.
+
+709
+00:54:28,140 --> 00:54:36,080
+Yeah, it's been years, but I remember looking at some of his, the genetic, the biotechnology
+
+710
+00:54:36,080 --> 00:54:37,660
+aimed at life extension.
+
+711
+00:54:37,660 --> 00:54:38,660
+Yes.
+
+712
+00:54:38,660 --> 00:54:41,060
+Research that he was doing in the early 2000s.
+
+713
+00:54:41,060 --> 00:54:44,620
+I think the last time that I looked at that stuff was somewhere in the mid 2000s, but
+
+714
+00:54:44,620 --> 00:54:45,620
+yeah, vaguely.
+
+715
+00:54:45,620 --> 00:54:51,260
+So the last time he was on Joe Rogan, he said what keeps him awake at night is that we're
+
+716
+00:54:51,260 --> 00:54:57,780
+five to seven years away from a major breakthrough with respect to longevity after which people
+
+717
+00:54:57,780 --> 00:55:01,820
+are able to live significantly longer lives.
+
+718
+00:55:01,820 --> 00:55:04,700
+And that will change everything that will change their philosophy, that will change
+
+719
+00:55:04,700 --> 00:55:08,080
+their priorities, that will change their expectations.
+
+720
+00:55:08,080 --> 00:55:12,340
+And he was saying what concerns him the most is that politicians that are policymakers
+
+721
+00:55:12,340 --> 00:55:14,260
+are not ready, which is a given.
+
+722
+00:55:14,260 --> 00:55:21,500
+They are not ready, but can that immortality be seen or relative immortality be seen as
+
+723
+00:55:21,500 --> 00:55:28,040
+this new point of alliance for humanity that goes against the practical practices of it
+
+724
+00:55:28,040 --> 00:55:35,020
+that you see that people are living beyond 100 and then maybe 150, 200 and many other
+
+725
+00:55:35,020 --> 00:55:38,860
+advancement will come in the meantime.
+
+726
+00:55:38,860 --> 00:55:44,400
+But in that also addresses problem with religions that everything that is being determined and
+
+727
+00:55:44,400 --> 00:55:49,300
+arbitrated on this life is based on some kind of an ideal that you will receive in the next
+
+728
+00:55:49,300 --> 00:55:52,740
+life because most people don't want to die.
+
+729
+00:55:52,740 --> 00:55:59,700
+Well, you know, I think it's even more profound than that because look, life extension is
+
+730
+00:55:59,700 --> 00:56:00,700
+one thing.
+
+731
+00:56:00,700 --> 00:56:03,780
+And now that you refresh my memory, I do remember, I mean, wasn't Aubrey DeGray involved in
+
+732
+00:56:03,780 --> 00:56:07,620
+those studies where they increased the lifespan of mice by two or three times, something like
+
+733
+00:56:07,620 --> 00:56:08,620
+that?
+
+734
+00:56:08,620 --> 00:56:12,980
+So it's feasible and it is right around the corner.
+
+735
+00:56:12,980 --> 00:56:20,540
+But I think that, you know, far more profound than any, you know, life extension through
+
+736
+00:56:20,540 --> 00:56:30,380
+genetic engineering, the effect of see, here's the thing in Prometheism, my recent book Prometheism,
+
+737
+00:56:30,380 --> 00:56:36,140
+I argue that the technological singularity is inextricable from what I call the spectral
+
+738
+00:56:36,140 --> 00:56:37,140
+revolution.
+
+739
+00:56:37,140 --> 00:56:43,340
+So this is the idea that as we get closer to the technological singularity in really
+
+740
+00:56:43,340 --> 00:56:48,780
+well-funded research programs that are aiming at developing strong artificial intelligence
+
+741
+00:56:48,780 --> 00:56:58,940
+or even as we try to, you know, develop an even more comprehensive, thorough going mastery
+
+742
+00:56:58,940 --> 00:57:05,540
+in editing the human genome, we are going to come up against anomalies in these research
+
+743
+00:57:05,540 --> 00:57:12,500
+programs, anomalies where, you know, as they're attempting to develop strong AI inside quantum
+
+744
+00:57:12,500 --> 00:57:19,020
+computers, they see instances of psychokinesis, anomalies in genetic engineering research
+
+745
+00:57:19,020 --> 00:57:24,500
+programs where there are mutations that cannot be accounted for by, you know, the reductive
+
+746
+00:57:24,500 --> 00:57:29,460
+materialist scientific paradigms that these researchers are doing their work on the basis
+
+747
+00:57:29,460 --> 00:57:30,460
+of.
+
+748
+00:57:30,460 --> 00:57:35,660
+They're going to need to, at that point, take into consideration, you know, the many decades
+
+749
+00:57:35,660 --> 00:57:43,740
+of research that's been done by parapsychologists and the AI research programs and genetic engineering
+
+750
+00:57:43,740 --> 00:57:48,980
+research programs leading us toward the technological singularity are in effect going to legitimate
+
+751
+00:57:48,980 --> 00:57:55,020
+the whole history of parapsychological research and bring about what I call the spectral revolution,
+
+752
+00:57:55,020 --> 00:58:03,180
+which is a scientific revolution in some ways comparable to the Copernican Revolution and
+
+753
+00:58:03,180 --> 00:58:08,580
+the Darwinian Revolution, but much more profound because at that point, when we acknowledge,
+
+754
+00:58:08,580 --> 00:58:14,420
+you know, telepathy and other forms of extrasensory perception and psychokinesis and so forth
+
+755
+00:58:14,420 --> 00:58:19,240
+as legitimate, not just human abilities, but capacities that we see in various organisms
+
+756
+00:58:19,240 --> 00:58:24,620
+in nature, at that point, we will become conscious for the first time of the way in which scientific
+
+757
+00:58:24,620 --> 00:58:27,980
+paradigms condition and constrain our thinking.
+
+758
+00:58:27,980 --> 00:58:34,980
+And then we'll be able to engage in various research programs that are post-paradigmatic.
+
+759
+00:58:34,980 --> 00:58:43,780
+They can take place unrestricted by any one particular scientific paradigm and use various
+
+760
+00:58:43,780 --> 00:58:48,720
+theoretical models in order to accomplish different ends in terms of, you know, discovery
+
+761
+00:58:48,720 --> 00:58:50,140
+and innovation.
+
+762
+00:58:50,140 --> 00:58:56,540
+And so where I was going with this is that I think that the impact of that kind of spectral
+
+763
+00:58:56,540 --> 00:59:00,300
+revolution on religion is far more profound than anything you're going to see as a result
+
+764
+00:59:00,300 --> 00:59:03,380
+of genetic engineering leading to life extension.
+
+765
+00:59:03,380 --> 00:59:07,540
+It's not just that, you know, people living 300 years or, I don't know, a thousand year
+
+766
+00:59:07,540 --> 00:59:11,300
+lifespans are going to understand spirituality differently.
+
+767
+00:59:11,300 --> 00:59:14,700
+They're going to be disabused of various religious dogmas.
+
+768
+00:59:14,700 --> 00:59:20,540
+Once AI researchers discover that there's a kind of consciousness that's not reducible
+
+769
+00:59:20,540 --> 00:59:26,100
+to the biological organism and that it can survive physical death and we can track it
+
+770
+00:59:26,100 --> 00:59:33,380
+as it does and we can potentially guide a soul, for lack of a better word, from one
+
+771
+00:59:33,380 --> 00:59:40,860
+body into another, potentially into an android body, once those kinds of capabilities are
+
+772
+00:59:40,860 --> 00:59:46,100
+developed within, you know, well-funded mainstream research programs, it's going to have an absolutely
+
+773
+00:59:46,100 --> 00:59:50,780
+devastating effect on revealed religion and all kinds of religious dogma.
+
+774
+00:59:50,780 --> 00:59:56,660
+And this is actually one of the reasons why I worry about the rise of China, because unlike
+
+775
+00:59:56,660 --> 01:00:02,140
+Westerners who subscribe to, you know, an Abrahamic religious revelation, right?
+
+776
+01:00:02,140 --> 01:00:08,260
+I mean, Judeo-Christianity, like Islam, is a form of Abrahamic religious revelation.
+
+777
+01:00:08,260 --> 01:00:13,740
+Unlike Westerners who, you know, have this revealed Bible as the basis of the religious
+
+778
+01:00:13,740 --> 01:00:22,300
+belief system, the Chinese, you know, Confucian worldview is not going to be as destabilized,
+
+779
+01:00:22,300 --> 01:00:27,340
+there's not going to be as, you know, severe a sociopolitical upheaval, it will not be
+
+780
+01:00:27,340 --> 01:00:35,220
+as traumatic for them to process these breakthroughs in scientific research that legitimate ESP
+
+781
+01:00:35,220 --> 01:00:40,260
+and mind over matter, as it were, and, you know, that potentially present scientific
+
+782
+01:00:40,260 --> 01:00:44,540
+evidence for reincarnation, it will not be as difficult for them to handle those breakthroughs
+
+783
+01:00:44,540 --> 01:00:50,340
+as it will be for Westerners, particularly, let's say, evangelicals or traditionalist
+
+784
+01:00:50,340 --> 01:00:55,900
+Catholics who are going to be traumatized by these discoveries and immediately will
+
+785
+01:00:55,900 --> 01:01:02,260
+brand the scientific researchers engaged in this kind of endeavor as agents of the Antichrist
+
+786
+01:01:02,260 --> 01:01:06,140
+who are promulgating black magic and sorcery.
+
+787
+01:01:06,140 --> 01:01:10,020
+And so we face potentially another crisis like the one that we did during the epoch
+
+788
+01:01:10,020 --> 01:01:15,540
+of the witch burnings, you know, when Giordano Bruno was burned at the stake during the Renaissance
+
+789
+01:01:15,540 --> 01:01:16,780
+and so forth.
+
+790
+01:01:16,780 --> 01:01:22,300
+And that's another of the major concerns that my project of Prometheism is trying to address.
+
+791
+01:01:22,300 --> 01:01:26,000
+That is a very valid concern because we've already seen the example of that with Google
+
+792
+01:01:26,000 --> 01:01:34,940
+Glass, how people got attacked in San Francisco and around Silicon Valley, the buses of these
+
+793
+01:01:34,940 --> 01:01:40,020
+companies were attacked just because of Google Glass, that somebody, actually the president
+
+794
+01:01:40,020 --> 01:01:44,740
+of the transhumanist party of United States I was talking to, he brought an interesting
+
+795
+01:01:44,740 --> 01:01:49,420
+angle that the problem with Google Glass was the elitist way that it was released, that
+
+796
+01:01:49,420 --> 01:01:53,900
+not everybody could have access to it, you had to be chosen, you had to be selected in
+
+797
+01:01:53,900 --> 01:02:00,200
+order to have, but I think it goes beyond that, exactly what you said, that you use
+
+798
+01:02:00,200 --> 01:02:05,860
+China as an example, I always use Japan, that you go to a Shinto temple, you come out, you
+
+799
+01:02:05,860 --> 01:02:11,000
+see the most high tech, high rise, and then you go to a Buddhist temple that has a robot
+
+800
+01:02:11,000 --> 01:02:18,020
+priest that Japanese people who go to a shrine, they go and talk to that robot and they interact,
+
+801
+01:02:18,020 --> 01:02:22,180
+they're not kicking it, they're not offended by it, they don't think it's going to take
+
+802
+01:02:22,180 --> 01:02:29,260
+their jobs away, so that is the biggest uphill it seems like for the West, it's social adoption
+
+803
+01:02:29,260 --> 01:02:34,000
+of whatever kind of technology and advancement that is going to come because they work as
+
+804
+01:02:34,000 --> 01:02:38,300
+well as the society that adopts those kind of advances.
+
+805
+01:02:38,300 --> 01:02:44,380
+And this is one of the reasons why we need Japan and we need India as our close allies
+
+806
+01:02:44,380 --> 01:02:54,040
+and partners in this global Prometheus project, because like China, who is our primary adversary,
+
+807
+01:02:54,040 --> 01:02:58,860
+the Japanese and the Indians have a kind of spiritual orientation, non-Muslim Indians
+
+808
+01:02:58,860 --> 01:03:05,840
+of course, have a kind of spiritual orientation that will be able, will afford them the capability
+
+809
+01:03:05,840 --> 01:03:10,260
+of navigating these kinds of dramatic breakthroughs more effectively.
+
+810
+01:03:10,260 --> 01:03:17,460
+And so while I'm advocating an ethos based on the archetype of Prometheus, I certainly
+
+811
+01:03:17,460 --> 01:03:25,660
+would encourage the spread of Zen Buddhism or Vajrayana Buddhism in the West and a deeper
+
+812
+01:03:25,660 --> 01:03:34,580
+connection with the Indian branch of the Indo-European world, not to call it a civilization because
+
+813
+01:03:34,580 --> 01:03:38,740
+it's beyond the concept of civilization, but I would encourage certainly Westerners to
+
+814
+01:03:38,740 --> 01:03:43,500
+have a deeper appreciation of the various spiritual traditions of India, the various
+
+815
+01:03:43,500 --> 01:03:51,900
+forms of the Dharma there, as well as the Buddha Dharma that Japan, I think, really
+
+816
+01:03:51,900 --> 01:03:55,500
+is the greatest protector and defender of in our world today.
+
+817
+01:03:55,500 --> 01:04:03,520
+So wasn't Iran Renaissance a project to bring the future Iran within this exact alliance
+
+818
+01:04:03,520 --> 01:04:05,140
+that you're describing?
+
+819
+01:04:05,140 --> 01:04:06,540
+That was exactly how I saw it.
+
+820
+01:04:06,540 --> 01:04:11,500
+And so I was working with them and with the alt-right at the same time so that I could
+
+821
+01:04:11,500 --> 01:04:15,100
+integrate these into a kind of global project.
+
+822
+01:04:15,100 --> 01:04:23,980
+And at one point, I thought that Iran would maybe be a great place to have a kind of United
+
+823
+01:04:23,980 --> 01:04:32,340
+Nations of the Indo-European world that, you know, America, you know, and Russia and maybe
+
+824
+01:04:32,340 --> 01:04:38,020
+even India, Europe as well, they all want to be the center of everything, right?
+
+825
+01:04:38,020 --> 01:04:42,020
+They all, I mean, they're used to being major world powers in the case of the United States
+
+826
+01:04:42,020 --> 01:04:43,900
+and Russia superpowers.
+
+827
+01:04:43,900 --> 01:04:50,460
+And so there would be great contention between America, Russia, maybe even Europe and India
+
+828
+01:04:50,460 --> 01:05:00,380
+over, you know, being the center, being the heart or the brain of this global Indo-European
+
+829
+01:05:00,380 --> 01:05:02,780
+order, right?
+
+830
+01:05:02,780 --> 01:05:08,740
+And so I thought Iran could play a fascinating, mediating role and be a kind of crossroads
+
+831
+01:05:08,740 --> 01:05:13,360
+and nexus for the entire Indo-European world, including its Buddhist wing.
+
+832
+01:05:13,360 --> 01:05:17,420
+After all, I think a strong case can be made that actually the origins of Buddhism go back
+
+833
+01:05:17,420 --> 01:05:18,420
+to Iran.
+
+834
+01:05:18,420 --> 01:05:20,220
+That's a whole subject in and of itself.
+
+835
+01:05:20,220 --> 01:05:24,700
+Yeah, well, I've argued that Buddha was actually an Iranian Scythian and that it's not just
+
+836
+01:05:24,700 --> 01:05:30,140
+that Buddhism was fundamentally shaped by the Iranian colonization of North India under
+
+837
+01:05:30,140 --> 01:05:35,380
+the Kushans, so that Mahayana Buddhism is an almost entirely Iranian creation.
+
+838
+01:05:35,380 --> 01:05:41,900
+It's actually the case that, you know, I mean, there's a lot of evidence that Gotama Sakya
+
+839
+01:05:41,900 --> 01:05:46,780
+Muni was a Saka, that he was a Scythian himself.
+
+840
+01:05:46,780 --> 01:05:50,300
+This is in my book, Iranian Leviathan, I spend a couple of chapters on that.
+
+841
+01:05:50,300 --> 01:05:53,420
+So, you know, Iran is also very closely linked.
+
+842
+01:05:53,420 --> 01:05:56,860
+I mean, you know, there's a reason the Bamiyan Buddhas, the most colossal Buddhas in the
+
+843
+01:05:56,860 --> 01:06:01,220
+world were in eastern Iran, Afghanistan being a bullshit country.
+
+844
+01:06:01,220 --> 01:06:06,140
+There's a reason why the most colossal Buddhas in the world were carved in eastern Iran.
+
+845
+01:06:06,140 --> 01:06:10,840
+Iran was, eastern Iran was, the Mecca of Buddhism for centuries and centuries.
+
+846
+01:06:10,840 --> 01:06:17,180
+So I thought Iran would be a great place for a kind of, you know, union of Indo-European
+
+847
+01:06:17,180 --> 01:06:20,820
+nations to coalesce.
+
+848
+01:06:20,820 --> 01:06:26,820
+But unfortunately, I found in the course of my work with the Persian Renaissance Foundation,
+
+849
+01:06:26,820 --> 01:06:32,100
+that my colleagues, you know, the leader of that organization, you know, and other high
+
+850
+01:06:32,100 --> 01:06:39,700
+level members that I was closely involved with, did not have that scope of vision.
+
+851
+01:06:39,700 --> 01:06:46,220
+And they also were too, in my view, deferential toward, you know, people in the State Department
+
+852
+01:06:46,220 --> 01:06:52,660
+and various American politicians who I just found, you know, as we say in Persian, chendish,
+
+853
+01:06:52,660 --> 01:06:59,460
+halvar, you know, hair-raising people, people who are like, you know, give me the creeps,
+
+854
+01:06:59,460 --> 01:07:04,580
+you know, John Bolton types and so forth, who are associated with, say, Mojahedin al-Khalq,
+
+855
+01:07:04,580 --> 01:07:09,620
+the MEK, the Islamist Marxist Opposition Group to the Islamic Republic, and various other,
+
+856
+01:07:09,620 --> 01:07:15,920
+you know, bad actors whose involvement in any change in Iran would, I think, compromise
+
+857
+01:07:15,920 --> 01:07:21,760
+the country's territorial integrity and allow it to be carved up and looted by various foreign
+
+858
+01:07:21,760 --> 01:07:24,540
+powers, Israel and others.
+
+859
+01:07:24,540 --> 01:07:28,820
+So you know, I had a falling out with them over that, unfortunately.
+
+860
+01:07:28,820 --> 01:07:34,260
+Yeah, I mean, Iranians, the way that you describe all these major countries are going to be
+
+861
+01:07:34,260 --> 01:07:38,820
+at each other's throats in order to who's going to lead this future world, that's how
+
+862
+01:07:38,820 --> 01:07:41,960
+it's been within Iranians forever.
+
+863
+01:07:41,960 --> 01:07:46,700
+You know, we don't have one reliable opposition to this.
+
+864
+01:07:46,700 --> 01:07:49,740
+I believe it's an occupying regime that is in Iran.
+
+865
+01:07:49,740 --> 01:07:54,580
+It has nothing to do with Iran and Iranians and the Iranian culture has occupied the country.
+
+866
+01:07:54,580 --> 01:07:59,980
+But you know, in absence of any kind of a valid opposition, forget about the vision,
+
+867
+01:07:59,980 --> 01:08:03,660
+because what you portrayed is obviously awesome and is ideal.
+
+868
+01:08:03,660 --> 01:08:10,720
+The other side of this is Iran just being torn apart as a result of some kind of a civil
+
+869
+01:08:10,720 --> 01:08:18,620
+war that, you know, it's completely possible in absence of this uber centralized kind of
+
+870
+01:08:18,620 --> 01:08:23,540
+a theocracy that has been formed in Iran, especially after Khomeini with Khamenei that
+
+871
+01:08:23,540 --> 01:08:25,460
+he, you know, everything is about him.
+
+872
+01:08:25,460 --> 01:08:26,460
+He's gone.
+
+873
+01:08:26,460 --> 01:08:31,700
+It's this vacuum of power, who's going to fill it, which part is going to fall out and
+
+874
+01:08:31,700 --> 01:08:36,580
+how the other countries surrounding countries and major powers are going to take advantage
+
+875
+01:08:36,580 --> 01:08:37,580
+of it.
+
+876
+01:08:37,580 --> 01:08:42,100
+Yeah, I mean, even though I remain in favor of an Iranian Renaissance, you know, as an
+
+877
+01:08:42,100 --> 01:08:46,460
+idea, I resigned from the Persian Renaissance Foundation, you know, where I was the senior
+
+878
+01:08:46,460 --> 01:08:52,540
+advisor to the executive committee, I resigned because I came to the conclusion and and you
+
+879
+01:08:52,540 --> 01:08:58,420
+know, let me say after being involved, like in actual practical, high level lobbying efforts,
+
+880
+01:08:58,420 --> 01:09:05,100
+let me leave it at that, OK, I became in various discussions with stakeholders in any potential
+
+881
+01:09:05,100 --> 01:09:11,420
+change in Iran, I became convinced that there was no viable opposition and that if an attempt
+
+882
+01:09:11,420 --> 01:09:15,180
+were made under the present conditions to overthrow the Islamic Republic, it would lead
+
+883
+01:09:15,180 --> 01:09:17,380
+to the territorial disintegration of Iran.
+
+884
+01:09:17,380 --> 01:09:21,380
+We would see a larger Azerbaijan to our north.
+
+885
+01:09:21,380 --> 01:09:25,220
+We would see, you know, the Iranian part of part of Azerbaijan that remains within Iran
+
+886
+01:09:25,220 --> 01:09:27,540
+amalgamated to the Republic of Azerbaijan.
+
+887
+01:09:27,540 --> 01:09:29,300
+We would see an independent Kurdistan.
+
+888
+01:09:29,300 --> 01:09:37,020
+We would see the majority of Iran's oil resources severed from a rump state of Persia, which
+
+889
+01:09:37,020 --> 01:09:42,220
+would be economically destitute because it loses the oil of Khuzestan that the Saudis
+
+890
+01:09:42,220 --> 01:09:45,460
+intend to turn into the Arab Republic of Al Ahwaz.
+
+891
+01:09:45,460 --> 01:09:50,900
+And then, of course, Baluchistan would become a fortress for Sunni terrorists coming in
+
+892
+01:09:50,900 --> 01:09:52,140
+from Pakistan.
+
+893
+01:09:52,140 --> 01:09:54,420
+So it would be an utter catastrophe.
+
+894
+01:09:54,420 --> 01:09:59,740
+And until someone can convince me, you know, that there is a viable nationalist opposition
+
+895
+01:09:59,740 --> 01:10:05,220
+that can cohesively govern the country, you know, in the wake of the collapse or overthrow
+
+896
+01:10:05,220 --> 01:10:10,380
+the Islamic Republic, I remain skeptical of whether it's such a good idea to do that at
+
+897
+01:10:10,380 --> 01:10:11,380
+this time.
+
+898
+01:10:11,380 --> 01:10:16,580
+Otherwise, and, you know, I'm not buying into nice words, it doesn't matter who says them.
+
+899
+01:10:16,580 --> 01:10:18,580
+I think we're way past that.
+
+900
+01:10:18,580 --> 01:10:23,260
+You know, this idea that like in Africa, I think this is in Nigeria, that they didn't
+
+901
+01:10:23,260 --> 01:10:27,060
+have landlines and all of a sudden they have cell phones.
+
+902
+01:10:27,060 --> 01:10:28,220
+It's like this.
+
+903
+01:10:28,220 --> 01:10:32,000
+There is a certain kind of insight and wisdom in that that, hey, we don't have to catch
+
+904
+01:10:32,000 --> 01:10:33,220
+up with landlines.
+
+905
+01:10:33,220 --> 01:10:34,220
+We didn't have them.
+
+906
+01:10:34,220 --> 01:10:35,220
+That's fine.
+
+907
+01:10:35,220 --> 01:10:36,940
+Let's catch up with whatever is coming next.
+
+908
+01:10:36,940 --> 01:10:41,580
+And I hear people, you know, the opposition of Iranians, they're saying we need democracy
+
+909
+01:10:41,580 --> 01:10:42,580
+in Iran.
+
+910
+01:10:42,580 --> 01:10:48,260
+Like, oh, my God, like, what are you talking about democracy in the decade that in five
+
+911
+01:10:48,260 --> 01:10:54,780
+or six years, it will be so easy for anybody to 3D print a weapon and say, this is what
+
+912
+01:10:54,780 --> 01:10:55,780
+I'm saying.
+
+913
+01:10:55,780 --> 01:10:56,780
+I don't agree with the majority.
+
+914
+01:10:56,780 --> 01:11:01,660
+I'm just going to create my own zone that now they're creating all across the United
+
+915
+01:11:01,660 --> 01:11:02,660
+States as well.
+
+916
+01:11:02,660 --> 01:11:03,660
+Yeah.
+
+917
+01:11:03,660 --> 01:11:04,820
+Yeah, I agree with you entirely.
+
+918
+01:11:04,820 --> 01:11:12,060
+And also, you know, if you're a pro-democracy advocate in an Iranian context, you're a retard
+
+919
+01:11:12,060 --> 01:11:14,100
+because you don't understand your own culture.
+
+920
+01:11:14,100 --> 01:11:15,100
+Yeah.
+
+921
+01:11:15,100 --> 01:11:19,260
+I mean, I mean, it's I get incensed, OK?
+
+922
+01:11:19,260 --> 01:11:25,500
+If you understand square one about Persian political philosophy and the cultural identity
+
+923
+01:11:25,500 --> 01:11:36,420
+of Iran, Iran is the bastion of a political thinking that's an alternative to democracy.
+
+924
+01:11:36,420 --> 01:11:37,420
+Let's put it that way.
+
+925
+01:11:37,420 --> 01:11:42,780
+I mean, you know, Iran's great value to the wider Indo-European world is to help develop
+
+926
+01:11:42,780 --> 01:11:47,740
+a coherent, sophisticated alternative to democracy.
+
+927
+01:11:47,740 --> 01:11:53,180
+That's the kind of resource that our Persian tradition has to offer the wider Indo-European
+
+928
+01:11:53,180 --> 01:11:54,180
+world.
+
+929
+01:11:54,180 --> 01:11:59,420
+And the fact that Iran has gone into a democracy is, you know, losing sight of the fundamental
+
+930
+01:11:59,420 --> 01:12:04,660
+character and the greatest strengths of Persian political thought going all the way back to
+
+931
+01:12:04,660 --> 01:12:05,660
+Darius.
+
+932
+01:12:05,660 --> 01:12:08,420
+Yeah, you're absolutely right.
+
+933
+01:12:08,420 --> 01:12:15,340
+About United States, where we are right now is a weird place.
+
+934
+01:12:15,340 --> 01:12:23,340
+Some people say that, you know, we're at the edge of a precipice, which is true, absolutely.
+
+935
+01:12:23,340 --> 01:12:26,860
+But at the same time, you know, everybody talks about the revolution.
+
+936
+01:12:26,860 --> 01:12:30,420
+Not that many people are talking about the day after the revolution.
+
+937
+01:12:30,420 --> 01:12:36,740
+So with you having Prometheism and Prometheus movement as the point of alignment for your
+
+938
+01:12:36,740 --> 01:12:42,780
+perspective, first of all, where do you see United States is right now today and what
+
+939
+01:12:42,780 --> 01:12:52,300
+steps need to be taken for the US from today until the ideal place in Prometheism or according
+
+940
+01:12:52,300 --> 01:12:57,420
+to Prometheism perspective that you feel comfortable that this is the direction that we're headed
+
+941
+01:12:57,420 --> 01:12:58,420
+towards?
+
+942
+01:12:58,420 --> 01:13:00,300
+Look, I'll be very honest with you.
+
+943
+01:13:00,300 --> 01:13:05,860
+I mean, this is a this is a question that's setting me up for a very what's going to be
+
+944
+01:13:05,860 --> 01:13:09,100
+a very controversial answer, but I'm not going to pull any punches.
+
+945
+01:13:09,100 --> 01:13:11,780
+I'll be very, very straightforward with you.
+
+946
+01:13:11,780 --> 01:13:15,340
+There are two potential tracks.
+
+947
+01:13:15,340 --> 01:13:25,580
+One and the one that I prefer, frankly, is that Trump uses every mechanism, every opportunity
+
+948
+01:13:25,580 --> 01:13:30,500
+open to him to make it clear that this election has not only been frauded, but that there
+
+949
+01:13:30,500 --> 01:13:38,020
+has been treasonous foreign intervention involved in an attempted theft of this election.
+
+950
+01:13:38,020 --> 01:13:46,220
+OK, and that the big tech people and the deep state officials, 50 of which had the courtesy
+
+951
+01:13:46,220 --> 01:13:50,500
+to introduce themselves to us when they signed that letter saying that the Hunter laptop
+
+952
+01:13:50,500 --> 01:13:52,340
+was a Russian disinfo operation.
+
+953
+01:13:52,340 --> 01:13:53,740
+This is unbelievable.
+
+954
+01:13:53,740 --> 01:13:59,940
+The audacity of these 50 former intelligence officials, including five former directors
+
+955
+01:13:59,940 --> 01:14:08,180
+of the CIA, to sign their names to a piece of paper that alleges that there was this
+
+956
+01:14:08,180 --> 01:14:14,620
+Russian disinfo operation promoting the Biden laptop story when there's not a shred of evidence
+
+957
+01:14:14,620 --> 01:14:15,620
+for that.
+
+958
+01:14:15,620 --> 01:14:19,980
+And it's now since been admitted that Biden is under investigation.
+
+959
+01:14:19,980 --> 01:14:24,700
+This is actually spectacular because what these people did was they basically gave us
+
+960
+01:14:24,700 --> 01:14:28,900
+a roster of the members of the deep state in the intelligence community.
+
+961
+01:14:28,900 --> 01:14:30,540
+We know who they are now.
+
+962
+01:14:30,540 --> 01:14:31,900
+We know who they are.
+
+963
+01:14:31,900 --> 01:14:36,780
+And we know that the same big tech people who are screwing around on Twitter and on
+
+964
+01:14:36,780 --> 01:14:41,460
+Facebook to suppress the New York Post story, to block Donald Trump's tweets despite his
+
+965
+01:14:41,460 --> 01:14:43,460
+being president of the United States.
+
+966
+01:14:43,460 --> 01:14:48,340
+We know these big tech people are in bed with China and we know that the Biden family is
+
+967
+01:14:48,340 --> 01:14:50,340
+in bed with China.
+
+968
+01:14:50,340 --> 01:14:55,420
+And so I want to see President Trump within the next, what is it now, 20 something days
+
+969
+01:14:55,420 --> 01:15:02,900
+until January 6th, 30 days or so until the inauguration.
+
+970
+01:15:02,900 --> 01:15:08,460
+I want to see him use every avenue open to him, beginning with Director of National Intelligence
+
+971
+01:15:08,460 --> 01:15:15,700
+Radcliffe's assessment of the election, use every avenue open to make sure that he's the
+
+972
+01:15:15,700 --> 01:15:20,020
+one taking the oath of office on January 20th and continue into his second term.
+
+973
+01:15:20,020 --> 01:15:25,020
+In that event, there will be a massive violent uprising in all of the blue state cities.
+
+974
+01:15:25,020 --> 01:15:29,100
+And the president of the United States will be forced to engage in a civil war.
+
+975
+01:15:29,100 --> 01:15:32,280
+He will become the second president in the history of the United States after Abraham
+
+976
+01:15:32,280 --> 01:15:37,300
+Lincoln to have to go to war against his own people.
+
+977
+01:15:37,300 --> 01:15:43,580
+And I don't think it's coincidental at all that he chose a former national counterterrorism
+
+978
+01:15:43,580 --> 01:15:46,100
+director as his secretary of defense.
+
+979
+01:15:46,100 --> 01:15:47,100
+Green Beret.
+
+980
+01:15:47,100 --> 01:15:48,100
+Yeah.
+
+981
+01:15:48,100 --> 01:15:51,180
+You only do that when you're planning to go to war inside your own country.
+
+982
+01:15:51,180 --> 01:15:55,620
+That guy doesn't have a qualification to be secretary of defense if you're planning various
+
+983
+01:15:55,620 --> 01:15:58,540
+foreign endeavors and so on and so forth.
+
+984
+01:15:58,540 --> 01:16:04,780
+He's focused domestically and it's an anticipation of waging a second civil war.
+
+985
+01:16:04,780 --> 01:16:13,100
+So I would prefer to see that scenario unfold as bloody and as catastrophic as it may be
+
+986
+01:16:13,100 --> 01:16:19,020
+for a couple of years until all these people in the deep state are prosecuted and purged
+
+987
+01:16:19,020 --> 01:16:20,300
+from the system.
+
+988
+01:16:20,300 --> 01:16:22,860
+That would be much healthier for America.
+
+989
+01:16:22,860 --> 01:16:26,340
+And then we're going to get the kind of Trump administration that we wanted from the beginning,
+
+990
+01:16:26,340 --> 01:16:29,780
+one with General Flynn in it, one with Steve Bannon in it.
+
+991
+01:16:29,780 --> 01:16:39,940
+And this Prometheus vision that I have can then be like right off the bat in a very,
+
+992
+01:16:39,940 --> 01:16:42,900
+you know, gentle fashion.
+
+993
+01:16:42,900 --> 01:16:51,180
+It can be, you know, phase by phase introduced into the public political discourse and policies
+
+994
+01:16:51,180 --> 01:16:58,180
+can be, you know, tailored that are in a way that's inspired by this worldview.
+
+995
+01:16:58,180 --> 01:16:59,180
+Okay.
+
+996
+01:16:59,180 --> 01:17:05,460
+And, you know, it won't become immediately explicit, but over time we can, you know,
+
+997
+01:17:05,460 --> 01:17:09,980
+we can at least inspire policymaking in the second Trump administration in the same way
+
+998
+01:17:09,980 --> 01:17:13,260
+as the neocons did during the George W. Bush administration, right?
+
+999
+01:17:13,260 --> 01:17:18,180
+I mean, in the same way that Leo Strauss's political philosophy inspired some of the
+
+1000
+01:17:18,180 --> 01:17:24,000
+policies, detrimental policies of the W. Bush administration, we can in a positive sense
+
+1001
+01:17:24,000 --> 01:17:28,540
+philosophically inspire policies beginning with the second Trump administration.
+
+1002
+01:17:28,540 --> 01:17:34,560
+I think that's the more favorable course as catastrophic as it will be in the near term.
+
+1003
+01:17:34,560 --> 01:17:40,420
+The second possibility is that, you know, Joe Biden will be sworn in on January 20th
+
+1004
+01:17:40,420 --> 01:17:46,260
+and we're headed for a few years of Biden and then potentially a 10 year long Kamala
+
+1005
+01:17:46,260 --> 01:17:52,500
+Harris presidency because I don't see how if they were able, if the deep state was able
+
+1006
+01:17:52,500 --> 01:17:58,460
+to rig this election with Donald Trump in control of the executive branch of government,
+
+1007
+01:17:58,460 --> 01:18:06,260
+now after four years of their total control of the government, Trump or anyone else opposed
+
+1008
+01:18:06,260 --> 01:18:09,300
+to the deep state will be able to prevail in the 2024 election.
+
+1009
+01:18:09,300 --> 01:18:10,500
+I just don't see it.
+
+1010
+01:18:10,500 --> 01:18:14,700
+So I think we're headed for a very long term struggle.
+
+1011
+01:18:14,700 --> 01:18:21,300
+And then I think, you know, we would have to kind of retreat within ourselves for a
+
+1012
+01:18:21,300 --> 01:18:28,660
+certain period of time, develop a very, you know, sophisticated, coherent, complex, not
+
+1013
+01:18:28,660 --> 01:18:36,700
+only political ideology, but a program and also develop an alternative platform for communication
+
+1014
+01:18:36,700 --> 01:18:43,100
+and organization because they're going to close all the doors of social media to us
+
+1015
+01:18:43,100 --> 01:18:44,180
+within those four years.
+
+1016
+01:18:44,180 --> 01:18:48,060
+The crackdown on Twitter and Facebook and so forth and YouTube where you can't even
+
+1017
+01:18:48,060 --> 01:18:51,740
+discuss the election fraud anymore are going to become much worse.
+
+1018
+01:18:51,740 --> 01:18:58,140
+And it will be imperative for the right to develop an independent tech platform and network.
+
+1019
+01:18:58,140 --> 01:19:06,000
+And we're then engaged in a long term struggle that will not afford us another opportunity
+
+1020
+01:19:06,000 --> 01:19:10,320
+for direct intervention until probably about 2032.
+
+1021
+01:19:10,320 --> 01:19:15,140
+And unfortunately, if that happens, if that's the track we wind up on, when the change takes
+
+1022
+01:19:15,140 --> 01:19:24,740
+place, it will be far more violent and vicious than it would be in 2020, in 2021 rather.
+
+1023
+01:19:24,740 --> 01:19:25,860
+I absolutely agree with you.
+
+1024
+01:19:25,860 --> 01:19:28,740
+I mean, this is not a normal kind of a situation.
+
+1025
+01:19:28,740 --> 01:19:30,660
+This is not a political conflict.
+
+1026
+01:19:30,660 --> 01:19:35,180
+This is really a philosophical and the conflict of meaning.
+
+1027
+01:19:35,180 --> 01:19:38,620
+What is the purpose of us living in this country?
+
+1028
+01:19:38,620 --> 01:19:40,300
+And you know, what's the purpose of this country?
+
+1029
+01:19:40,300 --> 01:19:41,300
+Just be the country.
+
+1030
+01:19:41,300 --> 01:19:42,700
+You know, where are we headed?
+
+1031
+01:19:42,700 --> 01:19:46,700
+So most people don't know and even less people know about what we talked about with respect
+
+1032
+01:19:46,700 --> 01:19:47,700
+to technology.
+
+1033
+01:19:47,700 --> 01:19:49,740
+I'm very happy that you're on the right.
+
+1034
+01:19:49,740 --> 01:19:54,400
+And I'm very happy that you said you actually it was a point to make this connection with
+
+1035
+01:19:54,400 --> 01:19:59,080
+Steve Bannon inside White House because I'm not hearing it from anybody else on the right.
+
+1036
+01:19:59,080 --> 01:20:04,940
+But what I'm hearing is unbelievable backlash towards transhumanism that I'm saying, hey,
+
+1037
+01:20:04,940 --> 01:20:11,140
+I agree with you if the transhumanism is controlled by a centralized entity like the Chinese Communist
+
+1038
+01:20:11,140 --> 01:20:12,140
+Party.
+
+1039
+01:20:12,140 --> 01:20:17,460
+But transhumanism, it really is a civil right issue of our time that if somebody wants to
+
+1040
+01:20:17,460 --> 01:20:23,020
+merge and go beyond our biological boundaries, it's no one's business to tell that person
+
+1041
+01:20:23,020 --> 01:20:27,900
+that you're not allowed to experiment with your own body or you're not allowed to experiment
+
+1042
+01:20:27,900 --> 01:20:32,620
+with joining this kind of a network or developing this kind of a system that could threaten
+
+1043
+01:20:32,620 --> 01:20:33,620
+us.
+
+1044
+01:20:33,620 --> 01:20:38,620
+But you know, we're headed towards, as you said, very who knows, who knows, but conflict
+
+1045
+01:20:38,620 --> 01:20:45,100
+is something that is definitely going to be guaranteed because, you know, we are redefining
+
+1046
+01:20:45,100 --> 01:20:50,540
+meanings and the fundamentals of our civilization that we have taken for granted for many, many,
+
+1047
+01:20:50,540 --> 01:20:51,540
+many centuries.
+
+1048
+01:20:51,540 --> 01:20:52,540
+Yeah.
+
+1049
+01:20:52,540 --> 01:20:57,140
+You know, and in terms of transhumanism, it's not as if the federal government of the United
+
+1050
+01:20:57,140 --> 01:21:05,120
+States needs to adopt some kind of a uniform policy with respect to, you know, the potentials
+
+1051
+01:21:05,120 --> 01:21:09,320
+of biotechnology or, you know, cybernetic enhancement.
+
+1052
+01:21:09,320 --> 01:21:19,000
+The United States is the nation that could potentially emerge as the leader in terms
+
+1053
+01:21:19,000 --> 01:21:28,300
+of, you know, transhuman evolution of humanity precisely because of the scope of liberty
+
+1054
+01:21:28,300 --> 01:21:35,420
+that's left to the individual within states that are allowed to determine their own policies.
+
+1055
+01:21:35,420 --> 01:21:40,620
+You know, the United States Constitution with the liberty that it grants to various states
+
+1056
+01:21:40,620 --> 01:21:46,580
+to develop their own policies with respect to, you know, public health and technology
+
+1057
+01:21:46,580 --> 01:21:52,500
+is, you know, potentially the country that could advance most rapidly in terms of these
+
+1058
+01:21:52,500 --> 01:21:53,500
+technological developments.
+
+1059
+01:21:53,500 --> 01:21:59,620
+I mean, you know, I draw another analogy that is going to get me into trouble, but the fact
+
+1060
+01:21:59,620 --> 01:22:04,740
+of the matter is that in the 1920s, the United States was the world's leader in eugenics.
+
+1061
+01:22:04,740 --> 01:22:10,300
+The Germans copied the Americans in terms of eugenics.
+
+1062
+01:22:10,300 --> 01:22:15,260
+And I'm certainly not in favor of compulsory sterilization or any kind of old school eugenics.
+
+1063
+01:22:15,260 --> 01:22:21,500
+You know, the whole point of contemporary emerging biotechnologies is that, you know,
+
+1064
+01:22:21,500 --> 01:22:30,500
+they are enhancements that, you know, one can opt in or out of on an individual basis,
+
+1065
+01:22:30,500 --> 01:22:31,500
+right?
+
+1066
+01:22:31,500 --> 01:22:37,500
+I mean, there's no reason why these kinds of genetic modifications should be compulsory
+
+1067
+01:22:37,500 --> 01:22:40,500
+or there should be some top down federal approach to them.
+
+1068
+01:22:40,500 --> 01:22:43,540
+But if we simply leave it in the hands of the states, the way that the federal government
+
+1069
+01:22:43,540 --> 01:22:48,280
+left eugenics in the hands of the states in the 1920s and 30s, you'll get all kinds of
+
+1070
+01:22:48,280 --> 01:22:51,820
+different policies in different places and people who want to benefit from these kinds
+
+1071
+01:22:51,820 --> 01:22:56,420
+of technologies will move to, I don't know, Nevada, you know, Colorado, wherever, you
+
+1072
+01:22:56,420 --> 01:23:00,340
+know, that have more liberal policies in that respect.
+
+1073
+01:23:00,340 --> 01:23:01,860
+And so that's all that needs to be done.
+
+1074
+01:23:01,860 --> 01:23:07,500
+We just need to make sure that on a federal level, there's no ban on these technologies
+
+1075
+01:23:07,500 --> 01:23:11,900
+in the way that there is going to be in Germany or other parts of Europe.
+
+1076
+01:23:11,900 --> 01:23:12,900
+Yeah.
+
+1077
+01:23:12,900 --> 01:23:16,820
+Away from concentration of power because power corrupts absolute power crops.
+
+1078
+01:23:16,820 --> 01:23:17,820
+Absolutely.
+
+1079
+01:23:17,820 --> 01:23:22,740
+Yeah, we don't want the Chinese approach where there's going to be state mandated genetic
+
+1080
+01:23:22,740 --> 01:23:28,420
+engineering potentially, you know, with deleterious consequences on a population wide basis.
+
+1081
+01:23:28,420 --> 01:23:33,660
+But we also don't want a state mandated ban on various uses of these technologies.
+
+1082
+01:23:33,660 --> 01:23:38,500
+If it's if it's done constitutionally with proper respect for states rights and for the
+
+1083
+01:23:38,500 --> 01:23:42,060
+rights of the individual, then, you know, the United States could even leap ahead of
+
+1084
+01:23:42,060 --> 01:23:45,740
+China in terms of, you know, seizing the potential of these technologies.
+
+1085
+01:23:45,740 --> 01:23:46,740
+I totally agree.
+
+1086
+01:23:46,740 --> 01:23:51,900
+I mean, the possibilities are so in contrast to each other.
+
+1087
+01:23:51,900 --> 01:23:54,460
+It's insane that we're at this point in history.
+
+1088
+01:23:54,460 --> 01:23:58,660
+The book is called Prometheism by Jason Reza Georgiani.
+
+1089
+01:23:58,660 --> 01:24:01,380
+This was such a pleasure having you on the podcast.
+
+1090
+01:24:01,380 --> 01:24:02,900
+What's next for you?
+
+1091
+01:24:02,900 --> 01:24:04,900
+And where can people our audience follow?
+
+1092
+01:24:04,900 --> 01:24:09,980
+I will add all the links to your website and the books and everything when the episode
+
+1093
+01:24:09,980 --> 01:24:10,980
+is released.
+
+1094
+01:24:10,980 --> 01:24:12,820
+But where can our audience follow your work?
+
+1095
+01:24:12,820 --> 01:24:18,420
+Well, my website is Jason Reza Georgiani dot com, Jason Reza Georgiani dot com.
+
+1096
+01:24:18,420 --> 01:24:22,620
+And it has links to all of my books, to my videos.
+
+1097
+01:24:22,620 --> 01:24:27,780
+You know, I've done tens and tens of interviews that are linked there as well as to my social
+
+1098
+01:24:27,780 --> 01:24:28,780
+media.
+
+1099
+01:24:28,780 --> 01:24:29,780
+That's all linked at my website.
+
+1100
+01:24:29,780 --> 01:24:36,380
+And, you know, my latest book after Prometheism is this novel which just came out.
+
+1101
+01:24:36,380 --> 01:24:40,700
+It's a sci fi horror novel and my first work of fiction.
+
+1102
+01:24:40,700 --> 01:24:44,700
+And I think your audience in particular would probably find this at least as interesting
+
+1103
+01:24:44,700 --> 01:24:45,700
+as Prometheism.
+
+1104
+01:24:45,700 --> 01:24:46,700
+Amazing.
+
+1105
+01:24:46,700 --> 01:24:52,060
+Thank you so much for introducing us to your new book and congratulations.
+
+1106
+01:24:52,060 --> 01:24:53,060
+Let me ask you.
+
+1107
+01:24:53,060 --> 01:24:54,060
+You're welcome.
+
+1108
+01:24:54,060 --> 01:24:55,060
+Yeah, absolutely.
+
+1109
+01:24:55,060 --> 01:24:56,060
+Let me ask you the last question.
+
+1110
+01:24:56,060 --> 01:25:00,640
+I ask all my guests that if you come across an intelligent alien from a different civilization,
+
+1111
+01:25:00,640 --> 01:25:05,500
+what would you say is the worst thing humanity has done and what would you say is our greatest
+
+1112
+01:25:05,500 --> 01:25:07,500
+achievement?
+
+1113
+01:25:07,500 --> 01:25:14,700
+Oh, man, that is profound.
+
+1114
+01:25:14,700 --> 01:25:24,900
+The worst thing that humanity has done, the worst thing that humanity has done, my God,
+
+1115
+01:25:24,900 --> 01:25:26,340
+we've done so many awful things.
+
+1116
+01:25:26,340 --> 01:25:31,620
+But all of the awful things that we've done have been an expression of our willingness
+
+1117
+01:25:31,620 --> 01:25:34,780
+to sacrifice freedom for security.
+
+1118
+01:25:34,780 --> 01:25:39,460
+And I would say the worst thing that humanity has done is to misunderstand its fundamental
+
+1119
+01:25:39,460 --> 01:25:40,460
+nature.
+
+1120
+01:25:40,460 --> 01:25:45,140
+I think that what defines the human being as opposed to various organisms in nature
+
+1121
+01:25:45,140 --> 01:25:49,940
+that have a kind of species being, you know, what Aristotle called the species being, certain
+
+1122
+01:25:49,940 --> 01:25:56,420
+characteristics that are hardwired into them by their biology, what distinguishes humanity
+
+1123
+01:25:56,420 --> 01:26:06,700
+is the abyss of existential freedom and the demand on us to define our own character,
+
+1124
+01:26:06,700 --> 01:26:10,260
+to shape our own character and to define our own destiny from out of the way that we've
+
+1125
+01:26:10,260 --> 01:26:11,260
+shaped our character.
+
+1126
+01:26:11,260 --> 01:26:16,500
+And I think it's precisely because we are so free on an existential level that we are
+
+1127
+01:26:16,500 --> 01:26:19,540
+constantly enslaving ourselves in various ways.
+
+1128
+01:26:19,540 --> 01:26:25,380
+Since we are a species that is not hardwired in any particular way, we compensate with
+
+1129
+01:26:25,380 --> 01:26:28,260
+all these rigid ideologies.
+
+1130
+01:26:28,260 --> 01:26:32,940
+And it's not at all clear that that would be the case with various intelligent extraterrestrials.
+
+1131
+01:26:32,940 --> 01:26:37,260
+There may be intelligent extraterrestrials that are more like a beehive or termite colony
+
+1132
+01:26:37,260 --> 01:26:38,660
+than they are like us.
+
+1133
+01:26:38,660 --> 01:26:42,980
+They may actually be hardwired in certain ways despite their capacity to develop advanced
+
+1134
+01:26:42,980 --> 01:26:44,220
+technology.
+
+1135
+01:26:44,220 --> 01:26:51,060
+And so what I would say to them is that, look, I mean, if let's say I come across a representative
+
+1136
+01:26:51,060 --> 01:26:58,300
+of a hive-minded species, a kind of borg, I would say to them, look, our greatest sin
+
+1137
+01:26:58,300 --> 01:27:03,260
+is that we sacrifice the freedom that we had and that you don't.
+
+1138
+01:27:03,260 --> 01:27:11,700
+We gave up on the gift, the natural gift that we were given of the freedom to define ourselves
+
+1139
+01:27:11,700 --> 01:27:14,740
+and to be the masters of our own destiny.
+
+1140
+01:27:14,740 --> 01:27:21,280
+We squandered what it is that you people never even had in the first place to make ourselves
+
+1141
+01:27:21,280 --> 01:27:22,940
+more like you.
+
+1142
+01:27:22,940 --> 01:27:24,780
+That's probably what I would say.
+
+1143
+01:27:24,780 --> 01:27:30,300
+And in terms of our greatest achievement, humanity's greatest achievement, I mean, it
+
+1144
+01:27:30,300 --> 01:27:33,940
+would be the same answer taken positively rather than negatively.
+
+1145
+01:27:33,940 --> 01:27:40,420
+It would be all of those moments in history when beginning with Cyrus the Great and Zarathustra
+
+1146
+01:27:40,420 --> 01:27:47,260
+and ending with Philip K. Dick and Jackson Pollock, all of those moments in history where
+
+1147
+01:27:47,260 --> 01:27:58,020
+we explored our existential freedom to the maximum and we produced just stunning works
+
+1148
+01:27:58,020 --> 01:28:07,060
+of innovative creative genius and basically redefined the limits of the possible.
+
+1149
+01:28:07,060 --> 01:28:12,940
+And I think that, in fact, in any potential encounter with extraterrestrial intelligence,
+
+1150
+01:28:12,940 --> 01:28:15,100
+that will be our greatest strength.
+
+1151
+01:28:15,100 --> 01:28:20,220
+Our scientists, our engineers will have nothing to teach those people.
+
+1152
+01:28:20,220 --> 01:28:26,580
+It's our artists, our philosophers, our writers, our musicians that will have something to
+
+1153
+01:28:26,580 --> 01:28:30,940
+offer in any encounter between humanity and an extraterrestrial intelligence.
+
+1154
+01:28:30,940 --> 01:28:41,420
+And so maximizing the conditions for creative freedom, I think, is a priority in terms of
+
+1155
+01:28:41,420 --> 01:28:46,300
+any imminent encounter with an extraterrestrial intelligence, because it's in that event that
+
+1156
+01:28:46,300 --> 01:29:13,500
+we will have the most to offer to them.
+
