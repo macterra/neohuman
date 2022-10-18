@@ -1,0 +1,828 @@
+In the Greek traditions, philosophy, science and religion were not different.
+Plato is talking about all these things, Aristotle and Pythagoras, they were exploring the mysteries
+and so I actually think the goal of religion, the goal of philosophy and the goal of science
+is the same which is to try to understand the nature of the reality that we live in
+and I actually think that most religions are founded when somebody peeks outside the simulation
+as I like to call it, they peek outside the game and then they come back and they try
+to describe what they saw which is very difficult to do because the base reality as it's called
+may be very different than what we're used to here, so the laws of physics really could
+be just the physics engine of our specific game.
+Rizwan Virk, welcome to the 86th episode of the New Human Podcast.
+Thanks for having me on your podcast.
+It's a pleasure.
+How are you doing in California with the pandemic and this crazy world that we're living in
+right now?
+Well, things were actually pretty calm where I am, California obviously has its set of
+problems always related to wildfires especially today, we've got all kinds of haze from
+fires all over the Bay Area but it just started yesterday, there was a little bit of lightning
+and I guess they'd set some places on fire but other than that, I actually live right
+down the road from Google and it's actually been quite calm because their 40,000 employees
+have been staying at home so this area as I said hasn't been too crazy.
+Let's start with your background, the work you've done, the lives you've lived and what
+are you mainly focused on now these days?
+Sure, so I got my degree in computer science many years ago from MIT and became an entrepreneur
+in the software industry, started off doing a bunch of enterprise software, kind of boring
+stuff for some people, big IT departments used our product, thousands of them and then
+after selling my last enterprise software company almost 10 years ago, I moved out to
+Silicon Valley and got involved with video games and that was around the time that Facebook
+had released games on its platform and also the iPhone had come out in 2007 and in 2008,
+they introduced the App Store and so I got heavily, heavily involved in kind of this
+nascent industry which was mobile gaming with a company called TapJoy which became one of
+the biggest advertising companies in mobile and we made a game called TapFish which is
+one of the top games in the early days of the App Store.
+We ended up selling that to a big Japanese company and then I became more of an investor
+and mentor and advisor to different startups and then a few years ago, I went back to MIT
+and started PlayLabs which is a startup accelerator for playful technologies and also decided
+to focus a little more on my writing and so I came out with the book The Simulation Hypothesis
+last year on the 20th anniversary of the release of The Matrix which was March 31st, 1999 and
+my book was released on March 31st, 2019 last year and so now I'm involved in a combination
+of kind of futuristic types of activities around virtual reality.
+Also I'm an investor still in many different startups, I'm writing new books and kind
+of parallel with my journey in the software world, I was an explorer of many states of
+consciousness whether it was meditation, Tibetan dream yoga, lots of other practices and so
+I became interested in consciousness and how it interacts with the physical world and so
+the book The Simulation Hypothesis was a way of tying all of that together really for me
+for areas that I've investigated over many, many years.
+That's awesome and it really is this combination of consciousness and simulation hypothesis
+that you're talking about that interested me initially about I thought I need to talk
+to him and you also have a new book called Startup Myth and Models What You Won't Learn
+in Business School, I want to talk to you about that a little bit later but let's start
+with The Simulation Hypothesis and MIT computer scientist shows why AI, quantum physics and
+eastern mystics all agree we are in a video game.
+Can you describe the thesis of the book and what interested you beside Matrix to write
+the book at the first place?
+Yeah, well you know a few years ago I was heavily involved in virtual reality startups
+and so I was actually visiting one of them and they had a VR ping pong game that was
+going to be released by HTC who are makers of the Vive headset which was one of the big
+headsets along with Oculus when virtual reality was sort of making a comeback and so as I
+was playing this ping pong game, I found that it was so realistic in terms of the responsiveness
+that I forgot I was in a virtual reality.
+So much so that at the end of the game I decided to put the paddle down on the table and lean
+against the table.
+Of course there was no table, I was just in a room with these goggles on and so the controller
+fell to the floor and I almost fell over.
+And how long did it take from the time that you start playing the game to being convinced
+that you're basically in that environment?
+It didn't take very long.
+I mean these were relatively short games so it was less than 10 minutes total that I was
+playing and what's interesting about that is that it wasn't even the resolution.
+So when we talk about the Matrix, we think of super high resolution virtual worlds which
+look just like the physical world and we'll talk about how we get there.
+But in this case, the resolution graphics were not that realistic.
+It was more the physics engine.
+It was the way that I heard the sound of the ball just when I was about to tap it and depending
+on where I tapped it, it went and it reacted based upon how I hit it.
+And so really the responsiveness was actually the key to this immersion more so than what
+we think of which is the pixel resolution.
+Turns out that we have pretty good pixel resolution already and most movies you see when we had
+cinemas open like Star Wars or Blade Runner 2049, they're digital these days and they
+get sent at a 2K pixel resolution.
+Well it turns out we have 4K resolution screens and 8K on the way and so we're getting very
+good at getting the pixel resolution but it was really that responsiveness.
+So I started to think, well what would it take for technology to develop to what I call
+the simulation point which is the point at which we can produce simulations that are
+so realistic that we would not be able to distinguish those from physical reality, completely
+immersive like the Matrix really.
+And so that was how I started writing the book but then as I started to investigate
+this idea, I realized that it was being taken seriously now whereas 20 years ago when The
+Matrix came out, it was considered science fiction and before that, the works of Philip
+K. Dick were very inspirational to the makers of The Matrix but also in providing a framework
+in science fiction to talk about the idea that what you're seeing might not be real,
+that there may be invented worlds or false memories for example.
+And so that led to the writing of the rest of the book and part of the book really delves
+into the idea that this isn't a new idea, that all the world religions have been talking
+about this for some period of time and so I was able to kind of tie that together as
+well.
+Very interesting.
+I'm glad that you mentioned the effect of sound because I'm coming from the background
+of sound design and I've been working on this, making the shift from the 2D kind of
+an environment into VR and AR kind of an environment and there's a huge difference between how
+those sounds for example or visuals are being produced.
+There's a big difference between stereo sounds and binaural sounds that you feel like
+you're in the environment and as you're saying, if you close your eyes, it takes a
+matter of seconds for you to feel like, yeah, I'm walking in New York City.
+Right and with the sounds, this idea of 3D sound for people that aren't familiar with
+it, it's the idea that if sound is coming from over there, that corner of the room,
+it will hit my ear slightly differently, my right ear and my left ear versus something
+that's right in front of me or something that's right behind me and so trying to
+simulate that digitally by knowing the X, Y, Z coordinates which is actually a lot of
+what we do in virtual reality visuals.
+If you go back to the 1980s when I started writing video games, my first game was a tic
+tac toe program on the Commodore 64 and then on Apple II computers.
+Back then if you asked somebody, can you make a fully immersive 3D world like World of Warcraft
+which it's not fully immersive, it's not even virtual reality but it's a 3D world
+that you play on your computer and the answer would be no, there are just too many pixels.
+There's no way we could render all of that and keep track of all of that and so what
+happened between then and now, well, Moore's Law happened which states that the computing
+power doubles every 18 months but more than that, we came up with optimization techniques.
+We came up with ways to compress the data and so the rule of thumb was look at your
+point of view inside the virtual world, inside the 3D world and render only those pixels
+which can be observed by your avatar and so anything that cannot be observed, you don't
+have to render.
+That was a key optimization technique that allowed for 3D graphics with games like Doom
+back in the 90s which was so popular that it was bringing college networks down because
+it was a first person shooter and when you turn left or right, it looked like the world
+moved with you and if you look at like really old versions of this, Microsoft Flight Simulator
+which was supposed to simulate flying an airplane back in the 80s or 90s when they first came
+out with it, you could see the lines being rendered across the screen every time you
+move so you turn to the left and you would wait for it to render the scene.
+Today, they have a version of Flight Simulator in beta that is based on Bing maps and they
+took all the maps of the physical world that they could, satellite images and they created
+using AI 3D models of like a billion buildings so you could literally fly over New York City
+and look down and have it look like the buildings in New York City and so it's pretty impressive
+what's happened and a lot of this was because of 3D rendering techniques, that's kind
+of how we got to where we're able to do it.
+It's very similar now with 3D sound, there's a lot of work being done on how to reproduce
+that digitally without having to worry so much about where the physical sound is and
+then you add that to the goggles, now you're in a very immersive type of world.
+This advancement depends on the computational processing power, right?
+So we're based on silicon right now but my understanding is that we are reaching the
+limits of silicon and we have to move to the next mode of computation.
+How is that going to affect the future of simulating our world I guess?
+Well, we do seem to be approaching a theoretical limit but what you find is that that was thought
+to be the case before and so I remember when I was in business school at Stanford here
+just down the road, we had a case study from Intel saying that if they had continued to
+make processors the way that they were making them, you know what happens is the processors
+get smaller and they do more computations and when they do more computations, it produces
+more heat and so the engineers were doing a little analysis that said okay as the number
+of computations increase, how will the heat increase and they said it was going to be
+hotter than the sun if it keeps going after a few years.
+Now what happened was they came up with different computational techniques and so optimization
+was actually the key.
+Turns out that was the normal like the 286-386 Pentium processor and that was the normal
+track but there was a parallel group at Intel making processors for laptops which used a
+lot less energy and produced a lot less heat and they used reduced instruction sets so
+reduced number of computations so it's all about optimization and so I think we're not
+quite at the theoretical limits and won't be for a while because people will come up
+with new optimization techniques and adding other hardware like GPUs so graphics processing
+units are pretty common now and they were invented primarily for video games and entertainment
+like what do you need graphics for, right, it's to render these kinds of things.
+Now if you look at virtual reality headsets, there was a wave back in the 90s where you
+know they had to be hooked up to like very big machines and then in 2012 I think it was
+Facebook bought Oculus for a couple of billion dollars and that was kind of the new resurgence
+of virtual reality but one of the problems was you know just like with my headset here
+which has this wire, you had to be connected to the computer with a wire because the computer
+was doing the processing and so the difficulty with virtual reality is not so much displaying
+it on a small screen which you know they have the two screens on your eyes, it's calculating
+what should be rendered in real time so that when you turn to the left or you turn to the
+right, it doesn't do what the old flight simulator would do and show you line by line
+I'm re-rendering what it might look like but now you know we have the Oculus Quest
+which came out last year and HTC has its own kind of version where you don't need a computer
+and you don't need a phone, all the computation is done in the headset itself so we're already
+seeing kind of standalone virtual reality which is showing that we'll be able to do
+more and more computation.
+That said, there is a lot of work being done on light so the reason we have fiber optics
+is instead of transferring over copper wires, you basically use light to transmit bits of
+data because in the end, our computation today is all based on bits, ones and zeros.
+I know how we're talking right now, I'm not really talking to you, I'm actually seeing
+bits that were transferred over the internet and they're being re-rendered on my side
+and I'm being rendered on your side and one of us is doing the recording etc.
+So there's some work being done there but I think really the next frontier for computing
+that a lot of people are looking at is quantum computing and the basic idea there is that
+instead of using regular bits, so a regular bit has a one or a zero value, you use quantum
+bits or qubits which have both a value of one and zero, it's called quantum superposition
+and this quantum superposition has been one of the biggest mysteries in the world of quantum
+mechanics and I talk a lot about it in the book in general but as we apply it to computation,
+what it means is that just like the old story of Schrodinger's cat where Schrodinger came
+up with this analogy because he thought it was just ridiculous what quantum physics was
+saying, unfortunately it's been verified, that's what it's saying which is that if
+you have a cat in a box and it has some radioactive material, that after an hour, the cat has
+a 50% chance of being alive and a 50% chance of being dead.
+Now to us it seems logical that the cat is either alive or it's dead, we just don't
+know which one, it can't be both, it's just one or the other.
+What quantum physics tells us is that it is both alive and dead until somebody opens up
+the box and makes a measurement or an observation of what's inside the box and so it exists
+in this weird state of probabilistic reality and it turns out quantum computers are going
+to try to use that to say you have a qubit and suppose you have 50 qubits, each of them
+can be zero or one, well that's a pretty big number, it's two to the power 50 that
+you can do whereas right now we have 32-bit or 64-bit processors on our computers but
+with that you basically can do one measurement across all of them and so it makes it a lot
+faster and now it's kind of confusing how it works but the basic idea is you have it
+explore all the possible values.
+So if you were to explore all the possible values of 64-bits, you would have to go through
+two of the 64 iterations but with a quantum computer, you kind of let that run in this
+probabilistic world and as you make a measurement, you collapse the probability wave just like
+looking at Schrodinger's gap to see if it's alive or dead and so the idea is that that
+would result in much faster computers.
+Now there's some debate over whether quantum computers are really faster or you can optimize
+classical computers to do the same thing and so I think IBM was able to get up to a certain
+number of qubits now but it's still early days, it's kind of like 1980 for personal
+computers when it comes to qubits or even earlier like 1960s when most computers were
+mainframes so most quantum computers are like these giant things that sit in these super
+cooled labs using superconductors.
+The really hard thing about quantum computers is error detection and turns out this is another
+basic optimization technique or algorithmic technique we use in software which is how
+do you correct errors if you have millions of bits, if 10 of them are wrong.
+Right now, same thing with your picture coming to me, what happens if a couple of those bits
+gets transmitted wrongly?
+Well we can figure out using error correction techniques, my hair should be this color,
+my shirt is black, therefore that's probably should be black, it shouldn't be necessarily
+a bunch of white bits there and so we use checksums and things like that and so that's
+really where a lot of work has to be done still as well as the physical storage of these
+qubits is still pretty hard because you have to do it at these very cold temperatures.
+Is IBM the leader?
+Because I know there's one company in Canada, D-Wave, that they've been right on top of
+it for many, many years and they sold I think their machines to Google, that army company
+McDonald something and so I'm interested to know who is the leader at this point in
+quantum computing.
+Well, so D-Wave was one of the earliest companies, maybe the first one to come out with a quantum
+computer.
+There's some debate over whether it's a true quantum computer or not and we won't
+dig into that but they're out there, Google has a pretty big quantum computing department.
+Microsoft actually is spending a lot of money on this as well and in fact, they're all
+using slightly different approaches to the physical storage of these qubits.
+It's kind of as if back in the day when Apple was making a personal computer, IBM
+was making one, Commodore was making one, instead of all using silicon chips, one was
+using Swiss cheese and one was using copper and one was using silicon.
+That's kind of the stage we're at is they're still experimenting with what is the best
+way to physically store these bits and I think Microsoft had a breakthrough where they were
+able to do it at normal temperatures which is pretty important if quantum computing is
+going to get out there more, you can't require this kind of negative 200 degrees Celsius
+or whatever the temperature is to store these things.
+All the big guys are actually running after it right now and then there's a lot of startups
+that are working in this space more on the software side trying to come up with different
+algorithms.
+There's a lot of research, IBM put out a paper I think last year stating that there
+in fact were some algorithms where there was quantum supremacy which is to prove that a
+quantum computer can do this way faster than a classical computer.
+It's not as easy as it sounds because even though theoretically it can be done, the way
+you have to go in and measure these bits and collapse that probability wave is kind of
+tricky even for a traditional programmer like I was trained as a traditional programmer,
+you have to think almost very differently to make that transition into quantum programming.
+Is the role of the programmer will become obsolete when we move to quantum computation
+because of all the possibilities that exist that we inevitably have to rely on some kind
+of AI or AGI ultimately?
+Well I don't think it will become obsolete, I think it will change from the way we think
+about it today.
+Today we're writing procedural software or object-oriented software and already within
+the coding world, let's see when was the basic programming language was invented?
+I was probably back in the 70s or 60s so it's been about 50 years that we've had programming
+and we're now getting to the no code stage which is a popular term in programming which
+is for somebody who doesn't have to write any code, you just drag and drop things but
+people have been talking about that for many years, I remember Steve Jobs making a big
+deal of this when he left Apple and he created an X computer back in the 90s that you could
+just take these objects and put them together.
+Well it turns out it wasn't that simple, you still needed to do lots of actual code
+writing and so today there's a big trend towards no code solutions but it's still
+not there, we still have to write a lot of code so I think with quantum computing it
+will be different, if you go to IBM's website, there's actually a way where you can upload
+a program, a quantum computing program up to their computer and have it run on a time
+shared basis.
+So it's kind of like mainframe computers used to be like back in the days when Bill
+Gates and Paul Allen before they started Microsoft in Seattle or at Harvard, they were working
+on these mainframe computers and they would only get them for a certain period of time
+and they would submit their programs and wait for them to run and get back the results.
+So it's kind of in that world but there's visual representations of these bits, there
+are languages like Qsharp which Microsoft is coming out with but I'd say it's still
+a wide open area, I don't think the way that we do quantum programming today will be the
+way we do it tomorrow so there will probably be some transition, I don't think right
+away that AGI is going to be able to do computer programming but we're not even at AGI so
+there's a big debate about whether we think we'll get there soon.
+Now we're getting closer and closer, there are these text generation modules that didn't
+quite pass the Turing test yet and your viewers may know about the Turing test which was put
+forward by Alan Turing back in the 1950s I think when he said he called it the imitation
+game and he said if you had a computer behind one curtain and a human behind another and
+you're talking with them, back then he was saying you're sending teletype messages,
+that's how they did that.
+Today it might be an actual voice conversation or it might be a chat bot but if you can't
+tell the difference between the computer and the human then that computer has passed the
+imitation game and then you're at the point where it's AI, it's intelligent enough
+because you can't really tell the difference between one or the other.
+So we're not quite there yet, estimates range from a decade to several decades, most people
+think we'll certainly get there within the century, I'm not so sure personally, the argument
+is if you can't tell the difference between a machine and a human then we have basically
+simulated consciousness.
+So this is a big debate that says what is consciousness?
+Wow, that is a huge point, yes.
+So is a machine that acts like a conscious person actually conscious or not and if we
+can't tell the difference, does it even matter?
+And so this gets into the debate of can we take human consciousness and download it into
+a computer.
+So I talked about in this book the road to the simulation point, there are these 10 stages
+and one of the stages is artificial intelligence bots that we can talk to but another stage
+is this idea of being able to download your consciousness into a computer.
+It's a very popular topic in Silicon Valley and people like Ray Kurzweil who I think his
+official title is Chief Futurist at Google has been talking about this as a way of achieving
+digital immortality but it's not something that we don't fully understand consciousness
+so the question is can we really reproduce it and is it really you if you reproduce your
+bits and this is where we overlap with philosophy and religion.
+A lot of guys who talk about the simulation hypothesis, they don't like to talk about
+religion, they'll talk about philosophy, they'll take it that far but they won't
+take it but if you think particularly in the Eastern religions, you don't even have to
+draw an analogy, they basically say that you have a soul or something that exists outside,
+you download into your avatar which is our biological avatars in this case and then at
+the end of the life, you upload back to wherever it was and there's some information from
+this lifetime that is stored and then you go to the next lifetime, you're playing
+the next avatar so you have this kind of upload and download of consciousness.
+They don't even define what that is and there's actually one of the interesting differences
+between say Hinduism and Buddhism is within Hinduism, you have more of an indestructible
+soul which is a term we're more familiar with in the West because the Western religions
+also have this idea of a soul that exists in eternity after you die somewhere else but
+in the Buddhist traditions, particularly what some Buddhist scholars say is that it's more
+like a bag of karma.
+The only thing that gets uploaded and downloaded is the information about what happened to
+you in that life and previous lives and in Silicon Valley, we would say that's just
+storing stuff to the cloud, it's just a bag of information that gets stored somewhere
+out of sight that is not part of the rendered game world as we call it in the video game
+world.
+But yeah, we're touching on very big issues when you get to that point.
+Well, it seems like it's inevitable to talk about religions and philosophy and we're
+reaching a point that everything is kind of coming together and we have to address all
+of them and get any kind of information, any kind of a tool we can from wherever to make
+sense out of basically what we are doing.
+That's part of my point in this book and one of the criticisms I often get is why did
+you dedicate a third of the book to talking about consciousness and religion and unexplained
+phenomena when you should just talk about the computer science and the physics.
+For me, it was actually important to realize that as you go back, humans have been searching
+for the truth about reality for a very long time and you go back to the Greeks and Plato
+had his analogy of the cave which is very popular in philosophy which is the idea that
+if we all live in a cave chained to one side and there's an opening but we can't really
+look out into the real world, all we see are shadows against the wall and what happens
+when somebody goes outside and peeks to see what's out there.
+Well, first he gets blinded by the light because he's lived in a cave his whole life but then
+when he comes back and tries to explain it to the other people, nobody believes him because
+they think reality is just these shadows that you're seeing on the wall and within I think
+the Greek traditions, philosophy, science and religion were not different.
+Plato's talking about all these things, Aristotle and Pythagoras, they were exploring
+the mysteries and so I actually think the goal of religion, the goal of philosophy and
+the goal of science is the same which is to try to understand the nature of the reality
+that we live in and I actually think that most religions are founded when somebody peeks
+outside the simulation as I like to call it, they peek outside the game and then they come
+back and they try to describe what they saw which is very difficult to do because the
+base reality as it's called may be very different than what we're used to here.
+The laws of physics really could be just the physics engine of our specific game as opposed
+to being the same out there so it's very difficult to talk about what base reality
+is like and that is what creates the three blind men and the elephant phenomenon I like
+to say with religion where each one saw a different part of the elephant, they're
+actually seeing the same thing but they like to come back and tell it so that one says
+it's more like a tree, one says it's more like a house, one says it's more like a snake
+because of the trunk of the elephant and that's a phenomenon that we see in our religions.
+I think it's very profound what you're saying that even the laws of physics could be just
+limited to our experience which I keep telling people, I call them involuntary baggage that
+you identify with your culture and your religion and what your parents have told you, what
+your society have put upon your shoulder but really the point is to look at the definition
+of who the I is, who are you beyond all of those things because these are the things
+that they have defined you on that basis, it's not you.
+I think for a lot of younger people, this idea of the video game is a great way to think
+about that question because if you were an avatar in Fortnite, who does that avatar think
+he or she is?
+What are the laws of physics in that game?
+You can fly, you can do this, you can do that but you don't really have to go get a car
+to go places so there's a set of laws and so that becomes in this model another set
+of baggage but by having this idea of saying that there's a player and a player character,
+it becomes a new way to think about it and within the world of the simulation hypothesis
+and simulation theory, there's actually two different versions of this hypothesis and
+I like to call it the NPC version and the RPG version and the NPC version stands for
+non-player character or non-playable characters which is the term used in video games for
+a character that is just an AI that you just interact with inside the game so you might
+have like the tavern barkeep or the owner of a bank where you're giving some information
+and so NPCs have gotten more and more sophisticated visually with games over time but if you go
+all the way back to the text adventure games, there might be very limited characters, there's
+characters you can ask very limited things to and they have a limited dialogue and even
+nowadays a lot of the dialogue is you still have to just click on choose A or B. If you
+go to like the Game of Thrones or Walking Dead games from Telltale, the guy will say
+this and you have to choose your response A or B so it's still pretty basic but in
+the NPC version, we're all NPCs and we're all running on somebody else's computer
+and therefore the world around us is the only world we know.
+In the RPG version, it's more like what we think of as video games where we have a player
+and we have an avatar inside the game and we are so associated with that avatar like
+in The Matrix, we forget that there's a part of us outside the world.
+Now those two are not mutually exclusive like when you go into video games today like MMORPGs,
+you have both, you have PCs, player characters and NPCs interacting and so it's very possible
+that you have a combination of the two but for me, both of these versions creates this
+interesting question of what is consciousness.
+In the NPC version, consciousness is just what the NPC thinks they're doing whereas
+in the RPG version, consciousness exists outside of the simulation.
+You still don't know what it is but it's something different.
+It's observing what's happening within the game and watching the gameplay.
+I think one of the disconnects for a lot of people about the simulation hypothesis or
+theory and however they want to talk about it is that, well, who's running the simulation
+and the idea is that nobody really needs to run it.
+If you look at, I'm reading from Wikipedia also showing it to our viewers, The Game of
+Life by John Conway that it's a zero player game meaning that its evolution is determined
+by its initial state requiring no further input.
+All you have to do is start basically and it evolves in the way that it's supposed
+to evolve and it's completely based on trial and error and chaos and uncertainty and momentary
+orders out of them.
+Right, and then it evolves based on a certain set of rules and in that case, they tend to
+be very deterministic rules but it's a big question who runs the simulation and why.
+Your question of do you really need somebody to run it or do you really need our set of
+initial conditions and a way to get going.
+One of the ways to think about it is why do we run simulations?
+We run simulations sometimes to predict the weather or to predict stock forecasts or the
+basic idea of a simulation is you have like populations of fruit flies.
+Every year, you look at it and you say how many fruit flies have died and how many were
+born in the next generation and that's a very non-graphical simulation, it's just
+a numerical one but that's one reason.
+The other reason though is we play video games, why?
+We play video games to have experiences that we can't have outside the game.
+I can't fly on a dragon in quote unquote real life but I can inside a video game so
+I can have these experiences that I might not be able to have otherwise.
+If you think of an MMORPG, a massively multiplayer online role playing game where you have lots
+of individual people playing the game like Fortnite or World of Warcraft or one of these
+other ones, you have millions of people, there was a concert in Fortnite last year that had
+like 12 million people attending it.
+It's like the largest concert ever and so it's possible that we are playing the game
+for our own reasons to have experiences with each other or it's possible that we were
+all just running on a computer somewhere and there's a set of deterministic rules and
+those tie right into that dichotomy of the NPC version or the RPG version that I talked
+about earlier.
+That's amazing.
+That's also how I like to think about the concept of God, quote unquote God, that there
+is one thing whether conscious and it's an endless stream that has always been and always
+will be and we are having our subjective experiences of it and the collection, decentralized collection
+of that is what I can think of as the concept God or being higher power or whatever which
+is unknowable and that's the nature of it.
+We're just experiencing our own part of it.
+Right.
+So that's an interesting way to think about it.
+Within the kind of Judeo-Christian line, you have this idea in the Bible that God created
+the world in seven days and said let there be light and then basically gave humans free
+will to decide what they were going to do and that there are entities outside the physical
+world watching us and in the Islamic traditions, they get very specific about this.
+There's names for the recording angels and in Washington DC, there's a statue of a recording
+angel with what they call the Book of Life in the Bible and in the Quran, they talk about
+the scroll of deeds which is a list of every single action you've done in your life and
+so I like to draw the analogy that well, this was all revealed, written depending on your
+beliefs a couple of thousand years ago and if it was done today, we wouldn't use a
+metaphor of the book and writing down.
+How would we describe a situation where there are entities watching every move we make and
+then they replay it for us at the end of our life where we have to go back and review everything
+that was done?
+Well, we do it all the time in video games.
+We record everything in the 3D world so that it can be replayed and we stream it on Twitch
+and we put it up on YouTube and so I was involved in a video game company a couple of years
+ago where we took a 3D game called League of Legends which is very popular in the e-sports
+world and you play the game on your computer and you have an avatar and you're fighting
+and you're doing all these fun things and they recorded it but then they let you replay
+it by putting on a virtual reality headset and if you had shot someone, you could actually
+replay it from their point of view so you could see the gameplay from any XYZ coordinate
+but most interesting was to put the coordinates at other players.
+Well it turns out as you explore this world of consciousness and you explore what people
+have been talking about in the religious traditions but more recently in near-death experiences
+and there have been thousands and thousands of cases of near-death experiences since Raymond
+Moody coined the term back in the 70s and they're remarkably similar and many of them
+have about some percentage have this thing called a panoramic life review which is basically
+they recall seeing everything that happened in their lives but seeing it from the point
+of view of the other people they affected and so there's a friend of mine named Daniel
+Brinkley, he wrote a book called Saved by the Light and he was basically struck by lightning
+and had a near-death experience back in the 70s and he's had several since then when
+he was doing heart surgery etc.
+But he said he used to be a bully and he used to literally beat people up in school and
+then he joined the army and special forces and was literally shooting people.
+He had to go through and relive those experiences from the point of view of the other person.
+If you think about how could that work and that's kind of how I like to think about
+things being a computer programmer is how would that work?
+Well, it wouldn't be that hard if it was a simulation.
+If it wasn't a simulation, nobody would know how it could be done but if this world
+was being recorded and you could replay back any time slice at any time at any speed from
+any position, then that's where the simulation hypothesis intersects very much with what
+a lot of the religions have been saying and with this idea of angels being these other
+entities that are watching us and then God being the creator of the simulation however
+you would define it.
+So there's a lot of different ways to think about that concept I think.
+I think this is a good place to read a tweet by Scott Adams, the creator of Dilbert said
+the closer a civilization gets to being able to program a simulated universe, the closer
+it gets to discovering it is one.
+Right.
+Well, he's a big proponent of the simulation hypothesis and there was an Oxford professor
+named Nick Bostrom who wrote a paper in 2003 called Are You Living in a Computer Simulation?
+He's probably the person most responsible for getting this to go from science fiction
+to academics talking about it more seriously.
+He's a philosopher and what he said was if any civilization ever gets there, he said
+first of all there are three possibilities.
+Civilization never gets to what I call the simulation point where you can create those
+simulations.
+Two, it gets there but it decides not to create these ultra realistic simulations or three,
+it creates these simulations but it creates lots of them and so he said if any civilization
+in the galaxy ever gets there, they're going to create lots and lots of simulations because
+all you have to do is crank up another server in the cloud and he estimated that the number
+of beings that would be in the simulated universes would be way more than the number of beings
+in the physical universe and therefore if you're a being, then what are you more likely,
+a simulated being or a physical being?
+Well, there's more of these than those so simple statistics says you're more likely
+one of these than one of those and so the idea was if anybody can ever get there, then
+somebody has already gotten there and if somebody has already gotten there, who's to say we're
+not inside the simulation already and so that is referred to as the simulation argument.
+So when I started writing my book, I was exploring the technology, we would need to get there
+and my conclusion was we'll get there within a hundred years maybe, definitely and so if
+we're going to get there in a hundred years, that's not very long in the overall scale
+of the universe assuming it was a physical universe so probably a civilization that was
+a million years ahead of us so think of where video games would be in a million years and
+this is a point that Elon Musk makes is that if you assume any rate of improvement at all
+with video games and you look at today's games, it's funny because I use ping pong
+as my example that got me really thinking about this but he makes the point that pong
+was the first widely available computer game in the 70s which was just like two squares
+and a dot moving back and forth and it was from Atari, it was the first widely available
+video game and you look at where we've come in 50 years, we're at these ultra realistic
+virtual worlds like even with this new version of flight simulator I was talking about and
+give it another 50 years where will we be but give it 10,000 years suppose it goes more
+slowly than that, we'll definitely get there and so if we're going to get there, who's
+to say we aren't already there inside the simulation ourselves.
+Absolutely, so your time frame is 100 years and you said there are 10 steps to get to
+the point of indistinguishable simulation, you mentioned AI, what number of step would
+that be?
+Well, it depends on where the AI is but in my model, it's one of the later steps because
+I think getting to AGI will take us a little while so it's like step nine, eight or nine.
+Before that, we're currently at sort of step four where we have augmented reality and virtual
+reality.
+Now, the difference between those two with augmented reality is you wear glasses and
+you see objects around you placed in the physical world that aren't really there and there's
+a great depiction of this in the HBO show Westworld in the second season where they
+would put on these little glasses and then somebody will appear who's not really there
+and you can talk to them.
+Then the next step is kind of photorealistic AR, VR without headsets.
+If you think of like in Star Wars in the prequels when Anakin Skywalker is talking to Master
+Yoda who's on another planet, he sees a little hologram or Princess Leia hologram.
+The ability to create these holograms and have them be realistic without the need to
+put on glasses means that we're starting to blur the lines of distinction between what
+is a physicality.
+We're already at the point of hologram though with, do you know Hatsune Miku, the virtual
+Japanese pop singer?
+Yes, that's right.
+I have heard of some of them.
+You had the Tupac, was it the Tupac hologram as well?
+Right.
+So Hatsune Miku, entirely virtual.
+Her band are all human but even her voice is virtually generated and we went to see
+her show in Toronto and people are interacting with it as if it's a real artist and they
+are very happy to be there.
+They have the very same experience and we were given glow sticks that was programmed
+with the light.
+It's just insane.
+Right.
+So this will just become more mainstream, you were saying.
+Yeah, become more mainstream and the technology is miniaturized where you can do that.
+You can take it with you if you will, right?
+But yeah, we're on that path.
+Each of these stages isn't like a single, hey, we're there or we're not there.
+It's more like each of them has a certain percentage of completion if you will to get
+to that point and with 3D printers are kind of part of that same idea which is that we
+can take pretty much any physical object now.
+You could take this water bottle and you can print it using pixels and the only thing that's
+different is that we don't have all of the materials yet to be able to use pixels but
+it used to be every 3D printed object was this kind of gray plastic epoxy and now you
+can start to do it with metal and with living human tissue.
+I mean they've actually taken blood cells and created skin like what happened with skin
+that was grafted on before was it wouldn't interface with the rest of your skin because
+it wasn't really alive in the same way that your skin is alive because it has blood cells
+in there and so they were able to print skin at least in the lab and graft it on and have
+the rest of the body think it was just like a regular skin with the same kind of blood
+cells using that person's own cells and printing up the skin and so you're getting biological
+3D printers.
+Now, they're still in the early stages but once you can do printing of different materials,
+there's a pretty common scene in the old Star Trek The Next Generation where Captain
+Picard goes into the replicator and says, �Tea, Earl Grey, hot� and it not only
+materializes the cup but it materializes the Earl Grey liquid inside and then he takes
+that and he starts drinking it and so that's kind of an advanced 3D printer that can print
+food as well as physical objects.
+We're not that far away from that.
+So what we don't have is these brain-computer interfaces and so that's like stage 7 before
+getting to AI and then downloadable consciousness and so brain-computer interface, if you remember
+the Matrix, Neo thought he was immersed because when he woke up, Keanu Reeves' character
+outside the Matrix, he had a wire going into the back of his head into his Neo cortex and
+so that's actually an area that's pretty popular these days.
+Elon Musk has a company called Neuralink which is putting some chips in the head and there
+are other groups that have done research where these chips can be used to help with deficiency
+or if someone is paralyzed but BCIs are still in the early stages and much of them are non-invasive.
+What they do is they just measure the EEG signals coming out of the brain and they use
+those brain waves along with other cues like muscle impulses.
+There's a company that I wrote about recently, an article about BCI where they want to speed
+up your ability to play video games and so from the time it takes you to say I want to
+shoot this person to pressing the button on the controller, it takes a couple hundred
+milliseconds and so they detect the electrical impulse in the muscles and they go and they
+do it in the game much faster than you could on your own and so there's a lot of tricks
+like that that are being used today in BCI.
+I actually think this is where this idea of what is the mind, what is the brain, what
+is consciousness really comes up.
+There's actually been some experiments done at Pair, the Princeton's Engineering Anomalies
+Research Institute where they showed they were using quantum random number generators
+and the idea is that over time, they should be 50-50 if it was just doing ones and zeros
+or coin toss right after a thousand tries or 10,000 tries and they found that a human
+could influence those quantum random number generators based upon what they were thinking.
+That's a form of observation, right?
+It's a form of observation or measurement, better to say.
+Measurement but they found that if a person sat there with an intention, it would actually
+change.
+The measurement didn't happen necessarily until later so there's the measurement side
+of it but leaving that aside for a second, they found that when they measured it, depending
+on what the person was thinking, that it would go from 50-50 to like 40-60 which is actually
+a pretty big variance when you get to 10,000 tries.
+When you're doing 10 tries, that's not a big deal at all but when you flip a coin that
+many times, it shouldn't vary that much and they had Pair published peer-reviewed research
+in that and there was a company, they made something called a mind lamp where you can
+actually think of a color that they're using quantum random number generators.
+Now that's a way to try to get that brain-computer interface without actually physically tapping
+into the physical brain.
+I was talking to somebody the other day and they said, well, that would be a mind-computer
+interface as opposed to a brain-computer interface so that's all part of this big stage and
+I think to get fully immersive, we would have to be able to beam signals into the brain
+and then take signals out of the brain and then there's AI which would be realistic
+characters and then there's this idea of downloading consciousness which is kind of
+wrapping up our whole consciousness within that and then we get to the simulation point
+and so when I laid these stages of technology out there, I thought about my other research
+into the realm of consciousness and realized, well, we already have all of these stages
+of technology in biological form and we do it every night, they're called dreams.
+We have these simulated worlds, we're completely immersed in them, we're forgetting that
+there's a part of us outside of that world that is kind of like Neo laying there.
+We take our input from our mind and the world changes based on that input.
+We get things sent to us in very high resolution, it's fully immersive.
+So what we're really learning to do is reproduce this biological technology that already exists.
+So I thought that was kind of an interesting realization when I looked at the technology
+but yeah, back to your original point, I think a hundred years or so is roughly the time
+frame.
+Some people think it will be much earlier.
+I think that the AGI in particular part will prove more difficult than people think.
+Hey, speaking of already existed biological technology, did you look into the effect or
+influence of psychedelics in the context of simulation hypothesis?
+A lot of people have brought that up to me to say that this is a great way for people
+to explore it.
+I haven't personally explored it but there have been people that have written about it.
+There's a couple of things online about it.
+I remember I was sitting down with director Oliver Stone with his son, Sean Stone, who
+is a documentary filmmaker and he goes, �Oh yeah, all you have to do is try some of these
+psychedelics and you'll realize that this is all just a simulation.�
+Smoke DMT.
+Yeah, DMT, exactly, ayahuasca and you'll see you don't need any further proof than that.
+So I haven't experimented with that but I have heard a lot of people tell me that the
+experiences they've had there seem like you get into these other levels of reality and
+so there's obviously a lot of debate about these things in the scientific community.
+What's really going on?
+Same debate as with near-death experiences, what's really going on?
+Is it just the oxygen in the brain, seeing something that looks like a light but there's
+lots of counter-arguments there.
+So I actually put some stock that this is something that shamans have done for a long
+time in many traditions and they have what they call non-ordinary reality that they visit
+with the use of psychotropic plants or power plants as they're called.
+In some cases, what I have experimented with is simple shamanic journeying using drumming.
+What happens is you use a rhythmic beat and meanwhile your breathing stabilizes and you
+can kind of visit these other worlds which is the technique that shamans have been using
+for a long time.
+What's really interesting, getting back to this idea of dreams, you might say well
+these are just individual hallucinations is you can have group shamanic journeys so you
+can have multiple people go and see things and report back and you can see commonalities
+between what different people saw which leads you to believe that there is a reality to
+this non-ordinary reality.
+So are there other levels of this reality out there which is perhaps similar to what
+people might experience although much more intensely I think with DMT?
+My first experience with NNDMT, not the 5-Emeo that comes from the Toad, but NNDMT, I saw
+massive pyramids and Aztec kind of symbology.
+The days later I was like these people probably had the similar kind of experience that you
+see similar kind of shape buildings from Australia to Egypt to Peru and Mexico and we're not
+even talking about any of them, you're all aliens.
+Right, that's true.
+There's a lot of alien phenomena theorizing particularly on the history channel about
+these things but I do believe that a lot of ancient civilizations had much better understanding
+of consciousness and that might have led to different states of consciousness.
+My girlfriend and I visited the pyramids many years ago and when I was there, I remember
+having these visions that included things like out-of-body experiences in places like
+the pyramids and it kind of led me to believe that there's something going on here that
+I was either remembering that was related to research that I had done later after that
+on out-of-body experiences and lucid dreaming and what happens when you're dreaming.
+That's why I find dreaming to be such a fascinating subject.
+It's probably one of the oldest subjects for people to write about and going back to
+the Bible because it's so universal but it's also so complicated.
+I mean I've talked about shamanic journeying, I used to study that with a gentleman named
+Robert Moss who is an Australian who studied with Aborigines and learned about their ideas
+of the dream time and how there's a dream reality and then there's this reality and
+what is the real reality and so this metaphor of the dream was used within Buddhism and
+other places and I studied a little bit of Tibetan dream yoga and the idea was if you
+can wake up within a dream using lucid dreaming techniques and they have other techniques
+beyond what we would call lucid dreaming which is the more modern way of talking about it
+but if you can wake up and know that it's a dream and know that there's a part of you
+outside the dream, then they use that as a wrench if you will or a lever to kind of get
+you to realize the illusory form of the waking reality that there is another part of you
+that's outside of that and so that's why I spend a whole chapter talking about dreams
+not just as a metaphor which is very much how it's used that life is like a dream
+or the play, in the Hindu traditions there's the lila, the grand play which is a metaphor
+that Shakespeare used talking about how life is a stage and the men and women are merely
+players on it but I like to think that if these things were written about today we would
+say life is an interactive video game and we're all avatars within the game.
+That would be the metaphor that we would use because it's one that makes a little more
+sense and can bridge the gap between science, technology and a lot of these spiritual traditions.
+Wow, well this book everybody should go and buy it, it's called The Simulation Hypothesis
+and MIT Computer Scientist shows why AI, Quantum Physics and Eastern Mystics all agree we are
+in a video game.
+Before we wrap this up, I don't want to keep you too long but I can go on for hours
+man, this is amazing.
+The intersection of consciousness, technology and philosophy is a very interesting area
+and a lot of people are very dismissive of it but I think that is exactly the point.
+It makes people think in ways that they wouldn't otherwise and I think that's why a lot of
+people are talking about it today but I also think there's a lot of people who normally
+do not want to talk about philosophy or the nature of reality that this is a way in for
+them to talk about these things.
+Absolutely.
+Let's also really quickly talk about your new book that came out in June I believe of
+this year called Startup Myth and Models What You Won't Learn in Business School.
+What is the summary of the book?
+What is your thesis and what is the main message you want the readers to take away from it?
+This book I wrote over the last 25 years of working as an entrepreneur, initially as a
+founder and then as a board member and investor and then the subtitle of the book was supposed
+to be What You Won't Learn at Stanford Business School but it was published by the
+Columbia University Press so they said, well, we can't really take a pot shot at Stanford
+but when I was at business school, what I found was that a lot of what they taught us
+applied to mature industries and applied to public companies but it didn't always apply
+to startups that startups needed a different set of models for thinking about how startup
+markets evolved.
+I remember in one of the classes, literally the guy who wrote the textbook on decision
+modeling, it was a textbook on how to make extremely complicated Excel spreadsheets
+and you would plug in all the numbers, scenario A, B, and C and then you would see the results
+and you'd say, oh, this number is better than that number which is not as good as this
+number so we're going to pick C and I remember raising my hand and saying, well, what if
+you just change the numbers on the left, the inputs, he goes, well, then all the numbers
+on the right change and I said, well, how do you know what numbers to put in?
+He said, well, that's where you have to use your gut as a manager, that's why they pay
+you the big bucks and turns out as an entrepreneur, spreadsheets are pretty meaningless because
+there isn't any history now in big companies, the best bet of the future is the past.
+You look at probabilities of what's happened in the past but the whole reason there is
+a market for startups is because the past is not equal to future.
+I grew up in Detroit, Michigan and one of my friends went to work for General Motors
+and when the Toyota Prius came out as a hybrid car a few years ago and the Japanese companies
+were coming out with hybrid cars quickly, I asked him, why hasn't GM released one
+and he goes, well, we did the spreadsheets and it just didn't make financial sense
+for us.
+One of the main messages in the book is that the startup world is different than the traditional
+finance world and that you have to follow a different set of rules and they're not
+really rules, you can't systemize everything, everyone's like, I want to know if I do
+A, B and C, 1, 2, 3, then I will have a successful startup and my degree at Stanford is in management
+science but management is partly a science but it's partly an art, there's a lot
+of interpersonal stuff that happens and I would say the same with startups.
+You can teach you how to put together a deck, how to do a market sizing, how to put together
+a business plan, how to build a product, how to be a product manager, how to measure results
+but you can't guarantee that following any of those steps will lead to success so there
+is a formless element and it's much more like an adventure so I use the idea from mythology
+of Joseph Campbell's hero's journey.
+He looked at all the myths of the world and found that many of them from the Odyssey to
+Beowulf and even more recent ones like Lord of the Rings or Star Wars follow these stages
+and turns out the entrepreneurial journey can be summarized in these stages where you
+have a call to adventure, you might refuse the call, you cross the threshold and you
+find yourself in the road of trials which is when you release the product and you realize
+oh my God, things are not going like I thought they would and you have to get out there and
+figure out how to get through these challenges that crop up along the way.
+You have these archetypes like mentors and gatekeepers just like in the old stories,
+these colorful characters, it's like a video game in a way and then you often have a trip
+to the underworld, I mean Odysseus literally went down to Hades in the Lord of the Rings,
+they went to the mines of Moria in entrepreneurship.
+Often there's a life or death, not necessarily your physical life or death but life or death
+of the company and so the book is laid out in the stages of the hero's journey to then
+find the treasure which you might think of means selling your company for a lot of money
+or going public but really the treasure is as Joseph Campbell would call it, a magic
+elixir that you can take back into the normal everyday world and so it's really about how
+this journey changes you as a person and how you make decisions along the way.
+That's kind of a long summary of what this book is about.
+That's amazing.
+It reminded me of something I think Naval Ravikant was talking about that even if you
+talk to successful people how they did it, they can't really tell you or the honest
+ones are not like I don't know.
+That's right, the honest ones will tell you that there's a lot more luck involved than
+just follow steps one, two or three and luck may not be the right word.
+I think it ties very much to the situation and the personality of the person in that
+situation so there's the internal and the external side of these things and then those
+have to align and when they do that maybe leads to more financial success but in either
+way you will learn a lot about yourself on the entrepreneurial journey.
+Well, Riz, we definitely have optimized many years worth of knowledge in this almost an
+hour, a little more than an hour conversation, really appreciate it.
+What's next for you and where our audience can follow your work?
+Sure, so they can go to my website which is zenentrepreneur.com or follow me on Twitter
+at Riz Stanford and I'm working on some additional books right now in the early days
+and still doing technology investing and helping entrepreneurs get their game companies and
+virtual reality companies off the ground and at some point I may try to establish an institute
+doing research on all of these different stages that I talked about for the simulation point
+to be a focal point for bringing all this stuff together but that's probably in the
+long term.
+Yeah, so you're still investing in startups and people can pitch to you.
+Yeah, so I'm a venture partner at a couple of venture funds, one's called Griffin Gaming
+Partners and one's called Ridge Ventures, one does enterprise software and one does
+more video games and so you can connect with me on LinkedIn or go to my website and contact
+me there as well at zenentrepreneur.com.
+Okay, amazing.
+Let me ask you the last question that now it has a different meaning to me because you'll
+know why, I ask all my guests that if you come across an intelligent alien from a different
+civilization, what would you say is the worst thing humanity has done and what would you
+say is a greatest achievement?
+But now I'm thinking how do we know who those aliens are in this simulation hypothesis?
+Right, I mean I'll answer it using superheroes.
+What happened in the 19th century is we got a much better understanding of the physical
+universe and there are stars and there are planets.
+So what's happened is a lot of the superheroes in the 20th century were like supermen from
+the planet Krypton, right?
+So they're from out there and they come here and they have different powers.
+If you look at superheroes today, like when my nephews, they watched The Flash on TV,
+they have parallel universes.
+Supergirl is in her own parallel universe and you have Earth 1, Earth 2 or 3.
+So just now, this idea of parallel universes and multiple timelines is starting to creep
+into the popular consciousness and so this idea of aliens, it may almost be a 20th century
+idea that in fact, if they showed up, it could be that they're piercing through from a different
+level of reality.
+So it's possible that those people out there who say they've seen UFOs and aliens and
+those people who say the Fermi paradox is true and we have no sign of aliens, both could
+be right in the sense that they're not actually physical aliens coming from other planets.
+They're actually piercing through from another level of reality.
+So my guess is they've already been watching us to a certain extent.
+So what would you say is the worst thing humanity has done and what is our greatest achievement?
+That's a good question.
+The worst and the best are probably both represented by the world's religions, right?
+I feel like they have brought out the best of humanity in trying to understand and how
+we treat others but they've also brought out the worst of humanity in religious wars
+and bigotry and in wanting to conquer each other.
+So I guess I'd give the same answer for both.

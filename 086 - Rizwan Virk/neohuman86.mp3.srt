@@ -1,0 +1,3312 @@
+1
+00:00:00,000 --> 00:00:05,320
+In the Greek traditions, philosophy, science and religion were not different.
+
+2
+00:00:05,320 --> 00:00:11,000
+Plato is talking about all these things, Aristotle and Pythagoras, they were exploring the mysteries
+
+3
+00:00:11,000 --> 00:00:15,720
+and so I actually think the goal of religion, the goal of philosophy and the goal of science
+
+4
+00:00:15,720 --> 00:00:22,160
+is the same which is to try to understand the nature of the reality that we live in
+
+5
+00:00:22,160 --> 00:00:28,360
+and I actually think that most religions are founded when somebody peeks outside the simulation
+
+6
+00:00:28,360 --> 00:00:32,960
+as I like to call it, they peek outside the game and then they come back and they try
+
+7
+00:00:32,960 --> 00:00:38,440
+to describe what they saw which is very difficult to do because the base reality as it's called
+
+8
+00:00:38,440 --> 00:00:44,280
+may be very different than what we're used to here, so the laws of physics really could
+
+9
+00:00:44,280 --> 00:00:55,280
+be just the physics engine of our specific game.
+
+10
+00:00:55,280 --> 00:01:00,680
+Rizwan Virk, welcome to the 86th episode of the New Human Podcast.
+
+11
+00:01:00,680 --> 00:01:02,480
+Thanks for having me on your podcast.
+
+12
+00:01:02,480 --> 00:01:03,480
+It's a pleasure.
+
+13
+00:01:03,480 --> 00:01:08,080
+How are you doing in California with the pandemic and this crazy world that we're living in
+
+14
+00:01:08,080 --> 00:01:09,080
+right now?
+
+15
+00:01:09,080 --> 00:01:14,720
+Well, things were actually pretty calm where I am, California obviously has its set of
+
+16
+00:01:14,720 --> 00:01:22,480
+problems always related to wildfires especially today, we've got all kinds of haze from
+
+17
+00:01:22,480 --> 00:01:26,840
+fires all over the Bay Area but it just started yesterday, there was a little bit of lightning
+
+18
+00:01:26,840 --> 00:01:32,000
+and I guess they'd set some places on fire but other than that, I actually live right
+
+19
+00:01:32,000 --> 00:01:36,920
+down the road from Google and it's actually been quite calm because their 40,000 employees
+
+20
+00:01:36,920 --> 00:01:45,320
+have been staying at home so this area as I said hasn't been too crazy.
+
+21
+00:01:45,320 --> 00:01:48,880
+Let's start with your background, the work you've done, the lives you've lived and what
+
+22
+00:01:48,880 --> 00:01:51,120
+are you mainly focused on now these days?
+
+23
+00:01:51,120 --> 00:02:00,120
+Sure, so I got my degree in computer science many years ago from MIT and became an entrepreneur
+
+24
+00:02:00,120 --> 00:02:05,160
+in the software industry, started off doing a bunch of enterprise software, kind of boring
+
+25
+00:02:05,160 --> 00:02:11,880
+stuff for some people, big IT departments used our product, thousands of them and then
+
+26
+00:02:11,880 --> 00:02:17,680
+after selling my last enterprise software company almost 10 years ago, I moved out to
+
+27
+00:02:17,680 --> 00:02:22,840
+Silicon Valley and got involved with video games and that was around the time that Facebook
+
+28
+00:02:22,840 --> 00:02:31,560
+had released games on its platform and also the iPhone had come out in 2007 and in 2008,
+
+29
+00:02:31,560 --> 00:02:36,760
+they introduced the App Store and so I got heavily, heavily involved in kind of this
+
+30
+00:02:36,760 --> 00:02:42,040
+nascent industry which was mobile gaming with a company called TapJoy which became one of
+
+31
+00:02:42,040 --> 00:02:46,640
+the biggest advertising companies in mobile and we made a game called TapFish which is
+
+32
+00:02:46,640 --> 00:02:49,520
+one of the top games in the early days of the App Store.
+
+33
+00:02:49,520 --> 00:02:54,360
+We ended up selling that to a big Japanese company and then I became more of an investor
+
+34
+00:02:54,360 --> 00:03:01,880
+and mentor and advisor to different startups and then a few years ago, I went back to MIT
+
+35
+00:03:01,880 --> 00:03:09,040
+and started PlayLabs which is a startup accelerator for playful technologies and also decided
+
+36
+00:03:09,040 --> 00:03:14,240
+to focus a little more on my writing and so I came out with the book The Simulation Hypothesis
+
+37
+00:03:14,240 --> 00:03:20,840
+last year on the 20th anniversary of the release of The Matrix which was March 31st, 1999 and
+
+38
+00:03:20,840 --> 00:03:28,560
+my book was released on March 31st, 2019 last year and so now I'm involved in a combination
+
+39
+00:03:28,560 --> 00:03:35,520
+of kind of futuristic types of activities around virtual reality.
+
+40
+00:03:35,520 --> 00:03:41,320
+Also I'm an investor still in many different startups, I'm writing new books and kind
+
+41
+00:03:41,320 --> 00:03:48,560
+of parallel with my journey in the software world, I was an explorer of many states of
+
+42
+00:03:48,560 --> 00:03:54,640
+consciousness whether it was meditation, Tibetan dream yoga, lots of other practices and so
+
+43
+00:03:54,640 --> 00:04:00,600
+I became interested in consciousness and how it interacts with the physical world and so
+
+44
+00:04:00,600 --> 00:04:05,520
+the book The Simulation Hypothesis was a way of tying all of that together really for me
+
+45
+00:04:05,520 --> 00:04:08,720
+for areas that I've investigated over many, many years.
+
+46
+00:04:08,720 --> 00:04:14,440
+That's awesome and it really is this combination of consciousness and simulation hypothesis
+
+47
+00:04:14,440 --> 00:04:20,320
+that you're talking about that interested me initially about I thought I need to talk
+
+48
+00:04:20,320 --> 00:04:25,120
+to him and you also have a new book called Startup Myth and Models What You Won't Learn
+
+49
+00:04:25,120 --> 00:04:29,160
+in Business School, I want to talk to you about that a little bit later but let's start
+
+50
+00:04:29,160 --> 00:04:35,560
+with The Simulation Hypothesis and MIT computer scientist shows why AI, quantum physics and
+
+51
+00:04:35,560 --> 00:04:39,920
+eastern mystics all agree we are in a video game.
+
+52
+00:04:39,920 --> 00:04:47,400
+Can you describe the thesis of the book and what interested you beside Matrix to write
+
+53
+00:04:47,400 --> 00:04:49,160
+the book at the first place?
+
+54
+00:04:49,160 --> 00:04:55,920
+Yeah, well you know a few years ago I was heavily involved in virtual reality startups
+
+55
+00:04:55,920 --> 00:05:02,120
+and so I was actually visiting one of them and they had a VR ping pong game that was
+
+56
+00:05:02,120 --> 00:05:06,920
+going to be released by HTC who are makers of the Vive headset which was one of the big
+
+57
+00:05:06,920 --> 00:05:12,240
+headsets along with Oculus when virtual reality was sort of making a comeback and so as I
+
+58
+00:05:12,240 --> 00:05:18,200
+was playing this ping pong game, I found that it was so realistic in terms of the responsiveness
+
+59
+00:05:18,200 --> 00:05:21,840
+that I forgot I was in a virtual reality.
+
+60
+00:05:21,840 --> 00:05:26,240
+So much so that at the end of the game I decided to put the paddle down on the table and lean
+
+61
+00:05:26,240 --> 00:05:27,240
+against the table.
+
+62
+00:05:27,240 --> 00:05:31,560
+Of course there was no table, I was just in a room with these goggles on and so the controller
+
+63
+00:05:31,560 --> 00:05:33,800
+fell to the floor and I almost fell over.
+
+64
+00:05:33,800 --> 00:05:37,360
+And how long did it take from the time that you start playing the game to being convinced
+
+65
+00:05:37,360 --> 00:05:40,720
+that you're basically in that environment?
+
+66
+00:05:40,720 --> 00:05:41,720
+It didn't take very long.
+
+67
+00:05:41,720 --> 00:05:46,800
+I mean these were relatively short games so it was less than 10 minutes total that I was
+
+68
+00:05:46,800 --> 00:05:52,160
+playing and what's interesting about that is that it wasn't even the resolution.
+
+69
+00:05:52,160 --> 00:05:59,060
+So when we talk about the Matrix, we think of super high resolution virtual worlds which
+
+70
+00:05:59,060 --> 00:06:03,080
+look just like the physical world and we'll talk about how we get there.
+
+71
+00:06:03,080 --> 00:06:08,120
+But in this case, the resolution graphics were not that realistic.
+
+72
+00:06:08,120 --> 00:06:10,120
+It was more the physics engine.
+
+73
+00:06:10,120 --> 00:06:16,800
+It was the way that I heard the sound of the ball just when I was about to tap it and depending
+
+74
+00:06:16,800 --> 00:06:22,920
+on where I tapped it, it went and it reacted based upon how I hit it.
+
+75
+00:06:22,920 --> 00:06:28,600
+And so really the responsiveness was actually the key to this immersion more so than what
+
+76
+00:06:28,600 --> 00:06:30,920
+we think of which is the pixel resolution.
+
+77
+00:06:30,920 --> 00:06:38,100
+Turns out that we have pretty good pixel resolution already and most movies you see when we had
+
+78
+00:06:38,100 --> 00:06:45,200
+cinemas open like Star Wars or Blade Runner 2049, they're digital these days and they
+
+79
+00:06:45,200 --> 00:06:48,480
+get sent at a 2K pixel resolution.
+
+80
+00:06:48,480 --> 00:06:55,020
+Well it turns out we have 4K resolution screens and 8K on the way and so we're getting very
+
+81
+00:06:55,020 --> 00:06:59,440
+good at getting the pixel resolution but it was really that responsiveness.
+
+82
+00:06:59,440 --> 00:07:05,360
+So I started to think, well what would it take for technology to develop to what I call
+
+83
+00:07:05,360 --> 00:07:09,960
+the simulation point which is the point at which we can produce simulations that are
+
+84
+00:07:09,960 --> 00:07:15,540
+so realistic that we would not be able to distinguish those from physical reality, completely
+
+85
+00:07:15,540 --> 00:07:18,200
+immersive like the Matrix really.
+
+86
+00:07:18,200 --> 00:07:23,960
+And so that was how I started writing the book but then as I started to investigate
+
+87
+00:07:23,960 --> 00:07:28,880
+this idea, I realized that it was being taken seriously now whereas 20 years ago when The
+
+88
+00:07:28,880 --> 00:07:34,640
+Matrix came out, it was considered science fiction and before that, the works of Philip
+
+89
+00:07:34,640 --> 00:07:40,880
+K. Dick were very inspirational to the makers of The Matrix but also in providing a framework
+
+90
+00:07:40,880 --> 00:07:45,560
+in science fiction to talk about the idea that what you're seeing might not be real,
+
+91
+00:07:45,560 --> 00:07:49,760
+that there may be invented worlds or false memories for example.
+
+92
+00:07:49,760 --> 00:07:55,400
+And so that led to the writing of the rest of the book and part of the book really delves
+
+93
+00:07:55,400 --> 00:08:00,360
+into the idea that this isn't a new idea, that all the world religions have been talking
+
+94
+00:08:00,360 --> 00:08:05,200
+about this for some period of time and so I was able to kind of tie that together as
+
+95
+00:08:05,200 --> 00:08:06,200
+well.
+
+96
+00:08:06,200 --> 00:08:08,160
+Very interesting.
+
+97
+00:08:08,160 --> 00:08:11,600
+I'm glad that you mentioned the effect of sound because I'm coming from the background
+
+98
+00:08:11,600 --> 00:08:16,680
+of sound design and I've been working on this, making the shift from the 2D kind of
+
+99
+00:08:16,680 --> 00:08:22,980
+an environment into VR and AR kind of an environment and there's a huge difference between how
+
+100
+00:08:22,980 --> 00:08:27,960
+those sounds for example or visuals are being produced.
+
+101
+00:08:27,960 --> 00:08:32,680
+There's a big difference between stereo sounds and binaural sounds that you feel like
+
+102
+00:08:32,680 --> 00:08:36,240
+you're in the environment and as you're saying, if you close your eyes, it takes a
+
+103
+00:08:36,240 --> 00:08:40,680
+matter of seconds for you to feel like, yeah, I'm walking in New York City.
+
+104
+00:08:40,680 --> 00:08:45,480
+Right and with the sounds, this idea of 3D sound for people that aren't familiar with
+
+105
+00:08:45,480 --> 00:08:52,000
+it, it's the idea that if sound is coming from over there, that corner of the room,
+
+106
+00:08:52,000 --> 00:08:57,720
+it will hit my ear slightly differently, my right ear and my left ear versus something
+
+107
+00:08:57,720 --> 00:09:01,080
+that's right in front of me or something that's right behind me and so trying to
+
+108
+00:09:01,080 --> 00:09:06,960
+simulate that digitally by knowing the X, Y, Z coordinates which is actually a lot of
+
+109
+00:09:06,960 --> 00:09:10,280
+what we do in virtual reality visuals.
+
+110
+00:09:10,280 --> 00:09:15,800
+If you go back to the 1980s when I started writing video games, my first game was a tic
+
+111
+00:09:15,800 --> 00:09:21,200
+tac toe program on the Commodore 64 and then on Apple II computers.
+
+112
+00:09:21,200 --> 00:09:27,040
+Back then if you asked somebody, can you make a fully immersive 3D world like World of Warcraft
+
+113
+00:09:27,040 --> 00:09:31,320
+which it's not fully immersive, it's not even virtual reality but it's a 3D world
+
+114
+00:09:31,320 --> 00:09:35,320
+that you play on your computer and the answer would be no, there are just too many pixels.
+
+115
+00:09:35,320 --> 00:09:39,780
+There's no way we could render all of that and keep track of all of that and so what
+
+116
+00:09:39,780 --> 00:09:43,740
+happened between then and now, well, Moore's Law happened which states that the computing
+
+117
+00:09:43,740 --> 00:09:49,280
+power doubles every 18 months but more than that, we came up with optimization techniques.
+
+118
+00:09:49,280 --> 00:09:55,080
+We came up with ways to compress the data and so the rule of thumb was look at your
+
+119
+00:09:55,080 --> 00:10:01,080
+point of view inside the virtual world, inside the 3D world and render only those pixels
+
+120
+00:10:01,080 --> 00:10:06,640
+which can be observed by your avatar and so anything that cannot be observed, you don't
+
+121
+00:10:06,640 --> 00:10:07,640
+have to render.
+
+122
+00:10:07,640 --> 00:10:15,360
+That was a key optimization technique that allowed for 3D graphics with games like Doom
+
+123
+00:10:15,360 --> 00:10:19,560
+back in the 90s which was so popular that it was bringing college networks down because
+
+124
+00:10:19,560 --> 00:10:23,440
+it was a first person shooter and when you turn left or right, it looked like the world
+
+125
+00:10:23,440 --> 00:10:30,840
+moved with you and if you look at like really old versions of this, Microsoft Flight Simulator
+
+126
+00:10:30,840 --> 00:10:36,960
+which was supposed to simulate flying an airplane back in the 80s or 90s when they first came
+
+127
+00:10:36,960 --> 00:10:41,520
+out with it, you could see the lines being rendered across the screen every time you
+
+128
+00:10:41,520 --> 00:10:45,880
+move so you turn to the left and you would wait for it to render the scene.
+
+129
+00:10:45,880 --> 00:10:51,220
+Today, they have a version of Flight Simulator in beta that is based on Bing maps and they
+
+130
+00:10:51,220 --> 00:10:56,120
+took all the maps of the physical world that they could, satellite images and they created
+
+131
+00:10:56,120 --> 00:11:01,520
+using AI 3D models of like a billion buildings so you could literally fly over New York City
+
+132
+00:11:01,520 --> 00:11:06,880
+and look down and have it look like the buildings in New York City and so it's pretty impressive
+
+133
+00:11:06,880 --> 00:11:11,320
+what's happened and a lot of this was because of 3D rendering techniques, that's kind
+
+134
+00:11:11,320 --> 00:11:13,560
+of how we got to where we're able to do it.
+
+135
+00:11:13,560 --> 00:11:17,760
+It's very similar now with 3D sound, there's a lot of work being done on how to reproduce
+
+136
+00:11:17,760 --> 00:11:22,760
+that digitally without having to worry so much about where the physical sound is and
+
+137
+00:11:22,760 --> 00:11:28,280
+then you add that to the goggles, now you're in a very immersive type of world.
+
+138
+00:11:28,280 --> 00:11:33,640
+This advancement depends on the computational processing power, right?
+
+139
+00:11:33,640 --> 00:11:37,400
+So we're based on silicon right now but my understanding is that we are reaching the
+
+140
+00:11:37,400 --> 00:11:42,440
+limits of silicon and we have to move to the next mode of computation.
+
+141
+00:11:42,440 --> 00:11:48,120
+How is that going to affect the future of simulating our world I guess?
+
+142
+00:11:48,120 --> 00:11:55,960
+Well, we do seem to be approaching a theoretical limit but what you find is that that was thought
+
+143
+00:11:55,960 --> 00:12:01,800
+to be the case before and so I remember when I was in business school at Stanford here
+
+144
+00:12:01,800 --> 00:12:07,280
+just down the road, we had a case study from Intel saying that if they had continued to
+
+145
+00:12:07,280 --> 00:12:11,000
+make processors the way that they were making them, you know what happens is the processors
+
+146
+00:12:11,000 --> 00:12:15,840
+get smaller and they do more computations and when they do more computations, it produces
+
+147
+00:12:15,840 --> 00:12:20,720
+more heat and so the engineers were doing a little analysis that said okay as the number
+
+148
+00:12:20,720 --> 00:12:24,120
+of computations increase, how will the heat increase and they said it was going to be
+
+149
+00:12:24,120 --> 00:12:28,240
+hotter than the sun if it keeps going after a few years.
+
+150
+00:12:28,240 --> 00:12:33,360
+Now what happened was they came up with different computational techniques and so optimization
+
+151
+00:12:33,360 --> 00:12:34,880
+was actually the key.
+
+152
+00:12:34,880 --> 00:12:41,160
+Turns out that was the normal like the 286-386 Pentium processor and that was the normal
+
+153
+00:12:41,160 --> 00:12:46,520
+track but there was a parallel group at Intel making processors for laptops which used a
+
+154
+00:12:46,520 --> 00:12:51,880
+lot less energy and produced a lot less heat and they used reduced instruction sets so
+
+155
+00:12:51,880 --> 00:12:56,860
+reduced number of computations so it's all about optimization and so I think we're not
+
+156
+00:12:56,860 --> 00:13:01,280
+quite at the theoretical limits and won't be for a while because people will come up
+
+157
+00:13:01,280 --> 00:13:06,920
+with new optimization techniques and adding other hardware like GPUs so graphics processing
+
+158
+00:13:06,920 --> 00:13:13,240
+units are pretty common now and they were invented primarily for video games and entertainment
+
+159
+00:13:13,240 --> 00:13:17,400
+like what do you need graphics for, right, it's to render these kinds of things.
+
+160
+00:13:17,400 --> 00:13:22,480
+Now if you look at virtual reality headsets, there was a wave back in the 90s where you
+
+161
+00:13:22,480 --> 00:13:27,520
+know they had to be hooked up to like very big machines and then in 2012 I think it was
+
+162
+00:13:27,520 --> 00:13:32,480
+Facebook bought Oculus for a couple of billion dollars and that was kind of the new resurgence
+
+163
+00:13:32,480 --> 00:13:37,600
+of virtual reality but one of the problems was you know just like with my headset here
+
+164
+00:13:37,600 --> 00:13:42,040
+which has this wire, you had to be connected to the computer with a wire because the computer
+
+165
+00:13:42,040 --> 00:13:47,280
+was doing the processing and so the difficulty with virtual reality is not so much displaying
+
+166
+00:13:47,280 --> 00:13:53,200
+it on a small screen which you know they have the two screens on your eyes, it's calculating
+
+167
+00:13:53,200 --> 00:13:57,040
+what should be rendered in real time so that when you turn to the left or you turn to the
+
+168
+00:13:57,040 --> 00:14:01,400
+right, it doesn't do what the old flight simulator would do and show you line by line
+
+169
+00:14:01,400 --> 00:14:05,840
+I'm re-rendering what it might look like but now you know we have the Oculus Quest
+
+170
+00:14:05,840 --> 00:14:11,080
+which came out last year and HTC has its own kind of version where you don't need a computer
+
+171
+00:14:11,080 --> 00:14:16,600
+and you don't need a phone, all the computation is done in the headset itself so we're already
+
+172
+00:14:16,600 --> 00:14:21,040
+seeing kind of standalone virtual reality which is showing that we'll be able to do
+
+173
+00:14:21,040 --> 00:14:22,600
+more and more computation.
+
+174
+00:14:22,600 --> 00:14:29,560
+That said, there is a lot of work being done on light so the reason we have fiber optics
+
+175
+00:14:29,560 --> 00:14:35,720
+is instead of transferring over copper wires, you basically use light to transmit bits of
+
+176
+00:14:35,720 --> 00:14:42,000
+data because in the end, our computation today is all based on bits, ones and zeros.
+
+177
+00:14:42,000 --> 00:14:47,080
+I know how we're talking right now, I'm not really talking to you, I'm actually seeing
+
+178
+00:14:47,080 --> 00:14:51,440
+bits that were transferred over the internet and they're being re-rendered on my side
+
+179
+00:14:51,440 --> 00:14:57,080
+and I'm being rendered on your side and one of us is doing the recording etc.
+
+180
+00:14:57,080 --> 00:15:01,720
+So there's some work being done there but I think really the next frontier for computing
+
+181
+00:15:01,720 --> 00:15:06,840
+that a lot of people are looking at is quantum computing and the basic idea there is that
+
+182
+00:15:06,840 --> 00:15:13,040
+instead of using regular bits, so a regular bit has a one or a zero value, you use quantum
+
+183
+00:15:13,040 --> 00:15:20,160
+bits or qubits which have both a value of one and zero, it's called quantum superposition
+
+184
+00:15:20,160 --> 00:15:24,840
+and this quantum superposition has been one of the biggest mysteries in the world of quantum
+
+185
+00:15:24,840 --> 00:15:29,640
+mechanics and I talk a lot about it in the book in general but as we apply it to computation,
+
+186
+00:15:29,640 --> 00:15:36,760
+what it means is that just like the old story of Schrodinger's cat where Schrodinger came
+
+187
+00:15:36,760 --> 00:15:40,320
+up with this analogy because he thought it was just ridiculous what quantum physics was
+
+188
+00:15:40,320 --> 00:15:44,320
+saying, unfortunately it's been verified, that's what it's saying which is that if
+
+189
+00:15:44,320 --> 00:15:49,920
+you have a cat in a box and it has some radioactive material, that after an hour, the cat has
+
+190
+00:15:49,920 --> 00:15:53,560
+a 50% chance of being alive and a 50% chance of being dead.
+
+191
+00:15:53,560 --> 00:15:58,760
+Now to us it seems logical that the cat is either alive or it's dead, we just don't
+
+192
+00:15:58,760 --> 00:16:01,920
+know which one, it can't be both, it's just one or the other.
+
+193
+00:16:01,920 --> 00:16:06,880
+What quantum physics tells us is that it is both alive and dead until somebody opens up
+
+194
+00:16:06,880 --> 00:16:13,040
+the box and makes a measurement or an observation of what's inside the box and so it exists
+
+195
+00:16:13,040 --> 00:16:20,360
+in this weird state of probabilistic reality and it turns out quantum computers are going
+
+196
+00:16:20,360 --> 00:16:25,940
+to try to use that to say you have a qubit and suppose you have 50 qubits, each of them
+
+197
+00:16:25,940 --> 00:16:30,080
+can be zero or one, well that's a pretty big number, it's two to the power 50 that
+
+198
+00:16:30,080 --> 00:16:39,280
+you can do whereas right now we have 32-bit or 64-bit processors on our computers but
+
+199
+00:16:39,280 --> 00:16:44,060
+with that you basically can do one measurement across all of them and so it makes it a lot
+
+200
+00:16:44,060 --> 00:16:49,240
+faster and now it's kind of confusing how it works but the basic idea is you have it
+
+201
+00:16:49,240 --> 00:16:52,080
+explore all the possible values.
+
+202
+00:16:52,080 --> 00:16:56,760
+So if you were to explore all the possible values of 64-bits, you would have to go through
+
+203
+00:16:56,760 --> 00:17:02,280
+two of the 64 iterations but with a quantum computer, you kind of let that run in this
+
+204
+00:17:02,280 --> 00:17:06,640
+probabilistic world and as you make a measurement, you collapse the probability wave just like
+
+205
+00:17:06,640 --> 00:17:11,520
+looking at Schrodinger's gap to see if it's alive or dead and so the idea is that that
+
+206
+00:17:11,520 --> 00:17:14,120
+would result in much faster computers.
+
+207
+00:17:14,120 --> 00:17:18,120
+Now there's some debate over whether quantum computers are really faster or you can optimize
+
+208
+00:17:18,120 --> 00:17:24,440
+classical computers to do the same thing and so I think IBM was able to get up to a certain
+
+209
+00:17:24,440 --> 00:17:29,320
+number of qubits now but it's still early days, it's kind of like 1980 for personal
+
+210
+00:17:29,320 --> 00:17:35,580
+computers when it comes to qubits or even earlier like 1960s when most computers were
+
+211
+00:17:35,580 --> 00:17:41,160
+mainframes so most quantum computers are like these giant things that sit in these super
+
+212
+00:17:41,160 --> 00:17:44,520
+cooled labs using superconductors.
+
+213
+00:17:44,520 --> 00:17:51,380
+The really hard thing about quantum computers is error detection and turns out this is another
+
+214
+00:17:51,380 --> 00:17:55,680
+basic optimization technique or algorithmic technique we use in software which is how
+
+215
+00:17:55,680 --> 00:18:02,740
+do you correct errors if you have millions of bits, if 10 of them are wrong.
+
+216
+00:18:02,740 --> 00:18:06,720
+Right now, same thing with your picture coming to me, what happens if a couple of those bits
+
+217
+00:18:06,720 --> 00:18:08,640
+gets transmitted wrongly?
+
+218
+00:18:08,640 --> 00:18:13,940
+Well we can figure out using error correction techniques, my hair should be this color,
+
+219
+00:18:13,940 --> 00:18:19,160
+my shirt is black, therefore that's probably should be black, it shouldn't be necessarily
+
+220
+00:18:19,160 --> 00:18:23,920
+a bunch of white bits there and so we use checksums and things like that and so that's
+
+221
+00:18:23,920 --> 00:18:28,360
+really where a lot of work has to be done still as well as the physical storage of these
+
+222
+00:18:28,360 --> 00:18:33,640
+qubits is still pretty hard because you have to do it at these very cold temperatures.
+
+223
+00:18:33,640 --> 00:18:34,920
+Is IBM the leader?
+
+224
+00:18:34,920 --> 00:18:40,280
+Because I know there's one company in Canada, D-Wave, that they've been right on top of
+
+225
+00:18:40,280 --> 00:18:46,320
+it for many, many years and they sold I think their machines to Google, that army company
+
+226
+00:18:46,320 --> 00:18:52,760
+McDonald something and so I'm interested to know who is the leader at this point in
+
+227
+00:18:52,760 --> 00:18:53,760
+quantum computing.
+
+228
+00:18:53,760 --> 00:18:58,800
+Well, so D-Wave was one of the earliest companies, maybe the first one to come out with a quantum
+
+229
+00:18:58,800 --> 00:18:59,800
+computer.
+
+230
+00:18:59,800 --> 00:19:05,160
+There's some debate over whether it's a true quantum computer or not and we won't
+
+231
+00:19:05,160 --> 00:19:10,800
+dig into that but they're out there, Google has a pretty big quantum computing department.
+
+232
+00:19:10,800 --> 00:19:16,280
+Microsoft actually is spending a lot of money on this as well and in fact, they're all
+
+233
+00:19:16,280 --> 00:19:22,440
+using slightly different approaches to the physical storage of these qubits.
+
+234
+00:19:22,440 --> 00:19:28,200
+It's kind of as if back in the day when Apple was making a personal computer, IBM
+
+235
+00:19:28,200 --> 00:19:33,320
+was making one, Commodore was making one, instead of all using silicon chips, one was
+
+236
+00:19:33,320 --> 00:19:39,920
+using Swiss cheese and one was using copper and one was using silicon.
+
+237
+00:19:39,920 --> 00:19:44,400
+That's kind of the stage we're at is they're still experimenting with what is the best
+
+238
+00:19:44,400 --> 00:19:48,760
+way to physically store these bits and I think Microsoft had a breakthrough where they were
+
+239
+00:19:48,760 --> 00:19:54,480
+able to do it at normal temperatures which is pretty important if quantum computing is
+
+240
+00:19:54,480 --> 00:20:00,240
+going to get out there more, you can't require this kind of negative 200 degrees Celsius
+
+241
+00:20:00,240 --> 00:20:04,720
+or whatever the temperature is to store these things.
+
+242
+00:20:04,720 --> 00:20:09,120
+All the big guys are actually running after it right now and then there's a lot of startups
+
+243
+00:20:09,120 --> 00:20:12,520
+that are working in this space more on the software side trying to come up with different
+
+244
+00:20:12,520 --> 00:20:13,520
+algorithms.
+
+245
+00:20:13,520 --> 00:20:19,560
+There's a lot of research, IBM put out a paper I think last year stating that there
+
+246
+00:20:19,560 --> 00:20:24,320
+in fact were some algorithms where there was quantum supremacy which is to prove that a
+
+247
+00:20:24,320 --> 00:20:27,880
+quantum computer can do this way faster than a classical computer.
+
+248
+00:20:27,880 --> 00:20:32,060
+It's not as easy as it sounds because even though theoretically it can be done, the way
+
+249
+00:20:32,060 --> 00:20:36,600
+you have to go in and measure these bits and collapse that probability wave is kind of
+
+250
+00:20:36,600 --> 00:20:41,080
+tricky even for a traditional programmer like I was trained as a traditional programmer,
+
+251
+00:20:41,080 --> 00:20:45,520
+you have to think almost very differently to make that transition into quantum programming.
+
+252
+00:20:45,520 --> 00:20:50,200
+Is the role of the programmer will become obsolete when we move to quantum computation
+
+253
+00:20:50,200 --> 00:20:55,440
+because of all the possibilities that exist that we inevitably have to rely on some kind
+
+254
+00:20:55,440 --> 00:20:59,440
+of AI or AGI ultimately?
+
+255
+00:20:59,440 --> 00:21:04,560
+Well I don't think it will become obsolete, I think it will change from the way we think
+
+256
+00:21:04,560 --> 00:21:07,760
+about it today.
+
+257
+00:21:07,760 --> 00:21:13,240
+Today we're writing procedural software or object-oriented software and already within
+
+258
+00:21:13,240 --> 00:21:19,120
+the coding world, let's see when was the basic programming language was invented?
+
+259
+00:21:19,120 --> 00:21:24,880
+I was probably back in the 70s or 60s so it's been about 50 years that we've had programming
+
+260
+00:21:24,880 --> 00:21:30,680
+and we're now getting to the no code stage which is a popular term in programming which
+
+261
+00:21:30,680 --> 00:21:34,880
+is for somebody who doesn't have to write any code, you just drag and drop things but
+
+262
+00:21:34,880 --> 00:21:37,840
+people have been talking about that for many years, I remember Steve Jobs making a big
+
+263
+00:21:37,840 --> 00:21:42,200
+deal of this when he left Apple and he created an X computer back in the 90s that you could
+
+264
+00:21:42,200 --> 00:21:44,240
+just take these objects and put them together.
+
+265
+00:21:44,240 --> 00:21:47,440
+Well it turns out it wasn't that simple, you still needed to do lots of actual code
+
+266
+00:21:47,440 --> 00:21:54,240
+writing and so today there's a big trend towards no code solutions but it's still
+
+267
+00:21:54,240 --> 00:21:57,920
+not there, we still have to write a lot of code so I think with quantum computing it
+
+268
+00:21:57,920 --> 00:22:03,560
+will be different, if you go to IBM's website, there's actually a way where you can upload
+
+269
+00:22:03,560 --> 00:22:11,040
+a program, a quantum computing program up to their computer and have it run on a time
+
+270
+00:22:11,040 --> 00:22:12,040
+shared basis.
+
+271
+00:22:12,040 --> 00:22:15,800
+So it's kind of like mainframe computers used to be like back in the days when Bill
+
+272
+00:22:15,800 --> 00:22:20,760
+Gates and Paul Allen before they started Microsoft in Seattle or at Harvard, they were working
+
+273
+00:22:20,760 --> 00:22:23,720
+on these mainframe computers and they would only get them for a certain period of time
+
+274
+00:22:23,720 --> 00:22:28,280
+and they would submit their programs and wait for them to run and get back the results.
+
+275
+00:22:28,280 --> 00:22:34,760
+So it's kind of in that world but there's visual representations of these bits, there
+
+276
+00:22:34,760 --> 00:22:39,080
+are languages like Qsharp which Microsoft is coming out with but I'd say it's still
+
+277
+00:22:39,080 --> 00:22:44,120
+a wide open area, I don't think the way that we do quantum programming today will be the
+
+278
+00:22:44,120 --> 00:22:49,000
+way we do it tomorrow so there will probably be some transition, I don't think right
+
+279
+00:22:49,000 --> 00:22:56,160
+away that AGI is going to be able to do computer programming but we're not even at AGI so
+
+280
+00:22:56,160 --> 00:22:59,680
+there's a big debate about whether we think we'll get there soon.
+
+281
+00:22:59,680 --> 00:23:07,440
+Now we're getting closer and closer, there are these text generation modules that didn't
+
+282
+00:23:07,440 --> 00:23:13,200
+quite pass the Turing test yet and your viewers may know about the Turing test which was put
+
+283
+00:23:13,200 --> 00:23:18,600
+forward by Alan Turing back in the 1950s I think when he said he called it the imitation
+
+284
+00:23:18,600 --> 00:23:23,960
+game and he said if you had a computer behind one curtain and a human behind another and
+
+285
+00:23:23,960 --> 00:23:29,160
+you're talking with them, back then he was saying you're sending teletype messages,
+
+286
+00:23:29,160 --> 00:23:30,160
+that's how they did that.
+
+287
+00:23:30,160 --> 00:23:36,320
+Today it might be an actual voice conversation or it might be a chat bot but if you can't
+
+288
+00:23:36,320 --> 00:23:40,120
+tell the difference between the computer and the human then that computer has passed the
+
+289
+00:23:40,120 --> 00:23:47,120
+imitation game and then you're at the point where it's AI, it's intelligent enough
+
+290
+00:23:47,120 --> 00:23:49,560
+because you can't really tell the difference between one or the other.
+
+291
+00:23:49,560 --> 00:23:55,680
+So we're not quite there yet, estimates range from a decade to several decades, most people
+
+292
+00:23:55,680 --> 00:24:04,160
+think we'll certainly get there within the century, I'm not so sure personally, the argument
+
+293
+00:24:04,160 --> 00:24:10,680
+is if you can't tell the difference between a machine and a human then we have basically
+
+294
+00:24:10,680 --> 00:24:12,360
+simulated consciousness.
+
+295
+00:24:12,360 --> 00:24:15,280
+So this is a big debate that says what is consciousness?
+
+296
+00:24:15,280 --> 00:24:19,840
+Wow, that is a huge point, yes.
+
+297
+00:24:19,840 --> 00:24:24,400
+So is a machine that acts like a conscious person actually conscious or not and if we
+
+298
+00:24:24,400 --> 00:24:26,940
+can't tell the difference, does it even matter?
+
+299
+00:24:26,940 --> 00:24:33,140
+And so this gets into the debate of can we take human consciousness and download it into
+
+300
+00:24:33,140 --> 00:24:34,140
+a computer.
+
+301
+00:24:34,140 --> 00:24:39,400
+So I talked about in this book the road to the simulation point, there are these 10 stages
+
+302
+00:24:39,400 --> 00:24:45,200
+and one of the stages is artificial intelligence bots that we can talk to but another stage
+
+303
+00:24:45,200 --> 00:24:49,480
+is this idea of being able to download your consciousness into a computer.
+
+304
+00:24:49,480 --> 00:24:55,640
+It's a very popular topic in Silicon Valley and people like Ray Kurzweil who I think his
+
+305
+00:24:55,640 --> 00:25:01,640
+official title is Chief Futurist at Google has been talking about this as a way of achieving
+
+306
+00:25:01,640 --> 00:25:08,340
+digital immortality but it's not something that we don't fully understand consciousness
+
+307
+00:25:08,340 --> 00:25:14,360
+so the question is can we really reproduce it and is it really you if you reproduce your
+
+308
+00:25:14,360 --> 00:25:18,520
+bits and this is where we overlap with philosophy and religion.
+
+309
+00:25:18,520 --> 00:25:22,040
+A lot of guys who talk about the simulation hypothesis, they don't like to talk about
+
+310
+00:25:22,040 --> 00:25:25,680
+religion, they'll talk about philosophy, they'll take it that far but they won't
+
+311
+00:25:25,680 --> 00:25:29,680
+take it but if you think particularly in the Eastern religions, you don't even have to
+
+312
+00:25:29,680 --> 00:25:34,480
+draw an analogy, they basically say that you have a soul or something that exists outside,
+
+313
+00:25:34,480 --> 00:25:40,880
+you download into your avatar which is our biological avatars in this case and then at
+
+314
+00:25:40,880 --> 00:25:45,400
+the end of the life, you upload back to wherever it was and there's some information from
+
+315
+00:25:45,400 --> 00:25:48,760
+this lifetime that is stored and then you go to the next lifetime, you're playing
+
+316
+00:25:48,760 --> 00:25:53,880
+the next avatar so you have this kind of upload and download of consciousness.
+
+317
+00:25:53,880 --> 00:25:58,420
+They don't even define what that is and there's actually one of the interesting differences
+
+318
+00:25:58,420 --> 00:26:03,200
+between say Hinduism and Buddhism is within Hinduism, you have more of an indestructible
+
+319
+00:26:03,200 --> 00:26:07,600
+soul which is a term we're more familiar with in the West because the Western religions
+
+320
+00:26:07,600 --> 00:26:14,280
+also have this idea of a soul that exists in eternity after you die somewhere else but
+
+321
+00:26:14,280 --> 00:26:17,960
+in the Buddhist traditions, particularly what some Buddhist scholars say is that it's more
+
+322
+00:26:17,960 --> 00:26:21,000
+like a bag of karma.
+
+323
+00:26:21,000 --> 00:26:25,380
+The only thing that gets uploaded and downloaded is the information about what happened to
+
+324
+00:26:25,380 --> 00:26:29,600
+you in that life and previous lives and in Silicon Valley, we would say that's just
+
+325
+00:26:29,600 --> 00:26:34,880
+storing stuff to the cloud, it's just a bag of information that gets stored somewhere
+
+326
+00:26:34,880 --> 00:26:40,760
+out of sight that is not part of the rendered game world as we call it in the video game
+
+327
+00:26:40,760 --> 00:26:41,760
+world.
+
+328
+00:26:41,760 --> 00:26:44,640
+But yeah, we're touching on very big issues when you get to that point.
+
+329
+00:26:44,640 --> 00:26:50,400
+Well, it seems like it's inevitable to talk about religions and philosophy and we're
+
+330
+00:26:50,400 --> 00:26:55,240
+reaching a point that everything is kind of coming together and we have to address all
+
+331
+00:26:55,240 --> 00:27:00,340
+of them and get any kind of information, any kind of a tool we can from wherever to make
+
+332
+00:27:00,340 --> 00:27:04,080
+sense out of basically what we are doing.
+
+333
+00:27:04,080 --> 00:27:10,840
+That's part of my point in this book and one of the criticisms I often get is why did
+
+334
+00:27:10,840 --> 00:27:14,800
+you dedicate a third of the book to talking about consciousness and religion and unexplained
+
+335
+00:27:14,800 --> 00:27:19,080
+phenomena when you should just talk about the computer science and the physics.
+
+336
+00:27:19,080 --> 00:27:24,960
+For me, it was actually important to realize that as you go back, humans have been searching
+
+337
+00:27:24,960 --> 00:27:31,280
+for the truth about reality for a very long time and you go back to the Greeks and Plato
+
+338
+00:27:31,280 --> 00:27:38,040
+had his analogy of the cave which is very popular in philosophy which is the idea that
+
+339
+00:27:38,040 --> 00:27:42,120
+if we all live in a cave chained to one side and there's an opening but we can't really
+
+340
+00:27:42,120 --> 00:27:47,460
+look out into the real world, all we see are shadows against the wall and what happens
+
+341
+00:27:47,460 --> 00:27:50,560
+when somebody goes outside and peeks to see what's out there.
+
+342
+00:27:50,560 --> 00:27:54,480
+Well, first he gets blinded by the light because he's lived in a cave his whole life but then
+
+343
+00:27:54,480 --> 00:27:57,560
+when he comes back and tries to explain it to the other people, nobody believes him because
+
+344
+00:27:57,560 --> 00:28:05,720
+they think reality is just these shadows that you're seeing on the wall and within I think
+
+345
+00:28:05,720 --> 00:28:10,560
+the Greek traditions, philosophy, science and religion were not different.
+
+346
+00:28:10,560 --> 00:28:15,200
+Plato's talking about all these things, Aristotle and Pythagoras, they were exploring
+
+347
+00:28:15,200 --> 00:28:19,960
+the mysteries and so I actually think the goal of religion, the goal of philosophy and
+
+348
+00:28:19,960 --> 00:28:26,340
+the goal of science is the same which is to try to understand the nature of the reality
+
+349
+00:28:26,340 --> 00:28:32,220
+that we live in and I actually think that most religions are founded when somebody peeks
+
+350
+00:28:32,220 --> 00:28:36,960
+outside the simulation as I like to call it, they peek outside the game and then they come
+
+351
+00:28:36,960 --> 00:28:42,060
+back and they try to describe what they saw which is very difficult to do because the
+
+352
+00:28:42,060 --> 00:28:46,600
+base reality as it's called may be very different than what we're used to here.
+
+353
+00:28:46,600 --> 00:28:53,620
+The laws of physics really could be just the physics engine of our specific game as opposed
+
+354
+00:28:53,620 --> 00:28:57,680
+to being the same out there so it's very difficult to talk about what base reality
+
+355
+00:28:57,680 --> 00:29:03,240
+is like and that is what creates the three blind men and the elephant phenomenon I like
+
+356
+00:29:03,240 --> 00:29:07,360
+to say with religion where each one saw a different part of the elephant, they're
+
+357
+00:29:07,360 --> 00:29:11,800
+actually seeing the same thing but they like to come back and tell it so that one says
+
+358
+00:29:11,800 --> 00:29:15,840
+it's more like a tree, one says it's more like a house, one says it's more like a snake
+
+359
+00:29:15,840 --> 00:29:23,200
+because of the trunk of the elephant and that's a phenomenon that we see in our religions.
+
+360
+00:29:23,200 --> 00:29:27,000
+I think it's very profound what you're saying that even the laws of physics could be just
+
+361
+00:29:27,000 --> 00:29:33,840
+limited to our experience which I keep telling people, I call them involuntary baggage that
+
+362
+00:29:33,840 --> 00:29:39,160
+you identify with your culture and your religion and what your parents have told you, what
+
+363
+00:29:39,160 --> 00:29:46,400
+your society have put upon your shoulder but really the point is to look at the definition
+
+364
+00:29:46,400 --> 00:29:53,760
+of who the I is, who are you beyond all of those things because these are the things
+
+365
+00:29:53,760 --> 00:30:00,080
+that they have defined you on that basis, it's not you.
+
+366
+00:30:00,080 --> 00:30:05,920
+I think for a lot of younger people, this idea of the video game is a great way to think
+
+367
+00:30:05,920 --> 00:30:12,360
+about that question because if you were an avatar in Fortnite, who does that avatar think
+
+368
+00:30:12,360 --> 00:30:17,200
+he or she is?
+
+369
+00:30:17,200 --> 00:30:21,600
+What are the laws of physics in that game?
+
+370
+00:30:21,600 --> 00:30:25,640
+You can fly, you can do this, you can do that but you don't really have to go get a car
+
+371
+00:30:25,640 --> 00:30:32,460
+to go places so there's a set of laws and so that becomes in this model another set
+
+372
+00:30:32,460 --> 00:30:38,780
+of baggage but by having this idea of saying that there's a player and a player character,
+
+373
+00:30:38,780 --> 00:30:44,780
+it becomes a new way to think about it and within the world of the simulation hypothesis
+
+374
+00:30:44,780 --> 00:30:50,400
+and simulation theory, there's actually two different versions of this hypothesis and
+
+375
+00:30:50,400 --> 00:30:56,160
+I like to call it the NPC version and the RPG version and the NPC version stands for
+
+376
+00:30:56,160 --> 00:31:01,080
+non-player character or non-playable characters which is the term used in video games for
+
+377
+00:31:01,080 --> 00:31:06,240
+a character that is just an AI that you just interact with inside the game so you might
+
+378
+00:31:06,240 --> 00:31:13,480
+have like the tavern barkeep or the owner of a bank where you're giving some information
+
+379
+00:31:13,480 --> 00:31:18,640
+and so NPCs have gotten more and more sophisticated visually with games over time but if you go
+
+380
+00:31:18,640 --> 00:31:24,160
+all the way back to the text adventure games, there might be very limited characters, there's
+
+381
+00:31:24,160 --> 00:31:28,160
+characters you can ask very limited things to and they have a limited dialogue and even
+
+382
+00:31:28,160 --> 00:31:33,600
+nowadays a lot of the dialogue is you still have to just click on choose A or B. If you
+
+383
+00:31:33,600 --> 00:31:37,520
+go to like the Game of Thrones or Walking Dead games from Telltale, the guy will say
+
+384
+00:31:37,520 --> 00:31:42,800
+this and you have to choose your response A or B so it's still pretty basic but in
+
+385
+00:31:42,800 --> 00:31:48,040
+the NPC version, we're all NPCs and we're all running on somebody else's computer
+
+386
+00:31:48,040 --> 00:31:52,280
+and therefore the world around us is the only world we know.
+
+387
+00:31:52,280 --> 00:31:57,800
+In the RPG version, it's more like what we think of as video games where we have a player
+
+388
+00:31:57,800 --> 00:32:02,600
+and we have an avatar inside the game and we are so associated with that avatar like
+
+389
+00:32:02,600 --> 00:32:07,000
+in The Matrix, we forget that there's a part of us outside the world.
+
+390
+00:32:07,000 --> 00:32:13,120
+Now those two are not mutually exclusive like when you go into video games today like MMORPGs,
+
+391
+00:32:13,120 --> 00:32:19,280
+you have both, you have PCs, player characters and NPCs interacting and so it's very possible
+
+392
+00:32:19,280 --> 00:32:24,960
+that you have a combination of the two but for me, both of these versions creates this
+
+393
+00:32:24,960 --> 00:32:27,840
+interesting question of what is consciousness.
+
+394
+00:32:27,840 --> 00:32:34,120
+In the NPC version, consciousness is just what the NPC thinks they're doing whereas
+
+395
+00:32:34,120 --> 00:32:37,440
+in the RPG version, consciousness exists outside of the simulation.
+
+396
+00:32:37,440 --> 00:32:40,400
+You still don't know what it is but it's something different.
+
+397
+00:32:40,400 --> 00:32:44,800
+It's observing what's happening within the game and watching the gameplay.
+
+398
+00:32:44,800 --> 00:32:48,640
+I think one of the disconnects for a lot of people about the simulation hypothesis or
+
+399
+00:32:48,640 --> 00:32:53,680
+theory and however they want to talk about it is that, well, who's running the simulation
+
+400
+00:32:53,680 --> 00:32:56,800
+and the idea is that nobody really needs to run it.
+
+401
+00:32:56,800 --> 00:33:02,160
+If you look at, I'm reading from Wikipedia also showing it to our viewers, The Game of
+
+402
+00:33:02,160 --> 00:33:08,400
+Life by John Conway that it's a zero player game meaning that its evolution is determined
+
+403
+00:33:08,400 --> 00:33:11,840
+by its initial state requiring no further input.
+
+404
+00:33:11,840 --> 00:33:15,560
+All you have to do is start basically and it evolves in the way that it's supposed
+
+405
+00:33:15,560 --> 00:33:21,420
+to evolve and it's completely based on trial and error and chaos and uncertainty and momentary
+
+406
+00:33:21,420 --> 00:33:23,040
+orders out of them.
+
+407
+00:33:23,040 --> 00:33:29,360
+Right, and then it evolves based on a certain set of rules and in that case, they tend to
+
+408
+00:33:29,360 --> 00:33:36,880
+be very deterministic rules but it's a big question who runs the simulation and why.
+
+409
+00:33:36,880 --> 00:33:40,200
+Your question of do you really need somebody to run it or do you really need our set of
+
+410
+00:33:40,200 --> 00:33:43,320
+initial conditions and a way to get going.
+
+411
+00:33:43,320 --> 00:33:47,680
+One of the ways to think about it is why do we run simulations?
+
+412
+00:33:47,680 --> 00:33:54,480
+We run simulations sometimes to predict the weather or to predict stock forecasts or the
+
+413
+00:33:54,480 --> 00:33:59,960
+basic idea of a simulation is you have like populations of fruit flies.
+
+414
+00:33:59,960 --> 00:34:03,000
+Every year, you look at it and you say how many fruit flies have died and how many were
+
+415
+00:34:03,000 --> 00:34:07,520
+born in the next generation and that's a very non-graphical simulation, it's just
+
+416
+00:34:07,520 --> 00:34:09,920
+a numerical one but that's one reason.
+
+417
+00:34:09,920 --> 00:34:13,720
+The other reason though is we play video games, why?
+
+418
+00:34:13,720 --> 00:34:18,160
+We play video games to have experiences that we can't have outside the game.
+
+419
+00:34:18,160 --> 00:34:24,640
+I can't fly on a dragon in quote unquote real life but I can inside a video game so
+
+420
+00:34:24,640 --> 00:34:30,240
+I can have these experiences that I might not be able to have otherwise.
+
+421
+00:34:30,240 --> 00:34:35,580
+If you think of an MMORPG, a massively multiplayer online role playing game where you have lots
+
+422
+00:34:35,580 --> 00:34:39,820
+of individual people playing the game like Fortnite or World of Warcraft or one of these
+
+423
+00:34:39,820 --> 00:34:45,200
+other ones, you have millions of people, there was a concert in Fortnite last year that had
+
+424
+00:34:45,200 --> 00:34:47,560
+like 12 million people attending it.
+
+425
+00:34:47,560 --> 00:34:54,840
+It's like the largest concert ever and so it's possible that we are playing the game
+
+426
+00:34:54,840 --> 00:34:59,920
+for our own reasons to have experiences with each other or it's possible that we were
+
+427
+00:34:59,920 --> 00:35:04,560
+all just running on a computer somewhere and there's a set of deterministic rules and
+
+428
+00:35:04,560 --> 00:35:10,960
+those tie right into that dichotomy of the NPC version or the RPG version that I talked
+
+429
+00:35:10,960 --> 00:35:11,960
+about earlier.
+
+430
+00:35:11,960 --> 00:35:12,960
+That's amazing.
+
+431
+00:35:12,960 --> 00:35:17,600
+That's also how I like to think about the concept of God, quote unquote God, that there
+
+432
+00:35:17,600 --> 00:35:22,080
+is one thing whether conscious and it's an endless stream that has always been and always
+
+433
+00:35:22,080 --> 00:35:28,400
+will be and we are having our subjective experiences of it and the collection, decentralized collection
+
+434
+00:35:28,400 --> 00:35:34,240
+of that is what I can think of as the concept God or being higher power or whatever which
+
+435
+00:35:34,240 --> 00:35:37,960
+is unknowable and that's the nature of it.
+
+436
+00:35:37,960 --> 00:35:40,840
+We're just experiencing our own part of it.
+
+437
+00:35:40,840 --> 00:35:41,840
+Right.
+
+438
+00:35:41,840 --> 00:35:46,640
+So that's an interesting way to think about it.
+
+439
+00:35:46,640 --> 00:35:52,840
+Within the kind of Judeo-Christian line, you have this idea in the Bible that God created
+
+440
+00:35:52,840 --> 00:35:59,140
+the world in seven days and said let there be light and then basically gave humans free
+
+441
+00:35:59,140 --> 00:36:06,120
+will to decide what they were going to do and that there are entities outside the physical
+
+442
+00:36:06,120 --> 00:36:10,720
+world watching us and in the Islamic traditions, they get very specific about this.
+
+443
+00:36:10,720 --> 00:36:17,000
+There's names for the recording angels and in Washington DC, there's a statue of a recording
+
+444
+00:36:17,000 --> 00:36:22,280
+angel with what they call the Book of Life in the Bible and in the Quran, they talk about
+
+445
+00:36:22,280 --> 00:36:29,280
+the scroll of deeds which is a list of every single action you've done in your life and
+
+446
+00:36:29,280 --> 00:36:35,400
+so I like to draw the analogy that well, this was all revealed, written depending on your
+
+447
+00:36:35,400 --> 00:36:40,440
+beliefs a couple of thousand years ago and if it was done today, we wouldn't use a
+
+448
+00:36:40,440 --> 00:36:44,360
+metaphor of the book and writing down.
+
+449
+00:36:44,360 --> 00:36:50,320
+How would we describe a situation where there are entities watching every move we make and
+
+450
+00:36:50,320 --> 00:36:55,480
+then they replay it for us at the end of our life where we have to go back and review everything
+
+451
+00:36:55,480 --> 00:36:56,480
+that was done?
+
+452
+00:36:56,480 --> 00:36:58,920
+Well, we do it all the time in video games.
+
+453
+00:36:58,920 --> 00:37:04,520
+We record everything in the 3D world so that it can be replayed and we stream it on Twitch
+
+454
+00:37:04,520 --> 00:37:09,720
+and we put it up on YouTube and so I was involved in a video game company a couple of years
+
+455
+00:37:09,720 --> 00:37:15,120
+ago where we took a 3D game called League of Legends which is very popular in the e-sports
+
+456
+00:37:15,120 --> 00:37:19,320
+world and you play the game on your computer and you have an avatar and you're fighting
+
+457
+00:37:19,320 --> 00:37:24,440
+and you're doing all these fun things and they recorded it but then they let you replay
+
+458
+00:37:24,440 --> 00:37:31,040
+it by putting on a virtual reality headset and if you had shot someone, you could actually
+
+459
+00:37:31,040 --> 00:37:37,280
+replay it from their point of view so you could see the gameplay from any XYZ coordinate
+
+460
+00:37:37,280 --> 00:37:42,160
+but most interesting was to put the coordinates at other players.
+
+461
+00:37:42,160 --> 00:37:46,160
+Well it turns out as you explore this world of consciousness and you explore what people
+
+462
+00:37:46,160 --> 00:37:51,280
+have been talking about in the religious traditions but more recently in near-death experiences
+
+463
+00:37:51,280 --> 00:37:57,040
+and there have been thousands and thousands of cases of near-death experiences since Raymond
+
+464
+00:37:57,040 --> 00:38:03,120
+Moody coined the term back in the 70s and they're remarkably similar and many of them
+
+465
+00:38:03,120 --> 00:38:12,160
+have about some percentage have this thing called a panoramic life review which is basically
+
+466
+00:38:12,160 --> 00:38:17,520
+they recall seeing everything that happened in their lives but seeing it from the point
+
+467
+00:38:17,520 --> 00:38:22,080
+of view of the other people they affected and so there's a friend of mine named Daniel
+
+468
+00:38:22,080 --> 00:38:25,760
+Brinkley, he wrote a book called Saved by the Light and he was basically struck by lightning
+
+469
+00:38:25,760 --> 00:38:31,040
+and had a near-death experience back in the 70s and he's had several since then when
+
+470
+00:38:31,040 --> 00:38:33,240
+he was doing heart surgery etc.
+
+471
+00:38:33,240 --> 00:38:37,040
+But he said he used to be a bully and he used to literally beat people up in school and
+
+472
+00:38:37,040 --> 00:38:41,040
+then he joined the army and special forces and was literally shooting people.
+
+473
+00:38:41,040 --> 00:38:49,880
+He had to go through and relive those experiences from the point of view of the other person.
+
+474
+00:38:49,880 --> 00:38:54,680
+If you think about how could that work and that's kind of how I like to think about
+
+475
+00:38:54,680 --> 00:38:59,640
+things being a computer programmer is how would that work?
+
+476
+00:38:59,640 --> 00:39:02,400
+Well, it wouldn't be that hard if it was a simulation.
+
+477
+00:39:02,400 --> 00:39:07,520
+If it wasn't a simulation, nobody would know how it could be done but if this world
+
+478
+00:39:07,520 --> 00:39:13,280
+was being recorded and you could replay back any time slice at any time at any speed from
+
+479
+00:39:13,280 --> 00:39:20,360
+any position, then that's where the simulation hypothesis intersects very much with what
+
+480
+00:39:20,360 --> 00:39:26,200
+a lot of the religions have been saying and with this idea of angels being these other
+
+481
+00:39:26,200 --> 00:39:30,420
+entities that are watching us and then God being the creator of the simulation however
+
+482
+00:39:30,420 --> 00:39:31,680
+you would define it.
+
+483
+00:39:31,680 --> 00:39:36,880
+So there's a lot of different ways to think about that concept I think.
+
+484
+00:39:36,880 --> 00:39:43,200
+I think this is a good place to read a tweet by Scott Adams, the creator of Dilbert said
+
+485
+00:39:43,200 --> 00:39:48,000
+the closer a civilization gets to being able to program a simulated universe, the closer
+
+486
+00:39:48,000 --> 00:39:50,720
+it gets to discovering it is one.
+
+487
+00:39:50,720 --> 00:39:51,720
+Right.
+
+488
+00:39:51,720 --> 00:39:57,080
+Well, he's a big proponent of the simulation hypothesis and there was an Oxford professor
+
+489
+00:39:57,080 --> 00:40:03,680
+named Nick Bostrom who wrote a paper in 2003 called Are You Living in a Computer Simulation?
+
+490
+00:40:03,680 --> 00:40:07,600
+He's probably the person most responsible for getting this to go from science fiction
+
+491
+00:40:07,600 --> 00:40:11,800
+to academics talking about it more seriously.
+
+492
+00:40:11,800 --> 00:40:19,320
+He's a philosopher and what he said was if any civilization ever gets there, he said
+
+493
+00:40:19,320 --> 00:40:21,640
+first of all there are three possibilities.
+
+494
+00:40:21,640 --> 00:40:25,720
+Civilization never gets to what I call the simulation point where you can create those
+
+495
+00:40:25,720 --> 00:40:26,720
+simulations.
+
+496
+00:40:26,720 --> 00:40:31,840
+Two, it gets there but it decides not to create these ultra realistic simulations or three,
+
+497
+00:40:31,840 --> 00:40:36,880
+it creates these simulations but it creates lots of them and so he said if any civilization
+
+498
+00:40:36,880 --> 00:40:41,920
+in the galaxy ever gets there, they're going to create lots and lots of simulations because
+
+499
+00:40:41,920 --> 00:40:53,480
+all you have to do is crank up another server in the cloud and he estimated that the number
+
+500
+00:40:53,480 --> 00:40:58,920
+of beings that would be in the simulated universes would be way more than the number of beings
+
+501
+00:40:58,920 --> 00:41:05,200
+in the physical universe and therefore if you're a being, then what are you more likely,
+
+502
+00:41:05,200 --> 00:41:07,040
+a simulated being or a physical being?
+
+503
+00:41:07,040 --> 00:41:10,740
+Well, there's more of these than those so simple statistics says you're more likely
+
+504
+00:41:10,740 --> 00:41:16,200
+one of these than one of those and so the idea was if anybody can ever get there, then
+
+505
+00:41:16,200 --> 00:41:20,200
+somebody has already gotten there and if somebody has already gotten there, who's to say we're
+
+506
+00:41:20,200 --> 00:41:28,600
+not inside the simulation already and so that is referred to as the simulation argument.
+
+507
+00:41:28,600 --> 00:41:32,600
+So when I started writing my book, I was exploring the technology, we would need to get there
+
+508
+00:41:32,600 --> 00:41:40,360
+and my conclusion was we'll get there within a hundred years maybe, definitely and so if
+
+509
+00:41:40,360 --> 00:41:46,160
+we're going to get there in a hundred years, that's not very long in the overall scale
+
+510
+00:41:46,160 --> 00:41:51,000
+of the universe assuming it was a physical universe so probably a civilization that was
+
+511
+00:41:51,000 --> 00:41:56,640
+a million years ahead of us so think of where video games would be in a million years and
+
+512
+00:41:56,640 --> 00:42:01,640
+this is a point that Elon Musk makes is that if you assume any rate of improvement at all
+
+513
+00:42:01,640 --> 00:42:06,880
+with video games and you look at today's games, it's funny because I use ping pong
+
+514
+00:42:06,880 --> 00:42:11,600
+as my example that got me really thinking about this but he makes the point that pong
+
+515
+00:42:11,600 --> 00:42:16,400
+was the first widely available computer game in the 70s which was just like two squares
+
+516
+00:42:16,400 --> 00:42:21,040
+and a dot moving back and forth and it was from Atari, it was the first widely available
+
+517
+00:42:21,040 --> 00:42:29,120
+video game and you look at where we've come in 50 years, we're at these ultra realistic
+
+518
+00:42:29,120 --> 00:42:34,840
+virtual worlds like even with this new version of flight simulator I was talking about and
+
+519
+00:42:34,840 --> 00:42:39,800
+give it another 50 years where will we be but give it 10,000 years suppose it goes more
+
+520
+00:42:39,800 --> 00:42:45,240
+slowly than that, we'll definitely get there and so if we're going to get there, who's
+
+521
+00:42:45,240 --> 00:42:48,760
+to say we aren't already there inside the simulation ourselves.
+
+522
+00:42:48,760 --> 00:42:53,080
+Absolutely, so your time frame is 100 years and you said there are 10 steps to get to
+
+523
+00:42:53,080 --> 00:43:01,560
+the point of indistinguishable simulation, you mentioned AI, what number of step would
+
+524
+00:43:01,560 --> 00:43:02,560
+that be?
+
+525
+00:43:02,560 --> 00:43:08,680
+Well, it depends on where the AI is but in my model, it's one of the later steps because
+
+526
+00:43:08,680 --> 00:43:15,880
+I think getting to AGI will take us a little while so it's like step nine, eight or nine.
+
+527
+00:43:15,880 --> 00:43:21,880
+Before that, we're currently at sort of step four where we have augmented reality and virtual
+
+528
+00:43:21,880 --> 00:43:22,880
+reality.
+
+529
+00:43:22,880 --> 00:43:26,480
+Now, the difference between those two with augmented reality is you wear glasses and
+
+530
+00:43:26,480 --> 00:43:32,720
+you see objects around you placed in the physical world that aren't really there and there's
+
+531
+00:43:32,720 --> 00:43:38,360
+a great depiction of this in the HBO show Westworld in the second season where they
+
+532
+00:43:38,360 --> 00:43:41,840
+would put on these little glasses and then somebody will appear who's not really there
+
+533
+00:43:41,840 --> 00:43:43,320
+and you can talk to them.
+
+534
+00:43:43,320 --> 00:43:49,200
+Then the next step is kind of photorealistic AR, VR without headsets.
+
+535
+00:43:49,200 --> 00:43:55,720
+If you think of like in Star Wars in the prequels when Anakin Skywalker is talking to Master
+
+536
+00:43:55,720 --> 00:44:01,240
+Yoda who's on another planet, he sees a little hologram or Princess Leia hologram.
+
+537
+00:44:01,240 --> 00:44:06,080
+The ability to create these holograms and have them be realistic without the need to
+
+538
+00:44:06,080 --> 00:44:11,320
+put on glasses means that we're starting to blur the lines of distinction between what
+
+539
+00:44:11,320 --> 00:44:12,320
+is a physicality.
+
+540
+00:44:12,320 --> 00:44:18,480
+We're already at the point of hologram though with, do you know Hatsune Miku, the virtual
+
+541
+00:44:18,480 --> 00:44:20,680
+Japanese pop singer?
+
+542
+00:44:20,680 --> 00:44:22,760
+Yes, that's right.
+
+543
+00:44:22,760 --> 00:44:24,640
+I have heard of some of them.
+
+544
+00:44:24,640 --> 00:44:28,320
+You had the Tupac, was it the Tupac hologram as well?
+
+545
+00:44:28,320 --> 00:44:29,320
+Right.
+
+546
+00:44:29,320 --> 00:44:32,160
+So Hatsune Miku, entirely virtual.
+
+547
+00:44:32,160 --> 00:44:37,660
+Her band are all human but even her voice is virtually generated and we went to see
+
+548
+00:44:37,660 --> 00:44:43,960
+her show in Toronto and people are interacting with it as if it's a real artist and they
+
+549
+00:44:43,960 --> 00:44:45,520
+are very happy to be there.
+
+550
+00:44:45,520 --> 00:44:50,760
+They have the very same experience and we were given glow sticks that was programmed
+
+551
+00:44:50,760 --> 00:44:51,760
+with the light.
+
+552
+00:44:51,760 --> 00:44:52,760
+It's just insane.
+
+553
+00:44:52,760 --> 00:44:53,760
+Right.
+
+554
+00:44:53,760 --> 00:44:56,760
+So this will just become more mainstream, you were saying.
+
+555
+00:44:56,760 --> 00:45:02,200
+Yeah, become more mainstream and the technology is miniaturized where you can do that.
+
+556
+00:45:02,200 --> 00:45:04,240
+You can take it with you if you will, right?
+
+557
+00:45:04,240 --> 00:45:05,500
+But yeah, we're on that path.
+
+558
+00:45:05,500 --> 00:45:09,600
+Each of these stages isn't like a single, hey, we're there or we're not there.
+
+559
+00:45:09,600 --> 00:45:13,760
+It's more like each of them has a certain percentage of completion if you will to get
+
+560
+00:45:13,760 --> 00:45:20,400
+to that point and with 3D printers are kind of part of that same idea which is that we
+
+561
+00:45:20,400 --> 00:45:23,760
+can take pretty much any physical object now.
+
+562
+00:45:23,760 --> 00:45:29,520
+You could take this water bottle and you can print it using pixels and the only thing that's
+
+563
+00:45:29,520 --> 00:45:34,080
+different is that we don't have all of the materials yet to be able to use pixels but
+
+564
+00:45:34,080 --> 00:45:42,280
+it used to be every 3D printed object was this kind of gray plastic epoxy and now you
+
+565
+00:45:42,280 --> 00:45:46,280
+can start to do it with metal and with living human tissue.
+
+566
+00:45:46,280 --> 00:45:54,320
+I mean they've actually taken blood cells and created skin like what happened with skin
+
+567
+00:45:54,320 --> 00:45:59,480
+that was grafted on before was it wouldn't interface with the rest of your skin because
+
+568
+00:45:59,480 --> 00:46:04,000
+it wasn't really alive in the same way that your skin is alive because it has blood cells
+
+569
+00:46:04,000 --> 00:46:11,600
+in there and so they were able to print skin at least in the lab and graft it on and have
+
+570
+00:46:11,600 --> 00:46:14,960
+the rest of the body think it was just like a regular skin with the same kind of blood
+
+571
+00:46:14,960 --> 00:46:22,920
+cells using that person's own cells and printing up the skin and so you're getting biological
+
+572
+00:46:22,920 --> 00:46:23,920
+3D printers.
+
+573
+00:46:23,920 --> 00:46:29,760
+Now, they're still in the early stages but once you can do printing of different materials,
+
+574
+00:46:29,760 --> 00:46:34,700
+there's a pretty common scene in the old Star Trek The Next Generation where Captain
+
+575
+00:46:34,700 --> 00:46:40,520
+Picard goes into the replicator and says, �Tea, Earl Grey, hot� and it not only
+
+576
+00:46:40,520 --> 00:46:46,360
+materializes the cup but it materializes the Earl Grey liquid inside and then he takes
+
+577
+00:46:46,360 --> 00:46:52,920
+that and he starts drinking it and so that's kind of an advanced 3D printer that can print
+
+578
+00:46:52,920 --> 00:46:55,720
+food as well as physical objects.
+
+579
+00:46:55,720 --> 00:46:58,260
+We're not that far away from that.
+
+580
+00:46:58,260 --> 00:47:04,760
+So what we don't have is these brain-computer interfaces and so that's like stage 7 before
+
+581
+00:47:04,760 --> 00:47:09,400
+getting to AI and then downloadable consciousness and so brain-computer interface, if you remember
+
+582
+00:47:09,400 --> 00:47:15,760
+the Matrix, Neo thought he was immersed because when he woke up, Keanu Reeves' character
+
+583
+00:47:15,760 --> 00:47:22,560
+outside the Matrix, he had a wire going into the back of his head into his Neo cortex and
+
+584
+00:47:22,560 --> 00:47:26,600
+so that's actually an area that's pretty popular these days.
+
+585
+00:47:26,600 --> 00:47:32,120
+Elon Musk has a company called Neuralink which is putting some chips in the head and there
+
+586
+00:47:32,120 --> 00:47:37,960
+are other groups that have done research where these chips can be used to help with deficiency
+
+587
+00:47:37,960 --> 00:47:47,560
+or if someone is paralyzed but BCIs are still in the early stages and much of them are non-invasive.
+
+588
+00:47:47,560 --> 00:47:52,860
+What they do is they just measure the EEG signals coming out of the brain and they use
+
+589
+00:47:52,860 --> 00:47:57,520
+those brain waves along with other cues like muscle impulses.
+
+590
+00:47:57,520 --> 00:48:02,240
+There's a company that I wrote about recently, an article about BCI where they want to speed
+
+591
+00:48:02,240 --> 00:48:05,720
+up your ability to play video games and so from the time it takes you to say I want to
+
+592
+00:48:05,720 --> 00:48:10,360
+shoot this person to pressing the button on the controller, it takes a couple hundred
+
+593
+00:48:10,360 --> 00:48:16,840
+milliseconds and so they detect the electrical impulse in the muscles and they go and they
+
+594
+00:48:16,840 --> 00:48:21,720
+do it in the game much faster than you could on your own and so there's a lot of tricks
+
+595
+00:48:21,720 --> 00:48:24,680
+like that that are being used today in BCI.
+
+596
+00:48:24,680 --> 00:48:30,520
+I actually think this is where this idea of what is the mind, what is the brain, what
+
+597
+00:48:30,520 --> 00:48:34,840
+is consciousness really comes up.
+
+598
+00:48:34,840 --> 00:48:40,840
+There's actually been some experiments done at Pair, the Princeton's Engineering Anomalies
+
+599
+00:48:40,840 --> 00:48:46,840
+Research Institute where they showed they were using quantum random number generators
+
+600
+00:48:46,840 --> 00:48:51,920
+and the idea is that over time, they should be 50-50 if it was just doing ones and zeros
+
+601
+00:48:51,920 --> 00:48:58,720
+or coin toss right after a thousand tries or 10,000 tries and they found that a human
+
+602
+00:48:58,720 --> 00:49:04,800
+could influence those quantum random number generators based upon what they were thinking.
+
+603
+00:49:04,800 --> 00:49:08,800
+That's a form of observation, right?
+
+604
+00:49:08,800 --> 00:49:11,920
+It's a form of observation or measurement, better to say.
+
+605
+00:49:11,920 --> 00:49:16,720
+Measurement but they found that if a person sat there with an intention, it would actually
+
+606
+00:49:16,720 --> 00:49:17,720
+change.
+
+607
+00:49:17,720 --> 00:49:20,360
+The measurement didn't happen necessarily until later so there's the measurement side
+
+608
+00:49:20,360 --> 00:49:25,520
+of it but leaving that aside for a second, they found that when they measured it, depending
+
+609
+00:49:25,520 --> 00:49:32,560
+on what the person was thinking, that it would go from 50-50 to like 40-60 which is actually
+
+610
+00:49:32,560 --> 00:49:35,840
+a pretty big variance when you get to 10,000 tries.
+
+611
+00:49:35,840 --> 00:49:39,760
+When you're doing 10 tries, that's not a big deal at all but when you flip a coin that
+
+612
+00:49:39,760 --> 00:49:46,560
+many times, it shouldn't vary that much and they had Pair published peer-reviewed research
+
+613
+00:49:46,560 --> 00:49:52,400
+in that and there was a company, they made something called a mind lamp where you can
+
+614
+00:49:52,400 --> 00:49:55,840
+actually think of a color that they're using quantum random number generators.
+
+615
+00:49:55,840 --> 00:50:02,400
+Now that's a way to try to get that brain-computer interface without actually physically tapping
+
+616
+00:50:02,400 --> 00:50:04,000
+into the physical brain.
+
+617
+00:50:04,000 --> 00:50:08,520
+I was talking to somebody the other day and they said, well, that would be a mind-computer
+
+618
+00:50:08,520 --> 00:50:15,640
+interface as opposed to a brain-computer interface so that's all part of this big stage and
+
+619
+00:50:15,640 --> 00:50:21,360
+I think to get fully immersive, we would have to be able to beam signals into the brain
+
+620
+00:50:21,360 --> 00:50:26,920
+and then take signals out of the brain and then there's AI which would be realistic
+
+621
+00:50:26,920 --> 00:50:32,120
+characters and then there's this idea of downloading consciousness which is kind of
+
+622
+00:50:32,120 --> 00:50:36,040
+wrapping up our whole consciousness within that and then we get to the simulation point
+
+623
+00:50:36,040 --> 00:50:41,400
+and so when I laid these stages of technology out there, I thought about my other research
+
+624
+00:50:41,400 --> 00:50:46,160
+into the realm of consciousness and realized, well, we already have all of these stages
+
+625
+00:50:46,160 --> 00:50:52,280
+of technology in biological form and we do it every night, they're called dreams.
+
+626
+00:50:52,280 --> 00:50:57,160
+We have these simulated worlds, we're completely immersed in them, we're forgetting that
+
+627
+00:50:57,160 --> 00:51:03,240
+there's a part of us outside of that world that is kind of like Neo laying there.
+
+628
+00:51:03,240 --> 00:51:08,520
+We take our input from our mind and the world changes based on that input.
+
+629
+00:51:08,520 --> 00:51:13,000
+We get things sent to us in very high resolution, it's fully immersive.
+
+630
+00:51:13,000 --> 00:51:19,520
+So what we're really learning to do is reproduce this biological technology that already exists.
+
+631
+00:51:19,520 --> 00:51:23,260
+So I thought that was kind of an interesting realization when I looked at the technology
+
+632
+00:51:23,260 --> 00:51:29,160
+but yeah, back to your original point, I think a hundred years or so is roughly the time
+
+633
+00:51:29,160 --> 00:51:30,160
+frame.
+
+634
+00:51:30,160 --> 00:51:31,160
+Some people think it will be much earlier.
+
+635
+00:51:31,160 --> 00:51:36,760
+I think that the AGI in particular part will prove more difficult than people think.
+
+636
+00:51:36,760 --> 00:51:42,320
+Hey, speaking of already existed biological technology, did you look into the effect or
+
+637
+00:51:42,320 --> 00:51:46,760
+influence of psychedelics in the context of simulation hypothesis?
+
+638
+00:51:46,760 --> 00:51:53,200
+A lot of people have brought that up to me to say that this is a great way for people
+
+639
+00:51:53,200 --> 00:51:54,200
+to explore it.
+
+640
+00:51:54,200 --> 00:51:58,280
+I haven't personally explored it but there have been people that have written about it.
+
+641
+00:51:58,280 --> 00:52:00,600
+There's a couple of things online about it.
+
+642
+00:52:00,600 --> 00:52:09,360
+I remember I was sitting down with director Oliver Stone with his son, Sean Stone, who
+
+643
+00:52:09,360 --> 00:52:14,280
+is a documentary filmmaker and he goes, �Oh yeah, all you have to do is try some of these
+
+644
+00:52:14,280 --> 00:52:16,880
+psychedelics and you'll realize that this is all just a simulation.�
+
+645
+00:52:16,880 --> 00:52:17,880
+Smoke DMT.
+
+646
+00:52:17,880 --> 00:52:25,120
+Yeah, DMT, exactly, ayahuasca and you'll see you don't need any further proof than that.
+
+647
+00:52:25,120 --> 00:52:28,960
+So I haven't experimented with that but I have heard a lot of people tell me that the
+
+648
+00:52:28,960 --> 00:52:34,520
+experiences they've had there seem like you get into these other levels of reality and
+
+649
+00:52:34,520 --> 00:52:39,560
+so there's obviously a lot of debate about these things in the scientific community.
+
+650
+00:52:39,560 --> 00:52:40,840
+What's really going on?
+
+651
+00:52:40,840 --> 00:52:43,680
+Same debate as with near-death experiences, what's really going on?
+
+652
+00:52:43,680 --> 00:52:49,920
+Is it just the oxygen in the brain, seeing something that looks like a light but there's
+
+653
+00:52:49,920 --> 00:52:51,200
+lots of counter-arguments there.
+
+654
+00:52:51,200 --> 00:52:57,080
+So I actually put some stock that this is something that shamans have done for a long
+
+655
+00:52:57,080 --> 00:53:02,560
+time in many traditions and they have what they call non-ordinary reality that they visit
+
+656
+00:53:02,560 --> 00:53:08,560
+with the use of psychotropic plants or power plants as they're called.
+
+657
+00:53:08,560 --> 00:53:15,200
+In some cases, what I have experimented with is simple shamanic journeying using drumming.
+
+658
+00:53:15,200 --> 00:53:20,600
+What happens is you use a rhythmic beat and meanwhile your breathing stabilizes and you
+
+659
+00:53:20,600 --> 00:53:25,160
+can kind of visit these other worlds which is the technique that shamans have been using
+
+660
+00:53:25,160 --> 00:53:26,160
+for a long time.
+
+661
+00:53:26,160 --> 00:53:32,120
+What's really interesting, getting back to this idea of dreams, you might say well
+
+662
+00:53:32,120 --> 00:53:36,720
+these are just individual hallucinations is you can have group shamanic journeys so you
+
+663
+00:53:36,720 --> 00:53:42,360
+can have multiple people go and see things and report back and you can see commonalities
+
+664
+00:53:42,360 --> 00:53:47,600
+between what different people saw which leads you to believe that there is a reality to
+
+665
+00:53:47,600 --> 00:53:49,640
+this non-ordinary reality.
+
+666
+00:53:49,640 --> 00:53:55,840
+So are there other levels of this reality out there which is perhaps similar to what
+
+667
+00:53:55,840 --> 00:54:01,320
+people might experience although much more intensely I think with DMT?
+
+668
+00:54:01,320 --> 00:54:09,000
+My first experience with NNDMT, not the 5-Emeo that comes from the Toad, but NNDMT, I saw
+
+669
+00:54:09,000 --> 00:54:13,400
+massive pyramids and Aztec kind of symbology.
+
+670
+00:54:13,400 --> 00:54:18,600
+The days later I was like these people probably had the similar kind of experience that you
+
+671
+00:54:18,600 --> 00:54:25,000
+see similar kind of shape buildings from Australia to Egypt to Peru and Mexico and we're not
+
+672
+00:54:25,000 --> 00:54:28,360
+even talking about any of them, you're all aliens.
+
+673
+00:54:28,360 --> 00:54:30,120
+Right, that's true.
+
+674
+00:54:30,120 --> 00:54:38,000
+There's a lot of alien phenomena theorizing particularly on the history channel about
+
+675
+00:54:38,000 --> 00:54:43,600
+these things but I do believe that a lot of ancient civilizations had much better understanding
+
+676
+00:54:43,600 --> 00:54:52,160
+of consciousness and that might have led to different states of consciousness.
+
+677
+00:54:52,160 --> 00:54:59,240
+My girlfriend and I visited the pyramids many years ago and when I was there, I remember
+
+678
+00:54:59,240 --> 00:55:05,200
+having these visions that included things like out-of-body experiences in places like
+
+679
+00:55:05,200 --> 00:55:10,560
+the pyramids and it kind of led me to believe that there's something going on here that
+
+680
+00:55:10,560 --> 00:55:18,160
+I was either remembering that was related to research that I had done later after that
+
+681
+00:55:18,160 --> 00:55:22,080
+on out-of-body experiences and lucid dreaming and what happens when you're dreaming.
+
+682
+00:55:22,080 --> 00:55:25,600
+That's why I find dreaming to be such a fascinating subject.
+
+683
+00:55:25,600 --> 00:55:30,200
+It's probably one of the oldest subjects for people to write about and going back to
+
+684
+00:55:30,200 --> 00:55:34,360
+the Bible because it's so universal but it's also so complicated.
+
+685
+00:55:34,360 --> 00:55:39,440
+I mean I've talked about shamanic journeying, I used to study that with a gentleman named
+
+686
+00:55:39,440 --> 00:55:44,920
+Robert Moss who is an Australian who studied with Aborigines and learned about their ideas
+
+687
+00:55:44,920 --> 00:55:50,120
+of the dream time and how there's a dream reality and then there's this reality and
+
+688
+00:55:50,120 --> 00:55:55,760
+what is the real reality and so this metaphor of the dream was used within Buddhism and
+
+689
+00:55:55,760 --> 00:56:01,520
+other places and I studied a little bit of Tibetan dream yoga and the idea was if you
+
+690
+00:56:01,520 --> 00:56:05,680
+can wake up within a dream using lucid dreaming techniques and they have other techniques
+
+691
+00:56:05,680 --> 00:56:09,640
+beyond what we would call lucid dreaming which is the more modern way of talking about it
+
+692
+00:56:09,640 --> 00:56:13,640
+but if you can wake up and know that it's a dream and know that there's a part of you
+
+693
+00:56:13,640 --> 00:56:19,440
+outside the dream, then they use that as a wrench if you will or a lever to kind of get
+
+694
+00:56:19,440 --> 00:56:24,560
+you to realize the illusory form of the waking reality that there is another part of you
+
+695
+00:56:24,560 --> 00:56:29,640
+that's outside of that and so that's why I spend a whole chapter talking about dreams
+
+696
+00:56:29,640 --> 00:56:36,800
+not just as a metaphor which is very much how it's used that life is like a dream
+
+697
+00:56:36,800 --> 00:56:43,280
+or the play, in the Hindu traditions there's the lila, the grand play which is a metaphor
+
+698
+00:56:43,280 --> 00:56:48,480
+that Shakespeare used talking about how life is a stage and the men and women are merely
+
+699
+00:56:48,480 --> 00:56:54,120
+players on it but I like to think that if these things were written about today we would
+
+700
+00:56:54,120 --> 00:56:59,800
+say life is an interactive video game and we're all avatars within the game.
+
+701
+00:56:59,800 --> 00:57:02,920
+That would be the metaphor that we would use because it's one that makes a little more
+
+702
+00:57:02,920 --> 00:57:08,880
+sense and can bridge the gap between science, technology and a lot of these spiritual traditions.
+
+703
+00:57:08,880 --> 00:57:13,720
+Wow, well this book everybody should go and buy it, it's called The Simulation Hypothesis
+
+704
+00:57:13,720 --> 00:57:19,520
+and MIT Computer Scientist shows why AI, Quantum Physics and Eastern Mystics all agree we are
+
+705
+00:57:19,520 --> 00:57:21,080
+in a video game.
+
+706
+00:57:21,080 --> 00:57:27,440
+Before we wrap this up, I don't want to keep you too long but I can go on for hours
+
+707
+00:57:27,440 --> 00:57:31,800
+man, this is amazing.
+
+708
+00:57:31,800 --> 00:57:37,640
+The intersection of consciousness, technology and philosophy is a very interesting area
+
+709
+00:57:37,640 --> 00:57:42,840
+and a lot of people are very dismissive of it but I think that is exactly the point.
+
+710
+00:57:42,840 --> 00:57:51,280
+It makes people think in ways that they wouldn't otherwise and I think that's why a lot of
+
+711
+00:57:51,280 --> 00:57:54,040
+people are talking about it today but I also think there's a lot of people who normally
+
+712
+00:57:54,040 --> 00:58:01,800
+do not want to talk about philosophy or the nature of reality that this is a way in for
+
+713
+00:58:01,800 --> 00:58:03,520
+them to talk about these things.
+
+714
+00:58:03,520 --> 00:58:04,520
+Absolutely.
+
+715
+00:58:04,520 --> 00:58:08,800
+Let's also really quickly talk about your new book that came out in June I believe of
+
+716
+00:58:08,800 --> 00:58:14,280
+this year called Startup Myth and Models What You Won't Learn in Business School.
+
+717
+00:58:14,280 --> 00:58:15,740
+What is the summary of the book?
+
+718
+00:58:15,740 --> 00:58:21,680
+What is your thesis and what is the main message you want the readers to take away from it?
+
+719
+00:58:21,680 --> 00:58:28,440
+This book I wrote over the last 25 years of working as an entrepreneur, initially as a
+
+720
+00:58:28,440 --> 00:58:34,240
+founder and then as a board member and investor and then the subtitle of the book was supposed
+
+721
+00:58:34,240 --> 00:58:38,780
+to be What You Won't Learn at Stanford Business School but it was published by the
+
+722
+00:58:38,780 --> 00:58:44,080
+Columbia University Press so they said, well, we can't really take a pot shot at Stanford
+
+723
+00:58:44,080 --> 00:58:49,240
+but when I was at business school, what I found was that a lot of what they taught us
+
+724
+00:58:49,240 --> 00:58:57,420
+applied to mature industries and applied to public companies but it didn't always apply
+
+725
+00:58:57,420 --> 00:59:03,500
+to startups that startups needed a different set of models for thinking about how startup
+
+726
+00:59:03,500 --> 00:59:05,000
+markets evolved.
+
+727
+00:59:05,000 --> 00:59:09,200
+I remember in one of the classes, literally the guy who wrote the textbook on decision
+
+728
+00:59:09,200 --> 00:59:13,440
+modeling, it was a textbook on how to make extremely complicated Excel spreadsheets
+
+729
+00:59:13,440 --> 00:59:18,840
+and you would plug in all the numbers, scenario A, B, and C and then you would see the results
+
+730
+00:59:18,840 --> 00:59:22,940
+and you'd say, oh, this number is better than that number which is not as good as this
+
+731
+00:59:22,940 --> 00:59:26,520
+number so we're going to pick C and I remember raising my hand and saying, well, what if
+
+732
+00:59:26,520 --> 00:59:30,160
+you just change the numbers on the left, the inputs, he goes, well, then all the numbers
+
+733
+00:59:30,160 --> 00:59:33,120
+on the right change and I said, well, how do you know what numbers to put in?
+
+734
+00:59:33,120 --> 00:59:38,640
+He said, well, that's where you have to use your gut as a manager, that's why they pay
+
+735
+00:59:38,640 --> 00:59:43,840
+you the big bucks and turns out as an entrepreneur, spreadsheets are pretty meaningless because
+
+736
+00:59:43,840 --> 00:59:49,200
+there isn't any history now in big companies, the best bet of the future is the past.
+
+737
+00:59:49,200 --> 00:59:54,140
+You look at probabilities of what's happened in the past but the whole reason there is
+
+738
+00:59:54,140 --> 00:59:58,440
+a market for startups is because the past is not equal to future.
+
+739
+00:59:58,440 --> 01:00:03,140
+I grew up in Detroit, Michigan and one of my friends went to work for General Motors
+
+740
+01:00:03,140 --> 01:00:07,800
+and when the Toyota Prius came out as a hybrid car a few years ago and the Japanese companies
+
+741
+01:00:07,800 --> 01:00:11,960
+were coming out with hybrid cars quickly, I asked him, why hasn't GM released one
+
+742
+01:00:11,960 --> 01:00:15,560
+and he goes, well, we did the spreadsheets and it just didn't make financial sense
+
+743
+01:00:15,560 --> 01:00:17,600
+for us.
+
+744
+01:00:17,600 --> 01:00:22,360
+One of the main messages in the book is that the startup world is different than the traditional
+
+745
+01:00:22,360 --> 01:00:27,240
+finance world and that you have to follow a different set of rules and they're not
+
+746
+01:00:27,240 --> 01:00:31,760
+really rules, you can't systemize everything, everyone's like, I want to know if I do
+
+747
+01:00:31,760 --> 01:00:39,000
+A, B and C, 1, 2, 3, then I will have a successful startup and my degree at Stanford is in management
+
+748
+01:00:39,000 --> 01:00:44,080
+science but management is partly a science but it's partly an art, there's a lot
+
+749
+01:00:44,080 --> 01:00:48,080
+of interpersonal stuff that happens and I would say the same with startups.
+
+750
+01:00:48,080 --> 01:00:53,200
+You can teach you how to put together a deck, how to do a market sizing, how to put together
+
+751
+01:00:53,200 --> 01:00:57,040
+a business plan, how to build a product, how to be a product manager, how to measure results
+
+752
+01:00:57,040 --> 01:01:02,800
+but you can't guarantee that following any of those steps will lead to success so there
+
+753
+01:01:02,800 --> 01:01:09,360
+is a formless element and it's much more like an adventure so I use the idea from mythology
+
+754
+01:01:09,360 --> 01:01:12,400
+of Joseph Campbell's hero's journey.
+
+755
+01:01:12,400 --> 01:01:17,240
+He looked at all the myths of the world and found that many of them from the Odyssey to
+
+756
+01:01:17,240 --> 01:01:23,200
+Beowulf and even more recent ones like Lord of the Rings or Star Wars follow these stages
+
+757
+01:01:23,200 --> 01:01:26,360
+and turns out the entrepreneurial journey can be summarized in these stages where you
+
+758
+01:01:26,360 --> 01:01:31,400
+have a call to adventure, you might refuse the call, you cross the threshold and you
+
+759
+01:01:31,400 --> 01:01:35,640
+find yourself in the road of trials which is when you release the product and you realize
+
+760
+01:01:35,640 --> 01:01:39,600
+oh my God, things are not going like I thought they would and you have to get out there and
+
+761
+01:01:39,600 --> 01:01:42,880
+figure out how to get through these challenges that crop up along the way.
+
+762
+01:01:42,880 --> 01:01:47,840
+You have these archetypes like mentors and gatekeepers just like in the old stories,
+
+763
+01:01:47,840 --> 01:01:53,960
+these colorful characters, it's like a video game in a way and then you often have a trip
+
+764
+01:01:53,960 --> 01:02:00,400
+to the underworld, I mean Odysseus literally went down to Hades in the Lord of the Rings,
+
+765
+01:02:00,400 --> 01:02:04,240
+they went to the mines of Moria in entrepreneurship.
+
+766
+01:02:04,240 --> 01:02:08,760
+Often there's a life or death, not necessarily your physical life or death but life or death
+
+767
+01:02:08,760 --> 01:02:12,760
+of the company and so the book is laid out in the stages of the hero's journey to then
+
+768
+01:02:12,760 --> 01:02:17,060
+find the treasure which you might think of means selling your company for a lot of money
+
+769
+01:02:17,060 --> 01:02:21,920
+or going public but really the treasure is as Joseph Campbell would call it, a magic
+
+770
+01:02:21,920 --> 01:02:27,240
+elixir that you can take back into the normal everyday world and so it's really about how
+
+771
+01:02:27,240 --> 01:02:32,200
+this journey changes you as a person and how you make decisions along the way.
+
+772
+01:02:32,200 --> 01:02:35,840
+That's kind of a long summary of what this book is about.
+
+773
+01:02:35,840 --> 01:02:36,840
+That's amazing.
+
+774
+01:02:36,840 --> 01:02:41,760
+It reminded me of something I think Naval Ravikant was talking about that even if you
+
+775
+01:02:41,760 --> 01:02:46,200
+talk to successful people how they did it, they can't really tell you or the honest
+
+776
+01:02:46,200 --> 01:02:49,360
+ones are not like I don't know.
+
+777
+01:02:49,360 --> 01:02:53,680
+That's right, the honest ones will tell you that there's a lot more luck involved than
+
+778
+01:02:53,680 --> 01:02:57,920
+just follow steps one, two or three and luck may not be the right word.
+
+779
+01:02:57,920 --> 01:03:03,880
+I think it ties very much to the situation and the personality of the person in that
+
+780
+01:03:03,880 --> 01:03:08,640
+situation so there's the internal and the external side of these things and then those
+
+781
+01:03:08,640 --> 01:03:14,960
+have to align and when they do that maybe leads to more financial success but in either
+
+782
+01:03:14,960 --> 01:03:19,680
+way you will learn a lot about yourself on the entrepreneurial journey.
+
+783
+01:03:19,680 --> 01:03:25,080
+Well, Riz, we definitely have optimized many years worth of knowledge in this almost an
+
+784
+01:03:25,080 --> 01:03:30,520
+hour, a little more than an hour conversation, really appreciate it.
+
+785
+01:03:30,520 --> 01:03:34,200
+What's next for you and where our audience can follow your work?
+
+786
+01:03:34,200 --> 01:03:40,640
+Sure, so they can go to my website which is zenentrepreneur.com or follow me on Twitter
+
+787
+01:03:40,640 --> 01:03:46,800
+at Riz Stanford and I'm working on some additional books right now in the early days
+
+788
+01:03:46,800 --> 01:03:53,240
+and still doing technology investing and helping entrepreneurs get their game companies and
+
+789
+01:03:53,240 --> 01:03:59,600
+virtual reality companies off the ground and at some point I may try to establish an institute
+
+790
+01:03:59,600 --> 01:04:04,160
+doing research on all of these different stages that I talked about for the simulation point
+
+791
+01:04:04,160 --> 01:04:09,320
+to be a focal point for bringing all this stuff together but that's probably in the
+
+792
+01:04:09,320 --> 01:04:10,320
+long term.
+
+793
+01:04:10,320 --> 01:04:14,080
+Yeah, so you're still investing in startups and people can pitch to you.
+
+794
+01:04:14,080 --> 01:04:18,840
+Yeah, so I'm a venture partner at a couple of venture funds, one's called Griffin Gaming
+
+795
+01:04:18,840 --> 01:04:22,840
+Partners and one's called Ridge Ventures, one does enterprise software and one does
+
+796
+01:04:22,840 --> 01:04:28,180
+more video games and so you can connect with me on LinkedIn or go to my website and contact
+
+797
+01:04:28,180 --> 01:04:30,240
+me there as well at zenentrepreneur.com.
+
+798
+01:04:30,240 --> 01:04:31,760
+Okay, amazing.
+
+799
+01:04:31,760 --> 01:04:37,080
+Let me ask you the last question that now it has a different meaning to me because you'll
+
+800
+01:04:37,080 --> 01:04:42,440
+know why, I ask all my guests that if you come across an intelligent alien from a different
+
+801
+01:04:42,440 --> 01:04:46,560
+civilization, what would you say is the worst thing humanity has done and what would you
+
+802
+01:04:46,560 --> 01:04:48,960
+say is a greatest achievement?
+
+803
+01:04:48,960 --> 01:04:55,400
+But now I'm thinking how do we know who those aliens are in this simulation hypothesis?
+
+804
+01:04:55,400 --> 01:05:00,920
+Right, I mean I'll answer it using superheroes.
+
+805
+01:05:00,920 --> 01:05:05,780
+What happened in the 19th century is we got a much better understanding of the physical
+
+806
+01:05:05,780 --> 01:05:09,200
+universe and there are stars and there are planets.
+
+807
+01:05:09,200 --> 01:05:15,140
+So what's happened is a lot of the superheroes in the 20th century were like supermen from
+
+808
+01:05:15,140 --> 01:05:16,680
+the planet Krypton, right?
+
+809
+01:05:16,680 --> 01:05:21,080
+So they're from out there and they come here and they have different powers.
+
+810
+01:05:21,080 --> 01:05:27,800
+If you look at superheroes today, like when my nephews, they watched The Flash on TV,
+
+811
+01:05:27,800 --> 01:05:30,240
+they have parallel universes.
+
+812
+01:05:30,240 --> 01:05:34,720
+Supergirl is in her own parallel universe and you have Earth 1, Earth 2 or 3.
+
+813
+01:05:34,720 --> 01:05:39,760
+So just now, this idea of parallel universes and multiple timelines is starting to creep
+
+814
+01:05:39,760 --> 01:05:46,600
+into the popular consciousness and so this idea of aliens, it may almost be a 20th century
+
+815
+01:05:46,600 --> 01:05:51,720
+idea that in fact, if they showed up, it could be that they're piercing through from a different
+
+816
+01:05:51,720 --> 01:05:54,800
+level of reality.
+
+817
+01:05:54,800 --> 01:05:59,600
+So it's possible that those people out there who say they've seen UFOs and aliens and
+
+818
+01:05:59,600 --> 01:06:04,280
+those people who say the Fermi paradox is true and we have no sign of aliens, both could
+
+819
+01:06:04,280 --> 01:06:08,920
+be right in the sense that they're not actually physical aliens coming from other planets.
+
+820
+01:06:08,920 --> 01:06:12,360
+They're actually piercing through from another level of reality.
+
+821
+01:06:12,360 --> 01:06:17,240
+So my guess is they've already been watching us to a certain extent.
+
+822
+01:06:17,240 --> 01:06:22,560
+So what would you say is the worst thing humanity has done and what is our greatest achievement?
+
+823
+01:06:22,560 --> 01:06:25,560
+That's a good question.
+
+824
+01:06:25,560 --> 01:06:31,440
+The worst and the best are probably both represented by the world's religions, right?
+
+825
+01:06:31,440 --> 01:06:35,280
+I feel like they have brought out the best of humanity in trying to understand and how
+
+826
+01:06:35,280 --> 01:06:39,560
+we treat others but they've also brought out the worst of humanity in religious wars
+
+827
+01:06:39,560 --> 01:06:44,160
+and bigotry and in wanting to conquer each other.
+
+828
+01:06:44,160 --> 01:07:13,000
+So I guess I'd give the same answer for both.
+
