@@ -1,0 +1,1726 @@
+when you overly centralize power
+or you overly centralize the culture,
+like the cultural permissibility,
+you end up breaking the system.
+And the fact of the matter is just that,
+humans are different, like we're all different.
+And that's the cool thing about us, actually.
+It's what I love the most is,
+when I talk to somebody,
+you don't know what's gonna happen, right?
+They could be end up being your best friend
+or you could just be like, I didn't like that guy at all.
+Right?
+And it's just, that's our beauty and that's our curse, right?
+Cause sometimes we're too different to get along.
+And other times we're just different enough to cooperate,
+but we're not gonna be friends, but we'll be colleagues,
+like, you know, and everything in between.
+And when you overly centralize power
+to people of a specific kind of belief
+or a specific kind of background,
+you're always going to neglect the people
+that are towards the extremity
+of wherever you sit on that spectrum.
+And so that is never going to create stability
+because eventually everyone else
+is gonna start teaming up on you
+and you're going to effectively be an imperialist
+within your own country.
+And this happens whenever you see
+the centralization of power, right?
+Every single major historical example
+of a complex society that has collapsed,
+has collapsed effectively because it overly centralized
+economic decision-making and overly pushed that
+to deal with problems that it itself was creating.
+["The 100th Episode"]
+All right, Justin, Elaine,
+welcome to what's supposed to be the 100th episode.
+I know I told you that,
+but my guests canceled on the day of,
+so we're on the 99th episode of Neo Human Podcast.
+Still a pretty good number.
+That's a very good number.
+That's a very good number.
+Yeah, thank you.
+Thank you for your time
+and thank you for being here, man.
+Really appreciate it.
+Yeah, thanks for having me.
+I'm happy to be here.
+I think this is gonna be fun.
+Yeah, I saw you on War Room
+and I thought your research
+is about something very, very interesting.
+It's about, from my perspective,
+about the tool and the intention behind the tool,
+which is AI and religion.
+So I'm hoping that we get to that,
+but before getting into any of that,
+I'm talking about your book.
+You also have a new book.
+Congratulations about that.
+Understanding Religion Through Artificial Intelligence,
+Bonding, and Belief.
+We'll be talking about that too,
+but just so we can have some kind of a context,
+let's start with your background,
+the works you've done, the lives you've lived,
+and what are you mainly focused on now these days?
+Yeah, so I've lived many lives
+in my short time on this earth.
+I've been very blessed in that regard.
+So I'm originally from the DC area,
+kind of grew up in a really small town
+on the Eastern Shore of Maryland,
+where it's just chicken coops and corn fields mostly.
+And that's, it kind of ties back in later,
+which is why I mentioned this.
+I did my undergraduate studies in religion, actually,
+at the University of Vermont,
+where I got really interested actually
+in this idea that every culture
+and every group of people
+throughout all of human history has had religion.
+And I grew up in the Methodist Church,
+and I had a really positive experience in the church
+as a kid for the most part.
+And then, of course, I was in high school around 9-11.
+And on the one hand, I have my personal experience,
+which is positive with religion.
+It was really a bedrock for my family growing up.
+And then, of course, I also see
+that religion can breed terrorism.
+And so it kind of just led to a lot of questions in my mind.
+And I kind of set off to try and answer the question of,
+why do people do things that are so irrational
+as kill themselves in the name of their God?
+But then also, how can this one thing,
+how can these deeply held beliefs
+and how can our faith inspire both beauty and horror?
+And it kind of set me off in that curiosity,
+that curiosity set me off in my direction.
+I realized around the time
+that I was finishing my degree, actually,
+that being able to program computers,
+it was a skill that I had that was fairly unique
+amongst people who study religion.
+Most people who study religion, they read texts.
+My languages in college were Latin and ancient Greek,
+not Python or Java,
+which is what I use to study religion now.
+So it really kind of set me down that path.
+And I realized I had to go to Europe
+to kind of study this further.
+American universities
+are not into a scientific approach to religion.
+They really want to push this sort of like
+hard post-modernist ideology.
+They want to look at cultural relativism
+and everything has to be described.
+And science is just kind of like
+lensing this imperial patriarchy
+over top of other people.
+And that wasn't going anywhere for me.
+It really, I needed to be able
+to use the scientific approach.
+And so I went to Belfast, actually, in Northern Ireland.
+Of course, Belfast is well known for the troubles
+that they've had between the Protestants and the Catholics
+for years, for decades at this point.
+And so living there kind of also framed it.
+And I said, okay, well, I've studied conflict,
+I've studied AI,
+and now I also want to try and study stability.
+And so I did my doctoral research at Oxford University
+where for part of that, actually,
+and I did my doctoral research
+in anthropology department, believe it or not,
+where I used data science and AI
+to try and answer critical questions
+about why large scale religions persist
+the way they do today.
+And I went to Singapore actually to validate this
+because Singapore is the most religiously diverse nation
+on earth.
+And it is insanely stable
+given its levels of diversity on every metric.
+So it's kind of an anomaly.
+So I wanted to study that and see, you know,
+what can I learn?
+How can I compare it to Belfast?
+How can I compare it to what I see in America?
+You know, what does that kind of mean?
+And that kind of set me off on my journey
+of what brought me to Europe and went back,
+did some teaching and some work at Boston University
+for a few years as a postdoctoral fellow
+at the Center for Mind and Culture
+and then came back to Europe and started working,
+really doing consultancy and then started a private company
+that does work in simulation and data analytics
+to try and help people, you know, navigate social media
+without having to rely on censorship
+and without having to rely on the sensationalist algorithms
+of like Twitter and Facebook
+to kind of promote material in a negative way.
+So trying to, you know, make social media fun again.
+That's a noble objective.
+Thanks, I might be doomed to fail, but I'm doomed to try.
+Well, I mean, it really is about,
+you mentioned you were wondering about how religion
+give birth to the worst and the best of humanity,
+but it really seems to be the natural,
+undeniable natural reality of who we are
+that we are capable of doing the worst
+and we are capable of doing the best.
+And, you know, some would even say
+that one wouldn't exist without the other.
+So we have to take them all together.
+So this is an interesting point with respect to religions
+and then AI, because AI is being used
+as an underlaying of some kind of a system
+that as you put it, brings some kind of a stability
+with respect or we're having in mind
+to have a certain degree of respect
+for diversity of thoughts and ideas and perspectives
+and, you know, all those kinds of philosophies
+and worldviews.
+Yeah, I think, yeah, and I also think, you know,
+it's interesting to think of those things
+as, you know, the positive with the negative.
+You know, in some cases, religion is a tool
+that people leverage for their own means, right?
+A lot of people pick and choose different things
+in a religious text just to justify what they're gonna do
+and what they really wanna do is political actually.
+And they just want religion to justify it.
+It's a flag that they fly more than anything else.
+And in that regards, you know, any tool
+when it's used for good can do great things
+and when it's used for evil can do horrible things, right?
+So, you know, AI also is like that.
+Artificial intelligence, of course,
+can automate all sorts of interesting things.
+You know, it protects us from fraud on our credit cards,
+but it also is exacerbating social instability globally,
+I think, because of the way that it selectively promotes
+sensationalism on social media
+and the way that it's constantly pinging us,
+you know, in our brains, basically, you know,
+quite literally, I guess, you know, in our pockets
+to constantly pay attention and go for social validation
+for something that's not real.
+And insofar as social media is real,
+it's not what's really important.
+You know, religion has had a tough time.
+Religions generally have had a tough time
+making the jump to the social media space, right?
+Even the, you know, the Pope has a lot of followers
+on Twitter, but you don't hear about the Pope
+going viral on Twitter, right?
+And I think part of it is because religion
+is fundamentally something that is really deep rooted
+in face-to-face interactions.
+And social media just doesn't, you know,
+it doesn't capture that energy in the same way.
+And so social media might be an interesting place
+for religious groups to post reminders
+or, you know, reaffirmations,
+but you don't see a lot of online religions
+growing very fast, at least not the way you'd expect.
+Do you think it's because that the values
+within that social context that you mentioned
+is defined by very few people, relatively speaking,
+who are also practicing their own kind of a religion?
+You know, it is not conventional kind of a religion,
+but it's a worldview and a philosophy
+that determines this is good, this is bad,
+this is right, this is wrong, right?
+Because that seems to be the main job of the religion,
+which by the way, going back to 9-11,
+I grew up as a Muslim in Iran.
+I went to school as a Shia Muslim.
+So my biggest shock when I moved to the West,
+first in Canada and then US,
+was how people were treating Islam,
+because it was very clear to us
+that Islam is inherently a political religion.
+It is used for political reason,
+because it exists for political reason.
+So, you know, all those extremes-
+I mean, it was born out of political struggle, right?
+Absolutely.
+I mean, it's-
+The book describes it quite clearly.
+It's a book of rules and laws
+that includes every single aspect of your life,
+including how to govern and how to do all of that.
+And it's a very big question
+how the true followers of that religion
+would ever be able to assimilate to Western society,
+because they don't care about the laws that are man-made.
+They care about the laws of Allah.
+Right.
+And this is interesting too,
+because the separation of religion as a thing, right,
+is actually a very new idea.
+And it's a very Western idea,
+because it's rooted very much
+in the idea of a separation of church and state,
+which is, you know, not quite even 300 years old yet.
+So in the grand scheme of human civilization,
+this is like the newest idea that we've had, right,
+is to make religion a separate thing.
+A lot of cultures throughout the world
+don't even have a word for religion.
+It's just, that's what they do and what they believe.
+It doesn't need a word.
+And I think when you look at, you know,
+almost any non-Western tradition, but Islam,
+definitely being one of them,
+the separation of like the secular and the sacred
+just doesn't even make sense.
+It's just, it's not, it's a non-starter.
+That really only exists in the West.
+And I think it's something that,
+I think it's one of the reasons why the West
+has had trouble understanding Islam,
+is because, you know, from our perspective, right,
+from, you know, the North American perspective, let's say,
+or even the European perspective now,
+there's very much this idea of like,
+well, you know, that's just a religious thing,
+but they don't understand that
+it's not just a religious thing.
+It's actually, it's religion, it's culture.
+It's kind of everything about the context.
+Exactly, it's a life thing.
+And a lot of people don't really understand that,
+but it's on the other side of that,
+kind of getting back to the comment you made earlier,
+one of the things that's interesting about that
+is that a lot of times there are people doing things
+religiously and they don't see how religious they're being
+in a secular space.
+And social media is exactly this.
+So myself and two of my friends and researchers
+that I work with,
+Laurent Schulz and Kevin McAfrey,
+we studied online behavior on Twitter
+using some of the AI systems that I've developed
+for analyzing texts on social media
+to try and better understand what people's concerns are.
+And what we started to find out
+is that the moral signature of the far left of Twitter
+actually mimics the moral signature that experimentally
+is usually more common to conservatives,
+particularly conservative religious churches.
+And it kind of led us to kind of think,
+well, maybe this isn't just an anomaly here,
+like theoretically, right?
+You have a group of people on the very far left of Twitter
+who have certain beliefs that cannot be violated.
+And if you do violate them, you should basically be
+excommunicated from the community.
+Yeah, you should be erased, you should be canceled.
+But then if somebody tries to critique
+your sort of leadership, right?
+Your priesthood, then that can't be tolerated.
+And generally, you'll just deny that it's happening
+in order to resolve the cognitive dissonance.
+And if something bad happens within your group,
+you're gonna try and push harder to try and say,
+well, even though what's happening
+is not right ideologically,
+if I can get more people to join my group,
+then it justifies my beliefs
+and it still makes me look like I'm right.
+This is the original research for cognitive dissonance,
+which happened in a UFO cult, right?
+And that exact idea of like, our leadership is failing us,
+but if we get more people to join our side,
+then it justifies my belief and my identity
+of being part of this political party.
+I mean, you see that every four years
+in the United States now.
+It's almost wild to see if it weren't so scary
+to see the way that the political parties in the US
+now basically operate as sort of secular religions.
+That is very true, and they don't see it as a religion
+at all because they're using religion as,
+it's so funny, I was telling somebody that religion
+by far leftists are being used the same way that,
+for example, Israel and America were being used
+for Iranian regime to have this ultimate enemy
+because of which everything else that you do is justified.
+So it just feels like the moment that they managed
+to remove that in God we trust from back of the money,
+it will be replaced immediately by in the state we trust.
+And the value and the religion of state is determined
+on the basis of very fundamentalist
+and uber conservative kind of religious values
+that are secular.
+Yeah, it's interesting to reflect on that too, right?
+Because even when you look at the political parties
+as religions, it's not just a matter of belief too.
+Like we have our own rituals, our own secular rituals, right?
+Like anyone who looks at the inauguration of a president
+can obviously see the ritual that goes there.
+When you look at the way that the Senate is,
+like the way that the halls are actually set up,
+they're set up like churches.
+Like all of the people sit in the pew,
+the one guy goes to the top pulpit and speaks.
+You know, they have like the sort of like, you know,
+all of the pomp and circumstance behind them
+of whatever altar, whatever sort of structure there is.
+And it's, you know, it was deliberately done that way.
+I mean, when you go into the,
+I think it's the Capitol Rotunda and you look straight up,
+it has George Washington being sworn in, right?
+And that was done in a very ritualistic way
+because they felt it had to be done like a ritual,
+but they weren't sure how to do it, right?
+So he wore his Freemasons outfit
+because there were already,
+there's an entire ritual structure to Freemasonry.
+And he went, well, I don't have any better ideas.
+So everyone that was there was kind of, you know,
+they were in Freemasonry as well.
+So they just kind of did this Masonic-like ritual
+to be part of the inauguration.
+The Bible that they swore him in on, if I'm not mistaken,
+was actually a Bible from the local
+Freemasonry Lodge as well.
+And so it kind of reflected this idea
+that they needed ritual there.
+And the, if I'm not mistaken, the title of that work of art
+in the Capitol Rotunda is called
+the Apotheosis of Washington, right?
+Which is, you know, the becoming,
+the man becoming God is basically
+how you could translate that in Greek, right?
+And Washington does exist kind of as a quasi deity in a way.
+And what I find interesting and very frightening
+is that in the U.S. now, you know,
+our founding fathers were always well-respected,
+you know, if not kind of quasi-ideified,
+at least in a secular sense,
+not in a sort of faith or real religion sense.
+But now we no longer agree in the United States
+that the founding fathers are to be venerated
+or are to be even respected.
+And in some cases, you know,
+we're actively taking down statues of the founding fathers
+and people are arguing that even like,
+people as important as Abraham Lincoln
+should be kind of re-edited into a modern lens.
+And I, that is something that's very troubling
+because when you look at how schisms start in religions,
+that's one of the main causes is people disagree on,
+you know, the role of a founder.
+And that is what can make or break,
+you know, just about any religion.
+And you can even see that in
+how Protestantism split from Catholicism.
+You can see it also in the Sunni-Shia split historically
+as well had to do with, you know, leadership
+and who had sort of the right lineage at the right times.
+You see the same thing in Buddhism as well.
+Almost every major religion can,
+if there's been a split or if there are multiple branches,
+you can trace those multiple branches to an argument
+over the lineage and over the founders.
+Yeah, I was going to say that bringing down the statues
+of George Washington and Abraham Lincoln,
+I see literally no difference between that
+and Taliban exploding the Buddha statues in Bamiyan
+because it's about the status quo, it's about the ethos.
+And so it makes total sense that the American religion
+or American Dharma, as Steve Bannon put it,
+is being challenged by the woke Dharma
+and the woke religion.
+Yeah, and in a way, I mean, sadly,
+I wish it were more complex and to an extent,
+I guess it's more complex than what I'm about to say,
+obviously, but heuristically speaking,
+it does make sense to kind of say that, you know,
+there's the American identity
+and then there's the woke identity.
+And currently the woke identity is anti-American.
+It doesn't stand for American values.
+It is, you know, when you look at Antifa protests
+and Antifa riots, you know,
+they're burning American symbols,
+they're spinning, they're burning the American flag
+and they're doing that and they know exactly
+what they're doing when they do it, right?
+They're arguing that, what was it, New York City,
+I think it was, just took Thomas Jefferson
+out of the city hall.
+Yes.
+Like these events are symbolic,
+but they're very real when it comes
+to constructing an identity.
+And I think one of the ways that you see this
+is it starts as a slippery slope
+and then it happens quickly.
+Historically speaking, when you look at, you know,
+moves like this and shifts like this,
+it starts slow and then it starts fast
+and then it ends fast.
+But also you see this, you know,
+as part of the slow start, I think,
+was getting rid of the Pledge of Allegiance in schools.
+I think that that's one of those things, you know,
+I had a very good friend growing up
+who was a Jehovah's Witness
+and he claimed a religious exemption
+and he wouldn't stand for the pledge.
+And I don't have any problem with that.
+If that's a religious exemption, that's fine.
+But as a society, you know, the bulk of us,
+the most of us should have something that we do
+that repeats and reaffirms our identity as a people.
+And every people should have that, right?
+Because it helps them to create their identity.
+And people who have stronger identities
+are generally happier, right?
+If, you know, you get into a situation and times are tough,
+you know that you have people in your group
+that can help you out.
+You know, you have common experiences, common beliefs
+and the reaffirmation of something like this,
+the Pledge of Allegiance,
+very much functioned to do that psychologically
+for a very long time, even though, you know,
+we did change the Pledge of Allegiance
+at a certain point, right?
+And added in God we trust on our currency at a certain point
+to reflect that our identity was different
+than the rise in the communist identity during the Cold War.
+So it had its particular function, historically speaking.
+But at the same time, you know, we can change those words.
+What's important is that those words reflect core values,
+though, and that they're repeated often enough
+that we all know where we all stand.
+Yeah, a common big picture to strive towards,
+to give meaning to this experience that you're having,
+you know, otherwise, what's the difference of being anywhere?
+You know, it's- Exactly, exactly.
+And you see this in some of the thought leadership
+on the woke side of the United States right now,
+where in the past, you know, free markets,
+freedom of expression, you know, free speech,
+these were certain rights that were just fundamental
+to the American belief, you know,
+we can disagree on different things, you know,
+we don't have to be the same religion
+or like the same kind of drinks,
+or even drinker, drink beer, not drink beer,
+or whatever it is, those are just details.
+Even vote Republican or Democrat or third party,
+those were kind of details,
+because we all agree things like free speech,
+freedom of association, you know, a free press,
+like, you know, help, and then little things too,
+like helping your neighbor, right?
+You know, being someone that you can rely on,
+respecting your elders, giving up your seat on the bus
+when somebody needs it, like,
+there were these little cultural things
+that kind of built up, you know,
+who Americans were as an identity and as a people.
+And those things, a lot of them have come
+under attack quite directly, you know,
+some of the woke leadership, you know,
+I was watching an interview on Democracy Now,
+not that long ago, with Ibram X. Kendi,
+who was at Boston University at the same time I was,
+actually, or he still is there.
+And he mentioned that to be anti-racist, right?
+Which was his, like, neologism to try
+and kind of create a mental gymnastics leap.
+For racism.
+In his books, yeah, for racism, right?
+It's basically to be anti-racist is to be racist,
+but a different kind.
+And it's a kind that he thinks is a good kind of racism,
+which boggles my mind, right?
+When I was at Boston University,
+my office was in the School of Religion and Theology,
+which is the school that granted Dr. Martin Luther King
+his doctorate.
+And at that same university now,
+there is a man who is perpetuating racism
+under the guise of equity and inclusion,
+and just kind of spinning on the greatest speeches
+and teachings that Martin Luther King
+ever gave the United States.
+And that just blew my mind.
+It made me very uncomfortable to be there at the university.
+And it made a lot of the students uncomfortable as well.
+I got very close with some of the students
+who were not okay with the woke direction
+the university was going with.
+One of them is Joe Allen,
+who's now a correspondent for Steve Bannon on The War Room.
+Joe's still a good friend of mine to this day, actually.
+We disagree about a lot of stuff,
+but we respect each other.
+We know that at the end of the day,
+we have those core values, right?
+So when he and I go back and forth on AI and transhumanism,
+we really get arguing,
+but we do it out of a place of respect.
+And at the end of it, we both know
+that we're still gonna have a cheers of our beer
+at the end of the conversation,
+and everything's gonna be fine,
+because we know that those fundamental core values are there,
+and those are the guiding lights.
+The debates are just how we kind of take turns
+to right the ship as we move forward.
+But I think we can't have progress
+without those fundamental values being there.
+Ibram X. Kendi on Democracy Now recently said
+that to be anti-racist is to be anti-capitalist.
+And the repercussions of that,
+particularly in light of the leadership
+of the Black Lives Matter movement,
+saying that they have an ideology,
+and they are trained Marxists,
+and the relationship between wokeism
+and social justice warrior terms and neo-Marxist terms,
+being very clear.
+And we've spelled this out actually in research
+that we've published online as well,
+showing not only using an analysis of Google Books,
+which is the largest corpus that's digitized
+in the history of humankind,
+we also were following Twitter conversations online.
+And we were finding that you do still see this relationship
+between the sort of like neo-Marxist ideology
+and the social justice worship,
+taking off slowly from the 80s,
+and then really propelling exponentially
+into the 2000s.
+And these things are all related.
+And I think that's what's really defining
+the rhetoric of the left.
+And it worries me because that's the dominant rhetoric
+on social media.
+And ideally social media is a place for all of us to speak
+and for all of us to kind of have our discussions,
+even if we disagree.
+But what we're seeing now is a partitioning of social media,
+or what we've seen recently is a partitioning
+of social media, of the Twitter and the Facebooks,
+and then your alternatives, right?
+Like Minds, Getter, Parler, and the other.
+And I don't, I mean, I support those
+alternative social media sites.
+I have accounts on most of them,
+and I use them of different levels.
+I use them all more than I use Facebook
+and more than I use Twitter.
+But I think that we need to have a common dialogue.
+And Reddit has a lot of different people there.
+It has a lot of diversity of thought.
+But it also has a censorship issue, in my opinion.
+They're too quick to censor.
+So we're at the point that our digital and our analog,
+online and offline lives are suffering,
+if we wanna use that term, from the same kind of gridlocks,
+that they all go back to monopolization
+of values and ideas.
+Would that be fair to say?
+Yeah, I would say that like, yeah, the monopolization
+of values and ideas is really unhealthy socially.
+And social media kind of, I mean, the foundation
+of it offline has existed for a little while,
+but it was kind of, you know, it was a little bit here
+and there in the media.
+But now, recently, it has been just, you know,
+it hits us over the head every day.
+One of the things that we found in our research,
+and I gave a talk about this recently,
+the talk's actually on YouTube, in Cyprus,
+at the Reflect Festival in October,
+I presented some interesting research that shows
+that when you look at crime rates in America
+and perceived crime rates in America,
+so the actual crime rates,
+and then how people think the crime rates going,
+they basically, like, they have data going back
+to like the eighties and the nineties.
+And so it basically kind of keeps going down
+and down and down, and it's true,
+both the crime rate was going down,
+it's been going down for decades
+when you look at the general trend.
+But it goes down and then all of a sudden,
+there's a divergence,
+where the crime rate keeps going down,
+but the perceived crime rate starts to go up.
+And when you look at when this divergence happens,
+the divergence keeps getting greater and greater and greater
+between actual crime rates and perceived crime rates
+as adoption of broadband internet
+in the United States starts to go up,
+and the rise of social media usage
+starts to go up in the United States.
+That's one of the things where it's just a very clear tale
+of that constant media stream
+with algorithms that are perpetuating
+and promoting the most sensational news, right?
+Which is typically violence or instability
+or riots or robberies.
+These are the things that are gonna get promoted
+by these algorithms,
+because those are the things
+that are gonna get the most engagement
+and it's gonna get the most people talking.
+And we've suffered in the real world,
+psychologically because of it.
+And I think that was a very large part
+in setting up the context and the motivation
+for the riots that we saw in 2000,
+where a lot of people were frustrated,
+some justifiably so,
+and some were just there because they perceived the world
+in a way that wasn't true.
+You mean 2020?
+Yeah, yeah, yeah, 2020.
+You know, in 2020 and to an extent, I guess 2021,
+but it's really kind of died down recently.
+But in 2020, there was a lot of anger
+and it was very much being promoted by social media
+and the actual media.
+I mean, generally I try and follow both sides of the media
+to kind of get a sense of what's going on.
+And then I have a few sources that I really like
+because I think they start from a place of balance.
+And then I have a couple that I like
+just because they're keeping people in line.
+Project Veritas, for example, is one of them.
+I follow Project Veritas
+and sometimes I don't like the way they frame things
+here and there, but on the whole,
+I think that he is doing really good work
+in exposing a lot of nonsense.
+And one of the things that was exposed by Project Veritas
+was one of the CNN producers.
+You know, and he literally said, if it bleeds, it leads.
+And they had the coronavirus infection and body count
+going all the way through the election.
+And then after the election, it just went away.
+The virus didn't go away,
+but all of a sudden the media coverage went away.
+And now they're caught in between this,
+like want to basically propagandize
+for the Biden administration at CNN
+and make it look like everything's going well
+and he's solving the coronavirus problem,
+but also kind of push their narrative
+that the coronavirus problem is, you know,
+getting out of hand and that they need more lockdowns.
+And so they're really kind of caught
+in an almost Orwellian doublespeak.
+It's like, it's almost like watching 1984 unfold,
+like it was written as a handbook instead of a fiction.
+Yeah, so I think a lot of those approaches like,
+how can you be that stupid to say fiery, but mostly peaceful?
+You know, like, you know.
+Right?
+It's like, are you, you cannot possibly be that stupid.
+So there is a reason, there is an intention behind,
+you know, kind of nudging things to the direction
+that they want to be led towards their bigger narrative,
+which goes back to monopolization of values and ideals
+that are being practiced in a very religious kind of a way.
+Now, I want to say that all of this has hyped up perhaps
+because of use of computers and use of internet
+and more recently use of artificial intelligence
+and machine learning, use of modern technology basically,
+which is evolving exponentially while we're experiencing
+in a very linear kind of a fashion.
+So that's why maybe it seems like everything
+is getting out of control.
+But the problem is that these AI systems
+that are now being built and monopolized
+by a lot of these people,
+they are following the same kind of monopolization
+of values and ideals and objectives and goals,
+because the same people who have caused these problems,
+you know, right now in this world,
+they're behind developing these systems
+that they can later on use for like a social credit system
+and, you know, on and on and on.
+Yeah.
+I mean, the idea of implementation
+of a social credit system is one of the,
+in my mind is one of the scariest things
+in the AI debate right now.
+A lot of AI honestly is useless and unimpressive.
+And when you look at really what's being developed out there,
+a lot of it's not that interesting.
+A lot of it's nonsense.
+A lot of it's like, you know,
+make your face look like a turtle.
+It's just stupid stuff.
+But there's certain ideas that are being implemented in,
+you know, for example, in China, the social credit system,
+it should be the biggest wake-up call
+to the West generally that has existed since the 1930s.
+And I don't see any other way around it.
+And I mean, I almost, you know,
+I don't want to come off as hyperbolic,
+but when you look at what's going on there in China,
+when it comes to the social credit score,
+when it comes to, you know,
+the concentration camps that they have in Xinjiang,
+when it comes to the way they're manipulating the media,
+the way they treated the COVID lockdowns
+by just welding the doors shut
+and just helping people fend for themselves
+and then acting like it didn't happen.
+And then, you know,
+not even to necessarily go down the rabbit hole
+that is the lab leak,
+but it's just, you look at that and you look at China today
+and the way that it's utilizing like child labor in Africa
+to monopolize things like
+critical rare earth materials and stuff.
+It's just, there's nothing going on there
+that suggests that this is a peaceful interaction
+that we're going to continue to have.
+Everything suggests that this is a Cold War scenario
+led by a World War II level dictatorship.
+Perhaps more dangerous because Nazis could even dream
+of, you know, having this level of technology,
+this level of tool.
+Yeah, I mean, Nazis didn't have the bomb, right?
+And China does, you know, they didn't have AI.
+When it, you know,
+they had to go around and check on people's papers
+and they were just looking at people to kind of, you know,
+see, oh, do you have your papers?
+Are you the right, do you go to a synagogue?
+You know, what religion do you have?
+What's your last name?
+How do you spell it?
+You know, do you speak Yiddish?
+They were looking at these things
+and they were looking for that.
+They were looking for all sorts of people, right?
+They were looking for the Roma, for the gypsies as well.
+And, you know, the gypsies typically have a darker skin tone
+in this part of Europe.
+So a lot of times they were easy to spot and round up.
+But in looking at what China's doing,
+I mean, they are using AI
+and there are patents that have come forward
+that say we can identify Uyghur Muslims.
+And then they act like, oh, no, no, well, that's,
+we didn't really say that.
+And it's like, we saw, you said that.
+This is obviously happening.
+And these systems are being put into place
+where you can just round people up using AI
+for saying the wrong thing, for looking the wrong way,
+for having the wrong belief.
+And I mean, ultimately they're doing to the Uyghurs
+what they wished they could have done
+to the Tibetans before that.
+And it's only a matter of time
+before they find someone outside of their border
+that's standing in the way of the regime's dominance
+of the CCP and they're gonna target them too.
+That's the scariest thing, I think.
+They already installed automated robots
+at the border with India
+that they're automatically shooting at Indian soldiers.
+So they're using-
+I've read reports of this.
+They're using all the tools at their disposal
+for the objective that they have,
+this bigger picture that they have,
+point of alignment that is defined by the Communist Party.
+And I think this is a point of difference
+between me and someone like Joe Allen,
+who I had about two hour long conversation
+with him on the phone, mostly about AI, I think.
+He told me he had a long conversation with you on AI.
+And I enjoyed it.
+I actually approached him and said,
+dude, you're doing a very good job
+because these kinds of stuff,
+I've talked with a lot of people during this podcast
+that politicians aren't even talking about it.
+And these are the most consequential things
+that are happening.
+And the most valid answer I got is that politicians
+aren't talking about it because this is not a worry
+of their constituents.
+Constituents don't even know these things exist
+and these things are happening,
+which brings an entire issue with
+how are we dealing with democracy as a system of governance
+when you have a centrally driven monster and dragon
+like China on the other side of the equation.
+But my point is that we cannot get rid of tools
+to defeat tools.
+We need to use the tools based on our intention
+and our own values and perspective
+in order to defeat enemy,
+whoever you wanna call it that are using very freely
+and openly whatever kind of tool that is available to them.
+And I think this is a point that I take part
+with a lot of people on the right
+who are saying, no, all this technology,
+the modern technology, AI and all that,
+they're demonic, they're evil, they're satanic.
+We shouldn't be using them at all.
+They're like, well, you're not gonna survive them.
+Yeah, it's funny, cause actually I feel like,
+not to talk about Joe when he's not here,
+but I feel like Joe kind of struggles with that too.
+Cause when he and I talk about that,
+he has this kind of tonality to it as if it's like,
+this is like a struggle against sort of like,
+you know, this almost like demonic technology.
+And I don't view it that way at all actually.
+I'm very pro technology.
+I do think it's a tool
+and I think it's a tool that we can use, right?
+And so we've been working,
+so my company has been working with minds.com.
+We started a project about,
+I guess it's about a year ago now,
+where they basically,
+they read a paper that we did on simulating censorship.
+And basically our conclusion based on running
+20,000 different simulations
+of how individuals interact on social networks,
+that centralized censorship
+actually increases radicalization.
+And that allowing people
+to just choose with whom they interact
+and saying, ah, you know, that guy,
+he's being a dick, I'm gonna block him.
+And so you just block him
+instead of having Facebook come in and remove him entirely,
+that centralized censorship increases radicalization,
+but the one-to-one censorship
+doesn't have the same sort of effect.
+So I was speaking with the guys at minds.com
+and they're committed to not censoring, right?
+Unless it's illegal, they won't censor it.
+If it's not safe for work,
+they ask you to tag it so you can blur it
+so that if you're using minds.com at work,
+you don't have something pornographic
+scroll up your feed, for example,
+like they don't block pornography, right?
+It's legal, it can stay on the site.
+Just respect others who might be checking this at work
+and blur it out for them is what they ask.
+And so I really like that approach.
+I really support that approach.
+I think it aligns with free speech values.
+So the question then is how can we also make sure though
+that radicalization and hatred don't breed on that site?
+And on the one hand, not censoring already helps,
+but on the other hand,
+what causes radicalization is not using the internet, right?
+There's been tons of studies on this
+and none of them have really shown
+that internet use is a strong predictor
+of radicalization or extremism.
+What is a predictor are real life experiences.
+And what seems to be happening,
+particularly with people who are like,
+for example, if they're white supremacists
+and they are to the point of extremism
+where they may commit violence
+against another racial community.
+What typically has happened is that their understanding
+of that racial community just is not realistic at all.
+And it's usually because of isolation, right?
+They've never actually spoken to someone of another race
+or had to interact with them.
+And so it allows them to breed hatred.
+And I think that's why guys like Daryl Davis
+have been so effective in de-radicalization.
+Daryl Davis is part of the project with us actually.
+Oh, awesome.
+Yeah, yeah, he's been great to work with.
+So we were working with Daryl Davis
+and the late Jesse Morton was also part of this with us.
+And we have Bill Ottman, the CEO at Mines
+is working with us directly on it,
+as is Jack, the COO at Mines.
+So it's been a really fun, a really cool project
+where we've brought in all kinds of experts globally
+on radicalization and said,
+look, what are your proposals?
+And we hear them out and we just tell them like,
+censorship is non-negotiable.
+That's not on the table for us.
+Like we're gonna figure out
+how to address radicalization and extremism,
+but we're not gonna sacrifice these core values.
+And that's been a really interesting project
+because everyone's response in social media is,
+just ban them, just get rid of them.
+And the issue is that that doesn't solve the problem.
+That just makes it so that you don't see the problem.
+And that's a very different solution.
+Yeah, out of sight, out of mind, they think,
+but it'll always come back harder and more extreme.
+Like you can't get rid of the information.
+Yeah, like one of the things that boggled my mind
+was the general media response to like,
+what was going on in 2020 and even all the way up
+to like the January 6 protests and everything.
+It's like, people were so surprised.
+And I was like, why are you surprised by this?
+You're just not listening.
+If you're surprised, you're just not listening.
+And I think part of it, and one of the reasons
+why I think the January 6 protest
+was so surprising to people
+is because those were the kinds of voices
+that have been algorithmically silenced.
+And so people didn't realize how widespread,
+not QAnon, not any particular conspiracy theory,
+but how widespread frustration with the government system
+leading into the election
+and then frustration with the election.
+And the idea that they did not have a voice heard
+in the justice system, that was suppressed online.
+So nobody saw it coming when it instantiated itself
+the way that it did on January 6.
+And that I find very interesting.
+Then the media of course has now used this as like impetus
+for domestic terrorist reform,
+the likes of which we've not seen since 9-11.
+And that I find very confusing
+from a legal perspective, from a policy perspective.
+Because while I agree if a group tries to take over
+the Senate during a proceeding,
+that is just by letter of the law.
+And you look at how the FBI defines what terrorism is,
+is basically any sort of use or threat of violence
+in order to achieve a political end.
+It's a very vague definition,
+maybe problematically vague actually.
+But if we take that definition,
+I can see how you could apply that definition
+to a small subset of the people present on January 6.
+However, if you apply it to January 6,
+but you don't apply it to Antifa in 2020,
+it makes me question the extent to which
+this is entirely politically motivated.
+It is entirely politically motivated.
+And not really about its security.
+Yeah, and that's the conclusion that I've come to.
+And I think that most logical people will come to
+as we say, look, here's our measuring stick.
+If it fits in this box, we get to call it terrorism.
+And they throw January 6, and basically people go,
+everyone, and some people say everyone.
+And then I go, you're not looking
+at what they were doing there.
+And then they go, some of them.
+And I go, okay, some of them,
+I can see how this fits the definition, yes.
+And then I would say, okay, insurrections, Antifa, right?
+What about Chavez, right?
+They declared an independent nation
+within the United States, and they took over a courthouse,
+which sounds familiar, right?
+They took over a government building,
+declared an independent nation,
+and then guarded it with arms for like a month.
+But that wasn't an insurrection or terrorism.
+And it just makes me really worried
+because the key to stability in a democracy
+is an independent judiciary.
+And if we don't have an independent judiciary
+in the United States, effectively you have regulation
+and legislation by the executive, right?
+By enforcement.
+The law is what the person at the top says what the law is.
+And in the US, that person at the top
+can change every four years.
+That doesn't make for a stable society.
+It doesn't make for stable investments.
+Like, how can you plan a business
+if you don't know if your business
+will be legal in four years, right?
+And I think the marijuana industry has seen this
+in particular, right?
+Those guys have struggled, not just socioculturally
+about acceptance or not acceptance
+or the morality of using or not using marijuana,
+but just legally speaking,
+those guys don't know whether they're coming or going.
+Yeah.
+Cryptocurrency also is the same way right now.
+Cryptocurrency, which is probably the largest opportunity
+and it's probably the biggest wealth transfer
+to like the little guy that we've ever seen.
+When you look at how many guys got into cryptocurrency
+before banks, well, banks were still saying
+that it's nonsense and it's a Ponzi scheme
+and all this other stuff.
+Guys were buying Bitcoin.
+And a lot of these guys are just little guys
+who now can afford apartments
+that they never could have afforded
+because they invested in Bitcoin
+when Bitcoin was at like, you know, four or 500,
+maybe it was at a thousand or 2000.
+And now it's sitting at $40,000
+and they've outperformed the best hedge funds on Wall Street.
+And now of course the SEC wants to come in
+and act like they have the authority to regulate.
+It's not clear that they do,
+but they're gonna regulate by enforcement
+and they're gonna say, well,
+we're gonna take you to court.
+We're gonna sue you and ruin your life and your company.
+And then we'll see whether or not you broke the law.
+And that's not rule of law.
+That's not healthy.
+That's, you know, what a dictatorship does.
+Yeah, at the same time,
+there are people who are running right now
+for Senate, Josh Mandel in Ohio
+and Blake Masters in Arizona.
+They already called for Fort Satoshi Nakamoto
+as a new Fort Knox for United States government
+to hold Bitcoin.
+And you know, this contrast I think exists
+exactly because there was a power struggle
+for a vacuum that hasn't been created
+as a result of four years of maybe five years of Trump,
+who I consider to be a psychedelic.
+Trump was a psychedelic.
+You know, it's like.
+I like that.
+The entire world tripped on Trump really hard.
+And some people have been having very bad trips
+because their entire identity and worldview was shattered.
+That how is this even possible?
+I like that.
+I've not thought of it that way before,
+but I really like that.
+Trump was a trip.
+He really was like a psychedelic.
+Cause in a way you were like, is this real?
+There's aspects of reality to some of these things.
+And then some of these things, I don't know.
+Some of it was, some of his behavior,
+I personally found kind of bizarre.
+So I guess.
+He also revealed that it doesn't really matter
+who's elected president.
+There is a class in DC, which I have a friend.
+He's a White House correspondent.
+He's saying DC is not even America.
+You know, it's like an occupied zone basically
+by people whose interests is not shared
+with absolute majority of American people.
+And they've taken over this country.
+So absolutely it has everything they're doing.
+It has political incentive and political implication,
+but I think they've overreached.
+And that's like a silver lining in all of this to me,
+that they just gone overboard.
+That's why they're becoming very overtly coercive
+and violent.
+And it's just not sustainable, you know,
+because United States is not North Korea.
+Exactly.
+And one of the things that a lot of the work
+that I've done in the AI space has allowed me to do
+is kind of investigate what causes things to go wrong, right?
+What happens when you overly centralize an identity,
+when you overly centralize power,
+or what happens when you make it like super distributed?
+And one of the patterns that we've seen in this research
+is that when you overly centralized power
+or you overly centralized the culture,
+like the cultural permissibility, you end up breaking
+the system.
+And the fact of the matter is just that, you know,
+humans are different, like we're all different.
+And that's the cool thing about us actually.
+It's what I love the most is, you know,
+when I talk to somebody,
+you don't know what's gonna happen, right?
+They could be end up being your best friend,
+or you could just be like,
+I didn't like that guy at all, right?
+And it's just, that's our beauty.
+And that's our curse, right?
+Because sometimes we're too different to get along.
+And other times we're just different enough to cooperate,
+but we're not gonna be friends, but we'll be colleagues,
+like, you know, and everything in between.
+And when you overly centralized power
+to people of a specific kind of belief
+or a specific kind of background,
+you're always going to neglect the people
+that are towards the extremity
+of wherever you sit on that spectrum.
+And so that is never going to create stability
+because eventually everyone else
+is gonna start teaming up on you,
+and you're going to effectively be an imperialist
+within your own country.
+And this happens whenever you see
+the centralization of power, right?
+Every single major historical example
+of a complex society that has collapsed,
+has collapsed effectively
+because it overly centralized economic decision-making
+and overly pushed that to deal with problems
+that it itself was creating.
+So like, for example, in this,
+you can actually read the guy
+with Cambridge University Press actually published a book
+called The Complex of Complexes,
+or The Collapse of Complex Societies.
+His name's Joseph Tainter.
+He's a professor at Utah.
+He surveyed over 20 different complex societies
+and basically found that what happens
+is when a society makes an investment into something,
+some problem that it has,
+there's an effect of declining marginal returns
+in the economic sense.
+And basically what that means is that
+when you put a dollar in the first time,
+you get a dollar out.
+But when you put a dollar in the second time,
+you only get like 98 cents back out.
+And then when you put a dollar in again,
+maybe you only get 90 cents out.
+And the more money you put into these problems,
+the less value you actually get out of it.
+And at a certain point,
+society, you start putting money into problems
+that the problem solvers have created.
+And when you get to the point
+where you're putting resources,
+if it's wood in the Roman Empire,
+if it's olive trees in the Greek Empire,
+like the Greek Empire was built without wood.
+Like a lot of people don't realize
+how much wood does not grow in Greece.
+So because of that, like they had to rely on trade.
+So when they were investing in social problems,
+there was a very clear declining marginal return, right?
+This works in barter systems.
+It works for gold.
+It happened to the Mayas and the Incas.
+And to an extent, I think we can look at this
+also happening in the United States today.
+And that's one of the biggest worries that I see.
+It happened in the Soviet Union, right?
+But at the point in which your government is saying,
+oh, this is a problem, I can fix it.
+I need some money.
+And we go, okay, here's some money and they fix it.
+But then later, their fix created a problem
+that they then need more money to fix.
+We can start to see how our returns
+on our tax money investment
+are getting lower and lower and lower.
+And with a US national debt that gets so high
+that it's interest payments alone
+are no longer able to be paid, much less the principle.
+You start to see how we start to get
+into an unsustainable trajectory
+where our money is not getting,
+it's not solving our problems as a society.
+And there's becoming so much of it because of inflation
+that it's not even getting us that far anyways.
+So between inflation of a debased currency
+and overly centralization of decision-making in a society,
+that's what really leads to very serious
+and systemic issues in societies that otherwise, right?
+Like most major empires don't fall because of the military.
+They fall internally.
+And these are the mechanisms that like some
+of the AI systems that we've been studying
+are addressing aspects of this.
+Different economic models from archeologists
+even are seeing this.
+And this is a recurrent pattern.
+And they say history doesn't repeat itself, it rhymes.
+And I worry that this is what we're looking at right now.
+And unless we really find a way to kind of get back
+to local communities and just address
+what the people of the United States are worried about
+and not be worried about what the people in DC
+are worried about or coastal elites
+and cities generally are worried about
+and kind of get back to the ground, right?
+Get back to the earth.
+We're not gonna be dealing with an ideological reality
+that can solve the very real problems
+that we're gonna face over the next,
+let's say 50 to 100 years.
+Government justifies its existence as a problem solver.
+So solving problems is against the interest
+of government's existence.
+Because if you solve problem, there is no government.
+Right?
+I think this is one of the main reasons
+why the biggest structural change
+that Americans should mandate, right?
+Make it a non-negotiable or term limits.
+Because, and this actually comes from something
+I remember reading from Thomas Jefferson
+is that the politician should not be a job,
+being a politician should not be a career.
+It should be something you don't even want to do, right?
+It should be something you're forced or obliged to do
+because you feel it is your duty as an American
+to be a government servant.
+But that through term limits, you're forced
+to deal with the reality that you create.
+So that if you're a farmer, when you go in,
+you got four years, maybe we'll get you six years
+in the Senate or something like that.
+And then after those six years,
+you're gonna go back to farming.
+And if you screwed up the country,
+it's gonna make your life harder.
+What the biggest risk and one of the reasons
+why I think we see what we see in America today
+is because Nancy Pelosi can get in in 1985
+and she doesn't have to do anything except stand up
+and say a bunch of nonsense, ruin a bunch of people's lives.
+And then she comes out with a net worth of $120 million,
+which given taxes, I saw a funny thing,
+a napkin calculation that I was doing is that effectively,
+if we assume, right, her salary is 233,000 a year.
+So if we assume that she lived a very, very,
+let's say a life within her means, which she didn't,
+and that she invested $100,000 a year on average
+since she basically got into politics in like 1987,
+then her average returns must have been about 30 to 35%
+investing in the market.
+It is how she could have had to have made that money.
+That makes her the greatest investor
+in the history of the country.
+Warren Buffett's average annual returns
+are about 20% on average a year.
+So we need to stop reading Warren Buffett
+and we need to choose whatever strategy
+Nancy Pelosi has chosen in her investments.
+And that I think is interesting question to ask is,
+well, if she causes the problems,
+if she solves the problems and she contracts the companies
+that are going to or are not going to solve these problems,
+is it possible that she was doing something
+that she shouldn't have been?
+And obviously it seems very clear
+that she's been insider trading for 35 years,
+because otherwise you can't save enough.
+It would take her like a thousand years
+to save that much money.
+It's not a chance.
+And the beauty of this era is that the jig is up.
+You know, the curtain has fallen.
+So we'll see where it leads.
+I don't think Nancy Pelosi was an early investor
+in Bitcoin or anything like that.
+So it's...
+Not according to her financial returns.
+Maybe she's not.
+I mean, is she lying?
+I would not be so sure.
+Nancy Pelosi lying.
+I think the funniest thing about this, right?
+I think my favorite thing about the news
+that I heard about her recently
+is that she's moving to Florida.
+Yes, yeah.
+So it's like, so she's actually,
+she's from Maryland originally.
+So she's like from my neck of the woods.
+And then she moved out to California basically as,
+you know, because her parents
+were well connected in politics.
+So she gets out to California,
+ruins California for 35 years, and then goes,
+oh, you know where I'm gonna go?
+I'm gonna go to Florida.
+Even though she was one of those people
+that was calling DeSantis basically a murderer
+because he wasn't gonna do long-term.
+They all did.
+AOC was here partying.
+She was calling DeSantis murderer.
+I heard about this.
+Yeah, they were saying, oh, this is murder
+and all that you're killing innocent lives.
+And it's like the first place you guys go
+when you get a chance to go somewhere is there.
+And then AOC got COVID for partying,
+maskless in Florida.
+And she's been awfully silent about it.
+And I think that's funny.
+But hey, I think AOC revealed something very fundamental
+very early on when she said that
+it's more important to be morally right
+than factually correct.
+And that's all we need to know about how they operate,
+how they see the world.
+And this is my concern
+that the very same people are in charge
+of these AI systems that are being built,
+that AI ethics and AI ethicists are hell-bent
+on monopolizing them on Google.
+And there's been a civil war going on
+in the Google AI department for a while
+and in many other places.
+So this localization that you're saying politically,
+which is absolutely the way,
+it seems to be the absolutely the way for AI as well
+to decentralize this development of AI
+that even if it's going to lead to AGI,
+which for example, Ben Goertzel believes
+that we're gonna reach AGI in like 10 years, 15 years,
+and he's building his singularity net because of that.
+So AGI wouldn't be owned by them.
+Yeah, I'm all in favor of that kind of an approach,
+but it also begs the question
+that how are we going to be decentralized
+yet operating on the basis
+of some kind of a point of alignment,
+which goes back to the beginning of our conversation
+that there are certain values
+that define the identity of the perspective.
+Exactly, and I do think that that's one of the things
+that Ben's not taking into account.
+It's kind of funny, he was at Oxford for a conference.
+He did like the AGI conference,
+global conference was at Oxford while I was there.
+And I got to go out and have a couple of beers with him
+and with Dave Hansen as well, who-
+His partner.
+Hansen Robotics.
+Yeah, yeah, they do a lot together.
+They're very like, they're friends.
+They're like honest friends too.
+They were very interesting guys as well.
+I had met Dave Hansen before actually
+at the Harrison Institute.
+He was doing some work on BINA-48,
+one of the first like robots that he worked with.
+Martin Rothblatt.
+Yes, yes, exactly.
+And so I was there, it's in Vermont.
+So it was actually not far from where I was living
+at the time and got to meet them and talk to them.
+And they have a very utopian view,
+which in a way I like their positivity,
+but I do worry that sometimes positivity can lead to naivety.
+And I like the idea of if there is going to be an AGI,
+it needs to be decentralized because any centralization,
+like I said before, right, is prone to issues.
+And just like AOC wouldn't want Trump in charge of the AGI,
+I wouldn't want AOC in charge of the AI, right?
+You don't have enough natural intelligence, I sure as hell
+don't want you to have the artificial one.
+And that's something I think that's interesting.
+And you mentioned Google, for example,
+and Google's big issue in AI ethics recently, right,
+hasn't even been, you know, should we build this?
+They just kind of build it and then move on.
+There has been some issue with DeepMind.
+DeepMind doesn't want to be part of Google anymore.
+And I'm very interested to know more about why that is,
+but not much has come out about it,
+except for the fact that they asked
+to basically be spun out.
+But the biggest AI issue in Google recently
+hasn't been mass surveillance, hasn't been data protection,
+hasn't been data ethics, the right to be forgotten
+or any of these other things.
+It was Geberu, it was, you know,
+the fact that one of their AI researchers was,
+who has done actually really good work too, by the way,
+like I'm not trying to throw her under the bus.
+I have a lot of respect for some of the work she's done,
+but she did not want to go through a peer reviewed process,
+right, and she said, if you don't,
+if I can't go around this peer review, then I'm resigning.
+And Google said, we accept.
+And she said she was fired.
+No, she was not fired.
+She resigned, she gave them the ultimatum
+and they called her bluff, I guess.
+But the fact of the matter is that
+that was in a nutshell, right?
+It's better to be morally right than factually correct.
+Exactly.
+That's what that was,
+is I don't want to put myself up for critique
+to be shown factually correct,
+which is bizarre to me, right?
+Because one of the findings that like Geberu
+and some of the colleagues
+that work on those problems have found, right,
+has to do with like things like gender and racial biases
+in AI and they've mathematically proven
+without a shadow of a doubt that biases exist
+in the way that they've presented them.
+You can't deny, like it's just, it's mathematically provable.
+It's undeniable that those biases exist.
+And so for me, it's like, look,
+that it aligns with her ideology.
+She does go more towards the woke side.
+And I think that that's fine, right?
+If there's a systemic bias in our AI,
+we need to either address it
+or know that it exists and be comfortable with it.
+And if we're not comfortable
+with certain racial or gender biases,
+many of them there personally,
+I'm not comfortable with them.
+I'd like to see them.
+I'd like to see us understand how we can address them
+rather than just going in and addressing them.
+I think we need to raise those questions,
+but saying either you stop asking me these questions
+or I quit, that's not something that I think is very helpful.
+Just criticizing the high priest,
+like exactly what we're talking about.
+Yeah, right.
+You can't, or ex-communication befalls you, right?
+And I think this is exactly the kind of thing
+that worries me about the fact that most AI developers
+and most people making big decisions in AI ethics
+come from, I'm not so much worried about left, right,
+so much as I'm worried about woke, the woke ideology.
+People will always be more left or more right.
+And it's largely a meaningless designation anyways, right?
+Because for me, I know people who are really far left,
+but they're also anti-authoritarianists.
+And I actually get along really well with them
+because fundamentally, I kind of agree with them
+because they're anti-authoritarian.
+So whatever nonsense they might believe that I disagree with,
+they're not gonna force it on me.
+And so I'm like, all right, that's cool.
+You do you, I'll do me.
+And the same with people who are on the far right,
+that are further right than I am.
+I, you know, so long as they're not authoritarian,
+I'm okay, it's just a disagreement.
+But the moment they go, oh,
+and I think you should do this too, I get worried.
+And a lot of the people who are on the AI side
+are also saying, and here's what I believe,
+I've designed AI to try and mimic what I believe,
+and I'm going to force this AI to force you
+to conform to my beliefs.
+And the biggest way that that is,
+that's instantiated today, I think,
+is in censorship on social media.
+For example, I mean, and some of these are horrendous, right?
+So for example, not being able to even discuss the laptop,
+Hunter Biden's laptop right before the election.
+And oh, it was a bombshell to manipulate the election.
+It was like, yeah, and the entirety of the media
+before then was, you know, no blood on anyone's hands
+on trying to support a candidate before then,
+that's when it started, right?
+It's nonsense.
+Now, all the people who came out,
+retired people from intelligence communities
+who signed that letter that this is Russia propaganda.
+So what's going to happen to those people?
+You know, this is a problem.
+Is there going to be any recourse to that?
+I mean, but when you look at what happened
+with the original Russia game, right?
+I mean, so much of that was shown to basically,
+and basically in the end, when they investigated it,
+the Democrats, you know, the opposition
+looked just as bad or worse than Trump and his crowd.
+If anything, I think it made Trump look rather inept.
+You know, not this grand conspirator.
+He was not the wizard of Oz here.
+You know, he was not the man behind the green curtain.
+If anything, he was kind of, you know,
+the tin man sitting around waiting for everybody else.
+Meanwhile, you see people like, you know,
+Hillary Clinton in the background in her campaign,
+trying to pull all of these little levers,
+and the further we dug into it, the further it looked like
+this was just a lot of nonsense on all sides,
+but this media narrative became unbreakable, right?
+It became like, Russia game became like blue anon.
+It was just like the Democrats' version of the conspiracy
+that the further left you go,
+the more you find it to be an unassailable truth.
+And it was, yeah, it was really,
+it was really worrying, I think, to see that.
+I think, you know, there's a case for moderation
+to be made when we look, and I mean moderation,
+like moderating our own behaviors
+and supports towards social media.
+When you look at the fact that they don't allow us
+to speak about certain things because of a political agenda,
+and then they tell us they're apolitical,
+it's like, don't, you know, don't tell me that.
+Like, it's obviously not true.
+Just be honest, if you're gonna be away,
+just be honest about it.
+Just be honest about it so that I know
+not to use your social media platform
+if you're not gonna allow me
+to participate in a conversation.
+And I think, you know, you mentioned earlier, right?
+That having the conversation is critical to democracy
+and people just don't even know about the AI that exists
+and the problems with social media.
+One of the reasons for this
+is a very suspicious event that happened, right?
+When Frances Howigan, who previously worked for Facebook,
+released all of these documents as a whistleblower,
+she releases all of these documents.
+It goes onto the Wall Street Journal.
+She ends up appearing before the Senate
+and all of this stuff.
+When those documents were released,
+they were going viral across several social media channels,
+but they weren't going viral
+on the largest social media channels
+basically in the world, right?
+Facebook, WhatsApp, and Instagram,
+because all three of those companies
+are all owned by Facebook.
+Now, since the revelation, right?
+Now they change their name to Meta
+and not Facebook anymore.
+So they're all three being accused
+or it's being demonstrated
+that they knew that they were bad for society.
+They knew that they were being politically manipulative
+and politically manipulated by external forces.
+And instead of going viral on Facebook,
+all of the Facebook servers just shut down
+for, you know, what was it?
+Eight, 12 hours.
+Now, any social media researcher will tell you
+that when hot news breaks,
+the first six to 12 hours after it's posted
+is critical to determining the amplitude, right?
+How high it will go.
+It'll go a little viral,
+but is it gonna go three million viral
+or is it gonna go three billion viral?
+And that Francis Howgood news had the possibility
+to go three billion accounts viral
+across all of the different social media channels.
+But it didn't happen.
+And the reason it didn't happen
+is because somebody made a coding error at Facebook
+at exactly the right time.
+And all of those servers mysteriously went down
+for an unrelated reason.
+And it's like, come on.
+And you see that they'll give you a slap on the wrist
+for questioning about Hunter Biden,
+but they will shut the whole farm down
+if it makes them look bad
+and it exposes what they've knowingly been doing for years.
+Yeah, so more liberty, less secrecy,
+more transparency, less secrecy,
+more decentralization, less centralization.
+A hundred percent, man.
+The world's weird and chaotic.
+Let's love it.
+Yeah, absolutely, absolutely.
+Yeah, right with it.
+Unfortunately, we're reaching the end
+because your time is limited
+and I really appreciate this conversation.
+It was awesome.
+Let me ask you the last question I ask all my guests.
+If you come across an intelligent alien
+from a different civilization,
+what would you say is the worst thing humanity has done
+and what would you say is their greatest achievement?
+What is the worst thing,
+like single event that humanity has done?
+Or something we built,
+worst and best in humanity.
+The worst and best in humanity.
+Okay, that's a hard one to answer.
+That's a good question.
+So for me, I think that the worst of humanity
+has been embodied historically
+and the biggest threat to humanity
+is also the biggest threat to humanity in the future.
+And that is Marxism.
+That as a ideology, what it's done, right?
+It saddens me.
+And then I live in a post-communist country now, right?
+So the Iron Curtain is like 20 minutes from here.
+I can walk along the Iron Curtain
+and they have names of people
+who were literally eaten alive by dogs
+for trying to cross the Iron Curtain
+and just get to Austria to get to their freedom.
+And I've lost track of the number of people
+that I've spoken to here
+that were smuggled out as children to freedom in the West.
+And so having learned about it is one thing,
+but then having heard the stories of people
+who have lived through it here in Slovakia.
+And as I learned the Slovak language,
+I can talk to the older generation, right?
+Who couldn't learn English, right?
+And I get to hear their stories and stuff.
+And that is, I think, that's our darkest moment,
+I think, is Marxism and communism.
+And it's still today.
+Our greatest achievement, our greatest achievement, man,
+in a way, I would say that our greatest achievement
+as a species was probably, is probably the internet.
+Yeah, I would say our greatest achievement is the internet.
+Our finest hour is this massive technological
+ridiculousness that is both beautiful and it's energy
+and it's complicated and it's complicated
+beautiful and it's energy and it's communication.
+And my hope is that we realize that no matter
+what it is we create as people,
+and no matter how beautiful something
+like our greatest technologies are,
+nothing is ever going to be better or more beautiful
+than just walking out in the woods
+with your friends and loved ones
+and actually turning the phones off
+and sitting around a bonfire.
+That would be it.
+So maybe my other answer, if I can have two,
+is the greatest achievement humans ever had
+was figuring out how to light a fire.
+That's, I'll keep it with that.
+Beautiful.
+Awesome.
+Thank you.
