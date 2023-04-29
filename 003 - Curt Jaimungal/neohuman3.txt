@@ -1,0 +1,1187 @@
+People's concept of what's hap- what happy is is like so fucked up.
+That's why I have something against happiness.
+Hello, and welcome to the third episode of Neo Human Podcast.
+I'm Agabahari.
+You can follow me on Twitter and Instagram at Agologist.
+And you can follow the show on Live in Limbo at liveinlimbo.com.
+So for the third episode, I'm here with Kurt Jaimungal, who is a physics and math grad
+from University of Toronto, and he is a filmmaker now.
+So when did you graduate from a physics and math program?
+Like I spent way too long in undergrad.
+Why did you choose that field?
+I love- I still love physics and math.
+When I was a kid, my dad would make me learn math and chess and stuff at like a really
+young age.
+He would like pressure me and I hated that.
+And I didn't like him at a young age because of that because it was like a lot of pressure.
+Even I remember I wanted to watch The Simpsons one time.
+And so I was playing- he would make me play blindfolded chess with my sister.
+So I would be blindfolded.
+My sister is allowed to be not blindfolded because she wasn't as good as me.
+So I would be blindfolded.
+And then I was just making mistakes on purpose because I knew the new Simpsons episode was
+coming on and my dad saw this and he physically cut the cable.
+And then I went upstairs crying.
+I went upstairs crying and my mom woke up and then she's like, Paul.
+My dad's like, Paul, what are you doing to the child?
+She's like, he's like, Christ, that's my mom's name.
+Just yelling at each other.
+And then I'm crying in my room and I don't have TV.
+I can't do anything.
+I just have to sit in the dark.
+Yeah, so I was just kind of pressured from a young age to do like analytical things.
+Was your dad a- or is your dad an academic?
+Oh, well he's a teacher, but of woodworking.
+Although he studied chemistry in university.
+He just wanted his kids- like, you know, when I was- even my brother- my brother went through
+worse than what I did.
+So you had two brothers, one sister?
+One brother, two sisters.
+It's like two boys, two girls.
+Oh, okay.
+Yeah.
+And like when I was a kid, it's that classic thing of like the parents say, like, you'll
+thank me later.
+And I really- I wish that he was harder on me because it really helped me out throughout
+the rest of my life.
+Oh, yeah?
+Because, you know, I was learning- I was learning calculus in grade three.
+Like actual calculus and integral calculus, not just regular calculus.
+So when you talk about your childhood, would you categorize it as a good or bad childhood?
+Good.
+I'd say it's pretty good.
+I'd say it's pretty good.
+Aside from that stuff, I had a pretty good childhood.
+Which was bad because it didn't prepare me for like the crappy adulthood.
+Was it in Canada?
+Yeah.
+Yeah.
+Everything's in Canada.
+Yeah.
+In Toronto.
+Yeah, in Toronto.
+That's awesome.
+Born and raised.
+Basically born and raised.
+But I mean, I came here when I was like two months old or three months old.
+Yeah.
+Yeah.
+And then I always liked math and physics.
+I always liked math in particular.
+And then physics.
+I forgot how physics came about.
+I think my brother was explaining something to me about quantum fluctuations one time.
+This was when Blockbuster was still around.
+And then I remember finding that fascinating that particles can come in and out of existence.
+Like just like that.
+Because all I knew was that you cannot create or destroy anything.
+And then he's telling me, no, you can.
+It's just in very small time scales you can.
+And it happens all the time.
+Happening in front of us right now.
+It happens in between atoms.
+Like anytime there's empty space, that's happening.
+And that fascinated me.
+I think I just from there, I always looked up like physics.
+Yeah, so I always loved physics.
+When you say coming in and going out of existence, in existence it's very tangible.
+It's understandable.
+What is out of existence from the point of view of a person who is passionate about physics
+and has studied physics?
+Let's say you have empty spaces.
+There's nothing in it.
+Right.
+This is a vacuum is what they call it.
+And then so you're looking at this vacuum and there's nothing.
+But then what happens is out of this nothing, you'll see an electron and then an anti-electron
+appear and then collide.
+An anti-electron, whenever antimatter collides with regular matter, matter will destroy itself.
+Usually it destroys itself in energy.
+So a photon will be emitted.
+But in these little anti-particle pairs, they'll come in and out of existence like this constantly.
+I'm making a gesture with my hands that no one can see.
+Yeah, so there's nothing, they come and then they go like, yeah.
+Where are they coming from?
+It doesn't mean that they're coming from somewhere, it's just that it's like the laws say that,
+okay, you've heard of Heisenberg's uncertainty principle, right?
+Yes, but say it anyways.
+This basically comes from Heisenberg's uncertainty principle, which says you can't simultaneously
+measure a particle's position with 100% accuracy and know its momentum with any accuracy.
+There's a trade-off between knowing how sure are you of its position and how sure are you
+of its momentum.
+If you try and measure one with a certain degree of accuracy, it will limit the other's
+accuracy.
+So people normally kind of say it like, imagine you're playing like billiard balls, I mean,
+you're playing pool, and let's say it's dark, okay, so you can't see the balls but you can
+only shoot another ball at the ball that you're trying to measure.
+You're trying to figure out where is this white ball, let's say, okay?
+So the only way you can know is if you interact with it by throwing other balls.
+So usually that's photons, we're looking at something, we're interacting with it by looking
+at it, right?
+Photons are being emitted to it.
+So let's say we're trying to find out where this white ball is.
+We don't know, the white ball could be moving, it could have momentum, momentum just like
+velocity and speed, okay?
+It could be moving or it could be still and we don't know where on the board it is, so
+we're just shooting.
+Let's say we shoot it with the ball.
+This is such a bad analogy.
+So basically, the harder you hit the white ball, let's say I use my billiard ball to
+hit the white ball really hard, okay, and the white ball goes flying off somewhere but
+my ball stays right where the white ball was, okay, like I just hit it and then my ball
+stays and the white ball goes there, then I'll know like, oh, I have a pretty good idea
+of where the position was of that white ball but now I don't know its momentum anymore
+because I just changed it.
+Whereas before, I could kind of like go very softly to it and let's say the white ball
+is moving and I go very softly with my billiard ball to hit it, my billiard ball will move
+a little bit and I won't really know its position but that's such a bad analogy.
+But anyway, it's like basically, there's a trade-off.
+But then here's the thing that most people don't know is that the trade-off doesn't happen
+because we suck at observing or there's some human thing.
+The trade-off is even the atom itself doesn't know its own momentum and position accurately.
+That's what's the interesting thing.
+Is this the same thing with when it's being observed, it behaves as a particle and when
+it's not observed, it behaves as waves?
+No, it behaves as both even when you observe it and when you don't observe it.
+What they're saying is it lives in a superposition of like up and down, left and right, all these
+things simultaneously until you observe it, then it chooses one.
+Right.
+That's just an interpretation of quantum mechanics that like that...
+The equations kind of imply that but it's just an implication, right?
+Like there's many different other implications, different interpretations of what the equations
+mean.
+All we know is these equations are the most accurate equations in all of science.
+They're the most tested of any sort of scientific field even more than cellular biology or whatever.
+These equations are correct down to the degree of accuracy of like, let's say you're trying
+to measure the earth and your measurement is within a marble, like within a penny's
+sort of length of like the radius of the earth.
+That's your error.
+That's also how accurate we can measure certain things quantum mechanically.
+Like of course we just go down to the scale of that.
+How long has it been since we developed this?
+That's 100 years now.
+100 years.
+Basically, what I'm understanding from this conversation so far is that physics has attempted
+to explain the world and life and the universe and has succeeded in your opinion and maybe
+my opinion and in the opinion of a lot of people has succeeded greatly but there is
+a huge amount that we still don't know about.
+There are things that we don't know that we don't know.
+Is physics in general and physics departments around Canada and United States getting the
+budget from your point of view because you experienced a university life as well?
+Getting the budget that they need to test and prove a lot of these theories in order
+to explain more so we can understand more or is there a problem in that department?
+No, there's this cool book, this really cool book, the same book that we were listening
+to in the car, that towards the end of the book the guy kind of goes on this sort of
+rant, which I don't like the end of the book because it's like some sort of he talks about
+like we should give women more things and I don't think we should give women more.
+I'm just misogynistic.
+But then he's like he's talking about how the predominant like if you want to get a
+faculty position at any sort of major university for the past 20 years it's basically all been
+string theory.
+You have to be a string theorist for some reason just and that a lot of that is because
+there's already string theorists in power and they're the ones that get to choose whether
+or not you.
+There's a lot of politics about it.
+And he's like advocating we need new ideas and we need to encourage new ideas.
+So I would say that that would be like the things just encouraging ideas and it doesn't
+have to do with the budget.
+It's just like the the and when you say like you have to be a string theorist to be able
+to get a good job.
+Why would you think about any other thing outside of that box?
+That's right.
+So it's a sort of systematic change or to just be like to be yeah it's a it's some sort
+of systematic change that needs to be done and I don't know how to do that but like or
+just go against the system and just just study it on your own time or and don't get paid
+for it.
+Like yeah.
+So if you want to get paid you should be a string theorist is basically the thing.
+And my brother my brother he studied string theory so I don't really know anything about
+string theory.
+He studied it.
+He did his PhD in it and and then he went and now he's doing mathematical finance because
+he left it because he he didn't like string theory because it was too disconnected from
+the real world.
+Like it was too like there's so many assumptions that you're just making that just have to
+be you're just assuming they're right because the equations kind of look elegant but they're
+not really describing a world.
+But then string theorists say well we're just not smart enough to sort of figure out the
+equations yet.
+They will describe our world eventually.
+But that's such a big there's like a thousands of people have been working on it now for
+like 30 years or 40 years and there's still no like big advancement.
+But the equations are so elegant that they're like it must be right.
+So he left it because of that.
+And now he's starting to go back.
+He just told me like just a couple of months ago and he said there's like been so little
+advancement in the past 20 like 15 years since he left it.
+So little change.
+Like even though all these really bright people are working on it like there's no new ideas.
+So what is the future of physics?
+I don't know.
+I'm going to be part of that though but that's secret stuff.
+It's secret.
+Yeah.
+Secret stuff.
+Well let's talk about women shouldn't have more things then.
+Sure.
+Let's talk about women.
+Your movie Kurt just finished the movie shooting it and editing it.
+And I think it's like 95 percent done overall.
+Yeah.
+And it will be screened on February 16.
+That's right.
+Where is it going to be screened?
+At TIFF in the evening time.
+So Tuesday night.
+It's a lovely place.
+It's a lovely movie.
+It is a lovely movie.
+Oh boy.
+I can't watch my own movie.
+So last the reason why I took a while to get back to you with notes on the stuff is.
+Yes.
+I'm doing I'm editing the dialogue for the film and he's talking about giving me notes
+about the things that a director wants to change.
+He directed the film written it and played in it.
+Yeah.
+And I guess I guess I guess doing a good job everybody.
+And when.
+So anyway I just like every time I have to watch my film to make notes because you have
+to keep watching the revisions keep watching it being like oh the sound is too loud.
+This not necessarily your stuff but just like object drops or whatever in the film or this
+needs to be paced out differently.
+Whatever I dread it so much.
+Like I'll procrastinate like crazy like I feel so I feel so embarrassed.
+I feel like like like my film sucks really really bad.
+I know this this sucks for promotion because like but but just constantly understand the
+feeling perfectly.
+Yeah.
+Like and there's so much dread and like I'd rather do anything else than watch it.
+And to the point where I even went at the premiere I didn't even want to watch it like
+because I was like it would just embarrass me.
+I'm glad people like it because they don't they don't see it the way I'm seeing it like
+they don't see the flaws.
+But to me also just like I feel like it's just I don't know I keep I keep but you see
+I think those are being considered flaws but you because you've already categorized them
+as flaws.
+A lot of people don't notice them.
+A lot of people don't consider them as flaws.
+So it just is.
+Yeah.
+Well yeah.
+The reason I'm saying I understand what you're talking about is because I had the same experience
+making my first album that my music album that I was playing like a guitar solo for
+16 hours for like a week every day.
+And I hated everything.
+I hated myself.
+I hated that music everything to perfect every single part of it and it will never be perfected.
+And I'll just learn that you had to or I had to let go at some point and like you know
+what this is this is cool.
+This is awesome.
+I'm going to let it go and then whatever did I learn from that experience I will apply
+to my next experience and whatever I learn from that my next experience to the experience
+after that.
+And that's that's how it happened to me.
+What sort of music?
+What genre?
+That album.
+Yeah.
+It was instrumental progressive rock jazz fusion.
+What is that?
+There's so many things.
+Like technical things.
+Technical.
+Is there an example of something that like you're like it's like this that I could.
+Do you know Dream Theater?
+No.
+Yeah.
+I know what those individual words mean.
+I don't know.
+I can't really think of what kind of music you listen to.
+I just listen to I listen to Nirvana.
+Yeah.
+Nirvana.
+Our Lady Pea is like the 90s rock.
+Yeah.
+Basically just those two.
+And then I listen to like 1950s.
+What kind of 1950s songs?
+Easy Living.
+Do you know Easy Living?
+No.
+Billie Holiday?
+Yeah.
+Okay.
+So stuff like that.
+Like I also like this song is like oh I'm the type of guy who never settles down for
+pretty girls.
+You know that song?
+Is it Elvis Presley?
+Oh it sounds like it.
+I forget what his name is.
+I'm a wanderer.
+Yeah I'm a wanderer.
+I roam around around.
+Do you know this song?
+No.
+Okay.
+So just I don't know.
+I get it from Fallout because Fallout the video game is like all sort of 1950s songs
+and I just liked it from that.
+So I don't listen to it.
+I actually don't listen to music.
+This is something like most people don't realize or think is weird about me.
+I never listen to music for enjoyment.
+I just never, I don't have music downloaded on my computer.
+My car speakers have never had music played out of them unless other people are hooking
+up their phones to it or whatever.
+I just, I don't listen to music for pleasure.
+On the set of the film, whenever that we were not shooting, Kurt was singing Nirvana songs
+with Kurt Cobain voice and some people liked it, some people didn't like it I guess.
+Who didn't like it?
+I don't know.
+I heard a couple of times that you were asked to shut the fuck up.
+I don't recall that at all.
+I recall people being happy and delighted and asking for more.
+What is about Nirvana?
+Just the song structure or you can relate to the lyrics?
+I don't know.
+Not the lyrics.
+I like, this is the same reason I like Our Lady Peace.
+I like the melody.
+I love sort of, I love melody in music a lot which is why I like, I actually kind of like
+Lady Gaga's, this cool Lady Gaga song, Bad Romance and I like the part where he goes
+da-da-da-da-da-da-da-da-da-da-da.
+That's my favorite part of the song.
+I really, really like that part but it's like weird to like a Lady Gaga song like if you're
+just...
+It's so weird.
+I like Lady Gaga songs.
+Yeah, it's not weird.
+Thank you.
+Yeah, so I just like melody so much and I think it's melody.
+I think that's all it is.
+Like the Nirvana songs are very melodic and then Our Lady Peace's songs are melodic and
+I was listening and people are like, yeah, you should like Pearl Jam and stuff then if
+you like Nirvana.
+Pearl Jam stuff is not like melodic like Nirvana.
+It's weird and then, and I don't like when people do like, I don't know, these weird
+things with their, they go like, yeah, like stuff like that.
+Like that's not melodic and then to me that's not melodic.
+It's like more like sort of a vocal prowess, like showing your vocal prowess like Beyonce
+would or something like that.
+Right, show off.
+Yeah, but that's fine.
+Some people like that but I like the melody and that's not that melodic to me.
+Like if he did that in a melodic way, I might like it but yeah and I think that's why I
+like it.
+Another thing that I, another great book that I've been reading recently is called You're
+Not So Smart.
+Have you heard of it?
+You're Not So Smart, no.
+It's a great, great book.
+It's like, and each chapter is really short.
+It has like 60 chapters and one of those chapters talks about you, it basically goes through
+all sort of psychological biases you have as a human, psychological deficiencies, all
+these things.
+All these things, you think you're a rational person but here's why you're so irrational,
+like more irrational than you think and then they were talking about-
+Who's it by you now?
+I don't know.
+Then they were talking about what you think, they start off the chapter with like how you
+think you are and this is how you are.
+Like it's like you think you are, you have reasons for liking everything you do and you'll
+even list reasons but the truth is you don't, those reasons are in your subconscious and
+you don't have access to them and they are completely unrelated to what you think they
+are.
+So maybe these reasons I'm saying I like Nirvana are completely like BS, like I'm just making
+them up but I don't know I'm making them up.
+He's saying like giving examples like you think you like the song because you might
+say well I like the drums and blah blah blah but it turns out you like it because when
+you were a kid you watched this movie that had that and it was your favorite movie for
+whatever other reason and the ending soundtrack sounds similar to that and so years later
+you like that song.
+I agree absolutely, yeah.
+I think everything is like a domino, it's like one thing and this is like since the
+beginning of everything, if it's Big Bang, yeah exactly.
+So I actually don't think we have any free will in a sense that we can make a decision.
+First of all I think all possibilities exist like whatever decision we want to make the
+result of that is predetermined but we are just choosing like pathos.
+What do you mean by that?
+I mean I'm gonna go out of the house and then I get to a street that I can turn left or
+right.
+If I turn left series of things will happen like bird will fly over, wind will blow that
+leaf, a car will pass by.
+If I go right different things will happen.
+What I'm saying is that left and right is already predetermined but I'm choosing if
+I'm going left or right.
+That's as much free will as I have.
+Oh I see what you're saying.
+That's my understanding.
+What do you think?
+I don't even believe that.
+I believe in the gist of what you're saying.
+So I do believe we don't have free will.
+The universe is not deterministic, it can't be, which I can explain why, because of quantum
+mechanics, just because of quantum mechanics, because of randomness.
+So it's not determined but that doesn't have anything to do with free will.
+Maybe it doesn't.
+I'm not saying it's determined in a sense that...
+Like from the single moment of Big Bang we can determine all future events.
+Yes.
+But all possibilities exist.
+That's what I think.
+What do you mean by that?
+It means that everything that can happen, like alternate universes.
+If I'm turning left here, one of me in one alternate universe will turn right.
+You believe in the multiverse.
+I don't know if multiverse will explain that.
+Multiverse is the only thing that I can explain this what I think with now.
+Okay.
+Yeah.
+I think everything exists and we are just taking different paths.
+That path already exists but it's not predetermined that we're going to take that path.
+Interesting.
+Okay.
+That decision that we're making at that point is a reaction to another action which by itself
+is a reaction to another action.
+Yeah.
+I agree with that.
+And I don't even think it's only about us and like me and you, we're talking and we
+are affecting each other's train of thought.
+Yeah.
+We are also affected by the elements.
+So everything is like this.
+So we just have to write it and observe and understand things.
+I think more and more to understand that everything is connected, we're just going with the flow
+is like a drop in the ocean.
+That's what I think.
+You ever hear this thing about the only thing you can know for sure is that you're the only
+thing that's conscious or whatever?
+Right.
+That to me, that is one of the dumbest things I've ever heard and they'll tell you why.
+Yeah.
+It's true but then why, if that was true and I was the only conscious thing or that person
+who wrote it was the only conscious thing and she or he, I think it's a she just because
+my hatred for this person.
+So she wrote this thing.
+Why would you even write it?
+Why would you spend the tens and hundreds of hours to write this whole thesis statement
+about why you are the only one that really exists or that you can know for sure exists?
+If you really believe that, why bother?
+Why not just not do anything or murder people?
+Obviously it's not true.
+If you ask anybody who knows that, they would say or they would just say they don't believe
+that because otherwise you would live your life completely differently if you really
+thought that was true.
+I know theoretically or whatever if you're talking about like in terms of experience,
+you can only talk about your own experience.
+Like that's the only thing you could say is true.
+Everybody else could be a robot but it's just one of the dumbest sort of arguments that
+someone makes that's trying to sound intellectual.
+Like I just hate that argument so much.
+It's just if it was true, why would you do it?
+Why would you even say it?
+Like what's the point of even doing anything?
+I don't know if there is any point overall.
+The point is probably to not die of hunger and be somewhere warm, you know?
+But then we have imagination and we have the tool to make it happen so we make things.
+But what I'm saying is that we don't have any control over decisions individually because...
+So let's say that thing was true, that thing that conscious being thing was true.
+Like you only know that you're the only conscious being.
+So then if it's true, then that means that I'm the only conscious being because right
+now I'm the only one experiencing myself right now.
+So I feel like I'm the only one that's living, really.
+Well they really say in a conversation between two people, there are multiple of us exist.
+One of me is who I think I am.
+One of me is who you think I am.
+Which is completely different from me, but that's how you categorize aga in your mind.
+And one version is who I really am.
+Who are you aga?
+You tell me.
+You just made this argument about how I can't, that there is an alternate aga.
+I think there is alternate of everything.
+Who you think you are.
+Let's probe into this one particular alternate thing.
+Who are you?
+What's something about you that I don't know?
+Nothing like trivial, like you like orange socks or something strange.
+I don't give a fuck about overall.
+I think it just, you make things and you make you enjoy the result for most people, but
+the point is to be able to enjoy the process of making them.
+Do you ever have regret?
+Huh?
+Do you ever have regret?
+I don't believe in regret.
+I don't think it's logical.
+I know, but we're just, you know, irrational or logical beings, so I want to know if you
+can...
+Well, we don't have to.
+We don't have to be irrational or logical.
+Oh, but you're not so smart books, Differ is, begs to differ.
+You should read that book, it's a great book by the way.
+Anyway, so obviously like I don't believe in a, like there's lots of things you can
+logically know.
+I think regret comes from judging a event in the past with our present knowledge and
+wisdom and in hindsight.
+But I can also equally say that the opposite of regret, which is like, um, whatever acceptance
+maybe, if regret is irrational, why is acceptance not irrational?
+That is also irrational.
+So what, what is the most, what do you do?
+How do you, what do you do?
+Do you just sit there in the state of like, of just like, just, you just...
+No, because I have to survive.
+That's the thing.
+I have to survive.
+I have to eat.
+I have to drink water.
+But my point is, it's very Buddhist, I guess, is like that I should be fine with being in
+that room that you're saying completely empty or being in, in the middle of, you know, a
+palace.
+Like, I knew I'm limited to pretty much one room, doesn't matter where I live because
+that's how I grew up.
+What do you mean?
+I was always in my room.
+Oh, this was just a metaphoric, I was just joking.
+I didn't literally mean, are you going to be in a room?
+You could be.
+And I could be.
+So when you say like, you know...
+But what I'm saying is that we are, we, there is nothing objective about what we're experiencing.
+It's a complete subjective experience.
+So the reality that you're experiencing is a very different reality than I'm experiencing
+everybody else's.
+Yeah.
+No, but what I'm, I agree with that, but what I'm talking about is like, you said you don't
+give a fuck, which I believe you, but I want to know, so you don't really, I want to know
+if you experience regret.
+I know you don't think it's rational, but that's a different thing entirely.
+Whether or not you experience regret or whether or not you think...
+Sometimes I do.
+Yeah.
+So you give, you basically, you do give a fuck, but just way less than most people.
+I think it's just a matter of discipline and practice to get to a point that you can't
+change your past and you're building your future right now.
+So the best thing to do is to focus on right now, whatever it is that's happening.
+So for me, I want to be the most observant and present in the moment that I can be to
+experience that.
+Does that, and does that bring you happiness?
+What is happiness?
+No, that's, that's why I'm asking you like...
+Well, you should define happiness.
+What do you define happiness as?
+I define happiness as healthy, being healthy, being fulfilled and being successful.
+Okay.
+But...
+Let's get rid of the successful part.
+Let's say...
+Successful, it doesn't necessarily relate to money.
+No, I know.
+Material success.
+No, of course, of course.
+But I, so let's say the fulfillment thing.
+So do you feel...
+All right, fine.
+Put in successful.
+Do you feel happy?
+You're whatever your definition of happy is.
+Fuck yeah.
+I think I'm the fucking luckiest person that I know.
+Good.
+And I'm an atheist.
+So I don't have God to thank to.
+And I found out that saying thank you universe is also that fucking same bullshit.
+Yeah, who says thank you universe?
+Some people do.
+They want to replace God with something else, but it's the same fucking nonsense.
+So I'm just happy.
+There's this girl on my Facebook feed that like, I just, I met her at Starbucks.
+She, I don't know, she looked like a normal person.
+And then, and then we just exchanged Facebook contact.
+And I see her, the stuff that she posts on Facebook, it's all, she's always like, she
+puts these vlogs that like three people see, but she talks like she's, she acts like she's
+talking to like thousands or she has like a cult following.
+She's like, she's like, Hey everybody.
+Oh my God.
+It's such a beautiful day.
+Don't you just like shut your mouth.
+And she, and she talks about like, like you should like go on a cleanse.
+Like I just went on a, a yoga retreat.
+Who goes fuck you on a fucking yoga retreat.
+I hate her so much.
+And I keep her as my friend because it aggravates me sometimes like, you know, some people,
+they go to Reddit, like they browse R funny, R slash funny or whatever, to like make themselves
+feel good.
+Sometimes I'll, I'll browse things to make myself feel bad just cause I'm a weirdo.
+And so, so whenever I want to feel like hatred, I'll just, I'll look at her Facebook feed.
+It's like all about like, there's, there's toxins in like, like in like the, like the
+government is, is a toxin, not, not that that's actually like another thing.
+The government puts toxins in your, just like, oh, fucking bullshit.
+Well, people are looking for a purpose now.
+It's bullshit purpose.
+Yeah, but she's, she just sucks as a person.
+A lot of people did.
+Yeah, but she in particular, she broadcasts it.
+She broadcasts it with such confidence and such sincerity to convince herself that she's
+a good person.
+No, she, she's already done that.
+She's done that a long time ago.
+And she also has like really like, she's also not even that fit, but she keeps talking about
+how she's so fit.
+She needs to lose some weight.
+She needs to like you, like she needs to, she's, she's not a good person.
+She bothers me so much.
+I wish I could say her name.
+I once posted something, oh, oh, oh, she also, we just never, I just added her and then we
+never talked, right?
+So she doesn't even know who I am anymore because it's been so long, right?
+Why did you add her as a first place?
+This was like two years ago.
+But why?
+Why?
+I don't know.
+I was just adding everybody at that time.
+No, I was not, not everybody.
+I was just adding, cause she was a woman, she was a girl.
+So I was like, okay, maybe I could sleep with her.
+Yeah.
+Did you?
+No.
+I'm at her vagina is probably like, probably like she probably doesn't, I don't know.
+She probably does weird things to it with like.
+Like what?
+It's like one of those things that you take where you dilute it in water so many times.
+What's that thing?
+What's that thing called?
+Where you dilute it in water and then homeopathic, she probably does homeopathic solutions for
+her real yeast infection and it's just not going away.
+She's like, no, it's working.
+I can feel it.
+Is this a, is this a hatred towards women or you're just very critical of them?
+Cause it's kind of a pattern that can be also seen in your film.
+Oh, seriously?
+Yeah.
+So, well, tell me this first, is your film, how would you categorize that?
+Is comedy, philosophical, romantic?
+Oh, very interesting.
+So, so there's so much, something that's really, something that I wanted to do is like, whatever
+I write, I write it for, I want it to be like the best thing that I could possibly write
+at the time and I'm not going to dumb it down for anybody.
+So there's a lot of stuff in there that's like sort of weird and esoteric and it's like,
+also then, then I also, here's another thing.
+Just like that girl where she has three followers, but she acts like she has a thousand, I'm
+criticizing her, but I kind of do the same thing with my film.
+Like I, I, I put so many things in there that you really have to be so observant to realize.
+Like you have to watch the film three times to be like, oh, that sentence means this.
+Oh, that implies there's another layer underneath.
+And then, and then I put like, for those people that figure that out, for the hardcore fans,
+like you can be like, oh, there's another layer underneath that.
+And then, and then even one more that like no one will figure out until like ask them
+one specific question, like, oh, well, why do you think this character did this?
+And then they'd be like, holy shit.
+And then they inspire you to start writing.
+What did you get inspired to get into movies?
+I used to do standup and it was just, I just wanted to do something like, you know, everybody
+wants to do movies.
+Everybody like, everybody says that, oh, I have a story or whatever they, so it's like
+in our culture to just like want to do movies and I was already doing standup.
+So then I was like, okay, I can write it.
+Then I, the real story is like I made a script for Comedy Central when I just did one performance.
+All I did was one performance on stage and I did pretty good.
+And I just thought it was like the best.
+So I wrote a script for Comedy Central after one performance on stage and it sucked so
+bad and they rejected it.
+And then I was just like, I just, instead of me being like, fuck, what the fuck, man,
+I suck.
+Instead of me being like that, which I normally would, I don't know why it wasn't, I was just
+like, who are they to reject my amazing script?
+I was like, such overconfidence about it.
+And the script, by the way-
+How long ago was that?
+This was like when I was 18.
+How old are you now?
+27.
+So nine years ago, yeah.
+So then I just like learned, I was like, fine, I'll make my own script, learned to use a
+camera.
+Then I wanted to get a director and no one would direct it, like I didn't know how to
+get a director.
+I'm like, fine, I'll learn to direct.
+I'll be my own director.
+Wanted to get someone to edit.
+I'm like, no one will.
+Fine, I'll learn to edit it myself.
+Then it just kind of went that way of like people saying no, then I was like, fine, I'll
+do it anyway.
+And then so it just kind of came about from doing a bunch of those little comedy things
+or little-
+It's awesome.
+Videos, yeah.
+Is this story based on something that happened to you personally?
+All of it is like, almost all of it is real.
+Yeah, very, very little of it is not real.
+Like almost everything is a storyline that really happened, except obviously Japiness,
+which is a story that there's no real, there's a story in the film, the character gets, wants
+to make a story for Japanese people and then he's-
+It's not racist, it's cultural awareness.
+Yeah.
+And then it's just-
+It's pretty good.
+Yeah, then that's fake, obviously.
+You were influenced by Larry David, clearly.
+Yeah.
+Did he yell into you or no?
+Not really, but someone said that, someone said Wes Anderson, which I really disagree
+with.
+I don't even like Wes Anderson.
+I watched his films like once each, not even twice.
+Which ones did you watch?
+So I watched Bottle Rocket, which I think is the one that I like the most.
+And I really, oh, I like Mr. The Fantastic Fox, something like that.
+I really like that one.
+And then the rest I don't really like, like Darjeeling Unlimited or whatever.
+Oh no, I love that film.
+Yeah, so I didn't really like it, but then what else?
+His most recent ones I didn't like, the past three, Hotels, no the Hotel Chavalier was
+a short film I think.
+Yeah, that's a short film.
+That one I really totally liked though, that one I liked, and that wasn't comedic at all.
+Yeah.
+Yeah, so it was strange that people said it was Wes Anderson, it's only because I love
+like straight-ons of people.
+I love straight-ons, and just for people who aren't into film, that just means you film
+a character straight-on and not at an angle, like they're looking almost at the barrel
+of the lens.
+I love that.
+And I guess Wes Anderson does that too, so that's pretty much the only, maybe Whip Pans.
+Maybe that and Whip Pans is the, but for me, I wrote that in the script, like I wasn't
+even thinking Wes Anderson, I just, that was just a better scene transition than a cut.
+It just, it flowed better.
+Like I could see it while I was writing it, that if it was a cut, it would be 5% different
+in terms of the emotion that I wanted to evoke.
+So I was like, okay, I can make it.
+How do you define people, like actors especially?
+Mandy.
+Just Mandy, that's it.
+A little bit through this website called My Goalio, which is this new website.
+And then you went by faces for actors or did they audition for it and you were like, okay,
+not you, not you, not you, you, yes.
+Yeah.
+It was like Tinder.
+It was like swiping on Tinder, especially for the women, because there's, but not because
+I'm just going for who looks good.
+I'm just going for like who looks like the role that I, like you have to, first, the
+first filter is you have to look like the person that I want you to look like.
+And then the second thing is like, then you have to act it.
+So I could eliminate a lot of the people just by like swiping left or archiving or whatever.
+Yeah.
+And same with the guys too.
+How long was the process?
+Pre-production started two weeks before production, like it was so hectic, man.
+And we were doing pre-production while we're doing production too.
+In fact, the guy who played the lead role, Hanny, the second lead, it was going to be
+someone completely different than his schedule changed.
+And he was the most ideal person.
+And then he was quoting me some crazy amount of money that he wanted.
+And then it was like just per day, even if it was one hour, but it was a crazy amount,
+like more money than my cinematographer is being paid, more money than like even my cinematographer
+and producer together are being paid.
+And he's not even that good.
+He's not like, I don't know why he wanted that.
+I think he was doing that as a way to get out, but whatever.
+So I couldn't get him.
+And then he wouldn't even guarantee me dates.
+So I'm like, I was thinking like, if I'm going to pay you that much, you better say that
+you're free on the dates that I want you to be free if I'm telling you in advance.
+And he's like, no, I can't do those dates.
+But anyway, so then we got Hanny, the guy who played his name, Sean Ray, and this is
+not good.
+Sean Ray wouldn't want to hear this, but like he was like our, we were just like, I personally
+was like, fuck it, fine.
+We'll just get this guy.
+Like seriously, I feel so bad.
+He did a really good job though.
+No, he did a great job, but like at the time when I watched his audition, I was watching
+a bunch of auditions.
+The whole theme of the script, the whole theme of the movie after a while became fuck it,
+whatever.
+Like for every little decision, like certain things would start to go wrong and or like
+you just never ideal, then you just say fuck it, whatever, just move on.
+Even to this, to the supporting lead, like we're watching the auditions, he, he sucked
+the least.
+I was like, ah, fuck it, we'll just cast him.
+So we got him to come in.
+I told him it was an audition and it was, but we set up lights and everything.
+We set up the whole scene with the fog machine, with the labs, with everything so that we
+could film it at the same time so that if it did work, we could put it in the film.
+And then that scene ended up going in the film.
+It was the one where he had to ADR because that was one with the dialogue that was the
+worst.
+Yeah.
+But no, he ended up being really good.
+I didn't want him to do the accent.
+I first, I put that in the script and then I thought the accent was too silly and I didn't
+want that in the movie.
+But then Khan and Jess and the, and someone else that was there just said like, no, the
+accent's good.
+The accent's good.
+I'm like, whatever.
+We did multiple takes with the accent without, for that one scene.
+And then I was like, okay, fine, we'll, we'll put the accent in and everybody loved him
+a lot.
+Yeah.
+Like people were surprised he doesn't even have that accent.
+No, he's doing a really good job.
+Yeah, he's the, he's the best actor.
+I'm the worst actor.
+And then it goes, I have, I'm pretty bad.
+I don't think you're too bad.
+I'm like cracking.
+I'm like laughing at certain scenes.
+It was, it was, I was okay.
+Fine.
+I was okay.
+I was better than the, I don't want to say the other people that weren't that good, but
+yeah.
+Do you have the second movie planned?
+I do.
+Yeah.
+What's that?
+So, so that one's going to be a big, big movie.
+I can talk about that later.
+I can't talk about things.
+It's not that planned.
+That's why it's very in its infancy, but it's going to be, it's going to be like, I keep
+But it's going to be considered to be one of the greatest movies ever made.
+And people are like, oh yeah, sure.
+Well, that's good.
+You're shamed for that.
+That's like how people think it, but I'm, I'm serious.
+Like it's going to be that good.
+Like we know how there's the standard top 100, which is like Citizen Kane, Godfather,
+I don't know, Shawshank maybe.
+It's going to be up there.
+It's like, it will almost, it's going to be good.
+My next one's going to be amazing.
+Then my third one, I have that one kind of planned.
+That one is not going to be in terms of, it's going to be good.
+It's going to be great.
+To me, it'll be even better than my second, but it won't be considered by critics and
+stuff to be like the top 100, but that one will change people's lives.
+Like my third one is like one that will like make you be like, oh, like rethink a lot of
+stuff.
+That one's, my third one's a very thought provoking one.
+Interesting.
+Yeah.
+Have you started a process of writing a script for both of them at the same time?
+No.
+I just have the idea for the third one and I kind of have the idea for the second one
+that I'm writing still.
+Yeah.
+You mentioned that you have a special kind of passion for Toronto and you want to do
+with Toronto what Woody Allen did with New York.
+What makes you so interested in Toronto and are your future movies also going to be in
+Toronto and all your movies are going to be in Toronto?
+At least the next two, right, because I haven't planned and I have something interesting planned
+for how I'm going to do my second one about Toronto.
+It's going to almost be like, not CG, but like it's going to be a changed, it's a Toronto
+you haven't seen, like a very tweaked Toronto, kind of like her, like slightly futuristic,
+but it's not really, it's not a future in this movie.
+It's not like a science fiction, so her is like kind of fantasy in the future.
+This is not that, but anyway, yeah, it's going to be in Toronto and the reason why, I don't
+know, I have an irrational love for Toronto.
+It's irrational, just like you're not so smart tells me in the book, but really I have no
+reason to love the city that much other than it's the first world country, which is great
+and like I always, I constantly tell people, people ask me like, what's something you do
+for fun?
+And something I love to do is like just walk around downtown at night with just the streetlights
+and just everything.
+Like I feel, there's like this childlike sort of like, I feel so happy, so like content
+and happy and like, and grateful, I'm like, look at all these things we have that everybody's
+just walking past and they don't even care about, but like we have like paved, first
+of all, we have paved roads and not just like any paved, they're great, they're like normal
+roads, they're not like Trinidad roads in my country.
+So they're great, we have clean water, anytime we want, we can just get clean water.
+We don't even have to, we can go to a store and it's...
+Clean water apparently is not the case across Canada, but it is in Toronto definitely.
+Sure, okay, so let's say Toronto, yeah.
+So that's what I'm saying, like how good we have it here.
+So clean water.
+Oh, this is like heaven.
+It's amazing, like the worst...
+Not like heaven, this is heaven.
+Like a homeless person here has it better than like the average Nigerian or whatever,
+so choose something.
+Yeah, like 90% population of the world probably.
+Yeah, so it's really cool and people are so, they don't really appreciate it.
+It's not that people don't appreciate it, people want more and I think that's what,
+it's one of those things of being a human.
+This is something that bothers me about that whole 1%, 99% thing, I really hate that whole
+movement.
+I hate anybody that...
+I don't like that movement either.
+Anybody that talks about inequality, I could not care, I could not care less about inequality,
+I couldn't, because here's my argument for any, about the whole thing.
+So if you are part of the 99% and you're just middle class or like, let's say even lower
+middle class, okay?
+Of course poverty line like, even the poverty line is like okay compared to other countries,
+but let's just talk about lower middle class, okay?
+You're talking about here.
+Yeah, so here in the States, here and the States, okay?
+You have it, you are living like royalty lived like a thousand years ago, not royalty but
+like the rich lived a thousand years ago, way better than them.
+You have cell phones, you have like right angles on streets and like all these, you
+have cars and do you know what I mean?
+Like you have it better, why do you care if someone else has it even better than you if
+you have it good?
+You should never look at someone else's plate and be like, why do they have more food?
+You should look at your own plate and do I have enough and maybe look at someone else
+and be like, do they have enough?
+But don't look at someone else and be like, I should be having that, that sort of feeling
+of being jealous and being like, oh it's unfair, it's unfair that they have more.
+Who cares as long as you're satisfied.
+That's exactly how they feel though.
+I know but that's, to me that's, it's like, it doesn't, it's so irrational like you're,
+you have every...
+It's not irrational for them, it's irrational.
+No, it's real to them but it's still irrational.
+For you and for me and for people who have certain kind of comfort, that's the thing.
+That's what I mean by not all of us experiencing the same reality.
+Here's the thing, here's the thing, if I told you, if I just, people's concept of what happy
+is is like so fucked up, that's why I have something against happiness but I can go on
+for like hours about that but like, so people say, if I ask you, let's take someone who's
+happy okay?
+So are you happy?
+And they say yes.
+I'm like okay, can you list out all the reasons why you're happy?
+And then they're like, okay, I can go to a restaurant whenever I want, I can blah blah
+blah, I have kids that love me blah blah, okay?
+Then I say, okay by the way, that's great, now did you know that there are aliens that
+live and they live in like, you didn't know this but they live like right on the outer
+atmosphere of earth and they live in this great like hunger games, like palace of like
+royalty and it turns out that you can actually fly as a human but they've limited you and
+you can't fly.
+Are you happy?
+Most people would be like no, what the fuck, that's fucked up.
+But what on that list that you just wrote down that made you happy has changed?
+That list is exactly the same, you should still be happy but now you feel like oh I'm
+missing out on something and then that makes you unhappy?
+Your list has not changed.
+Yeah, they want to be special.
+That bothers me so much.
+So your happiness is relative to other people's?
+Yeah, for them.
+I'm not saying it's right, I think it's-
+I know, that's just-
+But that's not going to change, it's just a matter of evolution, I think chimps are like
+that.
+Exactly, exactly, there's the whole thing about the chimp and the grapes.
+I've always thought if we want to understand people really well, we have to start watching
+a lot of documentaries about chimps because that explains a lot, the jealousy, greed-
+Right, no, they have evolutionary roots but that doesn't mean that they're okay.
+Just like, I'm not looking at someone being unjust and then looking at a chimp yelling
+about not getting enough grapes and being like, oh yeah, well that chimp really had
+a point, that chimp is really smart and really deduced based on logic and reason behind that.
+For the chimp's logic and reason, that's the thing, how are we going to compare a human
+logic and reason with chimp's logic and reason?
+But that's what they're doing.
+I have the same feeling about religion and extremely religious people, that they just
+buy into that fact because that gives them a sense of purpose and that's a problem I
+think.
+When you say it's rational to them, what do you mean?
+Because okay, I can see how they can think it's rational.
+What I mean is that I'm going to quote David Lynch, a great director and philosopher I
+would say, that if you have a golf ball size consciousness, your understanding of the world
+is a golf ball size.
+If you have a box, that's the amount of your understanding of the world.
+If it's infinite, okay, okay, fine.
+So what I would say, what they are experiencing, you know, that triangle of our crucial needs
+and stuff, it starts with, yeah.
+So they have less amount of security and comfort and ease of mind than you, me and privileged
+people.
+It's not that we're privileged, but we're pretty comfortable.
+Yeah, okay, I know what you're going to say, sorry to cut you off, but what I would say
+to that is like, there's a difference between something being rational to them and it being
+rational.
+So objectively rational.
+I don't think there is such a thing as objective rationality.
+Oh, well, we can talk about that another time.
+Yeah.
+I think we, there are certain laws like gravity and yeah, but nothing like related, even,
+you know, related to morality at all.
+What about Sam Harris's whole moral landscape?
+I love that book.
+And do you not agree with it?
+I don't know.
+I think he changed also a lot of, not a lot, but some way of thinking about his too.
+After that book came out, you mean?
+There is a bit, I see the difference between moral landscape and wake up, right, or waking
+up.
+Yeah.
+I don't know.
+Which one did you like more?
+Can I guess?
+Yeah.
+I think you like waking up more.
+I think so too.
+Yeah.
+So I really liked the moral landscape a lot and I just didn't like waking up.
+Yeah.
+Yeah.
+I listened to it and I was like, no, well, I mean, he just talks about spirituality,
+but there's nothing there that was like a new idea to me.
+It was more like just talking about spirituality.
+I basically like him coming to that place that he considers that, which I think is pretty
+cool.
+And just so your listeners aren't confused, when Sam Harris talks about spirituality,
+it's not like regular people talking about spirituality.
+He just, he's using that as a word because he has no other word to do.
+He's a neuroscientist philosopher who...
+Atheist too.
+Atheist.
+One of the greatest atheists.
+So let me ask you two final questions.
+The first one would be, what is the purpose of life?
+There is no purpose.
+A purpose kind of to me implies some sort of higher being.
+That's another reason why I have something against the word deserved.
+When anybody says, oh, you deserve this, there's something that irks me inside.
+And women say that a lot.
+This is all ties back to...
+We didn't get to talk deeply about your hatred for women.
+No, but women say this thing all the time.
+They're like, girl, you deserve that break.
+You deserve...
+Girls use the word deserve like far too much.
+Explain to me one sentence.
+What is the core difference between men and women?
+Oh, there's so many.
+So I'll tell you, a man's sort of power and status in his life comes from him struggling
+hard to make it.
+Okay, unless you're just really good looking, which there are very few guys that are good
+looking and just make it off their good looks, versus a girl who can just be...
+When I say girls, I'm talking about like, let's say you're seven and a half and above,
+because then if you're six and below, you're just...
+If you're five and below, you're like, I'm sorry, you might as well be a man.
+So I'm talking about like a certain status of women, okay?
+So if you're a woman, then you just like, guys would just like, take your luggage for
+you, just do everything for you.
+I remember I was...
+There's a story about this guy who did stand up for like 30 years, was doing great.
+Finally like, he went off stage, like everyone's applauding and like turning heads and stuff.
+I'm like, he's like, yeah, I feel good.
+Then some hot girl came in like two minutes later and all the heads turned to look at
+her in the same way that he got looked at because he was a celebrity.
+That's just quintessentially, that's what you have to do as a man.
+Those 30 years of experience to just kind of equal what a girl gets automatically.
+Yeah, but you should look at countries like Saudi Arabia and Afghanistan and those places
+that they keep their women in the closet and in the beekeeping suit and they can't even
+drive.
+So who gives a fuck if somebody can't get drinks or applause because they have big boobs?
+People are attracted to big boobs and they are to male physics, majority of people.
+I think we should all sort of aspire to be like Saudi Arabia and I'm just kidding.
+So I'm only talking about the Western world, of course.
+I don't care about the...
+I mean, I do care but I'm not ranting about...
+I'm not like gonna go tell a woman who's getting acid in her face like, yo, well, you had it
+good your whole life so now you get acid.
+I'm not gonna tell that, you know.
+So I'm talking about like...
+And then there's so much more awareness of women's issues than there are men but yet
+the society thinks it's totally the opposite.
+The way society thinks like, if you grew up in the 80s, if you were born in the 80s and
+above, you're just feminized.
+It's all liberal arts, like every...
+Even the word rape was only very recently made to incorporate a man.
+People think that women were more oppressed than they were.
+People think that women make $0.75...
+Oh, it's much better than it used to be.
+No, but also people think that...
+There are still a lot of problems like pay is a big deal, you know, call paying.
+No, but that's been shown to be false.
+Like, so another thing I used to study was economics like a little bit and there's so
+many economics, economic like just things about money that people are wrong about.
+So the whole $0.75 a dollar thing is shown to be false.
+If you make everything equal, like you try to control for, does this girl have the same
+education as the guy?
+Has she stayed in the company the same as the guy, the same position?
+Then they get paid the same.
+It turns out they get paid the same.
+The difference is like if you add up, like in total, how much money do women make?
+How much money do men make?
+It's about 75% of what men make, something like that, okay?
+And then that comes in because women make different choices, they go into different
+fields.
+Men tend to go into engineering or whatever, women tend to go into whatever, other things
+that pay like...
+So you're saying the women who go to engineering do not have equal pay to men who are engineers?
+Oh, well then you have to also account for did they have kids?
+Did they take time off of work?
+So if you account for all these things and did a man take time off of work, blah, blah,
+if you account for those things and you hold them, that's what you have to do in science
+before you make a correlation between variables, you have to fix every other thing to say that
+these things are the causation, there's a cause and effect.
+Then it turns out that the pays are equal.
+And so I could just send you so many videos on that.
+There's search pay wage gap myth or something like that.
+There's tons of videos about that.
+Yeah, it's a myth.
+Are you following US politics, US election campaigns?
+No, no, I don't know who Bernie Sanders is and I don't know, I want...
+I would love it if Trump got elected.
+I kind of like what he says.
+A lot of people say like, yeah, Trump sucks, like, oh, why?
+He's just a negative man.
+That's not even like an argument against like, what particular policy...
+Well, you know, actually, we were talking on the first episode of this podcast how I'm
+going to support Donald Trump if Bernie Sanders don't get the Democratic candidacy because
+Hillary Clinton is the other person.
+But she brought Sarah Palin to the game and that's where he lost me because that is just...
+Trump brought Palin?
+Yeah.
+It's just...
+Marketing.
+It is, but I mean, to what kind of people is just bringing shit show, you know?
+Anyways, let me ask you the final question.
+If you come across an intelligent alien from a different civilization, what would you tell
+that intelligent alien as the worst things that humanity has done and what would you
+tell that alien as the best thing that we have achieved?
+Oh, that's a very good question.
+Um, the worst thing is like, just torture, just people being tortured.
+Like how, just, you know, like, obviously people will say, yeah, the US torture is going
+to be...
+Well, okay, fine, whatever.
+It's in the US too.
+But also Japan and like World War II, like some of this stuff they did is crazy and no
+one hears about it because it's just not taught, they talk more about Germany.
+So like it's like, I used to just, like I said, how sometimes I want to get mad at things.
+Like I want to get mad at that girl on my Facebook.
+Sometimes I want to know, I want to know the real, how the world really is.
+Even if it makes me like feel sad and depressed.
+So sometimes I'd like purposely go out of the way to search for depressing facts just
+because I feel like to get a sort of broad-eyed, bird's-eye view of everything.
+Some of the things Japan did was fucked up.
+So just suffering and torture is the worst.
+I don't particularly care about slavery.
+I mean, no, don't misconstruing me anybody in the future.
+What I mean is like, to me, slavery compared to suffering, compared to torturing, sorry,
+is not that bad.
+Unless you torture your slaves.
+There's nothing that compares to torture.
+So torture is the worst that humanity does.
+Even to animals, I really hate that.
+The best thing is, I don't know, the internet, the internet, something like that.
+Yeah, it's probably something like that.
+Or whatever is the start of a technological revolution that would eventually make the
+internet anyway.
+And the internet's going to make something else and make those other things and singularity,
+blah, blah, blah.
+So whatever started that, that was the best thing.
+Because without it, we wouldn't be on that thing to the singularity.
+And I think the singularity is going to be the best thing.
+But whatever starts it is obviously also good because it started us into an almost inevitable
+push to the singularity.
+Like Ray Kurzweil shows, even past World War I and World War II, that law of accelerated
+returns doesn't even perturb, despite World Wars.
+It's almost like inevitable.
+So yeah.
