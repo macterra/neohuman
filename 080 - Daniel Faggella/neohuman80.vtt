@@ -1,0 +1,4127 @@
+WEBVTT
+
+00:00.000 --> 00:01.600
+Why aren't they talking about AI?
+
+00:01.600 --> 00:05.480
+It just doesn't matter enough to the constituents, right?
+
+00:05.480 --> 00:08.840
+Why are they talking about, name your topic, sir.
+
+00:08.840 --> 00:09.920
+Name your topic.
+
+00:09.920 --> 00:11.760
+I mean, the most arbitrary things
+
+00:11.760 --> 00:13.840
+become giant friction points
+
+00:13.840 --> 00:16.080
+and then they get in all the speeches.
+
+00:16.080 --> 00:18.080
+Is it because of their inherent meaning
+
+00:18.080 --> 00:20.040
+and some platonic reality?
+
+00:20.040 --> 00:21.240
+No, no, no.
+
+00:21.240 --> 00:23.480
+It's simply because they resonate with the constituency.
+
+00:23.480 --> 00:25.880
+So we can expect AI to land
+
+00:25.960 --> 00:30.720
+on the sort of political speech table
+
+00:30.720 --> 00:33.840
+when it matters to the people who are being spoken to.
+
+00:41.720 --> 00:45.160
+Hello and welcome to the 80th episode of New Human Podcast.
+
+00:45.160 --> 00:50.120
+I'm a Gabbahari etiologist on Instagram and Twitter
+
+00:50.120 --> 00:52.120
+and you can follow the show on liveinlumbo.com,
+
+00:52.120 --> 00:55.440
+iTunes, YouTube, BitChute, and at some point on Spotify.
+
+00:55.440 --> 00:58.120
+And today with me, I have Daniel Affigiello.
+
+00:58.120 --> 01:00.320
+Welcome to New Human Podcast, Daniel.
+
+01:00.320 --> 01:01.600
+Hey, glad to be here, brother.
+
+01:01.600 --> 01:03.920
+Yeah, let's start with your background,
+
+01:03.920 --> 01:05.600
+the work you've done, the lives you've lived
+
+01:05.600 --> 01:08.160
+and what are you mainly focused on now these days?
+
+01:08.160 --> 01:13.160
+Yeah, so I began sort of not in the computer science space.
+
+01:13.840 --> 01:15.960
+So right now I'm the founder and head of research
+
+01:15.960 --> 01:18.440
+at a company called Emerge Artificial Intelligence Research
+
+01:18.440 --> 01:20.280
+that I founded some three years ago
+
+01:20.280 --> 01:22.240
+when I sold my last business.
+
+01:22.240 --> 01:24.200
+So at Emerge, our work is really
+
+01:24.240 --> 01:27.760
+mapping the return on investment of AI in the private sector.
+
+01:27.760 --> 01:30.240
+So we look at banking and financial services,
+
+01:30.240 --> 01:31.920
+we look at pharmaceutical,
+
+01:31.920 --> 01:33.920
+we look at the range of AI use cases
+
+01:33.920 --> 01:36.160
+and which of them are actually delivering value
+
+01:36.160 --> 01:39.280
+and we provide research products and data and advisory,
+
+01:39.280 --> 01:41.120
+kind of like a Forrester or a Gardner,
+
+01:41.120 --> 01:44.120
+to big companies who want to actually see a return
+
+01:44.120 --> 01:45.200
+from artificial intelligence.
+
+01:45.200 --> 01:47.720
+We do a good deal of work in the public sector as well,
+
+01:47.720 --> 01:49.760
+mostly in defense and security,
+
+01:49.760 --> 01:52.160
+financial crime, surveillance, things along those lines,
+
+01:52.160 --> 01:54.080
+but primarily in the private sector,
+
+01:54.960 --> 01:56.720
+it's going to be financial services, life sciences.
+
+01:56.720 --> 01:59.000
+So market research is the name of the game,
+
+01:59.000 --> 02:00.840
+but you want me to get into the old school stuff.
+
+02:00.840 --> 02:03.240
+Yeah, it's interesting to have context
+
+02:03.240 --> 02:06.680
+where the perspective of each individual comes from.
+
+02:06.680 --> 02:09.240
+I mean, I want to talk about Emerge,
+
+02:09.240 --> 02:10.560
+I want to talk about AI,
+
+02:10.560 --> 02:13.560
+but it's also interesting to know who is representing
+
+02:13.560 --> 02:16.480
+and expressing these ideas about AI.
+
+02:16.480 --> 02:18.040
+For sure.
+
+02:18.040 --> 02:19.920
+Well, I'll give you, I guess, a little bit of backdrop.
+
+02:19.920 --> 02:23.160
+So I'm not exactly from a tech background at all,
+
+02:23.320 --> 02:25.560
+I'm from a 4,000 person town in Rhode Island
+
+02:25.560 --> 02:26.880
+called Wakefield, Rhode Island.
+
+02:26.880 --> 02:28.040
+You've never heard of it before,
+
+02:28.040 --> 02:29.760
+and you will from this point until you're deaf,
+
+02:29.760 --> 02:31.280
+never hear of it again.
+
+02:31.280 --> 02:33.400
+It's a very small place.
+
+02:33.400 --> 02:34.920
+It's a quaint place, a beautiful place,
+
+02:34.920 --> 02:36.720
+but it's not a place I could stay,
+
+02:36.720 --> 02:38.600
+given my objectives in life.
+
+02:38.600 --> 02:40.440
+So that's where I'm from,
+
+02:40.440 --> 02:42.680
+and the way that I paid for college,
+
+02:42.680 --> 02:44.600
+and ultimately for Ivy League graduate school
+
+02:44.600 --> 02:45.960
+at the University of Pennsylvania,
+
+02:45.960 --> 02:47.720
+where I studied cognitive science,
+
+02:47.720 --> 02:49.920
+and my focus was on skill development
+
+02:49.920 --> 02:51.120
+and skill acquisition.
+
+02:51.160 --> 02:53.920
+So the cognitive science of acquiring skills quickly.
+
+02:53.920 --> 02:55.040
+The reason I went in for that
+
+02:55.040 --> 02:56.560
+is because I was in combat sports.
+
+02:56.560 --> 02:57.680
+So the way I was paying the bills
+
+02:57.680 --> 02:58.880
+was running a martial arts gym.
+
+02:58.880 --> 03:00.360
+So I was training fighters.
+
+03:00.360 --> 03:02.120
+We had some fitness classes,
+
+03:02.120 --> 03:04.800
+but it was mostly mixed martial arts and Brazilian jiu-jitsu.
+
+03:04.800 --> 03:06.480
+So I have a black belt in Brazilian jiu-jitsu.
+
+03:06.480 --> 03:08.400
+I've trained extensively, given seminars
+
+03:08.400 --> 03:11.040
+around the United States and even in Brazil,
+
+03:11.040 --> 03:12.920
+and won a national tournament,
+
+03:12.920 --> 03:14.880
+and did a lot of competing in my day.
+
+03:14.880 --> 03:16.640
+And so that's how I was kind of paying the bills.
+
+03:16.640 --> 03:18.960
+And so I was really interested in what does it look like
+
+03:18.960 --> 03:21.880
+to improve faster from an athlete perspective,
+
+03:21.880 --> 03:24.120
+training my own fighters, training myself.
+
+03:24.120 --> 03:25.880
+And so that's what I went to graduate school for.
+
+03:25.880 --> 03:28.720
+And when I was there, this is back in 2011,
+
+03:28.720 --> 03:30.200
+I was getting capped on the shoulder that,
+
+03:30.200 --> 03:32.640
+hey, Dan, all this human learning stuff,
+
+03:32.640 --> 03:34.200
+all this neural stuff,
+
+03:34.200 --> 03:36.080
+they're kind of doing that with computers.
+
+03:36.080 --> 03:38.080
+And this is the really early days of ImageNet,
+
+03:38.080 --> 03:40.240
+when ImageNet started becoming exciting.
+
+03:40.240 --> 03:41.680
+This is also the very early days
+
+03:41.680 --> 03:43.960
+of when they were applying natural language processing
+
+03:43.960 --> 03:44.800
+to Twitter data.
+
+03:44.800 --> 03:46.480
+There was something called Google Zeitgeist
+
+03:46.480 --> 03:48.960
+that UPenn was involved with at the time,
+
+03:48.960 --> 03:52.360
+deriving sentiment from different factors
+
+03:52.360 --> 03:54.160
+in the social media ether,
+
+03:54.160 --> 03:56.640
+and kind of determining how that correlated
+
+03:56.640 --> 03:57.640
+to different cities,
+
+03:57.640 --> 03:59.200
+and how weather affected different cities,
+
+03:59.200 --> 04:01.160
+and the moods of people, and the sicknesses of people,
+
+04:01.160 --> 04:02.160
+and things along those lines.
+
+04:02.160 --> 04:06.160
+So when I got out of grad school with the psych degree,
+
+04:06.160 --> 04:08.480
+I kind of became convinced this AI stuff,
+
+04:08.480 --> 04:09.480
+looking at the near term,
+
+04:09.480 --> 04:11.400
+and then also reading people like Nick Bostrom
+
+04:11.400 --> 04:14.080
+and Ben Goertzel, and learning about the long term.
+
+04:14.080 --> 04:16.080
+I was lucky enough to interview Ben Goertzel
+
+04:16.320 --> 04:18.160
+and Bostrom pretty much right out of grad school.
+
+04:18.160 --> 04:21.200
+I talked to all the major players in the AGI space.
+
+04:21.200 --> 04:22.200
+I became very convinced
+
+04:22.200 --> 04:23.560
+that in both the near and the long term,
+
+04:23.560 --> 04:25.920
+this was an exceedingly important technology,
+
+04:25.920 --> 04:28.200
+and that my understanding from a conceptual level
+
+04:28.200 --> 04:29.680
+in the cognitive sciences,
+
+04:29.680 --> 04:31.520
+I should just be able to transfer that over.
+
+04:31.520 --> 04:34.360
+So I got right into really studying this stuff,
+
+04:34.360 --> 04:36.240
+and then talking to the leading figures there,
+
+04:36.240 --> 04:38.440
+and eventually started a company.
+
+04:38.440 --> 04:39.280
+Very cool.
+
+04:39.280 --> 04:41.520
+I mean, you must have started with interest in the mind,
+
+04:41.520 --> 04:43.120
+getting into martial art,
+
+04:43.120 --> 04:45.520
+the kind of martial art that you got into.
+
+04:45.520 --> 04:48.320
+It's not that, hey, let's just go out and kick some ass.
+
+04:48.320 --> 04:50.680
+It's more about finding yourself, right?
+
+04:50.680 --> 04:53.600
+Through that art of battle.
+
+04:54.520 --> 04:56.200
+Yeah, there's something to be said of that.
+
+04:56.200 --> 04:58.840
+I don't personally overly spiritualize martial arts.
+
+04:58.840 --> 05:00.480
+I think some people will play it up.
+
+05:00.480 --> 05:02.040
+They'll be like, oh yes, I'm a martial artist,
+
+05:02.040 --> 05:04.080
+and so you should presume that I am wise.
+
+05:04.080 --> 05:05.040
+I actually don't do that.
+
+05:05.040 --> 05:06.040
+I think if I am wise,
+
+05:06.040 --> 05:07.960
+it's because I've read Montaigne and Plutarch,
+
+05:07.960 --> 05:10.800
+more than because I've choked men unconscious.
+
+05:10.800 --> 05:12.640
+But I've done both,
+
+05:12.640 --> 05:16.000
+and I can say that certainly part of the fascination
+
+05:16.000 --> 05:19.440
+of the mind is from beginning with martial arts,
+
+05:19.440 --> 05:21.360
+and being able to see how different people learn,
+
+05:21.360 --> 05:22.920
+and also see how I learned, right?
+
+05:22.920 --> 05:25.120
+To go from, you know, in Rhode Island,
+
+05:25.120 --> 05:26.480
+there's not that many good training partners,
+
+05:26.480 --> 05:29.720
+so to win national tournaments is actually pretty difficult.
+
+05:29.720 --> 05:32.920
+And I had to figure out how to go about drilling,
+
+05:32.920 --> 05:34.680
+figure out what kind of training regimens
+
+05:34.680 --> 05:35.520
+to build for myself.
+
+05:35.520 --> 05:37.400
+And it wasn't just what kind of weights to lift.
+
+05:37.400 --> 05:38.880
+In fact, I wasn't doing much of that.
+
+05:38.880 --> 05:40.960
+It was what kind of skills do I want to acquire?
+
+05:40.960 --> 05:43.200
+And so that forced me to think about,
+
+05:43.200 --> 05:45.160
+well, how does this thing upstairs actually work?
+
+05:45.160 --> 05:47.160
+And how can I learn as quickly as possible
+
+05:47.160 --> 05:49.960
+to really perform and also have my competitors
+
+05:49.960 --> 05:52.320
+do very well in tournaments too?
+
+05:52.320 --> 05:54.040
+So yeah, it was less spiritual,
+
+05:54.040 --> 05:56.400
+but it certainly was psychological in martial arts,
+
+05:56.400 --> 05:59.520
+and that's what got me to UPenn and ultimately into AI.
+
+05:59.520 --> 06:01.000
+Yeah, in addition to spirituality,
+
+06:01.000 --> 06:04.160
+it's also that you had choked people unconscious,
+
+06:04.160 --> 06:06.880
+but I assume that you were also choked unconscious yourself.
+
+06:06.880 --> 06:10.240
+You were placed on the other side of the equation.
+
+06:10.240 --> 06:11.680
+Sure, sure did.
+
+06:11.680 --> 06:13.160
+I mean, everybody weighs more than me.
+
+06:13.160 --> 06:14.200
+I'm a pretty small fella,
+
+06:14.200 --> 06:15.800
+so I did a lot of competitions
+
+06:15.800 --> 06:17.280
+against very, very big opponents.
+
+06:17.280 --> 06:18.440
+In fact, if you go on Google,
+
+06:18.440 --> 06:21.000
+you type in Dan Fijella versus the Giant,
+
+06:21.000 --> 06:23.320
+you'll see me in a jujitsu match
+
+06:23.320 --> 06:26.600
+against a guy that weighs 80 pounds, 100 pounds more than me
+
+06:26.600 --> 06:27.920
+who's actually a UFC fighter.
+
+06:27.920 --> 06:28.760
+His name is Pat Walsh.
+
+06:28.760 --> 06:31.640
+So this guy fought in the cage with other 220 pound men.
+
+06:31.640 --> 06:33.800
+I walk around at about a buck 25.
+
+06:33.800 --> 06:38.280
+So definitely, I didn't beat all those guys.
+
+06:38.280 --> 06:39.120
+That was a good match.
+
+06:39.120 --> 06:40.120
+I'll fortunately beat that guy.
+
+06:40.960 --> 06:44.920
+But yeah, I certainly had my ears boxed pretty good.
+
+06:44.920 --> 06:48.080
+You can see my cauliflower ear is pretty rough.
+
+06:48.080 --> 06:50.480
+And I've certainly, you know,
+
+06:50.480 --> 06:52.400
+I'm gonna have knee problems when I'm older.
+
+06:52.400 --> 06:53.240
+That's just a fact.
+
+06:53.240 --> 06:54.680
+I'm gonna have shoulder problems when I'm older.
+
+06:54.680 --> 06:56.040
+That's just a fact.
+
+06:56.040 --> 06:58.160
+But right now, it doesn't keep me from doing market research
+
+06:58.160 --> 06:59.520
+and what I love, so, you know.
+
+06:59.520 --> 07:02.640
+Yeah, it just seems that that experience of humility
+
+07:02.640 --> 07:04.560
+and empathy that you create
+
+07:04.560 --> 07:07.000
+when you're on the other side of something like that
+
+07:07.000 --> 07:09.280
+is also helpful when you're working on,
+
+07:09.320 --> 07:11.160
+let's say, artificial intelligence,
+
+07:11.160 --> 07:14.880
+which is a big difference from what is being written down
+
+07:14.880 --> 07:16.640
+on paper and in academia
+
+07:16.640 --> 07:19.600
+than what it's being implemented within the society,
+
+07:19.600 --> 07:22.040
+especially the society right now today
+
+07:22.040 --> 07:23.760
+that a lot of people are freaked out
+
+07:23.760 --> 07:26.360
+by just the name artificial intelligence
+
+07:26.360 --> 07:29.440
+and in a lot of aspect for right reasons, right?
+
+07:29.440 --> 07:31.960
+So I'm trying to get into,
+
+07:31.960 --> 07:34.240
+and we've talked about this a lot in this podcast,
+
+07:34.240 --> 07:36.240
+that what you put on the paper,
+
+07:36.240 --> 07:39.200
+it might seem awesome and sounds great,
+
+07:40.120 --> 07:42.840
+but there's a big difference between what sounds good
+
+07:42.840 --> 07:44.400
+and sounds sensible on the paper
+
+07:44.400 --> 07:47.200
+than when it's being implemented within the society
+
+07:47.200 --> 07:49.640
+when a lot of people have a problem
+
+07:49.640 --> 07:52.080
+even accepting the existence of such a thing
+
+07:52.080 --> 07:54.240
+that is going to compete with human intelligence
+
+07:54.240 --> 07:56.800
+and human, basically the concept of humanity.
+
+07:58.080 --> 08:00.360
+Yeah, I think, you know, in the near term,
+
+08:00.360 --> 08:02.480
+there's the job and economic considerations
+
+08:02.480 --> 08:04.760
+that are real.
+
+08:04.760 --> 08:06.960
+I don't think we're gonna see the wave of automation
+
+08:07.000 --> 08:09.280
+across the country in the very, very near term,
+
+08:09.280 --> 08:11.480
+but I do foresee in the next 10 years,
+
+08:11.480 --> 08:15.680
+we did a very substantial poll in 2015 of AI researchers
+
+08:15.680 --> 08:17.960
+and by a wide margin,
+
+08:17.960 --> 08:21.480
+the most significant and consistent AI risk
+
+08:21.480 --> 08:24.280
+in the next 20 years, this is five years ago,
+
+08:24.280 --> 08:26.120
+was the economic and job impact.
+
+08:26.120 --> 08:29.000
+So I think that seems like a reasonable fear,
+
+08:29.000 --> 08:30.840
+but I think to your point,
+
+08:30.840 --> 08:32.800
+there is the actual species dominant stuff
+
+08:32.800 --> 08:34.640
+if we look 50 years out, 100 years out
+
+08:34.640 --> 08:36.840
+that I think is considerable as well.
+
+08:37.680 --> 08:38.520
+So yeah, you're right.
+
+08:38.520 --> 08:40.400
+I mean, AI in theory and AI in practice,
+
+08:40.400 --> 08:42.680
+it's a lot less predictable when it's off the paper.
+
+08:42.680 --> 08:46.360
+Social adoption is a big part of any kind of technology
+
+08:46.360 --> 08:47.880
+that would progress, right?
+
+08:47.880 --> 08:52.880
+So you can recommend certain things to a business
+
+08:53.200 --> 08:57.000
+and it might seem all good, a certain kind of a technology,
+
+08:57.000 --> 09:00.000
+but when the society is rejecting that kind of technology,
+
+09:00.000 --> 09:02.880
+I bring up Google Glass, for example, as an example,
+
+09:02.880 --> 09:04.440
+that it was a very practical thing,
+
+09:04.440 --> 09:08.640
+well-designed and great, but people didn't like it.
+
+09:08.640 --> 09:09.960
+Some because they couldn't get it,
+
+09:09.960 --> 09:12.040
+some because they thought, oh, you're taking this,
+
+09:12.040 --> 09:14.000
+it jeopardizes my privacy
+
+09:14.000 --> 09:15.120
+and you think you're better than me
+
+09:15.120 --> 09:16.720
+and all those things, you know?
+
+09:17.920 --> 09:20.520
+Yeah, we did a very early interview in 2012
+
+09:20.520 --> 09:23.680
+with the head of Engadget at the time.
+
+09:23.680 --> 09:26.120
+Engadget is a big consumer tech blog
+
+09:26.120 --> 09:27.680
+who talked about his experience
+
+09:27.680 --> 09:29.440
+of wearing Google Glass in the subway
+
+09:29.440 --> 09:31.200
+and walking his dog and things like that
+
+09:31.200 --> 09:34.040
+and just how it wasn't really gonna fit
+
+09:34.040 --> 09:36.480
+into the normal mesh of society and the public.
+
+09:36.480 --> 09:38.400
+There was in San Francisco?
+
+09:38.400 --> 09:41.320
+I forget where Tim is based, Tim Stevens.
+
+09:41.320 --> 09:43.080
+This is a great many years ago,
+
+09:43.080 --> 09:44.800
+but I suspect it was the Bay Area.
+
+09:44.800 --> 09:46.840
+Yeah, because people were getting attacked.
+
+09:46.840 --> 09:49.560
+You know, there were videos taken by those,
+
+09:49.560 --> 09:50.720
+you know, people who were wearing it
+
+09:50.720 --> 09:52.200
+in bars and restaurants
+
+09:52.200 --> 09:53.360
+and people were getting attacked
+
+09:53.360 --> 09:54.680
+just because of wearing the glass.
+
+09:54.680 --> 09:57.400
+Part of it was the argument for privacy,
+
+09:57.400 --> 09:58.840
+but the other part was that, hey,
+
+09:58.840 --> 10:01.200
+this is not even something we can't buy from the store.
+
+10:01.200 --> 10:03.320
+This has to be given to you.
+
+10:03.320 --> 10:06.000
+Yeah, so it was like lording over people,
+
+10:06.000 --> 10:07.720
+kind of like, ah, I've been granted
+
+10:07.720 --> 10:11.080
+this recording intelligence layer
+
+10:11.080 --> 10:11.920
+and you don't have it.
+
+10:11.920 --> 10:14.240
+There's a certain kind of elitism
+
+10:14.240 --> 10:16.760
+that it seems like we can't get away with that.
+
+10:16.760 --> 10:21.080
+You know, genetic engineering is another field
+
+10:21.080 --> 10:22.840
+that will create this kind of elitism
+
+10:22.840 --> 10:25.160
+that, hey, if you can't afford it,
+
+10:25.160 --> 10:28.320
+not only financially, but also,
+
+10:28.320 --> 10:30.120
+you know, there's a big difference between China,
+
+10:30.120 --> 10:31.360
+let's say, and the United States,
+
+10:31.360 --> 10:32.840
+and I wanna talk to you about that too,
+
+10:32.840 --> 10:35.080
+because you mentioned you're talking to
+
+10:35.080 --> 10:37.520
+and you're advising private companies,
+
+10:37.520 --> 10:39.760
+but I also see on your website that you've spoken to,
+
+10:39.760 --> 10:42.960
+for example, United Nations, Harvard University.
+
+10:42.960 --> 10:46.320
+What was, oh, you talked to United Nations,
+
+10:46.320 --> 10:49.000
+as I see, about deepfakes, is that right?
+
+10:49.000 --> 10:52.400
+Yeah, so we actually, United Nations,
+
+10:52.400 --> 10:54.640
+World Bank, Interpol, the OECD,
+
+10:54.640 --> 10:55.680
+I mean, we work with-
+
+10:55.680 --> 10:57.680
+So beyond the private sector also.
+
+10:57.680 --> 10:59.200
+Yeah, these are the most substantial
+
+10:59.200 --> 11:00.960
+intergovernmental organizations in the world
+
+11:01.160 --> 11:02.840
+who are, luckily, at this point,
+
+11:02.840 --> 11:05.800
+at least allocating a certain amount of attention
+
+11:05.800 --> 11:07.320
+to artificial intelligence,
+
+11:07.320 --> 11:08.520
+and there are certainly initiatives
+
+11:08.520 --> 11:09.960
+that I really believe in there.
+
+11:09.960 --> 11:13.040
+And not all of those organizations
+
+11:13.040 --> 11:14.880
+are our clients, formally, some are.
+
+11:16.240 --> 11:18.480
+We've done substantial projects with the World Bank,
+
+11:18.480 --> 11:20.640
+for example, but some are just speaking engagements,
+
+11:20.640 --> 11:22.800
+because I happen to think it's a very valuable topic
+
+11:22.800 --> 11:24.600
+that should be at UN headquarters,
+
+11:24.600 --> 11:26.080
+and we were called upon to talk about it.
+
+11:26.080 --> 11:28.840
+So deepfakes is a good example of that,
+
+11:28.840 --> 11:30.920
+where I'm pretty close with the folks
+
+11:31.920 --> 11:33.720
+that run the artificial intelligence and robotics wing
+
+11:33.720 --> 11:35.080
+of what is called Unicrit,
+
+11:35.080 --> 11:37.960
+which is the crime and justice wing of the United Nations.
+
+11:37.960 --> 11:40.200
+I really respect those guys, I think they do a great job,
+
+11:40.200 --> 11:42.840
+and they have a thorough understanding of the space.
+
+11:42.840 --> 11:45.800
+Not everybody in the intergovernmental domain does.
+
+11:45.800 --> 11:48.880
+And they had called us in to essentially create a deepfake
+
+11:48.880 --> 11:51.480
+of the head of Unicrit, so a woman by the name of Bettina,
+
+11:51.480 --> 11:54.600
+who was the director of that wing of the United Nations.
+
+11:54.600 --> 11:56.080
+So we took a video of her,
+
+11:56.080 --> 11:58.480
+and then we made her say a bunch of things she never said,
+
+11:58.480 --> 12:01.680
+and then also extrapolated that into
+
+12:01.680 --> 12:04.120
+how almost anything can be programmatically generated,
+
+12:04.120 --> 12:05.440
+and how much better and better
+
+12:05.440 --> 12:07.640
+that programmatic generation is becoming,
+
+12:07.640 --> 12:09.560
+and what some of the considerations might be.
+
+12:09.560 --> 12:11.880
+My personal focus is on the long-term of that.
+
+12:11.880 --> 12:14.200
+Yes, political influence, I think, is something.
+
+12:14.200 --> 12:15.520
+Media and truth is something.
+
+12:15.520 --> 12:18.800
+I think the actual leap in the human experience,
+
+12:18.800 --> 12:19.880
+when we can push a button
+
+12:19.880 --> 12:22.680
+and have what we wish before our eyes,
+
+12:22.680 --> 12:24.640
+the conjuring of what we wish before our eyes,
+
+12:24.640 --> 12:26.880
+I think is a much grander transition
+
+12:26.920 --> 12:29.880
+than is spoken about in the purely political space.
+
+12:29.880 --> 12:33.560
+So I tried to create that stretch for UN leadership there.
+
+12:33.560 --> 12:36.920
+So democratization of information is the big picture,
+
+12:36.920 --> 12:37.760
+is what you're talking about,
+
+12:37.760 --> 12:39.320
+because it's not only deepfakes,
+
+12:39.320 --> 12:41.600
+but also, let's say, 3D printing,
+
+12:41.600 --> 12:43.840
+that now we have to deal with the very reality
+
+12:43.840 --> 12:45.760
+that within a couple of years,
+
+12:45.760 --> 12:49.280
+some parts of a gun can be very viably printed
+
+12:49.280 --> 12:51.480
+inside of someone's bedroom,
+
+12:51.480 --> 12:54.120
+and there's nothing anybody can do about it.
+
+12:54.120 --> 12:56.400
+Yeah, my personal expertise
+
+12:56.400 --> 12:57.880
+is not in 3D printing.
+
+12:57.880 --> 12:59.760
+We've done a couple bits of coverage
+
+12:59.760 --> 13:02.560
+on the intersection of what is called
+
+13:02.560 --> 13:03.960
+additive manufacturing,
+
+13:03.960 --> 13:06.840
+sort of the broad umbrella of 3D printing, and AI,
+
+13:06.840 --> 13:08.520
+so where those two mesh.
+
+13:08.520 --> 13:11.360
+But making projections around that tech,
+
+13:11.360 --> 13:12.920
+I have much less confidence than I do
+
+13:12.920 --> 13:14.920
+in, let's say, artificial intelligence
+
+13:14.920 --> 13:16.600
+in almost any industry.
+
+13:16.600 --> 13:18.120
+But yeah, to your point,
+
+13:18.120 --> 13:19.520
+that's part of the transition.
+
+13:19.520 --> 13:22.440
+I think what I'm articulating explicitly here
+
+13:22.480 --> 13:26.960
+is a broader dynamic of a kind of going in,
+
+13:26.960 --> 13:30.840
+so the majority, the bulk of our experience
+
+13:30.840 --> 13:32.600
+transitions into virtual spaces.
+
+13:32.600 --> 13:34.880
+So you and I are kind of doing that right now.
+
+13:35.920 --> 13:37.800
+I do that on my phone a good deal.
+
+13:37.800 --> 13:40.120
+We're all on a screen a really good percentage of the time,
+
+13:40.120 --> 13:42.320
+and if you look at human life
+
+13:42.320 --> 13:45.360
+and human life on screen time as a graph here,
+
+13:45.360 --> 13:49.400
+I mean, you don't have to be a rocket scientist.
+
+13:49.440 --> 13:52.440
+And I think that when we can call forth
+
+13:52.440 --> 13:54.120
+the kinds of experiences we want,
+
+13:54.120 --> 13:56.520
+whether it's a relaxing background to do our work,
+
+13:56.520 --> 14:00.760
+whether it's a movie that's created just for us, right?
+
+14:00.760 --> 14:02.280
+I wanna learn about the French Revolution,
+
+14:02.280 --> 14:05.080
+but I wanna learn about it through the eyes of St. Just,
+
+14:05.080 --> 14:06.720
+and I don't really care that much
+
+14:06.720 --> 14:08.840
+about the post-revolutionary Bonaparte stuff.
+
+14:08.840 --> 14:11.680
+I just wanna go right up until St. Just death, that's it,
+
+14:11.680 --> 14:12.760
+and I wanna look through his eyes.
+
+14:12.760 --> 14:14.680
+When a movie can be played
+
+14:14.680 --> 14:16.440
+per my preferences in creation
+
+14:16.440 --> 14:17.800
+and based on my past learning
+
+14:18.080 --> 14:19.760
+based on my current responsiveness, right?
+
+14:19.760 --> 14:21.560
+Am I attentive or is it boring me
+
+14:21.560 --> 14:24.240
+being able to have that generated in real time?
+
+14:24.240 --> 14:26.040
+I think that might be 15 years off,
+
+14:26.040 --> 14:27.920
+but I think that we get to a point
+
+14:27.920 --> 14:31.280
+where the compellingness of virtual ecosystems
+
+14:31.280 --> 14:35.120
+will be so amazing in terms of fulfilling drives
+
+14:35.120 --> 14:37.880
+for curiosity, creativity, for love,
+
+14:37.880 --> 14:40.640
+eventually with haptics that might involve sex.
+
+14:40.640 --> 14:42.240
+Lord knows how that's gonna evolve.
+
+14:42.240 --> 14:43.680
+That's not exactly my focus area,
+
+14:43.680 --> 14:45.920
+but I do think there's gonna be transitions there too,
+
+14:45.920 --> 14:48.480
+and I think that as the body becomes a husk
+
+14:48.480 --> 14:51.880
+and as most of what we wish in its highest form,
+
+14:51.880 --> 14:53.720
+right now, if you ask me, Dan,
+
+14:53.720 --> 14:55.400
+what is the most refreshing, rewarding,
+
+14:55.400 --> 14:56.640
+lovely thing that you could do,
+
+14:56.640 --> 14:59.360
+I would tell you it is walking in nature,
+
+14:59.360 --> 15:02.720
+reading actual papyrus in a really, really good book,
+
+15:04.720 --> 15:06.080
+like not Kindle, I mean like paper,
+
+15:06.080 --> 15:08.760
+I don't have ancient texts in my house,
+
+15:08.760 --> 15:12.880
+but I'm not, even if I was-
+
+15:12.920 --> 15:14.960
+I was gonna ask, you can't read papyrus?
+
+15:15.840 --> 15:20.080
+Even if I was exorbitantly wealthy,
+
+15:20.080 --> 15:23.760
+I would not become such a profligate
+
+15:23.760 --> 15:25.880
+in my collecting of texts like that,
+
+15:25.880 --> 15:27.840
+but I like me a good old book,
+
+15:27.840 --> 15:31.520
+and I like to breathe in the pine,
+
+15:31.520 --> 15:35.200
+and I like to see the sunset and those sorts of things,
+
+15:35.200 --> 15:39.560
+but I am not above the idea that within 15 years,
+
+15:39.560 --> 15:42.240
+a programmatically generated permutation of that,
+
+15:42.240 --> 15:43.760
+even the wind through my hair
+
+15:43.760 --> 15:45.600
+in a programmatically generated sense
+
+15:45.600 --> 15:48.960
+might be astronomically more refreshing,
+
+15:48.960 --> 15:50.520
+because it would be hyper-calibrated
+
+15:50.520 --> 15:53.000
+to all the very best experiences of that in the past,
+
+15:53.000 --> 15:55.840
+and that is in fact the transition I'm talking about.
+
+15:55.840 --> 16:00.200
+I wrote an article called Lotus Eaters and World Eaters,
+
+16:00.200 --> 16:01.960
+so Lotus Eaters and World Eaters.
+
+16:01.960 --> 16:04.480
+If Googled, that article would come up,
+
+16:04.480 --> 16:06.080
+and this is about the bigger transition.
+
+16:06.080 --> 16:08.920
+So for me, I think democratization of information
+
+16:08.920 --> 16:10.400
+is a very big part of it.
+
+16:10.400 --> 16:13.040
+I think that going in is the dynamic
+
+16:13.040 --> 16:15.160
+that I consider to be astronomically disruptive,
+
+16:15.160 --> 16:16.920
+and I think essentially a borderline
+
+16:16.920 --> 16:18.360
+no one is talking about.
+
+16:18.360 --> 16:19.200
+That's very interesting,
+
+16:19.200 --> 16:21.760
+because recently we've been talking about
+
+16:21.760 --> 16:24.800
+when people are talking about AI, artificial intelligence,
+
+16:24.800 --> 16:27.120
+and I like personally to think of that A
+
+16:27.120 --> 16:28.960
+as augmented intelligence as well,
+
+16:28.960 --> 16:33.840
+that you don't really have to reverse engineer
+
+16:33.840 --> 16:36.520
+and rebuild the entire brain or an intelligence.
+
+16:36.520 --> 16:38.600
+You can use it as a mesh net, basically,
+
+16:38.600 --> 16:40.600
+or exoskeleton, right?
+
+16:40.600 --> 16:43.640
+But the argument that I'm hearing is that AI
+
+16:43.640 --> 16:47.520
+is focused on the thinking mind, on the analytical mind,
+
+16:47.520 --> 16:49.880
+on the left brain, basically.
+
+16:49.880 --> 16:53.200
+The right brain and instincts
+
+16:53.200 --> 16:56.480
+and things we cannot really describe by words,
+
+16:56.480 --> 16:58.360
+that is something that we can't even begin
+
+16:58.360 --> 17:01.480
+to understand ourselves, let alone trying to replicate
+
+17:01.480 --> 17:04.680
+that with any kind of a machine intelligence.
+
+17:04.680 --> 17:07.880
+But that is a huge part of what you're talking about,
+
+17:07.880 --> 17:12.280
+to merging, basically, within blurring this line
+
+17:12.280 --> 17:14.000
+of what is real and what is not real
+
+17:14.000 --> 17:16.600
+further and further in the coming years.
+
+17:16.600 --> 17:21.600
+Yeah, and I would say, so I may not describe it similarly.
+
+17:22.640 --> 17:24.400
+I think it's an interesting distinction,
+
+17:24.400 --> 17:25.400
+the left and right brain.
+
+17:25.400 --> 17:29.840
+I would say that certainly at an emotive level,
+
+17:29.840 --> 17:31.760
+I don't think we're able to replicate,
+
+17:31.760 --> 17:32.720
+to the best of our knowledge,
+
+17:32.720 --> 17:34.920
+we're not able to replicate sentience in AI,
+
+17:34.920 --> 17:37.200
+although we did do a pretty extensive poll
+
+17:37.200 --> 17:38.920
+of artificial intelligence researchers
+
+17:38.920 --> 17:40.680
+around when sentience might be possible,
+
+17:40.680 --> 17:42.040
+something like 2060.
+
+17:42.040 --> 17:43.160
+Who knows if they're right, right?
+
+17:43.160 --> 17:44.840
+Nobody knows if anybody's right.
+
+17:44.840 --> 17:46.440
+But I'm curious about the topic.
+
+17:46.440 --> 17:48.640
+Consciousness, I think, is a morally worthy thing.
+
+17:48.640 --> 17:50.240
+It might be the morally worthy thing,
+
+17:50.240 --> 17:52.880
+but that's its own conversational threat.
+
+17:52.880 --> 17:54.600
+But right and left brain, I think,
+
+17:54.600 --> 17:56.640
+it's tough to say where AI actually sits,
+
+17:56.640 --> 17:59.640
+because, for example, if we look at
+
+17:59.640 --> 18:01.320
+the programmatically generated stuff,
+
+18:01.320 --> 18:03.680
+in the future, let's say 10 years from now,
+
+18:03.680 --> 18:07.440
+if you are a designer of logos, like company logos,
+
+18:07.440 --> 18:10.160
+you will not just take 15 hours
+
+18:10.160 --> 18:11.880
+to craft one really good logo
+
+18:11.880 --> 18:13.200
+and then take another 15 hours
+
+18:13.200 --> 18:14.920
+to craft another really good logo.
+
+18:14.920 --> 18:19.920
+You may begin with simply a verbalized
+
+18:20.800 --> 18:24.880
+or set of checkboxes, set of configurable features,
+
+18:24.880 --> 18:27.600
+like what are the values we want to convey,
+
+18:27.600 --> 18:29.520
+what are the values we stand for as a company,
+
+18:29.520 --> 18:30.960
+what kind of color palettes are we thinking
+
+18:30.960 --> 18:32.080
+might be good, whatever,
+
+18:32.080 --> 18:36.160
+and have a programmatically generated plethora of logos
+
+18:36.160 --> 18:37.840
+that are already stacked and ranked
+
+18:37.840 --> 18:39.600
+based on what we would presume
+
+18:39.600 --> 18:41.720
+humans would respond to most favorably
+
+18:41.720 --> 18:43.520
+based on the values that we had set before.
+
+18:43.520 --> 18:45.400
+Now, we would need a really big data set
+
+18:45.400 --> 18:47.360
+of people looking at different logos
+
+18:47.360 --> 18:48.560
+and correlating them with values,
+
+18:48.560 --> 18:49.720
+and we're not there yet.
+
+18:49.720 --> 18:52.960
+But if nothing else, we could start with a plethora,
+
+18:52.960 --> 18:55.240
+and we could take individual permutations,
+
+18:55.240 --> 18:57.240
+determine some tweaks, determine some adjustments,
+
+18:57.240 --> 19:00.000
+and create another plethora off of that one permutation,
+
+19:00.040 --> 19:02.720
+and in so doing, generate just generally
+
+19:02.720 --> 19:05.560
+better and more ideas, better and more ideas.
+
+19:05.560 --> 19:07.800
+Same with architecture, same with fashion,
+
+19:07.800 --> 19:10.320
+same with textiles, same with name your damn
+
+19:10.320 --> 19:12.320
+creative domain, creating beats.
+
+19:12.320 --> 19:14.120
+You want to create music for the elevator,
+
+19:14.120 --> 19:15.560
+you want to create rap music.
+
+19:15.560 --> 19:17.200
+I mean, being able to just have
+
+19:17.200 --> 19:18.600
+programmatically generated beats
+
+19:18.600 --> 19:19.760
+that we know are going to hit,
+
+19:19.760 --> 19:20.960
+that we know are going to respond,
+
+19:20.960 --> 19:22.240
+that people are going to respond well to.
+
+19:22.240 --> 19:24.000
+We might train it off of Spotify data
+
+19:24.000 --> 19:26.000
+in terms of what's most popular right now.
+
+19:26.000 --> 19:28.760
+We might train it off of whatever we want to do.
+
+19:28.760 --> 19:31.400
+This sort of extension of what you might refer to
+
+19:31.400 --> 19:34.120
+as the left brain will eventually become the norm
+
+19:34.120 --> 19:35.480
+in a great many creative fields.
+
+19:35.480 --> 19:36.920
+Now, is that going to be 10 years?
+
+19:36.920 --> 19:37.840
+Is that going to be 15 years?
+
+19:37.840 --> 19:40.080
+I can't exactly tell you, but I will say
+
+19:40.080 --> 19:41.960
+there was a time where as a graphic designer,
+
+19:41.960 --> 19:43.600
+you didn't need to know how to use a computer.
+
+19:43.600 --> 19:46.680
+And let me tell you, my good man, times have changed.
+
+19:46.680 --> 19:48.080
+And let me tell you, my good man,
+
+19:48.080 --> 19:50.480
+in 15 years, times will change again.
+
+19:50.480 --> 19:53.560
+And this kind of technology will be part of that change.
+
+19:54.920 --> 19:57.360
+I think a good point of distinction,
+
+19:57.360 --> 20:00.000
+you mentioned with music, for example.
+
+20:00.920 --> 20:03.440
+What constitutes better
+
+20:03.440 --> 20:06.520
+is the context that already exists, right?
+
+20:06.520 --> 20:09.760
+That is determined based on us, humans,
+
+20:09.760 --> 20:12.880
+who are, we are very limited in our experience.
+
+20:12.880 --> 20:14.320
+It's linear.
+
+20:14.320 --> 20:17.840
+And the argument can be made that for AI
+
+20:17.840 --> 20:20.600
+to reaches its true potential,
+
+20:20.600 --> 20:23.680
+it should not rely on humanity whatsoever.
+
+20:23.680 --> 20:28.280
+So after that point, the argument would become,
+
+20:28.280 --> 20:31.080
+would the AI, artificial intelligence,
+
+20:31.080 --> 20:35.480
+be able to create a beat or a piece of music
+
+20:35.480 --> 20:38.840
+that has absolutely no root within the context
+
+20:38.840 --> 20:41.160
+that is created by human civilization
+
+20:41.160 --> 20:42.920
+and is something that is introducing
+
+20:42.920 --> 20:45.280
+a new context altogether?
+
+20:45.280 --> 20:46.440
+Does it make sense?
+
+20:46.440 --> 20:48.000
+Yes, it does.
+
+20:48.000 --> 20:49.760
+And I don't know if you wanted to go
+
+20:49.760 --> 20:51.040
+this far down the rabbit hole,
+
+20:51.040 --> 20:53.720
+but there isn't a depth that you could go
+
+20:53.720 --> 20:54.720
+that I will not follow you.
+
+20:54.720 --> 20:55.960
+Oh, amazing.
+
+20:55.960 --> 20:57.800
+I'm mostly interested in rabbit holes
+
+20:57.800 --> 21:00.080
+because academic sides, I'm like,
+
+21:00.080 --> 21:02.000
+everything is written on Google.
+
+21:02.000 --> 21:04.560
+There are so many people who can nail those things better,
+
+21:04.560 --> 21:07.280
+but I think it's very important to be imaginative
+
+21:07.280 --> 21:09.280
+and consider many different options
+
+21:09.280 --> 21:11.720
+that we have to deal with in the coming years.
+
+21:11.720 --> 21:13.960
+I think these are interesting topics.
+
+21:13.960 --> 21:15.800
+Again, they aren't things that I'd be called upon
+
+21:15.800 --> 21:18.160
+to speak about at Interpol or at Citibank,
+
+21:18.920 --> 21:21.200
+but they are the long ball consequences
+
+21:21.200 --> 21:23.320
+that I think, as you pointed out,
+
+21:23.320 --> 21:25.200
+it's important to kind of splay those open
+
+21:25.200 --> 21:26.320
+and see what does this mean?
+
+21:26.320 --> 21:27.320
+Where does this go?
+
+21:27.320 --> 21:28.800
+To your point about music,
+
+21:28.800 --> 21:30.600
+I think the question here would be
+
+21:30.600 --> 21:32.440
+what would be the purpose of music?
+
+21:32.440 --> 21:34.400
+If the purpose is enjoyment
+
+21:34.400 --> 21:36.440
+and we are the only sentient things that enjoys,
+
+21:36.440 --> 21:40.040
+then I suspect you're right.
+
+21:40.040 --> 21:42.240
+We may be able to start from scratch
+
+21:42.240 --> 21:45.280
+and create beats and permutations of sound
+
+21:45.280 --> 21:49.320
+that really don't resemble any known musical genre
+
+21:49.320 --> 21:52.400
+that might be extremely appealing to some people.
+
+21:52.400 --> 21:54.720
+Very rare that music would be appealing to everybody,
+
+21:54.720 --> 21:57.080
+but that might be doable.
+
+21:57.080 --> 22:00.640
+Now, if AI itself could become sentient in some sense,
+
+22:00.640 --> 22:02.200
+maybe it would create,
+
+22:02.200 --> 22:04.360
+if artificial general intelligence
+
+22:04.360 --> 22:06.520
+were to create art for itself, two things.
+
+22:06.520 --> 22:09.520
+A, it's extremely unlikely we would be able to understand it,
+
+22:09.520 --> 22:11.920
+and B, it's extremely unlikely it would have a form
+
+22:11.920 --> 22:12.880
+that we now recognize.
+
+22:12.880 --> 22:14.600
+It's not gonna be carving marble.
+
+22:14.600 --> 22:16.560
+It's not gonna be fricking oil paints.
+
+22:16.560 --> 22:19.200
+It's gonna be something astronomically more complicated,
+
+22:19.200 --> 22:20.080
+and from the viewpoint
+
+22:20.080 --> 22:22.560
+of something astronomically more intelligent,
+
+22:22.560 --> 22:24.560
+it'll be astronomically more beautiful.
+
+22:24.560 --> 22:26.160
+The language of such an entity,
+
+22:26.160 --> 22:27.160
+we might think about it,
+
+22:27.160 --> 22:29.000
+like you and I have an alphabet.
+
+22:29.000 --> 22:31.000
+We're speaking English right now.
+
+22:31.000 --> 22:33.000
+You may speak other languages, I don't.
+
+22:33.000 --> 22:34.960
+I pretend to have a fistful of French words,
+
+22:34.960 --> 22:37.120
+but I go no farther.
+
+22:37.120 --> 22:39.160
+I'm an uncultured American.
+
+22:40.400 --> 22:42.320
+History, I'm pretty strong, but languages.
+
+22:43.160 --> 22:46.240
+Let's presume we're talking about the English alphabet.
+
+22:46.240 --> 22:48.920
+We've got a couple dozen letters to work with here,
+
+22:50.040 --> 22:53.400
+and we can only talk at this current bandwidth.
+
+22:53.400 --> 22:56.840
+An AGI might have a number of symbols
+
+22:56.840 --> 22:58.040
+that it might communicate with,
+
+22:58.040 --> 22:59.960
+either itself or other AGI's.
+
+22:59.960 --> 23:04.200
+We might imagine a cube of a million pixels this way,
+
+23:04.200 --> 23:05.360
+and a million pixels this way,
+
+23:05.360 --> 23:07.640
+and a million pixels this way,
+
+23:07.640 --> 23:09.240
+and each of those pixels can have
+
+23:09.240 --> 23:11.560
+one of two trillion different permutations
+
+23:11.560 --> 23:13.480
+of what we want to call it,
+
+23:13.480 --> 23:15.520
+like color number, what have you,
+
+23:15.520 --> 23:18.640
+and that any combination of all of that
+
+23:18.640 --> 23:20.320
+pushed through is like a letter.
+
+23:21.400 --> 23:25.280
+And so we couldn't possibly imagine
+
+23:25.280 --> 23:27.680
+the full extent of what expression would be
+
+23:27.680 --> 23:29.120
+for something beyond us,
+
+23:29.120 --> 23:32.520
+no better than a caterpillar could imagine our expression,
+
+23:32.520 --> 23:34.680
+could imagine Shakespeare's sonnets,
+
+23:34.680 --> 23:38.440
+could imagine great architecture,
+
+23:38.440 --> 23:40.400
+Corinthian columns.
+
+23:40.400 --> 23:42.160
+Caterpillars ain't gonna cut that mustard,
+
+23:42.160 --> 23:43.400
+and we ain't gonna cut the mustard
+
+23:43.400 --> 23:45.240
+of what's beyond us either.
+
+23:45.240 --> 23:48.600
+Yeah, we are creating a new and different kind of a species
+
+23:48.600 --> 23:51.200
+than humanity, and I think this is very important
+
+23:51.200 --> 23:54.000
+for people to understand that this is not a phase
+
+23:54.000 --> 23:56.960
+or a trend that's just gonna go away,
+
+23:56.960 --> 23:58.960
+and in 10 years, people will be in charge
+
+23:58.960 --> 24:00.240
+of everything again.
+
+24:00.240 --> 24:02.760
+Like, it's just not gonna happen.
+
+24:02.760 --> 24:04.200
+Yeah, I think a lot of people do operate
+
+24:04.200 --> 24:06.200
+under that assumption, though.
+
+24:06.200 --> 24:09.600
+I think it is really seen as a very short-term transition.
+
+24:09.640 --> 24:11.840
+Is it also shared within governments and UN
+
+24:11.840 --> 24:13.880
+and those places that you talk at?
+
+24:13.880 --> 24:16.120
+Yeah, I mean, in the broad sweep,
+
+24:16.120 --> 24:19.640
+so my unabashed long-term objective here
+
+24:19.640 --> 24:21.680
+is to bring what I refer to as
+
+24:21.680 --> 24:24.480
+the trajectory of intelligence conversation
+
+24:24.480 --> 24:28.680
+into these organizations which I have a relationship with.
+
+24:28.680 --> 24:30.680
+However, I'm not here to impose that
+
+24:30.680 --> 24:33.080
+when it's not a time that they're interested about it, right?
+
+24:33.080 --> 24:34.520
+I have certain people within these orgs
+
+24:34.520 --> 24:36.880
+that I can talk about all manner of topics,
+
+24:37.680 --> 24:40.160
+but for many, the reason I'm called on
+
+24:40.160 --> 24:43.480
+is because we study what's possible and what's working,
+
+24:43.480 --> 24:45.120
+so they're gonna have an academic,
+
+24:45.120 --> 24:47.760
+they might have an expert in computer vision,
+
+24:47.760 --> 24:49.960
+but they need somebody who's gonna say,
+
+24:49.960 --> 24:51.640
+well, here's where it's impacting this industry,
+
+24:51.640 --> 24:53.240
+here's where it's impacting the industry,
+
+24:53.240 --> 24:54.560
+here's what makes it hard to adopt,
+
+24:54.560 --> 24:56.840
+here's what makes it easy to adopt in defense,
+
+24:56.840 --> 24:58.880
+here's what, they need a reality check
+
+24:58.880 --> 25:00.320
+on where it's impacting the world,
+
+25:00.320 --> 25:02.960
+and that's why I step into the World Bank
+
+25:02.960 --> 25:04.880
+to enter poll, et cetera.
+
+25:04.880 --> 25:06.720
+So I'm not gonna force feed them that stuff,
+
+25:06.720 --> 25:08.120
+but it is my unabashed goal
+
+25:08.120 --> 25:10.000
+to eventually be able to introduce these themes,
+
+25:10.000 --> 25:11.160
+and we have a new series,
+
+25:11.160 --> 25:13.480
+we have a podcast called the AI in Business podcast,
+
+25:13.480 --> 25:15.920
+and we have a Saturday series called AI Futures,
+
+25:15.920 --> 25:17.240
+where we're kind of stretching this,
+
+25:17.240 --> 25:19.560
+we're taking people from reputable organizations,
+
+25:19.560 --> 25:20.600
+like let's say Berkeley,
+
+25:20.600 --> 25:23.440
+Stuart Russell was our first guest on this podcast,
+
+25:23.440 --> 25:27.840
+the OECD, folks from the Future of Humanity Institute
+
+25:27.840 --> 25:30.480
+at Oxford, and we're having them kind of stretch
+
+25:30.480 --> 25:31.600
+the credible viewpoints
+
+25:31.600 --> 25:33.760
+into where is this ultimately taking us?
+
+25:33.760 --> 25:35.920
+Because for me, I think we do need to consider those things,
+
+25:36.240 --> 25:39.040
+to your point, right now in government and in business,
+
+25:39.040 --> 25:41.800
+it is absolutely not on the radar.
+
+25:41.800 --> 25:43.640
+It's not even fiction,
+
+25:43.640 --> 25:46.720
+it's literally not on the table in any way.
+
+25:46.720 --> 25:48.880
+It's not even digestible, it's almost invisible,
+
+25:48.880 --> 25:50.280
+even if it were to be articulated,
+
+25:50.280 --> 25:53.760
+it would not even land on the table, it doesn't exist.
+
+25:53.760 --> 25:55.280
+And it's shared in politics.
+
+25:55.280 --> 25:57.000
+I mean, you see how important AI is,
+
+25:57.000 --> 25:59.000
+and nobody's really talking about it.
+
+25:59.000 --> 26:01.000
+Nobody's talking about the long-term, no.
+
+26:01.000 --> 26:04.800
+Even short-term, you see like neither Trump or Biden
+
+26:04.840 --> 26:06.160
+are really talking about AI,
+
+26:06.160 --> 26:08.480
+but AI is going to have huge impacts
+
+26:08.480 --> 26:11.240
+on every single human being's lives on this planet.
+
+26:11.240 --> 26:14.080
+And I think, so what is it to be a politician?
+
+26:15.120 --> 26:17.400
+Just winning a popularity contest.
+
+26:19.240 --> 26:21.120
+In Emerson's words,
+
+26:21.120 --> 26:23.360
+to eat dust before the men
+
+26:23.360 --> 26:25.080
+who actually stand behind the throne,
+
+26:25.080 --> 26:26.680
+something akin to this.
+
+26:26.680 --> 26:29.680
+Now, I don't know, I'm not disparaging politicians,
+
+26:29.680 --> 26:30.960
+not even in the slightest.
+
+26:30.960 --> 26:33.080
+In fact, I do respect the profession
+
+26:33.080 --> 26:36.680
+despite the gritty realities they're in.
+
+26:39.200 --> 26:40.800
+But to be a politician, like you said,
+
+26:40.800 --> 26:42.000
+yes, popularity contest.
+
+26:42.000 --> 26:44.040
+So why aren't they talking about AI?
+
+26:44.040 --> 26:47.960
+It just doesn't matter enough to the constituents, right?
+
+26:47.960 --> 26:51.320
+Why are they talking about name your topic, sir?
+
+26:51.320 --> 26:52.400
+Name your topic.
+
+26:52.400 --> 26:54.240
+I mean, the most arbitrary things
+
+26:54.240 --> 26:56.320
+become giant friction points,
+
+26:56.320 --> 26:58.560
+and then they get in all the speeches.
+
+26:58.560 --> 27:00.560
+Is it because of their inherent meaning
+
+27:00.560 --> 27:02.520
+and some platonic reality?
+
+27:02.520 --> 27:03.720
+No, no, no.
+
+27:03.720 --> 27:05.920
+It's simply because they resonate with the constituency.
+
+27:05.920 --> 27:08.320
+So we can expect AI to land
+
+27:08.320 --> 27:13.080
+on the sort of political speech table
+
+27:13.080 --> 27:16.440
+when it matters to the people who are being spoken to.
+
+27:16.440 --> 27:18.720
+Yeah, the disruption of AI and technology
+
+27:18.720 --> 27:22.080
+basically are not in any shape or form
+
+27:22.080 --> 27:23.960
+determined by the political will
+
+27:23.960 --> 27:25.800
+or social will to accept them though.
+
+27:25.800 --> 27:28.280
+That's the thing, like you're talking about deep fakes.
+
+27:28.280 --> 27:32.280
+Deep fakes will come and disrupt future political campaigns
+
+27:32.720 --> 27:35.520
+from the perspective of constituents and the politicians
+
+27:35.520 --> 27:37.200
+and all of them altogether
+
+27:37.200 --> 27:40.200
+without anybody agreeing or disagreeing with them.
+
+27:40.200 --> 27:44.520
+It does not require agreement of people
+
+27:44.520 --> 27:46.840
+to go in that certain kind of a speed
+
+27:46.840 --> 27:48.600
+that technology is evolving, right?
+
+27:48.600 --> 27:52.200
+So it's important to at least acknowledge
+
+27:52.200 --> 27:57.200
+the huge disruption that we haven't seen anything of it yet.
+
+27:57.280 --> 27:58.840
+Because what we are experiencing right now,
+
+27:58.880 --> 28:03.360
+is this seemingly division that exists globally, really.
+
+28:03.360 --> 28:05.640
+A lot of people can say that this is because people
+
+28:05.640 --> 28:08.320
+finally have channels of expressions
+
+28:08.320 --> 28:11.240
+in the form of social media that now they can be heard.
+
+28:12.200 --> 28:13.280
+When you say division, by the way,
+
+28:13.280 --> 28:15.960
+I just want to follow you, what do you mean?
+
+28:15.960 --> 28:17.480
+So division, for example,
+
+28:17.480 --> 28:19.480
+what is being portrayed by the media
+
+28:19.480 --> 28:22.080
+and what is being portrayed by certain news media?
+
+28:22.080 --> 28:25.560
+Division right and left, division upper and lower class.
+
+28:25.560 --> 28:27.080
+I mean, what is the core division?
+
+28:27.120 --> 28:28.800
+Political, political division.
+
+28:28.800 --> 28:30.120
+Yeah, because the class division,
+
+28:30.120 --> 28:31.760
+nobody really wants to talk about.
+
+28:33.280 --> 28:35.240
+I don't know enough about the class division
+
+28:35.240 --> 28:37.280
+to have a firm opinion on that, but okay.
+
+28:37.280 --> 28:40.080
+So you're talking about the more or less
+
+28:40.080 --> 28:41.360
+the left and right to some degree.
+
+28:41.360 --> 28:42.680
+Right, right.
+
+28:43.600 --> 28:47.960
+Like this recent example of the video
+
+28:47.960 --> 28:51.960
+of George Floyd getting killed by the police,
+
+28:51.960 --> 28:56.120
+which is horrible, and it started a lot of consequences
+
+28:56.120 --> 28:57.360
+as a result of it.
+
+28:57.360 --> 29:00.360
+But in a couple of years, a fake video can come up
+
+29:00.360 --> 29:03.200
+of a very same kind of a thing
+
+29:03.200 --> 29:06.520
+that half of the audience and half of the viewers
+
+29:06.520 --> 29:08.600
+will believe it right off the bat.
+
+29:08.600 --> 29:11.000
+Well, this is going to have very real consequences
+
+29:11.000 --> 29:12.440
+socially and politically.
+
+29:12.440 --> 29:17.040
+Yeah, you know, this really is on my mind a lot.
+
+29:17.040 --> 29:20.120
+So, I mean, again, UN, I've been on,
+
+29:20.120 --> 29:22.960
+I was in television in Singapore on this same topic.
+
+29:22.960 --> 29:24.360
+What does this mean for the future?
+
+29:24.360 --> 29:26.680
+And also with reference to this political division,
+
+29:26.680 --> 29:27.920
+I've thought a lot about it.
+
+29:27.920 --> 29:32.920
+And on some level, I didn't see it coming as fast as it was.
+
+29:33.600 --> 29:36.760
+So I was at Facebook headquarters in 2016.
+
+29:36.760 --> 29:38.520
+You're talking about Deepfakes.
+
+29:38.520 --> 29:39.480
+No, I wasn't talking about Deepfakes,
+
+29:39.480 --> 29:42.040
+but I was at Facebook headquarters in 2016
+
+29:42.040 --> 29:44.200
+talking to the head of core machine learning at the time,
+
+29:44.200 --> 29:46.120
+fellow by the name of Hussein Mahena,
+
+29:46.120 --> 29:48.600
+very sharp fellow, I think he's with Google now.
+
+29:48.600 --> 29:51.240
+They always swap around over there.
+
+29:51.240 --> 29:55.040
+There's only so many places to go in SF,
+
+29:55.040 --> 29:56.360
+but a really sharp fellow.
+
+29:56.360 --> 29:59.960
+And I recall only very lightly talking about
+
+29:59.960 --> 30:01.880
+what was beginning to rattle.
+
+30:01.880 --> 30:03.200
+This is before Trump was elected.
+
+30:03.200 --> 30:07.520
+What was beginning to rattle is this idea of echo chambers
+
+30:07.520 --> 30:09.000
+for political perspectives.
+
+30:09.000 --> 30:10.480
+And I thought to myself, you know,
+
+30:10.480 --> 30:12.920
+I'm not seeing that much of it just yet right now
+
+30:12.920 --> 30:14.400
+in my own experience.
+
+30:14.400 --> 30:17.240
+I don't really see that as like the real workhorse
+
+30:17.240 --> 30:19.440
+of, you know, friction in society.
+
+30:19.440 --> 30:21.280
+But by golly, four years later,
+
+30:22.560 --> 30:25.080
+you know, I can tell you that the echo chamber thing,
+
+30:25.080 --> 30:27.200
+it's not just, well, more people have a voice
+
+30:27.200 --> 30:28.840
+and that's why they're fighting each other.
+
+30:28.840 --> 30:32.280
+I would actually push back on that idea very firmly.
+
+30:32.280 --> 30:33.800
+I would push back on that idea.
+
+30:33.800 --> 30:38.480
+I suspect that there are mounted incentives
+
+30:38.480 --> 30:41.320
+and money to be made and influence to be wielded
+
+30:42.400 --> 30:47.400
+that sort of make incessant division just work, right?
+
+30:47.920 --> 30:49.560
+I mean, who has a Twitter following
+
+30:49.560 --> 30:52.520
+more than 100,000 people who isn't primarily
+
+30:52.520 --> 30:55.120
+basing it on a for or against or an affinity, right?
+
+30:55.120 --> 30:57.720
+Oh, you know, I run a puppy kennel or something,
+
+30:57.720 --> 31:00.440
+or I like take pictures on the beach
+
+31:00.440 --> 31:01.320
+and I'm an attractive woman.
+
+31:01.320 --> 31:02.920
+Like, sort them out.
+
+31:02.920 --> 31:06.240
+Intellectuals, you're gonna pop off
+
+31:06.240 --> 31:07.720
+if you can have a strong enemy, right?
+
+31:07.720 --> 31:09.420
+Because you've already got a huge resonance.
+
+31:09.420 --> 31:11.120
+If you're kind of middle of the road,
+
+31:11.120 --> 31:13.340
+it's like you're the enemy of both, man.
+
+31:14.320 --> 31:16.720
+And I think that what I like about Boston
+
+31:16.720 --> 31:18.560
+is it's actually okay to be middle of the road.
+
+31:18.560 --> 31:20.720
+I am, I'm tied to neither political party.
+
+31:20.720 --> 31:23.000
+You can do that and not be a bad guy.
+
+31:23.000 --> 31:27.760
+In San Francisco, I mean, you're essentially a Bible thumper.
+
+31:27.760 --> 31:30.080
+Now, I've never read the Bible, but oddly enough,
+
+31:30.080 --> 31:32.760
+I'm close to being one in the Bay Area.
+
+31:32.760 --> 31:36.280
+And you with that American flag, I would not recommend.
+
+31:36.280 --> 31:38.600
+So you doing that within 20 miles of San Francisco,
+
+31:38.600 --> 31:40.280
+I would not recommend it.
+
+31:40.280 --> 31:42.880
+And you know, I was a refugee in Canada
+
+31:42.880 --> 31:45.640
+and I'm an ex-Muslim immigrant in the US.
+
+31:45.960 --> 31:46.800
+And I'm glad we have you.
+
+31:46.800 --> 31:48.080
+I'm glad it's helping out.
+
+31:48.080 --> 31:52.040
+All it takes is one, quote unquote,
+
+31:52.040 --> 31:54.720
+wrong interpretation of the US flag, for example,
+
+31:54.720 --> 31:56.680
+which I had in my room in Tehran.
+
+31:56.680 --> 32:00.080
+You know, United States is a beacon of light still.
+
+32:00.080 --> 32:01.480
+For people all around the world,
+
+32:01.480 --> 32:03.480
+you see protesters in Hong Kong
+
+32:03.480 --> 32:05.240
+under that kind of a situation,
+
+32:05.240 --> 32:06.720
+they're waving the American flags.
+
+32:06.720 --> 32:11.440
+It has a meaning beyond politics and geography.
+
+32:11.440 --> 32:13.880
+Yeah, I hope it retains that meaning, that's my hope.
+
+32:13.880 --> 32:14.720
+I agree.
+
+32:14.760 --> 32:17.000
+I'm not here calling America good ubiquitously, right?
+
+32:17.000 --> 32:18.520
+I'm obviously not doing that.
+
+32:18.520 --> 32:21.160
+But I am saying that it's a shame
+
+32:21.160 --> 32:23.000
+when it's ubiquitously seen as evil,
+
+32:23.000 --> 32:25.560
+because I think we actually have a lot more in common
+
+32:25.560 --> 32:27.600
+that hopefully we can get along with,
+
+32:27.600 --> 32:29.720
+but technology is certainly veering us away
+
+32:29.720 --> 32:32.160
+from having concord here.
+
+32:32.160 --> 32:36.200
+Yeah, it also shows deeper parts of human nature, right?
+
+32:36.200 --> 32:39.240
+Like what you were saying that people depend on division
+
+32:39.240 --> 32:41.240
+in order to capitalize on it.
+
+32:41.240 --> 32:44.360
+This is something that is very deeply woven
+
+32:44.360 --> 32:45.920
+within who we are.
+
+32:45.920 --> 32:49.680
+Oh yes, oh yes, the tribe, sir, the tribe.
+
+32:49.680 --> 32:50.640
+Yeah.
+
+32:50.640 --> 32:53.400
+I mean, you know, we are a tribal species
+
+32:53.400 --> 32:56.920
+and us versus them is the automatic frame.
+
+32:56.920 --> 33:01.920
+It takes vigilant volitional effort
+
+33:02.440 --> 33:06.280
+to do anything other than think us versus them
+
+33:06.280 --> 33:08.240
+in almost all circumstances.
+
+33:08.240 --> 33:10.400
+I mean, maybe that's a bit of a stretch,
+
+33:10.400 --> 33:13.360
+but to be frank, it's quite clearly the norm.
+
+33:13.360 --> 33:16.120
+You know, anyone who considers themselves
+
+33:16.120 --> 33:18.160
+free entirely of that dynamic,
+
+33:18.160 --> 33:20.840
+I think is generally fooling themselves to a spooky degree.
+
+33:20.840 --> 33:23.880
+I think we should be aware of just how consistent
+
+33:23.880 --> 33:24.800
+and vigilant we have to be
+
+33:24.800 --> 33:28.240
+and that we're never gonna be perfect in that category.
+
+33:28.240 --> 33:29.720
+But I hope we can work at it.
+
+33:29.720 --> 33:31.240
+I don't think we're doing a great job right now
+
+33:31.240 --> 33:32.640
+as a country.
+
+33:32.640 --> 33:35.720
+As a country, yeah, especially with China
+
+33:35.720 --> 33:37.480
+on the other side of the equation.
+
+33:38.440 --> 33:39.360
+Yeah, all right, you want to?
+
+33:39.360 --> 33:42.360
+Yeah, let's get in there.
+
+33:43.360 --> 33:44.200
+Yeah.
+
+33:46.480 --> 33:48.360
+I remember talking to someone in Toronto
+
+33:48.360 --> 33:52.720
+a couple of years ago at a Toronto transhumanist meetup
+
+33:52.720 --> 33:54.920
+and we talked for like three hours.
+
+33:54.920 --> 33:55.760
+It's awesome.
+
+33:55.760 --> 33:57.480
+And at the end, it was like, you know,
+
+33:57.480 --> 33:59.960
+the really only three things matter in this world,
+
+33:59.960 --> 34:02.040
+China, United States and what they do
+
+34:02.040 --> 34:04.600
+with artificial intelligence.
+
+34:04.600 --> 34:06.200
+And this was a couple of years ago
+
+34:06.200 --> 34:09.640
+and it seems to be the case.
+
+34:09.640 --> 34:12.400
+My friends in Paris would be angry if I agreed with you.
+
+34:12.400 --> 34:14.480
+So I'm gonna pretend to disagree with you.
+
+34:16.480 --> 34:17.880
+Please expand on that.
+
+34:17.880 --> 34:18.800
+Yeah, yeah.
+
+34:22.800 --> 34:24.080
+I would take a lot of flack.
+
+34:24.080 --> 34:26.840
+No, I mean, what for you is interesting
+
+34:26.840 --> 34:28.560
+about the US China AI race?
+
+34:28.560 --> 34:30.680
+I mean, I think about this incessantly
+
+34:30.680 --> 34:33.240
+and I think about this from a defense perspective.
+
+34:33.240 --> 34:34.800
+I think about this from a media perspective.
+
+34:34.800 --> 34:36.760
+I spoke in Shanghai for the United Nations.
+
+34:36.760 --> 34:39.160
+I've interviewed a tremendous number of companies
+
+34:39.160 --> 34:42.160
+with co-founders in China that are in the AI space
+
+34:42.160 --> 34:46.480
+as well as investors in the Asian AI ecosystem.
+
+34:46.480 --> 34:48.840
+And so I have vantage points
+
+34:50.040 --> 34:53.960
+that have fleshed this out pretty reasonably thoroughly.
+
+34:53.960 --> 34:56.080
+I mean, I'm not an expert in its entirety,
+
+34:56.080 --> 34:59.680
+but what makes it interesting for you?
+
+34:59.680 --> 35:01.120
+What's important about that dynamic?
+
+35:01.120 --> 35:03.600
+What's interesting to me is within the context
+
+35:03.600 --> 35:06.640
+of human nature, the tribalism that we talked about
+
+35:06.640 --> 35:09.400
+and how we have always used technology as a tool
+
+35:09.400 --> 35:12.160
+in order to pursue our human intentions.
+
+35:12.160 --> 35:14.920
+And the biggest tribes right now I see in the world
+
+35:14.920 --> 35:19.920
+is the Chinese Communist Party and the United States
+
+35:19.960 --> 35:23.120
+government that they're clearly in conflict with each other,
+
+35:23.120 --> 35:25.800
+which creates, competition is always good
+
+35:25.800 --> 35:27.840
+to develop new things.
+
+35:27.840 --> 35:32.240
+It creates like space race and a lot of our technology
+
+35:32.240 --> 35:36.280
+is contribution of the wars that we have fought, right?
+
+35:36.280 --> 35:38.480
+But at the end of the day, it's very important
+
+35:38.480 --> 35:42.800
+to understand that AI is perhaps the ultimate tool
+
+35:42.800 --> 35:46.000
+and ultimate depending on the intention
+
+35:46.000 --> 35:48.280
+can be used as a weapon, can be used as like,
+
+35:48.280 --> 35:49.600
+it's like any other tool, you know,
+
+35:49.600 --> 35:51.280
+with fire you can warm yourself up
+
+35:51.280 --> 35:53.000
+or burn down your entire building.
+
+35:53.880 --> 35:56.880
+And it's very interesting to me because I know China
+
+35:56.880 --> 36:00.640
+has access to more data than United States
+
+36:00.640 --> 36:03.720
+and US is kind of, now please correct me if I'm wrong,
+
+36:03.720 --> 36:06.960
+but it seems like US is lagging behind China
+
+36:06.960 --> 36:10.000
+specifically because of the decentralized system
+
+36:10.000 --> 36:13.720
+that the US has versus a centrally driven group
+
+36:13.720 --> 36:15.800
+of engineers in China that were like,
+
+36:15.800 --> 36:19.040
+this is our objective, we're gonna get it no matter how.
+
+36:19.040 --> 36:21.160
+And in the United States, you have to, you know,
+
+36:21.160 --> 36:24.360
+argue about the definition of the word, for example,
+
+36:24.360 --> 36:29.080
+is for many months, costing millions and millions of dollars.
+
+36:29.080 --> 36:31.880
+Yeah, and I mean, the communist system,
+
+36:31.880 --> 36:35.520
+never having worked within it or understanding it
+
+36:35.520 --> 36:38.640
+to a great extent, I'm sure has its own hiccups
+
+36:38.640 --> 36:42.040
+and what we might refer to as inefficiencies
+
+36:42.040 --> 36:46.160
+with corruption and, you know, however that operates.
+
+36:46.160 --> 36:50.440
+But to your point, so I wrote a rather in-depth article
+
+36:50.440 --> 36:52.760
+called The Seven Weaknesses of the West.
+
+36:52.760 --> 36:55.120
+So someone typed eMERGE, E-M-E-R-J,
+
+36:55.120 --> 36:57.720
+Seven Weaknesses of the West, they'd find it on Google.
+
+36:57.720 --> 36:59.960
+And this really summarizes a lot of what I consider
+
+36:59.960 --> 37:02.040
+to be where we're behind the eight ball with China.
+
+37:02.040 --> 37:04.680
+Now the United States, I did another very lengthy piece
+
+37:04.680 --> 37:07.240
+on the AI and China ecosystem, how it's developing,
+
+37:07.240 --> 37:09.280
+how it's evolving, the kinds of startups, et cetera.
+
+37:09.280 --> 37:12.720
+That's its own bit of research I believe is free as well.
+
+37:12.720 --> 37:17.360
+But we have more academic muscle.
+
+37:17.360 --> 37:21.240
+We have more actual scientists
+
+37:21.240 --> 37:23.920
+and actual scientists who have experience deploying it,
+
+37:23.920 --> 37:26.280
+which is a really, really good distinction
+
+37:26.280 --> 37:29.200
+because coming out of Carnegie Mellon is kinda neat,
+
+37:29.200 --> 37:30.400
+you know, like you're not dumb.
+
+37:30.400 --> 37:31.960
+That's awesome, that's great.
+
+37:32.000 --> 37:34.560
+But actually having experience,
+
+37:34.560 --> 37:36.520
+turning that into a user experience
+
+37:36.520 --> 37:39.760
+or reducing money laundering in a bank
+
+37:39.760 --> 37:43.480
+or improving retention for a subscription service,
+
+37:43.480 --> 37:48.480
+that's a much more robust, practical, applicable experience.
+
+37:48.960 --> 37:50.280
+And that's frankly not something
+
+37:50.280 --> 37:51.440
+you can get in purely academia.
+
+37:51.440 --> 37:53.640
+So we have certainly some edges here.
+
+37:54.920 --> 37:56.640
+And I think some people are optimistic
+
+37:56.640 --> 37:58.120
+that the free market system
+
+37:58.120 --> 38:00.720
+will also just be more creative writ large.
+
+38:00.720 --> 38:04.640
+That said, there are a lot of disadvantages.
+
+38:04.640 --> 38:06.840
+And a lot of them I think have to do with,
+
+38:06.840 --> 38:08.160
+you mentioned centralization.
+
+38:08.160 --> 38:10.160
+I think a lot of this ties to the ability
+
+38:10.160 --> 38:12.760
+for the Chinese Communist Party
+
+38:12.760 --> 38:15.720
+to marshal a united front of effort.
+
+38:15.720 --> 38:17.600
+And that involves many factors here.
+
+38:17.600 --> 38:19.720
+That involves the private sector and academia
+
+38:19.720 --> 38:23.960
+essentially just being wings of the great and ruling power.
+
+38:23.960 --> 38:27.960
+So being nothing more but wings, nothing more.
+
+38:28.280 --> 38:31.080
+That's a very powerful and lovely place to be.
+
+38:31.080 --> 38:36.080
+And in fact, Confucius, there's no better setup.
+
+38:36.760 --> 38:38.840
+So Xi Jinping, if your objective
+
+38:38.840 --> 38:43.120
+was to rule without question,
+
+38:43.120 --> 38:46.240
+Xi Jinping would be, I mean, I think he's in a great spot.
+
+38:46.240 --> 38:48.160
+I mean, if that was your goal, Ryan, I'm just saying
+
+38:48.160 --> 38:49.880
+if it was your goal, he's in the best spot.
+
+38:49.880 --> 38:51.040
+Objectively speaking.
+
+38:51.040 --> 38:56.040
+There is no, pericles is not revered in China, right?
+
+38:57.040 --> 39:00.760
+The Socrates and Christ of China
+
+39:00.760 --> 39:03.160
+would be Confucius almost unquestionably.
+
+39:03.160 --> 39:06.280
+And man, I mean, Confucius is real congenial
+
+39:06.280 --> 39:10.120
+to everything lining up to the great emperor.
+
+39:10.120 --> 39:12.400
+Now I'm not saying Confucius advocates for tyranny.
+
+39:12.400 --> 39:14.640
+In fact, I think it's pretty clear he doesn't.
+
+39:14.640 --> 39:19.320
+But it can be bent and molded so sweetly, so snuggly
+
+39:19.320 --> 39:21.880
+in a nice, obedient alignment.
+
+39:21.880 --> 39:24.000
+And I think so culturally, he sits in just
+
+39:24.040 --> 39:28.280
+an absolutely beautiful, almost impeccable cultural soil
+
+39:28.280 --> 39:29.960
+for what he is to do.
+
+39:30.760 --> 39:35.760
+And they have the wings of the party dynamic going on.
+
+39:36.040 --> 39:39.160
+I think they also have the ruler for life thing, right?
+
+39:39.160 --> 39:41.680
+Now, now, ruler for life.
+
+39:41.680 --> 39:45.320
+I mean, they don't fall from their position
+
+39:45.320 --> 39:47.800
+until the mandate of heaven takes them off of it, right?
+
+39:47.800 --> 39:51.160
+This is like BC, we're talking BC here, these precedencies.
+
+39:51.160 --> 39:55.360
+This is a culture that is, I mean, rich, in my opinion,
+
+39:55.360 --> 39:57.880
+rich and amazing to no end, to no end.
+
+39:57.880 --> 39:58.960
+I mean, the Tang dynasty.
+
+39:58.960 --> 40:01.360
+I mean, I'm so fascinated with the history of China.
+
+40:01.360 --> 40:03.760
+I'm not a big CCP fan, but China,
+
+40:03.760 --> 40:06.360
+I'm just like ravenously interested across the board.
+
+40:06.360 --> 40:08.480
+But many of these precedents are very early.
+
+40:08.480 --> 40:11.160
+And now they're wielding them and they're leveraging them
+
+40:11.160 --> 40:13.040
+in a way that really makes a lot of sense.
+
+40:13.040 --> 40:16.320
+And so Xi can think about a 20-year goal.
+
+40:16.320 --> 40:18.320
+Trump has gotta get elected, you know?
+
+40:18.320 --> 40:19.680
+He's gotta get elected.
+
+40:19.680 --> 40:21.920
+And whoever's after him has gotta get elected.
+
+40:21.920 --> 40:26.440
+For Xi, it's kind of like, he can set a 20-40 goal
+
+40:26.440 --> 40:31.440
+and he can genuinely take a hard swing at that, right?
+
+40:31.520 --> 40:35.400
+Deng Jinping was up there for Lord knows how long.
+
+40:35.400 --> 40:37.600
+What was he, 90 or something when he stepped down?
+
+40:37.600 --> 40:40.920
+It's a, so these guys can take a really good run at it.
+
+40:40.920 --> 40:43.840
+And that ability to think long-term, I think,
+
+40:43.840 --> 40:45.880
+puts us at a sincere disadvantage.
+
+40:45.920 --> 40:50.040
+So do you see, this is actually a very interesting point.
+
+40:50.040 --> 40:54.440
+Do you see the representative democracy as a system
+
+40:54.440 --> 40:57.560
+is a system worthy of being disrupted
+
+40:57.560 --> 41:00.480
+considering that your competitor is being driven
+
+41:00.480 --> 41:02.680
+on a centrally driven kind of a system?
+
+41:02.680 --> 41:03.960
+Which I also wanna add,
+
+41:03.960 --> 41:06.840
+this was something brought up in Joe Rogan podcast,
+
+41:06.840 --> 41:09.000
+as Salma mentioned, I keep bringing this up,
+
+41:09.000 --> 41:11.160
+that China is run by engineers,
+
+41:11.160 --> 41:13.680
+United States is run by lawyers.
+
+41:13.680 --> 41:15.680
+So there's a very big difference,
+
+41:16.480 --> 41:17.640
+not only implementing solutions,
+
+41:17.640 --> 41:20.880
+but also recognizing problems and solutions
+
+41:20.880 --> 41:23.960
+to be the most practical kind of solutions.
+
+41:23.960 --> 41:27.320
+And we seem to be stuck in this representative democracy
+
+41:27.320 --> 41:29.200
+and all the consequences of it.
+
+41:31.120 --> 41:33.840
+That question, I think it's,
+
+41:33.840 --> 41:37.800
+I would say this is an apt time to ask that question.
+
+41:37.800 --> 41:40.560
+I would also say it is beyond my pale
+
+41:40.560 --> 41:42.560
+to have firm and square opinions
+
+41:42.560 --> 41:44.640
+about the how of the reconstruction.
+
+41:44.640 --> 41:45.840
+Again, it's not my domain.
+
+41:45.840 --> 41:48.440
+I'll speak to things that I feel confident about
+
+41:48.440 --> 41:49.800
+and not so much ones I don't.
+
+41:49.800 --> 41:51.240
+But I do believe,
+
+41:52.920 --> 41:55.080
+I have reason to believe from my vantage point
+
+41:55.080 --> 41:56.960
+and my own experience of where I feel like
+
+41:56.960 --> 41:59.160
+I have expertise that's worthwhile to talk about
+
+41:59.160 --> 42:01.480
+that it's warranted to question it.
+
+42:01.480 --> 42:03.760
+Because some of these points,
+
+42:03.760 --> 42:05.440
+so the whole point of that seven weaknesses
+
+42:05.440 --> 42:06.360
+of the West article,
+
+42:06.360 --> 42:08.280
+and I have some other pieces coming out about China
+
+42:08.280 --> 42:09.920
+in the coming three or four months,
+
+42:09.920 --> 42:11.560
+particularly around media.
+
+42:11.560 --> 42:12.400
+That is to say,
+
+42:12.400 --> 42:14.560
+our media is essentially built to divide us
+
+42:15.400 --> 42:16.840
+and China gets free reign to come in however they want.
+
+42:16.840 --> 42:18.120
+Buy up the movie theaters,
+
+42:18.120 --> 42:20.240
+buy up the movie studios,
+
+42:20.240 --> 42:22.120
+we're all using TikTok, right?
+
+42:22.120 --> 42:22.960
+And what are they using?
+
+42:22.960 --> 42:24.040
+Google and Facebook?
+
+42:24.040 --> 42:27.320
+Nay, my comrade, nay, my comrade.
+
+42:27.320 --> 42:29.480
+So they get to mold this,
+
+42:29.480 --> 42:31.000
+what they would refer to as harmony,
+
+42:31.000 --> 42:34.960
+we might refer to as something more akin to obedience.
+
+42:34.960 --> 42:37.200
+Something more akin to like break your legs
+
+42:37.200 --> 42:40.000
+if you do the wrong kind of yoga in the park,
+
+42:40.000 --> 42:40.840
+Falun Gong.
+
+42:42.160 --> 42:43.800
+But they would call it harmony.
+
+42:43.800 --> 42:45.520
+So they were able to consciously mold that
+
+42:45.520 --> 42:47.240
+through the entirety of their digital ecosystems
+
+42:47.240 --> 42:48.760
+that were not a part of it.
+
+42:48.760 --> 42:51.320
+They can buy the movie theaters out, brother.
+
+42:51.320 --> 42:55.200
+They can buy the people who make the films out, brother.
+
+42:55.200 --> 42:57.240
+They can buy up the big gaming companies.
+
+42:57.240 --> 42:58.080
+You see Blizzard,
+
+42:58.080 --> 43:01.400
+you're not allowed to talk about Uyghurs on Blizzard, right?
+
+43:01.400 --> 43:05.320
+So media is its own ball of wax.
+
+43:05.320 --> 43:08.600
+But yeah, I would say given those present dynamics,
+
+43:08.600 --> 43:09.840
+there's someone I follow on Twitter
+
+43:09.840 --> 43:11.360
+whose name now completely evades me,
+
+43:12.240 --> 43:15.480
+who framed it very well, better than I had previously,
+
+43:15.480 --> 43:17.560
+is that there's a default momentum
+
+43:17.560 --> 43:20.920
+where we would then just follow and keep up with China
+
+43:20.920 --> 43:23.160
+in terms of control and media
+
+43:23.160 --> 43:25.720
+in order to make sure that we're not weaker than them.
+
+43:25.720 --> 43:27.480
+That that might be a natural momentum,
+
+43:27.480 --> 43:28.680
+which is dangerous, right?
+
+43:28.680 --> 43:32.320
+To be a follower and to also follow of anybody, Mao.
+
+43:32.320 --> 43:35.040
+I mean, if you're gonna give me one person to follow,
+
+43:35.040 --> 43:37.120
+I will give you a million human beings
+
+43:37.120 --> 43:38.040
+before I give you Mao.
+
+43:38.040 --> 43:40.760
+I will give you literally a million men,
+
+43:40.960 --> 43:42.240
+a million men or women.
+
+43:42.240 --> 43:44.400
+I'll give you Thatcher, I'll give you, name him.
+
+43:44.400 --> 43:45.800
+I'll give you Joan of Arc.
+
+43:45.800 --> 43:48.320
+I mean, I don't care, anybody but Mao.
+
+43:48.320 --> 43:53.320
+So I think that the default momentum is in that direction.
+
+43:54.160 --> 43:57.000
+We do have to think about what does it look like
+
+43:57.000 --> 43:59.880
+to maintain our strengths and our values
+
+43:59.880 --> 44:02.120
+while also dealing with the reality
+
+44:02.120 --> 44:04.040
+of the digital ecosystem that we exist in.
+
+44:04.040 --> 44:06.360
+And one of my big contentions with defense
+
+44:06.360 --> 44:08.960
+is that I think a tremendous amount of money
+
+44:08.960 --> 44:10.560
+goes into things that rust,
+
+44:10.560 --> 44:12.720
+that is to say tanks, et cetera, et cetera.
+
+44:12.720 --> 44:15.120
+While China, I think intelligently,
+
+44:15.120 --> 44:17.400
+is playing the economic and playing the digital
+
+44:17.400 --> 44:20.360
+and media game, which is much more plausibly deniable.
+
+44:20.360 --> 44:21.320
+And I think in the future
+
+44:21.320 --> 44:23.880
+will be a much bigger lever of influence.
+
+44:23.880 --> 44:25.960
+And so I think that they're playing smarter
+
+44:25.960 --> 44:27.640
+than we are in that domain.
+
+44:27.640 --> 44:28.920
+Very well said.
+
+44:28.920 --> 44:31.320
+Do you think it's corruption that takes more money
+
+44:31.320 --> 44:34.560
+towards the rustable things that you're talking about?
+
+44:34.560 --> 44:36.880
+Like they have lobbyists and contractors
+
+44:36.880 --> 44:40.040
+and connections with certain manufacturers.
+
+44:40.040 --> 44:42.440
+You know, I don't know enough
+
+44:42.440 --> 44:47.440
+about what is called the military industrial complex.
+
+44:47.600 --> 44:48.920
+I don't know it.
+
+44:48.920 --> 44:50.760
+In fact, I don't know enough
+
+44:50.760 --> 44:53.840
+to even have a firm opinion on that phrase.
+
+44:54.960 --> 44:59.000
+So I've spoken with folks in defense, writ large,
+
+44:59.000 --> 45:00.840
+I consider them to be good folks,
+
+45:00.840 --> 45:04.560
+but it wouldn't surprise me if there was all manner
+
+45:04.560 --> 45:09.320
+of dealings and whatnot that might be less than ideal
+
+45:09.320 --> 45:11.440
+and it might be kind of tainted incentives
+
+45:11.440 --> 45:13.080
+in many different regards.
+
+45:14.080 --> 45:15.320
+But I can't speak to it enough.
+
+45:15.320 --> 45:16.600
+I don't have enough experience.
+
+45:16.600 --> 45:18.840
+Is DARPA still the leading,
+
+45:18.840 --> 45:21.960
+I guess you can call them agency or department or whatever
+
+45:21.960 --> 45:24.640
+with respect to artificial intelligence?
+
+45:24.640 --> 45:25.560
+Yeah, you know, they still,
+
+45:25.560 --> 45:27.600
+they have so many different branches now.
+
+45:27.600 --> 45:32.120
+And I think what I am heartened by
+
+45:32.120 --> 45:35.360
+is that there are more of these efforts
+
+45:35.360 --> 45:38.480
+to improve public private sector partnership,
+
+45:38.480 --> 45:39.920
+really, really direct efforts.
+
+45:39.920 --> 45:41.800
+We did a very robust report
+
+45:41.800 --> 45:45.080
+about the all of the published AI strategy docs
+
+45:45.080 --> 45:46.560
+from the US public sector.
+
+45:46.560 --> 45:49.520
+So the AI.gov and all the permutations
+
+45:49.520 --> 45:50.800
+that are publicly available.
+
+45:50.800 --> 45:51.800
+What do they have in common?
+
+45:51.800 --> 45:53.440
+What are the common initiatives?
+
+45:53.440 --> 45:55.880
+A critical thrust across absolutely all of them
+
+45:55.880 --> 45:58.200
+is improving public private sector partnerships.
+
+45:58.200 --> 46:00.360
+And we see new organizations
+
+46:00.440 --> 46:02.320
+like it used to be called the DIUX.
+
+46:02.320 --> 46:03.640
+Now it's called the DIU.
+
+46:03.640 --> 46:08.280
+It's sort of another sort of investment venture wing.
+
+46:08.280 --> 46:10.200
+We have things like Incutel and DARPA
+
+46:10.200 --> 46:11.040
+that have been around forever.
+
+46:11.040 --> 46:12.960
+DARPA is obviously still a huge deal.
+
+46:13.920 --> 46:16.000
+But we also have similar little,
+
+46:17.120 --> 46:19.680
+we could call sort of like accelerator incubators
+
+46:19.680 --> 46:21.720
+slash venture arms of even the Air Force
+
+46:21.720 --> 46:22.760
+has their own shtick.
+
+46:22.760 --> 46:24.880
+They have a little camp that they run in Boston
+
+46:24.880 --> 46:26.160
+and a place that they rent out.
+
+46:26.160 --> 46:27.280
+And I think they make investments
+
+46:27.280 --> 46:30.040
+and work with tech talent and whatnot.
+
+46:30.440 --> 46:33.400
+So there's a spidering proliferation of these groups.
+
+46:34.760 --> 46:36.560
+I don't know enough about their coordination
+
+46:36.560 --> 46:38.280
+to say if I feel good about that.
+
+46:38.280 --> 46:40.000
+My inkling is it's not amazing
+
+46:40.000 --> 46:42.520
+because defense is very complicated.
+
+46:42.520 --> 46:44.640
+But yeah, DARPA still, I would say the best known
+
+46:44.640 --> 46:46.600
+to the best of my knowledge.
+
+46:46.600 --> 46:48.960
+But luckily it's proliferating.
+
+46:48.960 --> 46:49.960
+Excellent.
+
+46:49.960 --> 46:52.520
+Based on the data and understanding
+
+46:52.520 --> 46:54.640
+that you have gathered within these years,
+
+46:54.640 --> 46:58.720
+you must have some kind of end game kind of a picture
+
+46:58.720 --> 47:02.280
+for US AI supremacy and Chinese AI supremacy.
+
+47:02.280 --> 47:04.200
+Do you have something like that?
+
+47:04.200 --> 47:05.960
+I do, I've written an article on it.
+
+47:05.960 --> 47:10.760
+So what are some of the drastic contrast
+
+47:10.760 --> 47:12.360
+between those kind of words?
+
+47:12.360 --> 47:17.040
+The word where AI is driven by a US supremacy
+
+47:17.040 --> 47:20.200
+or the world that AI is driven by Chinese supremacy?
+
+47:21.360 --> 47:24.120
+Yeah, you know, I try my hardest
+
+47:24.120 --> 47:27.480
+to not think about that as my default frame.
+
+47:27.520 --> 47:28.800
+It's very hard not to
+
+47:28.800 --> 47:30.680
+because of the whole Thucydides trap
+
+47:30.680 --> 47:34.440
+and because of the level of tension
+
+47:34.440 --> 47:36.200
+that we're dealing with right now.
+
+47:37.600 --> 47:40.920
+But in my heart of hearts as a first swing,
+
+47:40.920 --> 47:43.640
+I have an article called We Unite or We Fight,
+
+47:43.640 --> 47:47.480
+so E-M-E-R-J, We Unite or We Fight,
+
+47:47.480 --> 47:50.120
+which is really around getting on the same page.
+
+47:51.200 --> 47:53.320
+It's a horrible word, but same-pagedness,
+
+47:53.320 --> 47:54.920
+we could call it solidarity,
+
+47:54.920 --> 47:58.840
+around what kind of 10-year, 20-year,
+
+47:58.840 --> 48:03.280
+even maybe longer, visions we want for a global society
+
+48:03.280 --> 48:05.600
+and being able to somewhere agree on that,
+
+48:05.600 --> 48:09.680
+to align and have transparency and steering,
+
+48:09.680 --> 48:11.080
+shared transparency and steering
+
+48:11.080 --> 48:14.680
+around where the big trajectory actually goes.
+
+48:14.680 --> 48:17.920
+That said, I'm not necessarily an optimist
+
+48:17.920 --> 48:21.560
+to that same-pagedness between China as it stands today
+
+48:21.560 --> 48:24.520
+and the US is really all that possible.
+
+48:24.560 --> 48:27.880
+If China had the government of Japan, for example,
+
+48:29.800 --> 48:33.840
+I probably really wouldn't be all that democratic nation.
+
+48:33.840 --> 48:35.760
+I mean, I just don't really think
+
+48:35.760 --> 48:38.880
+there's gonna be that many problems with that.
+
+48:38.880 --> 48:42.080
+I mean, Japan's a different ballgame than us,
+
+48:42.080 --> 48:45.800
+but democracy-wise, and people are people,
+
+48:45.800 --> 48:48.080
+there's no issues with individual Chinese folks
+
+48:48.080 --> 48:52.560
+by any means, but yeah, I feel as though
+
+48:52.560 --> 48:54.600
+the kind of global solidarity and alignment
+
+48:54.600 --> 48:56.480
+that would be required to get on the same page
+
+48:56.480 --> 48:58.480
+about what are we to turn into,
+
+48:58.480 --> 49:00.120
+what is the human experience to be,
+
+49:00.120 --> 49:02.560
+what is the global community to bloom into
+
+49:02.560 --> 49:04.000
+beyond the present human experience,
+
+49:04.000 --> 49:05.960
+because we're not really gonna be able to stop that train,
+
+49:05.960 --> 49:07.120
+hopefully we can guide it,
+
+49:07.120 --> 49:08.680
+hopefully it can be something other than war
+
+49:08.680 --> 49:10.640
+that drives it forward.
+
+49:10.640 --> 49:14.600
+So that article articulates what my hoped vision would be,
+
+49:14.600 --> 49:17.640
+which is not war, which is solidarity,
+
+49:18.800 --> 49:21.000
+but I'll tell you, to get to that solidarity,
+
+49:22.720 --> 49:24.920
+that's, there's gotta be a smarter guy than me for that one.
+
+49:24.920 --> 49:28.200
+Sometimes just parts come from different kind of
+
+49:28.200 --> 49:29.880
+experience and background.
+
+49:29.880 --> 49:32.320
+It's been true with certain religions that
+
+49:33.440 --> 49:36.200
+some religions, they just do not wanna get along
+
+49:36.200 --> 49:38.520
+with other religions or other competitors.
+
+49:38.520 --> 49:39.960
+They demand submission.
+
+49:39.960 --> 49:41.240
+That's what they're demanding.
+
+49:41.240 --> 49:44.760
+However, we fool ourselves in this part of the world.
+
+49:44.760 --> 49:49.360
+That doesn't change their status quo and default state.
+
+49:49.360 --> 49:52.520
+So it seems like there is a fundamental disconnect
+
+49:53.480 --> 49:55.000
+between the Chinese Communist Party,
+
+49:55.000 --> 49:58.320
+and I'm not dividing based on good and bad
+
+49:58.320 --> 50:02.400
+or any kind of ethical or moral judgment,
+
+50:02.400 --> 50:05.320
+but they're just coming from a very different kind of a place
+
+50:05.320 --> 50:08.000
+and looking for a very different kind of an outcome
+
+50:08.000 --> 50:10.400
+than the United States.
+
+50:11.800 --> 50:14.000
+I think that is certainly the case.
+
+50:14.880 --> 50:17.560
+What I will say about the United States,
+
+50:17.560 --> 50:21.160
+as absolutely horrible as I think we're doing right now
+
+50:21.160 --> 50:23.480
+on the global stage from Trump to you name it.
+
+50:23.480 --> 50:28.480
+I mean, as just brutal as our perception is globally,
+
+50:28.640 --> 50:31.720
+our value prop is, it ain't that bad.
+
+50:31.720 --> 50:33.040
+It ain't that bad, man.
+
+50:33.040 --> 50:37.400
+I mean, there's a lot of countries that dig our value prop
+
+50:37.400 --> 50:40.000
+more than whatever they were rocking with
+
+50:40.000 --> 50:41.000
+before they had it.
+
+50:41.000 --> 50:44.360
+And I'm now, am I advocating for colonial,
+
+50:44.360 --> 50:45.960
+not even freaking close, right?
+
+50:45.960 --> 50:47.360
+But somebody would misinterpret that
+
+50:47.360 --> 50:50.520
+because that's the world we live in right now.
+
+50:50.520 --> 50:53.280
+What I will say is that just as a culture,
+
+50:53.280 --> 50:55.840
+the general value prop I think is really strong.
+
+50:55.840 --> 50:58.360
+It's very hard for China to,
+
+50:58.360 --> 51:02.000
+so I believe there's a permutation of a Machiavelli quote,
+
+51:02.000 --> 51:04.320
+something akin to, and this might be bastardized
+
+51:04.320 --> 51:06.320
+and I apologize, but something akin to,
+
+51:06.320 --> 51:11.320
+when you take over a country or a county or what have you,
+
+51:11.320 --> 51:13.920
+you have the choice to let them keep their arms
+
+51:13.920 --> 51:16.000
+or to take away their arms.
+
+51:16.000 --> 51:17.920
+But you can't let them keep their arms
+
+51:17.920 --> 51:20.160
+and then later take away their arms.
+
+51:20.160 --> 51:22.880
+And I think that when it comes to China
+
+51:22.880 --> 51:26.680
+selling their value proposition to other countries,
+
+51:26.680 --> 51:29.560
+those countries would have to be at brutal war
+
+51:29.560 --> 51:31.240
+with each other for a very long time
+
+51:31.240 --> 51:34.200
+and essentially lose all semblance of a stable democracy
+
+51:34.200 --> 51:38.760
+before you would say yay to the kind of vulgar tyranny
+
+51:38.760 --> 51:41.040
+of the Chinese Communist Party.
+
+51:41.960 --> 51:46.400
+And so I think that the sale of their schtick
+
+51:46.400 --> 51:47.880
+is a tougher sell.
+
+51:47.880 --> 51:51.360
+And so if we have nothing else going for us in the States,
+
+51:52.280 --> 51:55.560
+it would be that you can tweet what you want,
+
+51:55.560 --> 52:00.120
+including about the man who purportedly runs the country
+
+52:00.120 --> 52:02.720
+and you're gonna go to bed just fine.
+
+52:02.720 --> 52:04.680
+Yeah, the fundamental American values,
+
+52:04.680 --> 52:09.120
+there I say constitutional values, absolutely.
+
+52:09.120 --> 52:13.560
+Dare you say, yeah, you're a Bible thumper, aren't you?
+
+52:13.560 --> 52:15.760
+Must be, and white supremacists, I guess.
+
+52:17.920 --> 52:21.240
+Anyway, but yes, I just think about them as,
+
+52:21.240 --> 52:23.920
+in the OECD, I have a great,
+
+52:23.920 --> 52:28.840
+I have a really warm and abiding respect
+
+52:28.840 --> 52:31.360
+for the OECD as an organization.
+
+52:31.360 --> 52:34.400
+I really recommend people interested in solidarity,
+
+52:34.400 --> 52:36.440
+certainly in sort of the broad Western dynamic
+
+52:36.440 --> 52:39.200
+versus the hardcore communism
+
+52:39.200 --> 52:41.040
+to learn more about the OECD,
+
+52:41.040 --> 52:43.680
+but they refer to it as like-minded nations, right?
+
+52:43.680 --> 52:45.480
+It's not any one person's constitution.
+
+52:45.480 --> 52:47.160
+It's just, can you say what you want
+
+52:47.160 --> 52:48.400
+and nobody breaks your legs?
+
+52:48.400 --> 52:50.760
+Can you pray to what you want and nobody breaks your legs?
+
+52:50.760 --> 52:52.720
+Can you come together and congregate how you want
+
+52:52.720 --> 52:54.080
+and nobody breaks your legs?
+
+52:54.080 --> 52:57.040
+It's just basic stuff, it's just basic stuff.
+
+52:57.040 --> 52:58.360
+So for me, it's not even constitutional,
+
+52:58.360 --> 52:59.960
+it's just like-minded nations
+
+52:59.960 --> 53:03.600
+where somewhat essential sort of freedoms,
+
+53:03.600 --> 53:06.400
+as far back as Greece or we wanna tie to John Locke
+
+53:06.400 --> 53:08.320
+or I don't really care who gets the credit,
+
+53:08.320 --> 53:10.600
+just the kinds of freedoms that we enjoy, right?
+
+53:10.600 --> 53:13.040
+So I can extrapolate it even beyond the constitution
+
+53:13.040 --> 53:13.920
+if we wanted to.
+
+53:13.920 --> 53:15.120
+Yeah, interesting.
+
+53:15.120 --> 53:18.680
+Transparency is the key, definitely.
+
+53:18.680 --> 53:21.120
+Are you at all confident and optimistic
+
+53:21.120 --> 53:24.600
+about decentralization on the basis of blockchain
+
+53:24.600 --> 53:26.200
+to reach some of these goals?
+
+53:30.200 --> 53:33.400
+I don't know enough about blockchain
+
+53:33.400 --> 53:35.760
+to have a square opinion there.
+
+53:35.760 --> 53:37.520
+What I will tell you is this,
+
+53:37.520 --> 53:40.240
+there appears to be very little blockchain
+
+53:40.240 --> 53:44.320
+tinkering its way into the actual enterprise right now.
+
+53:44.320 --> 53:45.840
+Now, the same could be said of AI,
+
+53:45.840 --> 53:48.960
+but AI is much farther along in let's say big banks,
+
+53:48.960 --> 53:53.360
+big media companies, e-commerce, manufacturing.
+
+53:53.360 --> 53:56.400
+Artificial intelligence is eking its way in in the corners.
+
+53:56.400 --> 53:58.760
+I'm not saying it's easy and at a fun time,
+
+53:58.760 --> 53:59.920
+but it's making a difference.
+
+53:59.920 --> 54:01.880
+It's clearly going to be transformative.
+
+54:01.880 --> 54:03.920
+Blockchain, I don't think that the use cases
+
+54:03.920 --> 54:06.080
+are so nascent that I really don't have firm opinions.
+
+54:06.080 --> 54:08.000
+When I look at the intersection of blockchain and AI,
+
+54:08.000 --> 54:09.640
+which I have done some research on,
+
+54:12.560 --> 54:13.560
+it's nascent to the point
+
+54:13.560 --> 54:15.400
+where I literally don't care about it yet.
+
+54:15.400 --> 54:17.960
+I mean, didn't you talk about that with Ben Gertzell?
+
+54:17.960 --> 54:20.400
+Because Ben Gertzell's Singularity Net is-
+
+54:20.400 --> 54:23.720
+And I have a tremendous respect for Gertzell, by the way.
+
+54:23.720 --> 54:26.960
+I mean, I consider Gertzell, in my personal opinion,
+
+54:26.960 --> 54:30.240
+he's one of probably four living intellectuals
+
+54:30.240 --> 54:33.360
+who I would say have really influenced my thought
+
+54:33.400 --> 54:38.120
+and who I consider to be toweringly intelligent.
+
+54:38.120 --> 54:41.200
+And so I have a great respect for Gertzell.
+
+54:41.200 --> 54:44.360
+But yeah, I mean, and I hope his firm succeeds.
+
+54:44.360 --> 54:45.200
+I'm rooting for him.
+
+54:45.200 --> 54:46.480
+I'm rooting for Singularity Net.
+
+54:46.480 --> 54:49.920
+It still seems to me to be a great many different ideas
+
+54:49.920 --> 54:51.760
+that they're exploring in terms of what the business model
+
+54:51.760 --> 54:53.040
+will be and how it's going to work out.
+
+54:53.040 --> 54:55.280
+And if anybody can do it, hopefully it's him.
+
+54:55.280 --> 54:56.120
+But I think-
+
+54:56.120 --> 54:57.120
+Yeah, what can lead to AGI?
+
+54:57.120 --> 54:59.320
+That's the thing, because we don't really know
+
+54:59.320 --> 55:02.080
+what can lead to AGI at this point.
+
+55:02.080 --> 55:02.960
+That's exactly it.
+
+55:03.520 --> 55:04.360
+Yeah, we don't have a clue yet.
+
+55:04.360 --> 55:06.000
+So Ben's got some theories, though,
+
+55:06.000 --> 55:08.360
+and he's got more informed theories than me.
+
+55:08.360 --> 55:10.200
+He's been thinking about it since I was five years old.
+
+55:10.200 --> 55:11.840
+Fascinating, fascinating individual.
+
+55:13.480 --> 55:16.840
+We talked about having an hour long conversation,
+
+55:16.840 --> 55:18.560
+so I don't wanna leak.
+
+55:18.560 --> 55:20.360
+Yeah, you have a two o'clock, unfortunately.
+
+55:20.360 --> 55:21.200
+Okay.
+
+55:21.200 --> 55:22.040
+I'm gonna blast with you.
+
+55:22.040 --> 55:22.860
+It's been a real fun day.
+
+55:22.860 --> 55:23.700
+Yeah, man.
+
+55:23.700 --> 55:26.000
+Dan's website is emerge.com.
+
+55:26.000 --> 55:28.280
+Go there and find all the other information.
+
+55:28.280 --> 55:31.800
+Let me ask you the last question I ask all my guests.
+
+55:31.800 --> 55:34.040
+That if you come across an intelligent alien
+
+55:34.040 --> 55:35.520
+from a different civilization,
+
+55:35.520 --> 55:39.080
+what would you say is the worst thing humanity has done?
+
+55:39.080 --> 55:41.680
+And what would you say is our greatest achievement?
+
+55:43.400 --> 55:44.520
+Good gracious, brother.
+
+55:44.520 --> 55:45.800
+I have no idea.
+
+55:45.800 --> 55:47.600
+What is the worst thing we've done?
+
+55:48.720 --> 55:53.600
+Well, I mean, tribal and religious wars seem pretty rough.
+
+55:53.600 --> 55:54.760
+That's a very big umbrella.
+
+55:54.760 --> 55:56.620
+I apologize for the vagary there.
+
+55:57.920 --> 56:01.280
+And in terms of the best things that we've done,
+
+56:01.640 --> 56:06.640
+I think it's determined ways to both govern ourselves
+
+56:07.080 --> 56:09.320
+and progress forward in terms of our potential
+
+56:09.320 --> 56:13.360
+at the same time with reasonable periods of peace.
+
+56:13.360 --> 56:14.880
+I think that that's a worthy,
+
+56:14.880 --> 56:19.000
+it's a laudable achievement for hairless apes like ourselves.
+
+56:19.000 --> 56:21.520
+And I think we can deserve a pat on the back for that one.
+
+56:21.520 --> 56:23.360
+I think that's a worthy achievement for hairless apes like ourselves.
+
+56:51.520 --> 56:52.760
+I think that's a worthy achievement for hairless apes like ourselves.
+

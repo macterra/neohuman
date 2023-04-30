@@ -1,0 +1,1375 @@
+Why aren't they talking about AI?
+It just doesn't matter enough to the constituents, right?
+Why are they talking about, name your topic, sir.
+Name your topic.
+I mean, the most arbitrary things
+become giant friction points
+and then they get in all the speeches.
+Is it because of their inherent meaning
+and some platonic reality?
+No, no, no.
+It's simply because they resonate with the constituency.
+So we can expect AI to land
+on the sort of political speech table
+when it matters to the people who are being spoken to.
+Hello and welcome to the 80th episode of New Human Podcast.
+I'm a Gabbahari etiologist on Instagram and Twitter
+and you can follow the show on liveinlumbo.com,
+iTunes, YouTube, BitChute, and at some point on Spotify.
+And today with me, I have Daniel Affigiello.
+Welcome to New Human Podcast, Daniel.
+Hey, glad to be here, brother.
+Yeah, let's start with your background,
+the work you've done, the lives you've lived
+and what are you mainly focused on now these days?
+Yeah, so I began sort of not in the computer science space.
+So right now I'm the founder and head of research
+at a company called Emerge Artificial Intelligence Research
+that I founded some three years ago
+when I sold my last business.
+So at Emerge, our work is really
+mapping the return on investment of AI in the private sector.
+So we look at banking and financial services,
+we look at pharmaceutical,
+we look at the range of AI use cases
+and which of them are actually delivering value
+and we provide research products and data and advisory,
+kind of like a Forrester or a Gardner,
+to big companies who want to actually see a return
+from artificial intelligence.
+We do a good deal of work in the public sector as well,
+mostly in defense and security,
+financial crime, surveillance, things along those lines,
+but primarily in the private sector,
+it's going to be financial services, life sciences.
+So market research is the name of the game,
+but you want me to get into the old school stuff.
+Yeah, it's interesting to have context
+where the perspective of each individual comes from.
+I mean, I want to talk about Emerge,
+I want to talk about AI,
+but it's also interesting to know who is representing
+and expressing these ideas about AI.
+For sure.
+Well, I'll give you, I guess, a little bit of backdrop.
+So I'm not exactly from a tech background at all,
+I'm from a 4,000 person town in Rhode Island
+called Wakefield, Rhode Island.
+You've never heard of it before,
+and you will from this point until you're deaf,
+never hear of it again.
+It's a very small place.
+It's a quaint place, a beautiful place,
+but it's not a place I could stay,
+given my objectives in life.
+So that's where I'm from,
+and the way that I paid for college,
+and ultimately for Ivy League graduate school
+at the University of Pennsylvania,
+where I studied cognitive science,
+and my focus was on skill development
+and skill acquisition.
+So the cognitive science of acquiring skills quickly.
+The reason I went in for that
+is because I was in combat sports.
+So the way I was paying the bills
+was running a martial arts gym.
+So I was training fighters.
+We had some fitness classes,
+but it was mostly mixed martial arts and Brazilian jiu-jitsu.
+So I have a black belt in Brazilian jiu-jitsu.
+I've trained extensively, given seminars
+around the United States and even in Brazil,
+and won a national tournament,
+and did a lot of competing in my day.
+And so that's how I was kind of paying the bills.
+And so I was really interested in what does it look like
+to improve faster from an athlete perspective,
+training my own fighters, training myself.
+And so that's what I went to graduate school for.
+And when I was there, this is back in 2011,
+I was getting capped on the shoulder that,
+hey, Dan, all this human learning stuff,
+all this neural stuff,
+they're kind of doing that with computers.
+And this is the really early days of ImageNet,
+when ImageNet started becoming exciting.
+This is also the very early days
+of when they were applying natural language processing
+to Twitter data.
+There was something called Google Zeitgeist
+that UPenn was involved with at the time,
+deriving sentiment from different factors
+in the social media ether,
+and kind of determining how that correlated
+to different cities,
+and how weather affected different cities,
+and the moods of people, and the sicknesses of people,
+and things along those lines.
+So when I got out of grad school with the psych degree,
+I kind of became convinced this AI stuff,
+looking at the near term,
+and then also reading people like Nick Bostrom
+and Ben Goertzel, and learning about the long term.
+I was lucky enough to interview Ben Goertzel
+and Bostrom pretty much right out of grad school.
+I talked to all the major players in the AGI space.
+I became very convinced
+that in both the near and the long term,
+this was an exceedingly important technology,
+and that my understanding from a conceptual level
+in the cognitive sciences,
+I should just be able to transfer that over.
+So I got right into really studying this stuff,
+and then talking to the leading figures there,
+and eventually started a company.
+Very cool.
+I mean, you must have started with interest in the mind,
+getting into martial art,
+the kind of martial art that you got into.
+It's not that, hey, let's just go out and kick some ass.
+It's more about finding yourself, right?
+Through that art of battle.
+Yeah, there's something to be said of that.
+I don't personally overly spiritualize martial arts.
+I think some people will play it up.
+They'll be like, oh yes, I'm a martial artist,
+and so you should presume that I am wise.
+I actually don't do that.
+I think if I am wise,
+it's because I've read Montaigne and Plutarch,
+more than because I've choked men unconscious.
+But I've done both,
+and I can say that certainly part of the fascination
+of the mind is from beginning with martial arts,
+and being able to see how different people learn,
+and also see how I learned, right?
+To go from, you know, in Rhode Island,
+there's not that many good training partners,
+so to win national tournaments is actually pretty difficult.
+And I had to figure out how to go about drilling,
+figure out what kind of training regimens
+to build for myself.
+And it wasn't just what kind of weights to lift.
+In fact, I wasn't doing much of that.
+It was what kind of skills do I want to acquire?
+And so that forced me to think about,
+well, how does this thing upstairs actually work?
+And how can I learn as quickly as possible
+to really perform and also have my competitors
+do very well in tournaments too?
+So yeah, it was less spiritual,
+but it certainly was psychological in martial arts,
+and that's what got me to UPenn and ultimately into AI.
+Yeah, in addition to spirituality,
+it's also that you had choked people unconscious,
+but I assume that you were also choked unconscious yourself.
+You were placed on the other side of the equation.
+Sure, sure did.
+I mean, everybody weighs more than me.
+I'm a pretty small fella,
+so I did a lot of competitions
+against very, very big opponents.
+In fact, if you go on Google,
+you type in Dan Fijella versus the Giant,
+you'll see me in a jujitsu match
+against a guy that weighs 80 pounds, 100 pounds more than me
+who's actually a UFC fighter.
+His name is Pat Walsh.
+So this guy fought in the cage with other 220 pound men.
+I walk around at about a buck 25.
+So definitely, I didn't beat all those guys.
+That was a good match.
+I'll fortunately beat that guy.
+But yeah, I certainly had my ears boxed pretty good.
+You can see my cauliflower ear is pretty rough.
+And I've certainly, you know,
+I'm gonna have knee problems when I'm older.
+That's just a fact.
+I'm gonna have shoulder problems when I'm older.
+That's just a fact.
+But right now, it doesn't keep me from doing market research
+and what I love, so, you know.
+Yeah, it just seems that that experience of humility
+and empathy that you create
+when you're on the other side of something like that
+is also helpful when you're working on,
+let's say, artificial intelligence,
+which is a big difference from what is being written down
+on paper and in academia
+than what it's being implemented within the society,
+especially the society right now today
+that a lot of people are freaked out
+by just the name artificial intelligence
+and in a lot of aspect for right reasons, right?
+So I'm trying to get into,
+and we've talked about this a lot in this podcast,
+that what you put on the paper,
+it might seem awesome and sounds great,
+but there's a big difference between what sounds good
+and sounds sensible on the paper
+than when it's being implemented within the society
+when a lot of people have a problem
+even accepting the existence of such a thing
+that is going to compete with human intelligence
+and human, basically the concept of humanity.
+Yeah, I think, you know, in the near term,
+there's the job and economic considerations
+that are real.
+I don't think we're gonna see the wave of automation
+across the country in the very, very near term,
+but I do foresee in the next 10 years,
+we did a very substantial poll in 2015 of AI researchers
+and by a wide margin,
+the most significant and consistent AI risk
+in the next 20 years, this is five years ago,
+was the economic and job impact.
+So I think that seems like a reasonable fear,
+but I think to your point,
+there is the actual species dominant stuff
+if we look 50 years out, 100 years out
+that I think is considerable as well.
+So yeah, you're right.
+I mean, AI in theory and AI in practice,
+it's a lot less predictable when it's off the paper.
+Social adoption is a big part of any kind of technology
+that would progress, right?
+So you can recommend certain things to a business
+and it might seem all good, a certain kind of a technology,
+but when the society is rejecting that kind of technology,
+I bring up Google Glass, for example, as an example,
+that it was a very practical thing,
+well-designed and great, but people didn't like it.
+Some because they couldn't get it,
+some because they thought, oh, you're taking this,
+it jeopardizes my privacy
+and you think you're better than me
+and all those things, you know?
+Yeah, we did a very early interview in 2012
+with the head of Engadget at the time.
+Engadget is a big consumer tech blog
+who talked about his experience
+of wearing Google Glass in the subway
+and walking his dog and things like that
+and just how it wasn't really gonna fit
+into the normal mesh of society and the public.
+There was in San Francisco?
+I forget where Tim is based, Tim Stevens.
+This is a great many years ago,
+but I suspect it was the Bay Area.
+Yeah, because people were getting attacked.
+You know, there were videos taken by those,
+you know, people who were wearing it
+in bars and restaurants
+and people were getting attacked
+just because of wearing the glass.
+Part of it was the argument for privacy,
+but the other part was that, hey,
+this is not even something we can't buy from the store.
+This has to be given to you.
+Yeah, so it was like lording over people,
+kind of like, ah, I've been granted
+this recording intelligence layer
+and you don't have it.
+There's a certain kind of elitism
+that it seems like we can't get away with that.
+You know, genetic engineering is another field
+that will create this kind of elitism
+that, hey, if you can't afford it,
+not only financially, but also,
+you know, there's a big difference between China,
+let's say, and the United States,
+and I wanna talk to you about that too,
+because you mentioned you're talking to
+and you're advising private companies,
+but I also see on your website that you've spoken to,
+for example, United Nations, Harvard University.
+What was, oh, you talked to United Nations,
+as I see, about deepfakes, is that right?
+Yeah, so we actually, United Nations,
+World Bank, Interpol, the OECD,
+I mean, we work with-
+So beyond the private sector also.
+Yeah, these are the most substantial
+intergovernmental organizations in the world
+who are, luckily, at this point,
+at least allocating a certain amount of attention
+to artificial intelligence,
+and there are certainly initiatives
+that I really believe in there.
+And not all of those organizations
+are our clients, formally, some are.
+We've done substantial projects with the World Bank,
+for example, but some are just speaking engagements,
+because I happen to think it's a very valuable topic
+that should be at UN headquarters,
+and we were called upon to talk about it.
+So deepfakes is a good example of that,
+where I'm pretty close with the folks
+that run the artificial intelligence and robotics wing
+of what is called Unicrit,
+which is the crime and justice wing of the United Nations.
+I really respect those guys, I think they do a great job,
+and they have a thorough understanding of the space.
+Not everybody in the intergovernmental domain does.
+And they had called us in to essentially create a deepfake
+of the head of Unicrit, so a woman by the name of Bettina,
+who was the director of that wing of the United Nations.
+So we took a video of her,
+and then we made her say a bunch of things she never said,
+and then also extrapolated that into
+how almost anything can be programmatically generated,
+and how much better and better
+that programmatic generation is becoming,
+and what some of the considerations might be.
+My personal focus is on the long-term of that.
+Yes, political influence, I think, is something.
+Media and truth is something.
+I think the actual leap in the human experience,
+when we can push a button
+and have what we wish before our eyes,
+the conjuring of what we wish before our eyes,
+I think is a much grander transition
+than is spoken about in the purely political space.
+So I tried to create that stretch for UN leadership there.
+So democratization of information is the big picture,
+is what you're talking about,
+because it's not only deepfakes,
+but also, let's say, 3D printing,
+that now we have to deal with the very reality
+that within a couple of years,
+some parts of a gun can be very viably printed
+inside of someone's bedroom,
+and there's nothing anybody can do about it.
+Yeah, my personal expertise
+is not in 3D printing.
+We've done a couple bits of coverage
+on the intersection of what is called
+additive manufacturing,
+sort of the broad umbrella of 3D printing, and AI,
+so where those two mesh.
+But making projections around that tech,
+I have much less confidence than I do
+in, let's say, artificial intelligence
+in almost any industry.
+But yeah, to your point,
+that's part of the transition.
+I think what I'm articulating explicitly here
+is a broader dynamic of a kind of going in,
+so the majority, the bulk of our experience
+transitions into virtual spaces.
+So you and I are kind of doing that right now.
+I do that on my phone a good deal.
+We're all on a screen a really good percentage of the time,
+and if you look at human life
+and human life on screen time as a graph here,
+I mean, you don't have to be a rocket scientist.
+And I think that when we can call forth
+the kinds of experiences we want,
+whether it's a relaxing background to do our work,
+whether it's a movie that's created just for us, right?
+I wanna learn about the French Revolution,
+but I wanna learn about it through the eyes of St. Just,
+and I don't really care that much
+about the post-revolutionary Bonaparte stuff.
+I just wanna go right up until St. Just death, that's it,
+and I wanna look through his eyes.
+When a movie can be played
+per my preferences in creation
+and based on my past learning
+based on my current responsiveness, right?
+Am I attentive or is it boring me
+being able to have that generated in real time?
+I think that might be 15 years off,
+but I think that we get to a point
+where the compellingness of virtual ecosystems
+will be so amazing in terms of fulfilling drives
+for curiosity, creativity, for love,
+eventually with haptics that might involve sex.
+Lord knows how that's gonna evolve.
+That's not exactly my focus area,
+but I do think there's gonna be transitions there too,
+and I think that as the body becomes a husk
+and as most of what we wish in its highest form,
+right now, if you ask me, Dan,
+what is the most refreshing, rewarding,
+lovely thing that you could do,
+I would tell you it is walking in nature,
+reading actual papyrus in a really, really good book,
+like not Kindle, I mean like paper,
+I don't have ancient texts in my house,
+but I'm not, even if I was-
+I was gonna ask, you can't read papyrus?
+Even if I was exorbitantly wealthy,
+I would not become such a profligate
+in my collecting of texts like that,
+but I like me a good old book,
+and I like to breathe in the pine,
+and I like to see the sunset and those sorts of things,
+but I am not above the idea that within 15 years,
+a programmatically generated permutation of that,
+even the wind through my hair
+in a programmatically generated sense
+might be astronomically more refreshing,
+because it would be hyper-calibrated
+to all the very best experiences of that in the past,
+and that is in fact the transition I'm talking about.
+I wrote an article called Lotus Eaters and World Eaters,
+so Lotus Eaters and World Eaters.
+If Googled, that article would come up,
+and this is about the bigger transition.
+So for me, I think democratization of information
+is a very big part of it.
+I think that going in is the dynamic
+that I consider to be astronomically disruptive,
+and I think essentially a borderline
+no one is talking about.
+That's very interesting,
+because recently we've been talking about
+when people are talking about AI, artificial intelligence,
+and I like personally to think of that A
+as augmented intelligence as well,
+that you don't really have to reverse engineer
+and rebuild the entire brain or an intelligence.
+You can use it as a mesh net, basically,
+or exoskeleton, right?
+But the argument that I'm hearing is that AI
+is focused on the thinking mind, on the analytical mind,
+on the left brain, basically.
+The right brain and instincts
+and things we cannot really describe by words,
+that is something that we can't even begin
+to understand ourselves, let alone trying to replicate
+that with any kind of a machine intelligence.
+But that is a huge part of what you're talking about,
+to merging, basically, within blurring this line
+of what is real and what is not real
+further and further in the coming years.
+Yeah, and I would say, so I may not describe it similarly.
+I think it's an interesting distinction,
+the left and right brain.
+I would say that certainly at an emotive level,
+I don't think we're able to replicate,
+to the best of our knowledge,
+we're not able to replicate sentience in AI,
+although we did do a pretty extensive poll
+of artificial intelligence researchers
+around when sentience might be possible,
+something like 2060.
+Who knows if they're right, right?
+Nobody knows if anybody's right.
+But I'm curious about the topic.
+Consciousness, I think, is a morally worthy thing.
+It might be the morally worthy thing,
+but that's its own conversational threat.
+But right and left brain, I think,
+it's tough to say where AI actually sits,
+because, for example, if we look at
+the programmatically generated stuff,
+in the future, let's say 10 years from now,
+if you are a designer of logos, like company logos,
+you will not just take 15 hours
+to craft one really good logo
+and then take another 15 hours
+to craft another really good logo.
+You may begin with simply a verbalized
+or set of checkboxes, set of configurable features,
+like what are the values we want to convey,
+what are the values we stand for as a company,
+what kind of color palettes are we thinking
+might be good, whatever,
+and have a programmatically generated plethora of logos
+that are already stacked and ranked
+based on what we would presume
+humans would respond to most favorably
+based on the values that we had set before.
+Now, we would need a really big data set
+of people looking at different logos
+and correlating them with values,
+and we're not there yet.
+But if nothing else, we could start with a plethora,
+and we could take individual permutations,
+determine some tweaks, determine some adjustments,
+and create another plethora off of that one permutation,
+and in so doing, generate just generally
+better and more ideas, better and more ideas.
+Same with architecture, same with fashion,
+same with textiles, same with name your damn
+creative domain, creating beats.
+You want to create music for the elevator,
+you want to create rap music.
+I mean, being able to just have
+programmatically generated beats
+that we know are going to hit,
+that we know are going to respond,
+that people are going to respond well to.
+We might train it off of Spotify data
+in terms of what's most popular right now.
+We might train it off of whatever we want to do.
+This sort of extension of what you might refer to
+as the left brain will eventually become the norm
+in a great many creative fields.
+Now, is that going to be 10 years?
+Is that going to be 15 years?
+I can't exactly tell you, but I will say
+there was a time where as a graphic designer,
+you didn't need to know how to use a computer.
+And let me tell you, my good man, times have changed.
+And let me tell you, my good man,
+in 15 years, times will change again.
+And this kind of technology will be part of that change.
+I think a good point of distinction,
+you mentioned with music, for example.
+What constitutes better
+is the context that already exists, right?
+That is determined based on us, humans,
+who are, we are very limited in our experience.
+It's linear.
+And the argument can be made that for AI
+to reaches its true potential,
+it should not rely on humanity whatsoever.
+So after that point, the argument would become,
+would the AI, artificial intelligence,
+be able to create a beat or a piece of music
+that has absolutely no root within the context
+that is created by human civilization
+and is something that is introducing
+a new context altogether?
+Does it make sense?
+Yes, it does.
+And I don't know if you wanted to go
+this far down the rabbit hole,
+but there isn't a depth that you could go
+that I will not follow you.
+Oh, amazing.
+I'm mostly interested in rabbit holes
+because academic sides, I'm like,
+everything is written on Google.
+There are so many people who can nail those things better,
+but I think it's very important to be imaginative
+and consider many different options
+that we have to deal with in the coming years.
+I think these are interesting topics.
+Again, they aren't things that I'd be called upon
+to speak about at Interpol or at Citibank,
+but they are the long ball consequences
+that I think, as you pointed out,
+it's important to kind of splay those open
+and see what does this mean?
+Where does this go?
+To your point about music,
+I think the question here would be
+what would be the purpose of music?
+If the purpose is enjoyment
+and we are the only sentient things that enjoys,
+then I suspect you're right.
+We may be able to start from scratch
+and create beats and permutations of sound
+that really don't resemble any known musical genre
+that might be extremely appealing to some people.
+Very rare that music would be appealing to everybody,
+but that might be doable.
+Now, if AI itself could become sentient in some sense,
+maybe it would create,
+if artificial general intelligence
+were to create art for itself, two things.
+A, it's extremely unlikely we would be able to understand it,
+and B, it's extremely unlikely it would have a form
+that we now recognize.
+It's not gonna be carving marble.
+It's not gonna be fricking oil paints.
+It's gonna be something astronomically more complicated,
+and from the viewpoint
+of something astronomically more intelligent,
+it'll be astronomically more beautiful.
+The language of such an entity,
+we might think about it,
+like you and I have an alphabet.
+We're speaking English right now.
+You may speak other languages, I don't.
+I pretend to have a fistful of French words,
+but I go no farther.
+I'm an uncultured American.
+History, I'm pretty strong, but languages.
+Let's presume we're talking about the English alphabet.
+We've got a couple dozen letters to work with here,
+and we can only talk at this current bandwidth.
+An AGI might have a number of symbols
+that it might communicate with,
+either itself or other AGI's.
+We might imagine a cube of a million pixels this way,
+and a million pixels this way,
+and a million pixels this way,
+and each of those pixels can have
+one of two trillion different permutations
+of what we want to call it,
+like color number, what have you,
+and that any combination of all of that
+pushed through is like a letter.
+And so we couldn't possibly imagine
+the full extent of what expression would be
+for something beyond us,
+no better than a caterpillar could imagine our expression,
+could imagine Shakespeare's sonnets,
+could imagine great architecture,
+Corinthian columns.
+Caterpillars ain't gonna cut that mustard,
+and we ain't gonna cut the mustard
+of what's beyond us either.
+Yeah, we are creating a new and different kind of a species
+than humanity, and I think this is very important
+for people to understand that this is not a phase
+or a trend that's just gonna go away,
+and in 10 years, people will be in charge
+of everything again.
+Like, it's just not gonna happen.
+Yeah, I think a lot of people do operate
+under that assumption, though.
+I think it is really seen as a very short-term transition.
+Is it also shared within governments and UN
+and those places that you talk at?
+Yeah, I mean, in the broad sweep,
+so my unabashed long-term objective here
+is to bring what I refer to as
+the trajectory of intelligence conversation
+into these organizations which I have a relationship with.
+However, I'm not here to impose that
+when it's not a time that they're interested about it, right?
+I have certain people within these orgs
+that I can talk about all manner of topics,
+but for many, the reason I'm called on
+is because we study what's possible and what's working,
+so they're gonna have an academic,
+they might have an expert in computer vision,
+but they need somebody who's gonna say,
+well, here's where it's impacting this industry,
+here's where it's impacting the industry,
+here's what makes it hard to adopt,
+here's what makes it easy to adopt in defense,
+here's what, they need a reality check
+on where it's impacting the world,
+and that's why I step into the World Bank
+to enter poll, et cetera.
+So I'm not gonna force feed them that stuff,
+but it is my unabashed goal
+to eventually be able to introduce these themes,
+and we have a new series,
+we have a podcast called the AI in Business podcast,
+and we have a Saturday series called AI Futures,
+where we're kind of stretching this,
+we're taking people from reputable organizations,
+like let's say Berkeley,
+Stuart Russell was our first guest on this podcast,
+the OECD, folks from the Future of Humanity Institute
+at Oxford, and we're having them kind of stretch
+the credible viewpoints
+into where is this ultimately taking us?
+Because for me, I think we do need to consider those things,
+to your point, right now in government and in business,
+it is absolutely not on the radar.
+It's not even fiction,
+it's literally not on the table in any way.
+It's not even digestible, it's almost invisible,
+even if it were to be articulated,
+it would not even land on the table, it doesn't exist.
+And it's shared in politics.
+I mean, you see how important AI is,
+and nobody's really talking about it.
+Nobody's talking about the long-term, no.
+Even short-term, you see like neither Trump or Biden
+are really talking about AI,
+but AI is going to have huge impacts
+on every single human being's lives on this planet.
+And I think, so what is it to be a politician?
+Just winning a popularity contest.
+In Emerson's words,
+to eat dust before the men
+who actually stand behind the throne,
+something akin to this.
+Now, I don't know, I'm not disparaging politicians,
+not even in the slightest.
+In fact, I do respect the profession
+despite the gritty realities they're in.
+But to be a politician, like you said,
+yes, popularity contest.
+So why aren't they talking about AI?
+It just doesn't matter enough to the constituents, right?
+Why are they talking about name your topic, sir?
+Name your topic.
+I mean, the most arbitrary things
+become giant friction points,
+and then they get in all the speeches.
+Is it because of their inherent meaning
+and some platonic reality?
+No, no, no.
+It's simply because they resonate with the constituency.
+So we can expect AI to land
+on the sort of political speech table
+when it matters to the people who are being spoken to.
+Yeah, the disruption of AI and technology
+basically are not in any shape or form
+determined by the political will
+or social will to accept them though.
+That's the thing, like you're talking about deep fakes.
+Deep fakes will come and disrupt future political campaigns
+from the perspective of constituents and the politicians
+and all of them altogether
+without anybody agreeing or disagreeing with them.
+It does not require agreement of people
+to go in that certain kind of a speed
+that technology is evolving, right?
+So it's important to at least acknowledge
+the huge disruption that we haven't seen anything of it yet.
+Because what we are experiencing right now,
+is this seemingly division that exists globally, really.
+A lot of people can say that this is because people
+finally have channels of expressions
+in the form of social media that now they can be heard.
+When you say division, by the way,
+I just want to follow you, what do you mean?
+So division, for example,
+what is being portrayed by the media
+and what is being portrayed by certain news media?
+Division right and left, division upper and lower class.
+I mean, what is the core division?
+Political, political division.
+Yeah, because the class division,
+nobody really wants to talk about.
+I don't know enough about the class division
+to have a firm opinion on that, but okay.
+So you're talking about the more or less
+the left and right to some degree.
+Right, right.
+Like this recent example of the video
+of George Floyd getting killed by the police,
+which is horrible, and it started a lot of consequences
+as a result of it.
+But in a couple of years, a fake video can come up
+of a very same kind of a thing
+that half of the audience and half of the viewers
+will believe it right off the bat.
+Well, this is going to have very real consequences
+socially and politically.
+Yeah, you know, this really is on my mind a lot.
+So, I mean, again, UN, I've been on,
+I was in television in Singapore on this same topic.
+What does this mean for the future?
+And also with reference to this political division,
+I've thought a lot about it.
+And on some level, I didn't see it coming as fast as it was.
+So I was at Facebook headquarters in 2016.
+You're talking about Deepfakes.
+No, I wasn't talking about Deepfakes,
+but I was at Facebook headquarters in 2016
+talking to the head of core machine learning at the time,
+fellow by the name of Hussein Mahena,
+very sharp fellow, I think he's with Google now.
+They always swap around over there.
+There's only so many places to go in SF,
+but a really sharp fellow.
+And I recall only very lightly talking about
+what was beginning to rattle.
+This is before Trump was elected.
+What was beginning to rattle is this idea of echo chambers
+for political perspectives.
+And I thought to myself, you know,
+I'm not seeing that much of it just yet right now
+in my own experience.
+I don't really see that as like the real workhorse
+of, you know, friction in society.
+But by golly, four years later,
+you know, I can tell you that the echo chamber thing,
+it's not just, well, more people have a voice
+and that's why they're fighting each other.
+I would actually push back on that idea very firmly.
+I would push back on that idea.
+I suspect that there are mounted incentives
+and money to be made and influence to be wielded
+that sort of make incessant division just work, right?
+I mean, who has a Twitter following
+more than 100,000 people who isn't primarily
+basing it on a for or against or an affinity, right?
+Oh, you know, I run a puppy kennel or something,
+or I like take pictures on the beach
+and I'm an attractive woman.
+Like, sort them out.
+Intellectuals, you're gonna pop off
+if you can have a strong enemy, right?
+Because you've already got a huge resonance.
+If you're kind of middle of the road,
+it's like you're the enemy of both, man.
+And I think that what I like about Boston
+is it's actually okay to be middle of the road.
+I am, I'm tied to neither political party.
+You can do that and not be a bad guy.
+In San Francisco, I mean, you're essentially a Bible thumper.
+Now, I've never read the Bible, but oddly enough,
+I'm close to being one in the Bay Area.
+And you with that American flag, I would not recommend.
+So you doing that within 20 miles of San Francisco,
+I would not recommend it.
+And you know, I was a refugee in Canada
+and I'm an ex-Muslim immigrant in the US.
+And I'm glad we have you.
+I'm glad it's helping out.
+All it takes is one, quote unquote,
+wrong interpretation of the US flag, for example,
+which I had in my room in Tehran.
+You know, United States is a beacon of light still.
+For people all around the world,
+you see protesters in Hong Kong
+under that kind of a situation,
+they're waving the American flags.
+It has a meaning beyond politics and geography.
+Yeah, I hope it retains that meaning, that's my hope.
+I agree.
+I'm not here calling America good ubiquitously, right?
+I'm obviously not doing that.
+But I am saying that it's a shame
+when it's ubiquitously seen as evil,
+because I think we actually have a lot more in common
+that hopefully we can get along with,
+but technology is certainly veering us away
+from having concord here.
+Yeah, it also shows deeper parts of human nature, right?
+Like what you were saying that people depend on division
+in order to capitalize on it.
+This is something that is very deeply woven
+within who we are.
+Oh yes, oh yes, the tribe, sir, the tribe.
+Yeah.
+I mean, you know, we are a tribal species
+and us versus them is the automatic frame.
+It takes vigilant volitional effort
+to do anything other than think us versus them
+in almost all circumstances.
+I mean, maybe that's a bit of a stretch,
+but to be frank, it's quite clearly the norm.
+You know, anyone who considers themselves
+free entirely of that dynamic,
+I think is generally fooling themselves to a spooky degree.
+I think we should be aware of just how consistent
+and vigilant we have to be
+and that we're never gonna be perfect in that category.
+But I hope we can work at it.
+I don't think we're doing a great job right now
+as a country.
+As a country, yeah, especially with China
+on the other side of the equation.
+Yeah, all right, you want to?
+Yeah, let's get in there.
+Yeah.
+I remember talking to someone in Toronto
+a couple of years ago at a Toronto transhumanist meetup
+and we talked for like three hours.
+It's awesome.
+And at the end, it was like, you know,
+the really only three things matter in this world,
+China, United States and what they do
+with artificial intelligence.
+And this was a couple of years ago
+and it seems to be the case.
+My friends in Paris would be angry if I agreed with you.
+So I'm gonna pretend to disagree with you.
+Please expand on that.
+Yeah, yeah.
+I would take a lot of flack.
+No, I mean, what for you is interesting
+about the US China AI race?
+I mean, I think about this incessantly
+and I think about this from a defense perspective.
+I think about this from a media perspective.
+I spoke in Shanghai for the United Nations.
+I've interviewed a tremendous number of companies
+with co-founders in China that are in the AI space
+as well as investors in the Asian AI ecosystem.
+And so I have vantage points
+that have fleshed this out pretty reasonably thoroughly.
+I mean, I'm not an expert in its entirety,
+but what makes it interesting for you?
+What's important about that dynamic?
+What's interesting to me is within the context
+of human nature, the tribalism that we talked about
+and how we have always used technology as a tool
+in order to pursue our human intentions.
+And the biggest tribes right now I see in the world
+is the Chinese Communist Party and the United States
+government that they're clearly in conflict with each other,
+which creates, competition is always good
+to develop new things.
+It creates like space race and a lot of our technology
+is contribution of the wars that we have fought, right?
+But at the end of the day, it's very important
+to understand that AI is perhaps the ultimate tool
+and ultimate depending on the intention
+can be used as a weapon, can be used as like,
+it's like any other tool, you know,
+with fire you can warm yourself up
+or burn down your entire building.
+And it's very interesting to me because I know China
+has access to more data than United States
+and US is kind of, now please correct me if I'm wrong,
+but it seems like US is lagging behind China
+specifically because of the decentralized system
+that the US has versus a centrally driven group
+of engineers in China that were like,
+this is our objective, we're gonna get it no matter how.
+And in the United States, you have to, you know,
+argue about the definition of the word, for example,
+is for many months, costing millions and millions of dollars.
+Yeah, and I mean, the communist system,
+never having worked within it or understanding it
+to a great extent, I'm sure has its own hiccups
+and what we might refer to as inefficiencies
+with corruption and, you know, however that operates.
+But to your point, so I wrote a rather in-depth article
+called The Seven Weaknesses of the West.
+So someone typed eMERGE, E-M-E-R-J,
+Seven Weaknesses of the West, they'd find it on Google.
+And this really summarizes a lot of what I consider
+to be where we're behind the eight ball with China.
+Now the United States, I did another very lengthy piece
+on the AI and China ecosystem, how it's developing,
+how it's evolving, the kinds of startups, et cetera.
+That's its own bit of research I believe is free as well.
+But we have more academic muscle.
+We have more actual scientists
+and actual scientists who have experience deploying it,
+which is a really, really good distinction
+because coming out of Carnegie Mellon is kinda neat,
+you know, like you're not dumb.
+That's awesome, that's great.
+But actually having experience,
+turning that into a user experience
+or reducing money laundering in a bank
+or improving retention for a subscription service,
+that's a much more robust, practical, applicable experience.
+And that's frankly not something
+you can get in purely academia.
+So we have certainly some edges here.
+And I think some people are optimistic
+that the free market system
+will also just be more creative writ large.
+That said, there are a lot of disadvantages.
+And a lot of them I think have to do with,
+you mentioned centralization.
+I think a lot of this ties to the ability
+for the Chinese Communist Party
+to marshal a united front of effort.
+And that involves many factors here.
+That involves the private sector and academia
+essentially just being wings of the great and ruling power.
+So being nothing more but wings, nothing more.
+That's a very powerful and lovely place to be.
+And in fact, Confucius, there's no better setup.
+So Xi Jinping, if your objective
+was to rule without question,
+Xi Jinping would be, I mean, I think he's in a great spot.
+I mean, if that was your goal, Ryan, I'm just saying
+if it was your goal, he's in the best spot.
+Objectively speaking.
+There is no, pericles is not revered in China, right?
+The Socrates and Christ of China
+would be Confucius almost unquestionably.
+And man, I mean, Confucius is real congenial
+to everything lining up to the great emperor.
+Now I'm not saying Confucius advocates for tyranny.
+In fact, I think it's pretty clear he doesn't.
+But it can be bent and molded so sweetly, so snuggly
+in a nice, obedient alignment.
+And I think so culturally, he sits in just
+an absolutely beautiful, almost impeccable cultural soil
+for what he is to do.
+And they have the wings of the party dynamic going on.
+I think they also have the ruler for life thing, right?
+Now, now, ruler for life.
+I mean, they don't fall from their position
+until the mandate of heaven takes them off of it, right?
+This is like BC, we're talking BC here, these precedencies.
+This is a culture that is, I mean, rich, in my opinion,
+rich and amazing to no end, to no end.
+I mean, the Tang dynasty.
+I mean, I'm so fascinated with the history of China.
+I'm not a big CCP fan, but China,
+I'm just like ravenously interested across the board.
+But many of these precedents are very early.
+And now they're wielding them and they're leveraging them
+in a way that really makes a lot of sense.
+And so Xi can think about a 20-year goal.
+Trump has gotta get elected, you know?
+He's gotta get elected.
+And whoever's after him has gotta get elected.
+For Xi, it's kind of like, he can set a 20-40 goal
+and he can genuinely take a hard swing at that, right?
+Deng Jinping was up there for Lord knows how long.
+What was he, 90 or something when he stepped down?
+It's a, so these guys can take a really good run at it.
+And that ability to think long-term, I think,
+puts us at a sincere disadvantage.
+So do you see, this is actually a very interesting point.
+Do you see the representative democracy as a system
+is a system worthy of being disrupted
+considering that your competitor is being driven
+on a centrally driven kind of a system?
+Which I also wanna add,
+this was something brought up in Joe Rogan podcast,
+as Salma mentioned, I keep bringing this up,
+that China is run by engineers,
+United States is run by lawyers.
+So there's a very big difference,
+not only implementing solutions,
+but also recognizing problems and solutions
+to be the most practical kind of solutions.
+And we seem to be stuck in this representative democracy
+and all the consequences of it.
+That question, I think it's,
+I would say this is an apt time to ask that question.
+I would also say it is beyond my pale
+to have firm and square opinions
+about the how of the reconstruction.
+Again, it's not my domain.
+I'll speak to things that I feel confident about
+and not so much ones I don't.
+But I do believe,
+I have reason to believe from my vantage point
+and my own experience of where I feel like
+I have expertise that's worthwhile to talk about
+that it's warranted to question it.
+Because some of these points,
+so the whole point of that seven weaknesses
+of the West article,
+and I have some other pieces coming out about China
+in the coming three or four months,
+particularly around media.
+That is to say,
+our media is essentially built to divide us
+and China gets free reign to come in however they want.
+Buy up the movie theaters,
+buy up the movie studios,
+we're all using TikTok, right?
+And what are they using?
+Google and Facebook?
+Nay, my comrade, nay, my comrade.
+So they get to mold this,
+what they would refer to as harmony,
+we might refer to as something more akin to obedience.
+Something more akin to like break your legs
+if you do the wrong kind of yoga in the park,
+Falun Gong.
+But they would call it harmony.
+So they were able to consciously mold that
+through the entirety of their digital ecosystems
+that were not a part of it.
+They can buy the movie theaters out, brother.
+They can buy the people who make the films out, brother.
+They can buy up the big gaming companies.
+You see Blizzard,
+you're not allowed to talk about Uyghurs on Blizzard, right?
+So media is its own ball of wax.
+But yeah, I would say given those present dynamics,
+there's someone I follow on Twitter
+whose name now completely evades me,
+who framed it very well, better than I had previously,
+is that there's a default momentum
+where we would then just follow and keep up with China
+in terms of control and media
+in order to make sure that we're not weaker than them.
+That that might be a natural momentum,
+which is dangerous, right?
+To be a follower and to also follow of anybody, Mao.
+I mean, if you're gonna give me one person to follow,
+I will give you a million human beings
+before I give you Mao.
+I will give you literally a million men,
+a million men or women.
+I'll give you Thatcher, I'll give you, name him.
+I'll give you Joan of Arc.
+I mean, I don't care, anybody but Mao.
+So I think that the default momentum is in that direction.
+We do have to think about what does it look like
+to maintain our strengths and our values
+while also dealing with the reality
+of the digital ecosystem that we exist in.
+And one of my big contentions with defense
+is that I think a tremendous amount of money
+goes into things that rust,
+that is to say tanks, et cetera, et cetera.
+While China, I think intelligently,
+is playing the economic and playing the digital
+and media game, which is much more plausibly deniable.
+And I think in the future
+will be a much bigger lever of influence.
+And so I think that they're playing smarter
+than we are in that domain.
+Very well said.
+Do you think it's corruption that takes more money
+towards the rustable things that you're talking about?
+Like they have lobbyists and contractors
+and connections with certain manufacturers.
+You know, I don't know enough
+about what is called the military industrial complex.
+I don't know it.
+In fact, I don't know enough
+to even have a firm opinion on that phrase.
+So I've spoken with folks in defense, writ large,
+I consider them to be good folks,
+but it wouldn't surprise me if there was all manner
+of dealings and whatnot that might be less than ideal
+and it might be kind of tainted incentives
+in many different regards.
+But I can't speak to it enough.
+I don't have enough experience.
+Is DARPA still the leading,
+I guess you can call them agency or department or whatever
+with respect to artificial intelligence?
+Yeah, you know, they still,
+they have so many different branches now.
+And I think what I am heartened by
+is that there are more of these efforts
+to improve public private sector partnership,
+really, really direct efforts.
+We did a very robust report
+about the all of the published AI strategy docs
+from the US public sector.
+So the AI.gov and all the permutations
+that are publicly available.
+What do they have in common?
+What are the common initiatives?
+A critical thrust across absolutely all of them
+is improving public private sector partnerships.
+And we see new organizations
+like it used to be called the DIUX.
+Now it's called the DIU.
+It's sort of another sort of investment venture wing.
+We have things like Incutel and DARPA
+that have been around forever.
+DARPA is obviously still a huge deal.
+But we also have similar little,
+we could call sort of like accelerator incubators
+slash venture arms of even the Air Force
+has their own shtick.
+They have a little camp that they run in Boston
+and a place that they rent out.
+And I think they make investments
+and work with tech talent and whatnot.
+So there's a spidering proliferation of these groups.
+I don't know enough about their coordination
+to say if I feel good about that.
+My inkling is it's not amazing
+because defense is very complicated.
+But yeah, DARPA still, I would say the best known
+to the best of my knowledge.
+But luckily it's proliferating.
+Excellent.
+Based on the data and understanding
+that you have gathered within these years,
+you must have some kind of end game kind of a picture
+for US AI supremacy and Chinese AI supremacy.
+Do you have something like that?
+I do, I've written an article on it.
+So what are some of the drastic contrast
+between those kind of words?
+The word where AI is driven by a US supremacy
+or the world that AI is driven by Chinese supremacy?
+Yeah, you know, I try my hardest
+to not think about that as my default frame.
+It's very hard not to
+because of the whole Thucydides trap
+and because of the level of tension
+that we're dealing with right now.
+But in my heart of hearts as a first swing,
+I have an article called We Unite or We Fight,
+so E-M-E-R-J, We Unite or We Fight,
+which is really around getting on the same page.
+It's a horrible word, but same-pagedness,
+we could call it solidarity,
+around what kind of 10-year, 20-year,
+even maybe longer, visions we want for a global society
+and being able to somewhere agree on that,
+to align and have transparency and steering,
+shared transparency and steering
+around where the big trajectory actually goes.
+That said, I'm not necessarily an optimist
+to that same-pagedness between China as it stands today
+and the US is really all that possible.
+If China had the government of Japan, for example,
+I probably really wouldn't be all that democratic nation.
+I mean, I just don't really think
+there's gonna be that many problems with that.
+I mean, Japan's a different ballgame than us,
+but democracy-wise, and people are people,
+there's no issues with individual Chinese folks
+by any means, but yeah, I feel as though
+the kind of global solidarity and alignment
+that would be required to get on the same page
+about what are we to turn into,
+what is the human experience to be,
+what is the global community to bloom into
+beyond the present human experience,
+because we're not really gonna be able to stop that train,
+hopefully we can guide it,
+hopefully it can be something other than war
+that drives it forward.
+So that article articulates what my hoped vision would be,
+which is not war, which is solidarity,
+but I'll tell you, to get to that solidarity,
+that's, there's gotta be a smarter guy than me for that one.
+Sometimes just parts come from different kind of
+experience and background.
+It's been true with certain religions that
+some religions, they just do not wanna get along
+with other religions or other competitors.
+They demand submission.
+That's what they're demanding.
+However, we fool ourselves in this part of the world.
+That doesn't change their status quo and default state.
+So it seems like there is a fundamental disconnect
+between the Chinese Communist Party,
+and I'm not dividing based on good and bad
+or any kind of ethical or moral judgment,
+but they're just coming from a very different kind of a place
+and looking for a very different kind of an outcome
+than the United States.
+I think that is certainly the case.
+What I will say about the United States,
+as absolutely horrible as I think we're doing right now
+on the global stage from Trump to you name it.
+I mean, as just brutal as our perception is globally,
+our value prop is, it ain't that bad.
+It ain't that bad, man.
+I mean, there's a lot of countries that dig our value prop
+more than whatever they were rocking with
+before they had it.
+And I'm now, am I advocating for colonial,
+not even freaking close, right?
+But somebody would misinterpret that
+because that's the world we live in right now.
+What I will say is that just as a culture,
+the general value prop I think is really strong.
+It's very hard for China to,
+so I believe there's a permutation of a Machiavelli quote,
+something akin to, and this might be bastardized
+and I apologize, but something akin to,
+when you take over a country or a county or what have you,
+you have the choice to let them keep their arms
+or to take away their arms.
+But you can't let them keep their arms
+and then later take away their arms.
+And I think that when it comes to China
+selling their value proposition to other countries,
+those countries would have to be at brutal war
+with each other for a very long time
+and essentially lose all semblance of a stable democracy
+before you would say yay to the kind of vulgar tyranny
+of the Chinese Communist Party.
+And so I think that the sale of their schtick
+is a tougher sell.
+And so if we have nothing else going for us in the States,
+it would be that you can tweet what you want,
+including about the man who purportedly runs the country
+and you're gonna go to bed just fine.
+Yeah, the fundamental American values,
+there I say constitutional values, absolutely.
+Dare you say, yeah, you're a Bible thumper, aren't you?
+Must be, and white supremacists, I guess.
+Anyway, but yes, I just think about them as,
+in the OECD, I have a great,
+I have a really warm and abiding respect
+for the OECD as an organization.
+I really recommend people interested in solidarity,
+certainly in sort of the broad Western dynamic
+versus the hardcore communism
+to learn more about the OECD,
+but they refer to it as like-minded nations, right?
+It's not any one person's constitution.
+It's just, can you say what you want
+and nobody breaks your legs?
+Can you pray to what you want and nobody breaks your legs?
+Can you come together and congregate how you want
+and nobody breaks your legs?
+It's just basic stuff, it's just basic stuff.
+So for me, it's not even constitutional,
+it's just like-minded nations
+where somewhat essential sort of freedoms,
+as far back as Greece or we wanna tie to John Locke
+or I don't really care who gets the credit,
+just the kinds of freedoms that we enjoy, right?
+So I can extrapolate it even beyond the constitution
+if we wanted to.
+Yeah, interesting.
+Transparency is the key, definitely.
+Are you at all confident and optimistic
+about decentralization on the basis of blockchain
+to reach some of these goals?
+I don't know enough about blockchain
+to have a square opinion there.
+What I will tell you is this,
+there appears to be very little blockchain
+tinkering its way into the actual enterprise right now.
+Now, the same could be said of AI,
+but AI is much farther along in let's say big banks,
+big media companies, e-commerce, manufacturing.
+Artificial intelligence is eking its way in in the corners.
+I'm not saying it's easy and at a fun time,
+but it's making a difference.
+It's clearly going to be transformative.
+Blockchain, I don't think that the use cases
+are so nascent that I really don't have firm opinions.
+When I look at the intersection of blockchain and AI,
+which I have done some research on,
+it's nascent to the point
+where I literally don't care about it yet.
+I mean, didn't you talk about that with Ben Gertzell?
+Because Ben Gertzell's Singularity Net is-
+And I have a tremendous respect for Gertzell, by the way.
+I mean, I consider Gertzell, in my personal opinion,
+he's one of probably four living intellectuals
+who I would say have really influenced my thought
+and who I consider to be toweringly intelligent.
+And so I have a great respect for Gertzell.
+But yeah, I mean, and I hope his firm succeeds.
+I'm rooting for him.
+I'm rooting for Singularity Net.
+It still seems to me to be a great many different ideas
+that they're exploring in terms of what the business model
+will be and how it's going to work out.
+And if anybody can do it, hopefully it's him.
+But I think-
+Yeah, what can lead to AGI?
+That's the thing, because we don't really know
+what can lead to AGI at this point.
+That's exactly it.
+Yeah, we don't have a clue yet.
+So Ben's got some theories, though,
+and he's got more informed theories than me.
+He's been thinking about it since I was five years old.
+Fascinating, fascinating individual.
+We talked about having an hour long conversation,
+so I don't wanna leak.
+Yeah, you have a two o'clock, unfortunately.
+Okay.
+I'm gonna blast with you.
+It's been a real fun day.
+Yeah, man.
+Dan's website is emerge.com.
+Go there and find all the other information.
+Let me ask you the last question I ask all my guests.
+That if you come across an intelligent alien
+from a different civilization,
+what would you say is the worst thing humanity has done?
+And what would you say is our greatest achievement?
+Good gracious, brother.
+I have no idea.
+What is the worst thing we've done?
+Well, I mean, tribal and religious wars seem pretty rough.
+That's a very big umbrella.
+I apologize for the vagary there.
+And in terms of the best things that we've done,
+I think it's determined ways to both govern ourselves
+and progress forward in terms of our potential
+at the same time with reasonable periods of peace.
+I think that that's a worthy,
+it's a laudable achievement for hairless apes like ourselves.
+And I think we can deserve a pat on the back for that one.
+I think that's a worthy achievement for hairless apes like ourselves.
+I think that's a worthy achievement for hairless apes like ourselves.

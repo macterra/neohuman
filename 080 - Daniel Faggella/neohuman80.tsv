@@ -1,0 +1,1376 @@
+start	end	text
+0	1600	Why aren't they talking about AI?
+1600	5480	It just doesn't matter enough to the constituents, right?
+5480	8840	Why are they talking about, name your topic, sir.
+8840	9920	Name your topic.
+9920	11760	I mean, the most arbitrary things
+11760	13840	become giant friction points
+13840	16080	and then they get in all the speeches.
+16080	18080	Is it because of their inherent meaning
+18080	20040	and some platonic reality?
+20040	21240	No, no, no.
+21240	23480	It's simply because they resonate with the constituency.
+23480	25880	So we can expect AI to land
+25960	30720	on the sort of political speech table
+30720	33840	when it matters to the people who are being spoken to.
+41720	45160	Hello and welcome to the 80th episode of New Human Podcast.
+45160	50120	I'm a Gabbahari etiologist on Instagram and Twitter
+50120	52120	and you can follow the show on liveinlumbo.com,
+52120	55440	iTunes, YouTube, BitChute, and at some point on Spotify.
+55440	58120	And today with me, I have Daniel Affigiello.
+58120	60320	Welcome to New Human Podcast, Daniel.
+60320	61600	Hey, glad to be here, brother.
+61600	63920	Yeah, let's start with your background,
+63920	65600	the work you've done, the lives you've lived
+65600	68160	and what are you mainly focused on now these days?
+68160	73160	Yeah, so I began sort of not in the computer science space.
+73840	75960	So right now I'm the founder and head of research
+75960	78440	at a company called Emerge Artificial Intelligence Research
+78440	80280	that I founded some three years ago
+80280	82240	when I sold my last business.
+82240	84200	So at Emerge, our work is really
+84240	87760	mapping the return on investment of AI in the private sector.
+87760	90240	So we look at banking and financial services,
+90240	91920	we look at pharmaceutical,
+91920	93920	we look at the range of AI use cases
+93920	96160	and which of them are actually delivering value
+96160	99280	and we provide research products and data and advisory,
+99280	101120	kind of like a Forrester or a Gardner,
+101120	104120	to big companies who want to actually see a return
+104120	105200	from artificial intelligence.
+105200	107720	We do a good deal of work in the public sector as well,
+107720	109760	mostly in defense and security,
+109760	112160	financial crime, surveillance, things along those lines,
+112160	114080	but primarily in the private sector,
+114960	116720	it's going to be financial services, life sciences.
+116720	119000	So market research is the name of the game,
+119000	120840	but you want me to get into the old school stuff.
+120840	123240	Yeah, it's interesting to have context
+123240	126680	where the perspective of each individual comes from.
+126680	129240	I mean, I want to talk about Emerge,
+129240	130560	I want to talk about AI,
+130560	133560	but it's also interesting to know who is representing
+133560	136480	and expressing these ideas about AI.
+136480	138040	For sure.
+138040	139920	Well, I'll give you, I guess, a little bit of backdrop.
+139920	143160	So I'm not exactly from a tech background at all,
+143320	145560	I'm from a 4,000 person town in Rhode Island
+145560	146880	called Wakefield, Rhode Island.
+146880	148040	You've never heard of it before,
+148040	149760	and you will from this point until you're deaf,
+149760	151280	never hear of it again.
+151280	153400	It's a very small place.
+153400	154920	It's a quaint place, a beautiful place,
+154920	156720	but it's not a place I could stay,
+156720	158600	given my objectives in life.
+158600	160440	So that's where I'm from,
+160440	162680	and the way that I paid for college,
+162680	164600	and ultimately for Ivy League graduate school
+164600	165960	at the University of Pennsylvania,
+165960	167720	where I studied cognitive science,
+167720	169920	and my focus was on skill development
+169920	171120	and skill acquisition.
+171160	173920	So the cognitive science of acquiring skills quickly.
+173920	175040	The reason I went in for that
+175040	176560	is because I was in combat sports.
+176560	177680	So the way I was paying the bills
+177680	178880	was running a martial arts gym.
+178880	180360	So I was training fighters.
+180360	182120	We had some fitness classes,
+182120	184800	but it was mostly mixed martial arts and Brazilian jiu-jitsu.
+184800	186480	So I have a black belt in Brazilian jiu-jitsu.
+186480	188400	I've trained extensively, given seminars
+188400	191040	around the United States and even in Brazil,
+191040	192920	and won a national tournament,
+192920	194880	and did a lot of competing in my day.
+194880	196640	And so that's how I was kind of paying the bills.
+196640	198960	And so I was really interested in what does it look like
+198960	201880	to improve faster from an athlete perspective,
+201880	204120	training my own fighters, training myself.
+204120	205880	And so that's what I went to graduate school for.
+205880	208720	And when I was there, this is back in 2011,
+208720	210200	I was getting capped on the shoulder that,
+210200	212640	hey, Dan, all this human learning stuff,
+212640	214200	all this neural stuff,
+214200	216080	they're kind of doing that with computers.
+216080	218080	And this is the really early days of ImageNet,
+218080	220240	when ImageNet started becoming exciting.
+220240	221680	This is also the very early days
+221680	223960	of when they were applying natural language processing
+223960	224800	to Twitter data.
+224800	226480	There was something called Google Zeitgeist
+226480	228960	that UPenn was involved with at the time,
+228960	232360	deriving sentiment from different factors
+232360	234160	in the social media ether,
+234160	236640	and kind of determining how that correlated
+236640	237640	to different cities,
+237640	239200	and how weather affected different cities,
+239200	241160	and the moods of people, and the sicknesses of people,
+241160	242160	and things along those lines.
+242160	246160	So when I got out of grad school with the psych degree,
+246160	248480	I kind of became convinced this AI stuff,
+248480	249480	looking at the near term,
+249480	251400	and then also reading people like Nick Bostrom
+251400	254080	and Ben Goertzel, and learning about the long term.
+254080	256080	I was lucky enough to interview Ben Goertzel
+256320	258160	and Bostrom pretty much right out of grad school.
+258160	261200	I talked to all the major players in the AGI space.
+261200	262200	I became very convinced
+262200	263560	that in both the near and the long term,
+263560	265920	this was an exceedingly important technology,
+265920	268200	and that my understanding from a conceptual level
+268200	269680	in the cognitive sciences,
+269680	271520	I should just be able to transfer that over.
+271520	274360	So I got right into really studying this stuff,
+274360	276240	and then talking to the leading figures there,
+276240	278440	and eventually started a company.
+278440	279280	Very cool.
+279280	281520	I mean, you must have started with interest in the mind,
+281520	283120	getting into martial art,
+283120	285520	the kind of martial art that you got into.
+285520	288320	It's not that, hey, let's just go out and kick some ass.
+288320	290680	It's more about finding yourself, right?
+290680	293600	Through that art of battle.
+294520	296200	Yeah, there's something to be said of that.
+296200	298840	I don't personally overly spiritualize martial arts.
+298840	300480	I think some people will play it up.
+300480	302040	They'll be like, oh yes, I'm a martial artist,
+302040	304080	and so you should presume that I am wise.
+304080	305040	I actually don't do that.
+305040	306040	I think if I am wise,
+306040	307960	it's because I've read Montaigne and Plutarch,
+307960	310800	more than because I've choked men unconscious.
+310800	312640	But I've done both,
+312640	316000	and I can say that certainly part of the fascination
+316000	319440	of the mind is from beginning with martial arts,
+319440	321360	and being able to see how different people learn,
+321360	322920	and also see how I learned, right?
+322920	325120	To go from, you know, in Rhode Island,
+325120	326480	there's not that many good training partners,
+326480	329720	so to win national tournaments is actually pretty difficult.
+329720	332920	And I had to figure out how to go about drilling,
+332920	334680	figure out what kind of training regimens
+334680	335520	to build for myself.
+335520	337400	And it wasn't just what kind of weights to lift.
+337400	338880	In fact, I wasn't doing much of that.
+338880	340960	It was what kind of skills do I want to acquire?
+340960	343200	And so that forced me to think about,
+343200	345160	well, how does this thing upstairs actually work?
+345160	347160	And how can I learn as quickly as possible
+347160	349960	to really perform and also have my competitors
+349960	352320	do very well in tournaments too?
+352320	354040	So yeah, it was less spiritual,
+354040	356400	but it certainly was psychological in martial arts,
+356400	359520	and that's what got me to UPenn and ultimately into AI.
+359520	361000	Yeah, in addition to spirituality,
+361000	364160	it's also that you had choked people unconscious,
+364160	366880	but I assume that you were also choked unconscious yourself.
+366880	370240	You were placed on the other side of the equation.
+370240	371680	Sure, sure did.
+371680	373160	I mean, everybody weighs more than me.
+373160	374200	I'm a pretty small fella,
+374200	375800	so I did a lot of competitions
+375800	377280	against very, very big opponents.
+377280	378440	In fact, if you go on Google,
+378440	381000	you type in Dan Fijella versus the Giant,
+381000	383320	you'll see me in a jujitsu match
+383320	386600	against a guy that weighs 80 pounds, 100 pounds more than me
+386600	387920	who's actually a UFC fighter.
+387920	388760	His name is Pat Walsh.
+388760	391640	So this guy fought in the cage with other 220 pound men.
+391640	393800	I walk around at about a buck 25.
+393800	398280	So definitely, I didn't beat all those guys.
+398280	399120	That was a good match.
+399120	400120	I'll fortunately beat that guy.
+400960	404920	But yeah, I certainly had my ears boxed pretty good.
+404920	408080	You can see my cauliflower ear is pretty rough.
+408080	410480	And I've certainly, you know,
+410480	412400	I'm gonna have knee problems when I'm older.
+412400	413240	That's just a fact.
+413240	414680	I'm gonna have shoulder problems when I'm older.
+414680	416040	That's just a fact.
+416040	418160	But right now, it doesn't keep me from doing market research
+418160	419520	and what I love, so, you know.
+419520	422640	Yeah, it just seems that that experience of humility
+422640	424560	and empathy that you create
+424560	427000	when you're on the other side of something like that
+427000	429280	is also helpful when you're working on,
+429320	431160	let's say, artificial intelligence,
+431160	434880	which is a big difference from what is being written down
+434880	436640	on paper and in academia
+436640	439600	than what it's being implemented within the society,
+439600	442040	especially the society right now today
+442040	443760	that a lot of people are freaked out
+443760	446360	by just the name artificial intelligence
+446360	449440	and in a lot of aspect for right reasons, right?
+449440	451960	So I'm trying to get into,
+451960	454240	and we've talked about this a lot in this podcast,
+454240	456240	that what you put on the paper,
+456240	459200	it might seem awesome and sounds great,
+460120	462840	but there's a big difference between what sounds good
+462840	464400	and sounds sensible on the paper
+464400	467200	than when it's being implemented within the society
+467200	469640	when a lot of people have a problem
+469640	472080	even accepting the existence of such a thing
+472080	474240	that is going to compete with human intelligence
+474240	476800	and human, basically the concept of humanity.
+478080	480360	Yeah, I think, you know, in the near term,
+480360	482480	there's the job and economic considerations
+482480	484760	that are real.
+484760	486960	I don't think we're gonna see the wave of automation
+487000	489280	across the country in the very, very near term,
+489280	491480	but I do foresee in the next 10 years,
+491480	495680	we did a very substantial poll in 2015 of AI researchers
+495680	497960	and by a wide margin,
+497960	501480	the most significant and consistent AI risk
+501480	504280	in the next 20 years, this is five years ago,
+504280	506120	was the economic and job impact.
+506120	509000	So I think that seems like a reasonable fear,
+509000	510840	but I think to your point,
+510840	512800	there is the actual species dominant stuff
+512800	514640	if we look 50 years out, 100 years out
+514640	516840	that I think is considerable as well.
+517680	518520	So yeah, you're right.
+518520	520400	I mean, AI in theory and AI in practice,
+520400	522680	it's a lot less predictable when it's off the paper.
+522680	526360	Social adoption is a big part of any kind of technology
+526360	527880	that would progress, right?
+527880	532880	So you can recommend certain things to a business
+533200	537000	and it might seem all good, a certain kind of a technology,
+537000	540000	but when the society is rejecting that kind of technology,
+540000	542880	I bring up Google Glass, for example, as an example,
+542880	544440	that it was a very practical thing,
+544440	548640	well-designed and great, but people didn't like it.
+548640	549960	Some because they couldn't get it,
+549960	552040	some because they thought, oh, you're taking this,
+552040	554000	it jeopardizes my privacy
+554000	555120	and you think you're better than me
+555120	556720	and all those things, you know?
+557920	560520	Yeah, we did a very early interview in 2012
+560520	563680	with the head of Engadget at the time.
+563680	566120	Engadget is a big consumer tech blog
+566120	567680	who talked about his experience
+567680	569440	of wearing Google Glass in the subway
+569440	571200	and walking his dog and things like that
+571200	574040	and just how it wasn't really gonna fit
+574040	576480	into the normal mesh of society and the public.
+576480	578400	There was in San Francisco?
+578400	581320	I forget where Tim is based, Tim Stevens.
+581320	583080	This is a great many years ago,
+583080	584800	but I suspect it was the Bay Area.
+584800	586840	Yeah, because people were getting attacked.
+586840	589560	You know, there were videos taken by those,
+589560	590720	you know, people who were wearing it
+590720	592200	in bars and restaurants
+592200	593360	and people were getting attacked
+593360	594680	just because of wearing the glass.
+594680	597400	Part of it was the argument for privacy,
+597400	598840	but the other part was that, hey,
+598840	601200	this is not even something we can't buy from the store.
+601200	603320	This has to be given to you.
+603320	606000	Yeah, so it was like lording over people,
+606000	607720	kind of like, ah, I've been granted
+607720	611080	this recording intelligence layer
+611080	611920	and you don't have it.
+611920	614240	There's a certain kind of elitism
+614240	616760	that it seems like we can't get away with that.
+616760	621080	You know, genetic engineering is another field
+621080	622840	that will create this kind of elitism
+622840	625160	that, hey, if you can't afford it,
+625160	628320	not only financially, but also,
+628320	630120	you know, there's a big difference between China,
+630120	631360	let's say, and the United States,
+631360	632840	and I wanna talk to you about that too,
+632840	635080	because you mentioned you're talking to
+635080	637520	and you're advising private companies,
+637520	639760	but I also see on your website that you've spoken to,
+639760	642960	for example, United Nations, Harvard University.
+642960	646320	What was, oh, you talked to United Nations,
+646320	649000	as I see, about deepfakes, is that right?
+649000	652400	Yeah, so we actually, United Nations,
+652400	654640	World Bank, Interpol, the OECD,
+654640	655680	I mean, we work with-
+655680	657680	So beyond the private sector also.
+657680	659200	Yeah, these are the most substantial
+659200	660960	intergovernmental organizations in the world
+661160	662840	who are, luckily, at this point,
+662840	665800	at least allocating a certain amount of attention
+665800	667320	to artificial intelligence,
+667320	668520	and there are certainly initiatives
+668520	669960	that I really believe in there.
+669960	673040	And not all of those organizations
+673040	674880	are our clients, formally, some are.
+676240	678480	We've done substantial projects with the World Bank,
+678480	680640	for example, but some are just speaking engagements,
+680640	682800	because I happen to think it's a very valuable topic
+682800	684600	that should be at UN headquarters,
+684600	686080	and we were called upon to talk about it.
+686080	688840	So deepfakes is a good example of that,
+688840	690920	where I'm pretty close with the folks
+691920	693720	that run the artificial intelligence and robotics wing
+693720	695080	of what is called Unicrit,
+695080	697960	which is the crime and justice wing of the United Nations.
+697960	700200	I really respect those guys, I think they do a great job,
+700200	702840	and they have a thorough understanding of the space.
+702840	705800	Not everybody in the intergovernmental domain does.
+705800	708880	And they had called us in to essentially create a deepfake
+708880	711480	of the head of Unicrit, so a woman by the name of Bettina,
+711480	714600	who was the director of that wing of the United Nations.
+714600	716080	So we took a video of her,
+716080	718480	and then we made her say a bunch of things she never said,
+718480	721680	and then also extrapolated that into
+721680	724120	how almost anything can be programmatically generated,
+724120	725440	and how much better and better
+725440	727640	that programmatic generation is becoming,
+727640	729560	and what some of the considerations might be.
+729560	731880	My personal focus is on the long-term of that.
+731880	734200	Yes, political influence, I think, is something.
+734200	735520	Media and truth is something.
+735520	738800	I think the actual leap in the human experience,
+738800	739880	when we can push a button
+739880	742680	and have what we wish before our eyes,
+742680	744640	the conjuring of what we wish before our eyes,
+744640	746880	I think is a much grander transition
+746920	749880	than is spoken about in the purely political space.
+749880	753560	So I tried to create that stretch for UN leadership there.
+753560	756920	So democratization of information is the big picture,
+756920	757760	is what you're talking about,
+757760	759320	because it's not only deepfakes,
+759320	761600	but also, let's say, 3D printing,
+761600	763840	that now we have to deal with the very reality
+763840	765760	that within a couple of years,
+765760	769280	some parts of a gun can be very viably printed
+769280	771480	inside of someone's bedroom,
+771480	774120	and there's nothing anybody can do about it.
+774120	776400	Yeah, my personal expertise
+776400	777880	is not in 3D printing.
+777880	779760	We've done a couple bits of coverage
+779760	782560	on the intersection of what is called
+782560	783960	additive manufacturing,
+783960	786840	sort of the broad umbrella of 3D printing, and AI,
+786840	788520	so where those two mesh.
+788520	791360	But making projections around that tech,
+791360	792920	I have much less confidence than I do
+792920	794920	in, let's say, artificial intelligence
+794920	796600	in almost any industry.
+796600	798120	But yeah, to your point,
+798120	799520	that's part of the transition.
+799520	802440	I think what I'm articulating explicitly here
+802480	806960	is a broader dynamic of a kind of going in,
+806960	810840	so the majority, the bulk of our experience
+810840	812600	transitions into virtual spaces.
+812600	814880	So you and I are kind of doing that right now.
+815920	817800	I do that on my phone a good deal.
+817800	820120	We're all on a screen a really good percentage of the time,
+820120	822320	and if you look at human life
+822320	825360	and human life on screen time as a graph here,
+825360	829400	I mean, you don't have to be a rocket scientist.
+829440	832440	And I think that when we can call forth
+832440	834120	the kinds of experiences we want,
+834120	836520	whether it's a relaxing background to do our work,
+836520	840760	whether it's a movie that's created just for us, right?
+840760	842280	I wanna learn about the French Revolution,
+842280	845080	but I wanna learn about it through the eyes of St. Just,
+845080	846720	and I don't really care that much
+846720	848840	about the post-revolutionary Bonaparte stuff.
+848840	851680	I just wanna go right up until St. Just death, that's it,
+851680	852760	and I wanna look through his eyes.
+852760	854680	When a movie can be played
+854680	856440	per my preferences in creation
+856440	857800	and based on my past learning
+858080	859760	based on my current responsiveness, right?
+859760	861560	Am I attentive or is it boring me
+861560	864240	being able to have that generated in real time?
+864240	866040	I think that might be 15 years off,
+866040	867920	but I think that we get to a point
+867920	871280	where the compellingness of virtual ecosystems
+871280	875120	will be so amazing in terms of fulfilling drives
+875120	877880	for curiosity, creativity, for love,
+877880	880640	eventually with haptics that might involve sex.
+880640	882240	Lord knows how that's gonna evolve.
+882240	883680	That's not exactly my focus area,
+883680	885920	but I do think there's gonna be transitions there too,
+885920	888480	and I think that as the body becomes a husk
+888480	891880	and as most of what we wish in its highest form,
+891880	893720	right now, if you ask me, Dan,
+893720	895400	what is the most refreshing, rewarding,
+895400	896640	lovely thing that you could do,
+896640	899360	I would tell you it is walking in nature,
+899360	902720	reading actual papyrus in a really, really good book,
+904720	906080	like not Kindle, I mean like paper,
+906080	908760	I don't have ancient texts in my house,
+908760	912880	but I'm not, even if I was-
+912920	914960	I was gonna ask, you can't read papyrus?
+915840	920080	Even if I was exorbitantly wealthy,
+920080	923760	I would not become such a profligate
+923760	925880	in my collecting of texts like that,
+925880	927840	but I like me a good old book,
+927840	931520	and I like to breathe in the pine,
+931520	935200	and I like to see the sunset and those sorts of things,
+935200	939560	but I am not above the idea that within 15 years,
+939560	942240	a programmatically generated permutation of that,
+942240	943760	even the wind through my hair
+943760	945600	in a programmatically generated sense
+945600	948960	might be astronomically more refreshing,
+948960	950520	because it would be hyper-calibrated
+950520	953000	to all the very best experiences of that in the past,
+953000	955840	and that is in fact the transition I'm talking about.
+955840	960200	I wrote an article called Lotus Eaters and World Eaters,
+960200	961960	so Lotus Eaters and World Eaters.
+961960	964480	If Googled, that article would come up,
+964480	966080	and this is about the bigger transition.
+966080	968920	So for me, I think democratization of information
+968920	970400	is a very big part of it.
+970400	973040	I think that going in is the dynamic
+973040	975160	that I consider to be astronomically disruptive,
+975160	976920	and I think essentially a borderline
+976920	978360	no one is talking about.
+978360	979200	That's very interesting,
+979200	981760	because recently we've been talking about
+981760	984800	when people are talking about AI, artificial intelligence,
+984800	987120	and I like personally to think of that A
+987120	988960	as augmented intelligence as well,
+988960	993840	that you don't really have to reverse engineer
+993840	996520	and rebuild the entire brain or an intelligence.
+996520	998600	You can use it as a mesh net, basically,
+998600	1000600	or exoskeleton, right?
+1000600	1003640	But the argument that I'm hearing is that AI
+1003640	1007520	is focused on the thinking mind, on the analytical mind,
+1007520	1009880	on the left brain, basically.
+1009880	1013200	The right brain and instincts
+1013200	1016480	and things we cannot really describe by words,
+1016480	1018360	that is something that we can't even begin
+1018360	1021480	to understand ourselves, let alone trying to replicate
+1021480	1024680	that with any kind of a machine intelligence.
+1024680	1027880	But that is a huge part of what you're talking about,
+1027880	1032280	to merging, basically, within blurring this line
+1032280	1034000	of what is real and what is not real
+1034000	1036600	further and further in the coming years.
+1036600	1041600	Yeah, and I would say, so I may not describe it similarly.
+1042640	1044400	I think it's an interesting distinction,
+1044400	1045400	the left and right brain.
+1045400	1049840	I would say that certainly at an emotive level,
+1049840	1051760	I don't think we're able to replicate,
+1051760	1052720	to the best of our knowledge,
+1052720	1054920	we're not able to replicate sentience in AI,
+1054920	1057200	although we did do a pretty extensive poll
+1057200	1058920	of artificial intelligence researchers
+1058920	1060680	around when sentience might be possible,
+1060680	1062040	something like 2060.
+1062040	1063160	Who knows if they're right, right?
+1063160	1064840	Nobody knows if anybody's right.
+1064840	1066440	But I'm curious about the topic.
+1066440	1068640	Consciousness, I think, is a morally worthy thing.
+1068640	1070240	It might be the morally worthy thing,
+1070240	1072880	but that's its own conversational threat.
+1072880	1074600	But right and left brain, I think,
+1074600	1076640	it's tough to say where AI actually sits,
+1076640	1079640	because, for example, if we look at
+1079640	1081320	the programmatically generated stuff,
+1081320	1083680	in the future, let's say 10 years from now,
+1083680	1087440	if you are a designer of logos, like company logos,
+1087440	1090160	you will not just take 15 hours
+1090160	1091880	to craft one really good logo
+1091880	1093200	and then take another 15 hours
+1093200	1094920	to craft another really good logo.
+1094920	1099920	You may begin with simply a verbalized
+1100800	1104880	or set of checkboxes, set of configurable features,
+1104880	1107600	like what are the values we want to convey,
+1107600	1109520	what are the values we stand for as a company,
+1109520	1110960	what kind of color palettes are we thinking
+1110960	1112080	might be good, whatever,
+1112080	1116160	and have a programmatically generated plethora of logos
+1116160	1117840	that are already stacked and ranked
+1117840	1119600	based on what we would presume
+1119600	1121720	humans would respond to most favorably
+1121720	1123520	based on the values that we had set before.
+1123520	1125400	Now, we would need a really big data set
+1125400	1127360	of people looking at different logos
+1127360	1128560	and correlating them with values,
+1128560	1129720	and we're not there yet.
+1129720	1132960	But if nothing else, we could start with a plethora,
+1132960	1135240	and we could take individual permutations,
+1135240	1137240	determine some tweaks, determine some adjustments,
+1137240	1140000	and create another plethora off of that one permutation,
+1140040	1142720	and in so doing, generate just generally
+1142720	1145560	better and more ideas, better and more ideas.
+1145560	1147800	Same with architecture, same with fashion,
+1147800	1150320	same with textiles, same with name your damn
+1150320	1152320	creative domain, creating beats.
+1152320	1154120	You want to create music for the elevator,
+1154120	1155560	you want to create rap music.
+1155560	1157200	I mean, being able to just have
+1157200	1158600	programmatically generated beats
+1158600	1159760	that we know are going to hit,
+1159760	1160960	that we know are going to respond,
+1160960	1162240	that people are going to respond well to.
+1162240	1164000	We might train it off of Spotify data
+1164000	1166000	in terms of what's most popular right now.
+1166000	1168760	We might train it off of whatever we want to do.
+1168760	1171400	This sort of extension of what you might refer to
+1171400	1174120	as the left brain will eventually become the norm
+1174120	1175480	in a great many creative fields.
+1175480	1176920	Now, is that going to be 10 years?
+1176920	1177840	Is that going to be 15 years?
+1177840	1180080	I can't exactly tell you, but I will say
+1180080	1181960	there was a time where as a graphic designer,
+1181960	1183600	you didn't need to know how to use a computer.
+1183600	1186680	And let me tell you, my good man, times have changed.
+1186680	1188080	And let me tell you, my good man,
+1188080	1190480	in 15 years, times will change again.
+1190480	1193560	And this kind of technology will be part of that change.
+1194920	1197360	I think a good point of distinction,
+1197360	1200000	you mentioned with music, for example.
+1200920	1203440	What constitutes better
+1203440	1206520	is the context that already exists, right?
+1206520	1209760	That is determined based on us, humans,
+1209760	1212880	who are, we are very limited in our experience.
+1212880	1214320	It's linear.
+1214320	1217840	And the argument can be made that for AI
+1217840	1220600	to reaches its true potential,
+1220600	1223680	it should not rely on humanity whatsoever.
+1223680	1228280	So after that point, the argument would become,
+1228280	1231080	would the AI, artificial intelligence,
+1231080	1235480	be able to create a beat or a piece of music
+1235480	1238840	that has absolutely no root within the context
+1238840	1241160	that is created by human civilization
+1241160	1242920	and is something that is introducing
+1242920	1245280	a new context altogether?
+1245280	1246440	Does it make sense?
+1246440	1248000	Yes, it does.
+1248000	1249760	And I don't know if you wanted to go
+1249760	1251040	this far down the rabbit hole,
+1251040	1253720	but there isn't a depth that you could go
+1253720	1254720	that I will not follow you.
+1254720	1255960	Oh, amazing.
+1255960	1257800	I'm mostly interested in rabbit holes
+1257800	1260080	because academic sides, I'm like,
+1260080	1262000	everything is written on Google.
+1262000	1264560	There are so many people who can nail those things better,
+1264560	1267280	but I think it's very important to be imaginative
+1267280	1269280	and consider many different options
+1269280	1271720	that we have to deal with in the coming years.
+1271720	1273960	I think these are interesting topics.
+1273960	1275800	Again, they aren't things that I'd be called upon
+1275800	1278160	to speak about at Interpol or at Citibank,
+1278920	1281200	but they are the long ball consequences
+1281200	1283320	that I think, as you pointed out,
+1283320	1285200	it's important to kind of splay those open
+1285200	1286320	and see what does this mean?
+1286320	1287320	Where does this go?
+1287320	1288800	To your point about music,
+1288800	1290600	I think the question here would be
+1290600	1292440	what would be the purpose of music?
+1292440	1294400	If the purpose is enjoyment
+1294400	1296440	and we are the only sentient things that enjoys,
+1296440	1300040	then I suspect you're right.
+1300040	1302240	We may be able to start from scratch
+1302240	1305280	and create beats and permutations of sound
+1305280	1309320	that really don't resemble any known musical genre
+1309320	1312400	that might be extremely appealing to some people.
+1312400	1314720	Very rare that music would be appealing to everybody,
+1314720	1317080	but that might be doable.
+1317080	1320640	Now, if AI itself could become sentient in some sense,
+1320640	1322200	maybe it would create,
+1322200	1324360	if artificial general intelligence
+1324360	1326520	were to create art for itself, two things.
+1326520	1329520	A, it's extremely unlikely we would be able to understand it,
+1329520	1331920	and B, it's extremely unlikely it would have a form
+1331920	1332880	that we now recognize.
+1332880	1334600	It's not gonna be carving marble.
+1334600	1336560	It's not gonna be fricking oil paints.
+1336560	1339200	It's gonna be something astronomically more complicated,
+1339200	1340080	and from the viewpoint
+1340080	1342560	of something astronomically more intelligent,
+1342560	1344560	it'll be astronomically more beautiful.
+1344560	1346160	The language of such an entity,
+1346160	1347160	we might think about it,
+1347160	1349000	like you and I have an alphabet.
+1349000	1351000	We're speaking English right now.
+1351000	1353000	You may speak other languages, I don't.
+1353000	1354960	I pretend to have a fistful of French words,
+1354960	1357120	but I go no farther.
+1357120	1359160	I'm an uncultured American.
+1360400	1362320	History, I'm pretty strong, but languages.
+1363160	1366240	Let's presume we're talking about the English alphabet.
+1366240	1368920	We've got a couple dozen letters to work with here,
+1370040	1373400	and we can only talk at this current bandwidth.
+1373400	1376840	An AGI might have a number of symbols
+1376840	1378040	that it might communicate with,
+1378040	1379960	either itself or other AGI's.
+1379960	1384200	We might imagine a cube of a million pixels this way,
+1384200	1385360	and a million pixels this way,
+1385360	1387640	and a million pixels this way,
+1387640	1389240	and each of those pixels can have
+1389240	1391560	one of two trillion different permutations
+1391560	1393480	of what we want to call it,
+1393480	1395520	like color number, what have you,
+1395520	1398640	and that any combination of all of that
+1398640	1400320	pushed through is like a letter.
+1401400	1405280	And so we couldn't possibly imagine
+1405280	1407680	the full extent of what expression would be
+1407680	1409120	for something beyond us,
+1409120	1412520	no better than a caterpillar could imagine our expression,
+1412520	1414680	could imagine Shakespeare's sonnets,
+1414680	1418440	could imagine great architecture,
+1418440	1420400	Corinthian columns.
+1420400	1422160	Caterpillars ain't gonna cut that mustard,
+1422160	1423400	and we ain't gonna cut the mustard
+1423400	1425240	of what's beyond us either.
+1425240	1428600	Yeah, we are creating a new and different kind of a species
+1428600	1431200	than humanity, and I think this is very important
+1431200	1434000	for people to understand that this is not a phase
+1434000	1436960	or a trend that's just gonna go away,
+1436960	1438960	and in 10 years, people will be in charge
+1438960	1440240	of everything again.
+1440240	1442760	Like, it's just not gonna happen.
+1442760	1444200	Yeah, I think a lot of people do operate
+1444200	1446200	under that assumption, though.
+1446200	1449600	I think it is really seen as a very short-term transition.
+1449640	1451840	Is it also shared within governments and UN
+1451840	1453880	and those places that you talk at?
+1453880	1456120	Yeah, I mean, in the broad sweep,
+1456120	1459640	so my unabashed long-term objective here
+1459640	1461680	is to bring what I refer to as
+1461680	1464480	the trajectory of intelligence conversation
+1464480	1468680	into these organizations which I have a relationship with.
+1468680	1470680	However, I'm not here to impose that
+1470680	1473080	when it's not a time that they're interested about it, right?
+1473080	1474520	I have certain people within these orgs
+1474520	1476880	that I can talk about all manner of topics,
+1477680	1480160	but for many, the reason I'm called on
+1480160	1483480	is because we study what's possible and what's working,
+1483480	1485120	so they're gonna have an academic,
+1485120	1487760	they might have an expert in computer vision,
+1487760	1489960	but they need somebody who's gonna say,
+1489960	1491640	well, here's where it's impacting this industry,
+1491640	1493240	here's where it's impacting the industry,
+1493240	1494560	here's what makes it hard to adopt,
+1494560	1496840	here's what makes it easy to adopt in defense,
+1496840	1498880	here's what, they need a reality check
+1498880	1500320	on where it's impacting the world,
+1500320	1502960	and that's why I step into the World Bank
+1502960	1504880	to enter poll, et cetera.
+1504880	1506720	So I'm not gonna force feed them that stuff,
+1506720	1508120	but it is my unabashed goal
+1508120	1510000	to eventually be able to introduce these themes,
+1510000	1511160	and we have a new series,
+1511160	1513480	we have a podcast called the AI in Business podcast,
+1513480	1515920	and we have a Saturday series called AI Futures,
+1515920	1517240	where we're kind of stretching this,
+1517240	1519560	we're taking people from reputable organizations,
+1519560	1520600	like let's say Berkeley,
+1520600	1523440	Stuart Russell was our first guest on this podcast,
+1523440	1527840	the OECD, folks from the Future of Humanity Institute
+1527840	1530480	at Oxford, and we're having them kind of stretch
+1530480	1531600	the credible viewpoints
+1531600	1533760	into where is this ultimately taking us?
+1533760	1535920	Because for me, I think we do need to consider those things,
+1536240	1539040	to your point, right now in government and in business,
+1539040	1541800	it is absolutely not on the radar.
+1541800	1543640	It's not even fiction,
+1543640	1546720	it's literally not on the table in any way.
+1546720	1548880	It's not even digestible, it's almost invisible,
+1548880	1550280	even if it were to be articulated,
+1550280	1553760	it would not even land on the table, it doesn't exist.
+1553760	1555280	And it's shared in politics.
+1555280	1557000	I mean, you see how important AI is,
+1557000	1559000	and nobody's really talking about it.
+1559000	1561000	Nobody's talking about the long-term, no.
+1561000	1564800	Even short-term, you see like neither Trump or Biden
+1564840	1566160	are really talking about AI,
+1566160	1568480	but AI is going to have huge impacts
+1568480	1571240	on every single human being's lives on this planet.
+1571240	1574080	And I think, so what is it to be a politician?
+1575120	1577400	Just winning a popularity contest.
+1579240	1581120	In Emerson's words,
+1581120	1583360	to eat dust before the men
+1583360	1585080	who actually stand behind the throne,
+1585080	1586680	something akin to this.
+1586680	1589680	Now, I don't know, I'm not disparaging politicians,
+1589680	1590960	not even in the slightest.
+1590960	1593080	In fact, I do respect the profession
+1593080	1596680	despite the gritty realities they're in.
+1599200	1600800	But to be a politician, like you said,
+1600800	1602000	yes, popularity contest.
+1602000	1604040	So why aren't they talking about AI?
+1604040	1607960	It just doesn't matter enough to the constituents, right?
+1607960	1611320	Why are they talking about name your topic, sir?
+1611320	1612400	Name your topic.
+1612400	1614240	I mean, the most arbitrary things
+1614240	1616320	become giant friction points,
+1616320	1618560	and then they get in all the speeches.
+1618560	1620560	Is it because of their inherent meaning
+1620560	1622520	and some platonic reality?
+1622520	1623720	No, no, no.
+1623720	1625920	It's simply because they resonate with the constituency.
+1625920	1628320	So we can expect AI to land
+1628320	1633080	on the sort of political speech table
+1633080	1636440	when it matters to the people who are being spoken to.
+1636440	1638720	Yeah, the disruption of AI and technology
+1638720	1642080	basically are not in any shape or form
+1642080	1643960	determined by the political will
+1643960	1645800	or social will to accept them though.
+1645800	1648280	That's the thing, like you're talking about deep fakes.
+1648280	1652280	Deep fakes will come and disrupt future political campaigns
+1652720	1655520	from the perspective of constituents and the politicians
+1655520	1657200	and all of them altogether
+1657200	1660200	without anybody agreeing or disagreeing with them.
+1660200	1664520	It does not require agreement of people
+1664520	1666840	to go in that certain kind of a speed
+1666840	1668600	that technology is evolving, right?
+1668600	1672200	So it's important to at least acknowledge
+1672200	1677200	the huge disruption that we haven't seen anything of it yet.
+1677280	1678840	Because what we are experiencing right now,
+1678880	1683360	is this seemingly division that exists globally, really.
+1683360	1685640	A lot of people can say that this is because people
+1685640	1688320	finally have channels of expressions
+1688320	1691240	in the form of social media that now they can be heard.
+1692200	1693280	When you say division, by the way,
+1693280	1695960	I just want to follow you, what do you mean?
+1695960	1697480	So division, for example,
+1697480	1699480	what is being portrayed by the media
+1699480	1702080	and what is being portrayed by certain news media?
+1702080	1705560	Division right and left, division upper and lower class.
+1705560	1707080	I mean, what is the core division?
+1707120	1708800	Political, political division.
+1708800	1710120	Yeah, because the class division,
+1710120	1711760	nobody really wants to talk about.
+1713280	1715240	I don't know enough about the class division
+1715240	1717280	to have a firm opinion on that, but okay.
+1717280	1720080	So you're talking about the more or less
+1720080	1721360	the left and right to some degree.
+1721360	1722680	Right, right.
+1723600	1727960	Like this recent example of the video
+1727960	1731960	of George Floyd getting killed by the police,
+1731960	1736120	which is horrible, and it started a lot of consequences
+1736120	1737360	as a result of it.
+1737360	1740360	But in a couple of years, a fake video can come up
+1740360	1743200	of a very same kind of a thing
+1743200	1746520	that half of the audience and half of the viewers
+1746520	1748600	will believe it right off the bat.
+1748600	1751000	Well, this is going to have very real consequences
+1751000	1752440	socially and politically.
+1752440	1757040	Yeah, you know, this really is on my mind a lot.
+1757040	1760120	So, I mean, again, UN, I've been on,
+1760120	1762960	I was in television in Singapore on this same topic.
+1762960	1764360	What does this mean for the future?
+1764360	1766680	And also with reference to this political division,
+1766680	1767920	I've thought a lot about it.
+1767920	1772920	And on some level, I didn't see it coming as fast as it was.
+1773600	1776760	So I was at Facebook headquarters in 2016.
+1776760	1778520	You're talking about Deepfakes.
+1778520	1779480	No, I wasn't talking about Deepfakes,
+1779480	1782040	but I was at Facebook headquarters in 2016
+1782040	1784200	talking to the head of core machine learning at the time,
+1784200	1786120	fellow by the name of Hussein Mahena,
+1786120	1788600	very sharp fellow, I think he's with Google now.
+1788600	1791240	They always swap around over there.
+1791240	1795040	There's only so many places to go in SF,
+1795040	1796360	but a really sharp fellow.
+1796360	1799960	And I recall only very lightly talking about
+1799960	1801880	what was beginning to rattle.
+1801880	1803200	This is before Trump was elected.
+1803200	1807520	What was beginning to rattle is this idea of echo chambers
+1807520	1809000	for political perspectives.
+1809000	1810480	And I thought to myself, you know,
+1810480	1812920	I'm not seeing that much of it just yet right now
+1812920	1814400	in my own experience.
+1814400	1817240	I don't really see that as like the real workhorse
+1817240	1819440	of, you know, friction in society.
+1819440	1821280	But by golly, four years later,
+1822560	1825080	you know, I can tell you that the echo chamber thing,
+1825080	1827200	it's not just, well, more people have a voice
+1827200	1828840	and that's why they're fighting each other.
+1828840	1832280	I would actually push back on that idea very firmly.
+1832280	1833800	I would push back on that idea.
+1833800	1838480	I suspect that there are mounted incentives
+1838480	1841320	and money to be made and influence to be wielded
+1842400	1847400	that sort of make incessant division just work, right?
+1847920	1849560	I mean, who has a Twitter following
+1849560	1852520	more than 100,000 people who isn't primarily
+1852520	1855120	basing it on a for or against or an affinity, right?
+1855120	1857720	Oh, you know, I run a puppy kennel or something,
+1857720	1860440	or I like take pictures on the beach
+1860440	1861320	and I'm an attractive woman.
+1861320	1862920	Like, sort them out.
+1862920	1866240	Intellectuals, you're gonna pop off
+1866240	1867720	if you can have a strong enemy, right?
+1867720	1869420	Because you've already got a huge resonance.
+1869420	1871120	If you're kind of middle of the road,
+1871120	1873340	it's like you're the enemy of both, man.
+1874320	1876720	And I think that what I like about Boston
+1876720	1878560	is it's actually okay to be middle of the road.
+1878560	1880720	I am, I'm tied to neither political party.
+1880720	1883000	You can do that and not be a bad guy.
+1883000	1887760	In San Francisco, I mean, you're essentially a Bible thumper.
+1887760	1890080	Now, I've never read the Bible, but oddly enough,
+1890080	1892760	I'm close to being one in the Bay Area.
+1892760	1896280	And you with that American flag, I would not recommend.
+1896280	1898600	So you doing that within 20 miles of San Francisco,
+1898600	1900280	I would not recommend it.
+1900280	1902880	And you know, I was a refugee in Canada
+1902880	1905640	and I'm an ex-Muslim immigrant in the US.
+1905960	1906800	And I'm glad we have you.
+1906800	1908080	I'm glad it's helping out.
+1908080	1912040	All it takes is one, quote unquote,
+1912040	1914720	wrong interpretation of the US flag, for example,
+1914720	1916680	which I had in my room in Tehran.
+1916680	1920080	You know, United States is a beacon of light still.
+1920080	1921480	For people all around the world,
+1921480	1923480	you see protesters in Hong Kong
+1923480	1925240	under that kind of a situation,
+1925240	1926720	they're waving the American flags.
+1926720	1931440	It has a meaning beyond politics and geography.
+1931440	1933880	Yeah, I hope it retains that meaning, that's my hope.
+1933880	1934720	I agree.
+1934760	1937000	I'm not here calling America good ubiquitously, right?
+1937000	1938520	I'm obviously not doing that.
+1938520	1941160	But I am saying that it's a shame
+1941160	1943000	when it's ubiquitously seen as evil,
+1943000	1945560	because I think we actually have a lot more in common
+1945560	1947600	that hopefully we can get along with,
+1947600	1949720	but technology is certainly veering us away
+1949720	1952160	from having concord here.
+1952160	1956200	Yeah, it also shows deeper parts of human nature, right?
+1956200	1959240	Like what you were saying that people depend on division
+1959240	1961240	in order to capitalize on it.
+1961240	1964360	This is something that is very deeply woven
+1964360	1965920	within who we are.
+1965920	1969680	Oh yes, oh yes, the tribe, sir, the tribe.
+1969680	1970640	Yeah.
+1970640	1973400	I mean, you know, we are a tribal species
+1973400	1976920	and us versus them is the automatic frame.
+1976920	1981920	It takes vigilant volitional effort
+1982440	1986280	to do anything other than think us versus them
+1986280	1988240	in almost all circumstances.
+1988240	1990400	I mean, maybe that's a bit of a stretch,
+1990400	1993360	but to be frank, it's quite clearly the norm.
+1993360	1996120	You know, anyone who considers themselves
+1996120	1998160	free entirely of that dynamic,
+1998160	2000840	I think is generally fooling themselves to a spooky degree.
+2000840	2003880	I think we should be aware of just how consistent
+2003880	2004800	and vigilant we have to be
+2004800	2008240	and that we're never gonna be perfect in that category.
+2008240	2009720	But I hope we can work at it.
+2009720	2011240	I don't think we're doing a great job right now
+2011240	2012640	as a country.
+2012640	2015720	As a country, yeah, especially with China
+2015720	2017480	on the other side of the equation.
+2018440	2019360	Yeah, all right, you want to?
+2019360	2022360	Yeah, let's get in there.
+2023360	2024200	Yeah.
+2026480	2028360	I remember talking to someone in Toronto
+2028360	2032720	a couple of years ago at a Toronto transhumanist meetup
+2032720	2034920	and we talked for like three hours.
+2034920	2035760	It's awesome.
+2035760	2037480	And at the end, it was like, you know,
+2037480	2039960	the really only three things matter in this world,
+2039960	2042040	China, United States and what they do
+2042040	2044600	with artificial intelligence.
+2044600	2046200	And this was a couple of years ago
+2046200	2049640	and it seems to be the case.
+2049640	2052400	My friends in Paris would be angry if I agreed with you.
+2052400	2054480	So I'm gonna pretend to disagree with you.
+2056480	2057880	Please expand on that.
+2057880	2058800	Yeah, yeah.
+2062800	2064080	I would take a lot of flack.
+2064080	2066840	No, I mean, what for you is interesting
+2066840	2068560	about the US China AI race?
+2068560	2070680	I mean, I think about this incessantly
+2070680	2073240	and I think about this from a defense perspective.
+2073240	2074800	I think about this from a media perspective.
+2074800	2076760	I spoke in Shanghai for the United Nations.
+2076760	2079160	I've interviewed a tremendous number of companies
+2079160	2082160	with co-founders in China that are in the AI space
+2082160	2086480	as well as investors in the Asian AI ecosystem.
+2086480	2088840	And so I have vantage points
+2090040	2093960	that have fleshed this out pretty reasonably thoroughly.
+2093960	2096080	I mean, I'm not an expert in its entirety,
+2096080	2099680	but what makes it interesting for you?
+2099680	2101120	What's important about that dynamic?
+2101120	2103600	What's interesting to me is within the context
+2103600	2106640	of human nature, the tribalism that we talked about
+2106640	2109400	and how we have always used technology as a tool
+2109400	2112160	in order to pursue our human intentions.
+2112160	2114920	And the biggest tribes right now I see in the world
+2114920	2119920	is the Chinese Communist Party and the United States
+2119960	2123120	government that they're clearly in conflict with each other,
+2123120	2125800	which creates, competition is always good
+2125800	2127840	to develop new things.
+2127840	2132240	It creates like space race and a lot of our technology
+2132240	2136280	is contribution of the wars that we have fought, right?
+2136280	2138480	But at the end of the day, it's very important
+2138480	2142800	to understand that AI is perhaps the ultimate tool
+2142800	2146000	and ultimate depending on the intention
+2146000	2148280	can be used as a weapon, can be used as like,
+2148280	2149600	it's like any other tool, you know,
+2149600	2151280	with fire you can warm yourself up
+2151280	2153000	or burn down your entire building.
+2153880	2156880	And it's very interesting to me because I know China
+2156880	2160640	has access to more data than United States
+2160640	2163720	and US is kind of, now please correct me if I'm wrong,
+2163720	2166960	but it seems like US is lagging behind China
+2166960	2170000	specifically because of the decentralized system
+2170000	2173720	that the US has versus a centrally driven group
+2173720	2175800	of engineers in China that were like,
+2175800	2179040	this is our objective, we're gonna get it no matter how.
+2179040	2181160	And in the United States, you have to, you know,
+2181160	2184360	argue about the definition of the word, for example,
+2184360	2189080	is for many months, costing millions and millions of dollars.
+2189080	2191880	Yeah, and I mean, the communist system,
+2191880	2195520	never having worked within it or understanding it
+2195520	2198640	to a great extent, I'm sure has its own hiccups
+2198640	2202040	and what we might refer to as inefficiencies
+2202040	2206160	with corruption and, you know, however that operates.
+2206160	2210440	But to your point, so I wrote a rather in-depth article
+2210440	2212760	called The Seven Weaknesses of the West.
+2212760	2215120	So someone typed eMERGE, E-M-E-R-J,
+2215120	2217720	Seven Weaknesses of the West, they'd find it on Google.
+2217720	2219960	And this really summarizes a lot of what I consider
+2219960	2222040	to be where we're behind the eight ball with China.
+2222040	2224680	Now the United States, I did another very lengthy piece
+2224680	2227240	on the AI and China ecosystem, how it's developing,
+2227240	2229280	how it's evolving, the kinds of startups, et cetera.
+2229280	2232720	That's its own bit of research I believe is free as well.
+2232720	2237360	But we have more academic muscle.
+2237360	2241240	We have more actual scientists
+2241240	2243920	and actual scientists who have experience deploying it,
+2243920	2246280	which is a really, really good distinction
+2246280	2249200	because coming out of Carnegie Mellon is kinda neat,
+2249200	2250400	you know, like you're not dumb.
+2250400	2251960	That's awesome, that's great.
+2252000	2254560	But actually having experience,
+2254560	2256520	turning that into a user experience
+2256520	2259760	or reducing money laundering in a bank
+2259760	2263480	or improving retention for a subscription service,
+2263480	2268480	that's a much more robust, practical, applicable experience.
+2268960	2270280	And that's frankly not something
+2270280	2271440	you can get in purely academia.
+2271440	2273640	So we have certainly some edges here.
+2274920	2276640	And I think some people are optimistic
+2276640	2278120	that the free market system
+2278120	2280720	will also just be more creative writ large.
+2280720	2284640	That said, there are a lot of disadvantages.
+2284640	2286840	And a lot of them I think have to do with,
+2286840	2288160	you mentioned centralization.
+2288160	2290160	I think a lot of this ties to the ability
+2290160	2292760	for the Chinese Communist Party
+2292760	2295720	to marshal a united front of effort.
+2295720	2297600	And that involves many factors here.
+2297600	2299720	That involves the private sector and academia
+2299720	2303960	essentially just being wings of the great and ruling power.
+2303960	2307960	So being nothing more but wings, nothing more.
+2308280	2311080	That's a very powerful and lovely place to be.
+2311080	2316080	And in fact, Confucius, there's no better setup.
+2316760	2318840	So Xi Jinping, if your objective
+2318840	2323120	was to rule without question,
+2323120	2326240	Xi Jinping would be, I mean, I think he's in a great spot.
+2326240	2328160	I mean, if that was your goal, Ryan, I'm just saying
+2328160	2329880	if it was your goal, he's in the best spot.
+2329880	2331040	Objectively speaking.
+2331040	2336040	There is no, pericles is not revered in China, right?
+2337040	2340760	The Socrates and Christ of China
+2340760	2343160	would be Confucius almost unquestionably.
+2343160	2346280	And man, I mean, Confucius is real congenial
+2346280	2350120	to everything lining up to the great emperor.
+2350120	2352400	Now I'm not saying Confucius advocates for tyranny.
+2352400	2354640	In fact, I think it's pretty clear he doesn't.
+2354640	2359320	But it can be bent and molded so sweetly, so snuggly
+2359320	2361880	in a nice, obedient alignment.
+2361880	2364000	And I think so culturally, he sits in just
+2364040	2368280	an absolutely beautiful, almost impeccable cultural soil
+2368280	2369960	for what he is to do.
+2370760	2375760	And they have the wings of the party dynamic going on.
+2376040	2379160	I think they also have the ruler for life thing, right?
+2379160	2381680	Now, now, ruler for life.
+2381680	2385320	I mean, they don't fall from their position
+2385320	2387800	until the mandate of heaven takes them off of it, right?
+2387800	2391160	This is like BC, we're talking BC here, these precedencies.
+2391160	2395360	This is a culture that is, I mean, rich, in my opinion,
+2395360	2397880	rich and amazing to no end, to no end.
+2397880	2398960	I mean, the Tang dynasty.
+2398960	2401360	I mean, I'm so fascinated with the history of China.
+2401360	2403760	I'm not a big CCP fan, but China,
+2403760	2406360	I'm just like ravenously interested across the board.
+2406360	2408480	But many of these precedents are very early.
+2408480	2411160	And now they're wielding them and they're leveraging them
+2411160	2413040	in a way that really makes a lot of sense.
+2413040	2416320	And so Xi can think about a 20-year goal.
+2416320	2418320	Trump has gotta get elected, you know?
+2418320	2419680	He's gotta get elected.
+2419680	2421920	And whoever's after him has gotta get elected.
+2421920	2426440	For Xi, it's kind of like, he can set a 20-40 goal
+2426440	2431440	and he can genuinely take a hard swing at that, right?
+2431520	2435400	Deng Jinping was up there for Lord knows how long.
+2435400	2437600	What was he, 90 or something when he stepped down?
+2437600	2440920	It's a, so these guys can take a really good run at it.
+2440920	2443840	And that ability to think long-term, I think,
+2443840	2445880	puts us at a sincere disadvantage.
+2445920	2450040	So do you see, this is actually a very interesting point.
+2450040	2454440	Do you see the representative democracy as a system
+2454440	2457560	is a system worthy of being disrupted
+2457560	2460480	considering that your competitor is being driven
+2460480	2462680	on a centrally driven kind of a system?
+2462680	2463960	Which I also wanna add,
+2463960	2466840	this was something brought up in Joe Rogan podcast,
+2466840	2469000	as Salma mentioned, I keep bringing this up,
+2469000	2471160	that China is run by engineers,
+2471160	2473680	United States is run by lawyers.
+2473680	2475680	So there's a very big difference,
+2476480	2477640	not only implementing solutions,
+2477640	2480880	but also recognizing problems and solutions
+2480880	2483960	to be the most practical kind of solutions.
+2483960	2487320	And we seem to be stuck in this representative democracy
+2487320	2489200	and all the consequences of it.
+2491120	2493840	That question, I think it's,
+2493840	2497800	I would say this is an apt time to ask that question.
+2497800	2500560	I would also say it is beyond my pale
+2500560	2502560	to have firm and square opinions
+2502560	2504640	about the how of the reconstruction.
+2504640	2505840	Again, it's not my domain.
+2505840	2508440	I'll speak to things that I feel confident about
+2508440	2509800	and not so much ones I don't.
+2509800	2511240	But I do believe,
+2512920	2515080	I have reason to believe from my vantage point
+2515080	2516960	and my own experience of where I feel like
+2516960	2519160	I have expertise that's worthwhile to talk about
+2519160	2521480	that it's warranted to question it.
+2521480	2523760	Because some of these points,
+2523760	2525440	so the whole point of that seven weaknesses
+2525440	2526360	of the West article,
+2526360	2528280	and I have some other pieces coming out about China
+2528280	2529920	in the coming three or four months,
+2529920	2531560	particularly around media.
+2531560	2532400	That is to say,
+2532400	2534560	our media is essentially built to divide us
+2535400	2536840	and China gets free reign to come in however they want.
+2536840	2538120	Buy up the movie theaters,
+2538120	2540240	buy up the movie studios,
+2540240	2542120	we're all using TikTok, right?
+2542120	2542960	And what are they using?
+2542960	2544040	Google and Facebook?
+2544040	2547320	Nay, my comrade, nay, my comrade.
+2547320	2549480	So they get to mold this,
+2549480	2551000	what they would refer to as harmony,
+2551000	2554960	we might refer to as something more akin to obedience.
+2554960	2557200	Something more akin to like break your legs
+2557200	2560000	if you do the wrong kind of yoga in the park,
+2560000	2560840	Falun Gong.
+2562160	2563800	But they would call it harmony.
+2563800	2565520	So they were able to consciously mold that
+2565520	2567240	through the entirety of their digital ecosystems
+2567240	2568760	that were not a part of it.
+2568760	2571320	They can buy the movie theaters out, brother.
+2571320	2575200	They can buy the people who make the films out, brother.
+2575200	2577240	They can buy up the big gaming companies.
+2577240	2578080	You see Blizzard,
+2578080	2581400	you're not allowed to talk about Uyghurs on Blizzard, right?
+2581400	2585320	So media is its own ball of wax.
+2585320	2588600	But yeah, I would say given those present dynamics,
+2588600	2589840	there's someone I follow on Twitter
+2589840	2591360	whose name now completely evades me,
+2592240	2595480	who framed it very well, better than I had previously,
+2595480	2597560	is that there's a default momentum
+2597560	2600920	where we would then just follow and keep up with China
+2600920	2603160	in terms of control and media
+2603160	2605720	in order to make sure that we're not weaker than them.
+2605720	2607480	That that might be a natural momentum,
+2607480	2608680	which is dangerous, right?
+2608680	2612320	To be a follower and to also follow of anybody, Mao.
+2612320	2615040	I mean, if you're gonna give me one person to follow,
+2615040	2617120	I will give you a million human beings
+2617120	2618040	before I give you Mao.
+2618040	2620760	I will give you literally a million men,
+2620960	2622240	a million men or women.
+2622240	2624400	I'll give you Thatcher, I'll give you, name him.
+2624400	2625800	I'll give you Joan of Arc.
+2625800	2628320	I mean, I don't care, anybody but Mao.
+2628320	2633320	So I think that the default momentum is in that direction.
+2634160	2637000	We do have to think about what does it look like
+2637000	2639880	to maintain our strengths and our values
+2639880	2642120	while also dealing with the reality
+2642120	2644040	of the digital ecosystem that we exist in.
+2644040	2646360	And one of my big contentions with defense
+2646360	2648960	is that I think a tremendous amount of money
+2648960	2650560	goes into things that rust,
+2650560	2652720	that is to say tanks, et cetera, et cetera.
+2652720	2655120	While China, I think intelligently,
+2655120	2657400	is playing the economic and playing the digital
+2657400	2660360	and media game, which is much more plausibly deniable.
+2660360	2661320	And I think in the future
+2661320	2663880	will be a much bigger lever of influence.
+2663880	2665960	And so I think that they're playing smarter
+2665960	2667640	than we are in that domain.
+2667640	2668920	Very well said.
+2668920	2671320	Do you think it's corruption that takes more money
+2671320	2674560	towards the rustable things that you're talking about?
+2674560	2676880	Like they have lobbyists and contractors
+2676880	2680040	and connections with certain manufacturers.
+2680040	2682440	You know, I don't know enough
+2682440	2687440	about what is called the military industrial complex.
+2687600	2688920	I don't know it.
+2688920	2690760	In fact, I don't know enough
+2690760	2693840	to even have a firm opinion on that phrase.
+2694960	2699000	So I've spoken with folks in defense, writ large,
+2699000	2700840	I consider them to be good folks,
+2700840	2704560	but it wouldn't surprise me if there was all manner
+2704560	2709320	of dealings and whatnot that might be less than ideal
+2709320	2711440	and it might be kind of tainted incentives
+2711440	2713080	in many different regards.
+2714080	2715320	But I can't speak to it enough.
+2715320	2716600	I don't have enough experience.
+2716600	2718840	Is DARPA still the leading,
+2718840	2721960	I guess you can call them agency or department or whatever
+2721960	2724640	with respect to artificial intelligence?
+2724640	2725560	Yeah, you know, they still,
+2725560	2727600	they have so many different branches now.
+2727600	2732120	And I think what I am heartened by
+2732120	2735360	is that there are more of these efforts
+2735360	2738480	to improve public private sector partnership,
+2738480	2739920	really, really direct efforts.
+2739920	2741800	We did a very robust report
+2741800	2745080	about the all of the published AI strategy docs
+2745080	2746560	from the US public sector.
+2746560	2749520	So the AI.gov and all the permutations
+2749520	2750800	that are publicly available.
+2750800	2751800	What do they have in common?
+2751800	2753440	What are the common initiatives?
+2753440	2755880	A critical thrust across absolutely all of them
+2755880	2758200	is improving public private sector partnerships.
+2758200	2760360	And we see new organizations
+2760440	2762320	like it used to be called the DIUX.
+2762320	2763640	Now it's called the DIU.
+2763640	2768280	It's sort of another sort of investment venture wing.
+2768280	2770200	We have things like Incutel and DARPA
+2770200	2771040	that have been around forever.
+2771040	2772960	DARPA is obviously still a huge deal.
+2773920	2776000	But we also have similar little,
+2777120	2779680	we could call sort of like accelerator incubators
+2779680	2781720	slash venture arms of even the Air Force
+2781720	2782760	has their own shtick.
+2782760	2784880	They have a little camp that they run in Boston
+2784880	2786160	and a place that they rent out.
+2786160	2787280	And I think they make investments
+2787280	2790040	and work with tech talent and whatnot.
+2790440	2793400	So there's a spidering proliferation of these groups.
+2794760	2796560	I don't know enough about their coordination
+2796560	2798280	to say if I feel good about that.
+2798280	2800000	My inkling is it's not amazing
+2800000	2802520	because defense is very complicated.
+2802520	2804640	But yeah, DARPA still, I would say the best known
+2804640	2806600	to the best of my knowledge.
+2806600	2808960	But luckily it's proliferating.
+2808960	2809960	Excellent.
+2809960	2812520	Based on the data and understanding
+2812520	2814640	that you have gathered within these years,
+2814640	2818720	you must have some kind of end game kind of a picture
+2818720	2822280	for US AI supremacy and Chinese AI supremacy.
+2822280	2824200	Do you have something like that?
+2824200	2825960	I do, I've written an article on it.
+2825960	2830760	So what are some of the drastic contrast
+2830760	2832360	between those kind of words?
+2832360	2837040	The word where AI is driven by a US supremacy
+2837040	2840200	or the world that AI is driven by Chinese supremacy?
+2841360	2844120	Yeah, you know, I try my hardest
+2844120	2847480	to not think about that as my default frame.
+2847520	2848800	It's very hard not to
+2848800	2850680	because of the whole Thucydides trap
+2850680	2854440	and because of the level of tension
+2854440	2856200	that we're dealing with right now.
+2857600	2860920	But in my heart of hearts as a first swing,
+2860920	2863640	I have an article called We Unite or We Fight,
+2863640	2867480	so E-M-E-R-J, We Unite or We Fight,
+2867480	2870120	which is really around getting on the same page.
+2871200	2873320	It's a horrible word, but same-pagedness,
+2873320	2874920	we could call it solidarity,
+2874920	2878840	around what kind of 10-year, 20-year,
+2878840	2883280	even maybe longer, visions we want for a global society
+2883280	2885600	and being able to somewhere agree on that,
+2885600	2889680	to align and have transparency and steering,
+2889680	2891080	shared transparency and steering
+2891080	2894680	around where the big trajectory actually goes.
+2894680	2897920	That said, I'm not necessarily an optimist
+2897920	2901560	to that same-pagedness between China as it stands today
+2901560	2904520	and the US is really all that possible.
+2904560	2907880	If China had the government of Japan, for example,
+2909800	2913840	I probably really wouldn't be all that democratic nation.
+2913840	2915760	I mean, I just don't really think
+2915760	2918880	there's gonna be that many problems with that.
+2918880	2922080	I mean, Japan's a different ballgame than us,
+2922080	2925800	but democracy-wise, and people are people,
+2925800	2928080	there's no issues with individual Chinese folks
+2928080	2932560	by any means, but yeah, I feel as though
+2932560	2934600	the kind of global solidarity and alignment
+2934600	2936480	that would be required to get on the same page
+2936480	2938480	about what are we to turn into,
+2938480	2940120	what is the human experience to be,
+2940120	2942560	what is the global community to bloom into
+2942560	2944000	beyond the present human experience,
+2944000	2945960	because we're not really gonna be able to stop that train,
+2945960	2947120	hopefully we can guide it,
+2947120	2948680	hopefully it can be something other than war
+2948680	2950640	that drives it forward.
+2950640	2954600	So that article articulates what my hoped vision would be,
+2954600	2957640	which is not war, which is solidarity,
+2958800	2961000	but I'll tell you, to get to that solidarity,
+2962720	2964920	that's, there's gotta be a smarter guy than me for that one.
+2964920	2968200	Sometimes just parts come from different kind of
+2968200	2969880	experience and background.
+2969880	2972320	It's been true with certain religions that
+2973440	2976200	some religions, they just do not wanna get along
+2976200	2978520	with other religions or other competitors.
+2978520	2979960	They demand submission.
+2979960	2981240	That's what they're demanding.
+2981240	2984760	However, we fool ourselves in this part of the world.
+2984760	2989360	That doesn't change their status quo and default state.
+2989360	2992520	So it seems like there is a fundamental disconnect
+2993480	2995000	between the Chinese Communist Party,
+2995000	2998320	and I'm not dividing based on good and bad
+2998320	3002400	or any kind of ethical or moral judgment,
+3002400	3005320	but they're just coming from a very different kind of a place
+3005320	3008000	and looking for a very different kind of an outcome
+3008000	3010400	than the United States.
+3011800	3014000	I think that is certainly the case.
+3014880	3017560	What I will say about the United States,
+3017560	3021160	as absolutely horrible as I think we're doing right now
+3021160	3023480	on the global stage from Trump to you name it.
+3023480	3028480	I mean, as just brutal as our perception is globally,
+3028640	3031720	our value prop is, it ain't that bad.
+3031720	3033040	It ain't that bad, man.
+3033040	3037400	I mean, there's a lot of countries that dig our value prop
+3037400	3040000	more than whatever they were rocking with
+3040000	3041000	before they had it.
+3041000	3044360	And I'm now, am I advocating for colonial,
+3044360	3045960	not even freaking close, right?
+3045960	3047360	But somebody would misinterpret that
+3047360	3050520	because that's the world we live in right now.
+3050520	3053280	What I will say is that just as a culture,
+3053280	3055840	the general value prop I think is really strong.
+3055840	3058360	It's very hard for China to,
+3058360	3062000	so I believe there's a permutation of a Machiavelli quote,
+3062000	3064320	something akin to, and this might be bastardized
+3064320	3066320	and I apologize, but something akin to,
+3066320	3071320	when you take over a country or a county or what have you,
+3071320	3073920	you have the choice to let them keep their arms
+3073920	3076000	or to take away their arms.
+3076000	3077920	But you can't let them keep their arms
+3077920	3080160	and then later take away their arms.
+3080160	3082880	And I think that when it comes to China
+3082880	3086680	selling their value proposition to other countries,
+3086680	3089560	those countries would have to be at brutal war
+3089560	3091240	with each other for a very long time
+3091240	3094200	and essentially lose all semblance of a stable democracy
+3094200	3098760	before you would say yay to the kind of vulgar tyranny
+3098760	3101040	of the Chinese Communist Party.
+3101960	3106400	And so I think that the sale of their schtick
+3106400	3107880	is a tougher sell.
+3107880	3111360	And so if we have nothing else going for us in the States,
+3112280	3115560	it would be that you can tweet what you want,
+3115560	3120120	including about the man who purportedly runs the country
+3120120	3122720	and you're gonna go to bed just fine.
+3122720	3124680	Yeah, the fundamental American values,
+3124680	3129120	there I say constitutional values, absolutely.
+3129120	3133560	Dare you say, yeah, you're a Bible thumper, aren't you?
+3133560	3135760	Must be, and white supremacists, I guess.
+3137920	3141240	Anyway, but yes, I just think about them as,
+3141240	3143920	in the OECD, I have a great,
+3143920	3148840	I have a really warm and abiding respect
+3148840	3151360	for the OECD as an organization.
+3151360	3154400	I really recommend people interested in solidarity,
+3154400	3156440	certainly in sort of the broad Western dynamic
+3156440	3159200	versus the hardcore communism
+3159200	3161040	to learn more about the OECD,
+3161040	3163680	but they refer to it as like-minded nations, right?
+3163680	3165480	It's not any one person's constitution.
+3165480	3167160	It's just, can you say what you want
+3167160	3168400	and nobody breaks your legs?
+3168400	3170760	Can you pray to what you want and nobody breaks your legs?
+3170760	3172720	Can you come together and congregate how you want
+3172720	3174080	and nobody breaks your legs?
+3174080	3177040	It's just basic stuff, it's just basic stuff.
+3177040	3178360	So for me, it's not even constitutional,
+3178360	3179960	it's just like-minded nations
+3179960	3183600	where somewhat essential sort of freedoms,
+3183600	3186400	as far back as Greece or we wanna tie to John Locke
+3186400	3188320	or I don't really care who gets the credit,
+3188320	3190600	just the kinds of freedoms that we enjoy, right?
+3190600	3193040	So I can extrapolate it even beyond the constitution
+3193040	3193920	if we wanted to.
+3193920	3195120	Yeah, interesting.
+3195120	3198680	Transparency is the key, definitely.
+3198680	3201120	Are you at all confident and optimistic
+3201120	3204600	about decentralization on the basis of blockchain
+3204600	3206200	to reach some of these goals?
+3210200	3213400	I don't know enough about blockchain
+3213400	3215760	to have a square opinion there.
+3215760	3217520	What I will tell you is this,
+3217520	3220240	there appears to be very little blockchain
+3220240	3224320	tinkering its way into the actual enterprise right now.
+3224320	3225840	Now, the same could be said of AI,
+3225840	3228960	but AI is much farther along in let's say big banks,
+3228960	3233360	big media companies, e-commerce, manufacturing.
+3233360	3236400	Artificial intelligence is eking its way in in the corners.
+3236400	3238760	I'm not saying it's easy and at a fun time,
+3238760	3239920	but it's making a difference.
+3239920	3241880	It's clearly going to be transformative.
+3241880	3243920	Blockchain, I don't think that the use cases
+3243920	3246080	are so nascent that I really don't have firm opinions.
+3246080	3248000	When I look at the intersection of blockchain and AI,
+3248000	3249640	which I have done some research on,
+3252560	3253560	it's nascent to the point
+3253560	3255400	where I literally don't care about it yet.
+3255400	3257960	I mean, didn't you talk about that with Ben Gertzell?
+3257960	3260400	Because Ben Gertzell's Singularity Net is-
+3260400	3263720	And I have a tremendous respect for Gertzell, by the way.
+3263720	3266960	I mean, I consider Gertzell, in my personal opinion,
+3266960	3270240	he's one of probably four living intellectuals
+3270240	3273360	who I would say have really influenced my thought
+3273400	3278120	and who I consider to be toweringly intelligent.
+3278120	3281200	And so I have a great respect for Gertzell.
+3281200	3284360	But yeah, I mean, and I hope his firm succeeds.
+3284360	3285200	I'm rooting for him.
+3285200	3286480	I'm rooting for Singularity Net.
+3286480	3289920	It still seems to me to be a great many different ideas
+3289920	3291760	that they're exploring in terms of what the business model
+3291760	3293040	will be and how it's going to work out.
+3293040	3295280	And if anybody can do it, hopefully it's him.
+3295280	3296120	But I think-
+3296120	3297120	Yeah, what can lead to AGI?
+3297120	3299320	That's the thing, because we don't really know
+3299320	3302080	what can lead to AGI at this point.
+3302080	3302960	That's exactly it.
+3303520	3304360	Yeah, we don't have a clue yet.
+3304360	3306000	So Ben's got some theories, though,
+3306000	3308360	and he's got more informed theories than me.
+3308360	3310200	He's been thinking about it since I was five years old.
+3310200	3311840	Fascinating, fascinating individual.
+3313480	3316840	We talked about having an hour long conversation,
+3316840	3318560	so I don't wanna leak.
+3318560	3320360	Yeah, you have a two o'clock, unfortunately.
+3320360	3321200	Okay.
+3321200	3322040	I'm gonna blast with you.
+3322040	3322860	It's been a real fun day.
+3322860	3323700	Yeah, man.
+3323700	3326000	Dan's website is emerge.com.
+3326000	3328280	Go there and find all the other information.
+3328280	3331800	Let me ask you the last question I ask all my guests.
+3331800	3334040	That if you come across an intelligent alien
+3334040	3335520	from a different civilization,
+3335520	3339080	what would you say is the worst thing humanity has done?
+3339080	3341680	And what would you say is our greatest achievement?
+3343400	3344520	Good gracious, brother.
+3344520	3345800	I have no idea.
+3345800	3347600	What is the worst thing we've done?
+3348720	3353600	Well, I mean, tribal and religious wars seem pretty rough.
+3353600	3354760	That's a very big umbrella.
+3354760	3356620	I apologize for the vagary there.
+3357920	3361280	And in terms of the best things that we've done,
+3361640	3366640	I think it's determined ways to both govern ourselves
+3367080	3369320	and progress forward in terms of our potential
+3369320	3373360	at the same time with reasonable periods of peace.
+3373360	3374880	I think that that's a worthy,
+3374880	3379000	it's a laudable achievement for hairless apes like ourselves.
+3379000	3381520	And I think we can deserve a pat on the back for that one.
+3381520	3383360	I think that's a worthy achievement for hairless apes like ourselves.
+3411520	3412760	I think that's a worthy achievement for hairless apes like ourselves.
